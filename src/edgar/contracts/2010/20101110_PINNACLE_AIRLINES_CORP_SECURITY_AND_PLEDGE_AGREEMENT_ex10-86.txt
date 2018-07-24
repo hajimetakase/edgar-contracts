@@ -1,0 +1,1011 @@
+ EX-10.86 9 ex10-86.htm EXHIBIT 10.86 SECURITY AND PLEDGE AGREEMENT
+Exhibit 10.86
+ 
+
+ 
+CERTAIN PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED AND FILED SEPARATELY 
+WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A REQUEST FOR 
+CONFIDENTIAL TREATMENT.  THE SYMBOL “[***]” HAS BEEN INSERTED IN PLACE OF 
+THE PORTIONS SO OMITTED.
+ 
+
+
+Execution
+ 
+SECURITY AND PLEDGE AGREEMENT
+ 
+ 
+This Security and Pledge Agreement (this “Agreement”), dated as of July 1, 
+2010, is made by and among PINNACLE AIRLINES CORP., a corporation organized 
+under the laws of the State of Delaware (“PAC”), and MESABA AVIATION, INC., 
+a corporation organized under the laws of the State of Minnesota (“Mesaba
+”; and, together with PAC, individually a “Grantor” and, collectively, the 
+“Grantors”), and DELTA AIR LINES, INC., a corporation organized under the 
+laws of the State of Delaware, in its capacity as the holder of the 
+Promissory Note referred to below (in such capacity, the “Secured Party”).
+ 
+W H E R E A S
+ 
+The Secured Party, PAC and Mesaba have entered into that certain Stock 
+Purchase Agreement of even date herewith (as may be amended, supplemented 
+or modified from time to time, the “Purchase Agreement”), pursuant to which 
+the Secured Party will sell and transfer to PAC and PAC will purchase and 
+acquire from the Secured Party all of the outstanding shares of capital 
+stock of Mesaba on the terms and conditions set forth in the Purchase 
+Agreement.
+ 
+Pursuant to the Purchase Agreement, PAC, Mesaba and Pinnacle Airlines, 
+Inc., a corporation organized under the laws of the State of Georgia (“PAI
+” and, together with PAC and Mesaba, individually, a “Borrower” and 
+collectively, the “Borrowers”) executed and delivered to the Secured Party 
+a joint and several Promissory Note of even date herewith in the original 
+principal amount of $62,000,000 (together with all amendments and other 
+modifications, if any, from time to time thereafter made thereto, the “
+Promissory Note”).
+ 
+Each of the Grantors is required to execute and deliver this Agreement as a 
+condition to the obligations of the Secured Party to consummate the 
+transactions contemplated by the Purchase Agreement and the Promissory 
+Note.
+ 
+Each Grantor finds it advantageous, desirable and in its best interests to 
+comply with the requirement that it execute and deliver this Agreement to 
+the Secured Party.
+ 
+A C C O R D I N G L Y
+ 
+In consideration of the premises and other good and valuable consideration, 
+the receipt and adequacy of which are hereby acknowledged, the parties 
+hereto hereby agree as follows:
+
+  	
+--
+ 
+
+ 
+1
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+Section 1.  Defined Terms.
+ 
+    (a)           Capitalized terms defined in the Promissory Note have the
+    meanings given in the Promissory Note unless otherwise defined herein. 
+    Further, as used in this Agreement, the following terms shall have the
+    meanings indicated:
+ 
+    “Affiliate” means, as to any Person, any other Person that, directly or
+    indirectly, is in control of, is controlled by, or is under common
+    control with, such Person.  For the purposes of this definition,
+    “control” of a Person means the power, directly or indirectly, to
+    direct or cause the direction of the management and policies of such
+    Person, whether through the ownership of voting securities, by contract
+    or otherwise.
+ 
+    “Agreement” has the meaning given in the preamble.
+ 
+    “Borrower” and “Borrowers” each have the meanings given in the
+    recitals.
+ 
+    “Capital Stock” means any and all shares, interests, participations or
+    other equivalents (however designated) of capital stock of a
+    corporation, any and all equivalent ownership interests in a Person
+    (other than a corporation) and any and all warrants, rights or options
+    to purchase any of the foregoing.
+ 
+    “Collateral” has the meaning given in Section 2.
+ 
+    “Equipment” means the equipment described on Exhibit C.
+ 
+    “Excluded Liens” means liens of the type described in clauses (ii) and
+    (vii) of the definition of Permitted Liens.
+ 
+    “Financing Statement” means any financing statement under the UCC used
+    to perfect and preserve a security interest under the laws of any
+    jurisdiction.
+ 
+    “Governmental Authority” means any nation or government, any state or
+    other political subdivision thereof, any agency, authority,
+    instrumentality, regulatory body, court, central bank or other entity
+    exercising executive, legislative, judicial, taxing, regulatory or
+    administrative functions of or pertaining to government.
+ 
+    “Grantor” and “Grantors” each have the meaning given in the preamble.
+ 
+    “Liens” means any mortgage, pledge, hypothecation, assignment, security
+    deposit, arrangement, encumbrance, lien (statutory or other), charge or
+    other security interest or security agreement of any kind or nature
+    whatsoever (including, without limitation, any conditional sale or
+    other title retention agreement and any other capital lease having
+    substantially the same economic effect as any of the foregoing).
+ 
+    “PAC” has the meaning given in the preamble.
+ 
+    “PAI” has the meaning given in the recitals.
+
+  	
+--
+ 
+
+ 
+2
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+    “Person” means an individual, partnership, corporation, limited
+    liability company, business trust, joint stock company, trust,
+    unincorporated association, joint venture, Governmental Authority or
+    other entity of whatever nature.
+ 
+    “Pledged Equity” means all Capital Stock of Mesaba issued as of the
+    date hereof or hereafter.
+ 
+    “Proceeds” has the meaning assigned that term under the Uniform
+    Commercial Code as in effect in any relevant jurisdiction and, in any
+    event, shall include, but not be limited to, any and all (i) proceeds
+    of any insurance, indemnity, warranty or guarantee payable to the
+    Secured Party or to any Grantor or any Affiliate of any Grantor from
+    time to time with respect to any of the Collateral, (ii) payments (in
+    any form whatsoever) made or due and payable to any Grantor from time
+    to time in connection with any requisition, confiscation, condemnation,
+    seizure or forfeiture of all or any part of the Collateral by any
+    Governmental Authority (or any Person acting under color of
+    Governmental Authority), (iii) instruments representing obligations to
+    pay amounts in respect of the Collateral, (iv) products of the
+    Collateral, and (v) other amounts from time to time paid or payable
+    under or in connection with any of the Collateral.
+ 
+    “Promissory Note” has the meaning given in the recitals.
+ 
+    “Purchase Agreement” has the meaning given in the recitals.
+ 
+    “Obligations” means each Borrower’s obligations in respect of the due
+    and punctual payment of principal and interest on the amounts owed
+    under the Promissory Note when and as due, whether by acceleration or
+    otherwise, and all fees, expenses, indemnities, reimbursements and
+    other obligations of each Borrower under the Promissory Note or this
+    Agreement (including all interest, fees, costs and other charges
+    accruing after the commencement of any case, proceeding or other action
+    relating to the bankruptcy, insolvency or reorganization of any
+    Borrower, whether or not allowed in such proceeding or other action),
+    in all cases whether now existing or hereafter arising or incurred and
+    whether direct or indirect, due or to become due, absolute or
+    contingent, primary or secondary, liquidated or unliquidated, or sole,
+    joint, several or joint and several.
+ 
+    “Related Voting Rights” means any and all voting rights related to or
+    arising out of any Capital Stock constituting Collateral.
+ 
+    “Requirements of Law” means, as to any Person, the certificate of
+    incorporation and bylaws or other organizational or governing documents
+    of such Person, and any law, treaty, rule or regulation or
+    determination of an arbitrator or a court of other Governmental
+    Authority, in each case applicable to or binding upon such Person or
+    any of its property or to which such Person or any of its property is
+    subject.
+ 
+    “Secured Party” has the meaning given in the preamble.
+ 
+    “Security Interest” means the security interest granted hereunder.
+
+  	
+--
+ 
+
+ 
+3
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+    “UCC” means the Uniform Commercial Code as in effect in the State of
+    New York or other relevant jurisdiction.
+ 
+    (b)           All terms defined in the UCC and not otherwise defined
+    herein have the meanings assigned to them in the UCC (and specifically
+    in Article 9 of the UCC, in the case of the definition of
+    “instrument”), except that, to the extent the definition of any
+    category or type of Collateral is expanded by any amendment,
+    modification or revision to the UCC, such expanded definition will
+    apply automatically as of the date of such amendment, modification or
+    revision.
+ 
+    (c)           The words “hereof,” “herein” and “hereunder” and words of
+    similar import when used in this Agreement shall refer to this
+    Agreement as a whole and not to any particular provision of this
+    Agreement.  References to Sections, Exhibits, schedules and like
+    references are to this Agreement unless otherwise expressly provided
+    and shall be deemed to include any modification, amendment or
+    restatement of the same.  The words “include,” “includes” and
+    “including” shall be deemed to be followed by the phrase “without
+    limitation.”  Unless the context in which used herein otherwise clearly
+    requires, “or” has the inclusive meaning represented by the phrase
+    “and/or.”  The singular includes the plural and the plural, the
+    singular unless the context otherwise clearly requires.  All
+    incorporations by reference of covenants, terms, definitions or other
+    provisions from other agreements are incorporated into this Agreement
+    as if such provisions were fully set forth herein, and such
+    incorporation shall include all necessary definitions and related
+    provisions from such other agreements but including only amendments
+    thereto agreed to by the Secured Party, and shall survive any
+    termination of such other agreements until such time as the Promissory
+    Note and all Obligations have been paid in full and terminated.
+ 
+Section 2.  Security Interest.
+ 
+    (a)           As security for the payment and performance of all of the
+    Obligations, each Grantor hereby pledges and grants to the Secured
+    Party a security interest in all of such Grantor’s right, title, and
+    interest in, to and under the following, whether now or hereafter
+    owned, existing, arising or acquired by such Grantor and wherever
+    located (collectively, the “Collateral”):
+ 
+       (i)           the Equipment;
+ 
+       (ii)           the Pledged Equity;
+ 
+       (iii)           to the extent not otherwise included in the
+       foregoing clauses (i) and (ii), all books, records, and other
+       documents, and all general intangibles, relating to any of the
+       foregoing; and
+ 
+       (iv)           all Proceeds of any of the foregoing.
+
+  	
+--
+ 
+
+ 
+4
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+(b)           The Secured Party hereby agrees that the security interests 
+and Liens in any Collateral constituting Pledged Equity (together with any 
+Collateral of the type described in clauses 2(a)(iii) and (iv) arising out 
+of, or related to, the Pledged Equity) shall be deemed to be immediately 
+released and discharged with respect to such Collateral (i) in the event of 
+a merger, dissolution or consolidation otherwise permitted by the terms of 
+the Promissory Note or (ii) if the outstanding principal amount owed under 
+the Promissory Note is less than $10 million.  Upon such release and 
+discharge, the Secured Party shall, at the Grantors’ sole expense, take all 
+required actions and execute and deliver all required documents to effect 
+such release and discharge, including the return to the Grantors of any 
+blank stock power with respect to the Pledged Equity and the filing of 
+appropriate UCC amendment or termination statements.
+ 
+Section 3.  Assignment of Insurance.  The Grantors hereby assign to the 
+Secured Party, as additional security for the payment of the Obligations, 
+any and all moneys (including but not limited to proceeds of insurance and 
+refunds of unearned premiums) due or to become due under, and all other 
+rights of the Grantors under or with respect to, any and all policies of 
+property or casualty insurance covering the Collateral, to the extent such 
+moneys and other rights are due or arise in respect of the Collateral, and 
+the Grantors hereby direct the issuer of any such policy to pay any such 
+moneys directly to the Secured Party upon request of the Secured Party 
+(which request the Secured Party shall make only following the occurrence 
+and during the continuance of an Event of Default).  After the occurrence 
+and during the continuance of an Event of Default, the Secured Party may 
+(but need not), in its own name or in the name of the Grantors, execute and 
+deliver proofs of claim, receive all such moneys, endorse checks and other 
+instruments representing payment of such moneys, and adjust, litigate, 
+compromise or release any claim against the issuer of any such policy.
+ 
+Section 4.  Certain Representations, Warranties and Covenants.  Each 
+Grantor represents and warrants as of the date hereof (it being agreed that 
+any representation or warranty made herein with respect to Mesaba shall be 
+made solely with respect to the time period after the Closing Date (as such 
+term is defined in the Purchase Agreement)) and covenants as follows:
+
+  	
+--
+ 
+
+ 
+5
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+    (a)           Title.  One of the Grantors (i) as of the date hereof, is
+    the legal and beneficial owner of, and has good title to each item of
+    Collateral in existence on the date hereof, free and clear of all Liens
+    other than Permitted Liens (excluding the Excluded Liens) and (ii) will
+    have, at the time any Grantor acquires any rights in Collateral
+    hereafter arising, good title to each such item of Collateral free and
+    clear of all Liens other than Permitted Liens (excluding the Excluded
+    Liens).  Each Grantor will keep all Collateral free and clear of all
+    Liens other than Permitted Liens (excluding the Excluded Liens) and
+    will defend the Collateral against all claims or demands, other than
+    claims and demands based on Permitted Liens (excluding the Excluded
+    Liens).  No Grantor will sell, transfer (including a transfer to an
+    Affiliate of a Grantor) or otherwise dispose of any Collateral or any
+    interest therein without the prior written consent of the Secured
+    Party, except, with respect to any Pledged Equity, in connection with
+    any merger or dissolution otherwise permitted by the Promissory Note. 
+    Subject to Section 2(b), in the event any Affiliate of a Grantor that
+    is not a party to this Agreement acquires title to any of the
+    Collateral, the Grantors will promptly, and in any event within twenty
+    (20) Business Days, cause such Affiliate to become a party to this
+    agreement as an additional grantor and to execute and deliver such
+    documents and take such actions to create, grant, establish, preserve
+    and perfect the Liens of the Secured Party to the extent required under
+    this Agreement and the Promissory Note.
+ 
+    (b)           Power and Authority.  As of the date hereof, each Grantor
+    has the corporate power and authority to perform such Grantor’s
+    obligations hereunder and to subject the Collateral to the Security
+    Interest.
+ 
+    (c)           Legal Name; Jurisdiction; Chief Executive Office;
+    Identification Numbers.  Exhibit A hereto sets forth, as of the date
+    hereof, each Grantor’s correct legal name (as set forth in its
+    constituent documents filed with the appropriate governmental official
+    or agency), jurisdiction of organization and address of its chief
+    executive office, and federal employer identification number.  Exhibit
+    B hereto sets forth, with respect to PAC only, each other corporate
+    name, trade name or similar appellation such Grantor has used in the
+    past five (5) years.  Each Grantor, as of the date hereof, has only one
+    state of incorporation or organization.  No Grantor will change its
+    name, jurisdiction of organization or chief executive office without
+    thirty (30) days’ prior written notice to the Secured Party.
+ 
+    (d)           Absence of Certain Financing Statements.  As of the date
+    hereof, no Financing Statement covering all or any part of the
+    Collateral is on file and effective in any recording office, except
+    such as may have been filed in favor of the Secured Party relating to
+    this Agreement.
+
+  	
+--
+ 
+
+ 
+6
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+    (e)           Fixtures.  The Grantors will not permit any tangible
+    Collateral to be or become part of or to be affixed to any real
+    property without first assuring to the reasonable satisfaction of the
+    Secured Party that the Security Interest will be prior and senior to
+    any Lien then held or thereafter acquired by any mortgagee of such real
+    property or the owner or purchaser of any interest therein.
+ 
+    (f)           Capital Stock.  Exhibit D is a correct and complete list
+    of the quantity of authorized and issued Capital Stock of each Person
+    whose Capital Stock is included in the Pledged Equity as of the date
+    hereof.  The Pledged Equity as of the date hereof is fully paid for and
+    non-assessable.  Each Grantor will, upon receipt, deliver to the
+    Secured Party in pledge as additional Collateral all securities or
+    certificates distributed on account of the Pledged Equity or any other
+    Collateral, including stock dividends and securities resulting from
+    stock splits, reorganizations and recapitalizations, and all other
+    shares of any class of Capital Stock of Mesaba now owned or hereafter
+    acquired by such Grantor for any reason whatsoever, together in each
+    case with blank powers executed by such Grantor.  Prior to any of the
+    foregoing deliveries, each Grantor shall hold all such certificates or
+    instruments, if any, in trust for the benefit of the Secured Party.
+ 
+    (g)           Evidence of Collateral.  Each Grantor will (i) promptly
+    (upon receipt) deliver to the Secured Party all certificates or
+    instruments representing or constituting its Collateral, if any, and
+    (ii) duly endorse, in blank, each and every certificate or instrument
+    constituting its Collateral, if any, by signing on said certificate or
+    instrument or by signing a separate document of assignment or transfer,
+    as required by the Secured Party.  Prior to any of the foregoing
+    deliveries, each Grantor shall hold all such certificates or
+    instruments, if any, in trust for the benefit of the Secured Party.
+ 
+    (h)           Miscellaneous Covenants. Each Grantor will:
+ 
+       (i)           Keep all of its tangible Collateral in good working
+       order and condition, ordinary wear and tear excepted and from time
+       to time make in such Collateral all needed and proper repairs,
+       renewals, replacements, extensions, additions, betterments and
+       improvements thereto, to the extent and in the manner customary for
+       companies of established repute in the same general area in similar
+       businesses.
+ 
+       (ii)           Promptly pay all taxes and other governmental charges
+       levied or assessed upon or against any of its Collateral or upon or
+       against the creation, perfection or continuance of the Security
+       Interest except to the extent contested in good faith and by
+       appropriate proceedings promptly instituted and diligently pursued. 
+       Without limiting the generality of the forgoing, all interest earned
+       upon its Collateral shall be reported to the Internal Revenue
+       Service and all state and local taxing authorities as required by
+       applicable law under the name and taxpayer identification number of
+       the applicable Grantor.
+
+  	
+--
+ 
+
+ 
+7
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+       (iii)           Not permit any of its tangible Collateral to be
+       located in any jurisdiction in which a Financing Statement covering
+       such Collateral is required to be, but has not in fact been, filed
+       in order to perfect the Security Interest or in which any other
+       action is required to be, but has not in fact been, taken in order
+       to perfect the Security Interest.
+ 
+       (iv)           Not permit any issuer of any Pledged Equity that is
+       not a security (as defined in the UCC) on the date hereof to elect
+       or otherwise take any action to cause such Capital Stock to be
+       treated as a security under the UCC without the prior written
+       consent of the Secured Party.
+ 
+       (v)           From time to time upon the request of the Secured
+       Party, take such actions as the Secured Party may reasonably deem
+       necessary to cause any Capital Stock that is or evidences Collateral
+       to be a security under the UCC.
+ 
+       (vi)           Execute, deliver or endorse any and all assignments,
+       security agreements, control agreements and other agreements and
+       writings that the Secured Party may at any time reasonably request
+       in order to secure, protect, perfect or enforce the Security
+       Interest and the Secured Party’s rights under this Agreement.
+ 
+       (vii)           Not use or keep any Collateral, or permit any
+       Collateral to be used or kept, for any unlawful purpose or in
+       violation of any applicable federal, state or local law, statute or
+       ordinance, except to the extent that so using or keeping such
+       Collateral could not reasonably be expected to materially impair
+       rights of the Grantor or the Secured Party in such Collateral or to
+       result in a forfeiture of such Collateral.
+ 
+       (viii)           Not amend or terminate any Financing Statement
+       naming the Secured Party as secured party except upon written prior
+       authorization of the Secured Party or upon the payment in full of
+       all Obligations and the termination of this Agreement and the
+       Promissory Note, except as provided in Section 9-509(d)(2) of the
+       UCC.
+
+  	
+--
+ 
+
+ 
+8
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+    (i)           Secured Party’s Right to Take Action. After the
+    occurrence and during the continuance of an Event of Default, to the
+    extent not otherwise prohibited or restricted by applicable law or the
+    terms or conditions of any applicable contracts or agreements, the
+    Secured Party may (but need not) perform or observe such agreement on
+    behalf and in the name, place and stead of the Grantors (or, at the
+    Secured Party’s option, in the Secured Party’s own name) and may (but
+    need not) take any and all other actions that the Secured Party may
+    reasonably deem necessary to cure or correct such failure (including,
+    without limitation, the payment of taxes, the satisfaction of Liens,
+    the performance of obligations under contracts or agreements with
+    account debtors or other obligors, the procurement and maintenance of
+    insurance, the endorsement of instruments, and the procurement of
+    repairs, transportation or insurance); and, except to the extent that
+    the effect of such payment would be to render any loan or forbearance
+    of money usurious or otherwise illegal under any applicable law, the
+    Grantors shall thereupon pay the Secured Party on demand the amount of
+    all moneys expended and all reasonable costs and expenses (including
+    reasonable and documented attorneys’ fees) incurred by the Secured
+    Party in connection with or as a result of the Secured Party’s
+    performing or observing such agreements or taking such actions,
+    together with interest thereon from the date expended or incurred by
+    the Secured Party at the default rate then applicable to any of the
+    Obligations.  To facilitate the performance or observance by the
+    Secured Party of such agreements of the Grantors, each Grantor hereby
+    irrevocably appoints (which appointment is coupled with an interest)
+    the Secured Party, or its delegate, as the attorney-in-fact of such
+    Grantor with the right (but not the duty) from time to time after the
+    occurrence and during the continuance of an Event of Default to create,
+    prepare, complete, execute, deliver, endorse or file, in the name and
+    on behalf of such Grantor, any and all instruments, documents,
+    applications for insurance and other agreements and writings required
+    to be obtained, executed, delivered or endorsed by the Grantors under
+    this Section (4)(i) or any other provision hereof.
+ 
+Section 5.  Remedies Upon Events of Default.  If any Event of Default shall 
+have occurred and be continuing:
+
+  	
+--
+ 
+
+ 
+9
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+    (a)           Acceleration; Sale and Other Rights and Remedies.  The
+    Secured Party may exercise any one or more of the following rights and
+    remedies: (i) declare all unmatured Obligations to be immediately due
+    and payable, and the same shall thereupon be immediately due and
+    payable, without presentment or other notice or demand; (ii) exercise
+    and enforce any or all rights and remedies available upon default to a
+    secured party under the UCC, including but not limited to the right to
+    take possession of any Collateral, proceeding without judicial process
+    or by judicial process (without a prior hearing or notice thereof,
+    which each Grantor hereby expressly waives), and the right to sell,
+    lease or otherwise dispose of any or all of the Collateral, and in
+    connection therewith, the Secured Party may require the Grantors to
+    make the Collateral available to the Secured Party at a place to be
+    designated by the Secured Party which is reasonably convenient to all
+    applicable parties, and if notice to the Grantors of any intended
+    disposition of Collateral or any other intended action is required by
+    law in a particular instance, such notice shall be deemed commercially
+    reasonable if given (in the manner specified in Section 11) at least
+    ten (10) Business Days prior to the date of intended disposition or
+    other action; (iii) exercise all Related Voting Rights; and (iv)
+    exercise or enforce any or all other rights or remedies available to
+    the Secured Party by law or agreement against the Collateral, against
+    the Grantors or against any other person or property.  The Secured
+    Party is hereby granted a nonexclusive, worldwide and royalty-free
+    license to use or otherwise exploit all trademarks, trade secrets,
+    franchises, copyrights and patents of the Grantors that the Secured
+    Party deems necessary or appropriate to the disposition of any
+    Collateral after the occurrence and during the continuation of an Event
+    of Default.  Each Grantor acknowledges that because of present or
+    future circumstances, a question may arise under the Securities Act of
+    1933, as from time to time amended (the “Securities Act”), with respect
+    to any disposition of the Collateral permitted hereunder and
+    understands that compliance with the Securities Act may very strictly
+    limit the course of conduct of the Secured Party if the Secured Party
+    were to attempt to dispose of all or any portion of the Collateral and
+    may also limit the extent to which or the manner in which any
+    subsequent transferee of the Collateral or any portion thereof may
+    dispose of the same.  There may be other legal restrictions or
+    limitations affecting the Secured Party in any attempt to dispose of
+    all or any portion of the Collateral under the applicable Blue Sky or
+    other securities laws or similar laws analogous in purpose or effect. 
+    The Secured Party may be compelled to resort to one or more private
+    sales to a restricted group of purchasers who will be obliged to agree,
+    among other things, to acquire such Collateral for their own account
+    for investment only and not to engage in a distribution or resale
+    thereof.  Each Grantor agrees that the Secured Party shall not incur
+    any liability, and any liability of a Grantor for any deficiency shall
+    not be impaired, as a result of the sale of the Collateral or any
+    portion thereof at any such private sale in a manner that the Secured
+    Party reasonably believes is commercially reasonable (within the
+    meaning of Section 9-627 of the UCC).  Each Grantor hereby waives any
+    claims against the Secured Party arising by reason of the fact that the
+    price at which the Collateral may have been sold at such sale was less
+    than the
+
+  	
+--
+ 
+
+ 
+10
+------------------------------------------------------------------------
+ 
+
+ 
+    price that might have been obtained at a public sale or was less than
+    the aggregate amount of the Obligations, even if the Secured Party
+    shall accept the first offer received and does not offer any portion of
+    the Collateral to more than one possible purchaser.  Each Grantor
+    further agrees that the Secured Party has no obligation to delay sale
+    of any Collateral for the period of time necessary to permit the issuer
+    of such Collateral to qualify or register such Collateral for public
+    sale under the Securities Act, applicable Blue Sky laws and other
+    applicable state and federal securities laws, even if said issuer would
+    agree to do so. Without limiting the generality of the foregoing, the
+    provisions of this Section would apply if, for example, the Secured
+    Party were to place all or any portion of the Collateral for private
+    placement by an investment banking firm, or if such investment banking
+    firm purchased all or any portion of the Collateral for its own
+    account, or if the Secured Party placed all or any portion of the
+    Collateral privately with a purchaser or purchasers.
+ 
+    (b)           Direct Collection.  The Secured Party may notify any
+    Person obligated on any of the Collateral that such obligation has been
+    assigned or transferred to the Secured Party and that the same should
+    be performed as requested by, or paid directly to, the Secured Party,
+    as the case may be.  Any Grantor shall join in giving such notice, if
+    the Secured Party so requests.  The Secured Party may, in the Secured
+    Party’s name or in any Grantor’s name, demand, sue for, collect or
+    receive any money or property at any time payable or receivable on
+    account of, or securing, any such Collateral or grant any extension to,
+    make any compromise or settlement with or otherwise agree to waive,
+    modify, amend or change the obligation of any such Person.  Each
+    Grantor hereby irrevocably authorizes and directs each such Person to,
+    following the occurrence and during the continuance of an Event of
+    Default, remit any and all money and other property described in this
+    paragraph directly to the Secured Party in the Secured Party’s name
+    alone.  Such remittances shall continue to be made to the Secured Party
+    until the Secured Party otherwise notifies the Person in writing (which
+    notification shall be given by the Secured Party promptly upon the cure
+    of the relevant Event of Default).  To the extent that such remittances
+    are made directly to the Secured Party, the remitting entity shall have
+    no further liability to the Grantor for the same.
+ 
+Section 6.  Financing Statements; Further Assurances.  The Secured Party 
+may (and each Grantor hereby authorizes the Secured Party to) execute and 
+file such Financing Statements and other documents as the Secured Party may 
+at any time deem appropriate to perfect the Security Interest.  Without 
+limiting the generality of the foregoing, each Grantor authorizes, ratifies 
+and approves any Financing Statement filed by the Secured Party on or prior 
+to the date of this Agreement, a copy of which has been provided to such 
+Grantor.  Each Grantor agrees that from time to time, at its expense, it 
+will promptly execute and deliver all further instruments and documents, 
+and take all further action, that may be necessary or that the Secured 
+Party may reasonably request, in order to perfect and protect the Security 
+Interest granted or purported to be granted hereby or to enable the Secured 
+Party to exercise and enforce its rights and remedies hereunder with 
+respect to any Collateral (but any failure to request or assure that any 
+Grantor execute and deliver such instrument or documents or to take such 
+action shall not affect or impair the validity, sufficiency or 
+enforceability of this Agreement and the Security Interest, regardless of 
+whether any such item was or was not executed and delivered or action taken 
+in a similar context or on a prior occasion).
+
+  	
+--
+ 
+
+ 
+11
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+Section 7.  Secured Party’s Duties.  The powers conferred on the Secured 
+Party hereunder shall not impose any duty upon it to exercise any such 
+powers.  The Secured Party shall be deemed to have exercised reasonable 
+care in the safekeeping of any Collateral in its possession if such 
+Collateral is accorded treatment substantially equal to the safekeeping 
+that the Secured Party accords its own property of like kind.  Except for 
+the safekeeping of any Collateral in its possession and the accounting for 
+monies and for other properties actually received by it hereunder, the 
+Secured Party shall have no duty, as to any Collateral, as to ascertaining 
+or taking action with respect to calls, conversions, exchanges, maturities, 
+tenders or other matters relative to any Collateral, whether or not the 
+Secured Party has or is deemed to have knowledge of such matters, or as to 
+the taking of any necessary steps to preserve rights against any Persons or 
+any other rights pertaining to any Collateral.  The Secured Party will take 
+action in the nature of exchanges, conversions, redemption, tenders and the 
+like requested in writing by a Grantor with respect to any of the 
+Collateral in the Secured Party’s possession if the Secured Party in its 
+reasonable judgment determines that such action will not impair the 
+Security Interest or the value of the Collateral, but a failure of the 
+Secured Party to comply with any such request shall not of itself be deemed 
+a failure to exercise reasonable care.
+ 
+Section 8.  Application of Proceeds.  All cash proceeds received by the 
+Secured Party in respect of any sale of, collection from, or other 
+realization upon all or any part of the Collateral shall be applied from 
+time to time, at the election of the Secured Party, to principal and 
+interest owed by the Borrowers under the Promissory Note.
+ 
+Section 9.  Costs and Expenses.  Without limiting Section 10 of the 
+Promissory Note, each Grantor will pay or reimburse the Secured Party on 
+demand for all reasonable out-of-pocket expenses paid or incurred by the 
+Secured Party, including in each case all filing and recording fees and 
+taxes and all reasonable and documented fees and expenses of counsel 
+(determined on the basis of such counsel’s generally applicable rates, 
+which fees may be higher than the rates such counsel charges the Secured 
+Party in certain matters) incurred by the Secured Party in connection with 
+the creation, perfection, protection, satisfaction, foreclosure or 
+enforcement of the Security Interest and the preparation, administration, 
+continuance, amendment or enforcement of this Agreement.
+
+  	
+--
+ 
+
+ 
+12
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+Section 10.                      Waivers; Remedies; Marshalling.  This 
+Agreement can be waived, modified, amended, terminated or discharged, and 
+the Security Interest can be released, only explicitly in a writing signed 
+by the parties hereto.  A waiver so signed shall be effective only in the 
+specific instance and for the specific purpose given.  Mere delay or 
+failure to act shall not preclude the exercise or enforcement of any rights 
+and remedies available to the Secured Party.  All rights and remedies of 
+the Secured Party shall be cumulative and may be exercised singly in any 
+order or sequence, or concurrently, at the Secured Party’s option, and the 
+exercise or enforcement of any such right or remedy shall neither be a 
+condition to nor bar the exercise or enforcement of any other.  Each 
+Grantor hereby waives all Requirements of Law, if any, relating to the 
+marshalling of assets which would be applicable in connection with the 
+enforcement by the Secured Party of its remedies hereunder, absent this 
+waiver.  Without limiting the foregoing, each Grantor waives any right 
+(except as shall required by applicable statute and cannot be waived) to 
+require the Secured Party, before taking action against such Grantor or 
+such Grantor’s property, to (a) proceed against any other Grantor or any 
+other Person; (b) proceed against or exhaust any security granted by any 
+other Grantor or any other Person; or (c) pursue any other remedy in the 
+Secured Party’s or any other secured creditor’s power whatsoever.
+ 
+Section 11.                      Notices.  Except as otherwise specified 
+herein, all notices, requests, demands or other communications to or upon 
+the respective parties hereto shall be given, and deemed given, in 
+accordance with the Promissory Note.
+ 
+Section 12.                      Binding Effect.  This Agreement shall be 
+binding upon, and inure to the benefit of, each party hereto and its 
+respective successors, transferees and assigns.
+ 
+Section 13.  Governing Law.  THE VALIDITY, CONSTRUCTION AND ENFORCEABILITY 
+OF THIS AGREEMENT SHALL BE GOVERNED BY THE INTERNAL LAWS OF THE STATE OF 
+NEW YORK, WITHOUT GIVING EFFECT TO CONFLICT OF LAWS PRINCIPLES THEREOF.
+ 
+Section 14.  Waiver of Notice and Hearing.  TO THE EXTENT PERMITTED BY LAW, 
+EACH GRANTOR HEREBY WAIVES ALL RIGHTS TO A JUDICIAL HEARING OF ANY KIND 
+PRIOR TO THE EXERCISE BY THE SECURED PARTY OF ITS RIGHTS TO POSSESSION OF 
+THE COLLATERAL WITHOUT JUDICIAL PROCESS OR OF ITS RIGHTS TO REPLEVY, 
+ATTACH, OR LEVY UPON THE COLLATERAL WITHOUT PRIOR NOTICE OR HEARING.  EACH 
+GRANTOR ACKNOWLEDGES THAT IT HAS BEEN ADVISED BY COUNSEL OF ITS CHOICE WITH 
+RESPECT TO THIS PROVISION AND THIS AGREEMENT.
+ 
+Section 15.  Headings.  Section headings used in this Agreement are for 
+convenience of reference only and shall not affect the construction of this 
+Agreement.
+ 
+Section 16.  Counterparts.  This Agreement may be executed in any number of 
+counterparts, each of which when so executed and delivered shall be deemed 
+an original, but all such counterparts together shall constitute but one 
+and the same instrument.
+
+  	
+--
+ 
+
+ 
+13
+------------------------------------------------------------------------
+ 
+
+ 
+
+ 
+Section 17.  General.  All representations and warranties contained in this 
+Agreement shall survive the execution, delivery and performance of this 
+Agreement.  Each Grantor waives notice of the execution or acceptance of 
+this Agreement by the Secured Party.
+ 
+
+ 
+(Signature pages follow)
+
+  	
+--
+ 
+
+ 
+14
+------------------------------------------------------------------------
+ 
+
+
+ 
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date 
+first above written.
+  PINNACLE AIRLINES CORP.
+By: _______________________________
+  Name: ***
+  Title: Vice President and General Counsel
+  MESABA AVIATION, INC.
+By: _______________________________
+Name: ***
+  Title: Vice President
+ 
+
+
+Signature Page to Security and Pledge Agreement
+ 
+15
+------------------------------------------------------------------------
+ 
+
+ 
+ 
+DELTA AIR LINES, INC.
+ 
+
+ 
+                      By:                                                  
+                                           
+ 
+                      Name: ***
+ 
+                      Title: Senior Vice President—Delta Connection
+ 
+
+
+Signature Page to Security and Pledge Agreement
+ 
+16
+------------------------------------------------------------------------
+ 
+
+
+ 
+Exhibit A
+ 
+Grantor Information
+ 
+Legal Name
+Jurisdiction of Organization
+Chief Executive Office (mailing address)
+Federal EID
+Pinnacle Airlines Corp.
+Delaware
+1689 Nonconnah Blvd., Suite 111, Memphis, TN 38132
+***
+Mesaba Aviation, Inc.
+Minnesota
+1000 Blue Gentian Road, Suite 200, Eagan, MN 55121
+***
+ 
+
+ 
+
+
+ 
+17
+------------------------------------------------------------------------
+ 
+
+
+ 
+Exhibit B
+ 
+
+ 
+Additional PAC Information
+ 
+Express 1 Airlines, Inc.
+
+ 
+18
+------------------------------------------------------------------------
+ 
+
+ 
+Exhibit C
+ 
+Certain Equipment
+ 
+*** ***
+ 
+
+*** ***
+*** ***
+*** ***
+*** ***
+***
+***
+*** ***
+***
+***
+*** *** ***
+***
+***
+*** ***
+***
+*** ***
+*** ***
+***
+***
+*** ***
+***
+***
+*** *** *** ***
+***
+***
+***
+ 
+*** ***
+ 
+
+*** ***
+***
+***
+***
+***
+*** ***
+***
+***
+***
+***
+*** ***
+***
+***
+***
+***
+***
+***
+***
+***
+*** *** ***
+***
+***
+***
+***
+*** ***
+*** ***
+*** ***
+*** ***
+*** ***
+***
+*** ***
+*** ***
+***
+***
+*** ***
+***
+***
+***
+***
+*** *** *** ***
+***
+***
+***
+***
+ 
+
+ 
+Exhibit D
+ 
+Capital Stock
+ 
+
+Issuer
+Class/Par Value
+Authorized Shares
+Issued Shares
+Certificate No.
+Mesaba Aviation, Inc.
+Common Stock, $0.01 par value
+2,000
+1,000
+4
+ 
+
+
+ 
+19
+------------------------------------------------------------------------
+ 
+
