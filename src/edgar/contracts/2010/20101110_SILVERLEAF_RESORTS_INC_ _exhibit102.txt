@@ -1,0 +1,447 @@
+ EX-10.2 3 exhibit102.htm EXHIBIT 10.2
+ 
+
+ 
+Ex. 10.2
+ 
+THIRD AMENDMENT TO
+AMENDED AND RESTATED SALE AND SERVICING AGREEMENT
+ 
+THIRD AMENDMENT TO AMENDED AND RESTATED SALE AND SERVICING AGREEMENT (this 
+“Amendment”) dated as of August 6, 2010, by and among SILVERLEAF FINANCE 
+IV, LLC a Delaware limited liability company, as purchaser (the “Purchaser
+”), SILVERLEAF RESORTS, INC., a Texas corporation, as seller and servicer 
+(the “Seller”) and WELLS FARGO BANK, NATIONAL ASSOCIATION, a national 
+banking association, as trustee (the “Trustee”), Backup Servicer and 
+Account Intermediary.
+
+ 
+WHEREAS, the parties hereto have entered into the Amended and Restated Sale 
+and Servicing Agreement, dated as of December 22, 2006, by and among the 
+Purchaser, the Seller, and the Trustee (as amended from time to time, the 
+“Agreement”). Capitalized terms used in this Amendment have the meanings 
+given such terms in the Agreement, except as provided otherwise herein; and
+
+
+WHEREAS, Section 11.1 of the Agreement permits the Agreement to be amended 
+from time to time pursuant to the conditions set forth therein.
+
+
+NOW THEREFORE, in consideration of the above premises and for other good 
+and valuable consideration, the receipt and sufficiency of which are hereby 
+acknowledged, the parties hereto agree as follows:
+ 
+1.    
+Amendments.
+(a)    Section 3.1(a)(ii) of the Agreement is hereby amended by
+
+
+      (i)    replacing clause (B) thereof in its entirety with the
+      following:
+
+
+            “(B) after the pledge of each Related Receivable pursuant to
+            the Indenture, the weighted average Timeshare Loan Rate of all
+            the Eligible Timeshare Loans that are included in the
+            determination of Net Eligible Receivable Balance shall be no
+            less than 15% and the weighted average original term to
+            maturity of all the Eligible Timeshare Loans that are included
+            in the determination of Net Eligible Receivable Balance shall
+            not exceed 108 months;”
+             
+and
+             
+      (ii)    replacing clause (C) thereof in its entirety with the
+      following:
+
+
+            “(C) after the pledge of each Related Receivable pursuant to
+            the Indenture, the Aggregate Principal Balance of Eligible
+            Timeshare Loans with a related Obligor having a FICO score of
+            greater than or equal to 500 and less than 600 as of the date
+            of origination of such Timeshare Loan shall not exceed 7.00% of
+            the Aggregate Principal Balance of all Eligible Receivables;”.
+ 
+(b)    Article VII of the Agreement is hereby amended by adding the 
+following after Section 7.2 thereof:
+ 
+      “Section 7.3    Future Term Securitizations.    The Purchaser and the
+      Seller agree that
+
+1
+------------------------------------------------------------------------
+ 
+
+      in the event that Silverleaf (whether directly, or through or
+      involving any of its subsidiaries or affiliates) executes a term
+      securitization of timeshare loans during any period when there
+      remains any outstanding principal balance under the Notes (or under
+      the Class A Notes or Class B Notes, following the S&P Rating
+      Restructuring), not less than a pro rata amount of Timeshare Loans
+      (constituting the same proportion of Timeshare Loans, by outstanding
+      principal balance, that the aggregate principal amount of timeshare
+      loans to be securitized in such term securitization bears to the
+      aggregate principal amount of all timeshare loans, including the
+      Timeshare Loans, available to Silverleaf for inclusion in such term
+      securitization) shall be included as part of the timeshare loans
+      being securitized by purchase from the Purchaser (and Silverleaf
+      shall cause any of its subsidiaries or affiliates involved in such
+      term securitization to abide by such requirement). Such inclusion
+      shall be at a release price not less than the greater of (i) the
+      allocable principal amount advanced against such Timeshare Loans
+      under the term securitization plus all accrued and unpaid interest on
+      such Timeshare Loans as of the date of purchase and (ii) the amount
+      necessary to be received by the Purchaser and allocated as Available
+      Funds such that, after giving effect to the release and transfer of
+      such Timeshare Loans, no Borrowing Base Deficiency under the Notes
+      (or under the Class A Notes or Class B Notes, following the S&P
+      Rating Restructuring) would exist.”
+ 
+(c)    Exhibit B, “Eligibility Criteria” is hereby amended by
+ 
+      (i)    replacing clause (d) thereof, currently reading
+       
+            “(d)    as of the related Cutoff Date, no principal or interest
+            due with respect to the Timeshare Loan is thirty (30) days or
+            more delinquent;”
+       
+      in its entirety with the following:
+ 
+            “(d)    as of the related Cutoff Date (i) at least six (6)
+            consecutive Scheduled Receivable Payments on the Timeshare Loan
+            shall have been received (in each case in the full amount and
+            not more than thirty (30) days past the due date) and (ii) no
+            principal or interest due with respect to the Timeshare Loan is
+            thirty (30) days or more delinquent;”
+       
+and
+       
+      (ii)    replacing clause (iii) thereof, currently reading
+       
+            “(iii) The Obligor had a FICO Score of at least 500 at the time
+            such Obligor purchased the related Timeshare Property (except
+            with respect to Obligors for whom no FICO score is available,
+            to the extent permitted under clause (v) of the definition of
+            “Overconcentration Amount”).”
+       
+      in its entirety with the following:
+       
+            “(iii) The Obligor had a FICO Score of at least 500 at the time
+            such Obligor purchased the related Timeshare Property.”
+ 
+(d)    The following definitions are hereby added to Annex A, to appear in 
+correct alphabetical order:
+
+
+
+2
+------------------------------------------------------------------------
+ 
+
+            “Class A Notes” has the meaning assigned to such term in
+            Section 7.02(b) of the Note Purchase Agreement.
+             
+            “Class B Notes” has the meaning assigned to such term in
+            Section 7.02(b) of the Note Purchase Agreement.
+             
+            “Required Restructuring Event” has the meaning assigned to such
+            term in Section 7.02(b) of the Note Purchase Agreement.
+             
+            “S&P Rating Restructuring” has the meaning assigned to such
+            term in Section 7.02(b) of the Note Purchase Agreement.
+ 
+(e)    The definition of “Funding Termination Event” in Annex A is hereby 
+amended by deleting the “and” appearing before clause (vii) thereof and 
+adding the following after clause (vii) and before the ending period:
+
+
+            “; (viii) the failure of any of Silverleaf or the Purchaser to
+            comply with its undertakings in respect of obtaining a rating
+            of the Notes set forth in Section 7.02(a) of the Note Purchase
+            Agreement or to effect the S&P Rating Restructuring described
+            in Section 7.02(b) of the Note Purchase Agreement or to procure
+            the ratings on the Class A Notes and Class B Notes described in
+            Section 7.02(c) of the Note Purchase Agreement, in each case by
+            the respective dates required in such Section 7.02(a) and, in
+            respect of the S&P Rating Restructuring and procurement of
+            ratings on the Class A Notes and Class B Notes, Section
+            7.02(c), as applicable); and (ix) the failure of any of
+            Silverleaf or the Purchaser to comply with their respective
+            undertakings concerning future term securitizations as set
+            forth at Section 7.3 hereof.”
+ 
+(f)    The definition of “Net Spread” in Annex A is amended by replacing 
+the phrase in clause (x) thereof, currently reading
+ 
+            “(x) weighted average Timeshare Loan Rate of the Eligible
+            Timeshare Loans minus”
+ 
+in its entirety with the following:
+ 
+            “(x) weighted average Timeshare Loan Rate of the Eligible
+            Timeshare Loans included in the determination of Net Eligible
+            Receivable Balance minus”.
+ 
+(g)    The definition of “Note Interest Rate” in Annex A is amended by 
+replacing the proviso at the end of such definition, currently reading
+ 
+            “provided, however, that the Note Interest Rate will in no
+            event be higher than the maximum rate permitted by law”
+ 
+in its entirety with the following:
+ 
+            “provided, however, that the Note Interest Rate will in no
+            event (A) be less than 6.00% per annum (or 6.75% per annum,
+            following a failure to obtain the rating of the Notes described
+            in Section 7.02(a) of the Note Purchase Agreement or to effect
+            the S&P Rating Restructuring described in Section 7.02(b) of
+            the Note Purchase
+
+3
+------------------------------------------------------------------------
+ 
+
+            Agreement or to procure the ratings on the Class A Notes and
+            the Class B Notes described in Section 7.02(c) of the Note
+            Purchase Agreement, in each case by the respective dates
+            required in such Section 7.02(a) and, in respect of the S&P
+            Rating Restructuring and the procurement of the ratings on the
+            Class A Notes and Class B Notes, Section 7.02(c), as
+            applicable) or (B) be higher than the maximum rate permitted by
+            law.”
+ 
+(h)    The definition of “Noteholder Excess Principal Event” is hereby 
+amended by inserting the phrase “included in the determination of Net 
+Eligible Receivable Balance” immediately following each of the following 
+phrases contained in clauses (iii)(B), (iii)(D) and (iii)(E) therein, 
+respectively: “related to the Eligible Receivables”, “all the Eligible 
+Timeshare Loans” and “all the Eligible Timeshare Loans”.
+
+
+(i)    The definition of “Overconcentration Amount” in Annex A is hereby 
+amended by
+
+
+      (i)    replacing clause (v) thereof, currently reading
+
+
+            “(v)    the amount by which the sum of the Aggregate Principal
+            Balance of all Eligible Receivables with Obligors in respect of
+            which no FICO score is available exceeds 3% of the Aggregate
+            Principal Balance of all Eligible Receivables at such time;”
+
+
+      in its entirety with the following:
+
+
+            “(v) [Reserved];”
+and
+
+
+      (ii)    replacing clause (x) thereof, currently reading
+
+
+            “(x) the amount by which the sum of the Aggregate Principal
+            Balance of all Eligible Receivables relating to Timeshare Loans
+            with a related Obligor having a FICO score of greater than or
+            equal to 500 and less than 600 as of the date of origination of
+            such Timeshare Loan exceeds, in the aggregate, 20% of the
+            Aggregate Principal Balance of all Eligible Receivables at such
+            time;”
+
+
+      in its entirety with the following:
+
+
+            “(x) the amount by which the sum of the Aggregate Principal
+            Balance of all Eligible Receivables relating to Timeshare Loans
+            with a related Obligor having a FICO score of greater than or
+            equal to 500 and less than 600 as of the date of origination of
+            such Timeshare Loan exceeds, in the aggregate, 7.00% of the
+            Aggregate Principal Balance of all Eligible Receivables at such
+            time;”.
+ 
+(j)    The definition of “Qualified Substitute Timeshare Loan” is hereby 
+amended by inserting the phrase “included in the determination of Net 
+Eligible Receivable Balance” immediately following the phrase “weighted 
+average coupon rate of the Timeshare Loans” contained in clause (iii) 
+therein.
+
+
+(k)    The definition of “Required Credit Enhancement” in Annex A is hereby 
+amended by replacing the entire definition, including the table identified 
+in the first paragraph thereof as the “matrix”, in its entirety with the 
+following:
+
+
+      ““Required Credit Enhancement” means 25%.”.
+
+
+
+4
+------------------------------------------------------------------------
+ 
+
+(l)    The definition of “Weighted Average FICO Score” currently reading
+
+
+            “Weighted Average FICO Score” means the weighted average FICO
+            score of all the Obligors in respect of Eligible Receivables at
+            the time such Obligors purchased the related Timeshare
+            Property. For the purposes of determining the Weighted Average
+            FICO Score, Obligors for whom no FICO score is available will
+            be deemed to have a FICO score of 550.”
+
+
+is hereby replaced in its entirety with the following:
+       
+            “Weighted Average FICO Score” means the weighted average FICO
+            score, at the time such Obligors purchased the related
+            Timeshare Property, of all the Obligors in respect of Eligible
+            Receivables that are included in the determination of Net
+            Eligible Receivable Balance.”
+       
+(m)    The definition of “Weighted Average Seasoning” currently reading
+
+
+            “Weighted Average Seasoning” means, with respect to all
+            Eligible Receivables, the weighted average number of months
+            elapsed origination of the Eligible Receivables.”
+
+
+is hereby replaced in its entirety with the following:
+       
+            “Weighted Average Seasoning” means, with respect to all
+            Eligible Receivables included in the determination of Net
+            Eligible Receivable Balance, the weighted average number of
+            months elapsed origination of such Eligible Receivables.”
+       
+2.    
+Conditions to Effectiveness.    
+This Amendment shall be effective upon (i) delivery to the Note Purchaser 
+of counterparts hereof executed by each of the parties hereto, (ii) 
+delivery to the Note Purchaser of executed counterparts of the Second 
+Amendment to Note Purchase Agreement being entered into concurrently with 
+this Amendment, (iii) delivery to the Note Purchaser of executed legal 
+opinions of counsel to the Seller and the Purchaser each in form and 
+substance satisfactory to the Note Purchaser, (iv) delivery to the Note 
+Purchaser of such evidence of authorization or other required entity action 
+of the Seller and the Purchaser, incumbency, good standing and other 
+matters as may be required by the Note Purchaser, in each case in form and 
+substance satisfactory to the Note Purchaser and (v) the representations 
+and warranties of the Seller and the Purchaser referred to in Section 3(a) 
+below are accurate as of the date hereof (or as of the date otherwise 
+deemed made, as applicable).
+ 
+3.    
+Miscellaneous.
+(a)Each of the Seller and the Purchaser hereby certifies that its 
+representations and warranties set forth any Basic Document, in each case 
+to the extent that such representations and warranties are deemed repeated 
+on each Settlement Date, Determination Date or the date of any Advance 
+pursuant to the terms of any such Basic Document, are true and correct on 
+the date hereof with the same force and effect as if made on the date 
+hereof. In addition, the Seller and the Purchaser each represents and 
+warrants that (i) no Event of Default or other Funding Termination Event 
+(nor any event that but for notice or lapse of time or both would 
+constitute an Event of Default or other Funding Termination Event) shall 
+have occurred and be continuing as of the date hereof nor shall any of the 
+foregoing occur due to this Amendment becoming effective, (ii) the Seller 
+and the Purchaser each has the entity power and authority
+
+5
+------------------------------------------------------------------------
+ 
+
+to execute and deliver this Amendment and has taken or caused to be taken 
+all necessary entity actions to authorize the execution and delivery of 
+this Amendment, (iii) this Amendment constitutes the valid and binding 
+obligation of the Seller and the Purchaser, enforceable in accordance with 
+its terms and (iv) no consent of any other person (including, without 
+limitation, equityholders or creditors of the Seller or the Purchaser) and 
+no action of or filing with any governmental or public body or authority is 
+required to authorize, or is otherwise required in connection with the 
+execution and performance of this Amendment, other than such that have been 
+obtained.
+(b)The Agreement, as amended hereby, is hereby ratified and confirmed in 
+all respects and remains in full force and effect in accordance with its 
+terms.
+(c)All references in any Basic Document to the Agreement shall mean the 
+Agreement as amended hereby.
+(d)This Amendment may be executed in any number of counterparts, each of 
+which shall be deemed to be an original, but all such counterparts shall 
+together constitute but one and the same instrument. Delivery of an 
+executed counterpart of a signature page to this Amendment by facsimile 
+shall be effective as delivery of a manually executed counterpart of this 
+Amendment.
+(e)THIS AMENDMENT SHALL, IN ACCORDANCE WITH SECTION 5-1401 OF THE GENERAL 
+OBLIGATIONS LAW OF THE STATE OF NEW YORK, BE GOVERNED BY THE LAWS OF THE 
+STATE OF NEW YORK, WITHOUT REGARD TO ANY CONFLICTS OF LAW PRINCIPLES 
+THEREOF THAT WOULD CALL FOR THE APPLICATION OF THE LAWS OF ANY OTHER 
+JURISDICTION.
+(f)The headings of the several sections of this Amendment are for 
+convenience only and shall not affect the construction hereof.
+(g)This Amendment shall be deemed to be a Basic Document under the 
+Indenture and the other Basic Documents.
+ 
+[signatures follow]
+ 
+
+6
+------------------------------------------------------------------------
+ 
+
+IN WITNESS WHEREOF, this Amendment has been duly executed and delivered as 
+of the date first above written.
+
+
+ 
+
+ 
+ 
+SILVERLEAF FINANCE IV, LLC
+ 
+By: /s/ HARRY J. WHITE, JR.
+Name: Harry J. White, Jr.
+Its: Chief Financial Officer
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+SILVERLEAF RESORTS, INC.
+
+
+ 
+By: /s/ HARRY J. WHITE, JR.
+Name: Harry J. White, Jr.
+Its: Chief Financial Officer
+
+
+ 
+ 
+ 
+ 
+ 
+WELLS FARGO BANK, NATIONAL
+ 
+ 
+
+
+ASSOCIATION, in its capacity as Trustee
+
+
+ 
+By: /s/ SUE DIGNAN
+Name: Sue Dignan
+Its: Vice President
+
+
+ 
+
+7
