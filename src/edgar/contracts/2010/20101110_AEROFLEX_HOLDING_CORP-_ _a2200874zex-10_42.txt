@@ -1,0 +1,1801 @@
+ EX-10.42 14 a2200874zex-10_42.htm EX-10.42
+Exhibit 10.42
+ 
+FIRST AMENDMENT
+TO CREDIT AND GUARANTY AGREEMENT
+ 
+THIS FIRST AMENDMENT TO CREDIT AND GUARANTY AGREEMENT (this Amendment) is 
+dated as of November 4, 2010 and is entered into by and among AEROFLEX 
+INCORPORATED, a Delaware corporation (the Borrower), AEROFLEX HOLDING 
+CORP. (f/k/a AX Holding Corp.), a Delaware corporation (Holdings), 
+GOLDMAN SACHS CREDIT PARTNERS L.P. (GSCP), as Administrative Agent (
+Administrative Agent), acting with the consent of the Requisite Lenders 
+and, for purposes of Section III hereof, the GUARANTORS listed on the 
+signature papers hereto, and is made with reference to that certain CREDIT 
+AND GUARANTY AGREEMENT dated as of August 15, 2007 (as amended through the 
+date hereof, the Credit Agreement) by and among the Borrower, Holdings, 
+the subsidiaries of the Borrower named therein, the Lenders, the 
+Administrative Agent, Collateral Agent and the other Agents named therein.  
+Capitalized terms used herein without definition shall have the same 
+meanings herein as set forth in the Credit Agreement after giving effect to 
+this Amendment.
+ 
+RECITALS
+ 
+WHEREAS, the Credit Parties have requested that Requisite Lenders agree to 
+amend certain provisions of the Credit Agreement as provided for herein; 
+and
+ 
+WHEREAS, subject to certain conditions, Requisite Lenders are willing to 
+agree to such amendment relating to the Credit Agreement.
+ 
+NOW, THEREFORE, in consideration of the premises and the agreements, 
+provisions and covenants herein contained, the parties hereto agree as 
+follows:
+ 
+    SECTION I.     AMENDMENTS TO CREDIT AGREEMENT
+     
+    1.1                               Amendments.
+     
+A.     Section 1.1 of the Credit Agreement is hereby amended by adding the 
+following definitions in proper alphabetical sequence:
+ 
+    Existing Class shall mean Existing Term Loan Classes and each Class
+    of Existing Revolving Commitments.
+     
+    Existing Revolving Commitments shall have the meaning provided in
+    Section 2.25(a)(ii).
+     
+    Existing Revolving Loans shall have the meaning provided in Section
+    2.25(a)(ii).
+ 
+------------------------------------------------------------------------
+
+ 
+    Existing Term Loan Class shall have the meaning provided in Section
+    2.25(a)(i).
+ 
+    Extended B-1 Loans shall have the meaning provided in Section
+    2.16(i).
+     
+    Extended B-2 Loans shall have the meaning provided in Section
+    2.16(i).
+     
+    Extended Loans/Commitments shall mean Extended Term Loans, Extended
+    Revolving Loans and/or Extended Revolving Commitments.
+     
+    Extended Revolving Commitments shall have the meaning provided in
+    Section 2.25(a)(ii).
+     
+    Extended Revolving Commitment Period shall have the meaning provided
+    in Section 2.2(a).
+     
+    Extended Revolving Exposure means, with respect to any Lender as of
+    any date of determination, (i) prior to the termination of an Extension
+    Series of Extended Revolving Commitments, that Lenders Extended
+    Revolving Commitment under such Extension Series; and (ii) after the
+    termination of such Extension Series of Extended Revolving Commitments,
+    the sum of (a) the aggregate outstanding principal amount of such
+    Extension Series of Extended Revolving Loans of that Lender, (b) in the
+    case of Issuing Bank, the aggregate Letter of Credit Usage in respect
+    of all Letters of Credit issued by that Lender (net of any
+    participations by Lenders in such Letters of Credit), (c) the aggregate
+    amount of all participations by that Lender in any outstanding Letters
+    of Credit or any unreimbursed drawing under any Letter of Credit, (d)
+    in the case of Swing Line Lender, the aggregate outstanding principal
+    amount of all Swing Line Loans (net of any participations therein by
+    other Lenders), and (e) the aggregate amount of all participations
+    therein by that Lender in any outstanding Swing Line Loans, in each
+    case, to the extent issued under such Extension Series of Extended
+    Revolving Loans.
+     
+    Extended Revolving Loans shall have the meaning provided in Section
+    2.25(a)(ii).
+     
+    Extended Term Loan Maturity Date means the final maturity date as
+    specified in the applicable Extension Agreement executed by the
+    respective Lender.
+     
+    Extended Term Loans shall have the meaning provided in Section
+    2.25(a)(i).
+     
+    Extending B-1 Lenders shall have the meaning provided in Section
+    2.16(i).
+     
+    Extending B-2 Lenders shall have the meaning provided in Section
+    2.16(i).
+     
+    Extending Lender shall have the meaning provided in Section 2.25(b).
+     
+    Extending Revolving Lender means an Extending Lender with an Extended
+    Revolving Commitment or Extended Revolving Loans.
+ 
+2
+------------------------------------------------------------------------
+
+ 
+    Extension Agreement shall have the meaning provided in Section
+    2.25(c).
+     
+    Extension Election shall have the meaning provided in Section
+    2.25(b).
+     
+    Extension Request shall mean Term Loan Extension Requests and
+    Revolving Loan Extension Requests.
+     
+    Extension Series shall mean all Extended Term Loans that are
+    established pursuant to the same Extension Agreement and all Extended
+    Revolving Commitments that are established pursuant to the same
+    Extension Agreement (or any subsequent Extension Agreement to the
+    extent such Extension Agreement expressly provides that the Extended
+    Term Loans or Extended Revolving Commitments, as applicable, provided
+    for therein are intended to be a part of any previously established
+    Extension Series) and that provide for the same interest margins,
+    extension fees, if any, and amortization schedule.
+     
+    First Amendment means that certain First Amendment Agreement to
+    Credit and Guaranty Agreement dated as of November 4, 2010 among the
+    Borrower, Holdings, Administrative Agent, and the financial
+    institutions and Guarantors listed on the signature pages thereto.
+     
+    First Amendment Effective Date means the date of satisfaction of the
+    conditions referred to in Section II of the First Amendment.
+     
+    Original Revolving Commitment means a Revolving Commitment that
+    terminates on the sixth anniversary of the Closing Date (or, if
+    earlier, the dates specified in clause (ii) and (iii) of the definition
+    of Original Revolving Commitment Termination Date).
+     
+    Original Revolving Commitment Termination Date means the earliest to
+    occur of (i) the sixth anniversary of the Closing Date, (ii) the date
+    the Revolving Commitments are permanently reduced to zero pursuant to
+    Section 2.13(b) or 2.14, and (iii) the date of the termination of the
+    Revolving Commitments pursuant to Section 8.1.
+     
+    Original Revolving Loan means a Revolving Loan made by a Lender or a
+    Lenders predecessor in interest to Borrower pursuant to Section 2.2(a)
+    and/or Section 2.24 that is due and payable in full on the sixth
+    anniversary of the Closing Date (or, if earlier, the dates specified in
+    clause (ii) or (iii) of the definition of Original Revolving
+    Commitment Termination Date).
+     
+    Original Revolving Exposure means, with respect to any Lender, as of
+    any date of determination that holds an Original Revolving Commitment,
+    (i) prior to the termination of the Original Revolving Commitments,
+    that Lenders Original Revolving Commitment; and (ii) after the
+    termination of the Original Revolving Commitments, the sum of (a) the
+    aggregate outstanding principal amount of the Revolving Loans of that
+    Lender, (b) in the case of Issuing Bank, the aggregate Letter of Credit
+    Usage in respect of all Letters of Credit issued by that Lender (net of
+    any participations by Lenders in such Letters of Credit), (c) the
+    aggregate amount of all participations by that Lender in any
+    outstanding Letters of Credit or any unreimbursed drawing under any
+    Letter of Credit, (d)
+ 
+3
+------------------------------------------------------------------------
+
+ 
+    in the case of Swing Line Lender, the aggregate outstanding principal
+    amount of all Swing Line Loans (net of any participations therein by
+    other Lenders), and (e) the aggregate amount of all participations
+    therein by that Lender in any outstanding Swing Line Loans, in each
+    case, to the extent issued under such Original Revolving Commitments.
+     
+    Revolving Loan Extension Request shall have the meaning provided in
+    Section 2.25(a)(ii).
+     
+    Section 2.25 Additional Agreement shall have the meaning provided in
+    Section 2.25(c).
+     
+    Specified Existing Revolving Commitment Class shall have the meaning
+    provided in Section 2.25(a)(ii).
+     
+    Term Loan Extension Request shall have the meaning provided in
+    Section 2.25(a)(i).
+     
+    Tranche B Term Loans means, collectively, the Tranche B-1 Term Loans
+    and the Tranche B-2 Term Loans.
+     
+B.     Section 1.1 of the Credit Agreement is hereby amended by amending 
+and restating the following definitions in their entirety as follows:
+ 
+Class means (i) with respect to Lenders, each of the following classes of 
+Lenders: (a) Lenders having Tranche B-1 Term Loan Exposure, (b) Lenders 
+having Tranche B-2 Term Loan Exposure, (c) Lenders having Original 
+Revolving Exposure (including Swing Line Lender), (d) Lenders having New 
+Term Loan Exposure of each applicable Series, (e) Lenders having Term Loan 
+Exposure of each Extension Series of Extended Term Loans and (f) Lenders 
+having Extended Revolving Exposure of each Extended Series of Extended 
+Revolving Loans, and (ii) with respect to Loans, each of the following 
+classes of Loans: (a) Tranche B-1 Term Loans, (b) Tranche B-2 Term Loans, 
+(c) Original Revolving Loans (including Swing Line Loans), (d) each Series 
+of New Term Loans, (e) each Extension Series of Extended Term Loans and (f) 
+each Extension Series of Extended Revolving Loans.
+ 
+Credit Document means any of this Agreement, the Notes, if any, the 
+Collateral Documents, any Extension Agreements, the Commitment Letter, any 
+documents or certificates executed by Borrower in favor of Issuing Bank 
+relating to Letters of Credit, and all other documents, instruments or 
+agreements executed and delivered by a Credit Party for the benefit of any 
+Agent, Issuing Bank or any Lender in connection herewith.
+ 
+Loan means a Term Loan, a Revolving Loan, a Swing Line Loan, a New Term 
+Loan, any Extension Series of an Extended Term Loan and any Extension 
+Series of an Extended Revolving Loan.
+ 
+Maturity Date means the Tranche B Term Loan Maturity Date, the New Term 
+Loan Maturity Date of any Series of New Term Loans and the Extended Term 
+Loan Maturity Date of any Extension Series of Extended Term Loans, as 
+applicable.
+ 
+4
+------------------------------------------------------------------------
+
+ 
+Revolving Commitment means the commitment of a Lender to make or 
+otherwise fund any Revolving Loan and to acquire participations in Letters 
+of Credit and Swing Line Loans hereunder and Revolving Commitments means 
+such commitments of all Lenders in the aggregate.   The amount of each 
+Lenders Revolving Commitment, if any, is set forth on Appendix A-2 or in 
+the applicable Assignment Agreement, Joinder Agreement or Extension 
+Election, as applicable, subject to any adjustment or reduction pursuant to 
+the terms and conditions hereof.  The aggregate amount of the Revolving 
+Commitments as of the First Amendment Effective Date is $50,000,000.
+ 
+Revolving Commitment Termination Date means the earliest to occur of (i) 
+the sixth anniversary of the Closing Date, (ii) the date the Revolving 
+Commitments are permanently reduced to zero pursuant to Section 2.13(b) or 
+2.14, and (iii) the date of the termination of the Revolving Commitments 
+pursuant to Section 8.1; provided that, for any Extended Revolving 
+Commitments (including Swing Line Loans) of the same Extension Series, the 
+Revolving Commitment Termination Date of each Extension Series of Extended 
+Revolving Commitments shall be determined based on the respective 
+commitment termination dates applicable thereto as specified in the 
+applicable Extension Agreement executed by the respective Lender (or, if 
+earlier, the dates specified in clause (ii) or clause (iii) of this 
+definition, as applicable).
+ 
+Revolving Exposure means, with respect to any Lender as of any date of 
+determination, (i) prior to the termination of the Existing Revolving 
+Commitments, that Lenders Existing Revolving Commitment; plus, to the 
+extent applicable, prior to the termination of any Extension Series of 
+Extended Revolving Commitments, that Lenders Extension Series of such 
+Extended Revolving Commitment; and (ii) after the termination of the 
+Existing Revolving Commitments or any Extension Series of Revolving 
+Commitments, as applicable, the sum of (a) the aggregate outstanding 
+principal amount of the Revolving Loans of that Lender, (b) in the case of 
+Issuing Bank, the aggregate Letter of Credit Usage in respect of all 
+Letters of Credit issued by that Lender (net of any participations by 
+Lenders in such Letters of Credit), (c) the aggregate amount of all 
+participations by that Lender in any outstanding Letters of Credit or any 
+unreimbursed drawing under any Letter of Credit, (d) in the case of Swing 
+Line Lender, the aggregate outstanding principal amount of all Swing Line 
+Loans (net of any participations therein by other Lenders), and (e) the 
+aggregate amount of all participations therein by that Lender in any 
+outstanding Swing Line Loans.  For purposes of determining Pro Rata Shares 
+with respect to any Original Revolving Loans or Extended Revolving Loans, 
+to the extent applicable, Revolving Exposure shall mean, with respect to 
+any Lender, as of any date of determination, the Original Revolving 
+Exposure or applicable Extended Revolving Exposure, as the case may be, of 
+such Lender.
+ 
+Revolving Loan means a Loan made by a Lender to Borrower pursuant to 
+Section 2.2(a) and/or Section 2.24, including any such Loan extended by a 
+Lender, or made pursuant to a Revolving Commitment extended by a Lender, 
+pursuant to Section 2.25.
+ 
+Term Loan Exposure means, with respect to any Lender, as of any date of 
+determination, the outstanding principal amount of the Term Loans, New Term 
+Loans and Extended Term Loans of such Lender; provided, at any time prior 
+to the making of a Term Loan, the Term Loan Exposure of any Lender shall be 
+equal to such Lenders Term Loan Commitment.
+ 
+5
+------------------------------------------------------------------------
+
+ 
+Term Loan means a term loan made by a Lender to Borrower pursuant to 
+Section 2.1(a)(i) or (a)(ii), a New Term Loan made by a Lender to a 
+Borrower pursuant to Section 2.24 or an Extended Term Loan extended 
+pursuant to Section 2.25.
+ 
+Tranche B Term Loan Maturity Date means the earlier of (i) the seven-year 
+anniversary of the Closing Date, and (ii) the date that all Tranche B Term 
+Loans shall become due and payable in full hereunder, whether by 
+acceleration or otherwise.
+ 
+C.     Section 1.1 of the Credit Agreement is hereby amended by amending 
+the definition of Applicable Margin by inserting the following new 
+paragraph immediately at the end thereof:
+ 
+    Notwithstanding the foregoing, from and after the First Amendment
+    Effective Date, the Applicable Margin with respect to the Loans, as
+    determined pursuant to the immediately preceding paragraph, shall mean
+    a percentage, per annum, determined by reference to the ratings issued
+    by Moodys and S&P with respect to the Obligations in effect from time
+    to time as set forth in the chart below:
+     
+Moodys / S&P Rating
+ 
+Applicable Margin for
+Tranche B-1 Term
+Loans
+ 
+Applicable Margin for
+Tranche B-2 Term
+Loans
+ 
+Applicable Margin for
+Revolving Loans
+ 
+ B1 / B+ rating or better
+ 
+3.75
+%
+4.25
+%
+3.75
+%
+B2 / B rating or better but less than B1 / B+ rating
+ 
+4.00
+%
+4.50
+%
+4.00
+%
+ Less than B2 / B rating
+ 
+4.25
+%
+4.75
+%
+4.25
+%
+     
+    For purposes of this paragraph, if there is a difference between the
+    Moodys and S&P rating, the lower rating shall be used to determine the
+    applicable increase percentage.
+     
+D.     The second to last sentence of Section 2.1(a) of the Credit 
+Agreement is hereby replaced in its entirety as follows:
+ 
+    Subject to Sections 2.13(a) and 2.14, all amounts owed hereunder with
+    respect to the Tranche B Term Loans shall be paid in full no later than
+    the Tranche B Term Loan Maturity Date.
+     
+E.     Section 2.1(b)(ii) of the Credit Agreement is hereby amended by 
+replacing each occurrence of the defined term Term Loan therein with the 
+defined term Tranche B Term Loan.
+ 
+F.     Section 2.2(a) of the Credit Agreement is hereby amended and 
+restated in its entirety as follows:
+ 
+    (a) Revolving Commitments. During the Revolving Commitment Period,
+    subject to the terms and conditions hereof, each Lender severally
+    agrees to make Existing Revolving Loans to Borrower in an aggregate
+    amount up to but not exceeding such Lenders Existing Revolving
+    Commitment and during the period from the date any
+ 
+6
+------------------------------------------------------------------------
+
+     
+    Extended Revolving Commitments are established, until the Revolving
+    Commitment Termination Date with respect to such Extension Series of
+    Revolving Commitments (the Extended Revolving Commitment Period),
+    subject to the terms and conditions hereof, each Lender severally
+    agrees to make Extended Revolving Loans to Borrower in an aggregate
+    amount up to but not exceeding such Lenders Extended Revolving
+    Commitment for such Extension Series of Extended Revolving Loans; 
+    provided, that after giving effect to the making of any Revolving Loans
+    in no event shall the Total Utilization of Revolving Commitments exceed
+    the Revolving Commitments then in effect. Amounts borrowed pursuant to
+    this Section 2.2(a) may be repaid and reborrowed during the Revolving
+    Commitment Period and the Extended Revolving Commitment Period, as
+    applicable.  Each Lenders Revolving Commitment shall expire on the
+    applicable Revolving Commitment Termination Date and all Revolving
+    Loans and all other amounts owed hereunder with respect to the
+    Revolving Loans and the Revolving Commitments shall be paid in full no
+    later than such date (it being understood that in the event any
+    Extended Revolving Commitments are established, such Extended Revolving
+    Commitments shall, subject to Section 2.25, be terminated (and all
+    Extended Revolving Loans of the same Extension Series repaid) on dates
+    set forth in the applicable Extension Agreement).
+     
+G.     The last paragraph of Section 2.12(b) of the Credit Agreement is 
+hereby replaced in its entirety as follows:
+ 
+    Notwithstanding the foregoing, (x) such Installments shall be reduced
+    in connection with any voluntary or mandatory prepayments of the Term
+    Loans, as the case may be, in accordance with Sections 2.13, 2.14 and
+    2.15, as applicable; and (y) the Tranche B Term Loans, together with
+    all other amounts owed hereunder with respect thereto, shall, in any
+    event, be paid in full no later than the Tranche B Term Loan Maturity
+    Date.
+     
+H.     The Credit Agreement is hereby amended by adding the following new 
+clause (c) to Section 2.12 immediately at the end thereof:
+ 
+    (c)         In the event that any Extended Term Loans are established,
+    such Extended Term Loans shall, subject to the requirements of Section
+    2.25, be repaid by the Borrower in the amounts and on the dates set
+    forth in the applicable Extension Agreement.
+     
+I.     Section 2.13(b)(ii) of the Credit Agreement is hereby amended by 
+adding the following proviso immediately at the end thereof:
+ 
+    ; provided that, notwithstanding the foregoing, in connection with the
+    establishment on any date of any Extended Revolving Commitments
+    pursuant to Section 2.25, the Revolving Commitments of any one or more
+    Lenders providing any such Extended Revolving Commitments on such date
+    shall be reduced in an amount equal to the amount of Revolving
+    Commitments so extended on such date (provided that (x) after giving
+    effect to any such reduction and to the repayment of any Revolving
+    Loans made on such date, the Revolving Exposure of any such Lender does
+    not exceed the Revolving Commitment thereof (such Revolving Exposure
+    and Revolving Commitment being
+ 
+7
+------------------------------------------------------------------------
+
+     
+    determined in each case, for the avoidance of doubt, exclusive of such
+    Lenders Extended Revolving Commitment and any exposure in respect
+    thereof) and (y) for the avoidance of doubt, any such repayment of
+    Revolving Loans contemplated by the preceding clause shall be made in
+    compliance with the requirements of Section 2.17 with respect to the
+    ratable allocation of payments hereunder, with such allocation being
+    determined after giving effect to any exchange pursuant to Section 2.25
+    of Revolving Commitments and Revolving Loans into Extended Revolving
+    Commitments and Extended Revolving Loans, respectively, and prior to
+    any reduction being made to the Revolving Commitment of any other
+    Lender).
+     
+J.     Section 2.15(a) of the Credit Agreement is hereby amended by 
+replacing clauses second and third in their entirety as follows:
+ 
+    second, subject to Section 2.15(f), to repay outstanding Revolving
+    Loans to the full extent thereof without reduction of Commitments; and
+     
+    third, subject to Section 2.15(e), to prepay the Term Loans on a pro
+    rata basis (in accordance with the respective outstanding principal
+    amounts thereof); and further applied on a pro rata basis to reduce the
+    scheduled remaining Installments of principal of the Term Loans.
+     
+K.     Section 2.15(b) of the Credit Agreement is hereby amended by 
+replacing clause first in its entirety as follows:
+ 
+    first, subject to Section 2.15(e), to prepay the Term Loans on a pro
+    rata basis (in accordance with the respective outstanding principal
+    amounts thereof); and further applied on a pro rata basis to the
+    remaining scheduled Installments of principal of the Term Loans as
+    follows:  first, to the next eight scheduled Installments in direct
+    order and second, pro rata to any remaining Installments;
+     
+L.     Section 2.15(b) of the Credit Agreement is hereby amended by 
+replacing clause third in its entirety as follows:
+ 
+    third, subject to Section 2.15(f), to prepay the Revolving Loans to
+    the full extent thereof without reduction of Commitments; and
+     
+M.     The Credit Agreement is hereby amended by adding the following new 
+clauses (e) and (f) to Section 2.15 immediately at the end thereof:
+ 
+    (e)         Notwithstanding anything herein to the contrary, with
+    respect to each prepayment of Term Loans required by Section 2.14, (i)
+    no such prepayments shall be allocated to Extended Term Loans of any
+    Extension Series, unless such prepayment is accompanied by at least a
+    pro rata prepayment, based upon the applicable remaining repayment
+    amounts due in respect thereof, of Term Loans of the Existing Term Loan
+    Class, if any, from which such Extended Term Loans were exchanged (or
+    such Term Loans of the Existing Term Loan Class have otherwise been
+    repaid in full) and (ii) no such prepayment shall be allocated to any
+    Class of Term Loans unless such prepayment
+ 
+8
+------------------------------------------------------------------------
+
+     
+    is accompanied by a pro rata repayment, based upon the applicable
+    remaining repayment amounts due in respect thereof, of Term Loans of
+    the Existing Term Loan Class, if any, from which such Class of Term
+    Loans was exchanged and Extended Term Loans, if any, that were
+    originally exchanged from such Class of Term Loans.
+     
+    (f)            Notwithstanding anything herein to the contrary, with
+    respect to any reduction and termination of Revolving Commitments
+    hereunder, (x) any such reduction and termination shall apply
+    proportionately and permanently to reduce the Revolving Commitments of
+    each of the Lenders within any Class, (y) no such reduction and
+    termination of Extended Revolving Commitments (and prepayment of
+    Extended Revolving Loans accompanying a corresponding permanent
+    reduction in such Extended Revolving Commitments) shall be permitted
+    unless the Existing Revolving Commitments of the Specified Existing
+    Revolving Commitment Class (and Existing Revolving Loans related to
+    such Revolving Commitments) shall have been reduced and repaid
+    proportionately, and (z) after giving effect to such termination or
+    reduction and to any prepayments of Loans or cancellation or cash
+    collateralization of letters of credit made on the date of each such
+    reduction and termination in accordance with this Agreement, the
+    aggregate amount of such Lenders credit exposures shall not exceed the
+    remaining Revolving Commitments of such Lenders in respect of the
+    Class reduced and terminated.
+     
+N.     Section 2.16(h) of the Credit Agreement is hereby amended by 
+replacing clauses (ii) and (iii) in their entirety as follows:
+ 
+    (ii)         second, to the Tranche B-1 Term Loan Lenders, New B-1
+    Lenders, Extended B-1 Lenders, Revolving Lenders, New Revolving Loan
+    Lenders and Extended Revolving Lenders, an amount equal to all
+    Obligations owing to them in respect of the Tranche B-1 Term Loans, New
+    B-1 Loans, Extended B-1 Loans, Revolving Loans, New Revolving Loans and
+    Extended Revolving Loans, as applicable, on a pro rata basis, on the
+    date of any distribution, other than any amounts in respect of
+    post-petition interest in any Insolvency or Liquidation Proceeding
+    (and, if there shall be a shortfall in the amount available pursuant to
+    this clause to pay all amounts due under this clause, on a pro rata
+    basis taking into account all amounts due under this clause (including
+    on account of principal, interest, fees, expenses or otherwise, as
+    applicable));
+     
+    (iii)          third, to the Secured Parties, an amount equal to all
+    remaining Obligations owing to them on the date of any distribution,
+    including any amounts in respect of post-petition interest in any
+    Insolvency or Liquidation Proceeding (including such amounts owed to
+    the Tranche B-1 Term Loan Lenders, New B-1 Lenders and Extended B-1
+    Lenders) (and, if there shall be a shortfall in the amount available
+    pursuant to this clause to pay all amounts due under this clause, on a
+    pro rata basis taking into account all amounts due under this clause
+    (including on account of principal, interest, fees, expenses or
+    otherwise, as applicable)); and
+     
+O.     Section 2.16(i) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+9
+------------------------------------------------------------------------
+     
+    (i)          Each Tranche B-2 Term Loan Lender, each New Term Loan
+    Lender holding New Term Loans that were identified by the Borrower to
+    be identical (except as contemplated by Section 2.24 with respect to
+    interest rates, amortization and maturity) to Tranche B-2 Term Loans (
+    New B-2 Loans and the lenders thereof, New B-2 Lenders) and each
+    Extending Term Lender holding Extended Term Loans that were extended
+    from Tranche B-2 Term Loans pursuant to Section 2.25 (Extended B-2
+    Loans and the lenders thereof, Extending B-2 Lenders) hereby agrees
+    to turn over to the Administrative Agent, on behalf of the Tranche B-1
+    Term Loan Lenders, New Term Loan Lenders holding New Term Loans that
+    were identified by the Borrower to be identical (except as contemplated
+    by Section 2.24 with respect to interest rates, amortization and
+    maturity) to Tranche B-1 Term Loans (New B-1 Loans and the lenders
+    thereof, New B-1 Lenders) and each Extending Term Lender holding
+    Extended Term Loans that were extended from Tranche B-1 Term Loans
+    pursuant to Section 2.25 (Extended B-1 Loans and the lenders thereof,
+    Extending B-1 Lenders), amounts otherwise received or receivable by
+    them to the extent necessary to effectuate the priority of payments set
+    forth in Section 2.16(h), even if such turnover has the effect of
+    reducing the claim or recovery of the Tranche B-2 Term Loan Lenders,
+    the New B-2 Lenders and the Extended B-2 Lenders.  If any Lender, Agent
+    or other Secured Party collects or receives any payment, proceeds of
+    Collateral, distribution (including distributions in any Insolvency or
+    Liquidation Proceeding pursuant to a plan or otherwise) or any other
+    amount or property on account of any Obligation at any time when
+    Section 2.16(h) requires that such payment, proceeds, distribution,
+    amount or property be distributed pursuant to the provisions thereof to
+    any other Secured Parties, then such Agent, Lender or other Secured
+    Party shall hold the same in trust for such other Secured Parties and
+    shall forthwith deliver the same to the Administrative Agent for
+    distribution to such other Secured Parties in accordance with Section
+    2.16(h).
+     
+P.     The Credit Agreement is hereby amended by adding the following new 
+Section 2.25 immediately after the existing text of Section 2.24:
+ 
+2.25       Extensions of Loans and Commitments.
+ 
+    (a)           (i) The Borrower may at any time and from time to time
+    request that all or a portion of each Term Loan of any Class (an 
+    Existing Term Loan Class) be converted to extend the scheduled final
+    maturity date thereof (any such Term Loans which have been so extended,
+    Extended Term Loans) and to provide for other terms consistent with
+    this Section 2.25.  Prior to entering into any Extension Agreement with
+    respect to any Extended Term Loans, the Borrower shall provide written
+    notice to the Administrative Agent (who shall provide a copy of such
+    notice to each of the Lenders of the applicable Existing Term Loan
+    Class) in substantially the form of Exhibit N or such other form as
+    approved from time to time by Borrower and the Administrative Agent
+    (each, a Term Loan Extension Request) setting forth the proposed
+    terms of the Extended Term Loans, which terms shall be identical to the
+    Term Loans of the Existing Term Loan Class from which they are to be
+    extended except that (x) the scheduled final maturity date shall be
+    extended and all or any of the scheduled amortization payments of all
+    or a portion of any principal amount of such Extended Term Loans may be
+    delayed to later dates than the scheduled amortization of principal of
+    the Term Loans of such
+ 
+10
+------------------------------------------------------------------------
+
+     
+    Existing Term Loan Class (with any such delay resulting in a
+    corresponding adjustment to the scheduled amortization payments
+    reflected in Section 2.12 or in the Joinder Agreement with respect to
+    New Term Loans, as the case may be, with respect to the Existing Term
+    Loan Class of Term Loans from which such Extended Term Loans were
+    extended, in each case as more particularly set forth in Section
+    2.25(c) below), (y) all-in pricing (including, without limitation,
+    margins, fees and premiums) with respect to the Extended Term Loans may
+    be higher or lower than the all-in pricing (including, without
+    limitation, margins, fees and premiums) for the Term Loans of such
+    Existing Term Loan Class, in each case, to the extent provided in the
+    applicable Extension Agreement and (z) the voluntary and mandatory
+    prepayment rights of the Extended Term Loans shall be subject to the
+    provisions set forth in Section 2.15. No Lender shall have any
+    obligation to agree to have any of its Term Loans of any Existing Term
+    Loan Class converted into Extended Term Loans pursuant to any Term Loan
+    Extension Request.  Any Extended Term Loans of any Extension Series
+    shall constitute a separate Class of Term Loans from the Existing Term
+    Loan Class of Term Loans from which they were extended; provided that
+    in no event shall there be more than four Classes of Extended Revolving
+    Commitments and Extended Term Loans in the aggregate at any one time.
+     
+    (ii)           The Borrower may at any time and from time to time
+    request that all or a portion of the Revolving Commitments (and, in
+    each case, including any previously extended Revolving Commitments)
+    existing at the time of such request (each, an Existing Revolving
+    Commitment and any related revolving loans under any such facility, 
+    Existing Revolving Loans) be converted to extend the termination date
+    thereof and the scheduled maturity date(s) of any payment of principal
+    with respect to all or a portion of any principal amount of Existing
+    Revolving Loans related to such Existing Revolving Commitments (any
+    such Existing Revolving Commitments which have been so extended, 
+    Extended Revolving Commitments and any related revolving loans, 
+    Extended Revolving Loans) and to provide for other terms consistent
+    with this Section 2.25.  Prior to entering into any Extension Agreement
+    with respect to any Extended Revolving Commitments, the Borrower shall
+    provide a notice to the Administrative Agent (who shall provide a copy
+    of such notice to each of the Lenders of the applicable Class of
+    Existing Revolving Commitments) in substantially the form of Exhibit O
+    or such other form as approved from time to time by Borrower and the
+    Administrative Agent (each, a Revolving Loan Extension Request)
+    setting forth the proposed terms of the Extended Revolving Commitments,
+    which terms shall be identical to those applicable to the Existing
+    Revolving Commitments from which they are to be extended (the 
+    Specified Existing Revolving Commitment Class) except (x) all or any
+    of the final termination dates of such Extended Revolving Commitments
+    and maturity dates of outstanding Extended Revolving Loans may be
+    delayed to later dates than the final termination dates of the Existing
+    Revolving Commitments of the Specified Existing Revolving Commitment
+    Class, (y) the all-in pricing (including, without limitation, margins,
+    fees and premiums) with respect to the Extended Revolving Commitments
+    may be higher or lower than the all-in pricing (including, without
+    limitation, margins, fees and premiums) for the Existing Revolving
+    Commitments of the Specified Existing Revolving Commitment Class and
+    (z) the commitment fee rate with respect to the Extended Revolving
+    Commitments may be higher or lower than the commitment fee rate for
+    Existing
+ 
+11
+------------------------------------------------------------------------
+
+     
+    Revolving Commitments of the Specified Existing Revolving Commitment,
+    in each case, to the extent provided in the applicable Extension
+    Agreement; provided that, notwithstanding anything to the contrary in
+    this Section 2.25 or otherwise, (1) the borrowing and repayment (other
+    than in connection with a permanent repayment and termination of
+    commitments) of the Extended Revolving Loans under any Extended
+    Revolving Commitments shall be made on a pro rata basis with any
+    borrowings and repayments of the Existing Revolving Loans (the
+    mechanics for which may be implemented through the applicable Extension
+    Agreement and may include technical changes related to the borrowing
+    and repayment procedures of the Revolving Loans), (2) assignments and
+    participations of Extended Revolving Commitments and Extended Revolving
+    Loans shall be governed by the assignment and participation provisions
+    set forth in Section 10.6 and (3) no termination of Extended Revolving
+    Commitments and no repayment of Extended Revolving Loans accompanied by
+    a corresponding permanent reduction in Extended Revolving Commitments
+    shall be permitted unless such termination or repayment (and
+    corresponding reduction) is accompanied by at least a pro rata
+    termination or permanent repayment (and corresponding pro rata
+    permanent reduction), as applicable, of the Existing Revolving Loans
+    and Existing Revolving Commitments of the Specified Existing Revolving
+    Commitment Class (or all Existing Revolving Commitments of such Class
+    and related Existing Revolving Loans shall have otherwise been
+    terminated and repaid in full).  No Lender shall have any obligation to
+    agree to have any of its Revolving Commitments or Revolving Loans
+    converted into Extended Revolving Commitments or Extended Revolving
+    Loans, as applicable, pursuant to any Revolving Loan Extension Request.
+     Any Extended Revolving Commitments of any Extension Series shall
+    constitute a separate Class of revolving credit commitments from
+    Existing Revolving Commitments of the Specified Existing Revolving
+    Commitment Class and from any other Existing Revolving Commitments
+    (together with any other Extended Revolving Commitments so established
+    on such date); provided that in no event shall there be more than four
+    Classes of Extended Revolving Commitments and Extended Term Loans in
+    the aggregate at any one time.
+     
+    (b)           The Borrower shall provide the applicable Extension
+    Request at least ten (10) Business Days prior to the date on which
+    Lenders under the Existing Class are requested to respond. Any Lender
+    (an Extending Lender) wishing to have all or a portion of its Term
+    Loans and/or Revolving Commitments (or any earlier extended Extended
+    Revolving Commitments) of an Existing Class subject to such Extension
+    Request converted into Extended Loans/Commitments shall notify the
+    Administrative Agent (such notice to be in substantially the form of
+    Exhibit P or such other form as approved from time to time by Borrower
+    and the Administrative Agent) (each, an Extension Election) on or
+    prior to the date specified in such Extension Request of the amount of
+    its Term Loans and/or Revolving Commitments (and/or any earlier
+    extended Extended Revolving Commitments) which it has elected to
+    convert into Extended Loans/Commitments.  In the event that the
+    aggregate amount of Term Loans and/or Revolving Commitments subject to
+    Extension Elections exceeds the amount of Extended Loans/Commitments
+    requested pursuant to the Extension Request, Term Loans and/or
+    Revolving Commitments (and any earlier extended Extended Revolving
+    Commitments) subject to Extension Elections shall be converted to
+    Extended Loans/Commitments on a
+ 
+12
+------------------------------------------------------------------------
+
+     
+    pro rata basis based on the amount of Term Loans and/or Revolving
+    Commitments (and any earlier extended Extended Revolving Commitments)
+    included in each such Extension Election.  Notwithstanding the
+    conversion of any Existing Revolving Commitment into an Extended
+    Revolving Commitment, such Extended Revolving Commitment shall be
+    treated identically to all Existing Revolving Commitments of the
+    Specified Existing Revolving Commitment Class for purposes of the
+    obligations of a Revolving Lender in respect of Swing Line Loans under
+    Section 2.3 and Letters of Credit under Section 2.4, except that the
+    applicable Extension Agreement may provide that the Revolving
+    Commitment Termination Date with respect to such Swing Line Lender
+    and/or the last day for issuing Letters of Credit may be extended and
+    the related obligations to make Swing Line Loans and issue Letters of
+    Credit may be continued (pursuant to mechanics set forth in the
+    applicable Extension Agreement) so long as the Swing Line Lender and/or
+    the applicable Issuing Bank, as applicable, have consented to such
+    extensions (it being understood that no consent of any other Lender
+    shall be required in connection with any such extension).
+     
+    (c)           Extended Loans/Commitments shall be established pursuant
+    to a supplement (which shall set forth the effective date of such
+    extension) to the First Amendment (which, except to the extent
+    expressly contemplated by the penultimate sentence of this Section
+    2.25(c) and notwithstanding anything to the contrary set forth in
+    Section 10.5, shall not require the consent of any Lender other than
+    the Extending Lenders with respect to the Extended Loans/Commitments
+    established thereby) in substantially the form of Exhibit Q or such
+    other form as approved from time to time by the Borrower and the
+    Administrative Agent (each, an Extension Agreement) executed by the
+    Credit Parties, the Administrative Agent and the Extending Lenders. 
+    Notwithstanding anything to the contrary in this Section 2.25 and
+    without limiting the generality or applicability of Section 10.5 to any
+    Section 2.25 Additional Agreements, any Extension Agreement may provide
+    for additional terms other than those referred to or contemplated above
+    (each, a Section 2.25 Additional Agreement) to this Agreement and the
+    other Credit Documents; provided that no such Section 2.25 Additional
+    Agreement shall become effective prior to the time that such Section
+    2.25 Additional Agreement has been consented to by such of the Lenders,
+    Credit Parties and other parties (if any) as would be required
+    (including, without limitation, under the requirements of Section 10.5)
+    if such Section 2.25 Additional Agreement were a separate and
+    independent amendment of the Credit Agreement.  It is understood and
+    agreed that each Lender that has consented to the First Amendment has
+    consented, and shall at the effective time thereof be deemed to consent
+    to each supplement to the First Amendment and the other Credit
+    Documents authorized by this Section 2.25 and the arrangements
+    described above in connection therewith except that the foregoing shall
+    not constitute a consent on behalf of any Lender to the terms of any
+    Section 2.25 Additional Agreement.  In connection with any Extension
+    Agreement, the Borrower shall deliver an opinion of counsel reasonably
+    acceptable to the Administrative Agent as to any matters reasonably
+    requested by the Administrative Agent.
+     
+    (d)           Notwithstanding anything to the contrary contained in
+    this Agreement (including Section 2.25 or Section 10.5), the Lenders
+    hereby irrevocably authorize the
+ 
+13
+------------------------------------------------------------------------
+
+     
+    Administrative Agent and the Collateral Agent to enter into technical
+    (in the view of the Administrative Agent or Collateral Agent, as
+    applicable) amendments to this Agreement and the other Credit Documents
+    with the applicable Credit Parties as may be necessary in order to
+    effectuate the transactions contemplated in this Section 2.25.  All
+    such amendments entered into with the applicable Credit Parties by the
+    applicable Agent hereunder shall be binding and conclusive on all
+    Lenders.  The Administrative Agent shall have the right, but not the
+    obligation, to consult with the Requisite Lenders with respect to any
+    matter contemplated in this Section 2.25.
+     
+    (e)           Notwithstanding anything to the contrary contained in the
+    Credit Agreement, any Extended Term Loans or Extended Revolving
+    Commitments (and related Extended Revolving Loans), as applicable, the
+    terms of which are identical to other Extended Term Loans or Extended
+    Revolving Commitments (and related Extended Revolving Loans) shall
+    constitute one Class of Loans or Commitments (and related Loans), as
+    applicable.
+     
+Q.     Section 5.1(b) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (b)         Quarterly Financial Statements.  As soon as available, and
+    in any event within 50 days after the end of each of the first three
+    Fiscal Quarters of each Fiscal Year, commencing with the Fiscal Quarter
+    in which the Closing Date occurs, the consolidated balance sheets of
+    Borrower and its Subsidiaries as at the end of such Fiscal Quarter and
+    the related consolidated statements of income and cash flows of
+    Borrower and its Subsidiaries for such Fiscal Quarter and for the
+    period from the beginning of the then current Fiscal Year to the end of
+    such Fiscal Quarter, setting forth in each case in comparative form the
+    corresponding figures for the corresponding periods of the previous
+    Fiscal Year, all in reasonable detail and together with a Narrative
+    Report (it being understood that the Form 10-Q filed with the
+    Securities and Exchange Commission shall be acceptable) and, only to
+    the extent any such financial statements are not required to be filed
+    by Borrower or any of its Subsidiaries with any securities exchange or
+    with the Securities and Exchange Commission or any governmental or
+    private regulatory authority, a Financial Officer Certification, with
+    respect thereto;
+     
+R.     Section 5.1(i) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (i)          Financial Plan.  As soon as practicable and in any event
+    no later than 60 days after the beginning of each Fiscal Year, a
+    consolidated financial forecast for such Fiscal Year (or portion
+    thereof) (a Financial Plan), including (i) a forecasted consolidated
+    balance sheet and forecasted consolidated statements of income and cash
+    flows of Borrower and its Subsidiaries for each such Fiscal Year,
+    including the calculation of each of the covenants set forth in Section
+    6.7, for each such Fiscal Year and an explanation of the assumptions on
+    which such forecasts are based, and (ii) forecasted consolidated
+    statements of income and cash flows of Borrower and its Subsidiaries
+    for each Fiscal Quarter of such Fiscal Year;
+     
+S.     Section 5.14(a) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+14
+------------------------------------------------------------------------
+
+ 
+    (a)         Maintenance of Ratings.  At all times, Borrower shall use
+    commercially reasonable efforts to maintain ratings issued by Moodys
+    and S&P with respect to its senior secured debt (it being understood
+    that Borrower is under no obligation to maintain any particular level
+    of rating issued by Moodys or S&P).  Notwithstanding the foregoing,
+    Borrower shall use commercially reasonable efforts to obtain updated
+    ratings from Moodys and S&P with respect to its senior secured debt by
+    no later than the date that is 180 days following the consummation of
+    an IPO.
+     
+T.     Section 6.1(h) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (h)         Indebtedness in connection with the repurchase otherwise
+    permitted hereunder of equity issued to current or former employees,
+    executives or directors of a Credit Party (including any promissory
+    notes issued by a Credit Party to repurchase equity of employees,
+    executives or directors of a Credit Party) in an amount not to exceed
+    $5,000,000 in the aggregate at any time outstanding;
+     
+U.     Section 6.1(i) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (i)          Indebtedness in an amount not to exceed $50,000,000 in
+    the aggregate at any time outstanding when aggregated with amounts
+    under Section 6.1(m) consisting of subordinated Indebtedness of
+    Borrower or any of its Subsidiaries issued to a seller in connection
+    with a Permitted Acquisition and which is subordinated (in a manner
+    customary for a seller note) in right of payment to the Obligations;
+     
+V.     Section 6.1(j) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (j)          the incurrence by any Foreign Subsidiary of Holdings of
+    Indebtedness owing to Persons other than Holdings and any of its
+    Subsidiaries in an aggregate principal amount (or accreted value, as
+    applicable) at any time outstanding, not to exceed the sum of $
+    50,000,000;
+     
+W.     Section 6.1(m) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (m)        (i) Indebtedness of a Person or Indebtedness attaching to
+    assets of a Person that, in either case, becomes a Subsidiary or
+    Indebtedness attaching to assets that are acquired by Borrower or any
+    of its Subsidiaries, in each case after the Closing Date as the result
+    of a Permitted Acquisition, in an aggregate amount not to exceed
+    $50,000,000 at any one time outstanding (when aggregated with amounts
+    under Section 6.1(i)), provided that (x) such Indebtedness existed at
+    the time such Person became a Subsidiary or at the time such assets
+    were acquired and, in each case, was not created in anticipation
+    thereof and (y) such Indebtedness is not guaranteed in any respect by
+    Holdings or any Subsidiary (other than by any such person that so
+    becomes a Subsidiary), and (ii) any refinancing, refunding, renewal or
+    extension of any Indebtedness specified in subclause (i) above,
+    provided, that (1) the principal amount of any such Indebtedness is not
+    increased above the principal amount thereof outstanding immediately
+    prior to such refinancing, refunding, renewal or extension, (2) the
+    direct and contingent obligors with respect to
+ 
+15
+------------------------------------------------------------------------
+
+     
+    such Indebtedness are not changed and (3) such Indebtedness shall not
+    be secured by any assets other than the assets securing the
+    Indebtedness being renewed, extended or refinanced;
+     
+X.     Section 6.1(n) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (n)         other unsecured Indebtedness of Holdings, the Borrower
+    and/or its Subsidiaries or other subordinated Indebtedness (not 
+    including any other amounts permitted under this Section 6.1) in an
+    aggregate amount not to exceed at any time $100,000,000; and
+     
+Y.     Section 6.6(m) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (m)        Investments in Joint Ventures engaged in a business
+    conducted by Borrower and its Subsidiaries and having an aggregate
+    value (measured on the date each such Investment was made and without
+    giving effect to subsequent changes in value), when taken together with
+    all other Investments made pursuant to this clause (m) since the
+    Closing Date, in an aggregate amount not to exceed at any time
+    $25,000,000; provided, that with respect to any such Joint Venture that
+    is not domiciled in the United States, such Joint Venture shall be
+    organized or operating in any country that is a member of the
+    Organization for Cooperation and Economic Development;
+     
+Z.     Section 6.6(n) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (n)         other Investments by Credit Parties in Subsidiaries (other
+    than wholly owned Guarantors) in an aggregate amount not to exceed at
+    any time $25,000,000;
+     
+AA.     Section 6.7(b) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (b)         Maximum Consolidated Capital Expenditures. Holdings shall
+    not, and shall not permit its Subsidiaries to, make or incur
+    Consolidated Capital Expenditures, in any Fiscal Year indicated below,
+    in an aggregate amount for Holdings and its Subsidiaries in excess of
+    the corresponding amount set forth below opposite such Fiscal Year; 
+    provided, that (x) each such amount set forth below shall be increased
+    in an amount equal to 5% of the aggregate pro forma gross revenues
+    contributed by the Person or assets acquired in connection with any
+    Permitted Acquisitions from and after the First Amendment Effective
+    Date, (y) if the aggregate amount of Consolidated Capital Expenditures
+    for any Fiscal Year (beginning with Fiscal Year 2010) shall be less
+    than the amount set forth in the table below for such Fiscal Year
+    (before any carryover), then such shortfall may be added to the amount
+    of Consolidated Capital Expenditures permitted for the immediately
+    succeeding (but not any other) Fiscal Year (but in no event shall the
+    carryover be more than 50% of the Consolidated Capital Expenditures
+    permitted for the immediately preceding Fiscal Year) and (z) in
+    determining whether any amount is available for carryover, the amount
+    expended in any Fiscal Year shall first be deemed to be from the amount
+    allocated to such year before any carryover:
+ 
+16
+------------------------------------------------------------------------
+
+     
+Fiscal Year
+ 
+Consolidated Capital
+Expenditures
+ 
+ 2008
+ 
+$
+25,000,000
+ 
+ 2009
+ 
+$
+25,000,000
+ 
+ 2010
+ 
+$
+35,000,000
+ 
+ 2011 and each Fiscal Year thereafter
+ 
+$
+40,000,000
+ 
+                     
+BB.     Section 6.8(e) of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    (e)         Permitted Acquisitions (including with respect to
+    acquisition targets not domiciled within the United States solely to
+    the extent such entity is organized or operating in any country that is
+    a member of the Organization for Cooperation and Economic Development),
+    the Acquisition Consideration for which constitutes (x) prior to the
+    First Amendment Effective Date,  (i) no more than $100,000,000 in the
+    aggregate in any Fiscal Year, and (ii) no more than $200,000,000 in the
+    aggregate from the Closing Date to the date of determination and (y)
+    from and after the First Amendment Effective Date, no more than
+    $200,000,000 in the aggregate from the First Amendment Date to the date
+    of determination, in each case, plus the value of any equity or
+    proceeds of equity issued in connection therewith;
+     
+CC.     Clause (e) of Section 6.11 of the Credit Agreement is hereby 
+replaced in its entirety as follows:
+ 
+    (e) (i) so long as no Default under Sections 8.1(a), (f) or (g) or any
+    Event of Default has occurred and is continuing, payment of (X)
+    management fees and transaction fees and (Y) on the date of termination
+    of the Advisory Agreement upon the consummation of (or within 180 days
+    following) an IPO, a termination fee and/or transaction fee in an
+    amount not to exceed $19,400,000, in each case, to Sponsor and its
+    Affiliates as set forth in the Advisory Agreement; provided that upon
+    the occurrence and during the continuance of such a Default or an Event
+    of Default, such advisory fees, management fees, transaction fees and
+    termination fees may accrue until payment is permitted upon cure or
+    waiver of such Default or Event of Default and (ii) reimbursement of
+    reasonable expenses (including indemnification obligations) actually
+    incurred by Sponsor and its Affiliates, as set forth in the Advisory
+    Agreement;
+     
+DD.     Section 6.15 of the Credit Agreement is hereby replaced in its 
+entirety as follows:
+ 
+    6.15.   Amendments with Respect to the Advisory Agreement.  No Credit
+    Party shall, nor shall it permit any of its Subsidiaries to, amend or
+    otherwise change the terms of the Advisory Agreement or make any
+    payment consistent with an amendment thereof or change thereto, if the
+    effect of such amendment or change, together with all other amendments
+    or changes made, is to increase materially the obligations of any
+    obligor
+ 
+17
+------------------------------------------------------------------------
+
+ 
+    thereunder or which would be materially adverse to the Lenders without
+    the prior written consent of the Administrative Agent; provided, that
+    nothing contained herein shall prohibit (i) the amendment or
+    modification of the Advisory Agreement to clarify that a termination
+    fee and/or transaction fee shall be payable thereunder to Sponsor and
+    its Affiliates upon the consummation of (or within 180 days following) 
+    an IPO in an amount not to exceed $19,400,000 or (ii) the payment of
+    any such termination fee and/or transaction fee to the extent permitted
+    by Section 6.11.
+     
+EE.     The Credit Agreement is hereby amended by adding new Exhibits N, O, 
+P and Q thereto in the form of Annexes I, II, III and IV, respectively, to 
+this Amendment.
+ 
+    SECTION II.     CONDITIONS TO EFFECTIVENESS
+     
+This Amendment shall become effective upon the satisfaction of all of the 
+following conditions precedent (the date of satisfaction of such conditions 
+being referred to herein as the First Amendment Effective Date):
+ 
+A.     Execution. Administrative Agent shall have received (i) consent and 
+authorization from the Requisite Lenders to execute this Amendment on their 
+behalf and (ii) on or prior to the 5th day from the date that 
+Administrative Agent shall have provided written notice to the Borrower 
+that Administrative Agent has received consent from the Requisite Lenders 
+to the terms of this Amendment, a counterpart signature page of this 
+Amendment duly executed by each of the Credit Parties.
+ 
+B.     Fees.  On or prior to the 5th day from the date that Administrative 
+Agent shall have provided written notice to the Borrower that 
+Administrative Agent has received consent from the Requisite Lenders to the 
+terms of this Amendment, the Administrative Agent shall have received:
+ 
+    (a)     for distribution to all Lenders executing this Amendment on or
+    prior to the First Amendment Effective Date, a non-refundable upfront
+    fee in an amount equal to 0.625% of the aggregate of such Lenders
+    Loans and Commitments outstanding as of the date hereof; and
+     
+    (b)     all other fees and other amounts due and payable on or prior to
+    the First Amendment Effective Date, including, to the extent invoiced,
+    reimbursement or other payment of all out-of-pocket expenses required
+    to be reimbursed or paid by the Borrower hereunder or any other Credit
+    Document.
+     
+C.     Necessary Consents. Each Credit Party shall have obtained all 
+material consents necessary or advisable in connection with the 
+transactions contemplated by this Amendment.
+ 
+D.     Other Documents.  Administrative Agent and Lenders shall have 
+received such other documents, information or agreements regarding Credit 
+Parties as Administrative Agent or Collateral Agent may reasonably request.
+ 
+18
+------------------------------------------------------------------------
+     
+    SECTION III.     REPRESENTATIONS AND WARRANTIES
+     
+In order to induce Lenders to enter into this Amendment and to amend the 
+Credit Agreement in the manner provided herein, each Credit Party which is 
+a party hereto represents and warrants to each Lender that the following 
+statements are true and correct in all material respects:
+ 
+A.     Corporate Power and Authority.  Each Credit Party, which is party 
+hereto, has all requisite power and authority to enter into this Amendment 
+and to carry out the transactions contemplated by, and perform its 
+obligations under, the Credit Agreement as amended by this Amendment (the 
+Amended Agreement) and the other Credit Documents.
+ 
+B.     Authorization of Agreements.  The execution and delivery of this 
+Amendment and the performance of the Amended Agreement and the other Credit 
+Documents have been duly authorized by all necessary action on the part of 
+each Credit Party.
+ 
+C.     No Conflict.  The execution and delivery by each Credit Party of 
+this Amendment and the performance by each Credit Party of the Amended 
+Agreement and the other Credit Documents do not and will not (i) violate 
+(A) any provision of any law, statute, rule or regulation, or of the 
+certificate or articles of incorporation or partnership agreement, other 
+constitutive documents or by-laws of Holdings, the Borrower or any Credit 
+Party or (B) any applicable order of any court or any rule, regulation or 
+order of any Governmental Authority, (ii) be in conflict with, result in a 
+breach of or constitute (alone or with notice or lapse of time or both) a 
+default under any Contractual Obligation of the applicable Credit Party, 
+where any such conflict, violation, breach or default referred to in clause 
+(i) or (ii) of this Section III.C., individually or in the aggregate could 
+reasonably be expected to have a Material Adverse Effect, (iii) except as 
+permitted under the Amended Agreement, result in or require the creation or 
+imposition of any Lien upon any of the properties or assets of each Credit 
+Party (other than any Liens created under any of the Credit Documents in 
+favor of Administrative Agent on behalf of Lenders), or (iv) require any 
+approval of stockholders or partners or any approval or consent of any 
+Person under any Contractual Obligation of each Credit Party, except for 
+such approvals or consents which will be obtained on or before the First 
+Amendment Effective Date and except for any such approvals or consents the 
+failure of which to obtain will not have a Material Adverse Effect.
+ 
+D.     Governmental Consents.  No action, consent or approval of, 
+registration or filing with or any other action by any Governmental 
+Authority is or will be required in connection with the execution and 
+delivery by each Credit Party of this Amendment and the performance by the 
+Borrower and Holdings of the Amended Agreement and the other Credit 
+Documents, except for such actions, consents and approvals the failure to 
+obtain or make which could not reasonably be expected to result in a 
+Material Adverse Effect or which have been obtained and are in full force 
+and effect.
+ 
+E.     Binding Obligation.  This Amendment and the Amended Agreement have 
+been duly executed and delivered by each of the Credit Parties party 
+thereto and each constitutes a legal, valid and binding obligation of such 
+Credit Party to the extent a party thereto, enforceable against such Credit 
+Party in accordance with its terms, except as enforceability may be limited 
+by
+ 
+19
+------------------------------------------------------------------------
+
+ 
+bankruptcy, insolvency, moratorium, reorganization or other similar laws 
+affecting creditors rights generally and except as enforceability may be 
+limited by general principles of equity (regardless of whether such 
+enforceability is considered in a proceeding in equity or at law).
+ 
+F.     Incorporation of Representations and Warranties from Credit 
+Agreement. The representations and warranties contained in Section 4 of the 
+Amended Agreement are and will be true and correct in all material respects 
+on and as of the First Amendment Effective Date to the same extent as 
+though made on and as of that date, except to the extent such 
+representations and warranties specifically relate to an earlier date, in 
+which case they were true and correct in all material respects on and as of 
+such earlier date.
+ 
+G.     Absence of Default.  No event has occurred and is continuing or will 
+result from the consummation of the transactions contemplated by this 
+Amendment that would constitute an Event of Default or a Default.
+ 
+    SECTION IV.     ACKNOWLEDGMENT AND CONSENT
+     
+Each Guarantor hereby acknowledges that it has reviewed the terms and 
+provisions of the Credit Agreement and this Amendment and consents to the 
+amendment of the Credit Agreement effected pursuant to this Amendment.  
+Each Guarantor hereby confirms that each Credit Document to which it is a 
+party or otherwise bound and all Collateral encumbered thereby will 
+continue to guarantee or secure, as the case may be, to the fullest extent 
+possible in accordance with the Credit Documents the payment and 
+performance of all Obligations under each of the Credit Documents to 
+which is a party (in each case as such terms are defined in the applicable 
+Credit Document).
+ 
+Each Guarantor acknowledges and agrees that any of the Credit Documents to 
+which it is a party or otherwise bound shall continue in full force and 
+effect and that all of its obligations thereunder shall be valid and 
+enforceable and shall not be impaired or limited by the execution or 
+effectiveness of this Amendment.  Each Guarantor represents and warrants 
+that all representations and warranties contained in the Amended Agreement 
+and the Credit Documents to which it is a party or otherwise bound are true 
+and correct in all material respects on and as of the First Amendment 
+Effective Date to the same extent as though made on and as of that date, 
+except to the extent such representations and warranties specifically 
+relate to an earlier date, in which case they were true and correct in all 
+material respects on and as of such earlier date.
+ 
+Each Guarantor acknowledges and agrees that (i) notwithstanding the 
+conditions to effectiveness set forth in this Amendment, such Guarantor is 
+not required by the terms of the Credit Agreement or any other Credit 
+Document to consent to the amendments to the Credit Agreement effected 
+pursuant to this Amendment and (ii) nothing in the Credit Agreement, this 
+Amendment or any other Credit Document shall be deemed to require the 
+consent of such Guarantor to any future amendments to the Credit Agreement.
+ 
+20
+------------------------------------------------------------------------
+
+ 
+    SECTION V.     MISCELLANEOUS
+     
+A.     Reference to and Effect on the Credit Agreement and the Other Credit 
+Documents.
+ 
+    (i)     On and after the First Amendment Effective Date, each reference
+    in the Credit Agreement to this Amendment, hereunder, hereof,
+    herein or words of like import referring to the Credit Agreement, and
+    each reference in the other Credit Documents to the Credit Agreement,
+    thereunder, thereof or words of like import referring to the Credit
+    Agreement shall mean and be a reference to the Credit Agreement as
+    amended by this Amendment.
+     
+    (ii)     Except as specifically amended by this Amendment, the Credit
+    Agreement and the other Credit Documents shall remain in full force and
+    effect and are hereby ratified and confirmed.
+     
+    (iii)     The execution, delivery and performance of this Amendment
+    shall not constitute a waiver of any provision of, or operate as a
+    waiver of any right, power or remedy of any Agent or Lender under, the
+    Credit Agreement or any of the other Credit Documents.
+     
+B.     Headings.  Section and Subsection headings in this Amendment are 
+included herein for convenience of reference only and shall not constitute 
+a part of this Amendment for any other purpose or be given any substantive 
+effect.
+ 
+C.     Applicable Law.  THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF 
+THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND SHALL BE CONSTRUED AND 
+ENFORCED IN ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF NEW YORK, 
+WITHOUT REGARD TO CONFLICTS OF LAWS PRINCIPLES THEREOF.
+ 
+D.     Counterparts.  This Amendment may be executed in any number of 
+counterparts and by different parties hereto in separate counterparts, each 
+of which when so executed and delivered shall be deemed an original, but 
+all such counterparts together shall constitute but one and the same 
+instrument; signature pages may be detached from multiple separate 
+counterparts and attached to a single counterpart so that all signature 
+pages are physically attached to the same document.
+ 
+                    [Remainder of this page intentionally left blank.]
+ 
+21
+------------------------------------------------------------------------
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be 
+duly executed and delivered by their respective officers thereunto duly 
+authorized as of the date first written above.
+ 
+ 
+BORROWER:
+ 
+ 
+AEROFLEX INCORPORATED
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+ 
+ 
+Title:  SVP, CFO & Secretary
+ 
+------------------------------------------------------------------------
+
+ 
+GUARANTORS :
+AEROFLEX HOLDING CORP.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  SVP, CFO & Secretary
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AEROFLEX COLORADO SPRINGS, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX HIGH SPEED TEST SOLUTIONS, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX/INMET, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX/KDI, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX/METELICS, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+23
+------------------------------------------------------------------------
+
+ 
+ 
+AEROFLEX MICROELECTRONIC SOLUTIONS, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX PLAINVIEW, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX RAD, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX/WEINSCHEL, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX WICHITA, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX BLOOMINGDALE, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+------------------------------------------------------------------------
+
+ 
+ 
+AEROFLEX ACQUISITION ONE, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX ACQUISITION TWO, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AEROFLEX ACQUISITION THREE, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+AIF CORP.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By: :
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+IFR FINANCE, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+IFR SYSTEMS, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+------------------------------------------------------------------------
+
+ 
+ 
+MCE ASIA, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+MICROMETRICS, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+ 
+ 
+ 
+VI TECHNOLOGY, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ John Adamovich
+ 
+ 
+Name:  John Adamovich
+ 
+ 
+Title:  Vice President
+ 
+------------------------------------------------------------------------
+
+                         
+ 
+ 
+ 
+ 
+ 
+GOLDMAN SACHS CREDIT PARTNERS L.P.,
+ 
+ 
+ 
+ 
+ 
+as Administrative Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Douglas Tansey
+ 
+ 
+ 
+ 
+ 
+ 
+Authorized Signatory
+ 
+------------------------------------------------------------------------
+
+ 
+IN WITNESS WHEREOF, pursuant to Section II.A(i) of the Amendment, the 
+undersigned hereby consents and authorizes the Administrative Agent to 
+execute this Amendment on its behalf.
+ 
+ 
+ 
+                                          , as a Lender
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+------------------------------------------------------------------------
+
