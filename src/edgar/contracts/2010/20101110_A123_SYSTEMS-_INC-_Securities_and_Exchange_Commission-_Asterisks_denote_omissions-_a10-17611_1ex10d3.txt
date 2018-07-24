@@ -1,0 +1,2387 @@
+ EX-10.3 4 a10-17611_1ex10d3.htm EX-10.3
+Exhibit 10.3
+ 
+Confidential Materials omitted and filed separately with the
+Securities and Exchange Commission. Asterisks denote omissions.
+ 
+Supply Agreement
+ 
+This Supply Agreement (this Agreement) is being entered into by and 
+between Fisker Automotive, Inc. and A123 Systems, Inc., a Delaware 
+corporation (A123) (Fisker and A123 individually a Party and together 
+the Parties).
+ 
+The purpose of this Agreement is to set forth certain terms and conditions 
+with respect to A123s supply, and Fiskers purchase, of lithium ion 
+battery packs (the Products) for Fiskers vehicle programs currently 
+designated as the Karma PHEV Program 1 (K1) and the Karma PHEV Program 2 
+(K2) (each, a Vehicle Program).  The Parties hereby agree as follows:
+ 
+    1.             Program Award.  Fisker will award A123 the K1 and K2
+    Vehicle Programs. A123  will be the exclusive supplier of batteries for
+    the K1 and K2 Vehicle Programs for the life of the program contingent
+    on meeting Fiskers continued engineering specifications, performance,
+    quality, durability, total landed cost, supply chain and delivery
+    requirements.  After Fisker has purchased the initial [**] batteries
+    from A123 for the K1 and K2 Vehicle Program, if Fisker determines and
+    is able to document that A123 is uncompetitive in any of the afore
+    mentioned areas by more than [**]%, Fisker shall give A123 written
+    notice of the deviation.  A123 shall then have [**] days in which to
+    close the competitive gap and retain the business.  Should this gap not
+    be closed within the [**] days, Fisker shall have the right to
+    re-source all or any part of the business, in Fiskers sole discretion.
+     
+    2.             Future Program Awards.  Fisker is in the process of
+    developing a third Program, currently designated as the Nina Program. 
+    The Nina program will be competitively bid. The parties intend that
+    A123 shall supply batteries for the Nina Program based on A123 meeting
+    Fisker Automotive Incs. engineering specifications, performance,
+    quality, reliability, durability, total landed cost, supply chain and
+    delivery requirements as stated in the Product manual.  Should Fisker
+    receive alternative, qualified, competitive bids it agrees that it
+    shall, subject to its confidentiality obligations, provide A123 with
+    written notice of the A123 gaps based on the qualified bids it has
+    received. The parties will mutually agree proceedure for treating third
+    party confidential information.  A123 shall have [**] days to match the
+    [**] of the competitive offers. If A123 is able to match the
+    alternative bid, then A123 will be awarded the production Program. If
+    A123 is awarded the Program, should Fisker determine and be able to
+    document A123 to be uncompetitive in any of the afore mentioned areas
+    by more than [**]%, Fisker shall give A123 written notice of the
+    deviation.  A123 shall then have [**] days in which to close the
+    competitive gap and retain the business.  Should this gap not be closed
+    within the [**] days, Fisker shall have the right to re-source the
+    business.
+     
+    3.             Intentionally Left Blank
+     
+    4.             Term. This Agreement will become effective on the date
+    of the last Party to sign this Agreement (the Effective Date) and
+    will expire upon the earlier of the Tenth Anniversary (the Term), or
+    upon the default provisions of Fiskers General Terms and Conditions.
+ 
+1
+------------------------------------------------------------------------
+
+ 
+    5.             Applicable Terms and Conditions.  All Purchase Orders
+    for Products issued to A123 during the Term will be subject to Fiskers
+    General Terms and Conditions of Purchase attached hereto, except to
+    the extent that such general terms and conditions have been expressly
+    modified by this Agreement including the exceptions set forth in 
+    Exhibit A attached hereto and incorporated by reference herein.  In
+    case of a conflict between a term or condition in a Purchase Order,
+    General Terms and Conditions of Purchase and a term or condition in
+    this Agreement, the term or condition in this Agreement will control
+    and supersede the conflicting term or condition in the General Terms
+    and Conditions of Purchase or Purchase Order.
+     
+    6.             Unit Prices.  The applicable unit prices for the Karma
+    PHEV Program 1 Products are set forth in Exhibit 2 attached hereto and
+    incorporated herein.   The Parties will mutually agree on the pricing
+    for the Karma PHEV Program 2 and Nina Program.
+     
+    7.             Confidentiality.  The terms of the Mutual Nondisclosure
+    Agreement dated April 3, 2009 between the Parties are hereby
+    incorporated into this Agreement.
+     
+    8.             Entire Agreement. This Agreement (including all
+    exhibits, schedules and attachments hereto), the Purchase Orders, and
+    the General Terms and Conditions of Production constitute the entire
+    understanding and agreement between the Parties with respect to the
+    matters contained in this Agreement and supersede all prior oral or
+    written representations and agreements pertaining to the subject
+    hereof.  This Agreement (including any policies and procedures
+    incorporated by reference) may only be modified by a written amendment
+    executed on behalf of both Parties by a person of comparable authority
+    to the signatories of this Agreement.
+     
+[Signature Pages Follow]
+ 
+2
+------------------------------------------------------------------------
+
+ 
+This Agreement has been executed on behalf of the Parties by their duly 
+authorized representatives as follows:
+ 
+FISKER AUTOMOTIVE, INC.
+ 
+ 
+ 
+By:
+/s/ Henrik Fisker
+ 
+ 
+ 
+ 
+Name:
+Henrik Fisker
+ 
+ 
+ 
+ 
+Title:
+CEO
+ 
+ 
+ 
+ 
+Date:
+1/13/2010
+ 
+ 
+SIGNATURE PAGE TO SUPPLY AGREEMENT
+ 
+------------------------------------------------------------------------
+
+ 
+This Agreement has been executed on behalf of the Parties by their duly 
+authorized representatives as follows:
+ 
+A123 SYSTEMS, INC.
+ 
+ 
+ 
+By:
+/s/ David P. Vieau
+ 
+ 
+ 
+ 
+Name:
+David P. Vieau
+ 
+ 
+ 
+ 
+Title:
+President and CEO
+ 
+ 
+ 
+ 
+Date:
+1/13/2010
+ 
+ 
+SIGNATURE PAGE TO SUPPLY AGREEMENT
+ 
+------------------------------------------------------------------------
+
+ 
+Exhibit A
+ 
+Exceptions to the General Terms and Conditions of Purchase
+ 
+The Parties hereby agree to the following modifications to the General 
+Terms and Conditions of Purchase:
+ 
+    1.     Paragraph 4 of the General Terms and Conditions is hereby
+    modified in the following manner:
+     
+  Notwithstanding any provision to the contrary, Sellers liability for
+  delayed delivery of up to [**] shall not exceed the fees paid to Seller
+  by Buyer hereunder in the [**] prior to the applicable claim provided
+  however, Seller shall not be liable for any damages, costs or fees that
+  result from a delay in performing, if the delay or failure was due to any
+  cause beyond Sellers control.  Causes beyond Sellers control shall
+  include, but not be limited to, acts of God, flood, explosion, natural
+  catastrophe, storms, fire or accident.
+   
+  Notwithstanding any provision to the contrary, the Products shall be
+  deemed accepted upon shipment.  Nothing in this provision relieves Seller
+  of its warranty obligations under this Agreement.
+   
+  Section 6 is deleted in its entirety.
+   
+    2.     Paragraph 9 of the General Terms and Conditions is hereby
+    deleted and replaced with the following:
+     
+During the ten-year period after Buyer completes the last purchases for 
+production, Seller shall sell to Buyer Supplies to fulfill Buyers service 
+and replacement requirements.  All such Supplies shall be sold at the 
+prices mutually agreed upon by the Parties in the last year of production 
+and Buyer and Seller shall negotiate in good faith with regard to such 
+price provided, however that in no event shall the price for such Supplies 
+exceed the price that Seller charges others for the same or similar 
+Supplies at similar volumes.
+ 
+    3.     Paragraph 10 of the General Terms and Conditions is hereby
+    replaced with the following:
+     
+    (a)         Express Warranties.
+     
+    (1)           Seller warrants that during the Warranty Term the
+    Products will (A) conform to the Product Specifications (as mutually
+    agreed upon by the Parties), (B) be merchantable, and (C) be free from
+    defects in material and workmanship.
+ 
+1
+------------------------------------------------------------------------
+
+ 
+    (2)           Seller further warrants that on delivery Buyer will
+    receive good title to the Products, free and clear of all liens and
+    encumbrances and that all Products.
+     
+    (3)           Seller warrants that the services shall be performed in a
+    professional and workmanlike manner, consistent with all industry
+    standards.
+     
+    (b)           Warranty Term. The Warranty Terms shall begin on the date
+    of delivery of the Product to Buyer and end on the earliest to occur
+    of: (A) [**] from the date of delivery of the Product to Buyer  or (B)
+    the end of the warranty period offered by Buyer to end-users for the
+    vehicle into which the Product is assembled (currently 50 months or
+    50,000 miles whichever occurs sooner).
+     
+    (c)           Warranty Claims; Process and Procedures
+     
+    (1)           Sellers liability for a breach of the warranties given
+    herein will be determined by the Parties analysis of a sample of parts
+    against which claims are made that the parts are defective.  Buyer and
+    Seller will work together in good faith to develop procedures and
+    guidelines for this process which will require component level
+    serviceability, mutual agreement on any warranty cause and remedy, and
+    development of an optimal low cost service and warranty process.
+     
+    (2)           Buyer and Seller will mutually agree on a warranty claims
+    process and a list of serviceable pack components which Buyer will
+    utilize in its field service organization.
+     
+    (d)           Warranty Disclaimer.
+     
+    EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS ORDER, SELLER MAKES NO
+    OTHER WARRANTIES ABOUT THE PERFORMANCE OF THE PRODUCTS AND DISCLAIMS
+    ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, RELATING TO THE PRODUCTS,
+    INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT.
+     
+    4.     Paragraph 11 of the General Terms and Conditions is hereby
+    replaced with the following:
+     
+    (a)   Seller agrees to indemnify, defend and hold Buyer and its
+    stockholders, directors, officers, employees, distributors, agents and
+    customers (each, an Indemnified Party) harmless against any and all
+    third party demands, actions, expenses (including attorneys fees and
+    disbursements), losses, claims, suits, proceedings, liabilities,
+    damages or penalties arising out of or in connection with infringement
+    by the Products (including the Products materials or design) of any
+    patent, trademark, copyright, trade secrets or any other proprietary
+    rights of any third party, except to the extent such infringement
+    results exclusively from (a) the design specifications provided or
+    required by Buyer, or (b) such infringement
+ 
+2
+------------------------------------------------------------------------
+
+     
+    results from Buyers design or other development activities where any
+    applicable Product (including third party products) in combination with
+    Buyers design or other development activities would infringe, or (c)
+    such infringement would not have occurred but for a modification of the
+    Products by any party other than Seller or (d) the combination,
+    operation or use of the Products with any other products or services
+    not supplied by Seller where the Products would not by themselves be
+    infringing.
+ 
+    (b)   If the use of the Products, is enjoined or in Sellers opinion is
+    likely to become the subject of a valid claim of infringement, then
+    Seller shall, at its sole expense either: (i) procure for Buyer the
+    right to continue using the Products as authorized hereunder; (ii)
+    replace the Products with a non-infringing version of equivalent
+    function, performance and price; and/or (iii) modify the Products to be
+    non-infringing.  Nothing in this Section 11(b) shall limit Sellers
+    indemnity obligations under this Agreement
+     
+    5.     Paragraph 14 is hereby modified by deleting Section  14(b)(i).
+     
+    6.     Paragraph 14 is hereby modified by deleting Section  14(h)(i)
+    and 14(h)(ii).
+     
+    7.     Section 14(k) is hereby modified by deleting the last sentence
+    and replacing it with the following. Sellers obligation related to
+    Recalls shall apply only during the warranty period for the Product.
+     
+    8.     Section 14(n) is modified by addition the following language to
+    the beginning of the first sentence; Except for a partys breach of
+    confidentiality or misappropriation of the other partys intellectual
+    property.
+     
+    9.     Paragraph 18 is hereby modified in the following manner:
+        a.     Section 18(c) is deleted.
+        b.     Section 18 (d) is deleted and replaced with the following:
+         
+    This Agreement does not affect the ownership of any existing
+    intellectual property rights of either party. Each party shall retain
+    ownership to all of its background intellectual property including but
+    not limited to any improvements, modification or enhancements to its
+    background intellectual property regardless of who created the
+    improvements, modifications or enhancements.  With the exception of the
+    items specified below, Seller shall own all intellectual property
+    rights in the Product developed under this Agreement.   Sellers
+    background intellectual property includes, without limitation, Sellers
+    proprietary cells and their related components, materials and
+    chemistry, product specifications, manufacturing and development
+    methodologies, cell and system level electronics, know-how and
+    research, experimental and development work, design details, and
+    engineering information.
+     
+    Buyer shall retain ownership to all of its background intellectual
+    property including but not limited to any improvements, modification or
+    enhancements to its background intellectual property regardless of who
+    created the improvements,
+ 
+3
+------------------------------------------------------------------------
+
+     
+    modifications or enhancements.  With regard to intellectual property
+    rights in the product developed under this Agreement, Buyer shall own
+    the [**].
+     
+    10.   The first two sentences of Section 20 (a) are deleted and
+    replaced with the following:
+     
+Seller shall maintain and upon request furnish to Buyer a certificate 
+evidencing (a) general liability insurance with liability coverage limits 
+reasonably acceptable to Buyer and naming Buyer as an additional insured 
+and (b) workers compensation insurance as required by applicable law.
+ 
+    11.   The following new provision is hereby added to the General Terms
+    and Conditions of Purchase:
+     
+    Limitation of Liability
+     
+    (a)   Disclaimer.  EXCEPT FOR EITHER PARTYS BREACH OF CONFIDENTIALITY
+    OR MISAPPROPRIATION OF THE OTHER PARTYS INTELLECTUAL PROPERTY, IN NO
+    EVENT SHALL EITHER PARTY BE LIABLE FOR SPECIAL, INCIDENTAL,
+    CONSEQUENTIAL, EXEMPLARY, PUNITIVE, OR OTHER INDIRECT DAMAGES, OR FOR
+    LOSS OF PROFITS, LOSS OF DATA OR LOSS OF USE DAMAGES, ARISING OUT OF
+    THIS AGREEMENT, WHETHER BASED UPON WARRANTY, CONTRACT, TORT, STRICT
+    LIABILITY OR OTHERWISE.
+     
+    (b)   Limitation.  Except for Sellers indemnification obligation under
+    Section 11 or either partys breach of its confidentiality obligations
+    or misappropriation of the other partys intellectual property, each
+    partys aggregate liability to the other party, whether in contract,
+    tort, or otherwise, for all claims, in the aggregate, arising out of or
+    in connection with this Agreement, shall not exceed the amount of fees
+    paid to Seller by Buyer hereunder in the twelve (12) months prior to
+    the applicable claims, less any amounts paid for any other claims in
+    such twelve (12) month period.
+     
+    12.   The following new provision is hereby added to the General Terms
+    and Conditions of Purchase:
+     
+Payment terms are (45 days) from date of invoice.  Seller shall invoice 
+Buyer on a monthly basis for the units shipped in the preceding month.
+ 
+4
+------------------------------------------------------------------------
+
+ 
+Exhibit 2
+ 
+Pricing Schedule
+Karma PHEV Program 1
+ 
+A.  [**]
+ 
+[**] will be paid by Fisker to A123 at PPAP, [**]% at interim, [**]% at 
+Full. [**] has the capacity to produce [**] packs per year, plus [**]% for 
+a maximum of [**] without additional [**] procured and deployed.
+ 
+[**] Description
+ 
+Cost $
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+[**]
+ 
+ 
+ 
+ 
+ 
+Total
+ 
+[**]
+ 
+ 
+B.  Prototype Pricing
+ 
+A- Samples:           $[**]/pack, [**] deliverables
+B- Samples:           $[**]/pack, [**] deliverables
+C-samples:             $[**]/pack, [**] through  start of production
+ 
+1
+------------------------------------------------------------------------
+
+ 
+C.  Production Pricing
+ 
+Cumulative Pack
+Volume during the
+Term
+ 
+Pack Price
+ 
+Comments
+ 
+Est. timing
+[**] units
+ 
+[**]
+ 
+Ramp up cost
+ 
+[**]
+[**] units
+ 
+[**]
+ 
+Karma Prod. Volumes
+ 
+[**]
+[**] units
+ 
+[**]
+ 
+Karma + Nina [**]
+ 
+[**]
+[**] units
+ 
+[**]
+ 
+Productivity
+ 
+[**]
+[**] units
+ 
+[**]
+ 
+Productivity
+ 
+[**]
+ 
+Note:
+ 
+      1.     Shipping Terms are FCA manufacturing location
+       
+      2.     Pricing is per the [**] cell agreed upon design solution.
+       
+      3.     100% of the production volumes on the Karma Fisker and its
+      derivatives are supplied by A123, subject to the program award terms
+      defined above.
+       
+      4.     Price downs will be provided once the cumulative volume limits
+      have been reached to qualify for the next step down in pricing level
+       
+      5.     Pricing assumes that Fisker will reasonably support A123 with
+      all the necessary qualification approvals for A123 to launch a [**].
+       
+      6.     Recycling costs are not included in the pricing. FA and A123
+      will develop a mutually agreed upon recycling procedure. In the event
+      the Product is in breach of the product warranty and the parties
+      mutually agree to recycle the Product, Seller shall be responsible
+      for the recycling costs for that particular unit.
+       
+      7.     Fisker will provide annual volume levels for planning and
+      quotation purposes with quarterly releases and adjustments thereto.
+      These quarterly volumes releases will be updated monthly and the [**]
+      week schedule of product releases will be Fiskers volume commitment.
+       
+      8.     Buyer shall purchase [**] units from A123 and cannot suspend
+      performance until the initial [**] units of packs have been
+      purchased.
+ 
+2
+------------------------------------------------------------------------
+
+ 
+      9.     Non returnable dunnage (in accordance with the FA quality and
+      logistics manual) costs have been included in the above listed piece
+      prices.
+       
+D.  Non-Recurring Engineering
+ 
+    The cost to engineer and validate the Karma PHEV Program 1 and Karma
+    PHEV Program 2 pack is $[**] (details to be supplied to Fisker).  [**].
+ 
+3
+------------------------------------------------------------------------
+
+ 
+Exhibit 3
+General Terms and Conditions of Purchase
+ 
+4
+------------------------------------------------------------------------
+
+ 
+FISKER AUTOMOTIVE, INC.
+ 
+GENERAL TERMS AND CONDITIONS
+ 
+OF PURCHASE
+ 
+------------------------------------------------------------------------
+
+ 
+TABLE OF CONTENTS
+ 
+1.
+The Supplies and Parties Covered by the Order
+1
+2.
+The Terms of the Order
+1
+3.
+Quantity; Blanket Orders; Material Releases
+2
+4.
+Shipping and Delivery
+3
+5.
+Price and Payment
+5
+6.
+Non-Conforming Supplies
+6
+7.
+Buyer and Industry Standards and Policies
+7
+8.
+Changes
+8
+9.
+Service Parts
+8
+10.
+Warranties
+9
+11.
+Indemnification
+11
+12.
+Inspection and Audit
+12
+13.
+Ethical Conduct
+13
+14.
+Duration, Termination and Remedies
+14
+15.
+Buyers Property
+19
+16.
+Sellers Property
+21
+17.
+Tooling
+22
+18.
+Intellectual Property
+23
+19.
+Proprietary Information
+24
+20.
+Insurance; Waiver of Liens
+26
+21.
+Excusable Delay
+26
+22.
+Buyers Liability
+28
+23.
+Limitation on Assignment and Subcontracting
+28
+24.
+Compliance with Laws
+28
+25.
+Foreign Purchases
+29
+26.
+Buyer Financing
+29
+27.
+Miscellaneous
+30
+ 
+i
+------------------------------------------------------------------------
+
+ 
+FISKER AUTOMOTIVE, INC.
+ 
+GENERAL TERMS AND CONDITIONS OF PURCHASE
+ 
+1.             The Supplies and Parties Covered by the Order
+ 
+    (a)           Supplies
+     
+These General Terms and Conditions (Terms) apply to the purchase of the 
+goods and/or services (Supplies) identified in a purchase order issued by 
+Buyer to Seller which references these Terms.
+ 
+    (b)           Parties
+     
+Buyer and Seller are identified on the face of the purchase order.
+ 
+2.             The Terms of the Order
+ 
+    (a)           Terms of the Order
+     
+The Order consists of the following, which are sometimes referred to 
+collectively as the Terms of the Order: (i) the purchase order; (ii) 
+Material Releases (as defined in Section 3(a)) issued by Buyer to Seller 
+under the purchase order (iii) these Terms; (iv) all other documents 
+specifically incorporated into or otherwise made a part of the Order by 
+Buyer; and (v) Buyers purchase policies, as revised by Buyer and agreed to 
+in writing by Seller from time to time. Seller is responsible for keeping 
+current regarding the terms of Buyers purchase policies.
+ 
+    (b)           Sellers Acceptance
+     
+The purchase order is an offer by Buyer to purchase the Supplies from 
+Seller on the Terms of the Order. The contract is formed when Seller 
+accepts the offer of Buyer. This occurs upon the earlier of: (i) Seller 
+beginning work or performance based on the purchase order; or (ii) Seller 
+notifying Buyer of its acceptance of the offer in writing. The Order is 
+limited to and conditional upon Sellers acceptance of these Terms 
+exclusively.
+ 
+    (c)           Sellers Terms Rejected
+     
+The Order does not constitute an acceptance of any offer or proposal made 
+by Seller, and Seller acknowledges that: (i) a request for quotation or 
+similar document issued by Buyer is not an offer by Buyer; and (ii) any 
+response by Seller to a request for quotation or similar document issued by 
+Buyer is not an offer by Seller. Any additional or different terms proposed 
+by Seller, whether in Sellers quotation, acknowledgement, invoice or 
+otherwise, are unacceptable to Buyer, are expressly rejected by Buyer, and 
+are not part of
+ 
+1
+------------------------------------------------------------------------
+
+ 
+the Order. However, additional or different terms proposed by Seller shall 
+not operate as a rejection of the Order if Seller commences work or 
+otherwise accepts Buyers offer, in which case the Order shall be deemed 
+accepted by Seller without any additional or different terms or variations 
+whatsoever. Any reference in the Order to any prior communication by Seller 
+is solely to incorporate the description or specifications of the Supplies 
+in such prior communication, but only to the extent that such description 
+or specifications are not directly in conflict with the description and 
+specifications in the Order. If the Order is determined to be an acceptance 
+of any prior offer or proposal by Seller, such acceptance shall be limited 
+to the Terms of the Order.
+ 
+    (d)           Entire Agreement
+     
+The Order is the entire agreement between the parties respecting the 
+Supplies and when accepted, supersedes any prior agreements, negotiations 
+or understandings of the parties respecting the Supplies, whether written 
+or oral. No modification shall be effective unless in writing and signed by 
+Buyers and Sellers authorized representative. The Order may be modified 
+only by a writing signed by Buyer and agreed to in writing by Seller.
+ 
+3.             Quantity; Blanket Orders; Material Releases
+ 
+    (a)           Releases
+     
+Unless specified differently in the Order, Seller shall deliver Supplies in 
+strict conformance with the dates, times, quantities and delivery locations 
+determined by Buyer and identified as firm orders in material authorization 
+releases, manifests, broadcasts or similar releases (Material Releases). 
+Time, quantities and location are of the essence under the Order and Seller 
+shall provide 100% on-time delivery of the quantities and at the times 
+specified by Buyer. Seller shall not make any commitments for raw materials 
+or other inventory or manufacture any Supplies in advance of the time 
+necessary to meet Buyers firm delivery requirements. Buyer is not required 
+to purchase Supplies exclusively from Seller unless the Order expressly 
+states that it is exclusive, 100% requirements, or similar term.
+ 
+    (b)           Blanket Orders
+     
+If the Order does not specify a quantity, states zero, blanket, per 
+release or similar term, the Order is a Blanket Order. If the Order is a 
+Blanket Order, then for consideration of $10.00 to be paid by Buyer 
+following expiration or termination of the Order, Seller grants to Buyer an 
+irrevocable option during the term of the Order to purchase Supplies in 
+such quantities specified in Material Releases that are transmitted to 
+Seller during the term of the Order, provided that Buyer shall purchase no 
+less than a minimum quantity of at least one piece or unit of each of the 
+Supplies and a maximum of no more than 100% of Buyers requirements for the 
+Supplies.
+ 
+2
+------------------------------------------------------------------------
+
+ 
+    (c)           Forecasts
+     
+Any estimates or forecasts of production volumes or length of program are 
+for planning and are subject to change from time to time and shall not be 
+binding upon Buyer or Seller.
+ 
+    (d)           EDI
+     
+Buyer may require Seller to participate in electronic data interchange or 
+similar inventory management program, at Sellers expense, for notification 
+of Material Releases, shipping notices and confirmation and other 
+information.
+ 
+    (e)           Suspension of Performance
+     
+Buyer may at any time, by prior written notice to Seller, suspend 
+performance of deliveries and Sellers other performance obligations for 
+such time as it deems appropriate. Upon receiving notice of suspension, 
+Seller shall promptly suspend deliveries and work to the extent specified, 
+and properly care for and protect all work in progress and materials, 
+supplies and equipment Seller has on hand for performance. Upon Buyers 
+request, Seller shall promptly deliver to Buyer copies of Sellers 
+outstanding purchase orders and subcontracts for materials, equipment 
+and/or services related to performance of an Order, and shall take such 
+action relative to such purchase orders and subcontracts as Buyer may 
+direct. Buyer may at any time withdraw the suspension as to all or part of 
+the suspended deliveries and work by written notice specifying the 
+effective date and scope of withdrawal. Seller shall resume diligent 
+performance on the specified effective date of withdrawal. In the event 
+suspension of performance occurs for longer than 60 days, then Seller shall 
+be entitled to recover its costs under section 14. All claims caused by 
+suspension shall be limited to an equitable extension of time for 
+performance as Sellers exclusive remedy must be pursued pursuant to and 
+consistent with the Section on Changes or they shall be deemed waived.
+ 
+4.             Shipping and Delivery
+ 
+    (a)           Buyers Requirements
+     
+Seller shall properly pack, mark, and ship Supplies (and provide related 
+documentation) according to the requirements specified by Buyer, the 
+involved carriers and the country of destination. Seller shall promptly 
+provide Buyer with, in the form required by Law and as requested by Buyer, 
+the identity and amount of all ingredients (and any changes in the 
+ingredients) of the Supplies. Sellers Quality and Logistics Manual or 
+similar documents,, prepared in association with its designated assembly 
+supplier, Valmet Automotive, provides some of the specific requirements of 
+Buyer and it will be provided separately by Buyer. Buyer may provide 
+amendments, supplements and replacements to and/or of the current Manual 
+for Logistics, which shall be binding on Seller.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+    (b)           Delay in Delivery
+     
+If Seller, for any reason, does not comply with Buyers delivery schedule 
+or any other requirement of a Material Release, Buyer may, in its sole 
+discretion: (i) approve a revised delivery schedule; (ii) require expedited 
+or premium shipment of any of the Supplies; or (iii) cover from other 
+sources, and adjust any quantity requirement under the Order accordingly. 
+Seller shall be liable for all excess costs and for all other direct 
+damages incurred by Buyer as a result of Sellers failure including: (a) 
+additional transportation costs; (b) the direct cost of any production 
+disruption; and (c) the cost of obtaining Supplies from an alternate 
+source. Buyers rights under this Section may be exercised at Sellers sole 
+expense, at Buyers sole discretion, and in addition to and without 
+prejudice to any other right or remedy available to Buyer.
+ 
+    (c)           Title and Risk of Loss
+     
+    (i)            Except for Tooling, Buyer shall take title to all
+    Supplies upon the earlier of: (i) delivery and acceptance of the
+    Supplies FCA Incoterms 2000 Sellers plant; or (ii) payment by Buyer of
+    100% of the purchase price of identified Supplies. Supplies shall be
+    deemed identified upon fabrication, unless the Supplies are part of
+    Sellers standard stock and sold to persons in addition to Buyer, in
+    which case identification occurs when the Supplies are marked or
+    otherwise designated by Seller as relating to the Order.
+     
+    (ii)           If the Supplies are Tooling, Buyer shall take title and
+    risk of loss upon payment in full for the Tooling. Tooling includes
+    fixtures, gauges, jigs, patterns, castings, cavity dies and molds, with
+    all related software, appurtenances, accessions, and accessories.
+     
+    (iii)          Seller shall comply with Section 15 with respect to any
+    Supplies to which Buyer has title but which are in the custody or
+    control of Seller or Sellers suppliers, contractors or agents.
+     
+    (iv)          All shipments are at the risk of Seller until receipt by
+    Buyer. If risk of loss is assumed by Buyer, all risk casualty insurance
+    for replacement value must be provided by Seller for the benefit of
+    Buyer. The cost of any insurance shall be paid by Seller unless
+    otherwise expressly agreed in writing by Buyer. Under no condition will
+    the risk of loss be that of Buyer unless such insurance is provided.
+    Risk of loss shall not be governed by transfer of title.
+     
+    (d)           Country of Origin
+     
+Seller shall promptly and reasonably furnish to Buyer all certificates of 
+origin or domestic value-added and all other information relating to the 
+costs and places of origin of the Supplies as may be deemed reasonably 
+necessary by Buyer to comply fully with all
+ 
+4
+------------------------------------------------------------------------
+
+ 
+customs, tariffs and other applicable Laws (as defined in Section 24). 
+Seller shall comply with all such Lawsand warrants that any such 
+information that is supplied to Buyer is true and that all sales covered by 
+the Order will be made at not less than fair value under the anti-dumping 
+Laws of the countries to which the Supplies are exported
+ 
+    (e)           Hazardous Materials
+     
+Seller shall comply with all Laws relating to any hazardous or restricted 
+material that is an ingredient or part of the Supplies. Sellers 
+responsibility shall include appropriate government/country registration 
+requirements such as REACH (Registration, Evaluation, Authorization, and 
+Restriction of Chemicals) and IMDS (International Material Data System). 
+Seller shall give Buyer sufficient warning in writing (including 
+appropriate labels, containers, and packing, and handling, disposal and 
+recycling instructions, material safety data sheets and certificates of 
+analysis) of any such materials.
+ 
+5.             Price and Payment
+ 
+    (a)           Price
+     
+The purchase price of the Supplies is set forth in the Order. Unless 
+otherwise stated in the Order, the purchase price: (i) is a firm fixed 
+price for the duration of the Order and not subject to increase for any 
+reason, including increased raw material costs, increased labor or other 
+manufacturing costs, increased development costs, or changes in volumes or 
+program length from those estimated or expected unless agreed to in writing 
+by Buyer and Seller; (ii) is inclusive of all federal, state, provincial, 
+and local taxes and any duties applicable to provision of the Supplies; and 
+(iii) is inclusive of all storage, handling, packaging and all other 
+expenses and charges of Seller. All prices are FCA Incoterms 2000 Sellers 
+plant (place of shipment) unless otherwise provided in the Order.
+ 
+    (b)           Invoices
+     
+Unless otherwise stated in the Order, invoices shall be issued on or after 
+shipment of Supplies to Buyer and payment shall be deemed to occur upon 
+mailing or other rendering of payment to Seller. All payments shall be made 
+in U.S. dollars unless agreed to in writing by Buyer. Seller shall, at its 
+expense, comply with Buyers written instructions and policies with respect 
+to the form, content and method for submission of invoices, which will be 
+provided to Seller by Buyer.
+ 
+    (c)           Payment Terms
+     
+Unless otherwise stated in the Order, payment terms are net 45 days after 
+date of receipt of invoice by Buyer.
+ 
+5
+------------------------------------------------------------------------
+
+ 
+    (d)           Best Price
+     
+Seller warrants that the prices for the Supplies sold to Buyer are no less 
+favorable than those that Seller currently extends to all third parties for 
+the same or similar Supplies at similar locations under substantially 
+similar Terms and in similar quantities. If Seller reduces its prices to 
+third parties for the same or similar Supplies at similar locations under 
+substantially similar Terms during the term of the Order for the Supplies, 
+Seller shall correspondingly reduce the prices charged to Buyer.
+ 
+    (e)           Setoff
+     
+In addition to any right of setoff or recoup provided by law, Buyer shall 
+be entitled at any time to setoff or recoupment against sums payable by 
+Buyer to Seller any amounts for which Buyer determines in good faith Seller 
+is liable to Buyer or its affiliates under any Order or other agreements 
+with Seller. Buyer may do so upon prior notice to Seller.
+ 
+    (f)            Payment Not Acceptance
+     
+Payment for Supplies shall not constitute acceptance of non-conforming 
+Supplies nor limit or affect any rights or remedies of Buyer.
+ 
+    (g)           Credits
+     
+Credits or benefits resulting from the Order, including trade credits, 
+export credits, and or the refund of duties, taxes, or fees, belong to 
+Buyer. Seller shall provide all information and certificates (including 
+NAFTA and other country and area certificates of origin) necessary to 
+permit Buyer to receive these benefits or credits.
+ 
+6.             Non-Conforming Supplies
+ 
+    (a)           Rejection
+     
+If defective or otherwise non-conforming Supplies are rejected by Buyer, 
+the quantities under the Order are automatically reduced unless Buyer 
+otherwise notifies Seller, and Seller shall not replace reduced quantities 
+without a new Material Release from Buyer. Following rejection, Seller 
+shall, without prejudice to any other right or remedy of Buyer, at Buyers 
+sole discretion and at Sellers sole expense:
+ 
+    (i)            Accept return of the non-conforming Supplies to Seller
+    for a refund of the full invoice price, plus payment of transportation
+    charges for such defective or otherwise non-conforming supplies;
+     
+    (ii)           Replace the non-conforming Supplies with conforming
+    Supplies; and/or
+ 
+6
+------------------------------------------------------------------------
+
+ 
+    (iii)          Correct at any time prior to shipment from Buyers plant
+    the non-conforming Supplies.
+     
+    (b)           Buyers Losses
+     
+Seller is liable for all direct damages, losses, costs, and expenses 
+incurred by Buyer resulting from Sellers failure to deliver conforming and 
+non-defective Supplies or to comply with the shipping and delivery or other 
+requirements of Buyer, even if Seller has cured the failure. This includes 
+but is not limited to compensating Buyer for:
+ 
+    (i)            Any amounts charged by Buyers vehicle assembly supplier
+    to Buyer;
+     
+    (ii)           All costs of containment, sorting, repair, replacement,
+    cure, cover, or any other reasonable and documented costs incurred by
+    Buyer, determined in such manner and in such amount as reasonably
+    determined by Buyer;
+     
+    (iii)          All costs of any recall campaign, corrective service
+    action, or other voluntary or involuntary action in which Buyer
+    participates in connection with inclusion of Supplies in goods sold by
+    Buyer.
+     
+    (c)           Corrective Action
+     
+Promptly upon learning of defective or non-conforming Supplies, Seller 
+shall develop, document and implement corrective actions in accordance with 
+all applicable quality control policies and standards in the Supplier 
+Quality and Logistics Manual as provided by Buyer to Seller. Seller shall 
+immediately notify Buyer in writing when Seller becomes aware of any 
+ingredient, component, design or other defect in the Supplies that is or 
+may become harmful to persons or property.
+ 
+7.             Buyer and Industry Standards and Policies
+ 
+    (a)           Quality Standards
+     
+Seller and Supplies shall conform to all quality control and other 
+standards and inspection systems as established or directed by Buyer in the 
+Supplier Quality and Logistics Manual Buyer may provide amendments, 
+supplements, and replacements to and/or of the current Supplier Quality and 
+Logistics Manual, which shall be binding on Seller.
+ 
+7
+------------------------------------------------------------------------
+
+ 
+8.             Changes
+ 
+    (a)           Buyers Changes
+     
+Buyer reserves the right to change the design, specifications, engineering 
+level, materials, packaging, testing requirements, shipping date, or time 
+or place of delivery, of the Supplies. Seller shall promptly make any such 
+change as directed by Buyer, provided that the parties agree upon the 
+feasibility and cost impact of such changes per section 8(c).
+ 
+    (b)           Sellers Changes
+     
+Seller shall not make any change to the Supplies except at Buyers written 
+instruction or with Buyers written approval. If Seller learns of a 
+possible change to the Supplies that may reduce costs, improve quality, or 
+otherwise be beneficial to Buyer, Seller shall promptly inform Buyer of the 
+possible change in writing. Seller shall maintain a process of continuous 
+improvement in the Supplies. Seller certifies the location(s) from which it 
+will ship the Supplies as specified in the Order. If Seller at any time 
+intends to change such location(s), Seller must notify Buyer in writing 
+prior to the change so that the effect of such change can be evaluated as 
+to quality, transportation costs and time, packaging methods, and other 
+factors.
+ 
+    (c)           Impact on Changes
+     
+Seller shall, at the earliest of ten working days of receipt of a request 
+for change from Buyer or the receipt of a purchase order change, notify 
+Buyer in writing if a change directed or approved by Buyer will affect cost 
+or timing and provide substantiation of its claim. Buyer and Seller will 
+negotiate in good faith and agree on an equitable price adjustment (up or 
+down), a change in shipping or delivery terms, required tooling investment, 
+or other appropriate adjustment prior to implementation of any change. If 
+an adjustment is not agreed upon, Seller shall make the change and the 
+claim shall be subject to the dispute resolution provisions of these Terms.
+ 
+9.             Service Parts
+ 
+    (a)           Period and Prices
+     
+During the ten-year period after Buyer completes purchases for production, 
+Seller shall sell to Buyer Supplies to fulfill Buyers service and 
+replacement requirements. All such Supplies shall be sold at the prices 
+specified in the Order plus actual cost differentials for packaging. During 
+the tenth year of such period, Buyer and Seller shall negotiate in good 
+faith with regard to Sellers continued manufacture of service and 
+replacement Supplies. Seller shall store and maintain all Tooling and other 
+resources necessary for the production of service and replacement Supplies. 
+If the Supplies are no longer required
+ 
+8
+------------------------------------------------------------------------
+
+ 
+for Buyers vehicle production, then the price of the Supplies for service 
+requirements will be no greater than the last price stated in the order 
+plus or minus: (i) any changes in the cost of materials since the Order was 
+terminated or production ceased; (ii) a volume adjustment reflecting the 
+actual increase in the cost per unit of producing fewer units; (iii) a 
+set-up charge reflecting the actual cost of preparation for the production 
+run; and (iv) any additional costs actually incurred for special packaging. 
+The foregoing must be documented to Buyers reasonable satisfaction, 
+including, but not limited to, set-up detail, machine productivity, scrap 
+allowance, labor inefficiencies and excess raw material requirements. 
+Seller shall mark the Supplies shipped for service requirements, Made in 
+(country of origin).
+ 
+    (b)           Components
+     
+If the Supplies are systems or modules, Seller shall sell each component or 
+part for service or replacement purposes at a price that does not, in the 
+aggregate, exceed the system or module price specified in the Order, less 
+assembly costs, plus any actual cost differential for packaging.
+ 
+10.          Warranties
+ 
+    (a)           Express Warranties
+     
+In addition to any other express and implied warranties provided by law or 
+otherwise, Seller warrants to Buyer that the Supplies shall:
+ 
+    (i)            Be new and conform to Order in all respects;
+     
+    (ii)           Conform to all specifications, drawings, samples and
+    other descriptions furnished by Buyer or otherwise part of the Order;
+     
+    (iii)          Be free from all defects in design (to the extent
+    designed by or for Seller), workmanship and materials (with the
+    exception of materials or components consigned by Buyer) during the
+    warranty period and be of highest quality and workmanship;
+     
+    (iv)          Be selected, designed (to the extent designed by Seller),
+    manufactured and assembled by Seller based upon Buyers stated use and
+    be fit and sufficient for the purposes intended by Buyer;
+     
+    (v)           Conform to all applicable Laws (as defined in Section 24)
+    in countries where the Supplies (or goods into which the Supplies are
+    incorporated) are to be sold (and Buyer shall provide a list of such
+    countries to Seller upon written request), including without
+    limitation, in the case of Supplies used in connection with the
+    manufacture of motor vehicles, the National Traffic and
+ 
+9
+------------------------------------------------------------------------
+
+ 
+    Motor Vehicle Safety Act, United States motor vehicle safety standards
+    and European Union Directive 2000/53/EC;
+     
+    (vi)          Not infringe, misappropriate or violate the Intellectual
+    Property Rights (as defined in Section 18) of third parties;
+     
+    (vii)         Properly function and be suitable for use within the
+    systems, the vehicles and the products in which they are to be
+    assembled; and
+     
+    (viii)        Conform to ISO 9001 and TS 16949 and other quality
+    standards of Buyer.
+     
+    (b)           Service Warranties
+     
+For all services included in Supplies, Seller further warrants that its 
+services shall be performed in a professional and workmanlike manner, 
+consistent with all standards and specifications established by Buyer and 
+otherwise consistent with industry standards.
+ 
+    (c)           Title
+     
+Seller warrants that title to all of the Supplies shall be vested in Buyer 
+free and clear of any and all liens and encumbrances of any nature.
+ 
+    (d)           Warranty of Continued Performance
+     
+All warranties of Seller extend to future performance of the Supplies and 
+are not modified, waived or discharged by delivery, inspection, tests, 
+acceptance and payment. Buyers approval of any design, drawing, material, 
+process or specifications shall not relieve Seller of these warranties. 
+Seller waives any right to notice of Sellers breach.
+ 
+    (e)           Warranty Period
+     
+The warranty period is the longest of: (i) five years from the date Buyer 
+accepts the Supplies; (ii) the warranty period provided by applicable law; 
+or (iii) the warranty period offered by Buyer to end-users for the vehicles 
+and products into which the Supplies are assembled ( 50 months or 50,000 
+miles).
+ 
+    (f)            Cumulative
+     
+All warranties and remedies provided by the Order are cumulative and in 
+addition to those provided by law and shall survive testing and inspection 
+of the Supplies by Buyer.
+ 
+10
+------------------------------------------------------------------------
+
+ 
+11.          Indemnification
+  
+    (a)           Indemnity
+     
+Seller shall indemnify, defend and hold harmless Buyer, and its affiliates, 
+directors, officers, shareholders, employees, customers, dealers and users 
+of the Supplies sold by Buyer (or the products in which they are 
+incorporated) and all of their respective agents, successors and assigns 
+(including, as those terms are defined in Section 26, the Credit Providers, 
+the Secured Party and their representatives), and each of their 
+shareholders, directors, officers, employers and agents, on demand, 
+(collectively Indemnified Parties) from and against any and all costs, 
+fees, penalties, damages (direct, incidental, consequential and otherwise), 
+reasonable attorneys fees and all other liabilities and obligations 
+whatsoever (Losses), which, in whole or in part, arises from or relates 
+to any actual or alleged:
+ 
+    (i)            Defect or non-conformity to Buyers specifications in the
+    Supplies;
+     
+    (ii)           Noncompliance by Seller with any of its representations,
+    warranties or obligations under the Order;
+     
+    (iii)          Negligence or fault of Seller in connection with the
+    design (if designed by or for Seller) or manufacture of the Supplies.
+     
+    (iv)          Any recall campaign, corrective service action, or other
+    voluntary or involuntary action in which Buyer participates with
+    respect to the Supplies or vehicles or products into which the Supplies
+    are incorporated;
+     
+    (v)           Any spill, discharge or emission of hazardous wastes or
+    substances which relates, in whole or in part, to the Supplies;
+     
+    (vi)          Infringement (including claims of direct or contributory
+    infringement or inducement to infringe), misappropriation or violation
+    of any Intellectual Property Right relating to Supplies provided by
+    Seller, even if they are made to Buyers specifications;
+     
+    (vii)         Damages to the property of or personal injuries to Buyer,
+    their respective agents, or any other person or entity to the extent
+    arising from or in connection with Sellers work on the premises or
+    Sellers use of Buyers property; and
+     
+    (viii)        Challenge to Buyers sole right, title and interest in
+    the Tooling (as defined below), or right to possession of the Tooling,
+    brought or asserted by
+ 
+11
+------------------------------------------------------------------------
+
+ 
+    any third party, including toolmakers, subcontractors, and lending
+    institutions, if Seller received payment for such tooling.
+     
+    (ix)          Changes to the Supplies which have not been approved by
+    Buyer in writing whether or not the Supplies otherwise comply with the
+    specifications and other obligations under the Order.
+     
+    (b)           Buyers Participation
+     
+If Seller is obligated to indemnify under this Section, Buyer may at its 
+option participate in or control the defense of any third party claim with 
+its own counsel, at Buyers expense. Sellers obligation to indemnify shall 
+not be lessened or compromised in anyway, even if Buyer is alleged or is 
+found to have contributed in part to the events giving rise to the Losses.
+  
+12.          Inspection and Audit
+  
+    (a)           Inspection of Facility
+      
+Buyer, its third party designees or representatives of the Secured Party or 
+DOE (as defined in Section 26) may enter Sellers and its subcontractors 
+facilities during Sellers normal business hours, upon reasonable notice to 
+inspect the facility, Supplies, materials, and any of Buyers property 
+related to the Order. Seller shall provide, without additional charge, all 
+approvals and reasonable facilities and assistance for any such inspection. 
+Buyers inspection does not constitute acceptance of any work-in-process or 
+finished goods and does not relieve Seller of any of its responsibilities 
+or warranties.
+  
+    (b)           Audit
+      
+Upon reasonable notice to Seller, either Buyer (or a third party designee 
+of Buyer) or representatives of the Secured Party or DOE may audit Sellers 
+or its subcontractors production facility, Supplies and any other Buyer 
+property (including all pertinent documents, data and other information) 
+related to the Order at the facility for the purpose of verifying Sellers 
+costs and its compliance with its obligations under the Order. Seller shall 
+provide, without additional charge, all reasonable facilities and 
+assistance.
+  
+    (c)           Financial Review
+      
+Upon reasonable notice to Seller, either Buyer (or a third party designated 
+by Buyer) or representatives of the Secured Party or DOE may review the 
+financial condition of Seller and its contractors and affiliates. Seller 
+will fully cooperate in such review and shall promptly provide copies of or 
+access to requested documents , including without limitation financial 
+records and statements, forecasts, business plans, banking contacts and 
+loan documents, and shall make its financial managers available for 
+discussions with
+ 
+12
+------------------------------------------------------------------------
+
+ 
+Buyer or representatives of the Secured Party or DOE, as applicable, during 
+reasonable business hours. The inspecting party shall keep confidential any 
+nonpublic information about Seller obtained in a financial review and use 
+such information only for purposes of the review, except as needed to 
+enforce the Order.
+     
+    (d)           Buyers Discretion
+     
+Buyers right to conduct any inspection, audit or review under this Section 
+or otherwise is at its sole discretion. Buyer has no obligation to Seller 
+to conduct any inspection, audit or review. Buyers decisions as to 
+whether, how and when to conduct any inspection, audit or review does not 
+modify or relieve Seller of any obligations under the Order, does not give 
+rise to any liability of Buyer to Seller and is without prejudice to any 
+rights or remedies available to Buyer.
+ 
+13.          Ethical Conduct
+ 
+    (a)           Work Environment
+     
+Seller warrants that no child, prison, forced or involuntary labor shall be 
+used by Seller or its subcontractors in the provision of Supplies. Seller 
+and its subcontractors shall maintain a work place free from physical abuse 
+and any practice in violation of local law. Seller and its subcontractors 
+shall provide a healthy, safe work environment, wages and benefits as 
+required by law, freedom of association and reasonable working conditions.
+ 
+    (b)           Business Practices
+     
+Seller shall not: (i) give or offer to give any gift or benefit to Buyers 
+employees; (ii) solicit or accept any information, data, services, 
+equipment or commitment from Buyers employees unless it is: (a) required 
+under a contract between Buyer and Seller, (b) made pursuant to a written 
+disclosure agreement between Buyer and Seller, or (c) specifically 
+authorized in writing by Buyers management; (iii) solicit or accept 
+favoritism from Buyers employees; (iv) enter into any outside business 
+relationship with Buyers employees or other suppliers without full 
+disclosure to and prior approval of Buyers management; or (v) provide to 
+or accept from other suppliers any information regarding Buyer or its 
+business. For the purposes of this Section: employee includes members of 
+the employees immediate family and household, plus any other person who is 
+attempting to benefit from his or her relationship to the employee; 
+Seller includes all employees and agents of Seller; gift or benefit 
+includes money, goods, services, discounts, favors and the like in any form 
+but excluding items with a value of $25.00 or less; supplier includes 
+prospective, current and past suppliers; and favoritism means partiality 
+in promoting the interest of Seller over that of other suppliers. Any 
+breach by Seller of its obligations under this Section shall constitute a 
+material default by Seller of every contract and Order with Buyer and may 
+further result in Sellers debarment from doing
+ 
+13
+------------------------------------------------------------------------
+
+ 
+business with Buyer. Seller shall also comply with all ethics, fair 
+business practices, non-discrimination and non-harassment policies of 
+Buyer.
+ 
+14.          Duration, Termination and Remedies
+  
+    (a)           Duration
+     
+The Order shall be effective on the date specified in the Order, or if no 
+date is specified, when accepted. Unless otherwise specifically provided in 
+the Order:
+ 
+    (i)            The Order shall terminate on the date specified in the
+    Order; or, if no date is specified, one year from the effective date.
+    The termination date is not extended by an amendment or revision to an
+    Order which does not expressly modify the termination date.
+     
+    (ii)           The Order will automatically renew for successive
+    one-year periods after the initial term unless Seller provides written
+    notice at least 90 days prior to the end of the current term of its
+    desire that the Order not be renewed.
+     
+    (b)           Termination by Buyer
+     
+In addition to any other rights of Buyer to cancel or terminate the Order, 
+Buyer may terminate the Order in whole or in part by written notice (a 
+Termination Notice), as follows:
+ 
+    (i)            For convenience, 60 days following delivery of the
+    Termination Notice or upon such other date specified by Buyer in
+    writing; and
+     
+    (ii)           For Default, effective upon delivery of the Termination
+    Notice or upon such other date specified by Buyer in writing. Seller
+    shall be in Default if it: (i) breaches any warranty or other Term of
+    the Order; (ii) repudiates, breaches or threatens to breach any of the
+    terms of the Order; (iii) fails to deliver, or threatens not to
+    deliver, Supplies in connection with the Order; (iv) fails to make
+    progress or to meet reasonable quality requirements so as to endanger
+    timely and proper performance of the Order; (v) Seller makes an
+    assignment for the benefit of creditors, or proceedings in bankruptcy
+    or insolvency are instituted by or against Seller; (vi) Seller requests
+    accommodations from Buyer, financial or otherwise, in order to meet its
+    obligations under the Order; or (vii) at any time in Buyers sole
+    judgment Sellers financial or other condition or progress on the Order
+    shall be such as to endanger timely performance. Termination by Buyer
+    shall not relieve Seller of any liability under the Order except as
+    provided in these Terms.
+ 
+14
+------------------------------------------------------------------------
+
+ 
+    (c)           Suspension or Termination by Seller
+     
+Seller may terminate or suspend performance under an Order only for 
+non-payment of the purchase price for Supplies which are 30 or more days 
+past due and material in amount, and then only if: (i) Seller first 
+provides Buyer written notice specifying the amounts past due and Sellers 
+intent to terminate or suspend performance under the Order if the past due 
+amount is not paid; and (ii) Buyer, within 30 days of such notice, does not 
+either: (a) pay the past due amounts, or (b) notify Seller that the amount 
+claimed to be unpaid is disputed by Buyer. Seller shall terminate or 
+suspend under this Section by delivering a termination notice to Buyer. 
+Seller may not suspend performance or terminate the Order for any reason 
+except as permitted under this Section.
+ 
+    (d)           Sellers Obligations Following Termination
+     
+Following delivery of a notice of termination, Seller shall, unless 
+otherwise directed by Buyer and subject to its obligation to provide 
+Transition Support as provided in Section (h) below;
+ 
+    (i)            Terminate promptly all performance under the Order and
+    transfer title and deliver to Buyer all finished Supplies completed
+    prior to receipt of the Notice of Termination;
+     
+    (ii)           Transfer title and deliver to Buyer all work in process,
+    and the parts and materials which Seller produced or acquired in
+    accordance with an Order and which Seller cannot use in producing goods
+    for itself or for others to the extent such use is permitted;
+     
+    (iii)          Verify/settle all claims by subcontractors for actual
+    costs that are rendered unrecoverable by such termination and provided
+    the recovery of materials in Sellers possession is ensured; and
+     
+    (iv)          Take actions reasonably necessary to protect property in
+    Sellers possession in which Buyer has an interest until disposal
+    instruction from Buyer has been received.
+     
+    (v)           Seller shall continue performance of an Order to the
+    extent not terminated and shall be liable to Buyer for any excess costs
+    for alternative products or services and other direct damages. As an
+    alternative remedy, and in lieu of termination for default, Buyer, at
+    its sole discretion, may elect: (i) to extend the delivery schedule;
+    and/or (ii) to waive other deficiencies in Sellers performance; in
+    which case an equitable reduction in an Order price shall be
+    established by Buyer to compensate Buyer for its damages. If Seller for
+    any reason anticipates difficulty in complying with a required delivery
+    date, or in meeting any of the other requirements of an Order, Seller
+    shall promptly notify
+ 
+15
+------------------------------------------------------------------------
+
+ 
+    Buyer in writing of the potential default, the cause thereof, and the
+    estimated length of the anticipated default. Buyer is under no
+    obligation to waive any default.
+     
+    (e)           Buyers Obligations Following Termination
+     
+Subject to Section (g)(ii), Buyer shall pay to Seller in connection with 
+termination only the following amounts, without duplication, in complete 
+and final satisfaction of any liabilities relating to the Order:
+  
+    (i)            The purchase price for all conforming Supplies received
+    by Buyer prior to Notice of Termination or delivered following Notice
+    of Termination pursuant to Sections (d)(i) or (h) or at the written
+    direction of Buyer;
+     
+    (ii)           Any amounts owed for Transition Support pursuant to
+    Section (h)(iii); and
+     
+    (iii)          If terminated for any reason other than Default by
+    Seller, Sellers reasonable actual cost of: (i) merchantable and
+    useable work- in-process and the parts and materials transferred to
+    Buyer under Section (d)(ii) above (but not to exceed the Order price of
+    the Supplies had the work been completed); (ii) settling claims under
+    Section (d)(iii); and (c) carrying out its obligation under Section
+    (d)(iv).
+     
+    (f)            Buyers Obligations Following Expiration
+     
+If the Order expires, Buyer shall pay to Seller, in complete and final 
+satisfaction of any liabilities relating to the Order, only the purchase 
+price for all conforming Supplies received by Buyer prior to expiration and 
+all quantities listed as firm releases not otherwise purchased by Buyer, 
+and, if applicable, any amounts owed for Transition Support pursuant to 
+Section (h)(iii).
+  
+    (g)           Limitations on Buyers Obligations Following Termination
+    or Expiration
+  
+    (i)            Buyers obligations under Section (e) are conditioned
+    upon Sellers furnishing to Buyer, within 60 days after the date of
+    termination (or such shorter period as may be required by its
+    customer), a termination claim, which will consist exclusively of the
+    items of Buyers obligation to Seller that are expressly permitted by
+    this Section. Buyer may audit Sellers records before or after payment
+    to verify amounts requested in Sellers termination claim.
+     
+    (ii)           Buyer has no obligation under Section (e) to make any
+    payment for Supplies, work-in-process, parts or raw materials
+    inventory: (i) in
+ 
+16
+------------------------------------------------------------------------
+
+ 
+    excess of those authorized or required under any firm Material Release; 
+    (ii) that are damaged or destroyed or that are not merchantable or
+    useable; (iii) that are in Sellers standard stock or that are readily
+    marketable; or (iv) that can be returned to Sellers suppliers or
+    subcontractors for credit.
+     
+    (iii)          Buyer has no obligation for and will not be required to
+    pay Seller, directly or on account of claims by Sellers
+    subcontractors, for loss of anticipated profit, failure to realize
+    anticipated production volumes, revenues or savings, unabsorbed
+    overhead, interest on claims, product development and engineering
+    costs, Tooling, facilities and equipment rearrangement costs or rental,
+    unamortized capital or depreciation costs, or general administrative
+    burden charges from termination or expiration of the Order, except as
+    otherwise expressly agreed in a separate Order issued by Buyer.
+     
+    (h)           Transition of Supplies Following Termination or
+    Expiration
+     
+Following expiration or termination of the Order by either party for any 
+reason (including termination by Seller) and notwithstanding any claimed or 
+actual breach of any obligation by Buyer, Seller shall cooperate in the 
+transition of supply to a successor supplier, including the following, 
+which will collectively be referred to as Transition Support:
+ 
+    (i)            Seller shall continue production and delivery of all
+    Supplies as ordered by Buyer, at the prices and other terms stated in
+    the Order, without premium or other condition, during the entire period
+    reasonably needed by Buyer to complete the transition to the alternate
+    supplier(s), so that Sellers action or inaction causes no interruption
+    in Buyers ability to obtain Supplies as needed;
+     
+    (ii)           At no cost to Buyer, Seller will promptly provide all
+    requested information and documentation regarding and access to
+    Sellers manufacturing process, including on-site inspections,
+    bill-of-material data, tooling and process detail and samples of
+    Supplies and components; and
+     
+    (iii)          Subject to Sellers actual capacity constraints, Seller
+    shall provide special overtime production, storage and/or management of
+    extra inventory of Supplies, extraordinary packaging and transportation
+    and other special services as expressly requested by Buyer in writing.
+    If the transition occurs for reasons other than Sellers termination
+    for Default, Buyer shall, at the end of the transition period, pay the
+    reasonable, actual cost of the assistance under this Section
+    14(h)(iii), provided that Seller has advised Buyer prior to incurring
+    such amounts of its estimate of such costs. If the parties disagree on
+    the cost of Transition Support, Buyer shall pay the agreed portion to
+    Seller without prejudice to Sellers right to seek to recover any
+    disputed amounts.
+ 
+17
+------------------------------------------------------------------------
+
+ 
+    (i)            Termination and Change of Control
+ 
+Buyer may terminate an Order or Release, in whole or in part, upon 
+reasonable written notice to Seller, if control of Seller changes. A change 
+of control includes: (i) the sale, lease or exchange of a substantial 
+portion of Sellers assets used for the production of the Supplies; (ii) 
+the sale or exchange of a controlling interest in the shares or other 
+ownership interests of Seller; or (iii) the execution of a voting or other 
+agreement of control. Seller shall provide Buyer with written notices of a 
+proposed and actual change of control at least ten days prior to the date 
+the change of control is scheduled to occur and within ten days after the 
+change of control has become effective. Buyer will have 30 days from the 
+date the second notice from Seller is received within which to notify 
+Seller if it decides to terminate the Order and the effective date of the 
+termination, which will be no sooner than 30 days after the date the 
+written notice of termination is sent.
+ 
+    (j)            Duty to Deliver
+     
+Sellers continued holding of the Supplies, Buyers Property or Sellers 
+Property (as defined herein), after demand has been made by Buyer for 
+delivery, will substantially impair their value, and Buyer shall be 
+entitled to a court order for possession without bond. Seller shall 
+continue to sell Supplies under an Order during any dispute with Buyer 
+provided Buyer continues to pay Seller amounts owed in excess of any right 
+of offset.
+ 
+    (k)           Recall
+     
+In the event of any safety, maintenance or improvement program, general 
+recall or similar action (Recall) involving the Supplies which Buyer has 
+determined do not meet requirements of the Order, whether initiated by 
+Buyer, Seller, or any governmental agency or body, both Buyer and Seller 
+shall use reasonable commercial efforts to reduce costs in connection with 
+such Recall. If it shall be alleged or determined that failure of Supplies 
+supplied by Seller to conform to Sellers warranty is a proximate cause of 
+any Recall, Seller shall defend, indemnify and hold harmless Buyer, its 
+affiliates, subsidiaries, directors, officers, employees, agents and other 
+representatives from and against all expenses and costs of such Recall. All 
+Recalls shall be at the discretion of Buyer after consultation with Seller, 
+except as ordered by a government agency or body. Sellers obligations 
+related to Recalls shall continue to apply after the expiration of Sellers 
+express warranties.
+ 
+    (l)            Cumulative and Additional Remedies
+     
+Buyers remedies under this Section and the applicable law shall be 
+cumulative and additional to any other or further remedies provided under 
+the Order or by statute, law or equity, including, but not limited to, the 
+recovery of direct damages and the entry of injunctive relief, but Buyer 
+shall be entitled to only one full recovery of all of its damages and 
+enforcement of all its rights.
+ 
+18
+------------------------------------------------------------------------
+
+ 
+    (m)          Restrictions on Waiver
+ 
+A delay by Buyer in notification of a breach or making a claim shall not 
+constitute a waiver of a breach or remedy. No waiver of a breach of any 
+provision of the Order by Buyer shall constitute a waiver of any other 
+breach, or of the breached provision itself. No claim or right of Buyer 
+arising under, or related to, the Order can be discharged in whole or in 
+part by a waiver or renunciation unless supported by additional 
+consideration and in writing signed by Buyer.
+ 
+    (n)           Sellers Remedy
+     
+Money damages, as limited by the Order, are Sellers exclusive remedy for 
+breach of contract or other claim or theory. Seller may not allege breach 
+of contract or other theory of recovery for such money damages without 
+providing a written notice of breach, documentation supporting the claim, 
+and a reasonable time for Buyer to cure any breach and otherwise resolve 
+the claims.
+ 
+    (o)           Remedial Work
+     
+If repair, sorting, inspection, or similar activities (Remedial Work) is 
+necessary for any rejected Supplies, then Buyer may elect either to perform 
+the Remedial Work itself or to have a third party perform it. In either 
+case, the reasonable cost of such Remedial Work shall be either: (i) 
+offset against the amounts otherwise due Seller for such rejected Supplies; 
+or (ii) charged separately to Seller. Buyer may require that the Remedial 
+Work be performed on the premises of Buyer or its Customer by Seller, in 
+which case Buyer or its Customer shall provide Seller with reasonable 
+access to its premises and otherwise assist Seller with such arrangements 
+as are necessary to perform the Remedial Work. In performing Remedial Work 
+or replacing rejected Supplies, Seller is responsible for segregating and 
+sorting any applicable Supplies providing for transportation of the 
+Supplies, supervising the segregation and removal of the Supplies, and 
+other incidental activities, all at its sole cost. Remedial Work by Seller 
+requires the prior written permission of Buyer and/or Buyers Customer.
+ 
+    (p)           Rights of the Secured Party and DOE
+     
+The Secured Party and DOE may exercise any of the Buyers rights under this 
+Section 14 and, subject to the provisions of Section 26, such exercise 
+shall not result in the assumption of any of Buyers obligations hereunder.
+ 
+15.          Buyers Property
+ 
+    (a)           Buyers Property Defined
+     
+Buyers Property means any tangible or intangible property to which Buyer 
+has title. Buyers Property includes:
+ 
+19
+------------------------------------------------------------------------
+
+ 
+    (i)            As provided in Section 4(c), Supplies, together with
+    materials and components incorporated or to be incorporated in the
+    Supplies;
+     
+    (ii)           All property which is furnished by Buyer, either
+    directly or indirectly to Seller to perform the Order;
+     
+    (iii)          Intellectual Property Rights and Proprietary Information
+    of Buyer, as specified in Sections 18 and 19;
+     
+    (iv)          Tooling (as defined herein) and other property
+    (including, by way of example, returnable packaging) for which Buyer
+    has paid, and
+     
+    (v)           Any modifications, repairs, refurbishments, and
+    replacements of Buyers Property defined above.
+     
+    (b)                   Obligations of Seller
+     
+With respect to Buyers Property in the custody or control of Seller or 
+Sellers suppliers, subcontractors or agents, Buyers Property shall, at 
+Sellers cost and risk:
+ 
+    (i)            Be used only for the production of Supplies for Buyer.
+     
+    (ii)           Be kept: (i) in good working condition house, maintain,
+    repair and replace it, except for normal wear and tear; (ii) fully
+    insured for the benefit of Buyer; and (iii) be kept segregated from all
+    other assets and labeled as being the property of Buyer.
+     
+    (iii)          Bailment; Seller shall have only temporary possession as
+    a bailee at will. Seller shall assure that Buyers Property is not
+    released, relocated or delivered to any third party without the express
+    written permission of Buyer. Seller shall promptly notify Buyer of the
+    location of Buyers Property if located at any place other than
+    Sellers facility.
+     
+    (iv)          Buyer, DOE and the Secured Party shall have the right to
+    enter Sellers premises to inspect Buyers Property and all records of
+    Seller and other third parties regarding Buyers Property. Only Buyer
+    (or Buyers affiliates) and the Secured Party has any right, title or
+    interest in Buyers Property, except for Sellers limited right,
+    subject to Buyers sole discretion, to use Buyers Property in the
+    provision of Supplies. Seller shall neither create nor allow to exist
+    any liens on Buyers Property, and Seller shall immediately sign any
+    documents reasonably required by Buyer to perfect all rights granted or
+    confirmed by these Terms. Seller grants to Buyer, DOE and the Secured
+    Party a limited and irrevocable power of attorney, coupled with an
+    interest, to execute and record on Sellers behalf any documents with
+    respect to Buyers Property that Buyer, DOE or the
+ 
+20
+------------------------------------------------------------------------
+
+ 
+    Secured Party determines are reasonably necessary to reflect Buyers or
+    the Secured Partys interest in Buyers Property.
+     
+    (v)           Return; Unless instructed by Buyer to the contrary,
+    immediately upon Buyers request or upon any bankruptcy or insolvency
+    filing, and without payment of any kind, Seller shall return Buyers
+    Property, and shall comply with Buyers instructions relating to its
+    return, including but not limited to the method and location for its
+    return. Seller is responsible for labor and other costs incidental to
+    the return of Buyers Property. Seller shall cooperate with Buyer and
+    shall provide Buyer with access to all facilities at which Buyers
+    Property is located. Seller expressly waives any right to additional
+    notice or process relating to Buyers exercise of its rights under this
+    Section. Seller waives, to the extent permitted by law: (i) any lien or
+    other rights that Seller might otherwise have on any of Buyers
+    Property, including but not limited to molders and builders liens;
+    and (ii) any objection to Buyers repossession and removal of Buyers
+    Property for any or no reason, including bankruptcy or insolvency
+    proceedings.
+     
+16.          Sellers Property
+  
+    (a)                   Definition
+     
+Sellers Property means all Tooling and other items that are not Buyers 
+Property and that are necessary for the production of Supplies are Sellers 
+Property.
+ 
+    (b)                   Maintenance
+     
+Seller, at its expense, shall furnish, keep in good working condition 
+capable of producing Supplies meeting all applicable specifications, and 
+replace when necessary, all Sellers Property. Seller shall insure Sellers 
+Property with full fire and extended coverage insurance for its replacement 
+value. If Seller uses Sellers Property to produce goods or services 
+similar to Supplies for other customers, including aftermarket customers, 
+such goods or services will not incorporate any of Buyers logos, 
+trademarks, trade names or part numbers. Seller shall not disclose or imply 
+in its marketing efforts that such goods or services are equivalent to 
+those purchased by Buyer.
+ 
+    (c)                   Option to Purchase
+     
+Seller grants to Buyer an irrevocable option to take possession of and 
+title to Sellers Property that is specific for the production of Supplies 
+under the Order upon payment to Seller of its net book value less any 
+amounts that Buyer has previously paid to Seller for the cost of such 
+items. This option does not apply if Sellers Property is used to produce 
+goods that are the standard stock of Seller or if a substantial quantity of 
+like goods is being sold by Seller to other than Buyer.
+ 
+21
+------------------------------------------------------------------------
+
+ 
+17.          Tooling
+ 
+    (a)                   Definition and Acquisition
+     
+Tooling means all Tooling, jigs, fixtures and other personal property other 
+than capital equipment used in the manufacture of Supplies. Unless 
+otherwise provided in this order, property of every description including 
+all tools, equipment, material, drawings, manufacturing aids and 
+replacements of the foregoing furnished by Buyer, either directly or 
+indirectly, or as acquired or manufactured by Seller for use in the 
+performance of this order, for which Seller has been reimbursed by Buyer 
+(Special Tooling), will be: (i) the property of Buyer; and (ii) plainly 
+marked or otherwise adequately identified by Seller as the property of 
+Buyer. Seller shall not purchase any Tooling for the account of Buyer or 
+charge Buyer for any tooling except as authorized in an Order.
+ 
+    (b)                   Payment & Terms
+     
+If Buyer has agreed to compensate Seller for Tooling in an Order:
+ 
+    (i)            The price for Tooling in the Order will be adjusted to
+    credit Buyer in the amount, if any, by which the price exceeds Sellers
+    actual cost as verified by Buyer. If Seller does not provide access and
+    documentation necessary for Buyers verification, Buyer may determine
+    in its reasonable discretion an appropriate adjustment. Seller shall
+    retain all cost records for a period of two years after receiving final
+    payment for Tooling. Seller shall provide to Buyer, as requested,
+    access to Sellers premises and all documentation relating to the
+    Tooling prior and subsequent to payment, to inspect work performed, and
+    to verify charges submitted by Seller against the Order.
+     
+    (ii)           Seller shall be entitled to receive payment only after
+    it is completed unless otherwise provided in the Order. Tooling is not
+    complete until Seller, at its own expense, has successfully completed
+    all required testing (including completion of the PPAP process) and has
+    submitted all necessary documentation required by the Order.
+     
+    (iii)          Payment terms for Tooling shall be specified in the
+    Order.
+     
+    (c)                   Warranty
+     
+If Seller is responsible for fabricating or acquiring Tooling, Seller 
+warrants that such Tooling shall: (i) comply with any specifications 
+provided by Buyer; and (ii) be capable of producing Supplies that satisfy 
+the Order, including meeting any volume requirements or estimates provided 
+to Seller during the life of the product as well as satisfying the 
+requirements for Service Parts. Time is of the essence for Sellers 
+acquisition or fabrication of Tooling. Seller shall provide Tooling 
+progress reports on Buyers request
+ 
+22
+------------------------------------------------------------------------
+
+ 
+and shall promptly notify Buyer in writing if it believes that the Tooling 
+might not be completed by the completion date specified on the Order.
+ 
+    (d)                   Third Party Tool Makers
+      
+If all or part of the fabrication, modification, repair or refurbishment of 
+Tooling will be subcontracted to a third-party toolmaker, Seller will: (i) 
+give Buyer advance written notice of the identity of the toolmaker and the 
+location of the Tooling;(ii) inform the toolmaker in writing that it is a 
+bailee-at-will, through Seller, of Tooling owned by Buyer; and (iii) be 
+solely responsible for payments to the toolmaker. Buyer has no obligation 
+to Seller or subcontractor other than payment to Seller of the Order price. 
+If a subcontractor brings an action against Seller for payment of the 
+Tooling, Seller will not join Buyer in the action.
+ 
+    (e)                   Bailment to Subcontractors
+      
+If Seller intends to subcontract all or part of the manufacture of the 
+Supplies to a third- party subcontractor and to deliver Tooling to the 
+subcontractors premises, Seller shall: (i) provide Buyer with prior 
+written notice of the identity of the subcontractor and the location of the 
+Tooling; (ii) obtain the written permission of Buyer in advance of Sellers 
+delivery; (iii) inform the subcontractor in writing that it is a 
+bailee-at-will, through Seller, of Tooling owned by Buyer; and (iv) be 
+solely responsible for payments to the subcontractor.
+ 
+18.          Intellectual Property
+ 
+    (a)                   Warranty of Non-Infringement
+      
+Seller warrants that the Supplies and the sale and/or use thereof (before 
+or after incorporation into products during manufacture) do not and will 
+not infringe, misappropriate or violate any Intellectual Property Rights. 
+Intellectual Property Right means all rights arising under U.S. or 
+foreign law relating to patent, trademark, copyright, moral rights, 
+industrial design right, Proprietary Information (as defined in Section 19) 
+and trade secrets or other intellectual property rights.
+ 
+    (b)                   Restriction on Use of Buyers Intellectual
+    Property
+      
+Seller shall not manufacture or provide, or offer to manufacture or 
+provide, any goods or services that are based in whole or in part upon 
+inventions, confidential or Proprietary Information (as defined in Section 
+19) of Buyer or Intellectual Property Rights of Buyer, whether for its own 
+purposes (other than to satisfy its obligations under Order), or any other 
+third parties, without Buyers prior written consent.
+ 
+23
+------------------------------------------------------------------------
+
+ 
+    (c)                   License to Buyer
+ 
+Seller grants to Buyer, its subsidiaries and affiliates, and their 
+respective successors and assigns, and Buyer hereby accepts, a 
+non-exclusive, irrevocable, royalty-free, fully paid up worldwide license, 
+including the right to sublicense to others under: (i) any Intellectual 
+Property Rights owned or controlled by Seller or its affiliates, and 
+relating to the Supplies, to make, have made, repair, reconstruct, rebuild, 
+relocate, use, sell and import the Supplies; and (ii) any works of 
+authorship fixed in any tangible medium of expression (including drawings, 
+prints, manuals and specifications) furnished by Seller in the course of 
+Sellers activity under Order, to reproduce, distribute and display such 
+works and to prepare derivative works based thereon, subject to the other 
+provisions of Order (all items in clauses (i) and (ii) above, collectively, 
+Sellers Intellectual Property, and such license in respect thereof, the 
+License). Seller acknowledges and understands that the License shall be 
+effective from the first date of delivery of the Supplies under Order and 
+extend for so long as Buyer has contractual obligations to any customer. 
+The license is subject to 11 USC §365(n) and other Law, as an executory 
+agreement under which Buyer has license rights to Sellers Intellectual 
+Property, and is supplementary to any other rights of Buyer under the Order 
+and any other agreement with Seller.
+ 
+    (d)                   Ownership
+     
+Any developments or work product that are created by or on behalf of Seller 
+in the performance of an Order, whether or not they may be protected by 
+patent, copyright or otherwise, shall be work for hire and be the exclusive 
+property of Buyer, and to the extent any such developments or work product 
+do not qualify as work for hire, Seller assigns all rights in such 
+developments or work product to Buyer and shall execute such further 
+documents as may be necessary to record or otherwise enforce Buyers rights 
+therein including patent, copyright, trademark or other intellectual 
+property rights, and all related expenses shall be paid by Buyer. Seller 
+hereby appoints Buyer as its attorney-in-fact to execute assignments of, 
+and register all rights to, such developments and work product. Seller 
+acknowledges that Buyer has a substantial interest in ensuring that the 
+developments and work product are assigned to Buyer and that revocation of 
+the appointment of attorney-in-fact would be inequitable.
+ 
+    (e)                   Subcontractor Obligations
+     
+Seller shall ensure that the terms of its contracts with its subcontractors 
+and employees are consistent with the terms of this Section.
+ 
+19.          Proprietary Information
+ 
+    (a)                   Buyers Information
+     
+Any information or knowledge clearly marked to be confidential which Buyer 
+may have disclosed or may hereafter disclose to Seller in connection with 
+the Order (including but not limited to the terms of the Order) and any and 
+all services to be rendered and/or work
+ 
+24
+------------------------------------------------------------------------
+
+ 
+to be performed pursuant to the Order is and shall be deemed confidential 
+and proprietary information (collectively, Proprietary Information) of 
+Buyer. Seller shall not, without authorization in writing from Buyer, use 
+(except as necessary to the performance of the Order), communicate or 
+disclose the confidential and proprietary information of Buyer or use such 
+information for any purpose other than to perform its obligations under the 
+Order. Seller shall safeguard the confidential and proprietary information 
+of Buyer by using reasonable efforts, and in any event no less effort than 
+Seller uses in the protection of its own proprietary information of a 
+similar nature, to prevent its disclosure to third parties. Seller shall 
+cause its employees, contractors, officers, directors, agents and 
+representatives to be bound by and comply with the foregoing restrictions 
+regarding the use or disclosure of such confidential and proprietary 
+information. Seller shall not assert any claims with respect to any 
+technical information which Seller shall have disclosed or may hereafter 
+disclose to Buyer in connection with the Supplies.
+ 
+    (b)                   Limitations on Buyers Information
+     
+The restrictions and obligations of Section 19(a) do not apply to 
+information that: (i) is already publicly known at the time of its 
+disclosure by Buyer; (ii) after disclosure by Buyer becomes publicly known 
+through no fault of Seller; or (iii) Seller can establish by written 
+documentation was properly in its possession prior to disclosure by Buyer 
+or was independently developed by Seller without use of or reference to 
+Buyers information. Notwithstanding anything to the contrary in these 
+Terms, any confidentiality or non-disclosure agreement between the parties 
+that predates the Order will remain in effect except as expressly modified 
+by the Order, and to the extent of a conflict between the express terms of 
+such an agreement and this Section, the terms of that agreement will 
+control.
+ 
+    (c)                   Ownership
+     
+All documents containing proprietary information relating to the Supplies 
+produced or acquired by Seller under an Order shall belong to Buyer and 
+Seller shall execute documents confirming ownership to Buyer. All drawings, 
+know-how, and confidential information supplied to Seller by Buyer and all 
+rights therein will remain the property of Buyer and shall be kept 
+confidential by Seller.
+ 
+    (d)                   Return
+     
+Seller shall, within five business days of Buyers request or the 
+expiration or termination of Order, return all confidential and proprietary 
+information (including all copies, notes and/or extracts thereof).
+ 
+25
+------------------------------------------------------------------------
+
+ 
+20.          Insurance; Waiver of Liens
+ 
+    (a)                   Insurance
+ 
+Seller shall furnish an insurance carriers certificate showing that Seller 
+has adequate insurance coverage in the following minimum amounts: workmens 
+compensation  statutory limits for jurisdictions in which work is to be 
+performed; employers liability - $1,000,000; general liability including 
+premises, operations, independent contractors, and contractual liability 
+$10,000,000 single limit; owned and non-owned automotive liability  bodily 
+injury $5,000,000 per person and $10,000,000 per occurrence; professional 
+liability if professional services are included in Suppliers - $5,000,000; 
+and broad form property damage on premises and in transit - $5,000,000; and 
+products and completed operations - $10,000,000. Seller waives subrogation 
+against Buyer. All policies must provide primary non-contributory coverage. 
+Deductibles and co-insurance obligations of Seller shall be limited to 1% 
+of the amount of the coverages and shall be paid by Seller. All policies 
+shall be issued by an insurer with an AM Best rating of A- or better 
+licensed to do business in the state, province, and country where Buyer 
+shall use and sell the Supplies. Liability coverage shall include products, 
+completed operations and (if available) recall. Buyer, each Credit Provider 
+and the Secured Party shall be named as an additional insured under the 
+policies and the acts of Seller contrary to policy provisions shall not be 
+attributable to Buyer, any Credit Provider or the Secured Party. Seller 
+shall furnish to Buyer a Certificate of Insurance completed by its 
+insurance carrier(s) certifying that the required insurance coverages are 
+in effect and will not be voided, canceled or materially changes until 30 
+days after prior written notice has been delivered to Buyer and the Secured 
+Party. The certificate must set forth the amount of each coverage, number 
+of policy, date of expiration and buyers as an additional insured. If 
+Seller is a self-insurer of works compensation liability, Seller shall 
+furnish Buyer a certificate of the Department of Labor, or similarly 
+government authority of the jurisdiction in which any labor is to be 
+performed approving the self-insurance. The purchase of such insurance 
+coverage or the furnishing of a certificate shall not be a satisfaction of 
+Sellers liability hereunder, or in any way modify Sellers obligation to 
+indemnify Buyer.
+ 
+    (b)                   Waiver of Lien
+     
+Seller hereby waives all mechanics liens and claims and agrees that non 
+shall be filed or maintained against Buyers premises or Supplies on 
+account of any Supplies and shall cause all its subcontractors, material 
+men and suppliers (and subcontractors of such parties) to provide similar 
+waivers and agreements in form satisfactory to Buyer.
+ 
+21.          Excusable Delay
+ 
+    (a)                   Excused Performance
+     
+Any delay or failure of either party to perform its obligations will be 
+excused for up to 30 days if and to the extent that the party is unable to 
+perform due to an event or occurrence beyond its reasonable control and 
+without its fault or negligence, such as: acts of God; restrictions, 
+prohibitions, priorities or allocations imposed or actions taken by a 
+governmental authority; embargoes; fires; explosions; natural disasters; 
+riots; wars;
+ 
+26
+------------------------------------------------------------------------
+
+ 
+sabotage; or court injunction or order (collectively Excusable Delay). 
+However, in no event will Sellers performance be excused by: (i) the 
+change in cost or availability of materials, components or services based 
+on market conditions, supplier actions, labor disruptions or contract 
+disputes; (ii) Sellers financial distress; or (iii) any labor strike or 
+other labor disruption applicable to Seller or to any of its subcontractors 
+or suppliers. At the end of the 30 days, Buyer may terminate the Order as a 
+termination for convenience.
+ 
+    (b)                   Notice
+     
+Seller shall immediately give written notice to Buyer of any event or 
+occurrence that threatens to delay or actually delays Sellers performance 
+under the Order. Such notice shall include all relevant information with 
+respect to such threat, including the possible duration and impact of a 
+delay. In addition, Seller shall notify Buyer in writing: (i) at least 60 
+days prior to the expiration of any labor contract or collective agreement; 
+and (ii) as soon as Seller becomes aware of any actual or threatened labor 
+strike or other labor disruption; in each case as may be applicable to 
+Seller or to any of its subcontractors or suppliers that are engaged in 
+manufacturing or providing goods or services to Seller in connection with 
+Sellers obligations under the Order.
+ 
+    (c)                   Mitigation
+     
+Seller, at its expense, shall use its best efforts to mitigate any adverse 
+effects or costs to Buyer due to any actual or potential delay, including: 
+(i) the implementation of a production contingency plan; and (ii) upon 
+Buyers express written authorization, increasing Sellers inventory of 
+Supplies to a level sufficient to sustain deliveries during such delay. 
+Seller shall notify Buyer immediately of any actual or potential labor 
+dispute that delaying or threatening to delay timely performance of the 
+Order, and will include all relevant information to Buyer. Seller shall 
+notify Buyer in writing six months in advance of the expiration of any 
+labor contract. Prior to the expiration of any labor contract of Seller, 
+Seller shall establish, at its expense, a 40-working day inventory of 
+Supplies in a neutral warehouse site at least 50 miles from Sellers 
+manufacturing locations. Such supply of Supplies shall be in place at least 
+ten working days prior to the expiration of any labor contract.
+ 
+    (d)                   Buyers Rights
+     
+During any delay or failure to perform by Seller, Buyer may at its option 
+and at Sellers expense: (i) purchase Supplies from other sources and 
+reduce its schedules to Seller by such quantities, without liability to 
+Seller; (ii) require Seller to deliver to Buyer at Buyers expense all 
+finished goods, work in process and parts and materials produced or 
+acquired for work under the Order; or (iii) have Seller provide Supplies 
+from other sources in quantities and at a time requested by Buyer and at 
+the price set forth in the Order. In addition, Seller at its expense shall 
+take all necessary actions to ensure the
+ 
+27
+------------------------------------------------------------------------
+
+ 
+supply of Supplies to Buyer for a period of at least 40 days during any 
+anticipated labor disruption or resulting from the expiration of Sellers 
+labor contracts.
+ 
+22.          Buyers Liability
+ 
+    (a)                   Limitation of Liability
+     
+Buyers sole liability and Sellers exclusive remedies under the Order 
+(including its termination, expiration or cancellation) is to pay for the 
+Supplies in accordance with Section 4(c) and to pay the specific 
+termination related amounts described in Sections 14(e) and 14(h).
+ 
+    (b)                   Excluded Liabilities
+     
+In no event shall either party be liable for anticipated profits, interest, 
+penalties or incidental, consequential, punitive, multiple, or exemplary 
+damages or liabilities in connection with Order, whether for breach of 
+contract, late payment, property damage, personal injury, illness, or death 
+or otherwise.
+ 
+23.          Limitation on Assignment and Subcontracting
+ 
+    (a)                   Limited Assignment
+     
+The Order is issued to Seller, in reliance upon its personal performance of 
+the obligations. Without prior written consent of Buyer which shall not be 
+unreasonably withheld, Seller may not: (i) assign the Order or delegate the 
+performance of its duties hereunder; or (ii) assign any accounts receivable 
+from Buyer to third parties.
+ 
+    (b)                   Liability for Sellers Subcontractors
+     
+Seller shall ensure that the terms of its contracts with its sub-suppliers 
+and subcontractors provide Buyer with all of the rights specified in the 
+Order.
+ 
+    (c)                   Retention of Sellers Liability
+     
+Any subcontracting, assignment or delegation does not relieve Seller of any 
+responsibility under the Order.
+ 
+24.          Compliance with Laws
+ 
+Seller shall comply with all applicable laws, rules, regulations, 
+ordinances or other requirements of any national, state, provincial, local, 
+multi-national or international body (collectively Laws) relating to the 
+manufacture, sale, delivery and use of the Supplies. Upon request, Seller 
+will submit to Buyer evidence of such compliance.
+ 
+28
+------------------------------------------------------------------------
+
+ 
+25.          Foreign Purchases
+ 
+The following applies to all transactions involving Supplies to be imported 
+into the country in which Sellers place of final delivery is located:
+ 
+    (a)                   Buyers Importation Rights
+     
+Buyer shall not be a party to the importation of the Supplies, the 
+transaction(s) represented by an Order will be consummated subsequent to 
+importation, and Seller will neither cause nor permit Buyers name to be 
+shown as Importer of Record on any customs declaration.
+ 
+    (b)                   Customs Forms
+     
+Upon request and where applicable, Seller shall provide Buyer and/or its 
+designee all properly executed customs forms required by law for export and 
+import of the Supplies. Upon request, Seller shall furnish promptly all 
+documents required for customs drawback purposes, properly completed in 
+accordance with government regulations applicable thereto. Unless otherwise 
+stated in the Order, all customs drawback will be credited to Buyer.
+ 
+    (c)                   Other Certificates
+     
+Upon request, Seller shall furnish promptly to Buyer certificates of local 
+value added and certificates of origin in accordance with applicable 
+government regulations.
+ 
+    (d)                   Duties and Drawback Rights
+     
+The price for goods includes, and Buyer shall own, all related export and 
+import customs duties and import drawback rights, if any, including rights 
+developed by substitution and rights that may be acquired from Sellers 
+supplier(s) that Seller can transfer to Buyer. Buyer shall include such 
+provisions in all its subcontracts.
+ 
+26.          Buyer Financing
+ 
+    (a)                   Security Interest
+     
+Buyer intends to assign as collateral, and grant a security interest in, 
+all of Buyers rights under the Order and all Buyers Property to (i) the 
+United States Department of Energy (DOE) and the Federal Financing Bank 
+(FFB), acting pursuant to the Advanced Technology Vehicles Manufacturing 
+Incentive Program (ATVM) administered by DOE, or (ii) a collateral agent 
+or common security representative (who has been so designated by DOE with 
+notice of such designation having been provided to Seller by, or on behalf 
+of, DOE) acting for DOE, FFB, and certain other credit providers (DOE or, 
+if a designation has occurred pursuant to clause (ii) above, such 
+collateral agent
+ 
+29
+------------------------------------------------------------------------
+
+ 
+or common security representative, the Secured Party) to secure certain 
+loans and other credit extensions to be made from time to time by DOE, FFB 
+or certain other lenders (DOE, FFB and such other lenders, collectively, 
+the Credit Providers) to Buyer. This collateral assignment shall not in 
+any way affect Buyers duty to Seller to perform Buyers obligations under 
+the Order. Seller acknowledges and consents to this collateral assignment 
+and agrees to execute such additional consents and waivers as the Secured 
+Party (or its representative) may reasonably request in order to evidence 
+and perfect the Secured Partys lien. Seller also agrees to notify the 
+Secured Party prior to exercising any right it might have to suspend or 
+terminate this Order because of acts of Buyer and provide the Secured Party 
+a reasonable period to cure [(such period to be in any event a period of 
+not less than 60 days after the Secured Party receives notice of Sellers 
+intended suspension or termination)] the non-performance permitting the 
+Seller to suspend or terminate the Order. Seller agrees to accept 
+performance or cure by a Credit Provider, the Secured Party (or their 
+representatives) as performance or cure by Buyer and satisfaction by Buyer 
+of its obligations under the Order. Notwithstanding any such cure, neither 
+the Credit Providers, the Secured Party or their representatives will be 
+deemed to have assumed any of Buyers obligations under the Order unless 
+such person expressly agrees in writing with the Seller to do so. Seller 
+acknowledges that the Secured Party is a third party beneficiary of 
+Sellers obligations under the Order and shall permit DOE or the Secured 
+Party (or their representatives) to exercise the same inspection rights and 
+access to Buyers Property as are available to Buyer under Section 15(b) as 
+well as to exercise all of the other rights of Buyer under the Order. DOE 
+and the Secured Party (or their representatives) and Buyer shall each be 
+entitled to exercise all rights of Buyer under the Order unless the Secured 
+Party notifies Seller that such rights may only be exercised by DOE, the 
+Secured Party and their representatives. Should the Secured Party (or its 
+representative) exercise its right to foreclose upon its security interest 
+in the Order, it may transfer all of Buyers rights and obligations under 
+the Order and any of Buyers Property to any third party.
+ 
+    (b)                   Notices to Secured Party
+     
+Seller shall deliver any notices required to be given to the Secured Party 
+pursuant to Section 26(a) and Section 28 to: Advance Technology Vehicles 
+Manufacturing Loan Program, United States Department of Energy, 1000 
+Independence Avenue, SW, Washington, DC 20585, Attention: Director ATVM 
+Program, or such other address as the Secured Party may advise Seller from 
+time to time.
+ 
+27.          Miscellaneous
+ 
+    (a)                   Jurisdiction and Applicable Law
+     
+The Order shall be interpreted and enforced in accordance with the laws of 
+the State of California and of the United States of America, exclusive of 
+the choice of law rules thereof. The state courts of California in Orange 
+County, California or the federal courts
+ 
+30
+------------------------------------------------------------------------
+
+ 
+in the district including Orange County shall have exclusive jurisdiction 
+and venue over any lawsuit arising out of or related to the Goods or Order. 
+The United Nations Convention on the International Sale of Goods shall not 
+apply.
+ 
+    (b)                   Waiver
+     
+Either partys failure to insist on the performance by the other party of 
+any term or failure to exercise any right or remedy reserved in the Order, 
+or either partys waiver of any breach or default hereunder by the other 
+party shall not, thereafter, waive any other terms, conditions, rights, 
+remedies, breaches or defaults, whether of the same or a similar type or 
+not.
+ 
+    (c)                   Severability
+     
+If any provision of the Order, or portion of any provision, is declared or 
+found to be unenforceable, the balance of the Order or such provision shall 
+be interpreted and enforced to the greatest extent possible as if the 
+unenforceable provision or portion had never been a part hereof. In 
+particular, if any interest rate provided for herein is higher than that 
+permitted by applicable law it shall automatically be amended to the 
+highest legal rate.
+ 
+    (d)                   Survival
+     
+The obligations of Seller to Buyer survive termination of the Order, except 
+as otherwise provided in the Order.
+ 
+    (e)                   Interpretation
+     
+No provision may be construed against Buyer as the drafting party. Section 
+headings are for convenience or reference only, and do not affect the 
+meaning of the Order.
+ 
+    (f)                    No Publicity
+     
+Seller shall not advertise, publish or disclose to any third party (other 
+than to Sellers professional advisors on a confidential and need-to-know 
+basis) in any manner the fact that Seller has contracted to furnish Buyer 
+the Supplies covered by the Order or any terms of the Order (including 
+prices), or use any trademarks or trade names of Buyer in any press 
+release, advertising or promotional materials, without first obtaining 
+Buyers written consent.
+ 
+    (g)                   Relationship of Parties
+     
+Seller and Buyer are independent contracting parties and nothing in the 
+Order shall make either party the employee, agent or legal representative 
+of the other for any purpose. The Order does not grant either party any 
+authority to assume or to create any obligation on
+ 
+31
+------------------------------------------------------------------------
+
+ 
+behalf of or in the name of the other. Seller shall be solely responsible 
+for all employment and income taxes, insurance premiums, charges and other 
+expenses it incurs in connection with its performance of the Order, except 
+as expressly provided in a written agreement signed by Buyer. All employees 
+and agents of Seller or its respective contractors are employees or agents 
+solely of Seller or such contractors, and not of Buyer, and are not 
+entitled to employee benefits or other rights accorded to Buyers 
+employees. Buyer is not responsible for any obligation with respect to 
+employees or agents of Seller or its subcontractors.
+ 
+    (h)                   Conflict of Interest
+     
+Seller represents and warrants that its performance of the Order will not 
+in any way conflict with any continuing interests or obligations of Seller 
+or its employees or contractors. Seller further warrants that while the 
+Order is in effect, Seller and those of its employees and contractors 
+participating in the performance of the Order will refrain from any 
+activities which could reasonably be expected to present a conflict of 
+interest with respect to Sellers relationship with Buyer or its 
+performance of the Order.
+ 
+28.          Dispute Resolution
+ 
+    (a)                   Negotiation Process
+     
+    (i)            Before the filing of any claim in any court, a party
+    will serve on the other party to the Terms (a) written notice of the
+    claim, specifying the exact amount claimed and the provision of the
+    Terms or other authority for the claim; and (b) a copy of all
+    supporting documents.
+     
+    (ii)           Within 10 business days after service, the responding
+    party will serve on the serving party (a) a written response, setting
+    out its position and specifying the Terms or other provisions relied
+    on; and (b) a copy of all supporting documents.
+     
+    (iii)          Within 5 business days after service of the response,
+    the parties will meet to discuss resolution of the claim. Each party
+    may bring up to three people to this negotiation, at least one of whom
+    is a corporate officer who is not involved in the performance of this
+    Agreement. The written claim notice and response and the documents
+    produced, but not the subsequent discussion, are admissible in any
+    subsequent proceeding.
+     
+    (iv)          Copies of all notices and other documentation to be
+    delivered to any party shall also be provided to the Secured Party in
+    the manner provided in
+ 
+32
+------------------------------------------------------------------------
+
+ 
+Section 26(b) and the Secured Party shall be allowed to have a 
+representative participate in any discussions or negotiations related to 
+the claim.
+ 
+33
+------------------------------------------------------------------------
