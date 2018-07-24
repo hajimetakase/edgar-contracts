@@ -1,0 +1,717 @@
+ EX-10.30 11 v197007_ex10-30.htm
+ 
+EXHIBIT 10.30
+ 
+WARRANT AGENT AGREEMENT
+ 
+WARRANT AGENT AGREEMENT, dated as of September 17, 2010 (“Agreement”), 
+between Apricus Biosciences, Inc., a Nevada corporation (the “Company”), 
+and Wells Fargo Bank, N.A. (the “Warrant Agent”).
+ 
+R E C I T A L S
+ 
+
+WHEREAS, pursuant to an effective registration statement, SEC File No. 
+333-169132, the Company wishes to issue an aggregate of up to 1,728,882 
+Units, each unit consisting of (i) three shares of common stock, par value 
+$0.001 (the “Common Stock”), and (ii) one Common Stock Warrant (each a “
+Warrant”), entitling the holder of each Warrant (the “Holders” which term 
+shall include a Holder’s transferees, successors and assigns) to purchase 
+one share of Common Stock upon the terms and subject to the conditions set 
+forth herein and in the Warrant Certificate; and
+ 
+WHEREAS, the Company wishes the Warrant Agent to act on behalf of the 
+Company, and the Warrant Agent is willing so to act, in connection with the 
+issuance, registration, transfer, exchange, exercise and replacement of the 
+Warrants and, in the Warrant Agent’s capacity as the Company’s transfer 
+agent and registrar, the delivery of the Warrant Shares;
+ 
+NOW, THEREFORE, in consideration of the premises and the mutual agreements 
+herein set forth, the parties hereby agree as follows:
+ 
+Section 1.               Certain Definitions.  For purposes of this 
+Agreement, the following terms have the meanings indicated:
+ 
+(a)           “Business Day” means any day other than a Saturday, Sunday or 
+a day on which The Nasdaq Stock Market is authorized or obligated by law or 
+executive order to close.
+ 
+(b)           “Close of Business” on any given date means 5:00 p.m., New 
+York City time, on such date; provided, however, that if such date is not a 
+Business Day it means 5:00 p.m., New York City time, on the next succeeding 
+Business Day.
+ 
+(c)           “Exercise Notice” means with respect to the exercise of a 
+Warrant, a form of election to purchase Common Stock in substantially the 
+form attached to the Warrant Certificate.
+ 
+(d)           “Exercise Price” means, depending on the context, the Initial 
+Exercise Price or the adjusted exercise price per share, adjusted from time 
+to time as described in the Warrant Certificate.
+ 
+(e)           “Initial Exercise Price” means $2.268 per share of Common 
+Stock.
+ 
+------------------------------------------------------------------------
+ 
+(f)           “Person” means an individual, sole proprietorship, 
+corporation, partnership, limited liability partnership, limited liability 
+company, association, joint venture, trust, unincorporated organization, 
+estate or other mutual company, joint stock company, estate, union, 
+employee organization, bank, trust company, land trust or other 
+organization, whether or not a legal entity.
+ 
+(g)           “Warrant Certificate” means a certificate in substantially 
+the form attached as Exhibit A hereto representing such number of Warrant 
+Shares as is indicated on the face thereof, provided that any reference to 
+the delivery of a Warrant Certificate in this Agreement shall include 
+delivery of notice from the Depository or a Participant (each as defined 
+below) of the transfer or exercise of Warrants in the form of a Book-Entry 
+Warrant Certificate (as defined below).
+ 
+(h)           “Warrant Shares” means the shares of Common Stock issuable 
+upon exercise of the Warrants.
+ 
+Section 2.               Appointment of Warrant Agent.  The Company hereby 
+appoints the Warrant Agent to act as agent for the Company in accordance 
+with the terms and conditions set forth herein and in the Warrant 
+Certificate, and the Warrant Agent hereby accepts such appointment. The 
+Company may from time to time appoint such Co-Warrant Agents as it may, in 
+its sole discretion, deem necessary or desirable.
+ 
+Section 3.               Book-Entry Warrant Certificates.
+ 
+(a)           The Warrants shall be issuable in book entry (the “
+Book-Entry Warrant Certificates”). All of the Warrants shall initially be 
+represented by one or more Book-Entry Warrant Certificates deposited with 
+the Depository Trust Company (“Depository”) and registered in the name of 
+Cede & Co., a nominee of the Depository. Ownership of beneficial interests 
+in the Warrants shall be shown on, and the transfer of such ownership shall 
+be effected through, records maintained by (i) the Depository or its 
+nominee for each Book-Entry Warrant Certificate or (ii) institutions that 
+have accounts with the Depository (such institution, with respect to a 
+Warrant in its account, a “Participant”).
+ 
+(b)           If the Depository subsequently ceases to make its book-entry 
+settlement system available for the Warrants, the Company may instruct the 
+Warrant Agent regarding other arrangements for book-entry settlement. In 
+the event that the Warrants are not eligible for, or it is no longer 
+necessary to have the Warrants available in, book-entry form, the Warrant 
+Agent shall provide written instructions to the Depository to deliver to 
+the Warrant Agent for cancellation each Book-Entry Warrant Certificate, and 
+the Company shall instruct the Warrant Agent to deliver to each Holder a 
+Warrant Certificate.
+ 
+Section 4.               Form of Warrant Certificates.  The Warrant 
+Certificate, together with the Exercise Notice and the form of assignment 
+to be printed on the reverse thereof, shall be substantially in the form of 
+Exhibit A hereto.
+ 
+2
+------------------------------------------------------------------------
+ 
+Section 5.               Countersignature and Registration.  The Warrant 
+Certificates shall be executed on behalf of the Company by its Chief 
+Executive Officer or its President, either manually or by facsimile 
+signature. The Warrant Certificates shall be countersigned by the Warrant 
+Agent either manually or facsimile signature and shall not be valid for any 
+purpose unless so countersigned. In case any officer of the Company who 
+shall have signed any of the Warrant Certificates shall cease to be such 
+officer of the Company before countersignature by the Warrant Agent and 
+issuance and delivery by the Company, such Warrant Certificates, 
+nevertheless, may be countersigned by the Warrant Agent, issued and 
+delivered with the same force and effect as though the person who signed 
+such Warrant Certificate had not ceased to be such officer of the Company; 
+and any Warrant Certificate may be signed on behalf of the Company by any 
+person who, at the actual date of the execution of such Warrant 
+Certificate, shall be a proper officer of the Company to sign such Warrant 
+Certificate, although at the date of the execution of this Warrant 
+Agreement any such person was not such an officer.
+ 
+The Warrant Agent will keep or cause to be kept, at its office in South St. 
+Paul, MN, or at the office of one of its agents, books for registration and 
+transfer of the Warrant Certificates issued hereunder. Such books shall 
+show the names and addresses of the respective holders of the Warrant 
+Certificates, the number of Warrants evidenced on the face of each of such 
+Warrant Certificate and the date of each of such Warrant Certificate.   The 
+Warrant Agent will create a special account for the issuance of Warrant 
+Certificates.
+ 
+Section 6.                Transfer, Split Up, Combination and Exchange of 
+Warrant Certificates; Mutilated, Destroyed, Lost or Stolen Warrant 
+Certificates.  Subject to the provisions of Section 14 hereof and the last 
+sentence of this first paragraph of Section 6 and subject to compliance 
+with any applicable securities laws, the Warrant Certificate(s) or 
+Book-Entry Warrant Certificate(s) and all rights thereunder, are 
+transferable, in whole or in part, upon surrender of the Warrant 
+Certificate(s) to be transferred at the principal office of the Company or 
+the Warrant Agent, provided that no such surrender is applicable to the 
+Holder of a Book-Entry Warrant Certificate, together with a written 
+assignment of such Warrant Certificate duly executed by the Holder or its 
+agent or attorney and funds sufficient to pay any transfer taxes payable 
+upon the making of such transfer.  Upon such surrender, and if required, 
+such payment, the Company shall execute and deliver a new Warrant 
+Certificate(s) in the name of such assignee or assignees and in the 
+denomination or denominations specified in such instrument of assignment to 
+the Warrant Agent to be countersigned and delivered to such assignee or 
+assignees.  The Company shall execute and deliver a new Warrant Certificate 
+evidencing the portion of the Warrant Certificate not so assigned to the 
+Warrant Agent to be countersigned and delivered to the assignor.  The 
+original Warrant Certificate shall promptly be cancelled by the Warrant 
+Agent.  Any such transfer shall be promptly recorded in the warrant 
+register.
+ 
+The Company and the Warrant Agent covenant that upon receipt by the Company 
+or the Warrant Agent of evidence reasonably satisfactory to it of the loss, 
+theft, destruction or mutilation of the Warrant Certificate or any stock 
+certificate relating to the Warrant Shares, and in case of loss, theft or 
+destruction, of indemnity or security reasonably satisfactory to the 
+Company or the Warrant Agent and upon surrender and cancellation of such 
+Warrant or stock certificate, if mutilated, the Company will make and 
+deliver a new Warrant Certificate or stock certificate, of like  tenor and 
+denomination, to the Warrant Agent for delivery to the Holder in lieu of 
+such Warrant Certificate or stock certificate.
+ 
+3
+------------------------------------------------------------------------
+ 
+Section 7.               Exercise of Warrants.
+ 
+(a)           Subject to the provisions of the applicable Warrant 
+Certificate, the Holder of a Warrant may exercise the Warrant at any time 
+in whole or in part, at the option of the Holder, upon surrender of the 
+Warrant Certificate, if required, with the executed Exercise Notice and 
+payment of the Exercise Price, which may be made, at the option of the 
+holder, by certified or bank cashier’s check payable to the Company, or a 
+wire transfer of funds to an account designated by the Company, to the 
+Warrant Agent at the principal office of the Warrant Agent in South St. 
+Paul, MN or to the office of one of its agents as may be designated in 
+writing by the Warrant Agent. In the case of the Holder of a Book-Entry 
+Warrant Certificate, the Holder shall deliver the executed Exercise Notice 
+and the payment of the Exercise Price as described herein.  Upon receipt of 
+an Exercise Notice for a cashless exercise, the Warrant Agent will promptly 
+deliver a copy of the Exercise Notice to the Company and the Company shall 
+confirm in writing the number of Warrant Shares issuable in connection with 
+the cashless exercise. The Company shall calculate and transmit to the 
+Warrant Agent within one Business Day (and the Warrant Agent shall have no 
+obligation under this section to calculate) the number of Warrant Shares 
+issuable in connection with the cashless exercise.
+ 
+(b)           Upon receipt of by the Warrant Agent of the Warrant 
+Certificate, if applicable, the Exercise Notice and the Exercise Price as 
+described in Section 7(a) above, the Warrant Agent shall use reasonable 
+efforts to cause to be delivered the Warrant Shares to or upon the order of 
+the Holder of such Warrant, registered in such name or names as may be 
+designated by such Holder by the date that is three (3) Business Days after 
+the latest of (A) the delivery to the Warrant Agent of the properly 
+executed and completed Exercise Notice, (B) surrender of the Warrant 
+Certificate (but only if required herein) and (C) payment of the Exercise 
+Price and other amounts as set forth herein or in the Warrant Certificate 
+(including by cashless exercise, if permitted) (such date, the “Warrant 
+Share Delivery Date”); provided, however, that the Warrant Agent shall not 
+be liable to the Company or the Holder for any damages arising out of the 
+failure to deliver the Warrant Shares or Warrant Certificates by the 
+Warrant Share Delivery Date to the extent that such failure relates to the 
+acts or omissions of the Company, a Holder or a Holder’s prime broker. If 
+the Warrant Agent fails to deliver to the Holder a certificate or the 
+certificates representing the Warrant Shares (or, as described below, to 
+credit the account of the Holder’s prime broker through the DWAC system) or 
+Warrant Certificates by the Warrant Share Delivery Date, the Holder will 
+have the right to rescind such exercise. Notwithstanding the foregoing, if 
+the Company is then a participant in the Deposit Withdrawal at Custodian (“
+DWAC”) system of the Depository and either (A) there is an effective 
+registration statement permitting the issuance of the Warrant Shares to and 
+resale of the Warrant Shares by holder or (B) the Warrant is being 
+exercised via cashless exercise, the certificates for Warrant Shares shall 
+be transmitted by the Warrant Agent to the Holder by crediting the account 
+of the Holder’s prime broker with the Depository through its DWAC system.
+ 
+(c)           In case the Holder of any Warrant Certificate shall exercise 
+fewer than all Warrants evidenced thereby, a new Warrant Certificate 
+evidencing the number of Warrants equivalent to the number of Warrants 
+remaining unexercised shall be issued by the Warrant Agent to the Holder of 
+such Warrant Certificate or to his duly authorized assigns, subject to the 
+provisions of Sections 7 and 14 hereof.
+ 
+4
+------------------------------------------------------------------------
+ 
+Section 8.               Cancellation and Destruction of Warrant 
+Certificates.  All Warrant Certificates surrendered for the purpose of 
+exercise, transfer, split up, combination or exchange shall, if surrendered 
+to the Company or to any of its agents, be delivered to the Warrant Agent 
+for cancellation or in canceled form, or, if surrendered to the Warrant 
+Agent, shall be canceled by it, and no Warrant Certificates shall be issued 
+in lieu thereof except as expressly permitted by any of the provisions of 
+this Agreement or the Warrant Certificate. The Company shall deliver to the 
+Warrant Agent for cancellation and retirement, and the Warrant Agent shall 
+so cancel and retire, any other Warrant Certificate purchased or acquired 
+by the Company otherwise than upon the exercise thereof.   Subject to 
+applicable laws and regulations, the Warrant Agent shall maintain in a 
+retrievable database electronic records of all canceled or destroyed 
+warrant certificates which have been canceled or destroyed by the Warrant 
+Agent.  The Warrant Agent shall maintain such electronic records or 
+physical records for the time period required by applicable law and 
+regulation.  Upon written request of the Company (and at the expense of the 
+Company), the Warrant Agent shall provide to the Company or its designee 
+copies of such electronic records or physical records relating to warrant 
+certificates canceled or destroyed by the Warrant Agent.
+ 
+Section 9.               Certain Representations; Reservation and 
+Availability of Shares of Common Stock.
+ 
+(a)           This Agreement has been duly authorized, executed and 
+delivered by the Company and, assuming due authorization, execution and 
+delivery hereof by the Warrant Agent, constitutes a valid and legally 
+binding obligation of the Company enforceable against the Company in 
+accordance with its terms, and the Warrants and the Warrant Shares upon 
+issuance have been duly authorized, executed and issued by the Company and, 
+assuming due authentication thereof by the Warrant Agent pursuant hereto, 
+constitute valid and legally binding obligations of the Company enforceable 
+against the Company in accordance with their terms and entitled to the 
+benefits hereof; in each case except as enforceability may be limited by 
+bankruptcy, insolvency, reorganization, moratorium and other similar laws 
+relating to or affecting creditors’ rights generally or by general 
+equitable principles (regardless of whether such enforceability is 
+considered in a proceeding in equity or at law).
+ 
+(b)           The Company covenants and agrees that it will cause to be 
+reserved and kept available out of its authorized and unissued shares of 
+Common Stock or its authorized and issued shares of Common Stock held in 
+its treasury, free from preemptive rights, the number of shares of Common 
+Stock that will be sufficient to permit the exercise in full of all 
+outstanding Warrants.
+ 
+Section 10.               Common Stock Record Date.  Each person in whose 
+name any certificate for shares of Common Stock is issued (or to whose 
+prime broker’s account is credited shares of Common Stock through the DWAC 
+system) upon the exercise of Warrants shall for all purposes be deemed to 
+have become the holder of record for the Common Stock represented thereby 
+on, and such certificate shall be dated, the date upon which the Warrant 
+Certificate evidencing such Warrants was duly surrendered (but only if 
+required herein) and payment of the Exercise Price (and any applicable 
+transfer taxes) and submission of the Exercise Notice was made; provided, 
+however, that if the date of such surrender (if applicable), payment and 
+submission is a date upon which the Common Stock transfer books of the 
+Company are closed, such person shall be deemed to have become the record 
+holder of such shares on, and such certificate shall be dated, the next 
+succeeding day on which the Common Stock transfer books of the Company are 
+open.
+ 
+5
+------------------------------------------------------------------------
+ 
+Section 11.               Adjustment of Exercise Price, Number of Shares of 
+Common Stock or Number of Warrants.  The Exercise Price, the number of 
+shares covered by each Warrant and the number of Warrants outstanding are 
+subject to adjustment from time to time as provided in the Warrant 
+Certificate.
+ 
+Section 12.               Certification of Adjusted Exercise Price or 
+Number of Shares of Common Stock.  Whenever the Exercise Price or the 
+number of shares of Common Stock issuable upon the exercise of each Warrant 
+is adjusted as provided in the Warrant Certificate, the Company shall (a) 
+promptly prepare a certificate setting forth the Exercise Price of each 
+Warrant as so adjusted, and a brief statement of the facts accounting for 
+such adjustment, (b) promptly file with the Warrant Agent and with each 
+transfer agent for the Common Stock a copy of such certificate and (c) 
+instruct the Warrant Agent to mail a brief summary thereof to each holder 
+of a Warrant Certificate.
+ 
+Section 13.               Reclassification, Consolidation, Purchase, 
+Combination, Sale or Conveyance.  If, at any time while the Warrants are 
+outstanding, the Company shall effect any Fundamental Transaction, as such 
+term is used in the Warrant Certificate, the Company shall instruct the 
+Warrant Agent to mail by first class mail, postage prepaid, to each Holder 
+of a Warrant, written notice of the execution of any such amendment, 
+supplement or agreement. Any supplemented or amended agreement entered into 
+by the successor corporation or transferee shall provide for adjustments as 
+set forth in the Warrant Certificate. The Warrant Agent shall be under no 
+responsibility to determine the correctness of any provisions contained in 
+such agreement relating either to the kind or amount of securities or other 
+property receivable upon exercise of warrants or with respect to the method 
+employed and provided therein for any adjustments and shall be entitled to 
+rely upon the provisions contained in any such agreement. The provisions of 
+this Section 13 shall similarly apply to successive Fundamental 
+Transactions.
+ 
+Section 14.               Agreement of Warrant Certificate Holders.  Every 
+holder of a Warrant Certificate by accepting the same consents and agrees 
+with the Company and the Warrant Agent and with every other holder of a 
+Warrant Certificate that:
+ 
+(a)           the Warrant Certificates are transferable only on the 
+registry books of the Warrant Agent if surrendered at the principal office 
+of the Warrant Agent, duly endorsed or accompanied by a proper instrument 
+of transfer; and
+ 
+6
+------------------------------------------------------------------------
+ 
+(b)           the Company and the Warrant Agent may deem and treat the 
+person in whose name the Warrant Certificate is registered as the absolute 
+owner thereof and of the Warrants evidenced thereby (notwithstanding any 
+notations of ownership or writing on the Warrant Certificates made by 
+anyone other than the Company or the Warrant Agent) for all purposes 
+whatsoever, and neither the Company nor the Warrant Agent shall be affected 
+by any notice to the contrary.
+ 
+Section 15.               Concerning the Warrant Agent.
+ 
+(a)           The Company agrees to pay to the Warrant Agent reasonable 
+compensation for all services rendered by it hereunder and, from time to 
+time, on demand of the Warrant Agent, its reasonable expenses and counsel 
+fees and other disbursements incurred in the administration and execution 
+of this Agreement and the exercise and performance of its duties hereunder.
+ 
+(b)           The Company covenants and agrees to indemnify and to hold the 
+Warrant Agent harmless against any costs, expenses (including reasonable 
+fees of its legal counsel), losses or damages, which may be paid, incurred 
+or suffered by or to which it may become subject, arising from or out of, 
+directly or indirectly, any claims or liability resulting from its actions 
+as Warrant Agent pursuant hereto; provided, that such covenant and 
+agreement does not extend to, and the Warrant Agent shall not be 
+indemnified with respect to, such costs, expenses, losses and damages 
+incurred or suffered by the Warrant Agent as a result of, or arising out 
+of, its breach of this Agreement or the Warrant Agent’s gross negligence, 
+bad faith, or willful misconduct.
+ 
+(c)           Promptly after the receipt by the Warrant Agent of notice of 
+any demand or claim or the commencement of any action, suit, proceeding or 
+investigation, the Warrant Agent shall, if a claim in respect thereof is to 
+be made against the Company, notify the Company thereof in writing. The 
+Company shall be entitled to participate at its own expense in the defense 
+of any such claim or proceeding, and, if it so elects at any time after 
+receipt of such notice, it may assume the defense of any suit brought to 
+enforce any such claim or of any other legal action or proceeding. For the 
+purposes of this Section 15, the terms “expense” or “loss” mean any amount 
+paid or payable to satisfy any claim, demand, action, suit or proceeding, 
+and all reasonable costs and expenses, including, but not limited to, 
+reasonable counsel fees and disbursements, paid or incurred in 
+investigating or defending against any such claim, demand, action, suit, 
+proceeding or investigation.
+ 
+(d)           The Warrant Agent shall be responsible for any and all 
+losses, damages, costs, charges, counsel fees, payments, expenses and 
+liability (collectively, “Losses”), and shall indemnify and hold the 
+Company harmless from and against such Losses, arising out of or 
+attributable to the Warrant Agent’s breach of Section 7(b) of this 
+Agreement.
+ 
+(e)           Promptly after the receipt by the Company of notice of any 
+demand or claim or the commencement of any action, suit, proceeding or 
+investigation, the Company shall, if a claim in respect thereof is to be 
+made against the Warrant Agent, notify the Warrant Agent thereof in 
+writing. The Warrant Agent shall be entitled to participate at its own 
+expense in the defense of any such claim or proceeding, and, if it so 
+elects at any time after receipt of such notice, it may assume the defense 
+of any suit brought to enforce any such claim or of any other legal action 
+or proceeding.  Warrant Agent agrees that any Losses under Section 1(g) of 
+the Warrant Certificate will be considered direct damages under this 
+Agreement for which Warrant Agent shall promptly remit payment upon notice 
+of any demand.
+ 
+7
+------------------------------------------------------------------------
+ 
+Section 16.               Purchase or Consolidation or Change of Name of 
+Warrant Agent.
+ 
+(a)           Any corporation into which the Warrant Agent or any successor 
+Warrant Agent may be merged or with which it may be consolidated, or any 
+corporation resulting from any merger or consolidation to which the Warrant 
+Agent or any successor Warrant Agent shall be party, or any corporation 
+succeeding to the business of the Warrant Agent or any successor Warrant 
+Agent, shall be the successor to the Warrant Agent under this Agreement 
+without the execution or filing of any paper or any further act on the part 
+of any of the parties hereto, provided that such corporation would be 
+eligible for appointment as a successor Warrant Agent under the provisions 
+of Section 18. In case at the time such successor Warrant Agent shall 
+succeed to the agency created by this Agreement any of the Warrant 
+Certificates shall have been countersigned but not delivered, any such 
+successor Warrant Agent may adopt the countersignature of the predecessor 
+Warrant Agent and deliver such Warrant Certificates so countersigned; and 
+in case at that time any of the Warrant Certificates shall not have been 
+countersigned, any successor Warrant Agent may countersign such Warrant 
+Certificates either in the name of the predecessor Warrant Agent or in the 
+name of the successor Warrant Agent; and in all such cases such Warrant 
+Certificates shall have the full force provided in the Warrant Certificates 
+and in this Agreement.
+ 
+(b)           In case at any time the name of the Warrant Agent shall be 
+changed and at such time any of the Warrant Certificates shall have been 
+countersigned but not delivered, the Warrant Agent may adopt the 
+countersignature under its prior name and deliver Warrant Certificates so 
+countersigned; and in case at that time any of the Warrant Certificates 
+shall not have been countersigned, the Warrant Agent may countersign such 
+Warrant Certificates either in its prior name or in its changed name; and 
+in all such cases such Warrant Certificates shall have the full force 
+provided in the Warrant Certificates and in this Agreement.
+ 
+Section 17.               Duties of Warrant Agent.  The Warrant Agent 
+undertakes the duties and obligations imposed by this Agreement upon the 
+following terms and conditions, by all of which the Company and the Holders 
+of Warrant Certificates, by their acceptance thereof, shall be bound:
+ 
+(a)           The Warrant Agent may consult with legal counsel (who may be 
+legal counsel for the Company), and the opinion of such counsel shall be 
+full and complete authorization and protection to the Warrant Agent as to 
+any action taken or omitted by it in good faith and in accordance with such 
+opinion.
+ 
+(b)           Whenever in the performance of its duties under this 
+Agreement the Warrant Agent shall deem it necessary or desirable that any 
+fact or matter be proved or established by the Company prior to taking or 
+suffering any action hereunder, such fact or matter (unless other evidence 
+in respect thereof be herein specifically prescribed) may be deemed to be 
+conclusively proved and established by written (including electronic) 
+instructions of the Chief Executive Officer or President of the Company or 
+by the Secretary of the Company and delivered to the Warrant Agent; and 
+such certificate shall be full authentication to the Warrant Agent for any 
+action taken or suffered in good faith by it under the provisions of this 
+Agreement in reliance upon such writing.
+ 
+(c)           The Warrant Agent shall not be liable for or by reason of any 
+of the statements of fact or recitals contained in this Agreement or in the 
+Warrant Certificates (except its countersignature thereof) or be required 
+to verify the same, but all such statements and recitals are and shall be 
+deemed to have been made by the Company only.
+ 
+8
+------------------------------------------------------------------------
+ 
+(d)           The Warrant Agent shall not be under any responsibility in 
+respect of the validity of this Agreement or the execution and delivery 
+hereof (except the due execution hereof by the Warrant Agent) or in respect 
+of the validity or execution of any Warrant Certificate (except its 
+countersignature thereof); nor shall it be responsible for any breach by 
+the Company of any covenant or condition contained in this Agreement or in 
+any Warrant Certificate; nor shall it be responsible for the adjustment of 
+the Exercise Price or the making of any change in the number of shares of 
+Common Stock or Warrant Shares required under the provisions of Section 7, 
+Section 11, Section 13 and the Warrant Certificate or responsible for the 
+manner, method or amount of any such change or the ascertaining of the 
+existence of facts that would require any such adjustment or change (except 
+with respect to the exercise of Warrants evidenced by Warrant Certificates 
+after actual notice of any adjustment of the Exercise Price); nor shall it 
+by any act hereunder be deemed to make any representation or warranty as to 
+the authorization or reservation of any shares of Common Stock to be issued 
+pursuant to this Agreement or any Warrant Certificate or as to whether any 
+shares of Common Stock will, when issued, be duly authorized, validly 
+issued, fully paid and nonassessable.
+ 
+(e)           The Company agrees that it will perform, execute, acknowledge 
+and deliver or cause to be performed, executed, acknowledged and delivered 
+all such further and other acts, instruments and assurances as may 
+reasonably be required by the Warrant Agent for the carrying out or 
+performing by the Warrant Agent of the provisions of this Agreement.
+ 
+(f)           The Warrant Agent is hereby authorized to accept instructions 
+with respect to the performance of its duties hereunder from the Chief 
+Executive Officer, the President or the Secretary of the Company, and to 
+apply to such officers for advice or instructions in connection with its 
+duties, and it shall not be liable and shall be indemnified and held 
+harmless for any action taken or suffered to be taken by it in good faith 
+in accordance with instructions of any such officer, provided Warrant Agent 
+carries out such instructions without gross negligence, bad faith or 
+willful misconduct.
+ 
+(g)           The Warrant Agent and any shareholder, director, officer, 
+manager, member or employee of the Warrant Agent may buy, sell or deal in 
+any of the Warrants or other securities of the Company or become 
+pecuniarily interested in any transaction in which the Company may be 
+interested, or contract with or lend money to the Company or otherwise act 
+as fully and freely as though it were not Warrant Agent under this 
+Agreement. Nothing herein shall preclude the Warrant Agent from acting in 
+any other capacity for the Company or for any other legal entity.
+ 
+(h)           The Warrant Agent may execute and exercise any of the rights 
+or powers hereby vested in it or perform any duty hereunder either itself 
+or by or through its attorney or agents, and the Warrant Agent shall not be 
+answerable or accountable for any act, default, neglect or misconduct of 
+any such attorney or agents or for any loss to the Company resulting from 
+any such act, default, neglect or misconduct, provided reasonable care was 
+exercised in the selection and continued employment thereof.
+ 
+9
+------------------------------------------------------------------------
+ 
+Section 18.               Change of Warrant Agent.  The Warrant Agent may 
+resign and be discharged from its duties under this Agreement upon 30 days’ 
+notice in writing mailed to the Company and to each transfer agent of the 
+Common Stock by registered or certified mail, and to the holders of the 
+Warrant Certificates by first-class mail. The Company may remove the 
+Warrant Agent or any successor Warrant Agent upon 30 days’ notice in 
+writing, mailed to the Warrant Agent or successor Warrant Agent, as the 
+case may be, and to each transfer agent of the Common Stock by registered 
+or certified mail, and to the holders of the Warrant Certificates by 
+first-class mail. If the Warrant Agent shall resign or be removed or shall 
+otherwise become incapable of acting, the Company shall appoint a successor 
+to the Warrant Agent. If the Company shall fail to make such appointment 
+within a period of 30 days after such removal or after it has been notified 
+in writing of such resignation or incapacity by the resigning or 
+incapacitated Warrant Agent or by the holder of a Warrant Certificate (who 
+shall, with such notice, submit his Warrant Certificate for inspection by 
+the Company), then the Holder of any Warrant Certificate may apply to any 
+court of competent jurisdiction for the appointment of a new Warrant Agent. 
+Any successor Warrant Agent, whether appointed by the Company or by such a 
+court, shall be a corporation organized and doing business under the laws 
+of the United States or of a state thereof, in good standing. After 
+appointment, the successor Warrant Agent shall be vested with the same 
+powers, rights, duties and responsibilities as if it had been originally 
+named as Warrant Agent without further act or deed; but the predecessor 
+Warrant Agent shall deliver and transfer to the successor Warrant Agent any 
+property at the time held by it hereunder, and execute and deliver any 
+further assurance, conveyance, act or deed necessary for the purpose. Not 
+later than the effective date of any such appointment, the Company shall 
+file notice thereof in writing with the predecessor Warrant Agent and each 
+transfer agent of the Common Stock, and mail a notice thereof in writing to 
+the Holders of the Warrant Certificates. However, failure to give any 
+notice provided for in this Section 18, or any defect therein, shall not 
+affect the legality or validity of the resignation or removal of the 
+Warrant Agent or the appointment of the successor Warrant Agent, as the 
+case may be.
+ 
+Section 19.               Warrant Exercise Solicitation.  From time to 
+time, the Company may engage one or more registered broker-dealer(s) to act 
+as the Company’s agent for the solicitation of the exercise of the 
+Warrants.  If so engaged, the Company will provide the Warrant Agent with 
+written notice of the engagement and the Warrant Agent agrees that it will 
+reasonably cooperate with such solicitation activities.
+ 
+Section 20.               Notices.  Notices or demands authorized by this 
+Agreement to be given or made (i) by the Warrant Agent or by the Holder of 
+any Warrant Certificate to or on the Company, (ii)  subject to the 
+provisions of Section 18, by the Company or by the Holder of any Warrant 
+Certificate to or on the Warrant Agent or (iii) by the Company or the 
+Warrant Agent to the Holder of any Warrant Certificate, shall be deemed 
+given (x) on the date delivered, if delivered personally, (y) on the first 
+Business Day following the deposit thereof with Federal Express or another 
+recognized overnight courier, if sent by Federal Express or another 
+recognized overnight courier, and (z) on the fourth Business Day following 
+the mailing thereof with postage prepaid, if mailed by registered or 
+certified mail (return receipt requested), in each case to the parties at 
+the following addresses (or at such other address for a party as shall be 
+specified by like notice):
+ 
+(a)
+If to the Company, to:
+ 
+           Apricus Biosciences, Inc.
+           6330 Nancy Ridge Road
+           San Diego, California 92121
+           Attention: President
+ 
+10
+------------------------------------------------------------------------
+ 
+(b)
+If to the Warrant Agent, to:
+ 
+           Wells Fargo Bank, N.A.
+           Attn:  Account Management
+           161 North Concord Exchange
+           South St. Paul, MN  55075
+ 
+If to the Holder of any Warrant Certificate, to the address of such holder 
+as shown on the registry books of the Company. Any notice required to be 
+delivered by the Company to the Holder of any Warrant may be given by the 
+Warrant Agent on behalf of the Company.
+ 
+Section 21.               Supplements and Amendments.
+ 
+(a)           The Company and the Warrant Agent may from time to time 
+supplement or amend this Agreement without the approval of any Holders of 
+Warrant Certificates in order to cure any ambiguity, to correct or 
+supplement any provision contained herein which may be defective or 
+inconsistent with any other provisions herein, or to make any other 
+provisions with regard to matters or questions arising hereunder which the 
+Company and the Warrant Agent may deem necessary or desirable and which 
+shall not adversely affect the interests of the Holders of Warrant 
+Certificates.
+ 
+(b)           In addition to the foregoing, with the consent of Holders of 
+Warrants entitled, upon exercise thereof, to receive not less than a 
+majority of the shares of Warrant Shares issuable thereunder, the Company 
+and the Warrant Agent may modify this Agreement for the purpose of adding 
+any provisions to or changing in any manner or eliminating any of the 
+provisions of this Warrant Agreement or modifying in any manner the rights 
+of the holders of the Warrant Certificates; provided, however, that no 
+modification of the terms (including but not limited to the adjustments 
+described in Section 11) upon which the Warrants are exercisable or 
+reducing the percentage required for consent to modification of this 
+Agreement may be made without the consent of the holder of each outstanding 
+warrant certificate affected thereby.
+ 
+Section 22.               Successors.  All covenants and provisions of this 
+Agreement by or for the benefit of the Company or the Warrant Agent shall 
+bind and inure to the benefit of their respective successors and assigns 
+hereunder.
+ 
+Section 23.               Benefits of this Agreement.  Nothing in this 
+Agreement shall be construed to give any Person other than the Company and 
+the Warrant Agent any legal or equitable right, remedy or claim under this 
+Agreement; but this Agreement shall be for the sole and exclusive benefit 
+of the Company, the Warrant Agent and the Holders of the Warrant 
+Certificates.
+ 
+Section 24.               Governing Law.  This Agreement and each Warrant 
+Certificate issued hereunder shall be governed by, and construed in 
+accordance with, the laws of the State of California without giving effect 
+to the conflicts of law principles thereof.
+ 
+Section 25.               Counterparts.  This Agreement may be executed in 
+any number of counterparts and each of such counterparts shall for all 
+purposes be deemed to be an original, and all such counterparts shall 
+together constitute but one and the same instrument.
+ 
+11
+------------------------------------------------------------------------
+ 
+Section 26.               Captions.  The captions of the sections of this 
+Agreement have been inserted for convenience only and shall not control or 
+affect the meaning or construction of any of the provisions hereof.
+ 
+Section 27.               Force Majeure.  Notwithstanding anything to the 
+contrary contained herein, neither Warrant Agent nor the Company shall be 
+liable for, or considered to be in breach of or default under this 
+Agreement (including Section 15) on account of any delay or failure to 
+perform its obligations hereunder due to causes beyond such party’s 
+reasonable control including, without limitation, acts of God, terrorist 
+acts, shortage of supply, breakdowns or malfunctions, interruptions or 
+malfunction of computer facilities, or loss of data due to power failures 
+or mechanical difficulties with information storage or retrieval systems, 
+labor difficulties, war, or civil unrest.
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+duly executed as of the day and year first above written.
+ 
+  	APRICUS BIOSCIENCES, INC. 	 
+  	  	 
+  	  	  	 
+ 
+By:
+/s/ Mark Westgate 	 
+  	Name:  	Mark Westgate 	 
+  	Title: 	President and Chief Financial Officer 	 
+  	  	  	 
+ 
+  	WELLS FARGO BANK, N.A. 	 
+  	  	 
+  	  	  	 
+ 
+By:
+/s/ Suzanne M. Swits 	 
+  	Name:  	Suzanne M. Swits 	 
+  	Title: 	Vice President 	 
+  	  	  	 
+ 
+12
+------------------------------------------------------------------------
+ 
+EXHIBIT A
+ 
+FORM OF WARRANT CERTIFICATE
+ 
+13
+------------------------------------------------------------------------
