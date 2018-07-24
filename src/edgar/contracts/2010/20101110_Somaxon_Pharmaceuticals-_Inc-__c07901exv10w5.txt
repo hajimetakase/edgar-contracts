@@ -1,0 +1,968 @@
+ EX-10.5 3 c07901exv10w5.htm EXHIBIT 10.5
+
+  Exhibit 10.5
+
+  AMENDED AND RESTATED LICENSE AGREEMENT
+
+  This Amended and Restated License Agreement (Agreement) is made and
+  entered into as of September 15, 2010 (the Agreement Date), and is
+  deemed effective as of the Effective Date (hereinafter defined), by and
+  between Somaxon Pharmaceuticals, Inc. (Somaxon) and ProCom One, Inc.
+  (ProCom One).
+
+  RECITALS
+
+  WHEREAS, ProCom One and Somaxon are parties to that certain License
+  Agreement dated August 25, 2003, as amended, which agreement the parties
+  now wish to amend and restate in its entirety with this Agreement;
+
+  WHEREAS, ProCom One is the owner of all right, title and interest in
+  certain Patent Rights and Know-How (both as hereinafter defined); and
+
+  WHEREAS, ProCom One agrees to grant, and Somaxon accepts, an exclusive,
+  worldwide license to the Patent Rights and the Know-How to develop and
+  commercialize the Licensed Products (hereinafter defined).
+
+  AGREEMENT
+
+  NOW, THEREFORE, for and in consideration of the above described recitals,
+  the mutual covenants of the parties hereinafter contained and other good
+  and valuable consideration, the receipt and sufficiency of which is
+  hereby acknowledged by the parties, the parties hereto, intending to be
+  legally bound, enter into the agreements contained herein.
+
+  1. 	  	
+  DEFINITIONS
+
+  For purposes of this Agreement, the following terms shall have the
+  meanings set forth below unless the context dictates otherwise.
+
+  1.1 Combination Product shall mean any Licensed Product that (a)
+  incorporates one or more active ingredients which alone would be outside
+  the scope of a valid claim under the Patent Rights, (b) incorporates a
+  proprietary dosage delivery system and/or (c) is sold together with one
+  or more products for a single invoiced price. For the avoidance of doubt,
+  the scope of the Somaxon Licenses shall extend to Combination Products.
+
+  1.2 Commercially Reasonable Efforts shall mean efforts and resources
+  normally used by a party required to use such efforts and resources for a
+  product, proposed product or technology owned by it or to which it has
+  rights, which is of similar commercial potential at a similar stage in
+  its development or product life, taking into account issues of safety and
+  efficacy; market size; competition; the proprietary position of the
+  product, proposed product or technology; third party rights; the
+  regulatory status of the product, proposed product or technology and
+  other applicable regulatory considerations; reimbursement matters; actual
+  and/or projected profitability of the product, proposed product or
+  technology; and other relevant factors.
+
+   
+
+  Page 1 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  1.3 Compounds shall mean doxepin, amitriptyline, trimipramine,
+  trazodone and nortriptyline (as well as any respective prodrugs,
+  hydrates, salts, esters, metabolites, isomers, polymorphs or analogues
+  thereof).
+
+  1.4 Effective Date shall be August 25, 2003.
+
+  1.5 FDA shall mean United States Food and Drug Administration of the
+  United States Department of Health and Human Services, its successor
+  agencies or its foreign counterparts outside the United States.
+
+  1.6 Field shall mean the prevention, treatment or control of insomnia,
+  and any other use of the Compounds within the Ranges.
+
+  1.7 Improvements shall mean any modification to a Licensed Product,
+  including, without limitation, (i) any modification in use, manufacture,
+  preparation, means of delivery or dosage, (ii) reformulations (including,
+  without limitation, extended release formulations and flash dose
+  formulations), and (iii) any modification to any compounds, metabolites,
+  active moieties, intermediates or active ingredients, with the proviso
+  that the composition following such modification(s) still contains at
+  least one Compound within its Range.
+
+  1.8 Know-How shall mean all trade secrets, inventions, data, processes,
+  procedures, devices, methods, formulas, protocols, information and other
+  know-how, whether or not patentable, in each case which are owned by or
+  licensed to ProCom One during the Term and are necessary or useful for
+  the commercial exploitation of: (i) the Patent Rights or any product,
+  process, design or other matter covered by the Patent Rights; (ii) the
+  design, development, manufacture, testing, use, or sale of the Licensed
+  Products; or (iii) any other information relating to the Patent Rights or
+  the Licensed Products which would be useful to Somaxon in the development
+  of Licensed Products.
+
+  1.9 Licensed Products shall mean: (i) any product the manufacture, use,
+  sale or importation of which would infringe a valid claim under the
+  Patent Rights but for the Somaxon Licenses contemplated hereby; and/or
+  (ii) any composition containing at least one Compound within its Range,
+  regardless of its intended use.
+
+  1.10 NDA shall mean a New Drug Application filed with the FDA, as
+  defined in the U.S. Federal Food, Drug and Cosmetic Act and applicable
+  regulations promulgated thereunder, as amended from time to time.
+
+  1.11 NDA Acceptance shall mean the written notice of acceptance of a
+  NDA sent by the FDA.
+
+  1.13 NDA Approval shall mean the approval, license, registration or
+  authorization, however called, of a NDA by the FDA necessary for the
+  marketing, use, and sale in the United States of the drug identified in
+  the NDA.
+
+   
+
+  Page 2 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  1.14 Net Sales
+
+  A. For Licensed Products other than Combination Products, Net Sales
+  shall mean the total gross amount invoiced by Somaxon, its affiliates or
+  sublicensees from the sale of any Licensed Product to third parties less
+  the sum of (a) returns, credits and allowances to third parties actually
+  allowed or paid, (b) wholesale or cash or trade or quantity discounts,
+  refunds, rebates, charge-backs or retroactive price adjustments, actually
+  allowed or paid, (c) sales, use or excise taxes or duties imposed on the
+  transaction and paid by Somaxon, its affiliates or sublicensees, (d) bad
+  debts actually incurred, and (e) charges for freight, transportation and
+  insurance directly related to the distribution of the Licensed Products
+  (excluding amounts reimbursed by third party customers).
+
+  B. In the case of the sale of a Combination Product under Section 1.1(a),
+  (b) or (c), the Net Sales for such Combination Product, except as may be
+  provided through the operation of Section 1.14(C) shall equal the gross
+  amount invoiced for such Combination Product less
+
+    	(1) 	  	
+  the adjustments (a)-(e) specified in Section 1.14(A) above,
+   
+    	(2) 	  	
+  the lesser of:
+
+    	(x) 	  	
+  ten (10%) of the gross amount invoiced for such Combination Product, or
+   
+    	(y) 	  	
+  any royalty and/or other cost of goods payable by Somaxon, its affiliate
+  or sublicensee to any third party due to the presence in the Combination
+  Product of a proprietary dosage delivery system and/or at least one
+  active ingredient which alone would be outside the scope of a valid claim
+  under the Patent Rights; and
+
+    	(3) 	  	
+  an amount equal to the fraction (A-B)/2, where:
+
+    	A 	=   	
+  the gross amount invoiced for such Combination Product less the
+  deductions under clauses (1) and (2) of this Section 1.14(B), and
+   
+    	B 	=   	
+  the gross amount invoiced for the initial Licensed Product sold by
+  Somaxon, its affiliate or sublicensee less the deductions under clauses
+  (a)-(e) in the definition of Net Sales in Section 1.14(A) above.
+
+  C. For purposes of calculating the Royalty in Section 4.2, in no event
+  shall the Net Sales of any single unit of any Licensed Product sold by
+  Somaxon, its affiliate or sublicensee subsequent to the initial Licensed
+  Product, including any Combination Product, be less than the Net Sales of
+  a single unit of the initial Licensed Product.
+
+  D. For the avoidance of doubt, sales of a Licensed Product by and between
+  Somaxon and an affiliate or sublicensee are not sales to third parties
+  and shall be excluded from Net Sales calculations for all purposes.
+
+   
+
+  Page 3 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  1.15 Patent Rights shall mean: (i) U.S. Patent Nos. 5,502,047,
+  5,643,897, 6,211,229 and 6,344,487; (ii) all other existing U.S. and
+  international patents and/or patent applications now owned, co-owned, 
+  licensed or controlled by ProCom One directed to the Compounds within the
+  Ranges; and (iii) all U.S. and international patent applications and
+  patents on Improvements owned, co-owned, licensed or controlled by ProCom
+  One during the Term. For the avoidance of doubt, the existing patent
+  applications referenced in subclause (ii) of this Section 1.15 shall
+  include, but not be limited to, the rights of ProCom One in the following
+  patent applications:
+    	  	  	  	 
+   
+    	(a) 	  	U.S. patent application number 12/446,914,
+   
+    	(b) 	  	U.S. patent application number 11/804,722,
+   
+    	(c) 	  	U.S. patent application number 11/804,720,
+   
+    	(d) 	  	Japanese patent application number 2009-511109,
+   
+    	(e) 	  	Canadian patent application number 2687118,
+   
+    	(f) 	  	U.S. patent application number 11/867,595,
+   
+    	(g) 	  	U.S. patent application number 12/535,640
+   
+    	(h) 	  	U.S. patent application number 12/535,623
+   
+    	(i) 	  	U.S. patent application number 12/517,507,
+   
+    	(j) 	  	U.S. patent application number 12/301,223,
+   
+    	(k) 	  	E.P.O. patent application number 7,795,135.8,
+   
+    	(l) 	  	Japanese patent application number 2009-511110, and
+   
+    	(m) 	  	Canadian patent application number 2687124.
+
+  The Patent Rights shall further include all divisions, provisionals,
+  renewals, continuations, continuations-in-part, reissues, extensions or
+  substitutions thereof and any foreign patent applications and patents
+  corresponding thereto related to any of the foregoing.
+
+  1.16 Ranges shall mean the following recited dosage range for each of
+  the Compounds:
+    	  	  	  	  	  	 
+   
+    	(a) 	  	Doxepin 	  	0.0001-20 mg
+   
+    	(b) 	  	Amitriptyline 	  	0.5-20 mg
+   
+    	(c) 	  	Trimipramine 	  	0.5-20 mg
+   
+    	(d) 	  	Trazodone 	  	0.5-20 mg
+   
+    	(e) 	  	Nortriptyline 	  	0.5-10 mg
+
+  For the avoidance of doubt, dosage shall mean the amount of active
+  material to be administered at a given time, irrespective of the number
+  or type of dosage units (e.g., tablets, capsules, etc.) used in such
+  administration.
+
+  2. 	  	
+  GRANT OF RIGHTS
+
+  2.1 License. During the Term, ProCom One grants to Somaxon an exclusive
+  (even as to ProCom One), world-wide license under the Patent Rights and
+  the Know-How to develop, make, have made, use, sell, have sold, offer for
+  sale, import or otherwise commercialize Licensed Products and
+  Improvements in the Field (collectively Somaxon Licenses). For the
+  avoidance of doubt, the scope of the Somaxon Licenses shall extend to
+  Combination Products.
+
+  2.2 Right to Sublicense. Somaxon may sublicense the Somaxon Licenses to
+  any third party, however, such sublicense(s) shall not relieve Somaxon of
+  its obligations to ProCom One under this Agreement. Somaxon shall
+  promptly inform ProCom One of the issuance of all such sublicenses.
+
+   
+
+  Page 4 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  2.3 Disclosure of Know-How and Patent Rights. ProCom One shall promptly
+  deliver to Somaxon or provide Somaxon with copies of (1) all documents,
+  drawings, specifications, programs, devices and equipment relating to,
+  and all other tangible manifestations of, the Know-How; and (2) all
+  patent applications (for which U.S. and international patents have not
+  issued) included in the Patent Rights.
+
+  2.4 Improvements. ProCom One shall promptly disclose and communicate to
+  Somaxon any Improvements discovered, invented, originated, made,
+  conceived or acquired by ProCom One after the Effective Date
+  (collectively ProCom One Improvements) and all such ProCom One
+  Improvements shall automatically be included within the scope of the
+  Know-How and Patent Rights and each partys rights to such ProCom One
+  Improvements shall be governed in accordance with the terms of this
+  Agreement. Each party to this Agreement shall take Commercially
+  Reasonable Efforts to protect and ensure the secrecy, confidentiality and
+  value of all Improvements, excluding any portion of the Improvements that
+  shall have become generally known to the public (other than as a result
+  of the improper disclosure thereof by such party). Nothing in this
+  Agreement imposes any duty or obligation on either party to acquire,
+  discover, invent, originate or develop any Improvement.
+
+  2.5 Additional Patents. Consistent with clause (iii) of the definition of
+  Patent Rights, if, during the term of this Agreement, ProCom One obtains
+  the rights to any patents or patent applications, the claims of which
+  cover any Improvements, such patents and patent applications shall be
+  automatically, without any further action of the parties, be included in
+  the licensed Patent Rights. ProCom One shall provide reasonably prompt
+  notice to Somaxon of any prospective patentable rights and shall consult
+  with Somaxon concerning ProCom Ones plans for the prosecution of the
+  related patent rights. Furthermore, ProCom One shall provide Somaxon with
+  a reasonable period of time to comment on any related patent application
+  prior to the filing of such patent application and shall use Commercially
+  Reasonable Efforts to accommodate any comments and other suggestions from
+  Somaxon with respect to the patent application and patent prosecution
+  strategy.
+
+  2.6 Intellectual Property Rights beyond Somaxon Licenses.
+
+  2.6.1 Somaxon will have the right of first negotiation to acquire rights
+  under any intellectual property rights developed by Dr. Kavey and/or
+  ProCom One beyond the Somaxon Licenses which do not constitute ProCom One
+  Improvements. ProCom One will promptly provide notice to Somaxon of such
+  developments and Somaxon will have the right of first negotiation to
+  acquire rights thereunder during a period of ninety (90) days following
+  its receipt of such notice. In the event the parties fail to come to
+  terms with respect to any such additional intellectual property rights,
+  ProCom One shall have the right to enter into a transaction with any
+  third party with respect to the specific intellectual property rights it
+  had offered to Somaxon on terms that are more favorable to ProCom One
+  than those last offered by Somaxon to ProCom One in connection with the
+  parties negotiations.
+
+  2.6.2 In order to facilitate verification by Somaxon that the terms of
+  any third party transaction are in fact more favorable to ProCom One than
+  those last offered to ProCom One by Somaxon in connection with the
+  parties negotiations under Section 2.6.1 above, prior to entering into
+  any definitive agreement with a third party concerning any matter that is
+  subject to the foregoing right of first negotiation, ProCom One shall
+  provide Somaxon with a true, accurate and complete copy of the proposed
+  definitive agreement certified as such by an officer of ProCom One and
+  shall thereafter provide to Somaxon a copy of any amendments to the
+  definitive agreement affecting the economic and other materials terms
+  thereof. The terms of any such definitive agreement and amendments shall
+  be deemed to be confidential information for purposes of Section 6 below, 
+  provided that Somaxon may submit such agreement and amendments to the
+  arbitrator in the event of any dispute under Section 10 below.
+
+   
+
+  Page 5 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  3. 	  	
+  COMMERCIALIZATION
+
+  3.1 Development. Somaxon shall use Commercially Reasonable Efforts to:
+  (i) develop at least one Licensed Product, (ii) obtain regulatory
+  approval of the initial Licensed Product and, (iii) subject to applicable
+  regulatory and marketing approval, commercialize such Licensed Product.
+  In furtherance of such development, Somaxon shall consult with ProCom One
+  with respect to development plans, timelines and budgets and generally
+  keep ProCom One informed of material progress and delays, if any, in the
+  development through the periodic meetings of Somaxons Board of Directors
+  (to which ProCom One is entitled to appoint a designee as set forth in
+  Section 3.5 below). In the event that any dispute between the parties
+  arises related to Somaxons compliance with the diligence requirements of
+  this Agreement, the parties shall resolve such dispute in accordance with
+  Section 10.
+
+  3.2 Clinical Trials. Somaxon shall be responsible for conducting all
+  clinical trials and for all regulatory filings and interactions with
+  clinical trial sites and any regulatory authorities, including without
+  limitation pharmacovigilance. Somaxon shall actively consult with Dr.
+  Kavey on the design and implementation of the clinical trials.
+
+  3.3 Commercialization. Somaxon shall be solely responsible for the
+  commercial development, marketing, promotion, manufacture, sale and
+  distribution of the Licensed Products.
+
+  3.4 Intentionally left blank.
+
+  3.5 Seat on Somaxons Board of Directors. During the Term, ProCom One may
+  appoint one designee to Somaxons Board of Directors, which designee must
+  be reasonably acceptable to Somaxon at the time of appointment to
+  Somaxons Board of Directors.
+
+  4. 	  	
+  PAYMENTS
+
+  4.1 Milestone Payments. The parties hereby acknowledge and agree that all
+  milestone payments to be paid as consideration for the licenses granted
+  hereunder have been fully paid prior to the Agreement Date.
+
+  4.2 Royalty. During the Term, Somaxon shall pay to ProCom One a five
+  percent (5%) royalty (Royalty) on worldwide Net Sales of Licensed
+  Products.
+
+  4.3 Royalty Payment and Reports. Within forty-five (45) days after the
+  end of each calendar quarter, Somaxon shall submit to ProCom One a
+  written report setting forth for such preceding calendar quarter, the Net
+  Sales and the calculation of the Royalty payable to ProCom One pursuant
+  to Section 4.2. Such royalty report shall be accompanied by the total
+  Royalty due to ProCom One. All payments shall be made in U.S. Dollars.
+
+   
+
+  Page 6 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  4.4 Record keeping by Somaxon. Somaxon shall keep accurate books of
+  accounts of record in connection with the manufacture, use and sale of
+  Licensed Products to permit verification of Royalty payments required
+  hereunder. Such records shall be maintained for a period of at least
+  three (3) years from the date on which they were generated.
+
+  4.5 Audit by ProCom One. ProCom One shall have the right, at its own
+  expense, to access books and records of Somaxon as may be reasonably
+  necessary to verify the accuracy of the reports and payments made
+  hereunder. Such access shall be conducted upon reasonable written notice
+  to Somaxon and during normal business hours. Such access shall not be
+  more frequent than once per calendar year. Upon Somaxons written
+  request, ProCom One shall require the auditing party to sign a
+  confidentiality agreement for the benefit of Somaxon. The results of such
+  audit shall be made available to Somaxon. If any audit discloses that the
+  payments by Somaxon to ProCom One are incorrect in either Somaxons or
+  ProCom Ones favor, then the other party shall pay any amount due to the
+  other party within ten (10) days after receipt of the necessary
+  documentation of the amount owed. If ProCom Ones audit demonstrates an
+  underpayment of more than five percent (5%) for the payment due to ProCom
+  One during any individual calendar quarter, Somaxon shall be liable for
+  ProCom Ones cost of the audit that discovered such underpayment.
+  Otherwise, the parties shall bear their own costs of such audits.
+
+  4.6 Withholding Taxes. Each party shall be responsible for the payment of
+  taxes attributed to its share of Net Sales. Where required to do so by
+  applicable law, rule or order of a governmental body, Somaxon shall
+  withhold taxes required to be paid to a taxing authority in connection
+  with any payments to ProCom One hereunder, and, upon request of ProCom
+  One, Somaxon shall furnish ProCom One with satisfactory evidence of such
+  withholding and payment. Somaxon shall cooperate with ProCom One in
+  obtaining exemption from withholding taxes where available under
+  applicable law.
+
+  4.7 Equity. The parties hereby acknowledge and agree that all Somaxon
+  equity to be issued to ProCom One, Dr. Kavey or Mr. Cobb as consideration
+  for the licenses granted hereunder has been duly and validly issued prior
+  to the Agreement Date.
+
+  5. 	  	
+  PATENT RIGHTS
+
+  5.1 Patent Prosecution and Maintenance. Except to the extent otherwise
+  agreed by the parties, Somaxon shall be responsible for the preparation,
+  filing, prosecution and maintenance of the Patent Rights, including all
+  payment obligations. Somaxon will provide ProCom One with notice of
+  Somaxons intent to amend any patent claims within the Patent Rights and,
+  time permitting, will permit to ProCom One to review prosecution drafts,
+  to provide input and strategy suggestions, however, Somaxon will have the
+  sole discretion to determine and direct claim amendments and prosecution
+  strategy. Somaxon acknowledges that ProCom One has provided to Somaxon a
+  schedule setting forth the timing of all maintenance fees and other
+  material prosecution and maintenance activities scheduled with respect to
+  the Patent Rights, to the extent, with respect to patent applications
+  contained therein, that such patent applications are not being prepared
+  and/or prosecuted by or on behalf of Somaxon. ProCom One shall timely
+  execute powers of attorney and such other documentation as shall be
+  reasonably requested by Somaxon to facilitate Somaxons performance as
+  contemplated herein. Somaxon shall provide written notice to ProCom One
+  from time to time as Somaxon makes any required maintenance payments and
+  as any new material information relating to the preparation, filing,
+  prosecution or maintenance of the Patent Rights comes to its attention.
+  Somaxon will provide ProCom One with notice of Somaxons intent to
+  abandon any pending patent application included within the Patent Rights
+  or to terminate payment of any maintenance fees relating to the Patent
+  Rights in sufficient time prior to the abandonment date or maintenance
+  fee due date to permit Procom One at its own expense to make any such
+  required payments or take any such required action.
+
+   
+
+  Page 7 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  5.2 Patent Enforcement.
+
+  5.2.1 If either party should become aware of any infringement or
+  misappropriation or threatened infringement or misappropriation of the
+  Patent Rights, it shall promptly notify the other party in writing and
+  provide any information available to that party relating to such alleged
+  infringement or misappropriation.
+
+  5.2.2 Somaxon shall have the primary right, but not the obligation, to
+  take action in its own name and its expense to secure the cessation of
+  any infringement or misappropriation or to institute, prosecute and
+  control legal proceedings to prevent or restrain such infringement or
+  misappropriation concerning the Patent Rights in the Field. ProCom One
+  agrees to assist Somaxon, at Somaxons expense, in the prosecution of any
+  action or legal proceedings related to infringement or misappropriation
+  of the Patent Rights in the Field. If requested by Somaxon, ProCom One
+  agrees (a) to join any action or legal proceeding to enforce the Patent
+  Rights in the Field against any third party or (b) to bring such action
+  or proceeding in its own name (at Somaxons expense and subject to
+  Somaxons prosecution and control), if required by applicable law or
+  regulation for such action or proceeding to be brought or continue. If
+  Somaxon takes action or prosecutes legal proceedings relating to the
+  infringement or misappropriation of the Patent Rights in the Field, after
+  payment of ProCom Ones out-of-pocket costs and Royalty due to ProCom One
+  on any award of lost profits, all other damages and costs recovered in
+  any action or proceedings or by way of settlement shall belong to
+  Somaxon.
+
+  5.2.3 In the event that Somaxon takes no action within six (6) months of
+  notice of any such infringement or misappropriation, ProCom One shall
+  have the right, but not the obligation, to take action in its own name
+  and its expense to secure the cessation of any such infringement or
+  misappropriation or to institute, prosecute and control legal proceedings
+  to prevent or restrain such infringement or misappropriation concerning
+  the Patent Rights in the Field. If requested by ProCom One, Somaxon
+  agrees to join any action or legal proceeding to enforce the Patent
+  Rights in the Field against any third party. If ProCom One takes action
+  or prosecutes legal proceedings relating to the infringement or
+  misappropriation of the Patent Rights in the Field, after payment of
+  Somaxons out-of-pocket costs, all other damages and costs recovered in
+  any action or proceedings or by way of settlement shall belong to ProCom
+  One.
+
+  5.3 Infringement Action by a Third Party. In the event of the institution
+  of any suit by a third party against Somaxon for patent infringement
+  arising from the manufacture, use, sale, distribution or marketing of any
+  Licensed Product, Somaxon shall promptly notify ProCom One in writing of
+  such suit. Somaxon shall have the sole right to defend such suit at its
+  own cost and expense, and ProCom One shall, at Somaxons expense, assist
+  and cooperate with Somaxon in the defense of such suit. If a judgment is
+  rendered against Somaxon in such suit and Somaxon is required to pay any
+  monies or royalty for past or future use (Third Party Expense) based
+  solely upon use of the Compounds both (i) in the Field, and (ii) within
+  the Ranges, Somaxon may deduct the Third Party Expense (and its cost of
+  defense of such action) from its future royalty payment obligations to
+  ProCom One pursuant to Section 4.3 up to an amount not to exceed one-half
+  (1/2) of such future Royalty payment obligations to ProCom One pursuant
+  to such Section 4.2. Such deductions shall further not exceed one-half
+  (1/2) of each quarterly Royalty payment made by Somaxon to ProCom One
+  pursuant to Section 4.2 hereof.
+
+   
+
+  Page 8 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  6. 	  	
+  CONFIDENTIAL INFORMATION
+
+  6.1 Non-disclosure Obligation. Each of ProCom One and Somaxon shall use
+  any information received by it from the other party in connection with
+  this Agreement only in accordance with the terms of this Agreement and
+  shall not disclose such information to any third party, without the prior
+  written consent of the other party. These obligations shall survive the
+  expiration or termination of this Agreement for a period of three (3)
+  years. These obligations shall not apply to information that:
+
+  6.1.1 is known by the receiving party, as evidenced by its records, at
+  the time of receipt and not through a prior disclosure by the disclosing
+  party;
+
+  6.1.2 is at the time of disclosure or thereafter becomes published or
+  otherwise part of the public domain through no breach of this Agreement
+  by the receiving party;
+
+  6.1.3 is subsequently disclosed to the receiving party as evidenced by
+  its records, by a third party having the right to make such a disclosure;
+
+  6.1.4 is developed by the receiving party as evidenced by its records
+  independently of information received by it from the disclosing party
+  hereunder;
+
+  6.1.5 is disclosed to any regulatory authority in order to obtain
+  approval to market the Licensed Products, but such disclosure may be made
+  only to the extent necessary to obtain such approval; or
+
+  6.1.6 is required by law, regulation, rule, act or order of any
+  governmental authority or agency to be disclosed by a party, provided 
+  that notice is promptly given to the other party in order to provide it
+  an opportunity to seek a protective order or the like with respect to
+  such information.
+
+  6.2 Permitted Disclosure. Information provided under this Agreement may
+  be disclosed to employees, agents, consultants, or suppliers of the
+  receiving party, but only to the extent required to accomplish the
+  purposes of this Agreement.
+
+  6.3 Publicity. Except as required by law, regulation or court order, all
+  publicity, press releases and other announcements relating to the terms
+  of this Agreement or the transactions contemplated hereby shall be
+  reviewed in advance by, and shall be subject to the written approval of,
+  both parties.
+
+   
+
+  Page 9 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  7. 	  	
+  REPRESENTATIONS AND WARRANTIES AND COVENANTS
+
+  7.1 Corporate Existence and Power. As of the Effective Date and the
+  Agreement Date, each party represents and warrants to the other that it
+  (1) is a corporation duly organized, validly existing and in good
+  standing under the laws of the state in which it is incorporated, and (2)
+  has full corporate power and authority and the legal right to own and
+  operate its property and assets and to carry on its business as it is now
+  being conducted and is contemplated in this Agreement, including, without
+  limitation, the right to grant the licenses granted hereunder.
+
+  7.2 Authority. As of the Effective Date and the Agreement Date, each
+  party represents and warrants to the other that it (1) has the corporate
+  power and authority and the legal right to enter into this Agreement and
+  perform its obligations hereunder; (2) has taken all necessary corporate
+  action on its part required to authorize the execution and delivery of
+  this Agreement and the performance of its obligations hereunder; (3) this
+  Agreement has been duly executed and delivered on behalf of such party,
+  and constitutes a legal, valid and binding obligation of such party and
+  is enforceable against it in accordance with its terms; and (4) all
+  necessary consents, approvals and authorizations of all governmental
+  authorities and other persons or entities required to be obtained by such
+  party in connection with entry into this Agreement have been obtained.
+
+  7.3 Intellectual Property.
+
+  7.3.1 ProCom One represents and warrants to Somaxon that it is not aware
+  of any pending or threatened litigation (and has not received any
+  communication relating thereto) which alleges that the practice of a
+  method claimed in any of U.S. Patent Nos. 5,502,047, 5,643,897, 6,211,229
+  and 6,344,487 or any of the other Patent Rights infringes the
+  intellectual property rights of any third party.
+
+  7.3.2 ProCom One represents and warrants that to the best of ProCom Ones
+  knowledge, there is no material unauthorized use, infringement or
+  misappropriation of any of the Patent Rights or Know-How by any third
+  party.
+
+  7.3.3 ProCom One represents and warrants that with the exception of
+  certain past and present employees of Somaxon, no present or former
+  collaborator, partner, employee or consultant of ProCom One or Dr. Neil
+  B. Kavey owns or has any proprietary, financial or other interest, direct
+  or indirect, in the Patent Rights or Know-How, and no third partys
+  confidential information is included in the Patent Rights or Know-How.
+
+  7.3.4 ProCom One agrees not to disclose to Somaxon, or use in connection
+  with ProCom Ones efforts for Somaxon, any confidential or proprietary
+  information belonging to any third party.
+
+  7.4 Intentionally left blank.
+
+  7.5 Kavey Agreement. ProCom One shall not, without Somaxons prior
+  written consent, amend, modify, waive any rights with respect to, or
+  terminate that certain Agreement for Assignment of Inventions and
+  Covenant Against Disclosure dated June 27, 2003 between ProCom One and
+  Neil B. Kavey, M.D.
+
+   
+
+  Page 10 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  8. 	  	
+  INDEMNIFICATION
+
+  8.1 Indemnification by ProCom One. ProCom One shall indemnify, defend and
+  hold harmless Somaxon and its affiliates and each of their respective
+  employees, officers, directors and agents from and against any and all
+  liability, loss, damage, cost and expense (including reasonable
+  attorneys fees) resulting from or in connection with the breach by
+  ProCom One of any representation or warranty or any of its obligations
+  under this Agreement.
+
+  8.2 Indemnification by Somaxon. Somaxon shall indemnify, defend and hold
+  harmless ProCom One and its affiliates and each of their respective
+  employees, officers, directors and agents from and against any and all
+  liability, loss, damage, cost and expense (including reasonable
+  attorneys fees) resulting from or in connection with (i) the breach by
+  Somaxon of any representation or warranty or any of its obligations under
+  this Agreement or (ii) claims, settlements, suits, actions, demands, or
+  judgments arising out of any theory of product liability (including, but
+  not limited to, actions in the form of tort, warranty, or strict
+  liability) by any third party concerning any product that is made, used,
+  marketed or sold by Somaxon or its affiliates or sublicensees, including
+  Licensed Products, provided, however, that such indemnification right
+  shall not apply to any liability, damage, loss, or expense to the extent
+  directly attributable to the negligence, reckless misconduct, or
+  intentional misconduct of a party seeking indemnification under this
+  Section 8.2.
+
+  9. 	  	
+  TERM AND TERMINATION
+
+  9.1 Term. The term of this Agreement shall begin upon the Effective Date,
+  and unless sooner terminated as hereinafter provided, shall continue in
+  full force and effect until expiration of the last to expire patent
+  within the Patent Rights (Term).
+
+  9.2 Termination by Somaxon. Somaxon may terminate this Agreement at any
+  time by giving thirty (30) days written notice of its intention to
+  terminate to ProCom One if Somaxon has the good faith belief that the use
+  of any Licensed Product poses an unacceptable safety risk or if, in
+  Somaxons reasonable opinion, the Licensed Product fails to achieve a
+  satisfactory level of efficacy.
+
+  9.3 Termination for Cause. Either party may terminate this Agreement upon
+  thirty (30) days prior written notice provided to the other at any time
+  during the term of this Agreement upon the occurrence of one or more of
+  the following:
+
+  9.3.1 if the other party commits a material breach of any of its
+  obligations under this Agreement and fails to remedy the breach within
+  ninety (90) days after receiving written notice of such breach from the
+  other party; however, if the breach cannot reasonably be cured within the
+  ninety (90) day period, this Agreement may only be terminated if the
+  party in default fails to properly commence and thereafter uses
+  Commercially Reasonable Efforts to prosecute actions to cure such breach;
+  or
+
+  9.3.2 upon the filing and institution of bankruptcy, reorganization,
+  liquidation, or receivership proceedings, or upon an assignment of a
+  substantial portion of the assets for the benefit of creditors by the
+  other party, or in the event a receiver or custodian is appointed for
+  such partys business, or if a substantial portion of such partys
+  business is subject to attachment or similar process, provided, however,
+  that in the case of any involuntary bankruptcy proceeding, such right to
+  terminate shall only become effective if the proceeding is not dismissed
+  within sixty (60) days after the filing thereof.
+
+   
+
+  Page 11 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  9.4 Procedure upon Termination. Upon the termination of the Agreement by
+  Somaxon pursuant to Section 9.2 or by ProCom One pursuant to Section 9.3,
+  Somaxon shall assign to ProCom One all information and data developed or
+  acquired by Somaxon, including all data and other information from
+  clinical trials, relating to the Licensed Products which ProCom One shall
+  be free to use and disclose without further obligation to Somaxon. Upon
+  the expiration of this Agreement or any termination of this Agreement by
+  Somaxon pursuant to Section 9.3, Somaxon shall have a paid-up, perpetual,
+  exclusive license to use the Know-How with regard to the Licensed
+  Products in the Field with no obligation of accounting or otherwise to
+  ProCom One and ProCom One shall have no right to receive or use any
+  information developed or acquired by Somaxon, including all data and
+  other information from clinical trials, relating to the Licensed
+  Products. Furthermore, such termination shall not relieve either party of
+  any obligations which have accrued prior to the effective date of such
+  termination.
+
+  9.5 Survival. Except as expressly provided herein, Sections 6, 8, 9.4,
+  9.5, 10 and 11 shall survive any expiration or early termination of this
+  Agreement, as well as any other provisions which by their nature are
+  intended to survive expiration or early termination.
+
+  10. 	  	
+  DISPUTE RESOLUTION
+
+  10.1 Informal Resolution. In the event of any dispute relating to this
+  Agreement, prior to instituting any arbitration on account of such
+  dispute, the parties shall attempt in good faith to settle such dispute
+  first by negotiation and consultation between themselves, including
+  referral of such dispute to the Chief Executive Officer of Somaxon and
+  the Chief Executive Officer of ProCom One. In the event said executives
+  are unable to resolve such dispute or agree upon a mechanism to resolve
+  such dispute within thirty (30) days of the first written request for
+  dispute resolution under this Section 10.1, then the parties shall
+  resolve all such disputes in accordance with Section 10.2.
+
+  10.2 Arbitration.
+
+  10.2.1 Subject to Section 10.1, any controversy, dispute or claim arising
+  out of, in connection with, or in relation to the interpretation,
+  performance, or alleged breach of this Agreement which has not been
+  resolved by good faith negotiations between the parties shall be
+  submitted to binding arbitration by Judicial Arbitration & Mediation
+  Services, Inc./Endispute (J.A.M.S.) or a similar private judging
+  service employing retired judges agreed to by the parties.
+
+  10.2.2 The parties may agree on a retired judge from the J.A.M.S. panel
+  or the panel of any alternate private judging service agreed upon by the
+  parties. If the parties are unable to agree, J.A.M.S. or the alternative
+  service shall be requested to provide a list of three available judges
+  and each party may strike one. The remaining judge will serve as the
+  arbitrator.
+
+   
+
+  Page 12 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  10.2.3 Either party may initiate the arbitration by sending written
+  notice of such submission by registered or certified mail to the other
+  party and to J.A.M.S. or the alternative service describing the dispute,
+  the amount involved and the remedy sought. The arbitrator will schedule a
+  pre-hearing conference to reach agreement on procedural matters and
+  discovery, arrange for the exchange of information, obtain stipulations,
+  and attempt to narrow the issues. The arbitrators decision shall comply
+  with applicable rules of law.
+
+  10.2.4 The decision of the arbitrator will be final and may be entered in
+  any court of competent jurisdiction. The prevailing party shall be
+  entitled to recover its reasonable attorneys fees and costs, including,
+  without limitation, expert witness fees and costs, as determined by the
+  arbitrator, as applicable. Under no circumstances may the arbitrator
+  award any punitive damages.
+
+  10.3 Governing Law. This Agreement shall be governed by the laws of the
+  State of California, excluding that body of law known as conflicts of
+  law.
+
+  11. 	  	
+  MISCELLANEOUS
+
+  11.1 Interpretation. All titles and captions in this Agreement are for
+  convenience only and shall not be interpreted as having any substantive
+  meaning. All words used in this Agreement, regardless of the gender in
+  which they are used, shall be construed to include any other gender, as
+  the context or sense may require. Words in the singular number shall
+  include the plural and vice versa, as the context or sense may require
+
+  11.2 Unenforceability. Both parties hereby expressly state that it is the
+  intention of neither party to violate any rule, law or regulation. If any
+  of the provisions of this Agreement are held to be void or unenforceable,
+  then such void or unenforceable provisions shall be replaced by valid and
+  enforceable provisions which will achieve as far as possible the economic
+  business intentions of the parties.
+
+  11.3 No Waiver. The failure by either party to take any action or assert
+  any right hereunder shall in no way be construed to be a waiver of such
+  right, nor in any way be deemed to affect the validity of this Agreement
+  or any part hereof, or the right of a party to thereafter enforce each
+  and every provision of this Agreement.
+
+  11.4 Drafting. This Agreement shall not be construed more strictly
+  against one party than the other because it may have been drafted by one
+  of the parties or its counsel, each party having contributed through its
+  counsel substantially and materially to the negotiation and drafting
+  thereof.
+
+  11.5 Assignment. This Agreement and the parties rights and obligations
+  hereunder shall not be assignable except with the prior written consent
+  of the other party; except that (i) Somaxon shall have the right to
+  assign this Agreements and/or its rights and obligations hereunder to any
+  of its affiliates, successors in interest or acquirers of all or
+  substantially all of its assets relating to the Licensed Products, and
+  (ii) with Somaxons prior written consent, ProCom One shall have the
+  right to assign this Agreement and/or its rights and obligations
+  hereunder to any of its affiliates, successors in interest or acquirers
+  of all or substantially all of its assets.
+
+   
+
+  Page 13 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  11.6 Notices. Every notice, demand, consent, request, approval, report,
+  offer, acceptance, certificate, or other communication which may be, or
+  is required to be, given or delivered under or with respect to this
+  Agreement or by applicable law or statute shall be in writing and sent
+  postage prepaid by United States registered or certified mail, return
+  receipt requested, and directed to the other party at its address set
+  forth below, or at such other address within the continental United
+  States as any party may hereafter designate by similar notice to the
+  other.
+
+  For ProCom One:
+
+  ProCom One, Inc.
+  c/o Terry Cobb
+  100 E. San Antonio, Ste 201
+  San Marcos TX 78666
+  Telephone: (    ) ___ - _____
+  Fax: (    ) ___ - _____
+
+  For Somaxon:
+
+  President and Chief Executive Officer
+  Somaxon Pharmaceuticals, Inc.
+  c/o General Counsel
+  3570 Carmel Mountain Road, Suite 100
+  San Diego, California 92130
+  Telephone: (858) 876-6505
+  Fax: (858) 509-1761
+
+  11.7 Entire Agreement. This Agreement contains the entire understanding
+  between the parties relating to the subject matter hereof and supercedes
+  any and all prior agreements, understandings and arrangements, whether
+  written or oral, between the parties. No amendments, changes,
+  modifications or alterations of the terms and conditions of this
+  Agreement shall be binding upon either party hereto unless in writing and
+  signed by both parties.
+
+  11.8 Counterparts. This Agreement may be executed in counterparts and
+  each such counterpart shall be deemed an original hereof.
+
+   
+
+  Page 14 of 15
+
+------------------------------------------------------------------------
+
+
+ 
+
+  IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of
+  the Agreement Date.
+    	  	  	  	 
+    	ProCom One, Inc.
+    	 
+    	By:   	/s/ Terry Cobb   	 
+    	  	Name:   	Terry Cobb  	 
+    	  	Title:   	President  	 
+   
+    	  	Agreed:  	/s/ Neil Kavey, MD  	 
+    	  	  	Neil Kavey, MD  	 
+   
+    	Somaxon Pharmaceuticals, Inc.
+    	 
+    	By:   	/s/ Richard W. Pascoe   	 
+    	  	Name:   	Richard W. Pascoe  	 
+    	  	Title:   	President and Chief Executive Officer  	 
+   
+
+   
+
+  Page 15 of 15
