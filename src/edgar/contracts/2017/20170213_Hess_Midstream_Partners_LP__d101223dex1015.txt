@@ -1,0 +1,1209 @@
+ EX-10.15 15 d101223dex1015.htm EX-10.15
+Exhibit 10.15
+
+FORM OF
+
+REGISTRATION RIGHTS AGREEMENT
+
+This Registration Rights Agreement (this Agreement) is made and entered 
+into as of                     , by and among Hess Midstream Partners LP, a 
+Delaware limited partnership (the Partnership), Hess Midstream Partners 
+GP LP, a Delaware limited partnership (HESM GP), Hess Midstream Partners 
+GP LLC, a Delaware limited liability company (GP LLC), Hess Investments 
+North Dakota Limited, a Delaware corporation (Hess), and GIP II Blue 
+Holding Partnership, L.P. (GIP). Hess and GIP are collectively referred 
+to herein as the Sponsors. The Partnership, HESM GP, GP LLC and the 
+Sponsors are collectively referred to herein as the Parties.
+
+WHEREAS, on                     , the Partnership, HESM GP, GP LLC and the 
+Sponsors entered into that certain Contribution, Conveyance and Assumption 
+Agreement (the Contribution Agreement), pursuant to which each Sponsor 
+acquired                      common units representing limited partner 
+interests in the Partnership (the Common Units) and                      
+subordinated units representing limited partner interests in the 
+Partnership (the Subordinated Units) in return for contributing certain 
+assets to the Partnership; and
+
+WHEREAS, in connection with the transactions contemplated by the 
+Contribution Agreement, the Parties desire to enter into this Agreement.
+
+NOW, THEREFORE, IN CONSIDERATION of the mutual covenants and agreements 
+contained in this Agreement, and for other good and valuable consideration, 
+the receipt and adequacy of which are hereby acknowledged, the Parties 
+hereby agree as follows:
+
+1. Definitions. As used in this Agreement, the following terms shall have 
+the respective meanings set forth in this Section 1:
+
+Affiliate means, with respect to any Person, (a) a Person that directly 
+or indirectly, through one or more intermediaries, Controls, is Controlled 
+by or is under common Control with, such Person, and (b) with respect to 
+any investment fund or similar vehicle, (i) any Person who Controls, is 
+Controlled by, or is under common Control with, such investment fund or 
+similar vehicle and (ii) if such investment fund or similar vehicle is a 
+partnership, a Person who has a common general partner with such investment 
+fund or similar vehicle.
+
+Agreement has the meaning set forth in the preamble.
+
+Automatic Shelf Registration Statement means an automatic shelf 
+registration statement as defined under Rule 405.
+
+Business Day means Monday through Friday of each week, except that a 
+legal holiday recognized as such by the government of the United States of 
+America or the State of New York or the State of Texas shall not be 
+regarded as a Business Day.
+
+------------------------------------------------------------------------
+Control and its derivatives mean (a) with respect to any Person, the 
+possession, directly or indirectly, of the power to direct or cause the 
+direction of the management and policies of such Person, whether by 
+contract or otherwise; (b) with respect to a corporation, the power to 
+exercise or determine the voting of more than 50% of the voting rights in 
+such corporation; (c) with respect to a partnership (whether general or 
+limited), ownership, directly or indirectly, of more than 50% of the 
+general partner interests of such partnership; or (d) with respect to any 
+other type of entity, the right to exercise or determine the voting of more 
+than 50% of the equity interests having voting rights in such entity, 
+whether by contract or otherwise.
+
+Claim has the meaning set forth in Section 5(a).
+
+Closing Date means the first date on which Common Units are sold by the 
+Partnership to the IPO Underwriters pursuant to the provisions of the IPO 
+Underwriting Agreement.
+
+Commission means the Securities and Exchange Commission or any other 
+federal agency then administering the Securities Act or Exchange Act.
+
+Common Units has the meaning set forth in the LP Agreement and, for the 
+avoidance of doubt, shall include any Subordinated Units that have 
+converted into Common Units pursuant to the terms of the LP Agreement.
+
+Demand Eligible Holder has the meaning set forth in Section 2(a)(ii).
+
+Demand Notice has the meaning set forth in Section 2(a)(i).
+
+Demand Registration has the meaning set forth in Section 2(a)(i).
+
+Effective Date means the time and date that a Registration Statement is 
+first declared effective by the Commission or otherwise becomes effective.
+
+Effectiveness Period has the meaning set forth in Section 2(a)(ii).
+
+Exchange Act means the Securities Exchange Act of 1934, as amended.
+
+GIP has the meaning set forth in the preamble.
+
+General Partner means HESM GP and its successor and permitted assigns 
+that are admitted to the Partnership as general partner of the Partnership, 
+in its capacity as the general partner of the Partnership (except as the 
+context otherwise requires).
+
+GP LLC has the meaning set forth in the preamble.
+
+HESM GP has the meaning set forth in the preamble.
+
+Hess has the meaning set forth in the preamble.
+ 
+2
+
+------------------------------------------------------------------------
+Holder means (i) any Sponsor who holds Registrable Securities, (ii) any 
+holder of Registrable Securities to whom the registration rights conferred 
+by this Agreement have been transferred in compliance with Section 7(e) 
+hereof or (iii) the General Partner, if the General Partner is a holder of 
+Registrable Securities.
+
+Incentive Distribution Rights has the meaning set forth in the LP 
+Agreement.
+
+Indemnified Persons has the meaning set forth in Section 5.
+
+Initiating Holder has the meaning set forth in Section 2(a)(i).
+
+IPO means the initial public offering of Common Units pursuant to the IPO 
+Registration Statement.
+
+IPO Registration Statement means the Registration Statement on Form S-1 
+(File No. 333-198896), as amended and declared effective by the Commission.
+
+IPO Underwriter means each Person named as an underwriter in Schedule I 
+to the IPO Underwriting Agreement who purchases Common Units pursuant 
+thereto.
+
+IPO Underwriting Agreement means the Underwriting Agreement to be entered 
+into by and among the Partnership, the General Partner and the IPO 
+Underwriters in connection with the IPO.
+
+Losses has the meaning set forth in Section 5.
+
+LP Agreement means the First Amended and Restated Agreement of Limited 
+Partnership of Hess Midstream Partners LP, dated as of the Closing Date, as 
+may be amended from time to time.
+
+Parties has the meaning set forth in the preamble.
+
+Partnership has the meaning set forth in the preamble.
+
+Partnership Securities means any equity interest of any class or series 
+in the Partnership, including Common Units, Subordinated Units and 
+Incentive Distribution Rights.
+
+Person means an individual or group, corporation, partnership, trust, 
+incorporated or unincorporated association, joint venture, limited 
+liability company, joint stock company, government (or an agency or 
+subdivision thereof) or other entity of any kind.
+
+Piggyback Eligible Holder has the meaning set forth in Section 2(b)(i).
+
+Piggyback Notice has the meaning set forth in Section 2(b)(i).
+
+Piggyback Registration has the meaning set forth in Section 2(b)(i).
+
+Piggyback Request has the meaning set forth in Section 2(b)(i).
+ 
+3
+
+------------------------------------------------------------------------
+Proceeding means any action, claim, suit, proceeding or investigation 
+(including a preliminary investigation or partial proceeding, such as a 
+deposition) pending or known to the Partnership to be threatened.
+
+Pro Rata means, with respect to Holders who have requested to include 
+Registrable Securities in a Registration Statement, apportioned among all 
+such Holders in accordance with the relative number of Registrable 
+Securities held by each such holder and included in the Notice relating to 
+such request.
+
+Prospectus means the prospectus included in a Registration Statement 
+(including a prospectus that includes any information previously omitted 
+from a prospectus filed as part of an effective Registration Statement in 
+reliance upon Rule 430A promulgated under the Securities Act), as amended 
+or supplemented by any prospectus supplement, with respect to the terms of 
+the offering of any portion of the Registrable Securities covered by a 
+Registration Statement, and all other amendments and supplements to the 
+Prospectus, including post-effective amendments, and all material 
+incorporated by reference or deemed to be incorporated by reference in such 
+Prospectus.
+
+Registrable Securities means Common Units; provided, however, that 
+Registrable Securities shall not include any Partnership Securities for 
+which Rule 144 of the Securities Act or another exemption from registration 
+is available to enable the holder of such Partnership Securities to dispose 
+of the number of Partnership Securities it desires to sell at the time and 
+price it desires to do so without registration under the Securities Act or 
+other similar applicable law (and without any limitation on volume, timing, 
+recipients or intended method or methods of distribution, including through 
+the use of an underwriter, that would not be applicable with a Registration 
+Statement).
+
+Registration Expenses has the meaning set forth in Section 4.
+
+Registration Statement means a registration statement in the form 
+required to register the resale of the Registrable Securities under the 
+Securities Act and other applicable law, and including any Prospectus, 
+amendments and supplements to each such registration statement or 
+Prospectus, including pre- and post-effective amendments, all exhibits 
+thereto, and all material incorporated by reference or deemed to be 
+incorporated by reference in such registration statement.
+
+Rule 144 means Rule 144 promulgated by the Commission pursuant to the 
+Securities Act, as such Rule may be amended from time to time, or any 
+similar rule or regulation hereafter adopted by the Commission having 
+substantially the same effect as such Rule.
+
+Rule 405 means Rule 405 promulgated by the Commission pursuant to the 
+Securities Act, as such Rule may be amended from time to time, or any 
+similar rule or regulation hereafter adopted by the Commission having 
+substantially the same effect as such Rule.
+
+Rule 415 means Rule 415 promulgated by the Commission pursuant to the 
+Securities Act, as such Rule may be amended from time to time, or any 
+similar rule or regulation hereafter adopted by the Commission having 
+substantially the same effect as such Rule.
+ 
+4
+
+------------------------------------------------------------------------
+Rule 424 means Rule 424 promulgated by the Commission pursuant to the 
+Securities Act, as such Rule may be amended from time to time, or any 
+similar rule or regulation hereafter adopted by the Commission having 
+substantially the same effect as such Rule.
+
+Securities Act means the Securities Act of 1933, as amended.
+
+Selling Expenses means all underwriting discounts, selling commissions 
+and stock transfer taxes applicable to the sale of Registrable Securities 
+and fees and disbursements of counsel and advisors for any Selling Holder.
+
+Selling Holder means any Holder selling any Registrable Securities in any 
+Registration.
+
+Shelf Registration Statement means a Registration Statement made pursuant 
+to Rule 415 of the Securities Act.
+
+Sponsors has the meaning set forth in the preamble.
+
+Stand-Off Period has the meaning set forth in Section 7(f).
+
+Subordinated Units has the meaning set forth in the LP Agreement.
+
+Suspension Period has the meaning set forth in Section 2(a).
+
+Trading Day means a day during which trading in the Common Units on the 
+Trading Market generally occurs.
+
+Trading Market means the principal national securities exchange on which 
+Registrable Securities are listed.
+
+Transaction Documents means, collectively, this Agreement, the LP 
+Agreement, the Contribution Agreement and any and all other agreements or 
+instruments provided for in this Agreement to be executed and delivered by 
+the Parties in connection with the transactions contemplated hereby.
+
+Underwritten Offering means an offering pursuant to a Registration 
+Statement in which Partnership Securities are sold to an underwriter on a 
+firm commitment basis for reoffering to the public (other than the IPO).
+
+WKSI means a well known seasoned issuer as defined under Rule 405.
+
+Unless the context requires otherwise: (a) any pronoun used in this 
+Agreement shall include the corresponding masculine, feminine or neuter 
+forms; (b) references to Articles and Sections refer to Articles and 
+Sections of this Agreement; (c) the terms include, includes, 
+including or words of like import shall be deemed to be followed by the 
+words without limitation; (d) the terms hereof, herein or hereunder 
+refer to this Agreement as a whole and not to any particular provision of 
+this Agreement; (e) unless the context otherwise requires, the term or is 
+not exclusive and shall have the inclusive meaning of and/or; (f)
+ 
+5
+
+------------------------------------------------------------------------
+defined terms herein will apply equally to both the singular and plural 
+forms and derivative forms of defined terms will have correlative meanings; 
+(g) references to any law or statute shall include all rules and 
+regulations promulgated thereunder, and references to any law or statute 
+shall be construed as including any legal and statutory provisions 
+consolidating, amending, succeeding or replacing the applicable law or 
+statute; (h) references to any Person include such Persons successors and 
+permitted assigns; and (i) references to days are to calendar days unless 
+otherwise indicated.
+
+2. Registration.
+
+(a) Demand Registration.
+
+(i) At any time after the 180th day after the Closing Date, any Holder that 
+holds Registrable Securities (the Initiating Holder) shall have the 
+option and right, exercisable by delivering a written notice to the 
+Partnership (a Demand Notice), to require the Partnership to, pursuant to 
+the terms and subject to the limitations set forth in this Agreement, 
+prepare and file with the Commission a Registration Statement registering 
+the offering and sale of the number and type of Registrable Securities on 
+the terms set forth in the Demand Notice (a Demand Registration). Upon 
+receipt of a Demand Notice from any Initiating Holder (the Initiating 
+Holder), the Partnership shall file with the Commission as promptly as 
+reasonably practicable a Registration Statement providing for the offer and 
+sale of the Registrable Securities identified in such Demand Notice, which 
+Registration Statement may, at the option of the Initiating Holder, be a 
+Registration Statement that provides for the resale of the Registrable 
+Securities from time to time pursuant to Rule 415 under the Securities Act 
+in accordance with the intended timing and method or methods of 
+distribution thereof specified in the Demand Notice. The Partnership shall 
+have the right to elect that any Demand Registration be made pursuant to a 
+Shelf Registration Statement. The Partnership shall use commercially 
+reasonable efforts to cause such Registration Statement to become effective 
+as soon as reasonably practicable after the initial filing of the 
+Registration Statement and to remain effective and available for the resale 
+of the Registrable Securities by the Selling Holders named therein for not 
+less than six months following such Registration Statements effective date 
+or such shorter period when all Registrable Securities covered by such 
+Registration Statement have been sold (the Effectiveness Period); 
+provided, however, that the Partnership shall not be required to effect the 
+Registration of Registrable Securities pursuant to this Section 2(a) unless 
+at least an aggregate of          Registrable Securities (as adjusted to 
+reflect splits, combinations, dividends and recapitalizations) are offered 
+or the Registrable Securities are offered at an aggregate proposed offering 
+price of not less than $30 million. In the event the Partnership receives a 
+Demand Notice from one or more Holders request that satisfies the 
+conditions set forth in the immediately preceding sentence, the Partnership 
+shall retain such underwriters and bookrunning managers as are mutually 
+agreed by the Partnership and the Selling Holders in order to permit such 
+Selling Holders to offer and sell the Registrable Securities set forth in 
+the Demand Notice through an Underwritten Offering. The Partnership and 
+such Selling Holders shall enter into an underwriting agreement in 
+customary form and take all
+ 
+6
+
+------------------------------------------------------------------------
+reasonable actions as are requested by the managing underwriters to 
+facilitate the Underwritten Offering and sale of Registrable Securities 
+therein. No Holder may participate in the Underwritten Offering unless it 
+agrees to sell its Registrable Securities covered by the Registration 
+Statement on the terms and conditions set forth in the underwriting 
+agreement and completes and delivers all necessary documents and 
+information reasonably required under the terms of such underwriting 
+agreement or as the General Partner may determine is reasonably necessary 
+to effect such Underwritten Offering. Any Holder may withdraw from such 
+Underwritten Offering by notice to the Partnership and the managing 
+underwriter, provided such notice is delivered prior to the launch of such 
+Underwritten Offering.
+
+(ii) Within five (5) Trading Days of the Partnerships receipt of a Demand 
+Notice, the Partnership shall give written notice of such Demand Notice to 
+all Holders eligible to participate in the Demand Registration pursuant to 
+this Section 2(a) (the Demand Eligible Holders). and shall, subject to 
+the limitations of this Section 2(a), as promptly as is reasonably 
+practicable, file a Registration Statement covering all of the Registrable 
+Securities that the Demand Eligible Holders shall in writing request (such 
+request to be given to the Partnership within five (5) Trading Days of 
+receipt of such notice of the Demand Notice given by the Partnership 
+pursuant to this Section 2(a)(ii)) to be included in such Demand 
+Registration as directed by the Initiating Holder in the Demand Notice.
+
+(iii) Subject to the other limitations contained in this Agreement, the 
+Partnership is not obligated hereunder to effect more than (A) one (1) 
+Demand Registration on Form S-1 (or any equivalent or successor form under 
+the Securities Act) in any twelve (12) month period and (B) two (2) Demand 
+Registrations on Form S-3 (or any equivalent or successor form under the 
+Securities Act) in any twelve (12) month period.
+
+(iv) Notwithstanding any other provision of this Section 2(a), the 
+Partnership shall not be required to effect a registration or file a 
+Registration Statement pursuant to this Section 2(a), and may suspend the 
+use of an effective Registration Statement: (A) during the period starting 
+with the date that is sixty (60) days prior to the General Partners good 
+faith estimate of the date of filing of, and ending on the date that is 
+ninety (90) days after the effective date of, a Partnership-initiated 
+registration that is approved by the board of directors of the General 
+Partner, provided that the Partnership is actively employing commercially 
+reasonable efforts to cause such registration statement to become 
+effective; (B) for a period of up to ninety (90) days after the date a 
+Demand Notice is received by the Partnership pursuant to this Section 2(a) 
+if the General Partner determines that the Partnerships compliance with 
+its obligations under this Agreement would be detrimental to the 
+Partnership because such registration would be reasonably likely to (x) 
+materially interfere with a significant acquisition, financing, merger, 
+reorganization or other similar transaction involving the Partnership or 
+otherwise have a material adverse effect on the Partnership, (y) require 
+disclosure of material information that the Partnership has a bona fide 
+business purpose for preserving as confidential or (z) render the 
+Partnership unable to comply with requirements under applicable securities 
+laws (any such period, a Suspension Period); provided, however, that in 
+no event shall
+ 
+7
+
+------------------------------------------------------------------------
+the Partnership postpone or defer any Demand Registration pursuant to this 
+Section 2(a)(iv) for more than an aggregate of one hundred and eighty (180) 
+days in any twelve (12) month period.
+
+(v) Notwithstanding any other provision of this Section 2(a), in the event 
+that the managing underwriter of an Underwritten Offering advises the 
+Partnership and the Demand Eligible Holders in writing that, in such 
+managing underwriters opinion, the inclusion of all or some Registrable 
+Securities of Demand Eligible Holders in a subject Registration Statement 
+would have a material adverse effect on the timing or success of the 
+Underwritten Offering (including the price received for the securities to 
+be offered in such Underwritten Offering), the total number of Registrable 
+Securities of each Demand Eligible Holder that shall be included in such 
+Underwritten Offering shall be reduced on a Pro Rata basis until the total 
+number of Registrable Securities offered in such Underwritten Offering will 
+not, in the opinion of the managing underwriter, have such a material 
+adverse effect. Any Registrable Securities excluded or withdrawn from such 
+Underwritten Offering shall be withdrawn from the registration.
+
+(vi) The Partnership may include in any such Demand Registration other 
+Partnership Securities for sale for its own account or for the account of 
+any other Person; provided that if the managing underwriter for the 
+offering determines that the number of Partnership Securities proposed to 
+be offered in such offering would have a material adverse effect on the 
+timing or success of such offering (including the price received for the 
+securities to be offered in such offering), then the Registrable Securities 
+to be sold by the Demand Eligible Holders shall be included in such 
+registration before any Partnership Securities proposed to be sold for the 
+account of the Partnership or any other Person. Any such Registrable 
+Securities to be offered in such offering shall be allocated among the 
+Demand Eligible Holders on a Pro Rata basis.
+
+(vii) Subject to the limitations contained in this Agreement, the 
+Partnership shall effect any Demand Registration on Form S-3 (except if the 
+Partnership is not then eligible to register for resale the Registrable 
+Securities on Form S-3, in which case such Demand Registration shall be 
+effected on another appropriate form for such purpose pursuant to the 
+Securities Act) and if the Partnership becomes, and is at the time of its 
+receipt of a Demand Notice, a WKSI, the Demand Registration for any 
+offering and selling of Registrable Securities through a firm commitment 
+underwriting shall be effected pursuant to an Automatic Shelf Registration 
+Statement, which shall be on Form S-3 or any equivalent or successor form 
+under the Securities Act (if available to the Partnership); provided, 
+however, that if at any time a Registration Statement on Form S-3 is 
+effective and a Holder provides written notice to the Partnership that it 
+intends to effect an offering of all or part of the Registrable Securities 
+included on such Registration Statement, the Partnership will amend or 
+supplement such Registration Statement as may be necessary in order to 
+enable such offering to take place.
+
+(viii) Without limiting Section 3, in connection with any Demand 
+Registration pursuant to and in accordance with this Section 2(a), the 
+Partnership shall, (A) promptly prepare and file or cause to be prepared 
+and filed (1) such additional forms, amendments, supplements, prospectuses, 
+certificates, letters, opinions and other
+ 
+8
+
+------------------------------------------------------------------------
+documents, as may be necessary or advisable to register or qualify the 
+securities subject to such Demand Registration, including under the 
+securities laws of such states as the Demand Eligible Holders shall 
+reasonably request; provided, however, that no such qualification shall be 
+required in any jurisdiction where, as a result thereof, the Partnership 
+would become subject to general service of process or to taxation or 
+qualification to do business in such jurisdiction solely as a result of 
+registration and (2) such forms, amendments, supplements, prospectuses, 
+certificates, letters, opinions and other documents as may be necessary to 
+apply for listing or to list the Registrable Securities subject to such 
+Demand Registration on the Trading Market and (B) do any and all other acts 
+and things that may be necessary or appropriate or reasonably requested by 
+the Demand Eligible Holders to enable such Holders to consummate a public 
+sale of such Registrable Securities in accordance with the intended timing 
+and method or methods of distribution thereof.
+
+(ix) In the event a Holder transfers Registrable Securities included on a 
+Registration Statement in accordance with Section 7(e), and such 
+Registrable Securities remain Registrable Securities following such 
+transfer, at the request of such Holder, the Partnership shall amend or 
+supplement such Registration Statement as may be necessary in order to 
+enable such transferee to offer and sell such Registrable Securities 
+pursuant to such Registration Statement.
+
+(x) The Partnership shall use commercially reasonable efforts to become 
+eligible to use Form S-3 and, after becoming eligible to use Form S-3, 
+shall use commercially reasonable efforts to remain eligible to use Form 
+S-3, including by timely filing all reports with the Commission and meeting 
+the other requirements of the Exchange Act.
+
+(b) Piggyback Registration.
+
+(i) At any time after the 180th day after the Closing Date, if the 
+Partnership shall propose at any time to file a Registration Statement, 
+other than pursuant to a Demand Registration, for an offering of 
+Partnership Securities for cash (other than an offering relating to an 
+employee benefit plan or dividend reinvestment plan, an offering relating 
+to a transaction on Form S-4 or an offering on any registration statement 
+that does not permit secondary sales), the Partnership shall promptly 
+notify all Holders eligible to participate in such offering (each a 
+Piggyback Eligible Holder) of such proposal reasonably in advance of (and 
+in any event at least five (5) Business Days before) the anticipated filing 
+date (the Piggyback Notice). The Piggyback Notice shall offer the 
+Piggyback Eligible Holders the opportunity to include for registration in 
+such Registration Statement the number of Registrable Securities as they 
+may request (a Piggyback Registration). The Partnership shall use 
+commercially reasonable efforts to include in such Registration Statement 
+such number of Registrable Securities held by any Holder as each Holder 
+shall request in a written notice (a Piggyback Request) to the 
+Partnership within two Business Days of such Holders receipt of such 
+Piggyback Request from the Partnership. If a Piggyback Eligible Holder 
+decides not to include all of its Registrable Securities in any 
+Registration Statement thereafter filed by the Partnership, such Piggyback 
+Eligible Holder shall nevertheless continue to have the right
+ 
+9
+
+------------------------------------------------------------------------
+to include any Registrable Securities in any subsequent registration 
+statement or registration statements as may be filed by the Partnership 
+with respect to offerings of Partnership Securities, all upon the terms and 
+conditions set forth herein.
+
+(ii) If the Registration Statement under which the Partnership gives notice 
+under this Section 2(b) is for an Underwritten Offering, then any Holders 
+ability to include its desired amount of Registrable Securities in such 
+Registration Statement shall be conditioned upon such Piggyback Eligible 
+Holders participation in such underwriting and the inclusion of such 
+Piggyback Eligible Holders Registrable Securities in the Underwritten 
+Offering; provided that, in the event that the managing underwriter of such 
+Underwritten Offering advises the Partnership and the Holder in writing 
+that, in such managing underwriters opinion, the inclusion of all or some 
+Registrable Securities of Piggyback Eligible Holders would have a material 
+adverse effect on the timing or success of the Underwritten Offering 
+(including the price received for the securities to be offered in such 
+Underwritten Offering), the amount of Registrable Securities of each 
+Selling Holder that shall be included in such Underwritten Offering shall 
+be reduced on a Pro Rata basis until the total number of Registrable 
+Securities offered in such Underwritten Offering will not, in the opinion 
+of the managing underwriter, have such a material adverse effect. In 
+connection with any such Underwritten Offering, the Partnership and the 
+Selling Holders involved shall enter into an underwriting agreement in 
+customary form with the underwriter or underwriters selected for such 
+Underwritten Offering by the Partnership and take all reasonable actions as 
+are requested by the managing underwriters to facilitate the Underwritten 
+Offering and sale of Registrable Securities therein. No Holder may 
+participate in the Underwritten Offering unless it agrees to sells its 
+Registrable Securities covered by the Registration Statement on the terms 
+and conditions of the underwriting agreement and completes and delivers all 
+necessary documents and information reasonably required under the terms of 
+such underwriting agreement or as the General Partner may determine is 
+reasonably necessary to effect such Underwritten Offering. Any Holder may 
+irrevocably withdraw from such Underwritten Offering by delivering written 
+notice to the Partnership and the managing underwriter; provided such 
+notice is delivered prior to the launch of such Underwritten Offering; 
+provided further that, if such withdrawal results in the termination of 
+such Underwritten Offering, such Holder shall reimburse the Partnership for 
+any costs reasonably incurred by the Partnership with respect to such 
+Underwritten Offering. The Partnership shall have the right to terminate or 
+withdraw any Registration Statement or Underwritten Offering initiated by 
+it under this Section 2(b) prior to the effective date of the Registration 
+Statement or the pricing date of the applicable Underwritten Offering, as 
+applicable. For any Piggyback Eligible Holder that is a partnership, 
+limited liability company, corporation or other entity, the partners, 
+members, stockholders, subsidiaries, parents and Affiliates of such 
+Piggyback Eligible Holder, or the estates and family members of any such 
+partners/members and retired partners/members and any trusts for the 
+benefit of any of the foregoing Persons, shall be deemed to be a single 
+Piggyback Eligible Holder, and any Pro Rata reduction with respect to 
+such Piggyback Eligible Holder shall be based upon the aggregate amount 
+of securities carrying registration rights owned by all entities and 
+individuals included in such Piggyback Eligible Holder, as defined in 
+this sentence.
+
+(iii) The Partnership shall have the right to terminate or withdraw any 
+registration initiated by it under this Section 2(b) prior to the Effective 
+Date of such Registration Statement whether or not any Piggyback Eligible 
+Holder has elected to include Registrable Securities in such Registration 
+Statement. The registration expenses of such withdrawn registration shall 
+be borne by the Partnership in accordance with Section 4 hereof.
+ 
+10
+
+------------------------------------------------------------------------
+(c) Any Demand Notice or Piggyback Request shall (i) specify the 
+Registrable Securities intended to be offered and sold by the Holder making 
+the request, (ii) express such Holders present intent to offer such 
+Registrable Securities for distribution, (iii) describe the nature or 
+method of the proposed offer and sale of Registrable Securities and (iv) 
+contain the undertaking of such Holder to provide all such information and 
+materials and take all action as may reasonably be required in order to 
+permit the Partnership to comply with all applicable requirements in 
+connection with the registration of such Registrable Securities.
+
+(d) No Holder shall have any right to obtain or seek an injunction 
+restraining or otherwise delaying any such registration as the result of 
+any controversy that might arise with respect to the interpretation or 
+implementation of this Section 2.
+
+(e) The Partnership has not entered into and, unless agreed in writing by 
+each of the Sponsors, on or after the date of this Agreement will not enter 
+into, any agreement which (a) is inconsistent with the rights granted to 
+the Holders with respect to Registrable Securities in this Agreement or 
+otherwise conflicts with the provisions hereof in any material respect or 
+(b) other than as set forth in this Agreement or in the LP Agreement, would 
+allow any holder of Partnership Securities to include Partnership 
+Securities in any Registration Statement filed by the Partnership on a 
+basis that is superior or more favorable in any material respect to the 
+rights granted to the Holders hereunder.
+
+3. Registration Procedures.
+
+The procedures to be followed by the Partnership and each Holder that 
+elects to sell Registrable Securities in a Registration Statement pursuant 
+to this Agreement, and the respective rights and obligations of the 
+Partnership and such Holders, with respect to the preparation, filing and 
+effectiveness of such Registration Statement, are as follows:
+
+(a) The Partnership will furnish to each Selling Holder (i) as far in 
+advance as reasonably practicable before filing a Registration Statement or 
+any supplement or amendment thereto, upon request, copies of reasonably 
+complete drafts of all such documents proposed to be filed (including 
+exhibits and each document incorporated by reference therein to the extent 
+then required by the rules and regulations of the Commission), and provide 
+each such Selling Holder the opportunity to object to any information 
+pertaining to such Selling Holder and its plan of distribution that is 
+contained therein and make the corrections reasonably requested by such 
+Selling Holder with respect to such information prior to filing a 
+Registration Statement or supplement or amendment thereto, and (ii) such 
+number of copies of such Registration Statement and the prospectus included 
+therein and any supplements and amendments thereto as such Persons may 
+reasonably request in order to facilitate the public sale or other 
+disposition of the Registrable Securities covered by such Registration 
+Statement; provided, however, that the Partnership will not have any 
+obligation to provide any document pursuant to clauses (i) or (ii) above 
+that is available on the Commissions website.
+ 
+11
+
+------------------------------------------------------------------------
+(b) Each Selling Holder will provide to the Partnership such information 
+regarding such Selling Holder that is reasonably requested by the 
+Partnership for inclusion in a Registration Statement, preliminary 
+prospectus, final prospectus or free writing prospectus relating to the 
+Registrable Securities held by such Selling Holder or as the General 
+Partner otherwise deems necessary or appropriate in order for the 
+Partnership to fulfill its obligations under this Agreement. Such Selling 
+Holder will promptly notify the Partnership of any change in any such 
+information provided by such Selling Holder.
+
+(c) If applicable, the Partnership will use its commercially reasonable 
+efforts to register or qualify the Registrable Securities covered by a 
+Registration Statement under the securities or blue sky laws of such 
+jurisdictions as the Selling Holders or, in the case of an Underwritten 
+Offering, the managing underwriter, shall reasonably request; provided, 
+however, that the Partnership will not be required to qualify generally to 
+transact business in any jurisdiction where it is not then required to so 
+qualify or to take any action that would subject it to general service of 
+process or taxation in any jurisdiction where it is not then so subject.
+
+(d) The Partnership will promptly notify each Selling Holder and each 
+underwriter, at any time when a prospectus is required to be delivered 
+under the Securities Act, of (i) the filing of a Registration Statement or 
+any prospectus or prospectus supplement to be used in connection therewith, 
+or any amendment or supplement thereto, and, with respect to such 
+Registration Statement or any post-effective amendment thereto, when the 
+same has become effective; and (ii) any written comments from the 
+Commission with respect to any Registration Statement or any document 
+incorporated by reference therein and any written request by the Commission 
+for amendments or supplements to a Registration Statement or any prospectus 
+or prospectus supplement thereto.
+
+(e) The Partnership will immediately notify each Selling Holder and each 
+applicable underwriter, and each Selling Holder will immediately notify the 
+Partnership, at any time when a prospectus is required to be delivered 
+under the Securities Act, when the Partnership or such Selling Holder, as 
+applicable, becomes aware of (i) the occurrence of any event or existence 
+of any fact (but not a description of such event or fact) as a result of 
+which the prospectus or prospectus supplement contained in a Registration 
+Statement, as then in effect, includes an untrue statement of a material 
+fact or omits to state any material fact required to be stated therein or 
+necessary to make the statements therein not misleading (in the case of the 
+Prospectus contained therein, in the light of the circumstances under which 
+a statement is made); (ii) the issuance or threat of issuance by the 
+Commission of any stop order suspending the effectiveness of a Registration 
+Statement, or the initiation of any proceedings for that purpose; or (iii) 
+the receipt by the Partnership of any notification with respect to the 
+suspension of the qualification of any Registrable Securities for sale 
+under the applicable securities or blue sky laws of any jurisdiction. 
+Following the provision of such notice, the Partnership agrees to, as 
+promptly as practicable, amend or supplement the prospectus or prospectus 
+supplement or take other appropriate action so that the prospectus or 
+prospectus supplement does not include an untrue statement of a material 
+fact or omit to state a material fact required to be stated therein or 
+necessary to make the statements therein not misleading (in the case of the 
+Prospectus contained
+ 
+12
+
+------------------------------------------------------------------------
+therein, in the light of the circumstances under which a statement is made) 
+and to take such other reasonable action as is necessary to remove a stop 
+order, suspension, threat thereof or proceedings related thereto; 
+provided, however, that no notice by the Partnership shall be required 
+pursuant to this clause (iii) in the event that the Partnership either 
+promptly files a prospectus supplement to update the Prospectus or a Form 
+8-K or other appropriate Exchange Act report that is incorporated by 
+reference into the Registration Statement, which in either case, contains 
+the requisite information that results in such Registration Statement no 
+longer containing any untrue statement of material fact or omitting to 
+state a material fact necessary to make the statements therein, in the 
+light of the circumstances under which they were made, not misleading.
+
+(f) The Partnership and each Selling Holder will enter into customary 
+agreements and take such other actions as are reasonably requested by, as 
+applicable, the General Partner, the Selling Holders or the underwriters, 
+if any, in order to expedite or facilitate the disposition of the 
+Registrable Securities, including the provision of comfort letters and 
+legal opinions as are reasonable and customary in such securities 
+offerings.
+
+(g) The Partnership will use commercially reasonable efforts to, as 
+promptly as reasonably practicable, (i) prepare and file with the 
+Commission such amendments, including post-effective amendments, and 
+supplements to each Registration Statement and the Prospectus used in 
+connection therewith as may be necessary under applicable law to keep such 
+Registration Statement continuously effective with respect to the 
+disposition of all Registrable Securities covered thereby for its 
+Effectiveness Period and, subject to the limitations contained in this 
+Agreement, prepare and file with the Commission such additional 
+Registration Statements in order to register for resale under the 
+Securities Act all of the Registrable Securities held by the Holders; (ii) 
+cause the related Prospectus to be amended or supplemented by any required 
+prospectus supplement, and as so supplemented or amended to be filed 
+pursuant to Rule 424; and (iii) respond to any comments received from the 
+Commission with respect to each Registration Statement or any amendment 
+thereto and, as promptly as reasonably possible provide such Holders true 
+and complete copies of all correspondence from and to the Commission 
+relating to such Registration Statement that pertains to such Holders as 
+selling Holders but not any comments that would result in the disclosure to 
+such Holders of material and non-public information concerning the 
+Partnership.
+
+(h) If any Registrable Securities are certificated or if otherwise agreed 
+by the Partnership, the Partnership will cooperate with such Holders to 
+facilitate the timely preparation and delivery of certificates representing 
+Registrable Securities to be delivered to a transferee pursuant to a 
+Registration Statement, which certificates shall be free of all restrictive 
+legends indicating that the Registrable Securities are unregistered or 
+unqualified for resale under the Securities Act, Exchange Act or other 
+applicable securities laws, and to enable such Registrable Securities to be 
+in such denominations and registered in such names as any such Holder may 
+request in writing. In connection therewith, if required by the 
+Partnerships transfer agent, the Partnership will promptly, after the 
+Effective Date of the Registration Statement, cause an opinion of counsel 
+as to the effectiveness of the Registration Statement to be delivered to 
+and maintained with its transfer agent, together with any other 
+authorizations, certificates and directions required by the transfer agent 
+which authorize and direct the transfer agent to issue such Registrable 
+Securities without any such legend upon sale by the Holder of such 
+Registrable Securities under the Registration Statement.
+ 
+13
+
+------------------------------------------------------------------------
+(i) In the event such Holders seek to complete an underwritten offering, 
+for a reasonable period prior to the filing of any Registration Statement 
+and throughout the Effectiveness Period, the Partnership will make 
+available upon reasonable notice at the Partnerships principal place of 
+business or such other reasonable place for inspection by the managing 
+underwriter or managing underwriters such financial and other information 
+and books and records of the Partnership, and cause the officers, 
+employees, counsel and independent certified public accountants of the 
+Partnership to respond to such inquiries, as shall be reasonably necessary 
+(and in the case of counsel, not violate an attorney-client privilege in 
+such counsels reasonable belief) to conduct a reasonable investigation 
+within the meaning of Section 11 of the Securities Act.
+
+(j) In connection with any registration of Registrable Securities pursuant 
+to this Agreement, the Partnership will take all commercially reasonable 
+actions as are necessary or advisable in order to expedite or facilitate 
+the disposition of Registrable Securities by such Holders, including using 
+commercially reasonable efforts to cause appropriate officers and employees 
+to be available, on a customary basis and upon reasonable notice, to meet 
+with prospective investors in presentations, meetings and road shows.
+
+(k) The Partnership will use commercially reasonable efforts to avoid the 
+issuance of, or, if issued, to obtain the withdrawal of (i) any order 
+suspending the effectiveness of a Registration Statement, or (ii) any 
+suspension of the qualification (or exemption from qualification) of any of 
+the Registrable Securities for sale in any jurisdiction, at the earliest 
+practicable moment, or if any such order or suspension is made effective 
+during any Suspension Period, at the earliest practicable moment after the 
+Suspension Period is over.
+
+4. Registration Expenses. Except as set forth in an underwriting agreement 
+for the applicable Underwritten Offering or as otherwise agreed between a 
+Selling Holder and the Partnership, all Registration Expenses of a 
+Registration Statement filed or an Underwritten Offering that includes 
+Registrable Securities pursuant to this Agreement shall be paid by the 
+Partnership; provided, however, that any Selling Expenses related to a 
+Registration Statement or an Underwritten Offering that includes 
+Registrable Securities pursuant to this Agreement shall be paid by the 
+Selling Holders. Registration Expenses shall include, without limitation, 
+(i) all registration and filing fees (including fees and expenses (A) with 
+respect to filings required to be made with the Trading Market and (B) in 
+compliance with applicable state securities or Blue Sky laws), (ii) 
+printing expenses (including expenses of printing certificates for 
+Partnership Securities and of printing prospectuses if the printing of 
+prospectuses is reasonably requested by a Holder of Registrable Securities 
+included in the Registration Statement), (iii) messenger, telephone and 
+delivery expenses, (iv) fees and disbursements of counsel, auditors and 
+accountants for the Partnership, (v) Securities Act liability insurance, if 
+the Partnership so desires such insurance and (vi) fees and expenses of all 
+other Persons retained by the Partnership in connection with the 
+consummation of the transactions contemplated by this Agreement. In 
+addition, the Partnership shall be responsible for all of its expenses 
+incurred in connection with the consummation of the transactions 
+contemplated by this Agreement (including expenses payable to third parties 
+and including all salaries and expenses of their officers and employees
+ 
+14
+
+------------------------------------------------------------------------
+performing legal or accounting duties), the expense of any annual audit and 
+the fees and expenses incurred in connection with the listing of the 
+Registrable Securities on the Trading Market.
+
+5. Indemnification.
+
+(a) If requested by a Holder, the Partnership shall indemnify and hold 
+harmless each underwriter, if any, engaged in connection with any 
+registration referred to in Section 2 and provide representations, 
+covenants, opinions and other assurances to any underwriter in form and 
+substance reasonably satisfactory to such underwriter and the Partnership. 
+Further, the Partnership shall, to the fullest extent permitted by law, 
+indemnify and hold harmless each Selling Holder, its officers, directors 
+and each Person who controls the Holder (within the meaning of the 
+Securities Act) and any agent thereof (collectively, Indemnified Persons
+) from and against any and all losses, claims, damages, liabilities, joint 
+or several, expenses (including reasonable legal fees and expenses), 
+judgments, fines, penalties, interest, settlements or other amounts arising 
+from any and all claims, demands, actions, suits or proceedings, whether 
+civil, criminal, administrative or investigative, in which any Indemnified 
+Person may be involved, or is threatened to be involved, as a party or 
+otherwise, under the Securities Act or otherwise (hereinafter referred to 
+in this Section 5 individually as a claim and collectively as claims) 
+based upon, arising out of or resulting from any untrue statement or 
+alleged untrue statement of any material fact contained in any Registration 
+Statement, preliminary prospectus, final prospectus or issuer free writing 
+prospectus under which any Registrable Securities were registered or sold 
+by such Selling Holder under the Securities Act, or arising out of, based 
+upon or resulting from the omission or alleged omission to state therein a 
+material fact required to be stated therein or necessary to make the 
+statements made therein, in light of the circumstances in which they were 
+made, not misleading; provided, however, that the Partnership shall not be 
+liable to any Indemnified Person to the extent that any such claim (x) 
+arises out of, is based upon or results from an untrue statement or alleged 
+untrue statement or omission or alleged omission made in such Registration 
+Statement, preliminary prospectus, final prospectus or issuer free writing 
+prospectus in reliance upon and in conformity with written information 
+furnished to the Partnership by or on behalf of such Indemnified Person 
+specifically for use in the preparation thereof or (y) is attributable to a 
+claim arising from offers or sales of Registrable Securities that are made 
+by a Selling Holder during a period that the Selling Holder knows is a 
+Suspension Period.
+
+(b) Each Selling Holder shall, to the fullest extent permitted by law, 
+indemnify and hold harmless the Partnership, the General Partner, the 
+General Partners officers and directors and each Person who controls the 
+Partnership or the General Partner (within the meaning of the Securities 
+Act) and any agent thereof to the same extent as the foregoing indemnity 
+from the Partnership to the Selling Holders, but only with respect to 
+information regarding such Selling Holder furnished in writing by or on 
+behalf of such Selling Holder expressly for inclusion in a Registration 
+Statement, preliminary prospectus, final prospectus or free writing 
+prospectus relating to the Registrable Securities held by such Selling 
+Holder.
+
+(c) The provisions of this Section 5 shall be in addition to any other 
+rights to indemnification or contribution that a Person entitled to 
+indemnification under this Agreement may have pursuant to law, equity, 
+contract or otherwise. Notwithstanding anything to the contrary herein, 
+this Section 5 shall survive any termination or expiration of this 
+Agreement indefinitely.
+ 
+15
+
+------------------------------------------------------------------------
+6. Facilitation of Sales Pursuant to Rule 144. To the extent it shall be 
+required to do so under the Exchange Act, the Partnership shall timely file 
+the reports required to be filed by it under the Exchange Act or the 
+Securities Act (including the reports under Sections 13 and 15(d) of the 
+Exchange Act referred to in subparagraph (c)(1) of Rule 144), and shall 
+take such further action as any Holder may reasonably request, all to the 
+extent required from time to time to enable the Holders to sell Registrable 
+Securities without registration under the Securities Act within the 
+limitations of the exemption provided by Rule 144. Upon the request of any 
+Holder in connection with that Holders sale pursuant to Rule 144, the 
+Partnership shall deliver to such Holder a written statement as to whether 
+it has complied with such requirements.
+
+7. Miscellaneous.
+
+(a) Remedies. In the event of a breach by the Partnership of any of its 
+obligations under this Agreement, each Holder, in addition to being 
+entitled to exercise all rights granted by law and under this Agreement, 
+including recovery of damages, will be entitled to specific performance of 
+its rights under this Agreement. The Partnership agrees that monetary 
+damages would not provide adequate compensation for any losses incurred by 
+reason of a breach by it of any of the provisions of this Agreement and 
+further agrees that, in the event of any action for specific performance in 
+respect of such breach, it shall waive the defense that a remedy at law 
+would be adequate.
+
+(b) Discontinued Disposition. Each Holder agrees by its acquisition of 
+Registrable Securities that, upon receipt of a notice from the Partnership 
+of the occurrence of any event of the kind described in clauses (ii) 
+through (v) of Section 3(d), such Holder will forthwith discontinue 
+disposition of such Registrable Securities under the Registration Statement 
+until such Holders receipt of the copies of the supplemental Prospectus or 
+amended Registration Statement or until it is advised in writing by the 
+Partnership that the use of the applicable Prospectus may be resumed, and, 
+in either case, has received copies of any additional or supplemental 
+filings that are incorporated or deemed to be incorporated by reference in 
+such Prospectus or Registration Statement. The Partnership may provide 
+appropriate stop orders to enforce the provisions of this Section 7(b).
+
+(c) Amendments and Waivers. No provision of this Agreement may be waived or 
+amended except in a written instrument signed by the Parties. The 
+Partnership shall provide prior notice to all Holders of any proposed 
+waiver or amendment. No waiver of any default with respect to any 
+provision, condition or requirement of this Agreement shall be deemed to be 
+a continuing waiver in the future or a waiver of any subsequent default or 
+a waiver of any other provision, condition or requirement hereof, nor shall 
+any delay or omission of any Party to exercise any right hereunder in any 
+manner impair the exercise of any such right.
+
+(d) Notices. Any and all notices or other communications or deliveries 
+required or permitted to be provided hereunder shall be in writing and 
+shall be deemed given and effective on the earliest of (i) the date of 
+transmission, if such notice or communication is delivered via facsimile or 
+electronic mail as specified in this Section 7(d) prior to 5:00 p.m.
+ 
+16
+
+------------------------------------------------------------------------
+(Eastern Standard Time) on a Business Day, (ii) the Business Day after the 
+date of transmission, if such notice or communication is delivered via 
+facsimile or electronic mail as specified in this Agreement later than 5:00 
+p.m. (Eastern Standard Time) on any date and earlier than 11:59 p.m. 
+(Eastern Standard Time) on such date, (iii) the Business Day following the 
+date of mailing, if sent by nationally recognized overnight courier service 
+or (iv) upon actual receipt by the Party to whom such notice is required to 
+be given. The address for such notices and communications shall be as 
+follows:
+ 
+  If to the Partnership, HESM GP or GP LLC:
+   	c/o Hess Midstream Partners GP LLC
+   	1185 Avenue of the Americas, 40th Floor
+   	
+New York, New York 10036
+Attention: General Counsel
+Telephone:
+   	Facsimile:
+   	Email:
+  With a copy (which shall not constitute notice) to:
+   	Hess Midstream Partners LP
+   	c/o Hess Midstream Partners GP LLC
+   	1501 McKinney Street
+   	Houston, Texas 77010
+   	Attention: Chief Financial Officer
+   	Telephone:
+   	Facsimile:
+   	Email:
+  If to GIP:
+   	GIP II Blue Holding Partnership, L.P.
+   	c/o Global Infrastructure Management, LLC
+   	12 East 49th Street, 38th Floor
+   	New York, New York 10017
+   	Attention: William Brilliant
+   	Telephone:
+   	Facsimile:
+   	Email:
+  With a copy (which shall not constitute notice) to:
+   	GIP II Blue Holding Partnership, L.P.
+   	c/o Global Infrastructure Management UK LLP
+   	5 Wilton Road, Sixth Floor
+   	London SW1V 1AN
+   	United Kingdom
+   	Attention: Joseph Blum, General Counsel
+   	Telephone:
+   	Facsimile:
+   	Email:
+ 
+17
+
+------------------------------------------------------------------------
+  If to Hess:
+   	Hess Investments North Dakota Limited
+   	c/o Hess Corporation
+   	1185 Avenue of the Americas, 40th Floor
+   	New York, New York 10036
+   	Attention: General Counsel
+   	Telephone:
+   	Facsimile:
+   	Email:
+  With a copy (which shall not constitute notice) to:
+   	Hess Investments North Dakota Limited
+   	c/o Hess Corporation
+   	1501 McKinney Street
+   	Houston, Texas 77010
+   	Attention: Chief Financial Officer
+   	Telephone:
+   	
+Facsimile:
+Email:
+  If to any other Person who is then the registered Holder:
+   	To the address of such Holder as it appears in the applicable register 
+for the Registrable Securities
+
+or such other address as may be designated in writing hereafter, in the 
+same manner, by such Person.
+
+(e) Successors and Assigns. This Agreement shall be binding upon and inure 
+to the benefit of the Parties hereto and their heirs, executors, 
+administrators, successors, legal representatives and permitted assigns. 
+Except as provided in this Section 7(e), this Agreement, and any rights or 
+obligations hereunder, may not be assigned without the prior written 
+consent of the Partnership and each of the Sponsors. Notwithstanding 
+anything in the foregoing to the contrary, the registration rights of a 
+Holder pursuant to this Agreement with respect to all or any portion of its 
+Registrable Securities may be assigned without such consent (but only with 
+all related obligations) with respect to such Registrable Securities (and 
+any Registrable Securities issued as a dividend or other distribution with 
+respect to, in exchange for or in replacement of such Registrable 
+Securities) by such Holder to (i) any of its Affiliates or (ii) a 
+transferee of Registrable Securities or Subordinated Units in which the 
+amount of securities transferred represents 7.5% or more of the total 
+number of Registrable Securities and Subordinated Units on the Closing 
+Date; provided (x) the Partnership is, within a reasonable time after such 
+assignment, furnished with written notice of the name and address of such 
+assignee and the Registrable Securities and/or Subordinated Units with 
+respect to which such registration rights are being assigned and (y) such 
+assignee agrees in writing to be bound by and subject to the terms set 
+forth in this Agreement. The Partnership may not assign its respective 
+rights or obligations hereunder without the prior written consent of each 
+of the Sponsors.
+
+(f) Market Stand-Off Agreement. In connection with any underwritten 
+offering of Partnership Securities, each Holder that, together with its 
+Affiliates, holds five percent (5%) or more of the Partnerships voting 
+securities (each, a 5% Holder) hereby agrees that such Holder shall not 
+sell, transfer, make any short sale of, grant any option for the purchase
+ 
+18
+
+------------------------------------------------------------------------
+of, or enter into any hedging or similar transaction with the same economic 
+effect as a sale of, any Partnership Securities held by such Holder (other 
+than those included in such offering) for a period specified by the 
+representative of the underwriters of Partnership Securities not to exceed 
+ninety (90) days following the closing date of the offering of Partnership 
+Securities (the Stand-Off Period); provided that all officers and 
+directors of the General Partner and each Holder that, together with its 
+Affiliates, holds at least five percent (5%) of the Partnerships voting 
+securities enter into similar agreements and only if such Persons remain 
+subject thereto (and are not released from such agreement) for such 
+Stand-Off Period. Each 5% Holder agrees to execute and deliver such other 
+agreements as may be reasonably requested by the Partnership or the 
+underwriter which are consistent with the foregoing or which are necessary 
+to give further effect thereto. In addition, if requested by the 
+Partnership or the representative of the underwriters of Partnership 
+Securities, each Holder shall provide, within three (3) days of such 
+request, such information as may be required by the Partnership or such 
+representative in connection with the completion of any public offering of 
+the Partnership Securities pursuant to a Registration Statement. The 
+obligations described in this Section 7(f) shall not apply to a 
+registration relating solely to employee benefit plans on Form S-1 or Form 
+S-8 or similar forms that may be promulgated in the future, or a 
+registration relating solely to a transaction on Form S-4 or similar forms 
+that may be promulgated in the future. The Partnership may impose 
+stop-transfer instructions with respect to Common Units (or other 
+securities) subject to the foregoing restriction until the end of the 
+Stand-Off Period.
+
+(g) Specific Performance. Damages in the event of breach of Section 5 by a 
+party hereto may be difficult, if not impossible, to ascertain, and it is 
+therefore agreed that each party, in addition to and without limiting any 
+other remedy or right it may have, will have the right to seek an 
+injunction or other equitable relief in any court of competent 
+jurisdiction, enjoining any such breach, and enforcing specifically the 
+terms and provisions hereof, and each of the parties hereto hereby waives, 
+to the fullest extent permitted by law, any and all defenses it may have on 
+the ground of lack of jurisdiction or competence of the court to grant such 
+an injunction or other equitable relief. The existence of this right will 
+not preclude any such party from pursuing any other rights and remedies at 
+law or in equity that such party may have.
+
+(h) Execution and Counterparts. This Agreement may be executed in any 
+number of counterparts, each of which when so executed shall be deemed to 
+be an original and all of which taken together shall constitute one and the 
+same Agreement. In the event that any signature is delivered by facsimile 
+or electronic mail transmission, such signature shall create a valid 
+binding obligation of the Party executing (or on whose behalf such 
+signature is executed) the same with the same force and effect as if such 
+signature delivered by facsimile or electronic mail transmission were the 
+original thereof.
+
+(i) Governing Law. This Agreement shall be governed by and construed in 
+accordance with the laws of the State of Delaware without regard to the 
+principles of conflicts of law.
+
+(j) Submission to Jurisdiction. Each of the Parties irrevocably and 
+unconditionally submits, for itself and its property, to the exclusive 
+jurisdiction of the Court of Chancery of the State of Delaware and any 
+appellate court from and thereof, in any action or proceeding arising out 
+of or relating to this Agreement, or for the recognition or enforcement of
+ 
+19
+
+------------------------------------------------------------------------
+any judgment, and each of the Parties irrevocably and unconditionally 
+agrees that all claims in respect of any such action or proceeding may be 
+heard and determined in such Delaware court or, to the fullest extent 
+permitted by applicable law, in such federal court. The Parties agree that 
+a final judgment in any such action or proceeding shall be conclusive and 
+may be enforced in other jurisdictions by suit on the judgment or in any 
+other manner provided by law.
+
+(k) Waiver of Venue. The Parties irrevocably and unconditionally waive, to 
+the fullest extent permitted by applicable law, (i) any objection that it 
+may now or hereafter have to the laying of venue of any action or 
+proceeding arising out of or relating to this Agreement in any court 
+referred to in Section 7(i) and (ii) the defense of an inconvenient forum 
+to the maintenance of such action or proceeding in any such court.
+
+(l) Cumulative Remedies. The remedies provided herein are cumulative and 
+not exclusive of any remedies provided by law.
+
+(m) Severability. If any term, provision, covenant or restriction of this 
+Agreement is held by a court of competent jurisdiction to be invalid, 
+illegal, void or unenforceable, the remainder of the terms, provisions, 
+covenants and restrictions set forth herein shall remain in full force and 
+effect and shall in no way be affected, impaired or invalidated, and the 
+Parties shall use their reasonable efforts to find and employ an 
+alternative means to achieve the same or substantially the same result as 
+that contemplated by such term, provision, covenant or restriction. It is 
+hereby stipulated and declared to be the intention of the Parties that they 
+would have executed the remaining terms, provisions, covenants and 
+restrictions without including any of such that may be hereafter declared 
+invalid, illegal, void or unenforceable.
+
+(n) Entire Agreement. This Agreement, together with each of the other 
+Transaction Documents, constitutes the entire agreement among the Parties 
+with respect to the subject matter hereof and supersede all prior contracts 
+or agreements with respect to the subject matter hereof and supersede any 
+and all prior or contemporaneous discussions, agreements and 
+understandings, whether oral or written that may have been made or entered 
+into by or among any of the Parties or any of their respective affiliates 
+relating to the transactions contemplated hereby.
+
+(o) Headings; Section References. The headings in this Agreement are for 
+convenience of reference only and shall not limit or otherwise affect the 
+meaning hereof. Unless otherwise stated, references to Sections, Schedules 
+and Exhibits are to the Sections, Schedules and Exhibits of this Agreement.
+
+[THIS SPACE LEFT BLANK INTENTIONALLY]
+ 
+20
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date 
+first written above.
+ 
+HESS MIDSTREAM PARTNERS LP
+By: Hess Midstream Partners GP LP, its general partner
+By: Hess Midstream Partners GP LLC, its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS MIDSTREAM PARTNERS GP LP
+By: Hess Midstream Partners GP, LLC, its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS MIDSTREAM PARTNERS GP LLC
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS INVESTMENTS NORTH DAKOTA LIMITED
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+
+Signature Page to Registration Rights Agreement
+
+------------------------------------------------------------------------
+GIP II BLUE HOLDING PARTNERSHIP, L.P.
+By: GIP BLUE HOLDING GP, LLC, its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+
+Signature Page to Registration Rights Agreement
