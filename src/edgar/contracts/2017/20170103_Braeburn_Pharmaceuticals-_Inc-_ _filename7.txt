@@ -1,0 +1,2982 @@
+ EX-10.14 7 filename7.htm
+EXHIBIT 10.14
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+EXECUTION VERSION
+ 
+DISTRIBUTION AND SUBLICENSE AGREEMENT
+ 
+THIS DISTRIBUTION AND SUBLICENSE AGREEMENT (this Agreement), dated as of 
+February 1, 2016 (the Effective Date), by and between BRAEBURN 
+PHARMACEUTICALS, INC., a corporation formed under the laws of Delaware (
+Braeburn), and KNIGHT THERAPEUTICS INC., a corporation incorporated under 
+the laws of Canada (Knight).
+ 
+RECITALS
+ 
+WHEREAS reference is made to that certain License Agreement, dated as of 
+December 14,2012, by and between Titan Pharmaceuticals, Inc. (Titan) and 
+Braeburn, as amended by that certain first amendment dated May 28,2013, as 
+further amended by that certain second amendment dated July 2,2013, as 
+further amended by that certain third amendment dated November 12, 2013, 
+and as assigned to Braeburn pursuant to that certain letter of assignment, 
+dated May 28,2015, from Braeburn Pharmaceuticals BVBA SPRL and acknowledged 
+by Titan (as amended, the Titan Agreement);
+ 
+WHEREAS pursuant to the terms and conditions of the Titan Agreement, 
+Braeburn owns or licenses all right, title and interest in and to certain 
+patents, trademark(s) and Know-How relating to Braeburns buprenorphine 
+subdermal implant known as Probuphine;
+ 
+WHEREAS Knight wishes to be appointed by Braeburn as exclusive distributor 
+to offer to sell and sell the Sublicensed Products in the Territory and 
+Braeburn is willing to grant such exclusive appointment; and
+ 
+WHEREAS Knight wishes to procure the Sublicensed Products from Braeburn and 
+Braeburn wishes to supply the Sublicensed Products to Knight, and the 
+Parties agree to enter into a separate Supply Agreement providing therefor, 
+as more particularly described herein.
+ 
+NOW THEREFORE in consideration of the mutual promises and covenants 
+contained herein, the Parties, intending to be legally bound, agree as 
+follows:
+ 
+    1.                                      DEFINITIONS
+ 
+    1.1                               Definitions.  The following terms as
+    used hereinafter in this Agreement shall have the meaning set forth in
+    this Section:
+ 
+    Accounting Standards means, with respect to Knight, IFRS, and with
+    respect to Braeburn, US GAAP, in each case, as generally and
+    consistently applied by such Party.  Each Party shall promptly notify
+    the other in the event that it changes the Accounting Standards
+    pursuant to which its records are maintained, it being understood that
+    each
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+     
+    Party may only use internationally recognized accounting principles
+    (e.g., IFRS or US GAAP) in general use for public company accounting
+    and reporting in Canada, with respect to Knight, or the United States,
+    with respect to Braeburn.
+ 
+    Adverse Experience means adverse drug experiences, as defined by 21
+    CFR Section 314.80 or any comparable law in the Territory, including
+    any noxious and unintended response to a drug which occurs at doses
+    normally used or tested for the diagnosis, treatment, or prevention of
+    a disease or the modification of an organic function and any untoward
+    medical occurrence in a patient or clinical investigation subject
+    administered a pharmaceutical product and which does not necessarily
+    have to have a causal relationship with the treatment.
+ 
+    Affiliate of a Party means (i) any corporation or business entity of
+    which at least fifty percent (50%) of the securities or other ownership
+    interests representing the equity, the voting stock or general
+    partnership interest are owned, controlled or held, directly or
+    indirectly, by a Party; (ii) any corporation or business entity which,
+    directly or indirectly, owns, controls or holds at least fifty percent
+    (50%) (or the maximum ownership interest permitted by law) of the
+    securities or other ownership interests representing the equity, voting
+    stock or general partnership interest of a Party; (iii) any corporation
+    or business entity of which, directly or indirectly, an entity
+    described in the immediately preceding subsection (ii) controls or
+    holds at least fifty percent (50%) (or the maximum ownership interest
+    permitted by law) of the securities or other ownership interests
+    representing the equity, voting stock or general partnership interest
+    of such corporation or entity; or (iv) any corporation or business
+    entity of which a Party has the right to acquire, directly or
+    indirectly, at least fifty percent (50%) of the securities or other
+    ownership interests representing the equity, voting stock or general
+    partnership interest thereof.  Notwithstanding the foregoing, Apple
+    Tree Partners IV, L.P., ATP III, G.P., and their portfolio companies,
+    other than Braeburn and its subsidiaries, shall not be deemed to be
+    Affiliates of Braeburn under this Agreement unless and until this
+    Agreement, the Sublicensed Product, any Subsequent Indication or any
+    ROFN Product or any rights or obligations related hereto or thereto are
+    assigned, transferred or conveyed to any of them.
+ 
+    Agreement has the meaning set forth in the initial paragraph of this
+    Agreement.
+ 
+    Applicable Laws means any law, regulation, rule, guidance, order,
+    judgment or decree having the force of law applicable to the Parties
+    and their activities under this Agreement.
+ 
+    Audit Disagreement has the meaning set forth in Section 6.5(a)(ii).
+ 
+    Braeburn has the meaning set forth in the initial paragraph of this
+    Agreement.
+ 
+    Braeburn Indemnified Party has the meaning set forth in Section 9.6.
+ 
+    Braeburn Know-How means all unpatented information and Data that are
+    as of the Effective Date or become during the Term Controlled by
+    Braeburn, including
+ 
+2
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    discoveries, Improvements, processes, formulas, inventions, Know-How
+    and trade secrets, to the extent necessary or useful for the
+    development, manufacture, and/or Commercialization of a Sublicensed
+    Product.  Braeburn Know-How does not include any Patent Rights. 
+    Braeburn Know-How also includes all marketing authorizations and
+    marketing approvals granted by Regulatory Authorities (e.g., approved
+    NDAs, FNDs and related applications and other forms of marketing
+    authorization) to and Controlled by Braeburn for the marketing of
+    Sublicensed Products.  Such marketing authorizations and marketing
+    approvals shall be deemed embodiments of Data and Braeburn Know-How.
+ 
+    Braeburn Marks means the marks owned or licensed by Braeburn set
+    forth in Schedule A and any other marks Braeburn may adopt from time to
+    time, for use for the Sublicensed Products which shall be deemed to
+    automatically be incorporated into Schedule A.
+ 
+    Braeburn Patents means all Patent Rights in the Territory that are as
+    of the Effective Date or become during the Term Controlled by Braeburn
+    and that generically or specifically claim, or would be reasonably
+    necessary for, the making, having made, use, offer for sale, sale or
+    importation of the Sublicensed Products or claim any Improvements.
+ 
+    Business Day means any day other than (i) Saturday or Sunday or (ii)
+    a day that is a legal holiday in either of Montreal, Quebec or New
+    York, New York, or (iii) any other day on which banks in either of
+    Montreal, Quebec or New York, New York are required to be closed.
+ 
+    Calendar Quarter means the three (3) month periods ending on March
+    31, June 30, September 30 and December 31 in each Calendar Year.
+ 
+    Calendar Year means, in respect of any particular year, the one (1)
+    year period beginning on January 1 and ending on December 31.
+ 
+    Commercialize means marketing, using, distributing, Promoting,
+    offering for sale, and selling the Sublicensed Products.
+ 
+    Commercialization Plan means [***].
+ 
+    Commercially Reasonable Efforts means, [***].
+ 
+    Competitive Product means any pharmaceutical product that (i)
+    contains buprenorphine (in any form or formulation, including any
+    pharmaceutically acceptable salts, esters, solvates, hydrates,
+    polymorphs, crystal forms, prodrugs and tautomers) as an active
+    ingredient and (ii) [***].
+ 
+    Confidential Information has the meaning set forth in Section 10.1.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+     
+    Control means, with respect to any material, information, or
+    intellectual property right, that a Party (i) owns or (ii) has a
+    license to, and, in each case, has the ability to grant to the other
+    Party access, a license, or a sublicense (as applicable) to the
+    foregoing on the terms and conditions set forth in this Agreement
+    without violating the terms of any then-existing agreement or other
+    arrangement with any Third Party.
+ 
+    Data means any and all research data, pharmacology data, preclinical
+    data, clinical data, medical chemistry, commercial, marketing, process
+    development, manufacturing and other data or information, including
+    investigator reports (both preliminary and final), statistical
+    analyses, expert opinions and reports, and safety data, in each case
+    generated from clinical or non-clinical studies, research or testing
+    specifically related or directed to the Sublicensed Product(s),
+    together with all documentation submitted, or required to be submitted,
+    to a Regulatory Authority in association with a Regulatory Submission
+    or similar application for a Sublicensed Product (excluding any Drug
+    Master Files (DMFs), Chemistry, Manufacturing and Control (CMC) data,
+    or similar documentation).
+ 
+    Data Package has the meaning set forth in Section 2.9(a).
+ 
+    Effective Date means the date specified in the initial paragraph of
+    this Agreement.
+ 
+    EMA has the meaning set forth in Section 3.5(a).
+ 
+    Excluded Transaction has the meaning set forth in Section 2.9(d).
+ 
+    FDA means the United States Food and Drug Administration and any
+    successor agency having substantially the same functions.
+ 
+    Field means the Initial Indication and/or any Subsequent Indications
+    for Sublicensed Products in the Territory.
+ 
+    Final Royalty Period has the meaning set forth in Section 6.3(c).
+ 
+    Final Royalty True-Up Report has the meaning set forth in Section
+    6.3(c).
+ 
+    First Commercial Sale means the first sale to a Third Party of a
+    Sublicensed Product in the Territory for value after Regulatory
+    Approval has been obtained in the Territory.
+ 
+    Force Majeure has the meaning set forth in Section 13.6.
+ 
+    Government List has the meaning set forth in Section 9.2(k).
+ 
+    Governmental Authority means any domestic or foreign entity
+    exercising executive, legislative, judicial, regulatory or
+    administrative functions of or pertaining to government, including any
+    governmental authority, agency, department, board, commission, court,
+    tribunal, judicial body or instrumentality of any union of nations,
+ 
+4
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+     
+    federation, nation, state, municipality, county, locality or other
+    political subdivision thereof.
+ 
+    Health Canada means Health Canada and any successor agency having
+    substantially the same functions.
+ 
+    IFRS means, at any time, the International Financial Reporting
+    Standards, promulgated by the International Accounting Standards Board,
+    as amended, supplemented or replaced from time to time, and in general
+    use for public company accounting and reporting in Canada.
+ 
+    Improvements means all modifications, alterations, improvements, any
+    reformulation or line extension, other advances, enhancements,
+    inventions and Know-How, patentable or otherwise, made, created,
+    developed, discovered, conceived or reduced to practice by or on behalf
+    of a Party and/or any of its Affiliates during the Term, that apply to
+    Sublicensed Products, including developments in the manufacture,
+    formulation, ingredients, preparation, presentation, means of delivery
+    or administration, dosage, Indication, methods of use or packaging
+    and/or sale of Sublicensed Products, including a process for
+    manufacturing a Sublicensed Product, an intermediate used in such
+    process, a formulation of a Sublicensed Product, or a use or Indication
+    of a Sublicensed Product.  Notwithstanding anything in the preceding
+    sentence, an Improvement shall not include Regulatory Approval to
+    Commercialize a Sublicensed Product for a Subsequent Indication.
+ 
+    Independent Expert has the meaning set forth in Section 6.5(a)(ii).
+ 
+    Indication means any human disease or condition, or sign or symptom
+    of a human disease or condition.
+ 
+    Initial Indication means the use of a Sublicensed Product for the
+    treatment of opioid addiction.
+ 
+    Initial Term has the meaning set forth in Section 11.1.
+ 
+    Invention has the meaning set forth in Section 8.1.
+ 
+    Knight has the meaning set forth in the initial paragraph of this
+    Agreement.
+ 
+    Knight Indemnified Party has the meaning set forth in Section 9.5.
+ 
+    Knight Offer has the meaning set forth in Section 2.9(b).
+ 
+    Knight Sales Force means the professional trained sales force
+    employed or retained (as consultants, contract sales force or
+    otherwise) by Knight to support its obligations under this Agreement.
+ 
+5
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    Knight Waiver Notice has the meaning set forth in Section 2.9(b).
+ 
+    Know-How means any non-public information, ideas, Data, inventions,
+    works of authorship, trade secrets, technology, or materials, including
+    formulations, molecules, assays, reagents, compounds, compositions,
+    human or animal tissue, samples or specimens, and combinations or
+    components thereof, whether or not proprietary or patentable, and
+    whether stored or transmitted in oral, documentary, electronic or other
+    form, including all Regulatory Submissions.
+ 
+    Launch means the First Commercial Sale of a Sublicensed Product in
+    the Territory.
+ 
+    Losses means any and all damages of any kind whatsoever (including
+    all incidental, consequential, statutory and treble damages), awards,
+    deficiencies, settlement amounts, defaults, assessments, fines, dues,
+    penalties, judgments (including penalties imposed by any Governmental
+    Authority), costs, fees, liabilities, obligations, taxes, liens,
+    losses, lost profits and expenses (including court costs, interest and
+    reasonable fees of attorneys, accountants and other experts) and other
+    monetary obligations arising out of or resulting from claims or
+    judgments, arbitral awards, including amounts paid in settlement of
+    claims, judgments, legal (including judicial, arbitral and
+    administrative) proceedings and the like, incurred or otherwise payable
+    to Third Parties.
+ 
+    NDA Transfer Date means the NDA Transfer Date as such term is defined
+    in the Titan Agreement.
+ 
+          i.                  Net Sales means [***].
+ 
+    Non-Renewal Notice has the meaning set forth in Section 11.1.  OFAC
+     has the meaning set forth in Section 9.2(k).
+ 
+    Party means either Braeburn or Knight and Parties means both
+    Braeburn and Knight.
+ 
+    Patent Rights means any of the following, whether existing now or in
+    the future, in the Territory: (i) patents and patent applications
+    (including provisional applications); (ii) all patent applications
+    filed either from such patents or patent applications or from an
+    application claiming priority from either of these, including
+    continuations, continuations-in-part, divisionals, converted
+    provisionals, continued prosecution applications, and substitute
+    applications; (iii) any patents issued based on or claiming priority to
+    any such patent applications in (i) and (ii); (iv) any and all
+    extensions or restorations by existing or future extension or
+    restoration mechanisms, including adjustments, revalidations, renewals,
+    reissues, reexaminations and extensions (including any supplementary
+    protection certificates and the like) of the foregoing patents or
+    patent applications in (i), (ii) and (iii); (v) any similar rights,
+    including so-called pipeline protection, or any importation,
+    revalidation, confirmation or introduction patent or registration
+    patent or
+ 
+6
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    patents of addition to any of such foregoing patents or patent
+    applications; and (vi) any other patents and patent applications that
+    dominate the foregoing patents.
+ 
+    Patriot Act Offense has the meaning set forth in Section 9.2(k).
+ 
+    Promotion means those activities normally undertaken by a
+    pharmaceutical company to implement promotion plans and strategies
+    aimed at encouraging the appropriate use of a particular prescription
+    pharmaceutical product under a common trademark, up to the point of
+    offering a product for sale, in each case, in accordance with
+    Applicable Law.  When used as a verb, Promote means to engage in such
+    activities.
+ 
+    Quality Agreement has the meaning set forth in Section 7.2.
+ 
+    Recall has the meaning set forth in Section 5.6.
+ 
+    Regulatory Approval means with respect to a pharmaceutical or
+    biological product or medical device in a country or regulatory
+    jurisdiction, any and all approvals, licenses, permits, certifications,
+    registrations or authorizations from the relevant Regulatory Authority
+    in such regulatory jurisdiction that is specific to such product and
+    necessary for the Promotion and commercial sale of such product in such
+    country or regulatory jurisdiction (including pricing and/or
+    reimbursement approval in any country in which pricing and/or
+    reimbursement approval is required by Applicable Laws).
+ 
+    Regulatory Authority means, in a particular country or regulatory
+    jurisdiction, any applicable Governmental Authority involved in
+    granting Regulatory Approval and/or, to the extent required in such
+    country or regulatory jurisdiction, pricing or reimbursement approval
+    of a Sublicensed Product in such country or regulatory jurisdiction.
+ 
+    Regulatory Submissions means all applications, filings, dossiers,
+    modifications, amendments, supplements, revisions, reports,
+    submissions, authorizations and approvals, and any reports or
+    amendments necessary to maintain Regulatory Approvals.
+ 
+    Renewal Term has the meaning set forth in Section 11.1.
+ 
+    ROFN Negotiation Period has the meaning set forth in Section 2.9(a).
+ 
+    ROFN Product means a product, other than a Sublicensed Product,
+    Controlled by Braeburn or its Affiliates during the Term, rights to
+    which have not been licensed or sublicensed in the Territory to a Third
+    Party prior to the Term.
+ 
+    Royalties has the meaning set forth in Section 6.1.
+ 
+    Royalty Report has the meaning set forth in Section 6.3(a).
+ 
+    Royalty True-Up has the meaning set forth in Section 6.3(a)(iii).
+ 
+7
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    SDEA means the Safety Data Exchange Agreement to be entered into by
+    the Parties in accordance with the terms and conditions of this
+    Agreement and the Titan Agreement.
+ 
+    Sublicensed Product means that certain buprenorphine subdermal
+    implant licensed by Braeburn and known as of the Effective Date as
+    Probuphine for use in the Field, including all Improvements thereto.
+ 
+    Sublicensed Product Label(ing) has the same meaning as defined in the
+    United States Food, Drug, and Cosmetic Act of 1938, as amended, and the
+    rules and regulations promulgated thereunder, or any successor act, as
+    the same shall be in effect from time to time, and as interpreted by
+    the FDA, and any analogous Applicable Laws as interpreted by an
+    applicable Regulatory Authority in the Territory.
+ 
+    Sublicensed Product NDS means a New Drug Submission that is submitted
+    to Health Canada to apply for Regulatory Approval of a Sublicensed
+    Product for the Initial Indication.
+ 
+    Sublicensed Product Trademark(s) means the Probuphine trademark,
+    owned by Titan, and licensed to Braeburn under the Titan Agreement, and
+    all related domain names and other trademark related rights, and/or any
+    other trademark that Braeburn may apply to register in the Territory if
+    such alternate trademark is selected for use in the Promotion of a
+    Sublicensed Product by the Parties under this Agreement.
+ 
+    Subsequent Indication means the use of a Sublicensed Product for the
+    treatment of an Indication that is not the Initial Indication.  For
+    clarity, references herein to a Subsequent Indication in the
+    Territory mean a Subsequent Indication as set forth in a Regulatory
+    Approval for Sublicensed Products in the Territory, and Knights rights
+    and obligations hereunder with respect to Subsequent Indications
+    following Launch refer to Subsequent Indications as set forth in a
+    Regulatory Approval for Sublicensed Products in the Territory.
+ 
+    Supply Agreement has the meaning set forth in Section 7.1.
+ 
+    Supply Price has the meaning set forth in Section 6.2.
+ 
+    Term means the Initial Term and any Renewal Term, as applicable.
+ 
+    Territory means Canada.
+ 
+    Third Party means any person other than the Parties and their
+    Affiliates.  Third Party Claims has the meaning set forth in Section
+    9.5.  Third Party Offer has the meaning set forth in Section 2.9(b). 
+    Third Party Transaction has the meaning set forth in Section 2.9(b).
+ 
+    Third Party Transaction Notice has the meaning set forth in Section
+    2.9(b).
+ 
+8
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    Titan has the meaning set forth in the recitals to this Agreement.
+ 
+    Titan Agreement has the meaning set forth in the recitals to this
+    Agreement.
+ 
+    US GAAP means, at any time, then-applicable United States generally
+    accepted accounting principles.
+ 
+    1.2                               Other Definitional and Agreement
+    References.  References to any agreement, contract, statute, act, or
+    regulation are to that agreement, contract, statute, act, or regulation
+    as amended, modified or supplemented from time to time in accordance
+    with the terms hereof and thereof.
+ 
+    1.3                               Ambiguities.  Ambiguities, if any, in
+    this Agreement shall not be construed against any Party, irrespective
+    of which Party may be deemed to have authored the ambiguous provision.
+ 
+    1.4                               Sections and Headings.  The term
+    Section refers to the specified Section of this Agreement, unless
+    otherwise specified.  Headings and captions of the Sections hereof are
+    for convenience only and are not to be used in the interpretation of
+    this Agreement.
+ 
+    1.5                               United States Dollars.  References in
+    this Agreement to Dollars or $ shall mean the legal tender of
+    United States, unless otherwise noted.  Except as otherwise provided in
+    this Agreement, all payments required to be made by or on behalf of a
+    Party under this Agreement shall be paid in United States Dollars, and
+    to the extent necessary, shall be converted into United States Dollars
+    using the spot rate of exchange for conversion into United States
+    Dollars as published in The Wall Street Journal on the Business Day
+    prior to the date any such payment is made.
+ 
+    1.6                               Date References.  References from or
+    through any date mean, unless otherwise specified, from and including
+    or through and including, respectively.
+ 
+    1.7                               Gender and Person.  Words of one
+    gender include the other gender.  Unless the context otherwise
+    requires, references to a person in this Agreement include any
+    individual, corporation, company, partnership, joint venture, trust,
+    governmental body, authority, or other entity.
+ 
+    1.8                               Include, Includes, Including. 
+    Whenever the words include, includes or including are used in
+    this Agreement, they shall be deemed to be followed by the words
+    without limitation, whether or not they are in fact followed by those
+    words or words of like import.
+ 
+    1.9                               Knowingly.  The term knowingly as
+    used in this Agreement means actual knowledge or reasonable reason to
+    suspect.
+ 
+9
+------------------------------------------------------------------------
+ 
+     
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    1.10                        No Strict Construction.  This Agreement has
+    been prepared jointly and shall not be strictly construed against
+    either Party.
+ 
+    1.11                        Number of Days.  Whenever this Agreement
+    refers to a number of days, unless otherwise specified, such number
+    shall refer to calendar days.
+ 
+    1.12                        Party References.  Reference to any Party
+    includes the successors and permitted assigns of that Party.
+ 
+    1.13                        Singular/Plural.  Words using the singular
+    or plural number also include the plural or singular number,
+    respectively.
+ 
+    2.                                      GRANT OF RIGHTS
+ 
+    2.1                               Effectiveness.  This Agreement shall
+    be effective as of the Effective Date, but the Parties agree and
+    acknowledge that certain rights and obligations under this Agreement
+    shall not become effective until the NDA Transfer Date. Notwithstanding
+    the foregoing, the Parties agree and acknowledge that following the
+    Effective Date, Knight may, to the extent permitted under the Titan
+    Agreement, undertake such activities as are reasonably necessary to
+    prepare for the NDA Transfer Date, provided that Knight shall keep
+    Braeburn reasonably informed with respect to any such activities, and
+    Braeburn shall reasonably cooperate with and assist Knight in any such
+    activities.
+ 
+    2.2                               General.  Pursuant to Section 2.6 of
+    the Titan Agreement, this Agreement is subject to, and Knight agrees
+    that it shall be bound by, the terms and conditions of the Titan
+    Agreement, including the provisions relating to payments set forth in
+    Article 6 of the Titan Agreement.  In the event of any conflict between
+    the terms and conditions of this Agreement and the terms and conditions
+    of the Titan Agreement, the terms and conditions of the Titan Agreement
+    shall govern and control.
+ 
+    2.3                               Appointment; Sublicense.  Subject to
+    the terms and conditions of this Agreement and the Titan Agreement,
+    Braeburn, on behalf of itself and its Affiliates, hereby (a) appoints
+    Knight as its exclusive distributor of Sublicensed Products in the
+    Territory and in the Field for the Term, and (b) grants to Knight, and
+    Knight hereby accepts, for the Term, and for the Territory and in the
+    Field, an exclusive sublicense under the Braeburn Patents and Braeburn
+    Know-How to Commercialize the Sublicensed Products.  For the avoidance
+    of doubt, references to Sublicensed Products in this Section 2.3
+    include the Sublicensed Products for the Initial Indication, any
+    Subsequent Indications, and Sublicensed Products with any Improvements.
+ 
+    2.4                               Sublicensing.  Subject to the terms
+    and conditions of this Agreement and the Titan Agreement, Knight may
+    sublicense its rights granted hereunder to any Affiliate of Knight or
+    any Third Party, or use any sub-distributors or Third Party contractors
+    to exercise its rights or fulfill its obligations hereunder.  Knight
+    shall advise Braeburn in advance of any proposed sublicense and
+    consider in good faith Braeburns comments with respect
+ 
+10
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    thereto.  Without limiting the foregoing, and notwithstanding anything
+    else contained herein to the contrary, Knight may not make, grant,
+    enter into or otherwise commit to any sublicense of its rights granted
+    hereunder, including to any Affiliate, prior to the NDA Transfer Date
+    without the prior written consent of Braeburn.  All sublicense
+    agreements, distribution or other arrangements or agreements shall be
+    subject to and consistent with the terms and conditions of this
+    Agreement and the Titan Agreement, and any sublicensees, distributors
+    or other party shall be bound by the terms and conditions of this
+    Agreement and the Titan Agreement, including the provisions relating to
+    payments set forth in Article 6 of the Titan Agreement.  Knight assumes
+    full responsibility for any actions taken or any failures to act by any
+    sublicensee, distributor or other person and any of the expenses,
+    costs, or fees incurred by any sublicensee, distributor or other
+    person.  In the event Knight grants a sublicense to an Affiliate, any
+    payment due to Braeburn under this Agreement must be received in its
+    full amount by Braeburn in the United States, and in United States
+    Dollars, without any tax withholding or tax deduction therefrom, except
+    as provided under Section 13.1.
+ 
+    2.5                               No Implied Licenses.  All rights not
+    specifically granted to Knight herein are reserved and retained by
+    Braeburn, including, without limitation, with respect to the period
+    between the Effective Date and the NDA Transfer Date.  Neither Party
+    grants to the other Party any right or license to use any of its
+    intellectual property, Know-How or other proprietary information,
+    materials or technology, or to practice any of its patent, trademark,
+    or trade dress rights, except as expressly set forth in this Agreement.
+     Except as otherwise permitted in this Agreement, Knight shall not
+    grant any license to, or permit or authorize, any Third Party to
+    Promote Sublicensed Products in the Territory without the prior written
+    consent of Braeburn.
+ 
+    2.6                               Restriction on Knight Sales.  Knight
+    shall not, either directly or indirectly (including through any
+    Affiliate, representative, agent or sublicensee) knowingly: (i) sell or
+    otherwise dispose of Sublicensed Products to any Third Party outside
+    the Territory; (ii) sell or otherwise dispose of Sublicensed Products
+    to any Third Party within the Territory for the purpose of sale or
+    other disposition to any Third Party outside the Territory; (iii)
+    knowingly distribute any Sublicensed Products for sale or use outside
+    the Territory; or (iv) supply any Third Party that has distributed or
+    offered to distribute Sublicensed Products outside the Territory after
+    Knight has knowledge that said Third Party has distributed or offered
+    to distribute Sublicensed Products outside the Territory.  If Knight
+    knows or has reason to suspect that a Third Party to whom Knight sells
+    or otherwise disposes of Sublicensed Products is engaged in the sale or
+    distribution of Sublicensed Products for use outside the Territory,
+    then Knight shall (A) within [***] Business Days after gaining
+    knowledge of, or reason to suspect, such activities notify Braeburn
+    thereof and provide all information in Knights possession that
+    Braeburn may reasonably request concerning such activities, and (B)
+    take all reasonable steps (including cessation of sales, directly or
+    indirectly, to such Third Party) necessary to limit such sale or other
+    disposition for use outside the Territory.  All inquiries or orders
+    received by Knight for Sublicensed Product to be delivered outside the
+    Territory shall be referred to
+ 
+11
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    Braeburn.  Knight shall use Commercially Reasonable Efforts to cause
+    each of its Affiliates, representatives, agents and sublicensees (other
+    than Braeburn) to comply with the obligations of Knight under this
+    Section 2.6.  For the avoidance of doubt, references to Sublicensed
+    Products in this Section 2.6 include the Sublicensed Products for the
+    Initial Indication, any Subsequent Indications, and Sublicensed
+    Products with any Improvements.
+ 
+    2.7                               Restriction on Braeburn Sales. 
+    Braeburn shall not knowingly: (i) solicit or accept orders for
+    distribution of Sublicensed Products to a Third Party for sale or
+    distribution in the Territory; (ii) distribute any Sublicensed Products
+    for sale or use in the Territory; or (iii) supply any Third Party that
+    has distributed or offered to distribute Sublicensed Products in the
+    Territory after Braeburn has knowledge that said Third Party has
+    distributed or offered to distribute Sublicensed Products obtained from
+    Braeburn in the Territory.  For the avoidance of doubt, references to
+    Sublicensed Products in this Section 2.7 include the Sublicensed
+    Products for the Initial Indication, any Subsequent Indications, and
+    Sublicensed Products with any Improvements.
+ 
+    2.8                               Performance by Affiliates.  The
+    Parties agree that their respective rights and obligations may be
+    exercised or performed by any of their Affiliates; provided, however,
+    that each Party shall (a) provide prior written notice to the other
+    Party of such exercise or performance by any such Affiliate, (b) be
+    fully responsible and liable for the actions and omissions of such
+    Affiliate(s) in the exercise or performance of such rights and
+    obligations, and (c) ensure that such Affiliate(s) comply with the
+    terms and conditions of this Agreement.
+ 
+    2.9                               Right of First Negotiation.
+ 
+        (a)                                 If, at any time during the
+        Term, Braeburn or any of its Affiliates intends to license or
+        sublicense its right to develop or Commercialize a ROFN Product in
+        the Territory (or any part thereof) to any Third Party in order to
+        permit such Third Party to develop or Commercialize the ROFN
+        Product in the Territory (but not including any Excluded
+        Transaction), then prior to negotiating with any Third Party to
+        license or sublicense such development or commercialization right,
+        Braeburn shall first notify Knight of its intent, provide to Knight
+        a copy of material data with respect to the development and
+        commercialization of such ROFN Product in Braeburns possession and
+        Control not previously provided to Knight and that shall be
+        reasonably sufficient to assess the ROFN Product (the Data Package
+        ), and shall, unless Knight notifies Braeburn in writing during
+        the ROFN Negotiation Period that it is not interested in acquiring
+        rights to a particular ROFN Product (a Knight Waiver Notice),
+        negotiate solely and in good faith with Knight for [***]) with
+        respect to mutually agreeable binding financial terms (Binding
+        Financial Terms) for the acquisition by Knight, by license,
+        sublicense, or otherwise, of the right to develop or Commercialize
+        the ROFN Product in the Territory (or the applicable part thereof).
+         [***].  All
+ 
+12
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        information provided by Braeburn to Knight pursuant to this Section
+        2.9 shall constitute Confidential Information of Braeburn.
+ 
+        (b)                                 If Knight delivers a Knight
+        Waiver Notice regarding a ROFN Product, then Braeburn may
+        subsequently offer a Third Party, or solicit offers from Third
+        Parties for, and take any action in furtherance of (including
+        providing information, participating in discussions, and/or
+        engaging advisors or agents), a license, sublicense or other
+        transfer of its rights to develop or Commercialize such ROFN
+        Product in the Territory (or any part thereof) (a Third Party
+        Offer), and Braeburn shall have no further obligations to Knight
+        regarding such ROFN Product.
+ 
+        (c)                                  If Knight does not provide a
+        Knight Waiver Notice and the Parties do not sign a letter related
+        the Binding Financial Terms with respect to the development or
+        commercialization of a ROFN Product during the ROFN Negotiation
+        Period, then Braeburn may [***].
+ 
+        (d)                                 Notwithstanding anything
+        contained herein to the contrary, it is agreed and acknowledged
+        that the rights and obligations of Knight and Braeburn under this
+        Section 2.9 shall apply only to potential licenses or sublicenses
+        of Braeburns right to develop or Commercialize a ROFN Product in
+        the Territory (or any part thereof) without a grant of rights with
+        respect to the ROFN Product in any other country or jurisdiction
+        (or any part thereof).  For clarity, the rights and obligations of
+        Knight and Braeburn under this Section 2.9 shall not apply to (i)
+        any sale or change of control of Braeburn or any of its Affiliates,
+        (ii) any sale or transfer of all or substantially all of the
+        assets, business or operations of Braeburn or any of its
+        Affiliates, or all or substantially all of the business or
+        operations of Braeburn or any of its Affiliates relating to any
+        ROFN Product, or (iii) any license, sublicense or other transfer of
+        Braeburns right to develop or Commercialize a ROFN Product that
+        relates to a geographic territory that includes the Territory and
+        at least one other country (each of (i)-(iii), without limitation,
+        an Excluded Transaction).
+ 
+    2.10                        Non-Competition.
+ 
+        (a)                                 During the Term, Knight will
+        not Promote, or permit its Affiliates to Promote, market or sell a
+        Competitive Product in the Territory, or acquire, or permit its
+        Affiliates to acquire, directly or indirectly any rights or
+        interest in or to any Competitive Product that is being Promoted,
+        marketed or sold in the Territory, if such Competitive Product has
+        Regulatory Approval for, or is otherwise not prohibited by a
+        Regulatory Authority from being marketed for, either the Initial
+        Indication or a Subsequent Indication other than Sublicensed
+        Product sublicensed to Knight under this Agreement. Notwithstanding
+        anything in the preceding sentence, Knight shall only be prohibited
+        from Promoting, marketing or selling a Competitive Product for a
+        Subsequent Indication if there is FDA Regulatory
+ 
+13
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        Approval for such Subsequent Indication prior to such time as
+        Knight begins to Promote, market or sell such Competitive Product.
+ 
+        (b)                                 During the Term, Braeburn will
+        not Promote, or permit its Affiliates to Promote, market or sell a
+        Competitive Product in the Territory, or acquire, or permit its
+        Affiliates to acquire, directly or indirectly any rights or
+        interest in or to any Competitive Product that is being Promoted,
+        marketed or sold in the Territory.
+ 
+        (c)                                  Subject to Section 2.9,
+        nothing in this Section 2.10 shall prevent either party from
+        marketing, in the Territory, pharmaceutical products other than
+        Sublicensed Products and Competitive Products, including
+        pharmaceutical products that contain buprenorphine with a treatment
+        duration of one week or one month.
+ 
+    3.                                      REGULATORY AND DEVELOPMENT
+ 
+    Following the NDA Transfer Date:
+ 
+    3.1                               General.  Subject to the terms and
+    conditions of this Agreement, Knight shall during the Term use
+    Commercially Reasonable Efforts to obtain and maintain Regulatory
+    Approval in the Territory for the Sublicensed Products for (a) the
+    Initial Indication and (b) any Subsequent Indication that receives
+    Regulatory Approval in any jurisdiction.  Without limiting the
+    foregoing, Knight shall file or cause to be filed with Health Canada a
+    Sublicensed Product NDS with respect to the Sublicensed Products and
+    the Initial Indication [***]. Knight will be solely responsible for all
+    costs associated with, or required for the approval of, the Sublicensed
+    Products by Health Canada and other applicable Regulatory Authorities
+    in the Territory.  Knight shall notify Braeburn of all Regulatory
+    Submissions relating to a Sublicensed Product in the Territory, and
+    provide Braeburn with (i) a written semiannual report summarizing in
+    reasonable detail Knights activities and progress related to the
+    development of the Sublicensed Products in the Territory, including
+    information regarding the status of Regulatory Submissions filed and
+    intended to be filed with Regulatory Authorities and Regulatory
+    Approvals in the Territory, (ii) a copy of any annual reports submitted
+    to Regulatory Authorities by or on behalf of Knight with respect to the
+    Sublicensed Products in connection with the periodic reporting
+    requirements set forth by Applicable Laws, and (iii) such other
+    information as may be reasonably requested by Braeburn or required
+    under the Titan Agreement.  [***].
+ 
+    3.2                               Regulatory Submissions.  With respect
+    to the Commercialization of the Sublicensed Products in the Territory:
+ 
+        (a)                                 Unless otherwise required by
+        Applicable Law, any Regulatory Approvals and all Regulatory
+        Submissions relating to Sublicensed Products in the Territory shall
+        be filed, owned and held in the name of Knight.
+ 
+        (b)                                 Knight shall be solely
+        responsible, at its expense, and shall use Commercially Reasonable
+        Efforts to timely prepare, file, prosecute, and maintain all
+        Regulatory
+ 
+14
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        Submissions relating to Sublicensed Products in the Territory,
+        including any reports or amendments necessary to maintain
+        Regulatory Approvals, and for seeking any revisions of the
+        conditions of each Regulatory Approval.
+ 
+        (c)                                  Knight shall have sole
+        authority and responsibility and shall use Commercially Reasonable
+        Efforts to develop, modify, seek and/or obtain any necessary
+        Regulatory Approvals of any Sublicensed Product Labeling,
+        packaging, advertising or other promotional or informational
+        materials used in connection with Sublicensed Products in the
+        Territory, and Promotional Materials and for determining whether
+        the same requires Regulatory Approval. Braeburn shall provide to
+        Knight copies of all material FDA Regulatory Submissions in its
+        possession and Control reasonably related to the Sublicensed
+        Products.
+ 
+        (d)                                 Knight will be the primary
+        contact with the Regulatory Authorities in the Territory and shall
+        be solely responsible for all communications with such Regulatory
+        Authorities that relate to any Regulatory Submission relating to
+        Sublicensed Products in the Territory prior to and after any
+        Regulatory Approval.
+ 
+        (e)                                  Subject to the terms and
+        conditions of this Agreement, Knight may file any submissions that
+        are intended to change or modify Sublicensed Product Labeling or
+        prescribing information approved by the applicable Regulatory
+        Authority for, or the Indications of, Sublicensed Products in the
+        Territory provided that, except as required by Applicable Laws, it
+        provides to Braeburn a draft of such submission at least [***]
+        Business Days prior to planned submission to the applicable
+        Regulatory Authority and gives prompt and reasonable consideration
+        to any comments Braeburn may have.
+ 
+        (f)                                   To the extent Braeburn
+        reasonably believes that a filing or submission relating to
+        Sublicensed Products in the Territory is required by Applicable
+        Laws in order to sell or continue selling the Sublicensed Products,
+        Braeburn shall notify Knight in writing.  If Knight decides not to
+        prepare such filing or submission, it shall promptly notify
+        Braeburn of such decision and Braeburn shall, acting reasonably, be
+        entitled to prepare such filing or submission, [***], to be filed
+        or submitted by Knight; provided that Braeburn shall use good faith
+        efforts to include any comments of Knight in such filing or
+        submission.
+ 
+        (g)                                  Knight shall permit Braeburn
+        to access, and shall provide Braeburn on a timely basis with the
+        right to cross-reference and use in exercising its rights and
+        performing its obligations hereunder with respect to Sublicensed
+        Products in the Territory and for Braeburn to use in connection
+        with the development and commercialization of Sublicensed Products
+        outside of the Territory, any and all Regulatory Submissions
+        related to the Sublicensed Products Controlled by Knight.  At the
+        request of Braeburn and to the extent legally permitted and in
+        accordance with the terms and conditions of this Agreement, Knight
+        shall notify the appropriate Regulatory Authorities, as applicable,
+        of Braeburns right to
+ 
+15
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        reference such Regulatory Submissions in regulatory submissions
+        filed by Braeburn in accordance with this Agreement.
+ 
+        (h)                                 Braeburn shall permit Knight to
+        access, and shall provide Knight on a timely basis with the right
+        to cross-reference and use in exercising its rights and performing
+        its obligations hereunder with respect to Sublicensed Products in
+        the Territory (including for Knight to use in connection with its
+        Commercialization of Sublicensed Products in the Territory), any
+        and all Regulatory Submissions related to the Sublicensed Products
+        Controlled by Braeburn.  At the request of Knight and to the extent
+        legally permitted and in accordance with the terms and conditions
+        of this Agreement, Braeburn shall notify the appropriate Regulatory
+        Authorities in the Territory of Knights right to reference such
+        Regulatory Submissions in regulatory submissions filed by Knight in
+        accordance with this Agreement.
+ 
+    3.3                               Regulatory Correspondence.  Each
+    Party shall notify the other Party within [***] of its receipt of
+    information that: (i) raises any concern regarding the safety of any
+    Sublicensed Product(s); (ii) concerns suspected or actual tampering,
+    counterfeiting or contamination or other similar problems with respect
+    to any Sublicensed Product(s); (iii) is reasonably likely to lead to a
+    Recall or market withdrawal of any Sublicensed Product(s); or (iv)
+    concerns any ongoing or potential investigation, inspection, detention,
+    seizure or injunction by a Regulatory Authority involving any
+    Sublicensed Product(s).  Each Party shall provide the other Party with
+    copies of any such information.  In the event that a Party receives any
+    material regulatory letter requiring a response, the other Party will
+    cooperate fully with the receiving Party in preparing such response and
+    will promptly provide the receiving Party with any data or information
+    reasonably required by the receiving Party in preparing any such
+    response.
+ 
+    3.4                               Other Covenants of Knight.  In
+    addition to its other obligations, commitments and undertakings set out
+    in this Agreement, Knight agrees to:
+ 
+        (a)                                 [***] related to the
+        Commercialization of the Sublicensed Products in the Territory;
+ 
+        (b)                                 use Commercially Reasonable
+        Efforts to obtain pricing and, if applicable, reimbursement
+        approval for the Sublicensed Products in the Territory;
+ 
+        (c)                                  [***] of the Sublicensed
+        Products to customers in the Territory; and
+ 
+        (d)                                 prepare an annual marketing and
+        sales plan relating to the Sublicensed Products in the Territory.
+ 
+    3.5                               Other Covenants of Braeburn.  In
+    addition to its other obligations, commitments and undertakings set out
+    in this Agreement, Braeburn agrees to:
+ 
+16
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (a)                                 provide Knight with all
+        relevant documentation relating to the submissions for Regulatory
+        Approval to the FDA or the European Medicines Agency (EMA) for
+        the Sublicensed Products within [***] from such FDA or EMA
+        submissions;
+ 
+        (b)                                 where applicable, provide
+        reasonable assistance to Knight with Regulatory Submissions
+        concerning Sublicensed Products in the Territory;
+ 
+        (c)                                  provide full assistance and
+        cooperation with respect to securing intellectual property
+        protection in the Territory for the Sublicensed Products;
+ 
+        (d)                                 assume the reasonable costs of
+        intellectual property filings, procurement and maintenance for all
+        intellectual property applications and registrations associated
+        with the Sublicensed Products in the Territory;
+ 
+        (e)                                  not assign the intellectual
+        property associated with Sublicensed Products to any Third Party;
+        and
+ 
+        (f)                                   coordinate Launch activities
+        with Knight, including pharmacovigilance, pricing, reimbursement,
+        positioning and health care conferences; and
+ 
+        (g)                                  promptly provide copies of
+        marketing and sales materials related to the Sublicensed Products
+        used by Braeburn in the United States.
+ 
+    3.6                               For avoidance of doubt, in the event
+    that the Initial Indication does not receive Regulatory Approval,
+    Knight shall continue to benefit from the rights granted hereunder with
+    respect to Subsequent indications.
+ 
+    3.7                               For the avoidance of doubt, except as
+    expressly provided herein, Knights rights and obligations under this
+    Section 3 shall apply to any Subsequent Indication as contemplated by
+    Section 3.1; provided, that any such rights and obligations with
+    respect to Subsequent Indications following Launch shall apply only to
+    Subsequent Indications that receive Regulatory Approval in the
+    Territory
+ 
+    4.                                      TRADEMARKS
+ 
+    4.1                               Trademark License.  Subject to the
+    terms and conditions of this Agreement, Braeburn hereby grants to
+    Knight, for the Term, an exclusive, fully paid, right and license to
+    use the Braeburn Marks and Sublicensed Product Trademarks on or in
+    connection with the Commercialization of Sublicensed Products in the
+    Territory following the NDA Transfer Date. All representations of the
+    Braeburn Mark(s) and Sublicensed Product Trademark(s) that Knight
+    intends to use, if not previously approved by Braeburn, will first be
+    submitted to Braeburn for approval, such approval not to be
+    unreasonably withheld, conditioned or delayed.
+ 
+17
+------------------------------------------------------------------------
+ 
+     
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    4.2                               Ownership.  Knight acknowledges that
+    the Braeburn Marks and Sublicensed Product Trademarks are owned or
+    licensed by Braeburn.  The Braeburn Marks and Sublicensed Product
+    Trademarks shall be and remain the sole and exclusive property of
+    Braeburn.  Knight shall not contest the ownership of the Braeburn Marks
+    or the Sublicensed Product Trademarks or the validity of any
+    registration relating thereto or assist any Third Party in doing so. 
+    Knight agrees, at the request of Braeburn, to execute any and all
+    proper and reasonable documents appropriate to assist Braeburn in
+    obtaining and maintaining Braeburns rights in and to the Braeburn
+    Marks and Sublicensed Product Trademarks.
+ 
+    4.3                               Sublicensed Products to Bear Mark. 
+    All packaging materials, package inserts, labels, labeling, and
+    marketing, sales, advertising and Promotional Materials relating to
+    Sublicensed Products distributed by Knight under this Agreement shall
+    bear the Braeburn Marks and Sublicensed Product Trademarks together
+    with a notice that the such marks are used under license from Braeburn,
+    subject to the approval of such labeling by appropriate Governmental
+    Authorities. Knight shall submit to Braeburn, for prior approval, which
+    shall not be unreasonably withheld, conditioned or delayed, all
+    materials bearing the Braeburn Marks and/or Sublicensed Product
+    Trademarks that Knight intends to use with respect to Sublicensed
+    Products.
+ 
+    4.4                               Enforcement.  Braeburn and Knight
+    shall cooperate with each other and use Commercially Reasonable Efforts
+    to protect the Braeburn Marks and Sublicensed Product Trademarks from
+    infringement by Third Parties.  Without limiting the foregoing, each
+    Party shall promptly notify the other Party of any known, threatened or
+    suspected infringement, imitation or unauthorized use of or unfair
+    competition relating to the Braeburn Marks and Sublicensed Product
+    Trademarks and shall share with the other Party all information
+    available to it regarding such infringement.  Braeburn shall have the
+    first right to determine in its discretion whether to and to what
+    extent to institute, prosecute and/or defend any action or proceedings
+    involving or affecting any rights relating to the Braeburn Marks and
+    Sublicensed Product Trademarks in the Territory.  Upon Braeburns
+    reasonable request, Knight shall cooperate with and assist Braeburn in
+    any of Braeburns enforcement efforts with respect to the Braeburn
+    Marks and Sublicensed Product Trademarks in the Territory. If Braeburn
+    determines not to take action against any actual or suspected
+    infringement of the Sublicensed Product Trademark in the Territory
+    within [***] days after having become aware of such infringement, then
+    Knight shall have the right, but not the obligation, to bring or assume
+    control of any action against the allegedly infringing Third Party as
+    Knight determines may be necessary in its sole discretion, to the
+    extent permitted under the Titan Agreement.  In the event that Knight
+    brings or assumes control of any such action, then Braeburn agrees to
+    reasonably assist Knight in connection therewith.  [***].
+ 
+    4.5                               No Similar Mark.  Neither Knight nor
+    any of its Affiliates or sublicensees will, without Braeburns prior
+    written consent, register or use in connection with the
+    Commercialization of any product other than a Sublicensed Product under
+    the Braeburn
+ 
+18
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    Marks or the Sublicensed Product Trademarks or any trade-mark that is
+    confusingly similar to the Braeburn Marks or the Sublicensed Product
+    Trademarks.
+ 
+    5.                                      COMMERCIALIZATION
+ 
+    5.1                               General.
+ 
+        (a)                                 Subject to the terms and
+        conditions of this Agreement, Knight shall during the Term use
+        Commercially Reasonable Efforts to Commercialize and Promote the
+        Sublicensed Products in the Territory following the Regulatory
+        Approval in the Territory.
+ 
+        (b)                                 Without limiting the generality
+        of the foregoing, and in accordance with the Commercialization
+        Plan, Knight shall (i) Launch Sublicensed Product for the Initial
+        Indication and each Subsequent Indication in the [***]; (ii)
+        expend, in connection with such Launch of Sublicensed Product, such
+        amounts as are commercially reasonable in connection with the
+        marketing and Promotion of Sublicensed Products in the Territory,
+        with the objective of maximizing the commercial potential and
+        promoting the therapeutic profile and benefits of the Sublicensed
+        Products; and (iii) devote marketing and sales resources and other
+        personnel to such commercialization consistent with such
+        Commercially Reasonable Efforts.
+ 
+    5.2                               Commercialization Plan and
+    Promotional Materials and Activities.
+ 
+        (a)                                 Promotional Materials shall be
+        subject to Braeburns approval, such approval not to be
+        unreasonably withheld, conditioned or delayed.  Knight will prepare
+        an initial Commercialization Plan, which will be provided to
+        Braeburn no later than [***] days prior to estimated receipt of
+        Regulatory Approval for the Sublicensed Product for the Initial
+        Indication in the Territory, as mutually agreed by the Parties. 
+        Knight shall also provide to Braeburn (i) updates of the
+        Commercialization Plan at least [***] days prior to the estimated
+        Launch of the Sublicensed Product for the Initial Indication and,
+        if applicable, each Subsequent Indication, and thereafter on an
+        annual basis or as necessary to reflect any significant amendments
+        to the Commercialization Plan last provided to Braeburn under this
+        Section 5.2(a), (ii) updated information regarding the expected and
+        actual date of Launch for the Initial Indication and each
+        Subsequent Indication, and (iii) any sales or tracking reports
+        received by Knight from Third Parties with respect to the
+        Sublicensed Products.  Notwithstanding anything to the contrary in
+        this Agreement, Braeburn may share the Commercialization Plan and
+        the foregoing information with Titan to the extent required by the
+        Titan Agreement.
+ 
+        (b)                                 All Promotional Materials used
+        by Knight will indicate that a Sublicensed Product is sold under
+        license from Titan and Braeburn.  Knight shall limit its
+        statements, discussions and claims regarding Sublicensed Products,
+        including those as to
+ 
+19
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        safety and efficacy, to those that are consistent with the
+        Sublicensed Product Labeling and the Promotional Materials.  Knight
+        shall not distort claims of safety or efficacy in the Promotion of
+        the Sublicensed Products.
+ 
+        (c)                                  Knight shall be solely
+        responsible for preparing all Regulatory Submissions with
+        Regulatory Authorities in the Territory regarding approval of all
+        Promotional Materials that require such approval.
+ 
+        (d)                                 Knight and its sublicensees and
+        Third Party contractors shall be responsible for responding to
+        medical questions or inquiries from members of the medical and
+        paramedical professions and consumers in or relating to the
+        Territory regarding Sublicensed Products, including the
+        distribution of standard medical information letters resulting from
+        the marketing activities of the Knight Sales Force.  The Knight
+        Sales Force shall be trained using Braeburns training materials,
+        except as otherwise required by Applicable Laws in the Territory. 
+        Braeburn shall refer all medical inquiries that it receives related
+        to the Territory to Knight.  Knight shall provide copies of the
+        responses given, all in accordance with Applicable Laws, including
+        regulations and policies of Health Canada or the applicable
+        Regulatory Authority, to Braeburn.  Braeburn shall, at Knights
+        request, from time to time, assist Knight with the formulation of
+        responses to such inquiries, including the content of any
+        frequently asked questions materials.  If mutually agreed by the
+        Parties, the Parties shall establish a centralized database to
+        document and track medical inquiries. Braeburn shall provide
+        information and access to data, records and reports reasonably
+        requested by Knight to fulfill its obligations under this Section
+        5.2(d).
+ 
+        (e)                                  Knight covenants that the
+        Knight Sales Force shall (i) limit its claims of efficacy and
+        safety for the Sublicensed Products in the Territory to those that
+        are consistent with the prescribing information approved by the
+        applicable Regulatory Authority for Sublicensed Products in the
+        Territory; (ii) not add, delete or modify claims of efficacy and
+        safety in the Promotion of Sublicensed Products under this
+        Agreement from those claims of efficacy and safety that are
+        consistent with the prescribing information approved by the
+        applicable Regulatory Authority and with Applicable Law; (iii) use
+        the Promotional Materials in accordance with this Section 5.3; and
+        (iv) Promote Sublicensed Products under this Agreement in
+        accordance with Applicable Laws, and in compliance with the then
+        current industry standards concerning interactions with healthcare
+        professionals.
+ 
+    5.3                               Safety Data Exchange Agreement.
+ 
+        (a)                                 The Parties agree to develop
+        and commit to a SDEA that allows them to fulfill their respective
+        regulatory and pharmacovigilance obligations relating to Adverse
+        Experience reporting to Regulatory Authorities in accordance with
+        Applicable Laws.  Such SDEA will be completed within [***] days
+        after the Effective Date and prior to Launch.  Knight shall be
+        responsible for the timely filing with the
+ 
+20
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        applicable Regulatory Authority of all Adverse Experience reports
+        in the Territory.  The SDEA shall provide for the exchange of
+        safety information between the Parties sufficient to enable each
+        Party to comply with its legal obligations to report to the
+        applicable Regulatory Authority, for Braeburn to comply with the
+        Titan Agreement, and include any measures necessary for each Party
+        to comply with Applicable Laws.  Each Party shall promptly provide
+        the other Party with copies of all such reports, analyses,
+        summaries and all submissions to the applicable Regulatory
+        Authority. The Adverse Experience procedures utilized in the
+        preparation and filing of such reports will incorporate the
+        provisions set forth in Section 5.3(b).
+ 
+        (b)                                 Prior to Launch, Knight will
+        establish a system for the reporting of Adverse Experiences by
+        patients, physicians and others that is customary for the Territory
+        and that complies with all Applicable Laws.  [***].  Knight or a
+        Third Party contractor will timely collect reasonable information
+        about the Adverse Experiences, initiate and conduct reasonably
+        required investigations, interact with Braeburn if physical or
+        other testing of a Sublicensed Product appears to be reasonably
+        required, determine the nature of the Adverse Experience based on
+        data and reports it has obtained, and issue any reports, analyses
+        or summaries of its activities as may be required by Applicable
+        Laws.  Copies of such reports will be promptly provided to
+        Braeburn.
+ 
+        (c)                                  All safety related reports and
+        correspondence shall be addressed to such safety representative as
+        may be designated by Braeburn and Knight.
+ 
+    5.4                               Quality Complaint Reporting.  Knight
+    shall be solely responsible for collecting and responding to any
+    product quality complaint relating to the Sublicensed Products received
+    from a customer in or relating to the Territory and resulting from use
+    in the Field.  Knight shall investigate and provide Braeburn, in a
+    timely manner, with reports resulting from such investigations. If
+    Braeburn receives a product quality complaint relating to the
+    Sublicensed Products from a customer in or relating to the Territory
+    resulting from use in the Field, it shall promptly notify Knight of
+    such complaint, and Knight will investigate and promptly report the
+    investigation results to Braeburn and be solely responsible for
+    communication and response, if any, to any customer(s) in the
+    Territory. Furthermore, Braeburn shall also be responsible for
+    investigating and reporting the investigation results to Knight
+    respecting any product quality complaints related to the manufacturing
+    of the Sublicensed Products.
+ 
+    5.5                               Other Information.  In addition to
+    the foregoing information to be provided, each Party shall provide to
+    the other Party with any: (i) information relating to the efficacy
+    and/or safety of the Sublicensed Products, including any Recall of the
+    Sublicensed Products; (ii) complaints from customers, healthcare
+    professionals or competitors in or relating to the Territory and
+    relating to the Sublicensed Products; (iii) information relating to any
+    potential liability to any Third Party in or relating to the Territory
+    that is reasonably likely
+ 
+21
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    to arise for either Party in connection with the manufacture, or
+    Commercialization of the Sublicensed Products in or for the Territory;
+    (iv) information relating to any inspections, inquiries, issues raised
+    or actions taken by any Governmental Authority in or related to the
+    Territory; and (v) any other information necessary or reasonably
+    desirable to enable each Party to comply with any Applicable Laws in
+    the Territory or elsewhere.
+ 
+    5.6                               Recall.  If any Regulatory Authority
+    in the Territory issues or requests a recall, market withdrawal or
+    other corrective action (a Recall) of a Sublicensed Product, or if
+    either Party determines that an event, incident or circumstance has
+    occurred that may indicate the need for a Recall in the Territory, the
+    Party notified of such Recall, or the Party that desires such Recall,
+    will advise the other Party thereof by telephone or fax within [***] of
+    (i) its receipt of notice from a Regulatory Authority requiring or
+    requesting a Recall or (ii) such Partys determination that a Recall is
+    indicated, and Braeburn and Knight shall convene a joint telephonic
+    meeting to discuss such Recall request within [***] of such
+    notification.  Knight shall include any reasonable recommendation from
+    Braeburn as to the manner of conducting the Recall, provided that such
+    recommendation is agreeable to the applicable Regulatory Authority and
+    in accordance with the Applicable Laws.  Except as otherwise provided
+    in the foregoing, Knight shall make all decisions with respect to the
+    execution of any Recall related to a Sublicensed Product in the
+    Territory, including communicating directly with the applicable
+    Regulatory Authorities.  At Knights request, Braeburn shall provide,
+    at its cost reasonable assistance in conducting any such Recall,
+    including providing all pertinent records that Knight may reasonably
+    request to assist in effecting such action.  Neither Party shall have
+    any obligation to reimburse or otherwise compensate the other Party or
+    its Affiliates for any consequential damages, lost profits or income
+    that may arise in connection with any Recall with respect to the
+    Sublicensed Products.
+ 
+    5.7                               NDA Transfer Date.  [***].
+ 
+    6.                                      PRICES AND PAYMENTS
+ 
+    6.1                               Royalties.  In consideration of the
+    rights granted by Braeburn hereunder, during the Term, Knight will pay
+    to Braeburn the following royalties (Royalties):
+ 
+    [***]
+ 
+    [***] following Launch, Braeburn is paying royalties to Titan under the
+    Titan Agreement in the amount of [***] of net sales (as described in
+    the Titan Agreement), then the Base royalty and the Tier 1 royalty
+    shall be [***].  To the extent royalty rights are successfully
+    renegotiated with Titan, Knights royalty rates shall remain as
+    contemplated by (a) through (d) above.
+ 
+    6.2                               Supply Price.  Knight will pay
+    Braeburn under the Supply Agreement a supply price for each final
+    packaged kit containing four Sublicensed Product implant rods and
+    applicator in an amount equal to [***] (the Supply Price).  Nothing
+    other than the final packaged
+ 
+22
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    kit manufactured and/or supplied by Braeburn hereunder or under the
+    Supply Agreement and included in the Supply Price is required by Knight
+    to fully commercialize the Sublicensed Product in the Territory.  In
+    the event Braeburn changes the format of the packaging or number of
+    rods contained within each final packaged kit, the Supply Price will be
+    recalculated to reflect an amount equal to [***].  In the event there
+    are greater-than-anticipated cost increases for the manufacture of
+    Sublicensed Products, Braeburn will be entitled to increase the Supply
+    Price [***] (Supply Price Increase).
+ 
+    6.3                               Reports and Payments.
+ 
+        (a)                                 Within [***] calendar days
+        after the end of each Calendar Quarter following Launch that begins
+        or ends during the Term, Knight shall furnish to Braeburn a written
+        report (each, a Royalty Report) showing:
+ 
+            (i)                                     all Net Sales during
+            (A) such Calendar Quarter, [***], and (B) the Calendar Year to
+            date through the end of such Calendar Quarter; and
+ 
+            (ii)                                  [***]; and
+ 
+            (iii)                               [***](a Royalty True-Up
+            ).
+ 
+        (b)                                 Each such Royalty Report shall
+        be accompanied by payment of the Royalties due under Section 6.1,
+        plus or minus any adjustment of Royalties previously paid,
+        calculated in accordance with the immediately preceding clause
+        (a)(iii) of this Section 6.3, as applicable.
+ 
+        (c)                                  Within [***] days after the
+        Calendar Quarter during which this Agreement terminates or expires
+        (the Final Royalty Period), Knight shall furnish to Braeburn a
+        final Royalty True-Up with respect to such Calendar Quarter (the 
+        Final Royalty True-Up Report).  If the Final Royalty True-Up
+        Report indicates that additional Royalties are payable with respect
+        to the Final Royalty Period, such Final Royalty True-Up Report
+        shall be accompanied by payment of such additional Royalties.  If
+        the Final Royalty True-Up Report indicates that Royalties were
+        overpaid with respect to the Final Royalty Period, Braeburn shall
+        pay to Knight an amount equal to such overpayment within [***] days
+        following the delivery of the Final Royalty True-Up to Braeburn. 
+        If Braeburn disagrees with the Final Royalty True-Up Report,
+        Braeburn shall notify Knight within [***] days after receipt
+        thereof and such disagreement shall be resolved pursuant to Section
+        6.5 below.
+ 
+        (d)                                 Knight shall keep and shall
+        require its Affiliates and its or their sublicensees to keep
+        complete and accurate records in connection with the purchase, use
+        and/or sale by or for it of Sublicensed Products hereunder in
+        sufficient detail to permit accurate determination of all amounts
+        necessary for calculation and verification of all payment
+        obligations set forth in this Article 6.
+ 
+23
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (e)                                  Without limiting any Partys
+        remedies hereunder, in the event payments required to be made under
+        this Section 6.3 or any other provision of this Agreement are not
+        made on or prior to the required payment date, the amount of the
+        late payment shall bear interest [***], or the maximum rate
+        allowable by Applicable Law, whichever is lower.
+ 
+        (f)                                   Except as otherwise defined
+        herein, all financial calculations by either Party under this
+        Agreement shall be calculated in accordance with its Accounting
+        Standards.  All payments due by one Party to the other Party under
+        this Agreement shall be payable in United States Dollars, except as
+        otherwise set forth in this Agreement.  In addition, all
+        calculations herein shall give pro-rata effect to and shall
+        proportionally adjust (by giving effect to the number of applicable
+        days in such Calendar Quarter) for any Calendar Quarter that is
+        shorter than a standard Calendar Quarter or any Calendar Year (or
+        twelve month period) that is shorter than four consecutive full
+        Calendar Quarters or twelve consecutive months, as applicable.
+ 
+    6.4                               Record Retention.  Knight will
+    maintain complete and accurate books, records, and accounts in
+    sufficient detail to confirm the accuracy of any payments required
+    under this Agreement and the Royalty Reports delivered under Section
+    6.3, which books, records, and accounts will be retained until [***]
+    years after the end of the period to which such books, records, and
+    accounts pertain.
+ 
+    6.5                               Audits.
+ 
+        (a)                                 Independent Audit.
+ 
+            (i)                                     During the Term and for
+            [***] years thereafter, Braeburn, upon prior written notice to
+            Knight and at a mutually agreeable time, but in no event more
+            than once in any [***] month period, may request, and Knight
+            shall permit, an independent certified public accounting firm
+            of internationally recognized standing selected by Braeburn and
+            reasonably acceptable to the Knight, to have access during
+            normal business hours to the records of Knight as may be
+            reasonably necessary to verify any payment made or due
+            hereunder and the accuracy of the reports, including the
+            Royalty Report; provided, however, that any audit conducted
+            under this Section 6.5 may only be for any Calendar Year or
+            Calendar Years (or any portion thereof) ending not more than
+            [***] months prior to the date of such request. The accounting
+            firm shall disclose to Braeburn only whether the payments and
+            reports are correct or incorrect, the specific details
+            concerning any discrepancies (including, if applicable, the
+            accuracy of the calculation of Net Sales, and the resulting
+            effect of such calculations on the amounts payable by Knight
+            under this Agreement), but no other information shall be
+            disclosed to Braeburn.
+ 
+24
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+            (ii)                                  If there is a dispute
+            between the Parties following any audit performed pursuant to
+            Section 6.5(a)(i), either Party may refer the issue (an Audit
+            Disagreement) to a second independent certified public
+            accounting firm of internationally recognized standing (the 
+            Independent Expert) for resolution. In the event an Audit
+            Disagreement is submitted for resolution by either Party, the
+            Parties shall comply with the following procedures: [***].
+ 
+        (b)                                 If, pursuant to Section
+        6.5(a)(i) or 6.5(a)(ii), as applicable, an accounting firm
+        concludes that additional amounts were owed during a Calendar Year,
+        Knight shall pay the additional amounts plus interest as set forth
+        in Section 6.3(e) above on the amount of such additional payments,
+        within [***] calendar days of the date such accounting firms
+        written report so concluding is delivered to Knight.  In the event
+        such accounting firm concludes that amounts were overpaid by Knight
+        during such period, Braeburn shall, to the extent such overpayment
+        was known to Braeburn, repay Knight the amount of such overpayment
+        plus interest as set forth in Section 6.3(e) above on the amount of
+        such overpayment, within [***] days after the date such accounting
+        firms written report so concluding is delivered to Braeburn, or,
+        to the extent such overpayment was not known to Braeburn, Knight
+        may reduce subsequent payment(s) to Braeburn under this Agreement
+        by the amount of such overpayment.  The fees charged by such
+        accounting firm(s) shall be paid [***].
+ 
+        (c)                                  Each Party shall treat all
+        financial information subject to review under this Section 6.5 in
+        accordance with the confidentiality provisions of Article 10.
+ 
+    6.6                               Payment Method.  All payments due to
+    Braeburn hereunder will be paid in United States Dollars by wire
+    transfer to an account designated by Braeburn.
+ 
+    7.                                      MANUFACTURE AND SUPPLY
+ 
+    7.1                               Manufacture and Supply by Braeburn. 
+    During the Term, Knight agrees to obtain exclusively from Braeburn all
+    Knights requirements of the Sublicensed Products for the Territory at
+    the Supply Price and otherwise on the terms and subject to the
+    conditions of a manufacturing and supply agreement in customary form
+    for the pharmaceutical industry to be mutually agreed between the
+    Parties following the Effective Date (the Supply Agreement);
+    provided, that the Parties shall negotiate in good faith and use
+    Commercially Reasonable Efforts to execute and deliver the Supply
+    Agreement within [***].  Subject to the execution and delivery of the
+    Supply Agreement, Braeburn agrees to supply Knight with all of its
+    requirements of Sublicensed Products for Commercialization in the
+    Territory during the Term.  For the avoidance of doubt, Braeburn may,
+    at its discretion, use the services of a Third Party to manufacture
+    and/or package some or all of the Sublicensed Products supplied to
+    Knight under the Supply Agreement.
+ 
+25
+------------------------------------------------------------------------
+ 
+     
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    7.2                               Quality Agreement.  To the extent
+    Braeburn manufactures Sublicensed Products supplied to Knight under the
+    Supply Agreement, as required under Applicable Laws, or as reasonably
+    requested by a Party, the Parties shall enter into a separate quality
+    agreement in customary form for the pharmaceutical industry mutually
+    agreed by the Parties regarding the supply, quality control and quality
+    assurance of Sublicensed Products supplied to Knight under the Supply
+    Agreement (the Quality Agreement).
+ 
+    7.3                               Conflicts.  Except as may be
+    expressly set forth in the Supply Agreement or Quality Agreement, in
+    the event of any conflict or inconsistency between the terms and
+    conditions of the Supply Agreement or Quality Agreement, on the one
+    hand, and this Agreement, on the other hand, the Supply Agreement or
+    Quality Agreement, as applicable, shall govern and control with respect
+    to all matters relating to the manufacturing, supply, quality control
+    and quality assurance of or relating to the Sublicensed Products
+    supplied to Knight under the Supply Agreement, and this Agreement shall
+    govern and control with respect to all other matters.
+ 
+    8.                                      INTELLECTUAL PROPERTY
+ 
+    8.1                               Ownership.  As between the Parties,
+    Braeburn shall have and retain all right, title and interest in or
+    Control over, as applicable, all Braeburn Patents, inventions,
+    discoveries, and Braeburn Know-How concerning Sublicensed Products,
+    including formulations thereof, or methods of making or using same
+    which have been made, conceived, reduced to practice or generated by
+    its employees, agents, or other persons acting under its authority
+    prior to the Effective Date.  As between the Parties, during the Term,
+    except as otherwise provided in and subject to the terms and conditions
+    of this Agreement, Braeburn shall have and retain all rights, title and
+    interest in all inventions, discoveries and know-how relating to
+    Sublicensed Products, including formulations thereof, or methods of
+    making or using same, or Improvements thereof (collectively, 
+    Inventions), that are made, conceived, reduced to practice or
+    generated, whether solely or jointly, by Braeburns employees, agents,
+    or other persons acting under its authority and/or by Knights
+    employees or agents, or, to the extent Knight becomes aware of any such
+    Inventions, by other persons acting under its authority.  Knight shall
+    notify Braeburn promptly of any Inventions that are made, conceived,
+    reduced to practice or generated solely by Knights employees, agents,
+    or other persons acting under its authority.  To the extent required by
+    Applicable Law, Knight shall assign or otherwise transfer all rights,
+    title and interest in any of the foregoing Inventions to Braeburn, and
+    Knight agrees, at the request of Braeburn, to execute any and all
+    proper documents appropriate to assist Braeburn in obtaining and
+    maintaining Braeburns rights in and to the foregoing Inventions.
+ 
+    8.2                               Patent Prosecution.  Braeburn shall
+    have the first right to prosecute and maintain the Braeburn Patents and
+    any patent application(s) or patent(s) arising from this Agreement,
+    using patent counsel selected by Braeburn, and shall be responsible for
+    the payment of all prosecution and maintenance costs. Braeburn shall
+    not abandon prosecution or
+ 
+26
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    maintenance of any or all patents or patent applications directly
+    related to the Sublicensed Products in the Territory without notifying
+    Knight in a timely manner of Braeburns intention and reason therefore
+    and providing Knight with reasonable opportunity to comment upon such
+    abandonment and to assume responsibility for prosecution or maintenance
+    of such Patent Rights.  To the extent allowed under the Titan
+    Agreement, in the event that Braeburn abandons prosecution or
+    maintenance of any or all patents or patent applications directly
+    related to the Sublicensed Products in the Territory, Knight may assume
+    prosecution and filing responsibility for such Patent Rights in the
+    Territory, at its sole expense, and thereafter such patent rights will
+    be owned solely and exclusively by Knight.
+ 
+    8.3                               Notification of Third Party
+    Infringement.  Each Party shall promptly disclose to the other in
+    writing, and share within [***] Business Days all available information
+    known to the Party in connection with any actual, suspected, alleged,
+    or threatened infringement or misappropriation of any Braeburn Patent,
+    or any actual, suspected, alleged or threatened infringement or passing
+    off of the Braeburn Mark, in the Territory, of which such Party becomes
+    aware.  The Parties will thereafter consult and cooperate to determine
+    a course of action, including the commencement of legal action by any
+    Party.
+ 
+    8.4                               Response to Third Party Infringement
+    .
+ 
+        (a)                                 Braeburn shall have the first
+        right, but not any obligation, to initiate and respond to any
+        actual or threatened infringement of a Braeburn Patent, the
+        Braeburn Mark or of any unfair trade practices, trade dress
+        imitation, passing off of counterfeit goods, or like offenses in
+        the Territory relating to the Sublicensed Products.  If Braeburn
+        elects to respond to any actual or threatened infringement by
+        initiating a proceeding, Braeburn shall use legal counsel of its
+        choice at its expense and shall have full control over the conduct
+        of such proceeding, including whether to initiate any legal
+        proceeding and/or the settlement thereof.  Braeburn may settle or
+        compromise any such proceeding without the consent of Knight;
+        provided, however, that if such settlement adversely affects
+        Knights rights under this Agreement, or Knights ability to
+        Commercialize the Sublicensed Products within the Territory, or
+        otherwise requires Knight to admit wrongdoing, fault, or liability,
+        Braeburn will not settle or compromise any such proceeding without
+        the consent of Knight, such consent not to be unreasonably
+        withheld, conditioned or delayed.
+ 
+        (b)                                 If, within a period of [***]
+        days after the first notice of infringement is provided under
+        Section 8.4, Braeburn elects not to initiate and respond to any
+        actual or threatened infringement of a Braeburn Patent, a Braeburn
+        Mark or of any unfair trade practices, trade dress imitation,
+        passing off of counterfeit goods, or like offenses in the Territory
+        relating to the Sublicensed Products, then Knight shall have the
+        right, but not the obligation, to take action, at its sole expense
+        and to the extent permitted under the Titan Agreement, in which
+        case Knight shall have full control over the conduct of such
+        proceeding and Knight may settle or compromise
+ 
+27
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        any such proceeding without the consent of Braeburn; provided,
+        however, that if such settlement adversely affects Braeburns
+        intellectual property rights or its rights under this Agreement, or
+        Braeburns ability to Commercialize the Sublicensed Products
+        outside the Territory, results in any monetary payment by or
+        financial loss to Braeburn or otherwise requires Braeburn to admit
+        wrongdoing, fault, or liability, Knight will not settle or
+        compromise any such proceeding without the consent of Braeburn,
+        such consent not to be unreasonably withheld, conditioned or
+        delayed.  Knight shall be solely responsible for any legal costs or
+        damages awards made in any proceeding that is initiated by Knight
+        in the event that Braeburn elects not to respond to any actual or
+        threatened infringement.
+ 
+    8.5                               Cooperation.  Each Party shall
+    cooperate reasonably, at its expense, in any enforcement effort
+    initiated by the other Party. The Parties nor their Affiliates shall
+    contest any joinder in any proceeding sought to be brought by the other
+    Party if such joinder is required by Applicable Law.  For any legal
+    action or defense described in Section 8.4 above, in the event that any
+    Party is unable to initiate, prosecute or defend such action solely in
+    its own name, the other Party will join such action voluntarily and
+    will execute all documents necessary for the Party to defend, prosecute
+    and maintain such action.  In connection with any such action, the
+    Parties will cooperate fully and will provide each other with any
+    information or assistance that either reasonably may request.
+ 
+    8.6                               Recovery.  Except as otherwise agreed
+    to by the Parties as part of a cost-sharing arrangement, any monetary
+    award recovered from a Third Party in connection with any proceeding
+    described in Section 8.4 above shall be [***]:
+ 
+        [***]
+ 
+    8.7                               Infringement of Third Party IP.
+ 
+        (a)                                 If either Party becomes aware
+        that its activities performed hereunder may constitute actual or
+        alleged infringement or misappropriation of the intellectual
+        property rights of a Third Party in the Territory, it shall
+        promptly notify the other Party and the Parties shall discuss a
+        strategy to defend or mitigate against any actual or alleged
+        infringement.
+ 
+        (b)                                 Braeburn shall have the first
+        right, but not the obligation, to defend any action in the
+        Territory related to the intellectual property rights of any Third
+        Party or to initiate and prosecute legal action related to the
+        intellectual property rights of any Third Party at its own expense
+        and in the name of Braeburn and/or Knight.  Knight shall render, at
+        its expense, all assistance reasonably requested in connection with
+        any action taken by Braeburn. However, the control of such action,
+        including whether to initiate any legal proceeding and/or the
+        settlement thereof, shall solely be under the control of Braeburn;
+        provided, however, that if such settlement adversely affects
+        Knights rights under this Agreement, or Knights ability to
+        Commercialize the Sublicensed Products within the Territory,
+ 
+28
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        or otherwise requires Knight to admit wrongdoing, fault, or
+        liability, Braeburn will not settle or compromise any such
+        proceeding without the consent of Knight, such consent not to be
+        unreasonably withheld, conditioned or delayed.
+ 
+        (c)                                  If Braeburn elects not to
+        defend an infringement action in the Territory as provided in
+        Section 8.4(b), and Knight elects to do so, the cost of any
+        agreed-upon course of action, including the costs of any legal
+        action commenced or any infringement action defended, shall be
+        borne solely by Knight; provided, however, that if such settlement
+        adversely affects Braeburns intellectual property rights or its
+        rights under this Agreement, or Braeburns ability to Commercialize
+        the Sublicensed Products outside the Territory, results in any
+        monetary payment by or financial loss to Braeburn or otherwise
+        requires Braeburn to admit wrongdoing, fault, or liability, Knight
+        will not settle or compromise any such proceeding without the
+        consent of Braeburn, such consent not to be unreasonably withheld,
+        conditioned or delayed.
+ 
+        (d)                                 For any such legal action or
+        defense, in the event that any Party is unable to initiate,
+        prosecute, or defend such action solely in its own name, the other
+        Party will join such action voluntarily and will execute all
+        documents necessary for the Party to prosecute, defend and maintain
+        such action.  In connection with any such action, the Parties will
+        cooperate fully and will provide each other with any information or
+        assistance that either reasonably may request.
+ 
+    9.                                      REPRESENTATION AND WARRANTIES
+ 
+    9.1                               Braeburn Covenants, Representations
+    and Warranties.  Braeburn covenants, represents and warrants (as the
+    case may be) to Knight as of the Effective Date that:
+ 
+        (a)                                 Braeburn is a corporation duly
+        organized, validly existing and in good standing under the laws of
+        Delaware.
+ 
+        (b)                                 Braeburn has the corporate
+        power and authority to enter into this Agreement and will continue
+        during the Term to have, all of the corporate power and authority
+        necessary to enter into this Agreement and to grant the licenses
+        hereunder.
+ 
+        (c)                                  Braeburn has taken all
+        necessary corporate actions to authorize the execution, delivery
+        and performance of this Agreement.
+ 
+        (d)                                 The Titan Agreement (i) is in
+        full force and effect, enforceable in accordance with its terms,
+        except to the extent enforceability is limited by bankruptcy,
+        insolvency or similar laws affecting creditors rights and remedies
+        or equitable principles, and (ii) has not been terminated; and
+        Braeburn has not taken any action to terminate the Titan Agreement.
+ 
+29
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (e)                                  Braeburn shall provide Knight
+        with (i) written notice within [***] Business Days of any alleged
+        material breach of the Titan Agreement or written (including by
+        email) threat of termination of the Titan Agreement received by
+        Braeburn from Titan thereunder, and (ii) written notice within
+        [***] Business Days of the adoption of any amendment to the Titan
+        Agreement relating to the Territory or Knights rights under this
+        Agreement, in each case, in any material respect.
+ 
+        (f)                                   Braeburn has obtained all
+        consents, licenses and authorizations that are necessary to perform
+        its obligations under this Agreement and that such rights will
+        continue to be enforceable during the Term, except to the extent
+        enforceability is limited by bankruptcy, insolvency or similar laws
+        affecting creditors rights and remedies or equitable principles.
+ 
+        (g)                                  Upon the execution and
+        delivery of this Agreement, this Agreement shall constitute a valid
+        and binding obligation of Braeburn, enforceable against Braeburn in
+        accordance with its terms, except to the extent enforceability is
+        limited by bankruptcy, insolvency or similar laws affecting
+        creditors rights and remedies or equitable principles.
+ 
+        (h)                                 The performance of Braeburns
+        obligations under this Agreement will not conflict with its
+        organizational documents, as amended, or result in a breach of any
+        material agreements or contracts to which it is a party.
+ 
+        (i)                                     Braeburn has not and will
+        not, during the term of this Agreement, enter into any material
+        agreements or contracts that would conflict with its obligations
+        under this Agreement and Braeburn has no knowledge of any agreement
+        entered into by Titan which would conflict or restrict the terms
+        hereof;
+ 
+        (j)                                    Braeburn owns or licenses
+        all of the Braeburn Patents licensed to Knight pursuant to this
+        Agreement and the Braeburn Patents licensed or sublicensed to
+        Knight pursuant to this Agreement are all of the patents owned or
+        licensed by Braeburn that are reasonably necessary for Knight to
+        carry out its obligations and exercise its rights under this
+        Agreement.
+ 
+        (k)                                 Braeburn has not received any
+        notice that the manufacture, sale or use of the Sublicensed
+        Products in the Territory infringes upon any intellectual property
+        rights of any Third Party(ies) in the Territory.
+ 
+        (l)                                     Braeburn has not received
+        any notice from a Third Party that any issued Braeburn Patent is
+        invalid or unenforceable for any reason.
+ 
+        (m)                             To the knowledge of Braeburn, there
+        are no activities being carried out by Third Parties in the
+        Territory that would constitute infringement or misappropriation of
+        the Braeburn Patents or the Braeburn Marks.
+ 
+30
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (n)                                 Braeburn shall use its
+        Commercially Reasonable Efforts to maintain the Titan Agreement in
+        full force and effect throughout the Term; provided, however, that
+        the Parties agree and acknowledge that it may be commercially
+        reasonable for Braeburn to terminate the Titan Agreement or take
+        actions that result in the termination of the Titan Agreement and
+        provided further that for avoidance of doubt, this Section does not
+        provide Braeburn with any termination right not contemplated by
+        Section 11.2 hereof.
+ 
+        (o)                                 Braeburn has provided Knight
+        all material information in its possession and Control sufficient
+        for Knight to assess the safety and efficacy of the Sublicensed
+        Product, and any side effects, injury, toxicity or sensitivity
+        reactions and incidents associated with all uses, studies,
+        investigations or tests involving the Sublicensed Product (animal
+        or human) throughout the world;
+ 
+        (p)                                 As of the Effective Date,
+        Braeburn is not aware of any material facts not otherwise disclosed
+        to Knight that could reasonably lead Braeburn to conclude that the
+        Sublicensed Product will be unable to receive Regulatory Approval
+        from relevant Governmental Authorities in the Territory.
+ 
+        (q)                                 Neither Braeburn nor, to the
+        knowledge of Braeburn, any Third Party acting by or on behalf of
+        Braeburn in connection with the manufacture, development or
+        Commercialization of the Sublicensed Products has been debarred or
+        is subject to debarment, and Braeburn shall not knowingly engage or
+        use any Third Party in connection with the manufacture, development
+        or Commercialization of the Sublicensed Products that has been
+        debarred; Braeburn agrees to notify Knight in writing promptly if
+        it, or if it has knowledge that, any of its licensors or any entity
+        acting on its behalf in any capacity in connection with the
+        manufacture, development or Commercialization of the Sublicensed
+        Products is debarred or becomes the subject of any threatened or
+        pending action, suit, claim, investigation, legal or administrative
+        proceeding relating to debarment.
+ 
+    9.2                               Knight Covenants, Representations and
+    Warranties.  Knight covenants, represents and warrants to Braeburn (as
+    the case may be) as follows:
+ 
+        (a)                                 Knight is a corporation duly
+        organized, validly existing and in good standing, under the laws of
+        Canada.
+ 
+        (b)                                 Knight has the legal right,
+        authority, and power to enter into this Agreement and will continue
+        during the Term to have, all of the rights necessary to enter into
+        this Agreement and to perform its obligations hereunder.
+ 
+        (c)                                  Knight has taken all necessary
+        action to authorize the execution, delivery, and performance of
+        this Agreement.
+ 
+31
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (d)                                 Without limiting Knights
+        obligations to use Commercially Reasonable Efforts to Commercialize
+        the Sublicensed Products under this Agreement, Knight will seek to
+        obtain and, once obtained, maintain all consents, licenses and
+        authorizations that are necessary to perform its obligations under
+        this Agreement.
+ 
+        (e)                                  Upon the execution and
+        delivery of this Agreement, this Agreement shall constitute a valid
+        and binding obligation of Knight, enforceable against Knight in
+        accordance with its terms, except to the extent enforceability is
+        limited by bankruptcy, insolvency or similar laws affecting
+        creditors rights and remedies or equitable principles.
+ 
+        (f)                                   The performance of Knights
+        obligations under this Agreement will not conflict with its
+        organizational documents, as amended, or result in a breach of any
+        material agreements or contracts to which any is a party.
+ 
+        (g)                                  Knight has not and will not,
+        during the term of this Agreement, enter into any material
+        agreements or contracts that would be inconsistent with its
+        obligations under this Agreement.
+ 
+        (h)                                 Neither Knight nor its
+        Affiliates and sublicensees will initiate a proceeding to challenge
+        the validity or enforceability of any Braeburn Patent or Braeburn
+        Mark, or directly or indirectly assist any Third Party with respect
+        to any such proceeding.
+ 
+        (i)                                     [***].
+ 
+        (j)                                    Neither Knight nor, to the
+        knowledge of Knight, any Third Party acting by or on behalf of
+        Knight in connection with the manufacture, development or
+        Commercialization of the Sublicensed Products has been debarred or
+        is subject to debarment, and Knight shall not knowingly engage or
+        use any Third Party in connection with the manufacture, development
+        or Commercialization of the Sublicensed Products that has been
+        debarred; Knight agrees to notify Braeburn in writing promptly if
+        it, or if it has knowledge that, any of its licensors or any entity
+        acting on its behalf in any capacity in connection with the
+        manufacture, development or Commercialization of the Sublicensed
+        Products is debarred or becomes the subject of any threatened or
+        pending action, suit, claim, investigation, legal or administrative
+        proceeding relating to debarment.
+ 
+        (k)                                 Neither Knight nor, to the
+        knowledge of Knight, any of its equity holders nor any of their
+        respective beneficial owners (a) is listed on any Government Lists
+        (as defined below), (b) is a person who has been determined by
+        competent authority to be subject to the prohibitions contained in
+        Presidential Executive Order No. 13224 (Sept. 23, 2001) or any
+        other similar prohibitions contained in the rules and regulations
+        of the Office of Foreign Assets Control (OFAC) or in any enabling
+        legislation or other Presidential Executive Order in respect
+        thereof, (c) has been
+ 
+32
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        previously indicted for or convicted of any Patriot Act Offense (as
+        defined below), or (d) is currently under investigation by any
+        governmental authority for alleged criminal activity in connection
+        with any Patriot Act Offense.  For purposes hereof, the term 
+        Patriot Act Offense means (i) any violation of the criminal laws
+        of the United States of America, or that would be a criminal
+        violation if committed within the jurisdiction of the United States
+        of America, relating to terrorism or the laundering of monetary
+        instruments, including any offense under (A) the criminal laws
+        against terrorism, (B) the criminal laws against money laundering,
+        (C) the Bank Secrecy Act, (D) the Money Laundering Control Act of
+        1986, or (E) the Uniting and Strengthening America by Providing
+        Appropriate Tools Required to Intercept and Obstruct Terrorism (USA
+        PATRIOT ACT) Act of 2001; and (ii) the crime of conspiracy to
+        commit, or aiding and abetting another to commit, a Patriot Act
+        Offense under clause (i).  For purposes hereof, the term 
+        Government Lists means (x) the Specially Designated Nationals and
+        Blocked Persons Lists maintained by the OFAC, (y) any other list of
+        terrorists, terrorist organizations, or narcotics traffickers
+        maintained pursuant to any of the Rules and Regulations of OFAC
+        that is now included in Government Lists, or (z) any similar
+        lists maintained by the United States Department of State, the
+        United States Department of Commerce, or any other government
+        authority or pursuant to any Executive Order of the President of
+        the United States of America that is now included in Government
+        Lists.
+ 
+    9.3                               WARRANTY DISCLAIMER.  EXCEPT AS
+    EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER PARTY MAKES ANY
+    REPRESENTATIONS OR EXTENDS ANY WARRANTIES OF ANY KIND, EITHER EXPRESS,
+    IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY EXPRESS OR IMPLIED
+    WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A
+    PARTICULAR PURPOSE WITH RESPECT TO THE LICENSED PRODUCTS OR ANY
+    TECHNOLOGY OR ANY LICENSE GRANTED BY EITHER PARTY HEREUNDER, EVEN IF
+    EITHER PARTY HAS BEEN ADVISED OF SUCH PURPOSE.
+ 
+    9.4                               LIMITATIONS OF LIABILITY.  EXCEPT IN
+    CIRCUMSTANCES OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT BY A PARTY, A
+    BREACH OF ARTICLE 10, FOR THE PAYMENT OF AN INDEMNIFIED CLAIM UNDER
+    SECTIONS 9.5 OR 9.6 BELOW (BUT ONLY TO THE EXTENT OF SUCH CLAIM),
+    NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY OR TO ANY THIRD PARTY
+    WHO MAY BENEFIT FROM ANY PROVISION OF THIS AGREEMENT FOR SPECIAL,
+    INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING
+    DAMAGES RESULTING FROM LOSS OF USE, LOSS OF PROFITS, INTERRUPTION OR
+    LOSS OF BUSINESS OR OTHER ECONOMIC LOSS) ARISING OUT OF THIS AGREEMENT
+    OR WITH RESPECT TO A PARTYS PERFORMANCE OR NON-PERFORMANCE HEREUNDER.
+ 
+33
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    9.5                               Indemnification by Braeburn. 
+    Braeburn hereby agrees to defend, indemnify, and hold Knight, [***].
+ 
+    9.6                               Indemnification by Knight.  Knight
+    hereby agrees to defend, indemnify, and hold Braeburn, [***].
+ 
+    9.7                               Indemnification Procedure.  [***]
+ 
+    9.8                               Compliance with Applicable Law.  Each
+    Party shall comply, and shall require their Affiliates and permitted
+    sublicensees to comply, with all Applicable Laws relative to their
+    obligations hereunder.
+ 
+    9.9                               Insurance.
+ 
+        (a)                                 Both Knight and Braeburn shall
+        maintain, during the Term and for a period of [***] years after any
+        expiration or termination of this Agreement, a Commercial General
+        Liability Insurance policy or policies [***]
+ 
+        (b)                                 During the Term, [***].  Upon
+        request, Knight shall provide certificates of insurance to Braeburn
+        evidencing the coverage specified herein.  The Parties acknowledge
+        and agree that such insurance shall not be construed to create a
+        limit with respect to their indemnification obligations or
+        liability to the other.
+ 
+    10.                               CONFIDENTIALITY AND PUBLICITY
+ 
+    10.1                        Non-Disclosure and Non-Use Obligations. 
+    All Confidential Information disclosed by one Party to the other Party
+    hereunder shall be maintained in confidence and shall not be disclosed
+    to any Third Party or used for any purpose except as expressly
+    permitted herein without the prior written consent of the Party that
+    disclosed the Confidential Information to the other Party during the
+    Term and for a period of [***] years thereafter.  For purposes of this
+    Agreement, Confidential Information means any and all Know-How,
+    scientific, clinical, regulatory, marketing, financial, technical,
+    non-technical, commercial or other confidential information or data of
+    a confidential nature, whether communicated in writing, orally or by
+    any other means, that is under the protection of one Party and is
+    provided by that Party to the other Party in connection with this
+    Agreement.  The foregoing non-disclosure and non-use obligations shall
+    not apply to the extent that such Proprietary Information:
+ 
+        (a)                                 is known by the receiving Party
+        at the time of its receipt, and not through a prior disclosure by
+        the disclosing Party, as documented by business records;
+ 
+        (b)                                 is or becomes properly in the
+        public domain or knowledge without breach by either Party;
+ 
+34
+------------------------------------------------------------------------
+ 
+         
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (c)                                  is subsequently disclosed to a
+        receiving Party by a Third Party who, to the knowledge of the
+        receiving Party, is lawfully able do so and, to the knowledge of
+        the receiving Party, is not under an obligation of confidentiality
+        to the disclosing Party; or
+ 
+        (d)                                 is developed by the receiving
+        Party independently of Confidential Information received from the
+        other Party, as documented by research and development records.
+ 
+    10.2                        Permitted Disclosure of Proprietary
+    Information.  Notwithstanding Section 10.1, a Party receiving
+    Confidential Information of another Party may disclose such
+    Confidential Information:
+ 
+        (a)                                 to governmental or other
+        regulatory agencies as required by Applicable Law, in order to file
+        Regulatory Submissions, but such disclosure may be made only to the
+        extent reasonably necessary to file such Regulatory Submissions and
+        in accordance with the terms and conditions of this Agreement or as
+        otherwise requested by the relevant Governmental Authority;
+ 
+        (b)                                 in connection with the
+        performance of this Agreement and solely on a need-to-know basis,
+        to Affiliates; potential or actual collaborators (including
+        potential sublicensees); potential or actual investment bankers,
+        accountants, investors, lenders, or acquirers; or employees,
+        independent contractors (including consultants and clinical
+        investigators) or agents, each of whom prior to disclosure must be
+        bound by written obligations of confidentiality and non-use no less
+        restrictive than the obligations set forth in this Article 10 or to
+        counsel for such Party; provided, however, that the receiving Party
+        shall (i) undertake reasonable precautions to safeguard and protect
+        the confidentiality of the Confidential Information; (ii) remain
+        responsible for any failure by any person who receives Confidential
+        Information pursuant to this Article 10 to treat such Confidential
+        Information as required under this Article 10; and (iii) take all
+        reasonable measures to restrain the receiving Party and any such
+        persons from prohibited or unauthorized disclosure or use in
+        violation of this Article 10;
+ 
+        (c)                                  if required to be disclosed by
+        Applicable Law or court order, provided that notice is promptly
+        delivered to the non-disclosing Party in order to provide an
+        opportunity to challenge or limit the disclosure obligations; or
+ 
+        (d)                                 with respect to Braeburn, to
+        Titan to the extent required by Braeburn to exercise its rights or
+        perform its obligations under the Titan Agreement.
+ 
+    If and whenever any Confidential Information is disclosed in accordance
+    with this Section 10.2, such disclosure shall not cause any such
+    information to cease to be Confidential Information except to the
+    extent that such disclosure results in a public disclosure of such
+    information (other than in breach of this Agreement). Where
+ 
+35
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    reasonably possible and subject to Section 10.3, the receiving Party
+    shall notify the disclosing Party of the receiving Partys intent to
+    make such disclosure pursuant to Sections 10.2(a)-(c) sufficiently
+    prior to making such disclosure so as to allow the disclosing Party
+    adequate time to take whatever action it may deem appropriate to
+    protect the confidentiality of the information, and the receiving Party
+    shall cooperate with the disclosing Party in such efforts.
+ 
+    10.3                        Disclosure of Agreement to Governmental
+    Authority.  Without limiting any of the foregoing, it is understood
+    that the Parties or their Affiliates may make disclosure of this
+    Agreement and the terms hereof in any filings required by a
+    Governmental Authority or securities exchange, may file this Agreement
+    as an exhibit to any filing with such Governmental Authority or
+    securities exchange, and may distribute any such filing in the ordinary
+    course of its business; provided however, that the Party seeking such
+    disclosure first provides the other Party a copy of the proposed
+    disclosure, and provided further that (except to the extent that the
+    Party seeking disclosure is required to disclose such information to
+    comply with Applicable Law) if the other Party demonstrates to the
+    reasonable satisfaction of the Party seeking disclosure, within [***]
+    Business Days of such Partys providing the copy, that the public
+    disclosure of previously undisclosed information will materially
+    adversely affect the development and/or commercialization of a
+    Sublicensed Product, the Party seeking disclosure will remove from the
+    disclosure such specific previously undisclosed information as the
+    other Party shall reasonably request to be removed, or otherwise
+    provide a good faith reason to the other Party why such disclosure was
+    not removed.
+ 
+    10.4                        Other Public Statements.  Except as set
+    forth in this Agreement or as required by Applicable Law, neither Party
+    shall make any press release or other public announcement or other
+    disclosure to a Third Party concerning the existence or terms of this
+    Agreement or relating to Sublicensed Products without the prior written
+    consent of the other Party, which consent shall include agreement upon
+    the nature and text of such announcement or disclosure and shall not be
+    unreasonably withheld, conditioned or delayed.  Each Party agrees to
+    provide to the other Party a copy of any public announcement as soon as
+    reasonably practicable under the circumstances prior to its scheduled
+    release.  Each Party shall have the right to expeditiously [***] review
+    and recommend changes to any press release or announcement regarding
+    this Agreement or the subject matter of this Agreement; provided,
+    however that such right of review and recommendation shall only apply
+    for the first time that specific information is to be disclosed, and
+    shall not apply to the subsequent disclosure of substantially similar
+    information that has previously been disclosed unless there have been
+    material developments relating to Sublicensed Products since the date
+    of the previous disclosure.
+ 
+    10.5                        No Rights to Use Name of Other Party. 
+    Except as provided herein, neither Party shall use the name, trademark,
+    trade name or logo of the other Party in any publicity, promotion, news
+    release or disclosure relating to this Agreement or its subject matter,
+ 
+36
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    without the prior express written permission of the other Party, except
+    as may be required by Applicable Law.
+ 
+    11.                               TERM AND TERMINATION
+ 
+    11.1                        Term.  Except as expressly provided in
+    Section 2.1, and unless earlier terminated pursuant to Section 11.2(a),
+    this Agreement will take effect on the Effective Date and, unless
+    earlier terminated in accordance with the terms herein, will continue
+    in full force and effect for fifteen (15) years from the date of Launch
+    of the Initial Indication (from the Effective Date until the fifteenth
+    (15th) anniversary of the date of Launch of the Initial Indication,
+    unless earlier terminated, the Initial Term); provided, that if a
+    Subsequent Indication for the Sublicensed Product received Regulatory
+    Approval in the Territory on or after the fifth (5th) anniversary of
+    the Launch of the Initial Indication, the Parties shall negotiate in
+    good faith with respect to an appropriate extension of the Initial
+    Term.  Any such extension shall be mutually agreed in writing.  Upon
+    the expiration of the Initial Term and any subsequent Term thereafter,
+    this Agreement shall automatically renew for successive two (2) year
+    periods (each a Renewal Term) unless, at least one hundred eighty
+    (180) days prior to the scheduled expiry of the Initial Term or Renewal
+    Term, either Party provides the other with written notice of its
+    intention not to renew the Agreement (a Non-Renewal Notice), in which
+    case this Agreement shall expire at the end of the applicable period.
+ 
+    11.2                        Early Termination.  This Agreement may be
+    terminated as follows:
+ 
+        (a)                                 If the NDA Transfer Date has
+        not occurred within six (6) months of the Effective Date, either
+        Party may provide written notice of an intent to terminate this
+        Agreement, provided that if a Party intends to terminate the
+        Agreement, such Party shall first discuss in good faith the reasons
+        for seeking termination and considers potential alternatives to
+        termination, including potential amendments to the Agreement. 
+        Termination under this Section 11.2(a) shall not effective be
+        sooner than thirty (30) days from the date of notice.
+ 
+        (b)                                 Either Party may, without
+        prejudice to any other remedies available to it under this
+        Agreement or at Applicable Law or in equity:
+ 
+            (i)                                     immediately terminate
+            this Agreement upon the filing or institution of bankruptcy,
+            reorganization, liquidation or receivership proceedings, or
+            upon an assignment of a substantial portion of the assets for
+            the benefit of creditors by the other Party; provided, however,
+            in the case of any involuntary bankruptcy, reorganization,
+            liquidation, receivership or assignment proceeding such right
+            to terminate shall only become effective if such other Party
+            consents to the involuntary proceeding or such proceeding is
+            not dismissed within sixty (60) days after the filing thereof;
+            or
+ 
+37
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+            (ii)                                  terminate this Agreement
+            prior to expiration of the Term in the event the other Party is
+            in material default or breach of the performance of its
+            obligations hereunder, and has not cured such breach within (i)
+            thirty (30) days after written notice thereof provided by the
+            non-breaching Party to the breaching Party, in case such breach
+            is a non-payment of any amount due under this Agreement (which
+            shall be deemed a material breach) and (ii) sixty (60) days
+            after written notice thereof provided by the non-breaching
+            Party to the breaching Party for other cases of breach.  The
+            termination shall become effective at the end of the (x) thirty
+            (30) day period in case the breach is a non-payment of any
+            amount due under this Agreement if the breaching Party has not
+            cured such breach during such thirty (30) day period, or (y)
+            sixty (60) day period for other cases of breach unless the
+            breaching Party cures such breach during such sixty (60) day
+            period.  The right of either Braeburn or Knight to terminate
+            this Agreement as provided in this Section 11.2 shall not be
+            affected in any way by such Partys waiver or failure to take
+            action with respect to any previous breach or default.
+ 
+        (c)                                  Braeburn may, without
+        prejudice to any other remedies available to it under this
+        Agreement or at Applicable Law or in equity, terminate this
+        Agreement:
+ 
+            (i)                                     on thirty (30) days
+            written notice to Knight, if Knight, following Launch,
+            discontinues commercial sale of Sublicensed Product for a
+            period of three (3) months or more for reasons unrelated to
+            Force Majeure, regulatory or safety issues or supply or
+            manufacturing or Sublicensed Product quality issues and
+            subsequently fails to resume sales of a Product within thirty
+            (30) days of having been notified in writing of such failure by
+            Braeburn;
+ 
+            (ii)                                  upon written notice to
+            Knight in the event Knight or any of its Affiliates or
+            sublicensees commences any legal proceeding seeking to
+            challenge or otherwise dispute the validity or ownership of any
+            of the Braeburn Patents or any of the claims therein, or
+            knowingly assists any Third Party to do any of the foregoing,
+            which termination shall be effective on the date set forth in
+            such notice; or
+ 
+            (iii)                               If Braeburn determines, in
+            its sole discretion, that it is in its best interests to
+            terminate the Titan Agreement pursuant to any one of Sections
+            12.2(c)(i), 12.2(c)(iii), and 12.2(c)(iv) of the Titan
+            Agreement, then Braeburn shall provide Knight with at least
+            ninety (90) days prior notice and, during such ninety-day
+            (90-day) period, Braeburn shall discuss with Knight, in good
+            faith, whether the grounds upon which Braeburn judges
+            termination to be in its best interests can be adequately
+            mitigated.  If, after discussions with Knight, Braeburn still
+            decides it is in Braeburns best interests to terminate the
+            Titan Agreement, then Braeburn shall negotiate
+ 
+38
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+            in good faith with Titan and Knight to determine whether Titan
+            would agree to license rights in the Territory directly to
+            Knight, including a commitment to supply Sublicensed Products
+            to Knight.  Notwithstanding the foregoing, Braeburn may not
+            terminate this Agreement under this Section 11.2(c)(iii) prior
+            to three (3) years following the NDA Transfer date and then
+            only upon at least one (1) year prior notice.  If Braeburn
+            terminates the Titan agreement pursuant to this Section
+            11.2(c)(iii), then, notwithstanding the termination of this
+            Agreement, the ROFN outlined in Section 2.9 shall survive for
+            the remainder of the Initial Term.
+ 
+        (d)                                 Either Party may, without
+        prejudice to any other remedies available to it under this
+        Agreement or at Applicable Law or in equity, terminate this
+        Agreement immediately upon written notice to the other Party, if
+        either Party determines in good faith that it is not advisable for
+        Knight to continue to Commercialize any Sublicensed Products in the
+        Territory as a result of a bona fide safety issue regarding any
+        Sublicensed Products.
+ 
+        (e)                                  This Agreement shall
+        automatically terminate in the event the Titan Agreement is
+        terminated prior to the expiration of the Term; provided that
+        Braeburn shall not seek to terminate the Titan Agreement for any
+        reason other than what is contemplated in Section 11.2(c) hereof,
+        or Section 12.2(a) of the Titan Agreement.
+ 
+    11.3                        Effect of Termination.  Upon expiry or
+    termination of this Agreement, all sublicenses and rights granted by
+    Braeburn hereunder shall terminate and:
+ 
+        (a)                                 Knight undertakes to:
+ 
+            (i)                                     except as provided for
+            in Section 11.5, cease any Commercialization of Sublicensed
+            Products in the Territory;
+ 
+            (ii)                                  commence, within thirty
+            (30) days of expiry or termination, and complete as promptly as
+            practicable, the transfer of title to all current and pending
+            Regulatory Submissions and Regulatory Approvals for the
+            Sublicensed Products to Braeburn or its designee and assist
+            Braeburn in submitting appropriate documents to transfer the
+            Regulatory Submissions and Regulatory Approvals for the
+            Sublicensed Products to Braeburn or its designee;
+ 
+            (iii)                               pay Braeburn all Royalties
+            generated by sales of Sublicensed Products, including any sales
+            in accordance with Section 11.5; and
+ 
+            (iv)                              promptly transfer to Braeburn
+            or its designee copies of all data, reports, records and
+            materials in Knights possession or Control that relate to
+            Sublicensed Products and return to Braeburn all relevant
+            records and
+ 
+39
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+            materials in Knights possession or Control containing
+            Confidential Information of Braeburn (provided that Knight may
+            keep (a) one (1) copy of such Confidential Information of
+            Braeburn for archival purposes solely for the purpose of
+            compliance with this Agreement and (b) electronic copies stored
+            in automatic computer back-up systems ).
+ 
+        (b)                                 Braeburn undertakes to promptly
+        return to Knight all relevant records and materials in Braeburns
+        possession or Control containing Confidential Information of Knight
+        (provided that Braeburn may keep one (1) copy of such Confidential
+        Information of Knight for archival purposes solely for the purpose
+        of compliance with this Agreement).
+ 
+    11.4                        Survival.  In the event of the expiration
+    or termination of this Agreement for any reason, the following
+    provisions of this Agreement shall survive: Article 1; Sections 6.3(c);
+    6.4; 6.5; 8.1; 9.3 through 9.9; Articles 10 through 13; and any other
+    terms which, by their nature, require or contemplate performance by the
+    Parties after expiry or termination.  In any event, expiration or
+    termination of this Agreement shall not relieve the Parties of any
+    liability which accrued hereunder prior to the effective date of such
+    expiration or termination.
+ 
+    11.5                        Sell-Off of Inventory.  Subject to the
+    payment of all amounts due to Braeburn hereunder, upon expiration or
+    termination of this Agreement, Knight shall be entitled to sell off or
+    otherwise dispose of any of Knights inventory of Sublicensed Products
+    existing on the date such expiration or termination is effective;
+    provided, however, that, at Braeburns request, Knight shall promptly
+    return to Braeburn all or any portion of such inventory of Sublicensed
+    Products that has not been sold or used within [***] months following
+    such expiration or termination and Braeburn shall reimburse Knight any
+    Supply Price previously paid by Knight for such Sublicensed Products
+    that are returned to Braeburn
+ 
+    12.                               DISPUTE RESOLUTION
+ 
+    12.1                        Arbitration.  Except as otherwise expressly
+    provided herein, any dispute or claim arising out of or relating to
+    this Agreement, or to the breach, termination, or validity of this
+    Agreement, will be resolved as follows: each Party shall discuss the
+    matter and make reasonable efforts to attempt to resolve the dispute. 
+    If the Parties are unable to resolve the dispute, the chief executive
+    officer of each Party, or their designees, will meet within [***] days
+    of a request to attempt to resolve such dispute being made by a Party. 
+    If the chief executive officers, or their designees, cannot resolve the
+    dispute through good faith negotiations within [***] days after a Party
+    requests such meeting, then the Parties shall resort to binding
+    arbitration before a single arbitrator, in New York, New York, using
+    the arbitration procedures set forth under the laws of the State of New
+    York.  The decision of the arbitrator shall be final and not subject to
+    appeal and the arbitrator may apportion the costs of the arbitration,
+    including the reasonable fees and disbursements of the Parties, between
+    or among the Parties in such manner as the arbitrator considers
+    reasonable.  All matters in relation to the arbitration shall be kept
+    confidential to the full extent permitted
+ 
+40
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    by law, and no individual shall be appointed as an arbitrator unless he
+    or she agrees in writing to be bound by this provision.
+ 
+    12.2                        Irreparable Harm.  Notwithstanding anything
+    to the contrary in Section 12.1, if either Party in its sole judgment,
+    acting reasonably, believes that any such dispute could cause it
+    irreparable harm, such Party will be entitled to seek temporary
+    equitable relief from a court of competent jurisdiction in order to
+    avoid such irreparable harm during the pendency of the procedure set
+    forth in Section 12.1.  For the avoidance of any doubt, nothing in this
+    Article 12 shall preclude, interfere with or modify either Partys
+    rights under Article 11 above with respect to the termination of this
+    Agreement.
+ 
+    13.                               OTHER PROVISIONS
+ 
+    13.1                        Withholding Tax.  Knight will make all
+    payments to Braeburn under this Agreement without deduction or
+    withholding for taxes except to the extent that any such deduction or
+    withholding is required by Applicable Law in effect at the time of
+    payment.  Any tax required to be withheld on amounts payable by Knight
+    under this Agreement will be timely paid by Knight on behalf of
+    Braeburn to the appropriate Governmental Authority, and Knight will
+    furnish Braeburn with the corresponding proof of payment of such tax,
+    as may be required in order to enable Braeburn to request reimbursement
+    or deduction of the withheld amount, or to otherwise comply with its
+    duties.  Knight and Braeburn agree to cooperate to legally minimize and
+    reduce such withholding taxes and provide any information or
+    documentation required by any taxing authority.
+ 
+    13.2                        Further Assurances.  Upon request by either
+    Party and at such Partys expense, the other Party shall do such
+    further acts and execute such additional agreements and instruments as
+    may be reasonably necessary to give effect to the purposes of this
+    Agreement.
+ 
+    13.3                        Independent Status.  Each Partys legal
+    relationship under this Agreement to the other Party shall be that of
+    independent contractor, and not partners or joint venturers.
+ 
+    13.4                        Assignment.  This Agreement may not be,
+    directly or indirectly, assigned or otherwise transferred, in whole or
+    in part, by a Party to a Third Party without the prior written consent
+    of the other Party; provided, however, that each Party may assign this
+    Agreement to (a) any of its Affiliate or (b) in connection with its
+    acquisition or the transfer or sale of all or substantially all of its
+    assets or its business to which this Agreement relates, without such
+    consent; provided, further, that the assigning Party shall promptly
+    notify the other Party of any such assignment.  The rights and
+    obligations contained herein shall inure to the benefit of each Partys
+    successors and permitted assigns, and shall be binding on and
+    enforceable against the relevant Partys successors and permitted
+    assigns.  Any reference in this Agreement to any Party shall be
+    construed accordingly. Any purported assignment not in accordance with
+    this Agreement shall be void.
+ 
+41
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    13.5                        Compliance with Applicable Law.  In
+    connection with their activities under this Agreement, each Party shall
+    comply with, and shall not be in violation of, any Applicable Laws.
+ 
+    13.6                        Force Majeure.  No Party shall be
+    responsible for a failure or delay in performance of any of the
+    obligations hereunder due to any fire, flood, earthquake, explosion,
+    storm, blockage, embargo, war, acts of war (whether war be declared or
+    not), terrorism, insurrection, riot, civil commotion, strike, lockout
+    or other labor disturbance, failure of public utilities or common
+    carriers, act of God or act, omission or delay in acting by any
+    Governmental Authority (such events being defined as Force Majeure),
+    provided that the Party seeking relief from its obligations advises the
+    other Party forthwith of the Force Majeure.  A Party whose performance
+    of obligations has been delayed by Force Majeure shall use Commercially
+    Reasonable Efforts to overcome the effect of the Force Majeure as soon
+    as possible.  The other Party will have no right to demand indemnity
+    for damage or assert a breach against such Party, provided, however,
+    that if the event of Force Majeure preventing performance shall
+    continue for more than [***] months and such underlying cause would not
+    also prevent other parties from performing such obligations, then the
+    Party not subject to the event of Force Majeure may terminate this
+    Agreement with a written notice to the other without any liability
+    hereunder, except the obligation to make payments due to such date and
+    any obligations surviving under Section 11.4.
+ 
+    13.7                        Notices and Amendments.  Any notice or
+    other communication required or permitted to be given hereunder shall
+    be in writing and shall be given by facsimile or other means of
+    electronic communication or by hand delivery as hereinafter provided. 
+    Any such notice, if sent by fax or other means of electronic
+    communication, shall be deemed to have been received on the day of
+    sending, or if delivered by hand shall be deemed to have been received
+    at the time it is delivered to the applicable address noted below. 
+    Notices of change of address shall also be governed by this Section
+    13.7.  Notices and other communications shall be addressed as follows:
+ 
+42
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+        (a)                                 In the case of Braeburn:
+ 
+            Braeburn Pharmaceuticals, Inc.
+            47 Hulfish Street
+            Suite 441
+            Princeton, NJ 08542
+            United States
+            Attention: General Counsel
+ 
+        with copies (which shall not constitute notice) to:
+ 
+            notices@braeburnpharma.com
+             
+            and
+             
+            Hogan Lovells US LLP
+            100 International Drive
+            Suite 2000
+            Baltimore, MD 21202
+            United States
+            Attention:                                         Asher Rubin
+            Fax:                                                           
+                       +1 410 659 2701
+            E-mail:                                                        
+            asher.rubin@hoganlovells.com
+ 
+        (b)                                 In the case of Knight:
+ 
+            Knight Therapeutics Inc.
+            376 Victoria Avenue
+            Suite 220
+            Westmount, Quebec, H3Z 1C3
+            Canada
+            Attention:                                         Jeffrey
+            Kadanoff
+            Fax:                                                           
+                       +1 514 481 4116
+            E-mail:                                                        
+            jkadanoff@gud-Knight.com
+ 
+        With a copy (which shall not constitute notice) to:
+ 
+            Davies Ward Phillips & Vineberg LLP
+            1501 McGill College Ave.
+            Suite 2600
+            Montreal, Quebec H3A 3N9
+            Canada
+            Attention:                                         Hillel W.
+            Rosen
+             
+43
+------------------------------------------------------------------------
+
+             
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+            Fax:                                                           
+                       +1 514 841 6400
+            E-mail:                                                        
+            hrosen@dwpv.com
+ 
+    13.8                        Complete Agreement.  This Agreement,
+    together with the SDEA and any quality agreement entered into between
+    the Parties with respect to Sublicensed Products, and all exhibits,
+    schedules and other attachments hereto or thereto, embodies all of the
+    understandings and obligations between the Parties with respect to the
+    Sublicensed Products and supersedes any prior or contemporaneous
+    agreements and understandings, whether written or oral, between the
+    Parties with respect to the subject matter hereof.  Any amendments or
+    supplements to this Agreement shall not be valid unless executed in
+    writing by duly authorized officers of both parties.
+ 
+    13.9                        Waiver.  No failure to exercise and no
+    delay in exercising any right or remedy hereunder shall operate as a
+    waiver thereof.  Any waiver granted hereunder shall only be applicable
+    the specific acts covered thereby and shall not apply to any subsequent
+    events, acts, or circumstances.
+ 
+    13.10                 Severability.  In the event any portion of this
+    Agreement shall be held illegal, void or ineffective, the remaining
+    portion hereof shall remain in full force and effect.  If any of the
+    terms or provisions of this Agreement are in conflict with any
+    applicable statute or rule of law, then such terms or provisions shall
+    be deemed inoperative to the extent that they may conflict therewith
+    and shall be deemed to be modified to conform with such statute or rule
+    of law.
+ 
+    13.11                 Governing Law.  This Agreement all disputes
+    arising out of or relating to this Agreement, or the performance,
+    enforcement, breach or termination hereof or thereof, and any remedies
+    relating thereto, shall be construed, governed by and interpreted in
+    accordance with the laws of the State of New York without regard to any
+    conflict of laws principle thereof that would result in the application
+    of the laws of any other jurisdiction.
+ 
+    13.12                 Counterparts.  This Agreement may be executed in
+    any number of counterparts, each of which shall be considered one and
+    the same Agreement and shall become effective when a counterpart hereof
+    has been signed by each of the Parties and delivered to the other
+    Party.
+ 
+    13.13                 Time of Essence.  Time shall be of the essence of
+    this Agreement and of each provision hereof.
+ 
+    13.14                 English Language.  At the request of the parties,
+    this Agreement has been negotiated in the English language and will be
+    or have been executed in the English language.  Les soussignes ont
+    expressement demande que ce document et tous les documents annexes
+    soient rediges en langue anglaise.
+ 
+[Signature page follows]
+ 
+44
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+IN WITNESS WHEREOF, the Parties have caused this Distribution and 
+Sublicense Agreement to be signed by their duly authorized representatives 
+as of the Effective Date.
+ 
+ 
+BRAEBURN PHARMACEUTICALS, INC.
+ 
+KNIGHT THERAPEUTICS INC.
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+By:
+ 
+ 
+ 
+ 
+ 
+ 
+Name:
+ 
+ 
+Name:
+ 
+ 
+ 
+ 
+ 
+ 
+Title:
+ 
+ 
+Title:
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+IN WITNESS WHEREOF, the Parties have caused this Distribution and 
+Sublicense Agreement to be signed by their duly authorized representatives 
+as of the Effective Date.
+ 
+ 
+BRAEBURN PHARMACEUTICALS, INC.
+ 
+KNIGHT THERAPEUTICS INC.
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+By:
+ 
+ 
+ 
+ 
+ 
+ 
+Name:
+ 
+ 
+Name:
+ 
+ 
+ 
+ 
+ 
+ 
+Title:
+ 
+ 
+Title:
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+SCHEDULE A
+ 
+BRAEBURN MARKS
+ 
+[To be provided separately]
+ 
+------------------------------------------------------------------------
+ 
+
