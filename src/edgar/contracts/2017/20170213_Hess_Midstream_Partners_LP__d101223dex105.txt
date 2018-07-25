@@ -1,0 +1,1002 @@
+ EX-10.5 6 d101223dex105.htm EX-10.5
+Exhibit 10.5
+
+HESS MIDSTREAM PARTNERS LP
+2017 LONG-TERM INCENTIVE PLAN
+
+SECTION 1. Purpose of the Plan.
+
+This Hess Midstream Partners LP 2017 Long-Term Incentive Plan (the Plan) 
+has been adopted by Hess Midstream Partners GP LLC, a Delaware limited 
+liability company (the Company), the general partner of Hess Midstream 
+Partners GP LP, a Delaware limited partnership (the General Partner), 
+which is the general partner of Hess Midstream Partners LP, a Delaware 
+limited partnership (the Partnership). The Plan is intended to promote 
+the interests of the Partnership and the Company by providing incentive 
+compensation awards denominated in or based on Units to Employees, 
+Consultants and Directors to encourage superior performance. The Plan is 
+also intended to enhance the ability of the Partnership, the Company and 
+their Affiliates to attract and retain the services of individuals who are 
+essential for the growth and profitability of the Partnership, the Company 
+and their Affiliates and to encourage them to devote their best efforts to 
+advancing the business of the Partnership, the Company and their 
+Affiliates.
+
+SECTION 2. Definitions.
+
+As used in the Plan, the following terms shall have the meanings set forth 
+below:
+
+Affiliate means, with respect to any Person, any other Person that 
+directly or indirectly through one or more intermediaries controls, is 
+controlled by or is under common control with, the Person in question. As 
+used herein, the term control means the possession, direct or indirect, 
+of the power to direct or cause the direction of the management and 
+policies of a Person, whether through ownership of voting securities, by 
+contract or otherwise. Hess and its Affiliates shall all be considered 
+Affiliates of the Company and the Partnership for all purposes under the 
+Plan, except as and to the extent otherwise determined by the Committee.
+
+ASC Topic 718 means Accounting Standards Codification Topic 718, 
+Compensation  Stock Compensation, or any successor accounting standard.
+
+Award means an Option, Restricted Unit, Phantom Unit, DER, Substitute 
+Award, Unit Appreciation Right, Unit Award, Other Unit-Based Award or 
+Profits Interest Unit granted under the Plan.
+
+Award Agreement means the written or electronic agreement by which an 
+Award shall be evidenced and which agreement may include a separate plan, 
+policy, agreement or other written document.
+
+Board means the board of directors or board of managers, as the case may 
+be, of the Company.
+
+Cause means, unless otherwise provided in the Participants Award 
+Agreement: (i) a felony conviction of the Participant or the failure of the 
+Participant to contest prosecution for a felony; (ii) the Participants 
+gross and willful misconduct in connection with the performance of the 
+Participants duties with the Company or any Affiliate(s) of the Company or 
+(iii) the willful
+
+------------------------------------------------------------------------
+and continued failure of the Participant to substantially perform the 
+Participants duties with the Company or its Affiliate(s) after a written 
+demand from the Board or the Committee for substantial performance which 
+specifically identifies the manner in which the Board or the Committee, as 
+the case may be, believes that the Participant has not performed the 
+Participants duties with the Company or its Affiliates, provided that the 
+event or circumstance described in clause (i), (ii) or (iii) is directly 
+and materially harmful to the business or reputation of the Company, the 
+Partnership or their Affiliates; provided further, however, that, if at any 
+particular time the Participant is subject to an effective employment 
+agreement or change in control agreement with the Company or any of its 
+Affiliates, then, in lieu of the foregoing definition, Cause shall at 
+that time have such meaning as may be specified in such employment 
+agreement or change in control agreement, as applicable.
+
+Change in Control means, and shall be deemed to have occurred upon one or 
+more of the following events:
+
+(i) any person or group within the meaning of Sections 13(d) and 
+14(d)(2) of the Exchange Act, other than the Company, the General Partner, 
+Hess or an Affiliate of the Company, the General Partner or Hess (as 
+determined immediately prior to such event), shall become the beneficial 
+owner, by way of merger, acquisition, consolidation, recapitalization, 
+reorganization or otherwise, of 50% or more of the combined voting power of 
+the equity interests in the Company or the Partnership;
+
+(ii) the limited partners of the Partnership approve, in one or a series of 
+transactions, a plan of complete liquidation of the Partnership;
+
+(iii) the sale or other disposition by either the Company or the 
+Partnership of all or substantially all of the Companys or the 
+Partnerships assets, respectively, in one or more transactions to any 
+Person other than the Company, the General Partner, the Partnership, Hess 
+or an Affiliate of the Company, the General Partner, the Partnership or 
+Hess;
+
+(iv) a transaction resulting in a Person other than the Company, the 
+General Partner, Hess or an Affiliate of the Company, the General Partner 
+or Hess (as determined immediately prior to such event) being the sole 
+general partner of the Partnership; or
+
+(v) a Hess Corporation Change of Control.
+
+Notwithstanding the foregoing, if a Change in Control constitutes a payment 
+event with respect to any Award which provides for the deferral of 
+compensation required to comply with Section 409A or such compensation 
+otherwise would be subject to the tax under Section 409A if such Change in 
+Control did not comply with Section 409A, the transaction or event 
+described in subsection (i), (ii), (iii), (iv) or (v) above with respect to 
+such Award must also constitute a change in control event, as defined in 
+Treasury Regulation §1.409A-3(i)(5), and as relates to the holder of such 
+Award, to the extent required to comply with Section 409A.
+
+Code means the Internal Revenue Code of 1986, as amended.
+ 
+-2-
+
+------------------------------------------------------------------------
+Committee means the Board, except that it shall mean such committee of 
+the Board as may be appointed by the Board to administer the Plan, or as 
+necessary to comply with applicable legal requirements or listing 
+standards.
+
+Consultant means an individual who renders consulting services to the 
+Company, the Partnership or any of their Affiliates.
+
+DER means a distribution equivalent right, representing a contingent 
+right to receive an amount in cash, Units, Restricted Units and/or Phantom 
+Units equal in value to the distributions made by the Partnership with 
+respect to a Unit during the period such Award is outstanding.
+
+Director means a member of the board of directors or board of managers, 
+as the case may be, of the Company, the Partnership or any of their 
+Affiliates who is not an Employee or a Consultant (other than in that 
+individuals capacity as a Director).
+
+Disability means, unless otherwise set forth in an Award Agreement or 
+other written agreement between the Company, the Partnership or one of 
+their Affiliates and the applicable Participant, as determined by the 
+Committee in its discretion exercised in good faith, a physical or mental 
+condition of a Participant that would entitle him or her to payment of 
+disability income payments under the Companys, the Partnerships or one of 
+their Affiliates long-term disability insurance policy or plan, as 
+applicable, for employees as then in effect; or in the event that a 
+Participant is not covered, for whatever reason, under any such long-term 
+disability insurance policy or plan for employees of the Company, the 
+Partnership or one of their Affiliates or the Company, the Partnership or 
+one of their Affiliates does not maintain such a long-term disability 
+insurance policy, Disability means a total and permanent disability 
+within the meaning of Section 22(e)(3) of the Code; provided, however, 
+that if a Disability constitutes a payment event with respect to any Award 
+which provides for the deferral of compensation required to comply with 
+Section 409A or such compensation otherwise would be subject to the tax 
+under Section 409A if such Disability did not comply with Section 409A, 
+then, to the extent required to comply with Section 409A, the Participant 
+must also be considered disabled within the meaning of Section 409A. If 
+applicable, a determination of Disability may be made by a physician 
+selected or approved by the Committee and, in this respect, Participants 
+shall submit to an examination by such physician upon request by the 
+Committee.
+
+Employee means an employee of the Company, the Partnership or any of 
+their Affiliates.
+
+Exchange Act means the Securities Exchange Act of 1934, as amended.
+
+Fair Market Value means the fair market value of the Units determined by 
+such methods or procedures as shall be established from time to time by the 
+Committee and, to the extent applicable, in compliance with the 
+requirements of Section 409A. Unless otherwise determined by the Committee, 
+the Fair Market Value of the Units as of any given date shall be the 
+closing sales price of the Units on such date during normal trading hours 
+on the New York Stock Exchange or, if not listed on such exchange, on any 
+other national securities exchange on which the Units are listed or on an 
+inter-dealer quotation system, in any case, as reported in such
+ 
+-3-
+
+------------------------------------------------------------------------
+source as the Committee shall select; provided that if there are no 
+reported sales on a given date but there were sales within a reasonable 
+period both before and after such date, the Fair Market Value is the 
+weighted average of the closing prices on the nearest date before and the 
+nearest date after such date on which there were sales. The average is to 
+be weighted inversely by the respective number of trading days between the 
+selling dates and the valuation date.
+
+Hess means Hess Corporation, a Delaware corporation, or its successors.
+
+Hess Corporation Change of Control means a Change of Control as defined 
+in the Hess Corporation 2008 Long-Term Incentive Plan, as amended, as such 
+definition would apply to future awards granted under that plan.
+
+Option means an option to purchase Units granted pursuant to Section 6(a) 
+of the Plan.
+
+Other Unit-Based Award means an award granted pursuant to Section 6(f) of 
+the Plan.
+
+Participant means an Employee, Consultant or Director who has been 
+granted and holds an outstanding Award under the Plan and any authorized 
+transferee of such individual.
+
+Partnership Agreement means the Agreement of Limited Partnership of the 
+Partnership, as it may be amended or amended and restated from time to 
+time.
+
+Person shall have the meaning ascribed to such term in Section 3(a)(9) of 
+the Exchange Act and used in Sections 13(d) and 14(d) thereof, including a 
+group as defined in Section 13(d) thereof.
+
+Phantom Unit means a notional interest granted under the Plan that, to 
+the extent vested, entitles the Participant to receive a Unit or an amount 
+of cash equal to the Fair Market Value of a Unit, as determined by the 
+Committee in its discretion.
+
+Profits Interest Unit means, to the extent authorized by the Partnership 
+Agreement, an interest in the Partnership that is intended to constitute a 
+profits interest within the meaning of the Code, Treasury Regulations 
+promulgated thereunder, and any published guidance by the Internal Revenue 
+Service with respect thereto.
+
+Restricted Period means the period established by the Committee with 
+respect to an Award during which the Award remains subject to forfeiture 
+and is either not exercisable by or payable to the Participant, as the case 
+may be.
+
+Restricted Unit means a Unit granted pursuant to Section 6(b) of the Plan 
+that is subject to a Restricted Period.
+
+Securities Act means the Securities Act of 1933, as amended.
+
+SEC means the Securities and Exchange Commission, or any successor 
+thereto.
+ 
+-4-
+
+------------------------------------------------------------------------
+Section 409A means Section 409A of the Code and the Treasury Regulations 
+and other interpretive guidance issued thereunder, including without 
+limitation any such regulations or other guidance that may be amended or 
+issued after the Effective Date (as defined in Section 9 below).
+
+Service means service as an Employee, Consultant or Director. The 
+Committee, in its sole discretion, shall determine the effect of all 
+matters and questions relating to terminations of Service, including, 
+without limitation, the questions of whether and when a termination of 
+Service occurred and/or resulted from a discharge for Cause, and all 
+questions of whether particular changes in status or leaves of absence 
+constitute a termination of Service. The Committee, in its sole discretion, 
+subject to the terms of any applicable Award Agreement, may determine that 
+a termination of Service has not occurred in the event of (a) a termination 
+where there is simultaneous commencement by the Participant of a 
+relationship with the Partnership, the Company or any of their Affiliates 
+as an Employee, Director or Consultant or (b) a termination which results 
+in a temporary severance of the service relationship.
+
+Substitute Award means an award granted pursuant to Section 6(g) of the 
+Plan.
+
+Unit means a Common Unit of the Partnership.
+
+Unit Appreciation Right or UAR means a contingent right that entitles 
+the holder to receive the excess of the Fair Market Value of a Unit on the 
+exercise date of the UAR over the exercise price of the UAR.
+
+Unit Award means an award granted pursuant to Section 6(d) of the Plan.
+
+SECTION 3. Administration.
+
+(a) The Plan shall be administered by the Committee, subject to subsection 
+(b) below; provided, however, that in the event that the Board is not also 
+serving as the Committee, the Board, in its sole discretion, may at any 
+time and from time to time exercise any and all rights and duties of the 
+Committee under the Plan. The governance of the Committee shall be subject 
+to the charter, if any, of the Committee as approved by the Board and 
+amended from time to time. Subject to the terms of the Plan and applicable 
+law, and in addition to other express powers and authorizations conferred 
+on the Committee by the Plan, the Committee shall have full power and 
+authority to: (i) designate Participants; (ii) determine the type or types 
+of Awards to be granted to a Participant; (iii) determine the number of 
+Units to be covered by Awards; (iv) determine the terms and conditions of 
+any Award; (v) determine whether, to what extent, and under what 
+circumstances Awards may be settled, exercised, canceled, or forfeited; 
+(vi) interpret and administer the Plan and any instrument or agreement 
+relating to an Award made under the Plan; (vii) establish, amend, suspend, 
+or waive such rules and regulations and appoint such agents as it shall 
+deem appropriate for the proper administration of the Plan; and (viii) make 
+any other determination and take any other action that the Committee deems 
+necessary or desirable for the administration of the Plan. The Committee 
+may correct any defect or supply any omission or reconcile any 
+inconsistency in the Plan or an Award Agreement in such manner and to such 
+extent as the Committee deems necessary or appropriate. Unless otherwise 
+expressly
+ 
+-5-
+
+------------------------------------------------------------------------
+provided in the Plan, all designations, determinations, interpretations, 
+and other decisions under or with respect to the Plan or any Award shall be 
+within the sole discretion of the Committee, may be made at any time and 
+shall be final, conclusive, and binding upon all Persons, including the 
+Company, the Partnership, any of their Affiliates, any Participant and any 
+beneficiary of any Participant.
+
+(b) To the extent permitted by applicable law and the rules of any 
+securities exchange on which the Units are listed, quoted or traded, the 
+Board or Committee may from time to time delegate to a committee of one or 
+more members of the Board or one or more officers of the Company the 
+authority to grant or amend Awards or to take other administrative actions 
+pursuant to Section 3(a); provided, however, that in no event shall an 
+officer of the Company be delegated the authority to grant awards to, or 
+amend awards held by, the following individuals: (i) individuals who are 
+subject to Section 16 of the Exchange Act, or (ii) officers of the Company 
+(or Directors) to whom authority to grant or amend Awards has been 
+delegated hereunder; provided, further, that any delegation of 
+administrative authority shall only be permitted to the extent that it is 
+permissible under applicable provisions of the Code and applicable 
+securities laws and the rules of any securities exchange on which the Units 
+are listed, quoted or traded. Any delegation hereunder shall be subject to 
+such restrictions and limitations as the Board or Committee, as applicable, 
+specifies at the time of such delegation, and the Board or Committee, as 
+applicable, may at any time rescind the authority so delegated or appoint a 
+new delegatee. At all times, the delegatee appointed under this Section 
+3(b) shall serve in such capacity at the pleasure of the Board and the 
+Committee.
+
+SECTION 4. Units.
+
+(a) Limits on Units Deliverable. Subject to adjustment as provided in 
+Section 4(c), the number of Units that may be delivered with respect to 
+Awards under the Plan is [             (            )]. If any Award is 
+forfeited, cancelled, exercised, paid, or otherwise terminates or expires 
+without the actual delivery of Units pursuant to such Award (for the 
+avoidance of doubt, the grant of Restricted Units is not a delivery of 
+Units for this purpose unless and until such Restricted Units vest and any 
+restrictions placed upon them under the Plan lapse, provided, however, that 
+Restricted Units granted under the Plan that are forfeited by the recipient 
+thereof after the 10th anniversary of the effective date of the Plan shall 
+not be added back to the number of Units that may be delivered under the 
+Plan), the Units subject to such Award that are not actually delivered 
+pursuant to such Award shall again be available for Awards under the Plan. 
+To the extent permitted by applicable law and securities exchange rules, 
+Substitute Awards and Units issued in assumption of, or in substitution 
+for, any outstanding awards of any entity (including an existing Affiliate 
+of the Partnership) that is (or whose securities are) acquired in any form 
+by the Partnership or any Affiliate thereof shall not be counted against 
+the Units available for issuance pursuant to the Plan. There shall not be 
+any limitation on the number of Awards that may be paid in cash.
+
+(b) Sources of Units Deliverable Under Awards. Any Units delivered pursuant 
+to an Award shall consist, in whole or in part, of Units acquired in the 
+open market, from the Partnership, any Affiliate thereof or any other 
+Person, or Units otherwise issuable by the Partnership, or any combination 
+of the foregoing, as determined by the Committee in its discretion with the 
+Partnership being responsible for any costs associated with the Units, 
+unless otherwise determined by the Committee.
+ 
+-6-
+
+------------------------------------------------------------------------
+(c) Anti-dilution Adjustments.
+
+(i) Equity Restructuring. With respect to any equity restructuring event 
+(within the meaning of ASC Topic 718) that could result in an additional 
+compensation expense to the Company or the Partnership or any of their 
+Affiliates pursuant to the provisions of ASC Topic 718 if adjustments to 
+Awards with respect to such event were discretionary, the Committee shall 
+equitably adjust the number and type of Units covered by each outstanding 
+Award and the terms and conditions, including the exercise price and 
+performance criteria (if any), of such Award to equitably reflect such 
+event and shall adjust the number and type of Units (or other securities or 
+property) with respect to which Awards may be granted under the Plan after 
+such event. With respect to any other similar event that would not result 
+in an ASC Topic 718 accounting charge if the adjustment to Awards with 
+respect to such event were subject to discretionary action, the Committee 
+shall have complete discretion to adjust Awards and the number and type of 
+Units (or other securities or property) with respect to which Awards may be 
+granted under the Plan in such manner as it deems appropriate with respect 
+to such other event.
+
+(ii) Other Changes in Capitalization. In the event of any non-cash 
+distribution, Unit split, combination or exchange of Units, merger, 
+consolidation or distribution (other than normal cash distributions) of 
+Partnership assets to unitholders, or any other change affecting the Units 
+of the Partnership, other than an equity restructuring, the Committee may 
+make equitable adjustments, if any, to reflect such change with respect to 
+(A) the aggregate number and kind of Units that may be issued under the 
+Plan; (B) the number and kind of Units (or other securities or property) 
+subject to outstanding Awards; (C) the terms and conditions of any 
+outstanding Awards (including, without limitation, any applicable 
+performance targets or criteria with respect thereto); and (D) the grant or 
+exercise price per Unit for any outstanding Awards under the Plan.
+
+SECTION 5. Eligibility.
+
+Any Employee, Consultant or Director shall be eligible to be designated a 
+Participant and receive an Award under the Plan.
+
+SECTION 6. Awards.
+
+(a) Options and UARs. The Committee shall have the authority to determine 
+the Employees, Consultants and Directors to whom Options and/or UARs shall 
+be granted, the number of Units to be covered by each Option or UAR, the 
+exercise price therefor, the Restricted Period and other conditions and 
+limitations applicable to the exercise of the Option or UAR, including the 
+following terms and conditions and such additional terms and conditions, as 
+the Committee shall determine, that are not inconsistent with the 
+provisions of the Plan. Options which are intended to comply with Treasury 
+Regulation Section 1.409A-1(b)(5)(i)(A) and UARs which are intended to 
+comply with Treasury Regulation Section 1.409A-1(b)(5)(i)(B) or, in each 
+case, any successor regulation, may be granted only if the requirements of 
+Treasury Regulation
+ 
+-7-
+
+------------------------------------------------------------------------
+Section 1.409A-1(b)(5)(iii), or any successor regulation, are satisfied. 
+Options and UARs that are otherwise exempt from or compliant with Section 
+409A may be granted to any eligible Employee, Consultant or Director.
+
+(i) Exercise Price. The exercise price per Unit purchasable under an Option 
+or subject to a UAR shall be determined by the Committee at the time the 
+Option or UAR is granted but, except with respect to a Substitute Award, 
+may not be less than the Fair Market Value of a Unit as of the date of 
+grant of the Option or UAR.
+
+(ii) Time and Method of Exercise. The Committee shall determine the 
+exercise terms and any applicable Restricted Period with respect to an 
+Option or UAR, which may include, without limitation, provisions for 
+accelerated vesting upon the achievement of specified performance goals 
+and/or other events, and the method or methods by which payment of the 
+exercise price with respect to an Option or UAR may be made or deemed to 
+have been made, which may include, without limitation, cash, check 
+acceptable to the Company, withholding Units having a Fair Market Value on 
+the exercise date equal to the relevant exercise price from the Award, a 
+cashless exercise through procedures approved by the Company, or any 
+combination of the foregoing methods.
+
+(iii) Exercise of Options and UARs on Termination of Service. Each Option 
+and UAR Award Agreement shall set forth the extent to which the Participant 
+shall have the right to exercise the Option or UAR following a termination 
+of the Participants Service. Unless otherwise determined by the Committee, 
+if the Participants Service is terminated for Cause, the Participants 
+right to exercise the Option or UAR shall terminate as of the start of 
+business on the effective date of the Participants termination. Unless 
+otherwise determined by the Committee, to the extent the Option or UAR is 
+not vested and exercisable as of the termination of Service, the Option or 
+UAR shall terminate when the Participants Service terminates.
+
+(iv) Term of Options and UARs. The term of each Option and UAR shall be 
+stated in the Award Agreement, provided, that the term shall be no more 
+than ten (10) years from the date of grant thereof.
+
+(b) Restricted Units and Phantom Units. The Committee shall have the 
+authority to determine the Employees, Consultants and Directors to whom 
+Restricted Units and/or Phantom Units shall be granted, the number of 
+Restricted Units or Phantom Units to be granted to each such Participant, 
+the applicable Restricted Period, the conditions under which the Restricted 
+Units or Phantom Units may become vested or forfeited and such other terms 
+and conditions, including, without limitation, restrictions on 
+transferability, as the Committee may establish with respect to such 
+Awards.
+
+(i) Payment of Phantom Units. The Committee shall specify, or permit the 
+Participant to elect in accordance with the requirements of Section 409A, 
+the conditions and dates or events upon which the cash or Units underlying 
+an award of Phantom Units shall be issued, which dates or events shall not 
+be earlier than the date on which the
+ 
+-8-
+
+------------------------------------------------------------------------
+Phantom Units vest and become nonforfeitable and which conditions and dates 
+or events shall be intended to be compliant with Section 409A (unless the 
+Phantom Units are exempt therefrom).
+
+(ii) Vesting of Restricted Units. Upon or as soon as reasonably practicable 
+following the vesting of each Restricted Unit, subject to satisfying the 
+tax withholding obligations of Section 8(b), the Participant shall be 
+entitled to have the restrictions removed from his or her Unit certificate 
+(or book-entry account, as applicable) so that the Participant then holds 
+an unrestricted Unit.
+
+(c) DERs. The Committee shall have the authority to determine the 
+Employees, Consultants and/or Directors to whom DERs are granted, whether 
+such DERs are tandem or separate Awards, whether the DERs shall be paid 
+directly to the Participant, be credited to a bookkeeping account (with or 
+without interest in the discretion of the Committee), any vesting 
+restrictions and payment provisions applicable to the DERs, and such other 
+provisions or restrictions as determined by the Committee in its 
+discretion, all of which shall be specified in the applicable Award 
+Agreements. Distributions in respect of DERs shall be credited as of the 
+distribution dates during the period between the date an Award is granted 
+to a Participant and the date such Award vests, is exercised, is 
+distributed or expires, as determined by the Committee. Such DERs shall be 
+converted to cash, Units, Restricted Units and/or Phantom Units by such 
+formula and at such time and subject to such limitations as may be 
+determined by the Committee. Tandem DERs may be subject to the same or 
+different vesting restrictions as the tandem Award, or be subject to such 
+other provisions or restrictions as determined by the Committee in its 
+discretion. Notwithstanding the foregoing, DERs shall only be paid in a 
+manner that is intended to be either exempt from or in compliance with 
+Section 409A.
+
+(d) Unit Awards. Awards of Units may be granted under the Plan (i) to such 
+Employees, Consultants and/or Directors and in such amounts as the 
+Committee, in its discretion, may select, and (ii) subject to such other 
+terms and conditions, including, without limitation, restrictions on 
+transferability, as the Committee may establish with respect to such 
+Awards.
+
+(e) Profits Interest Units. Any Award consisting of Profits Interest Units 
+may be granted to an Employee, Consultant or Director for the performance 
+of services to or for the benefit of the Partnership (i) in the 
+Participants capacity as a partner of the Partnership, (ii) in 
+anticipation of the Participant becoming a partner of the Partnership, or 
+(iii) as otherwise determined by the Committee. At the time of grant, the 
+Committee shall specify the date or dates on which the Profits Interest 
+Units shall vest and become nonforfeitable, and may specify such conditions 
+to vesting as it deems appropriate. Profits Interest Units shall be subject 
+to such restrictions on transferability and other restrictions as the 
+Committee may impose.
+
+(f) Other Unit-Based Awards. Other Unit-Based Awards may be granted under 
+the Plan to such Employees, Consultants and/or Directors as the Committee, 
+in its discretion, may select. An Other Unit-Based Award shall be an award 
+denominated or payable in, valued in or otherwise based on or related to 
+Units, in whole or in part. The Committee shall determine the terms and 
+conditions of any Other Unit-Based Award. Upon vesting, an Other Unit-Based 
+Award may be paid in cash, Units (including Restricted Units) or any 
+combination thereof as provided in the Award Agreement.
+ 
+-9-
+
+------------------------------------------------------------------------
+(g) Substitute Awards. Awards may be granted under the Plan in substitution 
+of similar awards held by individuals who are or who become Employees, 
+Consultants or Directors in connection with a merger, consolidation or 
+acquisition by the Partnership or an Affiliate of another entity or the 
+securities or assets of another entity (including in connection with the 
+acquisition by the Partnership or one of its Affiliates of additional 
+securities of an entity that is an existing Affiliate of the Partnership). 
+Such Substitute Awards that are Options or UARs may have exercise prices 
+less than the Fair Market Value of a Unit on the date of the substitution 
+if such substitution complies with Section 409A and other applicable laws 
+and securities exchange rules.
+
+(h) General.
+
+(i) Award Agreements. Each Award shall be evidenced in writing in an Award 
+Agreement that shall reflect any vesting conditions or restrictions imposed 
+by the Committee covering a period of time specified by the Committee and 
+shall also contain such other terms, conditions and limitations as shall be 
+determined by the Committee in its sole discretion. Where signature or 
+electronic acceptance of the Award Agreement by the Participant is 
+required, any such Awards for which the Award Agreement is not signed or 
+electronically accepted shall be forfeited.
+
+(ii) Forfeitures. Except as otherwise provided in the terms of an Award 
+Agreement, upon termination of a Participants Service for any reason 
+during an applicable Restricted Period, all outstanding, unvested Awards 
+held by such Participant shall be automatically forfeited by the 
+Participant. Notwithstanding the immediately preceding sentence, the 
+Committee may, in its discretion, waive in whole or in part such forfeiture 
+with respect to any such Award.
+
+(iii) Awards May Be Granted Separately or Together. Awards may, in the 
+discretion of the Committee, be granted either alone or in addition to, in 
+tandem with, or in substitution for any other Award granted under the Plan 
+or any award granted under any other plan of the Company or any Affiliate 
+thereof. Awards granted in addition to or in tandem with other Awards or 
+awards granted under any other plan of the Company or any Affiliate thereof 
+may be granted either at the same time as or at a different time from the 
+grant of such other Awards or awards.
+
+(iv) Limits on Transfer of Awards.
+
+(A) Except as provided in paragraph (C) below, each Option and UAR shall be 
+exercisable only by the Participant (or the Participants legal 
+representative in the case of the Participants Disability or 
+incapacitation) during the Participants lifetime, or by the person to whom 
+the Participants rights shall pass by will or the laws of descent and 
+distribution.
+ 
+-10-
+
+------------------------------------------------------------------------
+(B) Except as provided in paragraph (C) below, no Award and no right under 
+any such Award may be assigned, alienated, pledged, attached, sold or 
+otherwise transferred or encumbered by a Participant other than by will or 
+the laws of descent and distribution and any such purported assignment, 
+alienation, pledge, attachment, sale, transfer or encumbrance shall be void 
+and unenforceable against the Company, the Partnership or any Affiliate of 
+either of the foregoing.
+
+(C) The Committee may provide in an Award Agreement or in its discretion 
+that an Award may, on such terms and conditions as the Committee may from 
+time to time establish, be transferred by a Participant without 
+consideration to any family member of the Participant, as defined in the 
+instructions to use of the Form S-8 Registration Statement under the 
+Securities Act, as applicable, or any other transferee specifically 
+approved by the Committee after taking into account any state, federal, 
+local or foreign tax and securities laws applicable to transferable Awards. 
+In addition, vested Units may be transferred to the extent permitted by the 
+Partnership Agreement and not otherwise prohibited by the Award Agreement 
+or any other agreement or policy restricting the transfer of such Units.
+
+(v) Term of Awards. Subject to Section 6(a)(iv) above, the term of each 
+Award, if any, shall be for such period as may be determined by the 
+Committee.
+
+(vi) Unit Certificates. Unless otherwise determined by the Committee or 
+required by any applicable law, rule or regulation, neither the Company nor 
+the Partnership shall deliver to any Participant certificates evidencing 
+Units issued in connection with any Award and instead such Units shall be 
+recorded in the books of the Partnership (or, as applicable, its transfer 
+agent or equity plan administrator). All certificates for Units or other 
+securities of the Partnership delivered under the Plan and all Units issued 
+pursuant to book entry procedures pursuant to any Award or the exercise 
+thereof shall be subject to such stop-transfer orders and other 
+restrictions as the Committee may deem advisable under the Plan or the 
+rules, regulations, and/or other requirements of the SEC, any securities 
+exchange upon which such Units or other securities are then listed, and any 
+applicable federal or state laws, and the Committee may cause a legend or 
+legends to be inscribed on any such certificates or book entry to make 
+appropriate reference to such restrictions.
+
+(vii) Consideration for Grants. To the extent permitted by applicable law, 
+Awards may be granted for such consideration, including services, as the 
+Committee shall determine.
+
+(viii) Delivery of Units or other Securities and Payment by Participant of 
+Consideration. Notwithstanding anything in the Plan or any Award Agreement 
+to the contrary, the Company shall not be required to issue or deliver any 
+certificates or make any book entries evidencing Units pursuant to the 
+exercise or vesting of any Award, unless and until the Board or the 
+Committee has determined, with advice of counsel, that the issuance of such 
+Units is in compliance with all applicable laws, regulations of
+ 
+-11-
+
+------------------------------------------------------------------------
+governmental authorities and, if applicable, the requirements of any 
+securities exchange on which the Units are listed or traded, and the Units 
+are covered by an effective registration statement or applicable exemption 
+from registration. In addition to the terms and conditions provided herein, 
+the Board or the Committee may require that a Participant make such 
+reasonable covenants, agreements, and representations as the Board or the 
+Committee, in its discretion, deems advisable in order to comply with any 
+such laws, regulations, or requirements. Without limiting the generality of 
+the foregoing, the delivery of Units pursuant to the exercise or vesting of 
+an Award may be deferred for any period during which, in the good faith 
+determination of the Committee, the Company is not reasonably able to 
+obtain or deliver Units pursuant to such Award without violating applicable 
+law or the applicable rules or regulations of any governmental agency or 
+authority or securities exchange. No Units or other securities shall be 
+delivered pursuant to any Award until payment in full of any amount 
+required to be paid pursuant to the Plan or the applicable Award Agreement 
+(including, without limitation, any exercise price or tax withholding) is 
+received by the Company.
+
+SECTION 7. Amendment and Termination; Certain Transactions.
+
+Except to the extent prohibited by applicable law:
+
+(a) Amendments to the Plan. Except as required by applicable law or the 
+rules of the principal securities exchange, if any, on which the Units are 
+traded and subject to Section 7(b) below, the Board or the Committee may 
+amend, alter, suspend, discontinue, or terminate the Plan in any manner at 
+any time for any reason or for no reason without the consent of any 
+partner, Participant, other holder or beneficiary of an Award, or any other 
+Person. The Board shall obtain securityholder approval of any Plan 
+amendment to the extent necessary to comply with applicable law or 
+securities exchange listing standards or rules.
+
+(b) Amendments to Awards. Subject to Section 7(a) above, the Committee may 
+waive any conditions or rights under, amend any terms of, or alter any 
+Award theretofore granted, provided that no change, other than pursuant to 
+Section 7(c) below, in any Award shall materially reduce the rights or 
+benefits of a Participant with respect to an Award without the consent of 
+such Participant.
+
+(c) Actions Upon the Occurrence of Certain Events. Upon the occurrence of a 
+Change in Control, any transaction or event described in Section 4(c) 
+above, any change in applicable laws or regulations affecting the Plan or 
+Awards hereunder, or any change in accounting principles affecting the 
+financial statements of the Company or the Partnership, the Committee, in 
+its sole discretion, without the consent of any Participant or holder of an 
+Award, and on such terms and conditions as it deems appropriate, which need 
+not be uniform with respect to all Participants or all Awards, may take any 
+one or more of the following actions:
+
+(i) provide for either (A) the termination of any Award in exchange for a 
+payment in an amount, if any, equal to the amount that would have been 
+attained upon the exercise of such Award or realization of the 
+Participants rights under such Award (and, for the avoidance of doubt, if 
+as of the date of the occurrence of such transaction or
+ 
+-12-
+
+------------------------------------------------------------------------
+event, the Committee determines in good faith that no amount would have 
+been payable upon the exercise of such Award or realization of the 
+Participants rights, then such Award may be terminated by the Company 
+without payment) or (B) the replacement of such Award with other rights or 
+property selected by the Committee in its sole discretion having an 
+aggregate value not exceeding the amount that could have been attained upon 
+the exercise of such Award or realization of the Participants rights had 
+such Award been currently exercisable or payable or fully vested;
+
+(ii) provide that such Award be assumed by the successor or survivor 
+entity, or a parent or subsidiary thereof, or be exchanged for similar 
+options, rights or awards covering the equity of the successor or survivor, 
+or a parent or subsidiary thereof, with appropriate adjustments as to the 
+number and kind of equity interests and prices;
+
+(iii) make adjustments in the number and type of Units (or other securities 
+or property) subject to outstanding Awards, the number and kind of 
+outstanding Awards, the terms and conditions of (including the exercise 
+price), and/or the vesting and performance criteria included in, 
+outstanding Awards;
+
+(iv) provide that such Award shall vest or become exercisable or payable, 
+notwithstanding anything to the contrary in the Plan or the applicable 
+Award Agreement; and
+
+(v) provide that the Award cannot be exercised or become payable after such 
+event and shall terminate upon such event.
+
+Notwithstanding the foregoing, (i) with respect to an above event that 
+constitutes an equity restructuring that would be subject to a 
+compensation expense pursuant to ASC Topic 718, the provisions in Section 
+4(c) above shall control to the extent they are in conflict with the 
+discretionary provisions of this Section 7, provided, however, that nothing 
+in this Section 7(c) or Section 4(c) above shall be construed as providing 
+any Participant or any beneficiary of an Award any rights with respect to 
+the time value, economic opportunity or intrinsic value of an Award 
+or limiting in any manner the Committees actions that may be taken with 
+respect to an Award as set forth in this Section 7 or in Section 4(c) 
+above; and (ii) no action shall be taken under this Section 7 which shall 
+cause an Award to result in taxation under Section 409A, to the extent 
+applicable to such Award.
+
+SECTION 8. General Provisions.
+
+(a) No Rights to Award. No Person shall have any claim to be granted any 
+Award under the Plan, and there is no obligation for uniformity of 
+treatment of Participants, including the treatment upon termination of 
+Service or pursuant to Section 7(c). The terms and conditions of Awards 
+need not be the same with respect to each recipient.
+
+(b) Tax Withholding. Unless other arrangements have been made that are 
+acceptable to the Company in its sole discretion, the Company or any 
+Affiliate thereof is authorized to deduct or withhold, or cause to be 
+deducted or withheld, (i) from any Award, (ii) from any
+ 
+-13-
+
+------------------------------------------------------------------------
+payment due or transfer made under any Award or (iii) from any compensation 
+or other amount owing to a Participant the amount of any applicable taxes 
+required to be withheld by the Company or any Affiliate in respect of an 
+Award, including taxes required to be withheld in connection with its 
+grant, its exercise, the lapse of restrictions thereon or any payment or 
+transfer thereunder or under the Plan, and to take such other action as may 
+be necessary in the opinion of the Company to satisfy its withholding 
+obligations for the payment of such taxes. The Company or any Affiliate may 
+withhold cash or Units, including Units that would otherwise be issued 
+pursuant to such Award or other property. In the event that Units that 
+would otherwise be issued pursuant to an Award are used to satisfy such 
+withholding obligations, the number of Units so withheld or surrendered 
+shall be limited to the number of Units that have a Fair Market Value on 
+the date of withholding equal to the aggregate amount of the Companys or 
+any Affiliates withholding obligation based on the minimum applicable 
+statutory withholding rates for federal, state, local and foreign income 
+tax and payroll tax purposes.
+
+(c) No Right to Employment or Services. The grant of an Award shall not be 
+construed as giving a Participant the right to be retained in the employ of 
+the Company, the Partnership or any of their Affiliates, or to continue to 
+serve as a Consultant or a Director, as applicable. Furthermore, the 
+Company, the Partnership and/or an Affiliate thereof may at any time 
+dismiss a Participant from employment or consulting free from any liability 
+or any claim under the Plan, unless otherwise expressly provided in the 
+Plan, any Award Agreement or other written agreement between any such 
+entity and the Participant.
+
+(d) No Rights as Unitholder. Except as otherwise provided herein, a 
+Participant shall have none of the rights of a unitholder with respect to 
+Units covered by any Award unless and until the Participant becomes the 
+record owner of such Units.
+
+(e) Section 409A. To the extent that the Committee determines that any 
+Award granted under the Plan is subject to Section 409A, the Award 
+Agreement evidencing such Award shall be drafted with the intention to 
+include the terms and conditions required by Section 409A. To the extent 
+applicable, the Plan and Award Agreements shall be interpreted in 
+accordance with Section 409A. Notwithstanding any provision of the Plan to 
+the contrary, in the event that following the Effective Date (as defined in 
+Section 9 below), the Committee determines that any Award may be subject to 
+Section 409A, the Committee may adopt such amendments to the Plan and the 
+applicable Award Agreement, adopt other policies and procedures (including 
+amendments, policies and procedures with retroactive effect), and/or take 
+any other actions that the Committee determines are necessary or 
+appropriate to attempt to preserve the intended tax treatment of the Award, 
+including without limitation, actions intended to (i) exempt the Award from 
+Section 409A, or (ii) comply with the requirements of Section 409A; 
+provided, however, that nothing herein shall create any obligation on the 
+part of the Committee, the Partnership, the Company or any of their 
+Affiliates to adopt any such amendment, policy or procedure or take any 
+such other action, nor shall the Committee, the Partnership, the Company or 
+any of their Affiliates have any liability for failing to do so. If any 
+termination of Service constitutes a payment event with respect to any 
+Award which provides for the deferral of compensation and is subject to 
+Section 409A, such termination of Service must also constitute a 
+separation from service within the meaning of Section 409A. 
+Notwithstanding any provision in the Plan to the
+ 
+-14-
+
+------------------------------------------------------------------------
+contrary, the time of payment with respect to any Award that is subject to 
+Section 409A shall not be accelerated, except as permitted under Treasury 
+Regulation Section 1.409A-3(j)(4). Notwithstanding any provision of this 
+Plan to the contrary, if a Participant is a specified employee within the 
+meaning of Section 409A as of the date of such Participants termination of 
+Service and the Company determines that immediate payment of any amounts or 
+benefits under this Plan would cause a violation of Section 409A, then any 
+amounts or benefits which are payable under this Plan upon the 
+Participants separation from service within the meaning of Section 409A 
+that: (i) are subject to the provisions of Section 409A; (ii) are not 
+otherwise exempt under Section 409A; and (iii) would otherwise be payable 
+during the first six-month period following such separation from service, 
+shall be paid, without interest, on the first business day following the 
+earlier of: (1) the date that is six months and one day following the date 
+of termination; or (2) the date of the Participants death. Each payment or 
+amount due to a Participant under this Plan shall be considered a separate 
+payment, and a Participants entitlement to a series of payments under this 
+Plan is to be treated as an entitlement to a series of separate payments.
+
+(f) Lock-Up Agreement. Each Participant shall agree, if so requested by the 
+Company or the Partnership and any underwriter in connection with any 
+public offering of securities of the Partnership or any Affiliate, not to 
+directly or indirectly offer, sell, contract to sell, sell any option or 
+contract to purchase, purchase any option or contract to sell, grant any 
+option, right or warrant for the sale of or otherwise dispose of or 
+transfer any Units held by it for such period, not to exceed one hundred 
+eighty (180) days following the effective date of the relevant registration 
+statement filed under the Securities Act in connection with such public 
+offering, as such underwriter shall specify reasonably and in good faith. 
+The Company or the Partnership may impose stop-transfer instructions with 
+respect to securities subject to the foregoing restrictions until the end 
+of such 180-day period. Notwithstanding the foregoing, the 180-day period 
+may be extended for up to such number of additional days as is deemed 
+necessary by such underwriter or the Company or Partnership to continue 
+coverage by research analysts in accordance with FINRA Rule 2711 or any 
+successor rule.
+
+(g) Compliance with Laws. The Plan, the granting and vesting of Awards 
+under the Plan and the issuance and delivery of Units and the payment of 
+money under the Plan or under Awards granted or awarded hereunder are 
+subject to compliance with all applicable federal, state, local and foreign 
+laws, rules and regulations (including but not limited to state, federal 
+and foreign securities law and margin requirements), the rules of any 
+securities exchange or automated quotation system on which the Units are 
+listed, quoted or traded, and to such approvals by any listing, regulatory 
+or governmental authority as may, in the opinion of counsel for the Company 
+or the Partnership, be necessary or advisable in connection therewith. Any 
+securities delivered under the Plan shall be subject to such restrictions, 
+and the Person acquiring such securities shall, if requested by the Company 
+or the Partnership, provide such assurances and representations to the 
+Company or the Partnership as the Company or the Partnership may deem 
+necessary or desirable to assure compliance with all applicable legal 
+requirements. To the extent permitted by applicable law, the Plan and 
+Awards granted or awarded hereunder shall be deemed amended to the extent 
+necessary to conform to such laws, rules and regulations. In the event an 
+Award is granted to or held by a Participant who is employed or providing 
+services
+ 
+-15-
+
+------------------------------------------------------------------------
+outside the United States, the Committee may, in its sole discretion, 
+modify the provisions of the Plan or of such Award as they pertain to such 
+Participant to comply with applicable foreign law or to recognize 
+differences in local law, currency or tax policy. The Committee may also 
+impose conditions on the grant, issuance, exercise, vesting, settlement or 
+retention of Awards in order to comply with such foreign law and/or to 
+minimize the Companys or the Partnerships obligations with respect to tax 
+equalization for Participants employed outside their home country.
+
+(h) Governing Law. The validity, construction, and effect of the Plan and 
+any rules and regulations relating to the Plan shall be determined in 
+accordance with the laws of the State of Delaware without regard to its 
+conflicts of laws principles.
+
+(i) Severability. If any provision of the Plan or any Award is or becomes, 
+or is deemed to be, invalid, illegal, or unenforceable in any jurisdiction 
+or as to any Person or Award, or would disqualify the Plan or any Award 
+under any law deemed applicable by the Committee, such provision shall be 
+construed or deemed amended to conform to the applicable law or, if it 
+cannot be construed or deemed amended without, in the determination of the 
+Committee, materially altering the intent of the Plan or the Award, such 
+provision shall be stricken as to such jurisdiction, Person or Award and 
+the remainder of the Plan and any such Award shall remain in full force and 
+effect.
+
+(j) Other Laws. The Committee may refuse to issue or transfer any Units or 
+other consideration under an Award if, in its sole discretion, it 
+determines that the issuance or transfer of such Units or such other 
+consideration might violate any applicable law or regulation, the rules of 
+the principal securities exchange on which the Units are then traded, or 
+entitle the Partnership or an Affiliate to recover the same under Section 
+16(b) of the Exchange Act, and any payment tendered to the Company by a 
+Participant, other holder or beneficiary in connection with the exercise of 
+such Award shall be promptly refunded to the relevant Participant, holder 
+or beneficiary.
+
+(k) No Trust or Fund Created. Neither the Plan nor any Award shall create 
+or be construed to create a trust or separate fund of any kind or a 
+fiduciary relationship between the Company, the Partnership or any of their 
+Affiliates, on the one hand, and a Participant or any other Person, on the 
+other hand. To the extent that any Person acquires a right to receive 
+payments pursuant to an Award, such right shall be no greater than the 
+right of any general unsecured creditor of the Company or any participating 
+Affiliate of the Company.
+
+(l) No Fractional Units. No fractional Units shall be issued or delivered 
+pursuant to the Plan or any Award, and the Committee shall determine 
+whether cash, other securities, or other property shall be paid or 
+transferred in lieu of any fractional Units or whether such fractional 
+Units or any rights thereto shall be canceled, terminated, or otherwise 
+eliminated.
+
+(m) Headings. Headings are given to the Sections and subsections of the 
+Plan solely as a convenience to facilitate reference. Such headings shall 
+not be deemed in any way material or relevant to the construction or 
+interpretation of the Plan or any provision hereof.
+ 
+-16-
+
+------------------------------------------------------------------------
+(n) No Guarantee of Tax Consequences. None of the Board, the Committee, the 
+Company or the Partnership provides or has provided any tax advice to any 
+Participant or any other Person or makes or has made any assurance, 
+commitment or guarantee that any federal, state, local or other tax 
+treatment will (or will not) apply or be available to any Participant or 
+other Person and assumes no liability with respect to any tax or associated 
+liabilities to which any Participant or other Person may be subject.
+
+(o) Clawback. To the extent required by applicable law or any applicable 
+securities exchange listing standards, or as otherwise determined by the 
+Committee, Awards and amounts paid or payable pursuant to or with respect 
+to Awards shall be subject to the provisions of any clawback policy 
+implemented by the Company, the Partnership or any of their Affiliates, 
+which clawback policy may provide for forfeiture, repurchase and/or 
+recoupment of Awards and amounts paid or payable pursuant to or with 
+respect to Awards. Notwithstanding any provision of this Plan or any Award 
+Agreement to the contrary, the Company, the Partnership and their 
+Affiliates reserve the right, without the consent of any Participant, to 
+adopt any such clawback policies and procedures, including such policies 
+and procedures applicable to this Plan or any Award Agreement with 
+retroactive effect.
+
+(p) Unit Retention Policy. The Committee may provide in its sole and 
+absolute discretion, subject to applicable law, that any Units received by 
+a Participant in connection with an Award granted hereunder shall be 
+subject to a unit ownership, unit retention or other policy restricting the 
+sale or transfer of units, as the Committee may determine to adopt, amend 
+or terminate in its sole discretion from time to time.
+
+(q) Limitation of Liability. No member of the Board or the Committee or 
+Employee to whom the Board or the Committee has delegated authority in 
+accordance with the provisions of Section 3 of this Plan shall be liable 
+for anything done or omitted to be done by him or her by any member of the 
+Board or the Committee or by any Employee in connection with the 
+performance of any duties under this Plan, except for his or her own 
+willful misconduct or as expressly provided by statute.
+
+(r) Facility Payment. Any amounts payable hereunder to any Person under 
+legal disability or who, in the judgment of the Committee, is unable to 
+manage properly his or her financial affairs, may be paid to the legal 
+representative of such Person, or may be applied for the benefit of such 
+Person in any manner that the Committee may select, and the Partnership, 
+the Company and all of their Affiliates shall be relieved of any further 
+liability for payment of such amounts.
+
+SECTION 9. Term of the Plan.
+
+The Plan shall be effective on the date on which the Plan is adopted by the 
+Board (the Effective Date) and shall continue until the date terminated 
+by the Board. However, any Award granted prior to such termination, and the 
+authority of the Board or the Committee to amend, alter, adjust, suspend, 
+discontinue, or terminate any such Award or to waive any conditions or 
+rights under such Award, shall extend beyond such termination date. The 
+Plan shall, within twelve (12) months after the date of the Boards initial 
+adoption of the Plan, be submitted for approval by a majority of the 
+outstanding Units of the Partnership entitled to vote.
+ 
+-17-
