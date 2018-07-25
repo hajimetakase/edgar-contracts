@@ -1,0 +1,2500 @@
+ EX-10.2 6 d253212dex102.htm EX-10.2
+Exhibit 10.2
+
+TAX MATTERS AGREEMENT
+
+by and among
+
+HILTON WORLDWIDE HOLDINGS INC.,
+
+PARK HOTELS & RESORTS INC.,
+
+HILTON GRAND VACATIONS INC., and
+
+HILTON DOMESTIC OPERATING COMPANY INC.
+
+Dated as of                         
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	  	  	   	Page
+ARTICLE I DEFINITIONS AND INTERPRETATION 	   	2
+Section 1.1
+  	Definitions 	   	2
+Section 1.2
+  	References; Interpretation 	   	13
+Section 1.3
+  	Effective Time 	   	14
+ARTICLE II PREPARATION AND FILING OF TAX RETURNS 	   	14
+Section 2.1
+  	Responsibility of HLT to Prepare and File Tax Returns 	   	14
+Section 2.2
+  	Responsibility of Parties to Prepare and File PK Straddle Income Tax 
+Returns and HGV Straddle Income Tax Returns 	   	15
+Section 2.3
+  	Responsibility of Parties to Prepare and File Post-Distribution Income 
+Tax Returns and Non-Income Tax Returns 	   	16
+Section 2.4
+  	Time of Filing Tax Returns 	   	17
+Section 2.5
+  	Costs and Expenses 	   	17
+ARTICLE III RESPONSIBILITY FOR PAYMENT OF TAXES 	   	17
+Section 3.1
+  	Responsibility for Payment of Taxes 	   	17
+Section 3.2
+  	Reimbursement of Straddle Income Taxes and Restructuring Taxes 	   	17
+Section 3.3
+  	Timing of Payments of Taxes 	   	17
+ARTICLE IV REFUNDS, CARRYBACKS AND AMENDED TAX RETURNS 	   	18
+Section 4.1
+  	Refunds 	   	18
+Section 4.2
+  	Carrybacks 	   	18
+Section 4.3
+  	Amended Tax Returns 	   	18
+ARTICLE V DISTRIBUTION TAXES 	   	19
+Section 5.1
+  	Liability for Distribution Taxes 	   	19
+Section 5.2
+  	Definition of Fault for Distribution Purposes 	   	19
+Section 5.3
+  	Limits on Proposed Acquisition Transactions and Other Transactions 
+During Restricted Period 	   	20
+Section 5.4
+  	Certain Limitations on PK with Respect to its Stock 	   	21
+Section 5.5
+  	IRS Ruling, Tax Representation Letters, and Tax Opinions; Consistency 	  
+ 	23
+Section 5.6
+  	Timing of Payment of Taxes 	   	23
+Section 5.7
+  	Protective Section 336(e) Elections 	   	23
+ARTICLE VI INDEMNIFICATION 	   	24
+Section 6.1
+  	Indemnification Obligations of HLT 	   	24
+Section 6.2
+  	Indemnification Obligations of PK 	   	24
+ 
+i
+
+------------------------------------------------------------------------
+  	  	  	   	Page
+Section 6.3
+  	Indemnification Obligations of HGV 	   	25
+Section 6.4
+  	Protected REITs 	   	25
+ARTICLE VII PAYMENTS 	   	26
+Section 7.1
+  	Payments 	   	26
+Section 7.2
+  	Treatment of Payments made Pursuant to Tax Matters Agreement 	   	26
+Section 7.3
+  	Payments Net of Tax Benefit Actually Realized and Tax Cost 	   	27
+ARTICLE VIII AUDITS 	   	27
+Section 8.1
+  	Notice 	   	27
+Section 8.2
+  	Audits 	   	27
+Section 8.3
+  	Payment of Audit Amounts 	   	29
+ARTICLE IX COOPERATION AND EXCHANGE OF INFORMATION 	   	30
+Section 9.1
+  	Cooperation and Exchange of Information 	   	30
+Section 9.2
+  	Retention of Records 	   	31
+Section 9.3
+  	Tax Opinions 	   	32
+ARTICLE X ALLOCATION OF TAX ATTRIBUTES AND OTHER TAX MATTERS 	   	32
+Section 10.1
+  	Allocation of Tax Attributes 	   	32
+Section 10.2
+  	Allocation of Tax Items 	   	32
+ARTICLE XI DEFAULTED AMOUNTS 	   	33
+Section 11.1
+  	General 	   	33
+ARTICLE XII DISPUTE RESOLUTION 	   	33
+Section 12.1
+  	Negotiation 	   	33
+Section 12.2
+  	Mediation 	   	33
+Section 12.3
+  	Confidentiality 	   	34
+Section 12.4
+  	Continuity of Performance 	   	34
+ARTICLE XIII MISCELLANEOUS 	   	34
+Section 13.1
+  	Counterparts 	   	34
+Section 13.2
+  	Survival 	   	34
+Section 13.3
+  	Notices 	   	34
+Section 13.4
+  	Waivers 	   	35
+Section 13.5
+  	Assignment 	   	35
+Section 13.6
+  	Successors and Assigns 	   	35
+Section 13.7
+  	Termination and Amendment 	   	35
+Section 13.8
+  	No Circumvention 	   	35
+Section 13.9
+  	Subsidiaries 	   	36
+ 
+ii
+
+------------------------------------------------------------------------
+  	  	  	   	Page
+Section 13.10
+  	Third Party Beneficiaries 	   	36
+Section 13.11
+  	Title and Headings 	   	36
+Section 13.12
+  	Schedules 	   	36
+Section 13.13
+  	Specific Performance 	   	36
+Section 13.14
+  	Governing Law 	   	36
+Section 13.15
+  	Consent to Jurisdiction 	   	36
+Section 13.16
+  	Waiver of Jury Trial 	   	37
+Section 13.17
+  	Force Majeure 	   	37
+Section 13.18
+  	Interpretation 	   	37
+Section 13.19
+  	Changes in Law 	   	37
+Section 13.20
+  	Severability 	   	37
+Section 13.21
+  	Tax Sharing Agreements 	   	38
+Section 13.22
+  	Exclusivity 	   	38
+Section 13.23
+  	No Waiver 	   	38
+Section 13.24
+  	No Duplication; No Double Recovery 	   	38
+
+Schedules
+ 
+Schedule 2.3 	  	List of Certain Allocations of Non-Income Taxes
+Schedule 8.3(b) 	  	List of Specified Audit Taxes
+ 
+iii
+
+------------------------------------------------------------------------
+TAX MATTERS AGREEMENT
+
+THIS TAX MATTERS AGREEMENT (this Agreement) is made and entered into as 
+of the day of                         , by and among Hilton Worldwide 
+Holdings Inc., a Delaware corporation (HLT), Park Hotels & Resorts Inc., 
+a Delaware corporation (PK), Hilton Grand Vacations Inc., a Delaware 
+corporation (HGV) and Hilton Domestic Operating Company Inc., a Delaware 
+corporation (OpCo). Each of HLT, PK, HGV and OpCo is sometimes referred 
+to herein as a Party and, collectively, as the Parties.
+
+
+WITNESSETH:
+
+WHEREAS, HLT, acting through its direct and indirect Subsidiaries, 
+currently conducts a number of businesses, including (i) the HLT Retained 
+Business (as defined herein), (ii) the Ownership Business (as defined 
+herein) and (iii) the Timeshare Business (as defined herein);
+
+WHEREAS, the Board of Directors of HLT (the Board) has determined that it 
+is appropriate, desirable and in the best interests of HLT and its 
+stockholders to separate HLT into three separate, publicly traded 
+companies, one for each of (i) the HLT Retained Business, which shall be 
+owned and conducted, directly or indirectly, by HLT, (ii) the Ownership 
+Business, which shall be owned and conducted, directly or indirectly, by PK 
+(which will elect to be a REIT (as defined herein)) and (iii) the Timeshare 
+Business, which shall be owned and conducted, directly or indirectly, by 
+HGV;
+
+WHEREAS, in order to effect such separation, the Board has determined that 
+it is appropriate, desirable and in the best interests of HLT and its 
+stockholders (i) to enter into a series of transactions after giving effect 
+to which (A) HLT and/or one or more of its Subsidiaries (as defined herein) 
+will, collectively, own all of the HLT Retained Assets (as defined herein) 
+and assume (or retain) all of the HLT Retained Liabilities (as defined 
+herein), (B) PK and/or one or more of its Subsidiaries will, collectively, 
+own all of the Ownership Assets (as defined herein) and assume (or retain) 
+all of the Ownership Liabilities (as defined herein) and (C) HGV and/or one 
+or more of its Subsidiaries will, collectively, own all of the Timeshare 
+Assets (as defined herein) and assume (or retain) all of the Timeshare 
+Liabilities (as defined herein) and (ii) for HLT to distribute to the 
+holders of its common stock, par value $0.01 per share (HLT Common Stock
+), on a pro rata basis (in each case without consideration being paid by 
+such stockholders) (A) all of the outstanding shares of common stock, par 
+value $0.01 per share, of PK (the PK Common Stock) and (B) all of the 
+outstanding shares of common stock, par value $0.01 per share, of HGV (the 
+HGV Common Stock) (such transactions as they may be amended or modified 
+from time to time, collectively, the Plan of Reorganization);
+
+WHEREAS, it is the intention of the Parties that (i) each of the 
+contributions by PK of Assets to, and the assumption of Liabilities by, 
+OpCo and HGV (each such contribution, an Internal Contribution and 
+together, the Internal Contributions) together with the corresponding 
+distribution by PK of all of the OpCo common stock and the HGV Common 
+Stock, respectively, qualifies as a reorganization within the meaning of 
+Sections 368(a)(1)(D) and 355 of the Internal Revenue Code of 1986, as 
+amended (the Code) (each such distribution, an Internal Distribution 
+and together, the Internal Distributions), (ii) the use by PK of the Cash 
+Proceeds (as defined herein) from OpCo qualifies under Section 361(b) of 
+the Code such
+
+------------------------------------------------------------------------
+that no gain is recognized upon receipt of the Cash Proceeds by PK in 
+connection with any Internal Contribution, (iii) the Debt Exchanges (as 
+defined herein) qualify as distributions and exchanges of qualified 
+property within the meaning of Section 361(c) of the Code, (iv) the 
+distribution by HGV of Cash Proceeds to HLT qualifies first as a payment in 
+respect of Tax liabilities allocable to HGV or one of its Subsidiaries 
+under Treasury Regulations Section 1.1552-1(b) (or any corresponding 
+provisions under U.S. state or local Law), in each case to the extent of 
+any such Tax liabilities, and second as as a distribution under Section 301 
+of the Code from HGV to HLT, (v) any distribution by OpCo of Cash Proceeds 
+to Hilton Worldwide Finance LLC, a Delaware limited liability company (
+HWF) qualifies as a distribution under Section 301 of the Code from OpCo 
+to HLT, (vi) any distribution by PK of Cash Proceeds to HWF qualifies first 
+as a payment in respect of Tax liabilities allocable to PK or one of its 
+Subsidiaries under Treasury Regulations Section 1.1552-1(b) (or any 
+corresponding provisions under U.S. state or local Law), in each case to 
+the extent of any such Tax liabilities, and second as a distribution under 
+Section 301 of the Code from PK to HLT and (vii) each of the distributions 
+by HLT of all of the PK Common Stock (the PK Distribution) and HGV Common 
+Stock (the HGV Distribution and together with the PK Distribution, the 
+External Distributions) qualifies as a tax-free distribution within the 
+meaning of Section 355 of the Code (collectively, the Intended Tax 
+Treatment); and
+
+WHEREAS, in connection with the Plan of Reorganization, the Parties desire 
+to set forth their agreement on the rights and obligations with respect to 
+handling and allocating Taxes and related matters.
+
+NOW, THEREFORE, in consideration of the foregoing and the terms, 
+conditions, covenants and provisions of this Agreement, each of the Parties 
+mutually covenant and agree as follows:
+
+
+ARTICLE I
+
+DEFINITIONS AND INTERPRETATION
+
+Section 1.1 Definitions. As used in this Agreement, the following terms 
+shall have the following meanings:
+
+(1) Acquisition means an acquisition for purposes of Section 355(e) of 
+the Code of stock of PK, or issuance by PK of any options or other 
+instruments that grant the holder a right (including if PK has a right to 
+settle the obligation with property other than PK stock) to complete such 
+an acquisition. The terms Acquire and Acquired has a corresponding 
+meaning. For purposes of determining whether and to what extent a 
+transaction shall be taken into account for purposes of this definition, 
+any recapitalization or other action resulting in a shift of voting power 
+or any redemption or repurchase of shares of stock shall be treated as an 
+indirect acquisition of shares of stock by the benefitted or non-exchanging 
+stockholders.
+
+(2) Active Business means each of (a) the Ownership Business, the HLT 
+Retained Business and the Timeshare Business, in each case taken as a 
+whole, (b) the Select Hotels Business taken as a whole (or any hotel 
+included therein) and (c) the Hotel Laundry Business taken as a whole (or 
+any laundry facility included therein).
+ 
+2
+
+------------------------------------------------------------------------
+(3) Affiliate means a Person that directly, or indirectly, through one or 
+more intermediaries, controls, or is controlled by, or is under common 
+control with, a specified Person. A Person shall be deemed to control 
+another Person if such first Person possesses, directly or indirectly, the 
+power to direct, or cause the direction of, the management and policies of 
+such other Person, whether through the ownership of voting securities, by 
+contract or otherwise. For purposes hereof, none of the Parties or their 
+respective Subsidiaries shall be considered an Affiliate of any of the 
+other Parties or their respective Subsidiaries (determined on the same 
+basis). For the avoidance of doubt, for purposes hereof, neither The 
+Blackstone Group L.P. (nor any of its Affiliates) shall be considered an 
+Affiliate of any Party or its Subsidiaries.
+
+(4) Agreement has the meaning set forth in the preamble hereto.
+
+(5) Agreement Dispute has the meaning set forth in Section 12.1.
+
+(6) Ancillary Agreements has the meaning set forth in the Distribution 
+Agreement.
+
+(7) Assets has the meaning set forth in the Distribution Agreement.
+
+(8) Audit means any audit, assessment of Taxes, other examination by or 
+on behalf of any Taxing Authority (including notices), proceeding, or 
+appeal of such a proceeding relating to Taxes, whether administrative or 
+judicial, including proceedings relating to competent authority 
+determinations initiated by a Party or any of its Subsidiaries.
+
+(9) Audit Management Party means the Party responsible for administering 
+and controlling an Audit pursuant to Section 8.2(a)(i) or (b)(ii).
+
+(10) Audit Representative means the chief tax officer of each Party (or 
+such other officer of a Party that may be designated by that Partys Chief 
+Financial Officer from time to time).
+
+(11) Big Four Accounting Firm means each of Deloitte & Touche LLP, Ernst 
+& Young LLP, KPMG LLP, and PricewaterhouseCoopers LLP.
+
+(12) Blackstone Entity has the meaning set forth in the Stockholders 
+Agreement.
+
+(13) Blackstone-PK Applicable Percentage has the meaning set forth in the 
+Stockholders Agreement.
+
+(14) Blackstone-PK Percentage Shift Limit has the meaning set forth in 
+the Stockholders Agreement.
+
+(15) Blackstone Representative has the meaning set forth in the 
+Stockholders Agreement.
+
+(16) Board has the meaning set forth in the recitals hereto.
+
+(17) Business Day means any day other than a Saturday, Sunday or a day on 
+which banks are required to be closed in New York, New York.
+ 
+3
+
+------------------------------------------------------------------------
+(18) Cash Proceeds means (i) the cash proceeds received by PK as partial 
+consideration for the Internal Contribution to OpCo, (ii) the cash proceeds 
+received by HWF from OpCo after the Internal Distribution of OpCo stock, 
+(iii) any cash proceeds received by HWF from PK before the PK Distribution 
+as part of the Plan of Reorganization and (iv) the cash proceeds received 
+by HLT from HGV before the HGV Distribution, as the context requires.
+
+(19) Claiming Party has the meaning set forth in Section 11.2(b).
+
+(20) Code has the meaning set forth in the recitals hereto.
+
+(21) Debt Exchanges means (i) OpCo issuing debt instruments to PK as 
+partial consideration for the Internal Contribution to OpCo and PK using 
+such debt instruments to satisfy some or all of the debt owed by PK to 
+Hilton HHonors Worldwide, L.L.C., and (ii) HGV issuing debt instruments to 
+PK as partial consideration for the Internal Contribution to HGV and PK 
+using such debt instruments to satisfy some or all of the mortgage debt 
+owed by PK and secured by a hotel in Bonnet Creek, Florida.
+
+(22) Delaware Courts has the meaning set forth in Section 13.15.
+
+(23) Distribution or Distributions means, individually or collectively, 
+the Internal Distributions and the External Distributions.
+
+(24) Distribution Agreement means the Distribution Agreement by and among 
+HLT, PK, HGV and OpCo dated as of                         .
+
+(25) Distribution Date means the date on which the Distributions to 
+holders of record of shares of HLT Common Stock of the HGV Common Stock and 
+the PK Common Stock owned by HLT are effectuated pursuant to the 
+Distribution Agreement.
+
+(26) Distribution Taxes mean any and all U.S. federal, state and local 
+Income Taxes required to be paid by or imposed on a Party or any of its 
+Affiliates resulting from, or directly arising in connection with, the 
+failure of any Internal Contribution, any Distribution, any receipt of Cash 
+Proceeds, or any Debt Exchange to qualify for the Intended Tax Treatment 
+(or the failure to qualify under or the application of corresponding 
+provisions of the Laws of U.S. state or local jurisdictions).
+
+(27) Due Date means the date (taking into account all valid extensions) 
+upon which a Tax Return is required to be filed with or Taxes are required 
+to be paid to a Taxing Authority, whichever is applicable.
+
+(28) Effective Time has the meaning set forth in the Distribution 
+Agreement.
+
+(29) Escrow Account has the meaning set forth in Section 6.4.
+
+(30) Expense Amount has the meaning set forth in Section 6.4.
+
+(31) Expense Amount Accountants Letter has the meaning set forth in 
+Section 6.4.
+ 
+4
+
+------------------------------------------------------------------------
+(32) Expense Amount Tax Opinion has the meaning set forth in Section 6.4.
+
+(33) External Distribution has the meaning set forth in the recitals 
+hereto.
+
+(34) Fault for Distribution Purposes has the meaning set forth in Section 
+5.2.
+
+(35) Final Determination means the final resolution of liability for any 
+Tax for any taxable period, by or as a result of:
+
+(a) a final decision, judgment, decree or other order by any court of 
+competent jurisdiction that can no longer be appealed to a court other than 
+the Supreme Court of the United States;
+
+(b) a final settlement with the IRS, a closing agreement or accepted offer 
+in compromise under Sections 7121 or 7122 of the Code, or a comparable 
+agreement under the Laws of other jurisdictions, which resolves the 
+liability for the Taxes addressed in such agreement for any taxable period;
+
+(c) any allowance of a refund or credit in respect of an overpayment of 
+Tax, but only after the expiration of all periods during which such refund 
+or credit may be recovered by the jurisdiction imposing the Tax; or
+
+(d) any other final disposition, including by reason of the expiration of 
+the applicable statute of limitations.
+
+(36) Group means the HLT Group, the PK Group, or the HGV Group.
+
+(37) HGV has the meaning set forth in the preamble hereto.
+
+(38) HGV Allocable Audit Portion means the amount, determined by HLT in 
+its good faith discretion, equal to the product of (a) the amount of any 
+Taxes attributable to a Pre-Distribution Tax Period or the portion of a 
+Straddle Tax Period ending on the Distribution Date that are not reported 
+on a Tax Return filed for such periods, and (b) a fraction (i) the 
+numerator of which is the additional Taxes that would be due and payable 
+determined on a separate basis for the Timeshare Assets or the Timeshare 
+Business, and (ii) the denominator of which is the sum of the additional 
+Taxes that would be due and payable determined on a separate basis for each 
+of the HLT Retained Assets or the HLT Retained Business, the Ownership 
+Assets or the Ownership Business, and the Timeshare Assets or the Timeshare 
+Business, respectively. For purposes of this determination, any 
+Distribution Taxes, Specified Audit Taxes or Restructuring Taxes incurred 
+shall be deemed not to have been incurred, regardless of which entity 
+incurs such Taxes.
+
+(39) HGV Common Stock has the meaning set forth in the recitals hereto.
+
+(40) HGV Distribution has the meaning set forth in the recitals hereto.
+
+(41) HGV Group has the meaning set forth in the Distribution Agreement.
+ 
+5
+
+------------------------------------------------------------------------
+(42) HGV Straddle Income Tax Returns means any Income Tax Return required 
+under applicable Law to be filed by any member of the HGV Group for a 
+Straddle Tax Period.
+
+(43) HLT has the meaning set forth in the preamble hereto.
+
+(44) HLT Allocable Audit Portion means the amount, determined by HLT in 
+its good faith discretion, equal to the product of (a) the amount of any 
+Taxes attributable to a Pre-Distribution Tax Period or the portion of a 
+Straddle Tax Period ending on the Distribution Date that are not reported 
+on a Tax Return filed for such periods, and (b) a fraction (i) the 
+numerator of which is the additional Taxes that would be due and payable 
+determined on a separate basis for the HLT Retained Assets or the HLT 
+Retained Business, and (ii) the denominator of which is the sum of the 
+additional Taxes that would be due and payable determined on a separate 
+basis for each of the HLT Retained Assets or the HLT Retained Business, the 
+Ownership Assets or the Ownership Business, and the Timeshare Assets or the 
+Timeshare Business, respectively. For purposes of this determination, any 
+Distribution Taxes, Specified Audit Taxes or Restructuring Taxes incurred 
+shall be deemed not to have been incurred, regardless of which entity 
+incurs such Taxes.
+
+(45) HLT Combined Income Tax Return means any U.S. federal, state, local 
+or foreign consolidated, combined, unitary or similar Income Tax Return 
+that actually includes, by election or otherwise, one or more members of 
+the HLT Group together with one or more members of either the PK Group or 
+the HGV Group.
+
+(46) HLT Common Stock has the meaning set forth in the recitals hereto.
+
+(47) HLT Group has the meaning set forth in the Distribution Agreement.
+
+(48) HLT Retained Assets has the meaning set forth in the Distribution 
+Agreement and shall include any Assets owned leased or licensed by HLT or 
+its current or prior Subsidiaries at any time (whether or not owned, leased 
+or licensed by HLT or its Subsidiaries at or prior to the Effective Time) 
+that related primarily to, were used primarily in, or arose primarily from, 
+the HLT Retained Business.
+
+(49) HLT Retained Business has the meaning set forth in the Distribution 
+Agreement.
+
+(50) HLT Retained Liabilities has the meaning set forth in the 
+Distribution Agreement.
+
+(51) HLT Straddle Income Tax Returns means any Income Tax Return required 
+under applicable Law to be filed by any member of the HLT Group for a 
+Straddle Tax Period.
+
+(52) Hotel Laundry Business means the component of the Ownership Business 
+involving the management and operation of commercial laundry facilities 
+servicing hotels, located in Portage, Indiana, Piscataway, New Jersey and 
+Portland, Oregon.
+
+(53) HWF has the meaning set forth in the recitals hereto.
+ 
+6
+
+------------------------------------------------------------------------
+(54) Implementing Agreement means any agreement the primary purpose of 
+which is to implement one or more steps described in the Reorganization 
+Slide Deck.
+
+(55) Income Taxes mean:
+
+(a) all Taxes based upon, measured by, or calculated with respect to (i) 
+net income or profits (including, but not limited to, any capital gains, 
+minimum tax or any Tax on items of tax preference, but not including sales, 
+use, real, or personal property, gross or net receipts, value added, 
+excise, leasing, transfer or similar Taxes), or (ii) multiple bases 
+(including, but not limited to, corporate franchise, doing business and 
+occupation Taxes) if one or more bases upon which such Tax is determined is 
+described in clause (a)(i) above; and
+
+(b) all U.S., state, local or non-U.S. franchise Taxes.
+
+(56) Income Tax Returns mean all Tax Returns that relate to Income Taxes.
+
+(57) Indemnified Party means the Party which is or may be entitled 
+pursuant to this Agreement to receive any payments (including reimbursement 
+for Taxes or costs and expenses) from another Party or Parties to this 
+Agreement.
+
+(58) Indemnifying Party means the Party which is or may be required 
+pursuant to this Agreement to make indemnification or other payments 
+(including reimbursement for Taxes and costs and expenses) to another Party 
+to this Agreement.
+
+(59) Intended Tax Treatment has the meaning set forth in the recitals 
+hereto.
+
+(60) Internal Contribution has the meaning set forth in the recitals 
+hereto.
+
+(61) Internal Distribution has the meaning set forth in the recitals 
+hereto.
+
+(62) IRS means the United States Internal Revenue Service or any 
+successor thereto, including, but not limited to its agents, 
+representatives, and attorneys.
+
+(63) IRS Ruling means that certain IRS private letter ruling, dated 
+February 24, 2016, delivered to HLT and addressing, among other things, 
+certain issues relevant to the tax-free treatment of the Distributions, 
+together with the requests submitted to the IRS for such private letter 
+ruling and any supplemental materials submitted to the IRS relating 
+thereto.
+
+(64) Law means any U.S. or non-U.S. federal, national, supranational, 
+state, provincial, local or similar statute, law, ordinance, regulation, 
+rule, code, administrative pronouncement, order, requirement or rule of law 
+(including common law), or any income tax treaty.
+
+(65) LIBOR has the meaning set forth in the Distribution Agreement.
+
+(66) Losses has the meaning assigned to the term Indemnifiable Losses 
+in the Distribution Agreement.
+ 
+7
+
+------------------------------------------------------------------------
+(67) Majority of the Parties means the consent of at least two of the 
+Parties.
+
+(68) Negotiation Period has the meaning set forth in Section 12.1.
+
+(69) Non-Income Tax Returns mean all Tax Returns other than Income Tax 
+Returns.
+
+(70) Nonqualifying Income shall mean any amount that is treated as gross 
+income for purposes of Section 856 of the Code and which is not Qualifying 
+Income.
+
+(71) OpCo has the meaning set forth in the preamble hereto.
+
+(72) Ownership Assets has the meaning set forth in the Distribution 
+Agreement and shall include any Assets owned leased or licensed by HLT or 
+its current or prior Subsidiaries at any time (whether or not owned, leased 
+or licensed by HLT or its Subsidiaries at or prior to the Effective Time) 
+that related primarily to, were used primarily in, or arose primarily from, 
+the Ownership Business.
+
+(73) Ownership Business has the meaning set forth in the Distribution 
+Agreement.
+
+(74) Ownership Liabilities has the meaning set forth in the Distribution 
+Agreement.
+
+(75) Participating Party has the meaning set forth in Section 8.2(c)(i).
+
+(76) Party has the meaning set forth in the preamble hereto.
+
+(77) Paying Party has the meaning set forth in Section 2.3(b).
+
+(78) Person means any natural person, firm, individual, corporation, 
+business trust, joint venture, association, company, limited liability 
+company, partnership, or other organization or entity, whether incorporated 
+or unincorporated, or any governmental entity.
+
+(79) PK has the meaning set forth in the preamble hereto.
+
+(80) PK Allocable Audit Portion means the amount, determined by HLT in 
+its good faith discretion, equal to the product of (a) the amount of any 
+Taxes attributable to a Pre-Distribution Tax Period or the portion of a 
+Straddle Tax Period ending on the Distribution Date that are not reported 
+on a Tax Return filed for such periods, and (b) a fraction (i) the 
+numerator of which is the additional Taxes that would be due and payable 
+determined on a separate basis for the Ownership Assets or the Ownership 
+Business, and (ii) the denominator of which is the sum of the additional 
+Taxes that would be due and payable determined on a separate basis for each 
+of the HLT Retained Assets or the HLT Retained Business, the Ownership 
+Assets or the Ownership Business, and the Timeshare Assets or the Timeshare 
+Business, respectively. For purposes of this determination, any 
+Distribution Taxes, Specified Audit Taxes or Restructuring Taxes incurred 
+shall be deemed not to have been incurred, regardless of which entity 
+incurs such Taxes.
+ 
+8
+
+------------------------------------------------------------------------
+(81) PK Applicable Percentage means the percentage shift in ownership 
+equal to the greater of (a) the percentage determined by dividing (i) the 
+value of all shares of PK stock (as of immediately after the Distribution) 
+Acquired pursuant to one or more PK Issuances of PK stock occurring on or 
+after the Distribution Date by (ii) the value of all outstanding stock of 
+PK as of immediately after the Distribution, or (b) the percentage 
+determined by dividing (i) the total combined voting power of all shares of 
+PK stock (as of immediately after the Distribution) Acquired pursuant to 
+one or more PK Issuances occurring on or after the Distribution Date by 
+(ii) the total combined voting power of all outstanding stock of PK as of 
+immediately after the Distribution. The amount set forth in (a)(ii) or 
+(b)(ii) shall be reduced by any redemption or repurchase (directly or 
+indirectly) by PK (or its Subsidiaries) of PK Common Stock following the 
+Distribution and prior to the last such PK Issuance (with such reduction 
+calculated in the case of (a)(ii) using the value of the applicable stock 
+as of immediately after the Distribution). This definition and the 
+application thereof is intended to monitor compliance with Section 355(e) 
+of the Code and the Treasury Regulations promulgated thereunder and shall 
+be interpreted accordingly by the Parties in good faith.
+
+(82) PK Common Stock has the meaning set forth in the recitals hereto.
+
+(83) PK Percentage Shift Limit means 8.34%, as adjusted from time to time 
+by mutual written consent of the Blackstone Representative and PK or under 
+Section 5.4(f) or (g); provided, however, that the sum of the Blackstone-PK 
+Percentage Shift Limit and the PK Percentage Shift Limit immediately after 
+such adjustments must equal such sum immediately before such adjustments; 
+provided further, that if PK has actual knowledge that the Blackstone-PK 
+Applicable Percentage exceeds the Blackstone-PK Percentage Shift Limit, the 
+PK Percentage Shift Limit shall be reduced by such excess (without 
+prejudice to any rights or remedies PK or any other Party may have).
+
+(84) PK Group has the meaning set forth in the Distribution Agreement.
+
+(85) PK Issuance has the meaning set forth in Section 5.4(a).
+
+(86) PK Straddle Income Tax Returns means any Income Tax Return required 
+under applicable Law to be filed by any member of the PK Group for a 
+Straddle Tax Period.
+
+(87) Plan of Reorganization has the meaning set forth in the recitals 
+hereto.
+
+(88) Post-Distribution Income Tax Returns mean, collectively, all Income 
+Tax Returns required to be filed by a Party or its Affiliates for a 
+Post-Distribution Tax Period.
+
+(89) Post-Distribution Payment Tax Benefit has the meaning set forth in 
+Section 11.2(b).
+
+(90) Post-Distribution Ruling has the meaning set forth in Section 5.3.
+
+(91) Post-Distribution Tax Period means a Tax period beginning and ending 
+after the Distribution Date.
+
+(92) Pre-Distribution Income Tax Returns mean, collectively, all Income 
+Tax Returns required to be filed by a Party or its Affiliates for a 
+Pre-Distribution Tax Period.
+ 
+9
+
+------------------------------------------------------------------------
+(93) Pre-Distribution Tax Period means a Tax period beginning and ending 
+on or before the Distribution Date.
+
+(94) Preparing Party has the meaning set forth in Section 2.3(b).
+
+(95) Proposed Acquisition Transaction means a transaction or series of 
+transactions (i) as a result of which any of the Parties would merge or 
+consolidate with any other Person, or (ii) as a result of which any Person 
+or any group of Persons would (directly or indirectly) acquire, or have the 
+right to acquire (through an option or otherwise), from any of the Parties 
+or any of their Affiliates and/or one or more holders of their stock, 
+respectively, any amount of stock of any of the Parties that would, when 
+combined with any other changes in ownership of the stock of such Party, 
+result in a shift of more than forty-nine percent (49%) of (a) the value of 
+all outstanding shares of stock of such Party as of the date of the 
+Distribution, or (b) the total combined voting power of all outstanding 
+shares of voting stock of such Party as of the date of the Distribution. 
+Notwithstanding the foregoing, a Proposed Acquisition Transaction shall not 
+include the adoption by a Party of, or the issuance of stock pursuant to, a 
+stockholder rights plan. For purposes of the preceding sentence, the total 
+value or total combined voting power of all HLT Common Stock, PK Common 
+Stock or HGV Common Stock, as applicable, issued and outstanding 
+immediately after the Distribution shall be reduced by any redemption or 
+repurchase (directly or indirectly) by a Party (or any of its Affiliates) 
+of HLT Common Stock, PK Common Stock or HGV Common Stock, as applicable, 
+following the Distribution. For purposes of determining whether and to what 
+extent a transaction constitutes an indirect acquisition for purposes of 
+the first sentence of this definition, any recapitalization or other action 
+resulting in a shift of voting power or any redemption or repurchase of 
+shares of stock shall be treated as an indirect acquisition of shares of 
+stock by the benefitted or non-exchanging stockholders. Notwithstanding the 
+two previous sentences, the effect of any such recapitalization, other 
+action, or redemption or repurchase (directly or indirectly) of shares 
+shall take into account any applicable IRS private letter ruling received 
+by one or more of the Parties with respect thereto. This definition and the 
+application thereof is intended to monitor compliance with Section 355(e) 
+of the Code and the Treasury Regulations promulgated thereunder and shall 
+be interpreted accordingly by the Parties in good faith.
+
+(96) Protected REIT shall mean any entity that (i) has elected to be 
+taxed as a REIT and (ii) either (a) is an Indemnified Party or (b) owns a 
+direct or indirect equity interest in any Indemnified Party and is treated 
+for purposes of Section 856 of the Code as owning all or a portion of the 
+assets of such Indemnified Party or as receiving all or a portion of such 
+Indemnified Partys income.
+
+(97) Qualified Tax Advisor means any Big Four Accounting Firm or any law 
+firm of nationally recognized standing.
+
+(98) Qualifying Income shall mean gross income that is described in 
+Section 856(c)(3) of the Code.
+
+(99) Reallocation Event has the meaning set forth in the Stockholders 
+Agreement.
+ 
+10
+
+------------------------------------------------------------------------
+(100) Reallocation Event Reduction has the meaning set forth in the 
+Stockholders Agreement.
+
+(101) REIT shall mean any a real estate investment trust within the 
+meaning of Section 856(a) of the Code.
+
+(102) REIT Qualification Ruling has the meaning set forth in Section 6.4.
+
+(103) REIT Requirements shall mean the requirements imposed on REITs 
+pursuant to Sections 856 through and including 860 of the Code.
+
+(104) Release Document has the meaning set forth in Section 6.4.
+
+(105) Reorganization Slide Deck means the Plan of Reorganization (as such 
+term is used in the Distribution Agreement).
+
+(106) Requesting Party shall have the meaning set forth in Section 5.3.
+
+(107) Restricted Period means the period beginning at the Effective Time 
+and ending on the two-year anniversary of the day after the Distribution 
+Date.
+
+(108) Restructuring Tax means any Tax, other than any Distribution Tax, 
+required to be paid by or imposed on a Party or any of its Affiliates, 
+imposed directly in connection with transactions contemplated by the Plan 
+of Reorganization, the Reorganization Slide Deck or the Implementing 
+Agreements, in each case undertaken before or at the same time as any of 
+the Distributions.
+
+(109) Select Hotels Business means the component of the Ownership 
+Business involving the day-to-day management and operation by PK of (i) the 
+Hilton Garden Inn in El Segundo, California, (ii) the Hampton Inn & Suites 
+in Memphis, Tennessee, (iii) the Hilton Garden Inn Chicago/Oakbrook 
+Terrace, and (iv) the Hilton Chicago/Oakbrook Suites.
+
+(110) Specified Audit Taxes has the meaning set forth in Section 8.3(b).
+
+(111) Stockholders Agreement means that certain Stockholders Agreement by 
+and among HLT, HGV and the Blackstone Entities party thereto dated as of    
+                     .
+
+(112) Sharing Percentages means, with respect to HLT, sixty-five percent 
+(65%), with respect to PK, twenty-six percent (26%), and with respect to 
+HGV, nine percent (9%).
+
+(113) Simpson means Simpson Thacher & Bartlett LLP.
+
+(114) Straddle Tax Period means a Tax period beginning before the 
+Distribution Date and ending after the Distribution Date.
+
+(115) Subsidiary has the meaning set forth in the Distribution Agreement.
+ 
+11
+
+------------------------------------------------------------------------
+(116) Tax or Taxes means (i) all taxes, charges, fees, imposts, levies 
+or other assessments, including all net income, gross receipts, capital, 
+sales, use, gains, ad valorem, value added, transfer, franchise, profits, 
+inventory, capital stock, license, withholding, payroll, employment, social 
+security, unemployment, excise, severance, stamp, occupation, property and 
+estimated taxes, custom duties, fees, assessments and charges of any kind 
+whatsoever, and (ii) liability for the payment of any amount of the type 
+described in clause (i) above arising as a result of being (or having been) 
+a member of any group or being (or having been) included or required to be 
+included in any Tax Return related thereto. Whenever the term Tax or 
+Taxes is used it shall include penalties, fines, additions to tax and 
+interest thereon.
+
+(117) Tax Attributes mean for U.S. federal, state, local, and non-U.S. 
+Income Tax purposes, earnings and profits, tax basis, net operating and 
+capital loss carryovers or carrybacks, alternative minimum Tax credit 
+carryovers or carrybacks, general business credit carryovers or carrybacks, 
+income tax credits or credits against income tax, disqualified interest and 
+excess limitation carryovers or carrybacks, overall foreign losses, 
+research and experimentation credit base periods, and all other items that 
+are determined or computed on an affiliated group basis (as defined in 
+Section 1504(a) of the Code determined without regard to the exclusion 
+contained in Section 1504(b)(3) of the Code), or similar Tax items 
+determined under applicable Tax law.
+
+(118) Tax Benefit Actually Realized means with respect to a Party and its 
+Subsidiaries a reduction in the amount of Taxes that are required to be 
+paid or an increase in refund due, whether resulting from a deduction, from 
+reduced gain or increased loss from disposition of an asset, or otherwise, 
+such reduction or increase in refund due determined on an actually 
+realized basis. For purposes of this definition, a Party or its 
+Subsidiaries will be deemed to have actually realized such reduction or 
+increase in refund due at the time the amount of Taxes such Party or any of 
+its Subsidiaries is required to pay is reduced or the amount of any refund 
+due is increased. The amount of any Tax Benefit Actually Realized shall be 
+computed on a with and without basis.
+
+(119) Taxing Authority means any governmental authority or any 
+subdivision, agency, commission, or authority thereof or any 
+quasi-governmental or private body having jurisdiction over the assessment, 
+determination, collection, or imposition of any Tax (including the IRS).
+
+(120) Tax Opinions mean certain Tax opinions and supporting memoranda 
+rendered by Simpson or KPMG to HLT or any of its Affiliates in connection 
+with the Plan of Reorganization.
+
+(121) Tax Package means Tax data and information relating to the 
+operations of PK, HGV and/or their respective Subsidiaries, the Ownership 
+Business (in the case of PK), or the Timeshare Business (in the case of 
+HGV) that is reasonably necessary to prepare and file any Pre-Distribution 
+Income Tax Return, HLT Straddle Income Tax Return, PK Straddle Income Tax 
+Return, or HGV Straddle Income Tax Return, as applicable.
+
+(122) Tax Representation Letter means any letter containing certain 
+representations and covenants issued by HLT or any of its Affiliates to 
+Simpson or KPMG in connection with the Tax Opinions.
+ 
+12
+
+------------------------------------------------------------------------
+(123) Tax Returns mean any return, report, certificate, form or similar 
+statement or document (including any related or supporting information or 
+schedule attached thereto and any information return, amended tax return, 
+claim for refund, or declaration of estimated Tax) required to be supplied 
+to, or filed with, a Taxing Authority in connection with the determination, 
+assessment or collection of any Tax or the administration of any Laws, 
+regulations, or administrative requirements relating to any Taxes.
+
+(124) Tax Sharing Agreement has the meaning set forth in Section 8.3(c).
+
+(125) Timeshare Assets has the meaning set forth in the Distribution 
+Agreement and shall include any Assets owned leased or licensed by HLT or 
+its current or prior Subsidiaries at any time (whether or not owned, leased 
+or licensed by HLT or its Subsidiaries at or prior to the Effective Time) 
+that related primarily to, were used primarily in, or arose primarily from, 
+the Timeshare Business.
+
+(126) Timeshare Business has the meaning set forth in the Distribution 
+Agreement.
+
+(127) Timeshare Liabilities has the meaning set forth in the Distribution 
+Agreement.
+
+(128) Treasury Regulations mean the income tax and administrative 
+regulations promulgated from time to time under the Code, as in effect for 
+the relevant Tax Period.
+
+(129) Unqualified 355(e) Opinion means, with respect to an PK Issuance or 
+Reallocation Event, an unqualified will opinion of a Qualified Tax 
+Advisor addressed to HLT and in form and substance reasonably satisfactory 
+to HLT, without substantive qualifications, to the effect that such PK 
+Issuance or Reallocation Event (including any future PK Issuance of stock 
+pursuant to an option or other instrument that grants the holder a right 
+(including if PK has a right to settle the obligation with property other 
+than PK stock) to complete an Acquisition) will not be part of a plan (or 
+series of related transactions) within the meaning of Section 355(e) of the 
+Code involving the Distributions.
+
+(130) Unqualified Tax Opinion means an unqualified will opinion of a 
+Qualified Tax Advisor, in form and substance reasonably acceptable to each 
+of applicable Parties (other than OpCo) and upon which each of the 
+applicable Parties (other than OpCo) may rely to confirm that a transaction 
+(or transactions) will not result in Distribution Taxes.
+
+(131) U.S. means the United States of America.
+
+Section 1.2 References; Interpretation. Terms not otherwise defined herein 
+shall have the meaning ascribed to them in the Distribution Agreement. 
+References in this Agreement to any gender include references to all 
+genders, and references to the singular include references to the plural 
+and vice versa. Unless the context otherwise requires, the words include, 
+includes, and including when used in this Agreement shall be deemed to 
+be followed by the phrase without limitation. Unless the context 
+otherwise requires, references in this Agreement to Articles, Sections and 
+Schedules shall be deemed references to Articles and Sections of, and 
+Schedules to, this Agreement. Unless the context otherwise requires, the 
+words hereof, hereby, and herein and words of similar meaning when 
+used in this Agreement refer to this Agreement in its entirety and not to 
+any particular Article, Section or provision of this Agreement. Unless the 
+context otherwise requires, the word stock or shares refers to any 
+equity interests of the applicable entity for U.S. federal income tax 
+purposes and any references to a Person include a reference to any 
+successor to such Person.
+ 
+13
+
+------------------------------------------------------------------------
+Section 1.3 Effective Time. Notwithstanding that certain interrelated and 
+intermediate internal transactions must be given effect prior to the 
+Distributions, the agreements contained herein, including, but not limited 
+to, the manner in which Taxes are shared amongst the Parties, shall be 
+effective no earlier than and only upon the Effective Time.
+
+
+ARTICLE II
+
+PREPARATION AND FILING OF TAX RETURNS
+
+Section 2.1 Responsibility of HLT to Prepare and File Tax Returns.
+
+(a) General. To the extent not previously filed and subject to the rights 
+and obligations of each of the Parties set forth herein, HLT shall prepare 
+or cause to be prepared all (i) Pre-Distribution Income Tax Returns, and 
+(ii) HLT Straddle Income Tax Returns. HLT shall file or cause to be filed 
+all such Tax Returns with the applicable Taxing Authority to the extent a 
+member of the HLT Group is responsible under applicable Law for filing such 
+Tax Returns, and the other Parties shall cooperate (or cause their 
+Subsidiaries to cooperate) in the filing of such Tax Returns to the extent 
+a member of their Group is responsible for filing such Tax Returns under 
+applicable Law. To the extent any member of the PK Group or the HGV Group 
+could be liable after the Distribution Date for Taxes with respect to such 
+Tax Returns (taking into account any provision under this Agreement), HLT 
+shall be required to prepare such Tax Returns in a manner consistent with 
+the past practice of HLT and its Affiliates (unless otherwise modified by a 
+Final Determination or required by applicable Law); provided, however, that 
+HLT shall be permitted to claim the maximum U.K. tax deductions or other 
+tax reliefs available in the U.K. Tax Returns, including but not limited to 
+capital allowances as provided for in the Capital Allowances Act 2001 and 
+other related U.K. tax legislation. All Tax Returns filed under this 
+Section 2.1 shall be filed in a manner consistent with (and the Parties and 
+their Affiliates shall not take any position inconsistent with) the IRS 
+Ruling, the Tax Representation Letters, and the Tax Opinions. Subject to 
+the foregoing standards, HLT shall have the right with respect to any Tax 
+Return filed under this Section 2.1, to determine: (a) except as provided 
+in Section 10.2, the manner in which such Tax Return will be prepared and 
+filed, including the elections, method of accounting, positions, 
+conventions, and principles of taxation to be used and the manner in which 
+any Tax item will be reported; (b) whether any extensions may be requested; 
+and (c) except as provided in Section 10.2, the elections that will be made 
+by HLT, any member of the HLT Group, any member of the PK Group, or any 
+member of the HGV Group on such Tax Return.
+
+(b) Tax Package. To the extent not previously provided, PK and HGV shall 
+(at their own cost and expense), to the extent that a Pre-Distribution 
+Income Tax Return or HLT Straddle Income Tax Return includes items of that 
+Party or its Affiliates, the Ownership Business (in the case of PK), or the 
+Timeshare Business (in the case of HGV), prepare and provide or cause to be 
+prepared and provided to HLT a Tax Package relating to such Tax Return. 
+Such Tax Package shall be provided in a timely manner. In the event a Party 
+does not fulfill its obligations pursuant to this Section 2.1(b), HLT shall 
+be entitled, at the sole cost and expense of such Party, to prepare or 
+cause to be prepared the information required to be included in the Tax 
+Package for purposes of preparing any such Tax Returns.
+ 
+14
+
+------------------------------------------------------------------------
+Section 2.2 Responsibility of Parties to Prepare and File PK Straddle 
+Income Tax Returns and HGV Straddle Income Tax Returns.
+
+(a) General. Subject to the rights and obligations of each of the Parties 
+set forth herein, PK shall prepare or cause to be prepared all PK Straddle 
+Income Tax Returns and HGV shall prepare or cause to be prepared all HGV 
+Straddle Income Tax Returns required to be filed after the Distribution 
+Date. PK shall file or cause to be filed all such PK Straddle Income Tax 
+Returns with the applicable Taxing Authority, and HGV shall file or cause 
+to be filed all such HGV Straddle Income Tax Returns with the applicable 
+Taxing Authority. All such Tax Returns shall be prepared in a manner: (i) 
+consistent with the past practice of the Parties and their Affiliates 
+unless otherwise modified by a Final Determination or required by 
+applicable Law; (ii) consistent with (and the Parties and their Affiliates 
+shall not take any position inconsistent with) the IRS Ruling, the Tax 
+Representation Letters, and the Tax Opinions; and (iii) consistent with any 
+Pre-Distribution Income Tax Returns; provided, however, that PK and HGV 
+shall file or cause to be filed any such U.K. Tax Returns in a manner 
+consistent with any elections or claims made in respect of group relief, as 
+provided for in Part 5 of the Corporation Act 2010, from HLT and its 
+Subsidiaries, subject to the grant of consent to surrender such group 
+relief, and shall claim or cause to be claimed the maximum amount of group 
+relief available for U.K. Tax purposes with respect to such Tax Returns, 
+after claiming the maximum available group relief within their own 
+respective U.K. groups.
+
+(b) Tax Package. To the extent not previously provided, HLT shall (at its 
+own cost and expense), prepare and provide or cause to be prepared and 
+provided to PK and HGV a Tax Package relating to any PK Straddle Income Tax 
+Return (in the case of PK) or HGV Straddle Income Tax Return (in the case 
+of HGV). Such Tax Package shall be provided in a timely manner. In the 
+event HLT does not fulfill its obligations pursuant to this Section 2.2(b), 
+PK or HGV, as applicable, shall be entitled, at the sole cost and expense 
+of HLT, to prepare or cause to be prepared the information required to be 
+included in the Tax Package for purposes of preparing any such PK Straddle 
+Income Tax Return or HGV Straddle Income Tax Return.
+
+(c) Procedures Relating to the Preparation and Filing of PK Straddle Income 
+Tax Returns and HGV Straddle Income Tax Returns.
+
+(i) PK (in the case of PK Straddle Income Tax Returns required to be filed 
+after the Distribution Date) and HGV (in the case of HGV Straddle Income 
+Tax Returns required to be filed after the Distribution Date) shall, no 
+later than thirty (30) days prior to the Due Date of each such Tax Return 
+(reduced to twenty (20) days for state or local Tax Returns), shall make 
+available or cause to be made available drafts of such Tax Returns to HLT. 
+HLT shall have access to any and all data and information reasonably 
+necessary for its review of all such Tax Returns, and PK or HGV (as the 
+case may be) shall cooperate fully in the preparation and review of such 
+Tax Returns. Subject to the preceding sentence, no later than fifteen (15) 
+days after receipt of such Tax Returns (reduced to five (5) days for state 
+or local Tax Returns), HLT shall have a right to object to such PK Straddle 
+Income Tax Return or such HGV Straddle Income Tax Return (or, in each case, 
+items with respect thereto) by written notice to PK or HGV (as applicable); 
+such written notice shall contain such disputed item (or items) and the 
+basis for its objection.
+ 
+15
+
+------------------------------------------------------------------------
+(ii) With respect to a PK Straddle Income Tax Return or HGV Straddle Income 
+Tax Return submitted by PK or HGV (as applicable) to HLT pursuant to 
+Section 2.2(c)(i), if HLT does not object by proper written notice within 
+the time period described, such Tax Return shall be deemed to have been 
+accepted and agreed upon, and to be final and conclusive, for purposes of 
+this Section 2.2(c)(ii). If HLT does object by proper written notice within 
+such applicable time period, PK or HGV (as applicable) shall reflect HLTs 
+comments on such Tax Return; provided, however, that PK or HGV (as 
+applicable) shall not be required to reflect comments to the extent such 
+comments are inconsistent with the standards set forth in Section 2.2(a). 
+The Parties shall act in good faith to resolve any such dispute as promptly 
+as practicable. If the Parties have not reached a final resolution with 
+respect to all disputed items for which proper written notice was given 
+within ten (10) days prior to the Due Date for such Tax Return, then any 
+disputed issues shall be submitted to an Big Four Accounting Firm 
+(excluding any firm involved in preparing such Tax Return) mutually agreed 
+by the Parties for a final binding resolution.
+
+Section 2.3 Responsibility of Parties to Prepare and File Post-Distribution 
+Income Tax Returns and Non-Income Tax Returns.
+
+(a) General. The Party or its Affiliate responsible under applicable Law 
+for filing a Post-Distribution Income Tax Return or a Non-Income Tax Return 
+(in each case required to be filed after the Distribution Date) shall 
+prepare and file or cause to be prepared and filed that Tax Return (at that 
+Partys own cost and expense). All such Tax Returns shall be filed in a 
+manner (i) consistent with (and the Parties and their Affiliates shall not 
+take any position inconsistent with) the IRS Ruling, the Tax Representation 
+Letters, and the Tax Opinions and (ii) consistent with any (1) in the case 
+of any Post-Distribution Income Tax Return, any Pre-Distribution Income Tax 
+Returns and (2) in the case of any Non-Income Tax Return, consistent with 
+past practice.
+
+(b) Procedures Relating to the Preparation and Filing of Non-Income Tax 
+Returns.
+
+(i) If the Party responsible for paying any Taxes shown on a Non-Income Tax 
+Return set forth on Schedule 2.3 (the Paying Party) is different from the 
+Party responsible for preparing such Non-Income Tax Return under Section 
+2.3(a) (the Preparing Party), the Preparing Party shall, no later than 
+thirty (30) days prior to the Due Date of each such Tax Return, shall make 
+available or cause to be made available drafts of such Non-Income Tax 
+Return to the Paying Party. The Paying Party shall have access to any and 
+all data and information reasonably necessary for its review of all such 
+Non-Income Tax Return, and the Preparing Party shall cooperate fully in the 
+preparation and review of such Non-Income Tax Return. Subject to the 
+preceding sentence, no later than fifteen (15) days after receipt of such 
+Non-Income Tax Return, the Paying Party shall have a right to object to 
+such Non-Income Tax Return (or items with respect thereto) by written 
+notice to the Preparing Party; such written notice shall contain such 
+disputed item (or items) and the basis for its objection.
+ 
+16
+
+------------------------------------------------------------------------
+(ii) With respect to a Non-Income Tax Return submitted by the Preparing 
+Party to the Paying Party pursuant to Section 2.3(b)(i), if the Paying 
+Party does not object by proper written notice within the time period 
+described, such Non-Income Tax Return shall be deemed to have been accepted 
+and agreed upon, and to be final and conclusive, for purposes of this 
+Section 2.3(b)(ii). If the Paying Party does object by proper written 
+notice within such applicable time period, the Preparing Party shall 
+reflect the Paying Partys comments on such Non-Income Tax Return; 
+provided, however, that the Preparing Party shall not be required to 
+reflect comments to the extent such comments are inconsistent with the 
+standards set forth in Section 2.3(a). The Parties shall act in good faith 
+to resolve any such dispute as promptly as practicable. If the Parties have 
+not reached a final resolution with respect to all disputed items for which 
+proper written notice was given within ten (10) days prior to the Due Date 
+for such Non-Income Tax Return, then any disputed issues shall be submitted 
+to an Big Four Accounting Firm (excluding any firm involved in preparing 
+such Tax Return) mutually agreed by the Parties for a final binding 
+resolution.
+
+Section 2.4 Time of Filing Tax Returns. Each Tax Return shall be filed on 
+or prior to the Due Date for such Tax Return by the Party responsible for 
+filing such Tax Return hereunder.
+
+Section 2.5 Costs and Expenses. The party responsible for preparing any Tax 
+Return or Tax Package under Section 2.1, 2.2, or 2.3 shall be responsible 
+for the costs and expenses associated with preparing such Tax Return or Tax 
+Package.
+
+
+ARTICLE III
+
+RESPONSIBILITY FOR PAYMENT OF TAXES
+
+Section 3.1 Responsibility for Payment of Taxes. Except as otherwise 
+provided in this Agreement, each of HLT, PK and HGV shall be liable for and 
+shall pay or cause to be paid the Taxes shown on the Tax Returns for which 
+it has the responsibility to prepare under Article II to the applicable 
+Taxing Authority.
+
+Section 3.2 Reimbursement of Straddle Income Taxes and Restructuring Taxes
+. No later than five (5) Business Days prior to the relevant Due Date for 
+Taxes described in Section 3.1, a member of the HLT Group shall pay HGV or 
+PK, as applicable, an amount in immediately available funds equal to such 
+Taxes to the extent they represent Restructuring Taxes shown on Tax Returns 
+for which HGV or PK, as applicable, has responsibility to prepare under 
+Article II or are Income Taxes shown on HGV Straddle Income Tax Returns or 
+PK Straddle Income Tax Returns, as applicable, that relate to the portion 
+of the relevant Straddle Tax Period (as determined under Section 10.2) 
+ending on the Distribution Date. No later than five (5) Business Days prior 
+to relevant Due Date for Taxes shown on Non-Income Tax Returns, the Parties 
+(or members of their Group) shall make payments in immediately available 
+funds to the other Parties for any Taxes for which the Paying Party is 
+responsible pursuant to Schedule 2.3.
+
+Section 3.3 Timing of Payments of Taxes. All Taxes required to be paid or 
+caused to be paid by a Party to a Taxing Authority pursuant to this Article 
+III shall be paid or caused to be paid by such Party on or prior to the Due 
+Date of such Taxes. All amounts required to be paid by one Party to another 
+Party pursuant to this Article III shall be paid or caused to be paid by 
+such first Party to such other Party in accordance with Article VII.
+ 
+17
+
+------------------------------------------------------------------------
+ARTICLE IV
+
+REFUNDS, CARRYBACKS AND AMENDED TAX RETURNS
+
+Section 4.1 Refunds.
+
+(a) Each Party shall be entitled to refunds (including any similar credit 
+or offset of Taxes) that relate to Taxes for which it is liable hereunder 
+in accordance with Article III (taking into account Section 3.2), including 
+any refunds (or similar credit or offset of Taxes) resulting from 
+overpayments of estimated Taxes on or prior to the Distribution Date in 
+respect of a Straddle Tax Period; provided, however, that each Party shall 
+be entitled to refunds (including any similar credit or offset of Taxes) 
+that relate to Taxes for which it was actually liable in accordance with 
+Article V or Article VIII.
+
+(b) Any refund or portion thereof to which a Party is entitled pursuant to 
+this Section 4.1 that is received or deemed to have been received as 
+described herein by another Party, shall be paid by such other Party to 
+such first Party in immediately available funds in accordance with Article 
+VII.
+
+Section 4.2 Carrybacks. PK and HGV agree and will cause their Subsidiaries 
+not to carry back any Tax Attribute for any taxable period ending after the 
+Distribution Date to an HLT Combined Income Tax Return or any 
+Pre-Distribution Income Tax Return, except as is required by applicable 
+Law; provided that where such Tax Attribute is so required to be carried 
+back, HLT shall reimburse PK or HGV, as applicable, for any Tax Benefit 
+Actually Realized with respect to such Tax Attribute.
+
+Section 4.3 Amended Tax Returns.
+
+(a) Notwithstanding Sections 2.1 and 2.2, a Party or its Subsidiary that is 
+entitled to file an amended Tax Return for a Pre-Distribution Tax Period or 
+a Straddle Tax Period for members of its Group shall be permitted to 
+prepare and file an amended Tax Return at its own cost and expense; 
+provided, however, that (i) such amended Tax Return shall be prepared in a 
+manner: (x) consistent with the past practice of the Parties and their 
+Affiliates unless otherwise modified by a Final Determination or required 
+by applicable Law; (y) consistent with (and the Parties and their 
+Affiliates shall not take any position inconsistent with) the IRS Ruling, 
+the Tax Representation Letters, and the Tax Opinions; and (z) consistent 
+with any HLT Combined Income Tax Returns; and (ii) if such amended Tax 
+Return could result in one or more other Parties becoming responsible for a 
+payment of Taxes pursuant to Article III or a payment to a Party pursuant 
+to Article VIII, such amended Tax Return shall be permitted only if the 
+consent of such other Parties is obtained. The consent of such other 
+Parties shall not be withheld unreasonably and shall be deemed to be 
+obtained in the event that a Party or its Subsidiary is required to file an 
+amended Tax Return as a result of an Audit adjustment that arose in 
+accordance with Article VIII.
+ 
+18
+
+------------------------------------------------------------------------
+(b) A Party or its Subsidiary that is entitled to file an amended Tax 
+Return for a Post-Distribution Tax Period shall be permitted to do so 
+without the consent of any Party.
+
+(c) A Party that is permitted (or whose Subsidiary is permitted) to file an 
+amended Tax Return shall not be relieved of any liability for payments 
+pursuant to this Agreement notwithstanding that another Party consented 
+thereto.
+
+
+ARTICLE V
+
+DISTRIBUTION TAXES
+
+Section 5.1 Liability for Distribution Taxes. In the event that 
+Distribution Taxes become due and payable to a Taxing Authority pursuant to 
+a Final Determination or are paid in the reasonable good faith discretion 
+of the relevant Audit Representative, then, notwithstanding anything to the 
+contrary in this Agreement:
+
+(a) No Fault. If such Distribution Taxes are not attributable to the Fault 
+for Distribution Purposes of any Party or any of its Affiliates, the 
+responsibility for such Distribution Taxes shall be shared by the Parties 
+in accordance with their Sharing Percentages. Notwithstanding anything to 
+the contrary in this Agreement, such Distribution Taxes shall not be 
+subject to Article III or Section 8.3.
+
+(b) Fault. If such Distribution Taxes are attributable to the Fault for 
+Distribution Purposes of one or more Parties or any of their Affiliates, 
+the responsibility for such Distribution Taxes shall reside with the Party 
+or Parties at Fault for Distribution Purposes. If more than one Party is at 
+Fault for Distribution Purposes, the responsibility for the Distribution 
+Taxes shall be allocated equally among all of the Parties at Fault for 
+Distribution Purposes. Notwithstanding anything to the contrary in this 
+Agreement, such Distribution Taxes shall not be subject to Article III or 
+Section 8.3.
+
+Section 5.2 Definition of Fault for Distribution Purposes. For purposes of 
+this Agreement, Distribution Taxes shall be deemed to result from the fault 
+(Fault for Distribution Purposes) of a Party if such Distribution Taxes 
+are attributable to, or result from:
+
+(a) any act, or failure or omission to act, by such Party or any of such 
+Partys Affiliates following the Distributions that results in one or more 
+Parties (or any of their Affiliates) being responsible for such 
+Distribution Taxes pursuant to a Final Determination, regardless of whether 
+such act or failure to act (i) is covered by a Post-Distribution Ruling, 
+Unqualified Tax Opinion, or waiver in accordance with Section 5.3, or (ii) 
+occurs during or after the Restricted Period, or
+
+(b) the direct or indirect acquisition of all or a portion of the stock of 
+such Party (or any transaction or series of related transactions that is 
+deemed to be such an acquisition for purposes of Section 355(e) of the Code 
+and the Treasury Regulations promulgated thereunder) by any means 
+whatsoever by any person including pursuant to an issuance or repurchase of 
+stock by such Party or any of its Affiliates.
+ 
+19
+
+------------------------------------------------------------------------
+Section 5.3 Limits on Proposed Acquisition Transactions and Other 
+Transactions During Restricted Period. During the Restricted Period, 
+neither PK nor HGV shall (or allow any of their respective Subsidiaries to 
+take any such action with respect to PK or HGV):
+
+(a) allow any Proposed Acquisition Transaction to occur with respect to PK 
+or HGV (as applicable);
+
+(b) merge or consolidate with any other Person or dissolve, liquidate or 
+partially liquidate (other than a wholly owned Subsidiary of PK or HGV, as 
+applicable, merging or consolidating with PK or HGV or another wholly owned 
+Subsidiary of such PK or HGV, as applicable);
+
+(c) approve or allow the discontinuance, cessation, or sale or other 
+transfer (to an Affiliate or otherwise) of any Active Business by PK or 
+HGV, as applicable, for purposes of Section 355 of the Code;
+
+(d) sell or otherwise dispose of more than 35 percent (35%) of its 
+consolidated gross or net assets or allow the sale or other disposition (to 
+an Affiliate or otherwise) of more than 35 percent (35%) of the 
+consolidated gross or net assets of PK or HGV (as applicable) (in each 
+case, excluding sales in the ordinary course of business, sales the net 
+cash proceeds (taking into account any Taxes payable) of which are 
+reinvested in other assets (including pursuant to an exchange under Section 
+1031 of the Code) and sales the net cash proceeds (taking into account any 
+Taxes payable) of which are used to repay indebtedness, and measured based 
+on fair market values as of the date of the applicable Distribution or 
+other transaction);
+
+(e) amend its certificate of incorporation (or other organizational 
+documents) or take any other action or approve or allow the taking of any 
+action, whether through a stockholder vote or otherwise, in each case that 
+affects the economic or voting rights of the stock of such Party (in each 
+case, other than certain amendments to such certificates of incorporation 
+to be made in connection with the transactions contemplated by that certain 
+Stock Purchase Agreement dated as of October 24, 2016 among HNA Tourism 
+Group Company Limited and the seller parties named therein);
+
+(f) purchase, directly or through any Affiliate, any of its outstanding 
+stock after the Distributions, other than through stock purchases meeting 
+the requirements of Section 4.05(1)(b) of Revenue Procedure 96-30;
+
+(g) take any action or fail to take any action, or permit any of its 
+Affiliates to take any action or fail to take any action, that is 
+inconsistent with the representations and covenants made in the IRS Ruling 
+or in the Tax Representation Letters, or that is inconsistent with any 
+rulings or opinions in the IRS Ruling or any Tax Opinion;
+
+(h) in the case of PK, materially reduce the size or scope of the Select 
+Hotels Business or the Hotel Laundry Business conducted by PKs separate 
+affiliated group within the meaning of Section 355(b)(3)(B) of the Code;
+ 
+20
+
+------------------------------------------------------------------------
+(i) in the case of PK, enter into an exchange pursuant to Section 1031 of 
+the Code with respect to any of the assets comprising the Select Hotels 
+Business or the Hotel Laundry Business; or
+
+(j) enter into an arrangement or agreement to do any of the foregoing.
+
+provided, however, that a Party (the Requesting Party) shall be permitted 
+to take such action or one or more actions set forth in the foregoing 
+clauses (a) through (g) if such action is described in the Reorganization 
+Slide Deck or if, prior to taking any such actions: (1) such Requesting 
+Party or HLT shall have received a favorable private letter ruling from the 
+IRS, or a ruling from another Taxing Authority (a Post-Distribution Ruling
+), in form and substance reasonably satisfactory to HLT and upon which 
+HLT, PK and HGV are entitled to rely that confirms that such action or 
+actions will not result in Distribution Taxes, taking into account such 
+actions and any other relevant transactions in the aggregate; (2) such 
+Requesting Party shall have received an Unqualified Tax Opinion that 
+confirms that such action or actions will not result in Distribution Taxes, 
+taking into account such actions and any other relevant transactions in the 
+aggregate; or (3) such Requesting Party shall have received a written 
+statement from each of the other Parties that provides that such other 
+Party waives the requirement to obtain a Post-Distribution Ruling or 
+Unqualified Tax Opinion described in this paragraph. The Requesting Party 
+shall bear all costs and expenses of securing any such Post-Distribution 
+Ruling or Unqualified Tax Opinion.
+
+Section 5.4 Certain Limitations on PK with Respect to its Stock.
+
+(a) During the Restricted Period, PK may not issue any of its stock or take 
+any action with respect to its stock that would cause an Acquisition 
+(including redemptions or repurchases), or issue any options or other 
+instruments that grant the holder a right (including if PK has a right to 
+settle the obligation with property other than PK stock) to complete an 
+Acquisition (any such issuance or other transaction, a PK Issuance); 
+provided that HGV shall have no right to enforce this Section 5.4(a) 
+against PK.
+
+(b) Notwithstanding Section 5.4(a), a PK Issuance shall be permitted if, 
+immediately after such PK Issuance, the PK Applicable Percentage will be 
+less than or equal to the PK Percentage Shift Limit.
+
+(c) Notwithstanding Section 5.4(a), a PK Issuance shall be permitted where 
+such PK Issuance (or the related issuance of stock in the case of an option 
+issuance) is described in Treasury Regulations Section 1.355-7(d)(8) (other 
+than a PK Issuance made in connection with a merger or other acquisition 
+transaction by a third party; provided, that no PK Issuance will be deemed 
+to be connected with an acquisition pursuant to a secondary sale for cash 
+of PK stock by one or more Blackstone Entities in a public offering).
+
+(d) Notwithstanding Section 5.4(a), a PK Issuance shall be permitted if PK 
+provides an Unqualified 355(e) Opinion to HLT; provided, further, that in 
+the case of a PK Issuance of stock pursuant to an exercise of an option or 
+other instrument that grants the holder a right (including if PK has a 
+right to settle the obligation with property other than PK stock) to 
+complete such an acquisition, such PK Issuance shall be permitted if PK 
+provided an Unqualified 355(e) Opinion to HLT in respect of the PK Issuance 
+of such option or other instrument.
+ 
+21
+
+------------------------------------------------------------------------
+(e) A PK Issuance which is permitted pursuant to Section 5.4(c) or (d) 
+shall be disregarded for purposes of clauses (a)(i) and (b)(i) of the 
+definition of PK Applicable Percentage.
+
+(f) Upon a Reallocation Event with respect to PK stock, the Blackstone 
+Representative, on the one hand, and PK, on the other, shall use reasonable 
+efforts to allocate the Reallocation Event Reduction to and reduce the 
+Blackstone-PK Percentage Shift Limit and/or PK Percentage Shift Limit. If 
+the Blackstone Representative and PK do not agree on an allocation, the 
+Reallocation Event Reduction shall first be allocated to and reduce the PK 
+Percentage Shift Limit (but not below the PK Applicable Percentage as of 
+the time of the Reallocation Event). Any excess Reallocation Event 
+Reduction shall be allocated to and reduce the Blackstone-PK Percentage 
+Shift Limit (but not below the Blackstone-PK Applicable Percentage as of 
+the time of the Reallocation Event). For the avoidance of doubt, the sum 
+(immediately before the Reallocation Event) of the Blackstone-PK Percentage 
+Shift Limit and PK Percentage Shift Limit shall equal the sum (immediately 
+after the Reallocation Event), of the Reallocation Event Reduction plus 
+Blackstone-PK Percentage Shift Limit and PK Percentage Shift Limit. 
+Notwithstanding anything to the contrary in this Section 5.4(f), if the 
+Blackstone Representative or PK provides an Unqualified 355(e) Opinion with 
+respect to a purported Reallocation Event to HLT, such purported 
+Reallocation Event shall not constitute a Reallocation Event.
+
+(g) During the Restricted Period, if a proposed PK Issuance is a redemption 
+or repurchase, then, immediately before such PK Issuance, (i) the 
+Blackstone-PK Percentage Shift Limit shall be increased or decreased (but 
+not below the Blackstone-PK Applicable Percentage as of immediately before 
+such PK Issuance) such that the number of shares permitted to be Disposed 
+of under Section 2.2(a)(ii) of the Stockholders Agreement remains unchanged 
+immediately after such PK Issuance (other than to reflect shares of PK 
+actually redeemed or repurchased from the Blackstone Entities pursuant to 
+such PK Issuance), and (ii) the PK Percentage Shift Limit shall be 
+decreased (in the case of an increase in clause (i), but not below the PK 
+Applicable Percentage as of immediately before such PK Issuance) or 
+increased (in the case of a decrease in clause (i)) by the amount set forth 
+in clause (i). If clause (ii) calls for a reduction in the PK Percentage 
+Shift Limit and the amount of such reduction would be limited by the 
+parenthetical therein, then, notwithstanding any other provision of this 
+Agreement (including Section 5.4(d)), PK shall not undertake such PK 
+Issuance without the written consent of the Blackstone Representative; 
+provided that in the event the Blackstone Representative so consents, the 
+amount of the increase set forth in (i) shall not exceed the amount of the 
+decrease set forth in (ii). For the avoidance of doubt, a PK Issuance that 
+satisfies the requirements of this Section 5.4(g) remains subject to the 
+provisions of this Agreement, including, without limitation, this Section 
+5.4. For the avoidance of doubt, if a proposed PK Issuance is not 
+consummated, the Blackstone-PK Percentage Shift Limit and PK Percentage 
+Shift Limit shall not be adjusted pursuant to this Section 5.4(g) as a 
+result of such proposed PK Issuance.
+
+(h) For purposes of computing the (a) PK Applicable Percentage, (b) 
+Blackstone-PK Applicable Percentage or (c) Reallocation Event Reduction, 
+any calculation of the shift of ownership of PK under Section 355(e) shall 
+take into account (i) any IRS private letter ruling received by one or more 
+of HLT, PK, HGV and/or the Blackstone Entities and (ii) any unqualified 
+will opinion of a Qualified Tax Advisor (or, with respect to an opinion 
+delivered by HLT, should opinion) addressed to HLT and in form and 
+substance reasonably satisfactory to HLT, without substantive 
+qualifications, in each case addressing the manner in which the calculation 
+of such shift is performed.
+ 
+22
+
+------------------------------------------------------------------------
+(i) The provisions of this Section 5.4 are intended for the benefit of, and 
+shall be enforceable by, each of the Blackstone Entities.
+
+Section 5.5 IRS Ruling, Tax Representation Letters, and Tax Opinions; 
+Consistency. Each Party represents that the information and representations 
+furnished with respect to such Party or its Subsidiaries in or in 
+connection with the IRS Ruling, the Tax Representation Letters, or the Tax 
+Opinions are accurate and complete as of the Effective Time. Each Party 
+covenants that if, after the Effective Time, it or any of its Affiliates 
+obtains information indicating, or otherwise becomes aware, that any such 
+information or representations is or may be inaccurate or incomplete, to 
+promptly inform the other Parties.
+
+Section 5.6 Timing of Payment of Taxes. All Distribution Taxes required to 
+be paid or caused to be paid by a Party to a Taxing Authority under 
+applicable Law shall be paid or caused to be paid by such Party on or prior 
+to the Due Date of such Distribution Taxes. All amounts required to be paid 
+by one Party to another Party (including obligations arising under Article 
+VI) pursuant to this Article V shall be paid or caused to be paid by such 
+first Party to such other Party in accordance with Article VII.
+
+Section 5.7 Protective Section 336(e) Elections.
+
+(a) PK, on the one hand, and each of OpCo and HGV, on the other, shall make 
+a protective election under Section 336(e) of the Code (and any similar 
+election under state or local law) with respect to the applicable Internal 
+Distribution in accordance with Treasury Regulation Section 1.336-2(h) and 
+(j) (and any applicable provisions under state and local law), and the 
+Parties shall cooperate in the timely completion and/or filings of such 
+elections and any related filings or procedures (including filing or 
+amending any Tax Returns to implement an election that becomes effective). 
+This Section 5.7(a) is intended to constitute binding, written agreements 
+to make elections under Section 336(e) of the Code with respect to the 
+Internal Distributions. If an election under Section 336(e) of the Code is 
+unavailable to PK, on the one hand, and OpCo or HGV, on the other, in 
+connection with the applicable Internal Distribution, PK and HLT shall (and 
+shall cause their Affiliates to) cooperate in making an effective election 
+under Section 338(h)(10) of the Code (and any similar election under state 
+or local law) with respect to such applicable Internal Distribution and 
+cooperate with respect to any related filings or procedures (including 
+having PK and HLT file an election under Section 338(h)(10) of the Code 
+under the relief provisions of Treasury Regulation Sections 301.9100-1, et. 
+seq. and filing or amending any Tax Returns to implement an election that 
+becomes effective).
+
+(b) HLT and HGV shall make a protective election under Section 336(e) of 
+the Code (and any similar election under state or local law) with respect 
+to the HGV Distribution in accordance with Treasury Regulation Section 
+1.336-2(h) and (j) (and any applicable provisions under state and local 
+law) and shall cooperate in the timely completion and/or filings of such 
+elections and any related filings or procedures (including filing or 
+amending any Tax Returns to implement an election that becomes effective). 
+This Section 5.7(b) is intended to constitute a binding, written agreement 
+to make an election under Section 336(e) of the Code with respect to the 
+HGV Distribution.
+ 
+23
+
+------------------------------------------------------------------------
+(c) HLT shall, within six (6) months of the Distribution Date, determine in 
+its good faith discretion whether HLT and PK and/or any additional 
+applicable parent and subsidiary entities shall make a protective election 
+under Section 336(e) of the Code (and any similar election under state or 
+local law) in accordance with Treasury Regulation Section 1.336-2(h) and 
+(j) (and any applicable provisions under state and local law) with respect 
+to the PK or the Subsidiaries of HLT immediately before the first of the 
+External Distributions. If HLT so determines that HLT and PK and/or an 
+applicable parent and subsidiary entity shall make a protective election 
+under Section 336(e), the relevant Parties shall cooperate (and shall cause 
+their respective Affiliates to cooperate) in the timely completion and/or 
+filings of such elections and any related filings or procedures and any 
+similar procedures or relief provisions with respect to Section 338(h)(10) 
+of the Code in the event a protective election under Section 336(e) is not 
+available with respect to an Internal Distribution. The Parties shall 
+cooperate (and shall cause their respective Affiliates to cooperate) in 
+causing HLT and PK and/or the applicable parent and subsidiary entities to 
+enter into binding agreements to make such elections under Section 336(e) 
+of the Code within twenty (20) days following such determination.
+
+(d) Notwithstanding anything to the contrary herein, in the event that an 
+election contemplated in Section 5.7 is made and becomes effective, then 
+the Parties shall share in the Tax Benefit Actually Realized as a result of 
+such election in accordance with the Parties relative responsibility for 
+such Taxes under this Article V, and payments shall be made between the 
+Parties, if necessary.
+
+
+ARTICLE VI
+
+INDEMNIFICATION
+
+Section 6.1 Indemnification Obligations of HLT. HLT and OpCo shall jointly 
+and severally indemnify PK and its Affiliates and HGV and its Affiliates 
+and hold the indemnified party harmless from and against (without 
+duplication):
+
+(a) all Taxes and other amounts for which the HLT Group is responsible 
+under this Agreement and any related Losses; and
+
+(b) all Taxes and Losses attributable to a breach of any representation, 
+covenant, or obligation of HLT or OpCo under this Agreement.
+
+Section 6.2 Indemnification Obligations of PK. PK shall indemnify OpCo and 
+its Affiliates and HGV and its Affiliates and hold them harmless from and 
+against (without duplication):
+
+(a) all Taxes and other amounts for which the PK Group is responsible under 
+this Agreement and any related Losses; and
+
+(b) all Taxes and Losses attributable to a breach of any representation, 
+covenant, or obligation of PK under this Agreement.
+ 
+24
+
+------------------------------------------------------------------------
+Section 6.3 Indemnification Obligations of HGV. HGV shall indemnify HLT and 
+its Affiliates and PK and its Affiliates and hold them harmless from and 
+against (without duplication):
+
+(a) all Taxes and other amounts for which the HGV Group is responsible 
+under this Agreement and any related Losses; and
+
+(b) all Taxes and Losses attributable to a breach of any representation, 
+covenant or obligation of HGV under this Agreement.
+
+Section 6.4 Protected REITs. Notwithstanding anything to the contrary in 
+this Agreement, in the event that counsel or independent accountants for a 
+Protected REIT determine that there exists a material risk that any 
+indemnification payments due under this Agreement would be treated as 
+Nonqualifying Income upon the payment of such amounts to the relevant 
+Indemnified Party, the amount paid to the Indemnified Party pursuant to 
+this Agreement in any tax year shall not exceed the maximum amount that can 
+be paid to the Indemnified Party in such year without causing the Protected 
+REIT to fail to meet the REIT Requirements for any tax year, determined as 
+if the payment of such amount were Nonqualifying Income as determined by 
+such counsel or independent accountants to the Protected REIT. If the 
+amount payable for any tax year pursuant to the preceding sentence is less 
+than the amount which the relevant Indemnifying Party would otherwise be 
+obligated to pay to the relevant Indemnified Party pursuant to this 
+Agreement (the Expense Amount), then: (1) the Indemnifying Party shall 
+place the Expense Amount into an escrow account (the Escrow Account) 
+using an escrow agent and agreement reasonably acceptable to the 
+Indemnified Party (which shall include that (y) the amount in the Escrow 
+Account shall be treated as the property of the Indemnifying Party, unless 
+it is released from such Escrow Account to the Indemnified Party, and (z) 
+all income earned upon the amount in the Escrow Account shall be treated as 
+the property of the Indemnifying Party and reported, as and to the extent 
+required by applicable Law, by the escrow agent to the IRS, or any other 
+taxing authority, on IRS Form 1099 or 1042S (or other appropriate form) as 
+income earned by the Indemnifying Party whether or not said income has been 
+distributed during such taxable year) and shall not release any portion 
+thereof to the Indemnified Party, and the Indemnified Party shall not be 
+entitled to any such amount, unless and until the Indemnified Party 
+delivers to the Indemnifying Party, at the sole option of the relevant 
+Protected REIT, (i) an opinion (an Expense Amount Tax Opinion) of the 
+Protected REITs tax counsel to the effect that such amount, if and to the 
+extent paid, would not constitute Nonqualifying Income, (ii) a letter (an 
+Expense Amount Accountants Letter) from the Protected REITs independent 
+accountants indicating the maximum portion of the Expense Amount that can 
+be paid at that time to the Indemnified Party without causing the Protected 
+REIT to fail to meet the REIT Requirements for any relevant taxable year, 
+or (iii) a private letter ruling issued by the IRS to the Protected REIT 
+indicating that the receipt of any Expense Amount hereunder will not cause 
+the Protected REIT to fail to satisfy the REIT Requirements (a REIT 
+Qualification Ruling and, collectively with an Expense Amount Tax Opinion 
+and an Expense Amount Accountants Letter, a Release Document); (2) 
+pending the delivery of a Release Document by the Indemnified Party to the 
+Indemnifying Party, the Indemnified Party shall have the right, but not the 
+obligation, to borrow the Expense Amount from the Escrow Account pursuant 
+to a loan agreement reasonably acceptable to the Indemnified Party that (i) 
+requires the Indemnifying Party to lend the Indemnified Party immediately 
+available cash proceeds in an amount equal to the Expense
+ 
+25
+
+------------------------------------------------------------------------
+Amount, and (ii) provides for (A) a commercially reasonable interest rate 
+and commercially reasonable covenants, taking into account the credit 
+standing and profile of the Indemnified Party or any guarantor of the 
+Indemnified Party, including the Protected REIT, at the time of such loan, 
+and (B) a fifteen (15) year maturity with no periodic amortization; and (3) 
+the Indemnified Party shall bear all costs and expenses with respect to the 
+escrow as contemplated by clauses (1) and (2) in this Section 6.4.
+
+
+ARTICLE VII
+
+PAYMENTS
+
+Section 7.1 Payments.
+
+(a) General. In the event that an Indemnifying Party is required to make a 
+payment to an Indemnified Party pursuant to this Agreement, such payment 
+shall be made to the Indemnified Party within the time prescribed for 
+payment in this Agreement, or if no period is prescribed, within twenty 
+(20) days after delivery of written notice of payment owing together with a 
+computation of the amounts due. If the Indemnifying Party fails to make a 
+payment to the Indemnified Party within the time period set forth in this 
+Section 7.1 or as otherwise provided in this Agreement, such Indemnifying 
+Party shall pay to the Indemnified Party interest that accrues (at a rate 
+equal to LIBOR) on the amount of such payment from the time that such 
+payment was due to the Indemnified Party until the date that payment is 
+actually made to the Indemnified Party; provided, however, that this 
+provision for interest shall not be construed to give the Indemnifying 
+Party the right to defer payment beyond the due date hereunder.
+
+(b) Right of Setoff. It is expressly understood that an Indemnifying Party 
+is hereby authorized to set off and apply any and all amounts required to 
+be paid to an Indemnified Party pursuant to this Section 7.1 against any 
+and all of the obligations of the Indemnified Party to the Indemnifying 
+Party arising under Section 7.1 of this Agreement that are then either due 
+and payable or past due, irrespective of whether such Indemnifying Party 
+has made any demand for payment with respect to such obligations.
+
+Section 7.2 Treatment of Payments made Pursuant to Tax Matters Agreement. 
+Unless otherwise required by a Final Determination or this Agreement or 
+otherwise agreed to among the Parties, for U.S. federal Tax purposes, any 
+payment (other than payments of interest pursuant to Section 7.1(a)) made 
+pursuant to this Agreement by:
+
+(a) PK to OpCo shall be treated for all Tax purposes as a tax-free 
+contribution by PK to OpCo with respect to its stock occurring immediately 
+before the Internal Distribution of OpCo common stock;
+
+(b) HGV to HLT shall be treated for all Tax purposes as a distribution by 
+HGV to HLT with respect to its stock occurring after HGV is directly owned 
+by HLT and immediately before the HGV Distribution;
+
+(c) OpCo to PK shall be treated for all Tax purposes as a distribution by 
+OpCo to PK with respect to stock of OpCo occurring immediately before the 
+Internal Distribution of OpCo common stock;
+ 
+26
+
+------------------------------------------------------------------------
+(d) HLT to PK shall be treated for all Tax purposes as a tax-free 
+contribution by HLT to PK with respect to its stock occurring immediately 
+before the PK Distribution;
+
+(e) HLT to HGV shall be treated for all Tax purposes as a tax-free 
+contribution by HLT to HGV with respect to its stock occurring after HGV is 
+directly owned by HLT and immediately before the HGV Distribution;
+
+(f) PK to HGV shall be treated for all Tax purposes as a tax-free 
+contribution by PK to HGV with respect to its stock occurring immediately 
+before the Internal Distribution of HGV Common Stock;
+
+(g) HGV to PK shall be treated for all Tax purposes as a distribution by 
+HGV to PK with respect to its stock occurring immediately before the 
+Internal Distribution of HGV Common Stock; and
+
+(h) in each case, none of the Parties shall take any position inconsistent 
+with such treatment. In the event that a Taxing Authority asserts that a 
+Partys treatment of a payment pursuant to this Agreement should be other 
+than as required pursuant to this Agreement (ignoring any potential 
+inconsistent or adverse Final Determination), such Party shall use its 
+commercially reasonable efforts to contest such challenge.
+
+Section 7.3 Payments Net of Tax Benefit Actually Realized and Tax Cost. 
+Subject to Section 5.7(d), all amounts required to be paid by one Party to 
+another pursuant to this Agreement or the Distribution Agreement shall be 
+reduced by the Tax Benefit Actually Realized by the Indemnified Party or 
+its Affiliates in the taxable year the payment is made or any prior taxable 
+year as a result of the claim giving rise to the payment. If the receipt or 
+accrual of any such payment (other than payments of interest pursuant 
+Section 11.11 of the Distribution Agreement or Section 7.1(a)) results in 
+taxable income to the Indemnified Party or its Affiliates, such payment 
+shall be increased so that, after the payment of any Taxes with respect to 
+the payment, the Indemnified Party or its Affiliates shall have realized 
+the same net amount it would have realized had the payment not resulted in 
+taxable income.
+
+
+ARTICLE VIII
+
+AUDITS
+
+Section 8.1 Notice. Within twenty (20) Business Days after a Party or any 
+of its Affiliates receives a written notice from a Taxing Authority of the 
+existence of an Audit that may require indemnification pursuant to this 
+Agreement, that Party shall notify the other Parties of such receipt and 
+send such notice to the other Parties via overnight mail. The failure of 
+one Party to notify the other Parties of an Audit shall not relieve such 
+other Party of any liability and/or obligation that it may have under this 
+Agreement, except to the extent that the Indemnifying Partys rights under 
+this Agreement are materially prejudiced by such failure.
+
+Section 8.2 Audits.
+
+(a) Determination of Administering Party.
+ 
+27
+
+------------------------------------------------------------------------
+(i) Subject to Sections 8.2(b) and 8.2(c), HLT and its Subsidiaries shall 
+administer and control all Audits of Pre-Distribution Income Tax Returns.
+
+(ii) Audits of PK Straddle Income Tax Returns, HGV Straddle Income Tax 
+Returns, Post-Distribution Income Tax Returns, and Non-Income Tax Returns 
+shall be administered and controlled by the Party and its Subsidiaries that 
+would be primarily liable under applicable Law to pay to the applicable 
+Taxing Authority the Taxes resulting from such Audits. Audits of 
+Post-Distribution Income Tax Returns and Non-Income Tax Returns for taxable 
+periods beginning after the Distribution Date shall not be subject to 
+Sections 8.2(b) and 8.2(c).
+
+(b) Administration and Control; Cooperation.
+
+(i) Subject to Sections 8.2(b)(ii) and 8.2(c), the Audit Management Party 
+shall have absolute authority to make all decisions (determined in its sole 
+discretion) with respect to the administration and control of such Audit, 
+including the selection of all external advisors. In that regard, the Audit 
+Management Party (a) may in its sole discretion settle or otherwise 
+determine not to continue to contest any issue related to such Audit 
+without the consent of the other Parties, and (b) shall, as soon as 
+reasonably practicable and prior to settlement of an issue that could cause 
+one or more other Parties to become responsible for Taxes under Section 
+8.3, notify the Audit Representatives of such other Parties of such 
+settlement. The other Parties shall (and shall cause their Affiliates to) 
+undertake all actions and execute all documents (including an extension of 
+the applicable statute of limitations) that are determined in the sole 
+discretion of the Audit Management Party to be necessary to effectuate such 
+administration and control. The Parties shall act in good faith and use 
+their reasonable best efforts to cooperate fully with each other Party (and 
+their Affiliates) in connection with such Audit and shall provide or cause 
+their Subsidiaries to provide such information to each other as may be 
+necessary or useful with respect to such Audit in a timely manner, identify 
+and provide access to potential witnesses, and other persons with knowledge 
+and other information within its control and reasonably necessary to the 
+resolution of the Audit.
+
+(ii) In the case of any Audit in respect of Distribution Taxes for which a 
+Party could be liable pursuant to Section 5.1(b), such Party shall have the 
+rights of a Participating Party described in Section 8.2(c); provided, 
+however, that the relevant Audit Management Party shall not settle such 
+Audit without the prior written consent of such Party that could be liable 
+for Distribution Taxes pursuant to Section 5.1(b). In the event more than 
+one Party would be liable under Section 5.1(b), such Parties shall each 
+have the rights described in this Section 8.2(b)(ii) with respect to such 
+Audit.
+
+(c) Participation Rights of Parties and Information Sharing with respect to 
+Audits.
+
+(i) Each Party that would be responsible under Section 8.3 for Taxes 
+resulting from an Audit (other than the Audit Management Party) (a 
+Participating Party) shall have the rights as set forth in this Section 
+8.2(c) with respect to such Audit. Upon the reasonable request of a 
+Participating Party, the Audit Management Party shall make available 
+relevant personnel and external advisors to meet with the Participating 
+Party and its independent auditor in order to review the status of the 
+Audits. The Participating Parties shall provide the Audit Management Party 
+with reasonable notice of such requested meetings or information.
+ 
+28
+
+------------------------------------------------------------------------
+(ii) Each Participating Party shall have access to any written 
+documentation in the possession of the Audit Management Party that pertains 
+to the Audit (including any written summaries of issues that the Audit 
+Management Party has developed in the context of evaluating the financial 
+reporting of the Audit); provided, however, that if documentation was 
+prepared solely by or on behalf of a Party, then the documentation must 
+relate to the joint defense of the Audit. Copies of the documentation will 
+be made available to the Participating Parties at their sole cost and 
+expense.
+
+(iii) Upon becoming aware of any scheduled meeting or scheduled phone call 
+with an Audit agent, the Audit Management Party shall use commercially 
+reasonable efforts to inform each Participating Party of the time, location 
+and/or expected subject matter of such meeting or phone call. Such 
+Participating Party shall be entitled to designate a representative to 
+attend such meeting or phone call (it being understood that the Audit 
+Management Party shall not have any obligation to reschedule any such 
+meeting or phone call to facilitate such representatives attendance); 
+provided, however, that such Participating Party (and its representative) 
+may not actively participate in such meeting or phone call.
+
+(iv) The Participating Parties are encouraged to provide consultation to 
+the Audit Management Party in regards to Audit strategy and shall, upon 
+request of the Audit Management Party, provide such consultation. The 
+Participating Party may elect to employ separate counsel to advise the 
+Participating Party as additional counsel in or in connection with an 
+Audit, but in that event, the fees and expenses of the separate counsel 
+shall be paid solely by the Participating Party. The Audit Management Party 
+shall in good faith consider all advice and other input received from the 
+Participating Parties in connection with their consultations with respect 
+to an Audit. However, the Audit Management Party shall retain the sole 
+authority to make all Audit decisions. In that regard, the Participating 
+Parties and their separate counsels shall not be allowed to participate in 
+any Audit-related meetings other than those described in (i), (ii) or (iii) 
+above, respond directly to a Taxing Authority conducting the Audit, or in 
+any manner control resolution of the Audit.
+
+(d) Power of Attorney/Officer Signature. Each Party hereby appoints (and 
+shall cause its Subsidiaries to appoint) the Audit Management Party (and 
+its designated representatives) as its agent and attorney-in-fact to take 
+the actions the Audit Management Party deems necessary or appropriate to 
+implement the responsibilities of the Audit Management Party under this 
+Agreement. Each Party also shall (or shall cause its Subsidiaries to) 
+execute and deliver to the Audit Management Party a power of attorney, and 
+such other documents as are reasonably requested from time to time by the 
+Audit Management Party (or its designee).
+
+Section 8.3 Payment of Audit Amounts.
+
+(a) Except as set forth in Section 8.3(b) or (c), in connection with any 
+Audit of any Income Tax Return or Non-Income Tax Return, in each case for a 
+Pre-Distribution Tax Period or a Straddle Tax Period:
+
+(i) A member of the HLT Group shall be liable for and shall pay or cause to 
+be paid to the applicable Taxing Authority, PK or HGV (as the case may be) 
+the HLT Allocable Audit Portion owed as a result of such Audit;
+ 
+29
+
+------------------------------------------------------------------------
+(ii) PK shall be liable for and shall pay or cause to be paid to the 
+applicable Taxing Authority, a member of the HLT Group or HGV (as the case 
+may be) the PK Allocable Audit Portion owed as a result of such Audit;
+
+(iii) HGV shall be liable for and shall pay or cause to be paid to the 
+applicable Taxing Authority, a member of the HLT Group or PK (as the case 
+may be) the HGV Allocable Audit Portion owed as a result of such Audit.
+
+(b) All additional U.S. federal, state or local Income Taxes for a 
+Pre-Distribution Tax Period or a Straddle Tax Period due and payable as a 
+result of an Audit of an Income Tax Return for a Pre-Distribution Tax 
+Period or a Straddle Tax Period relating to an item listed on Schedule 
+8.3(b) (including any corresponding or correlative adjustments for U.S. 
+federal, state or local Income Tax purposes) (Specified Audit Taxes) 
+shall be allocated first, to a member of the HLT Group up to an aggregate 
+amount equal to ninety million dollars ($90,000,000), and second, among the 
+Parties in accordance with their respective Sharing Percentages. All 
+additional Taxes that are Restructuring Taxes and are due and payable as a 
+result of an Audit shall be allocated among the Parties in accordance with 
+their respective Sharing Percentages. Each Party shall be liable for any 
+shall pay or cause to be paid to the applicable Taxing Authority all such 
+Taxes so allocated to it.
+
+(c) Third Party Indemnity Payments. Any benefit or liability resulting from 
+any Tax sharing, contractual indemnity agreements or similar agreements, 
+written or unwritten, as between any of the Parties or their respective 
+Subsidiaries, on the one hand, and any other third party, on the other hand 
+(other than the Distribution Agreement, this Agreement or any other 
+Ancillary Agreement) (Tax Sharing Agreements), shall remain the benefit 
+or liability of such Party or its respective Subsidiary; provided, however, 
+that the Party responsible under this Agreement for any Taxes shall be 
+responsible for any related liability in respect of such Taxes under any 
+Tax Sharing Agreement, and be entitled to any related benefit in respect of 
+such Taxes under any Tax Sharing Agreement. No Party shall be entitled to 
+indemnification under this Agreement in respect of Taxes to the extent such 
+Party or one of its Subsidiaries is indemnified under any Tax Sharing 
+Agreement, and the Parties shall (and shall cause their Subsidiaries to) 
+use commercially reasonable efforts to pursue any indemnification rights 
+under any Tax Sharing Agreement if such indemnification would reduce the 
+other Partys responsibility for such Taxes under this Agreement.
+
+
+ARTICLE IX
+
+COOPERATION AND EXCHANGE OF INFORMATION
+
+Section 9.1 Cooperation and Exchange of Information. The Parties shall each 
+cooperate fully (and each shall cause its respective Subsidiaries to 
+cooperate fully) and in a timely manner (considering the other Partys 
+normal internal processing or reporting requirements) with all reasonable 
+requests in writing from another Party hereto, or from an agent,
+ 
+30
+
+------------------------------------------------------------------------
+representative, or advisor to such Party, in connection with the 
+preparation and filing of Tax Returns, claims for refund, Audits, 
+determinations of Tax Attributes and the calculation of Taxes or other 
+amounts required to be paid hereunder, and any applicable financial 
+reporting requirements of a Party or its Affiliates, in each case, related 
+or attributable to or arising in connection with Taxes or Tax Attributes of 
+any of the Parties or their respective Subsidiaries covered by this 
+Agreement. Such cooperation shall include, without limitation:
+
+(a) the retention until the expiration of the applicable statute of 
+limitations or, if later, until the expiration of all relevant Tax 
+Attributes (in each case taking into account all waivers and extensions), 
+and the provision upon request, of Tax Returns of the Parties and their 
+respective Subsidiaries for periods up to and including the Distribution 
+Date, books, records (including information regarding ownership and Tax 
+basis of property), documentation, and other information relating to such 
+Tax Returns, including accompanying schedules, related work papers, and 
+documents relating to rulings or other determinations by Taxing 
+Authorities;
+
+(b) the execution of any document that may be necessary or reasonably 
+helpful in connection with any Audit of any of the Parties or their 
+respective Subsidiaries, or the filing of a Tax Return or refund claim of 
+the Parties or any of their respective Subsidiaries (including the 
+signature of an officer of a Party or its Subsidiary);
+
+(c) the use of the Partys reasonable efforts to obtain any documentation 
+and provide additional facts, insights or views as requested by another 
+Party that may be necessary or reasonably helpful in connection with any of 
+the foregoing (including without limitation any information contained in 
+Tax or other financial information databases); and
+
+(d) the use of the Partys reasonable efforts to obtain any Tax Returns 
+(including accompanying schedules, related work papers, and documents), 
+documents, books, records, or other information that may be necessary or 
+helpful in connection with any Tax Returns of any of the Parties or their 
+Affiliates.
+
+Each Party shall make its and its Subsidiaries employees and facilities 
+available on a reasonable and mutually convenient basis in connection with 
+the foregoing matters. Except for costs and expenses otherwise allocated 
+among the Parties pursuant to this Agreement, including costs incurred 
+under Article II and Article VIII, no reimbursement shall be made for costs 
+and expenses incurred by the Parties as a result of cooperating pursuant to 
+this Section 9.1.
+
+Section 9.2 Retention of Records. Subject to Section 9.1, if any of the 
+Parties or their respective Subsidiaries intends to dispose of any 
+documentation relating to the Taxes of the Parties or their respective 
+Subsidiaries for which another Party to this Agreement may be responsible 
+pursuant to the terms of this Agreement (including, without limitation, Tax 
+Returns, books, records, documentation, and other information, accompanying 
+schedules, related work papers, and documents relating to rulings or other 
+determinations by Taxing Authorities), such Party shall or shall cause 
+written notice to the other Parties describing the documentation to be 
+destroyed or disposed of sixty (60) Business Days prior to taking such 
+action. The other Parties may arrange to take delivery of the documentation 
+described in the notice at their expense during the succeeding sixty (60) 
+day period.
+ 
+31
+
+------------------------------------------------------------------------
+Section 9.3 Tax Opinions. The Parties shall reasonably cooperate (and cause 
+the members of the relevant Group to reasonably cooperate) in obtaining any 
+Unqualified Tax Opinion, Unqualified 355(e) Opinion or, in the case of PK, 
+any Unqualified 355(e) Opinion or Unqualified Device Opinion each as 
+defined in the Stockholders Agreement (including making reasonable 
+representations required in connection with any such opinion), including by 
+maintaining and making available to each other all records necessary in 
+connection with such opinions and making employees available on a mutually 
+convenient basis to provide additional information or explanation of any 
+material provided hereunder.
+
+
+ARTICLE X
+
+ALLOCATION OF TAX ATTRIBUTES
+AND OTHER TAX MATTERS
+
+Section 10.1 Allocation of Tax Attributes. HLT shall in good faith advise 
+each of PK and HGV in writing of the portion, if any, of any Tax 
+Attributes, earnings and profits, or other consolidated, combined or 
+unitary attribute that HLT determines shall be allocated or apportioned to 
+each Group under applicable Law; provided, however, that such determination 
+shall be made in a manner that is: (a) reasonably consistent with the past 
+practices of the Parties; (b) in accordance with the rules prescribed by 
+applicable Law, including the Code and the Treasury Regulations; and (c) 
+consistent with the IRS Ruling, the Tax Representation Letters, and the Tax 
+Opinions. HLT agrees to provide the other Parties with all of the 
+information supporting the Tax Attribute and other determinations made by 
+HLT pursuant to this Section 10.1. In the case of an Audit of 
+Pre-Distribution Income Tax Returns that results in an increase in the 
+earnings and profits allocated to PK, PK may be required to pay a 
+deficiency dividend, in accordance with Section 860 of the Code, within 
+ninety (90) days after the determination, as defined in Section 860 of 
+the Code. To provide PK with sufficient notice so that PK can make 
+arrangements to pay such a deficiency dividend within ninety (90) days 
+after the determination, notwithstanding anything to the contrary in this 
+Agreement, HLT agrees to keep PK informed of any Audit of Pre-Distribution 
+Income Tax Returns that could result in an increase in the earnings and 
+profits allocated to PK, and HLT agrees to notify PK of a determination 
+with respect to such Audit within five (5) Business Days after such 
+determination.
+
+Section 10.2 Allocation of Tax Items. All determinations for purposes of 
+this Agreement regarding the allocation of Income Tax items (other than Tax 
+items arising on the Distribution Date but after the applicable 
+Distribution that are outside the ordinary course of business) between the 
+portion of a Straddle Tax Period that ends on the Distribution Date and the 
+portion that begins the day after the Distribution Date shall be made based 
+on a closing of the books method under the principles of Treasury 
+Regulation 1.1502-76 (and any similar rule under U.S. state, local or 
+non-U.S. Law) as determined by HLT on any HLT Combined Income Tax Return, 
+unless in each case the Parties unanimously agree otherwise; provided, 
+however, any Taxes in respect of actions taken outside the ordinary course 
+of business on the date of an External Distribution but after such External 
+Distribution shall be deemed to arise the day after such External 
+Distribution. Any such allocation of Tax items shall initially be made by 
+HLT. To the extent that HGV or PK disagrees with such determination, the 
+dispute shall be resolved by an Big Four Accounting Firm mutually agreed 
+upon by the Parties for a final binding resolution. For purposes of 
+preparing any Income Tax Returns for the year of the Distributions that 
+require
+ 
+32
+
+------------------------------------------------------------------------
+an allocation of Tax items between a Pre-Distribution Tax Period and a 
+Post-Distribution Tax Period, Tax items shall be allocated based on a 
+closing of the books method under Treasury Regulation 1.1502-76 (and any 
+similar rule under U.S. state, local or non-U.S. Law) as determined by HLT 
+on any HLT Combined Income Tax Return, unless the Parties unanimously agree 
+otherwise. Except for the transactions contemplated in the Reorganization 
+Slide Deck or any Implementing Agreement, HGV and PK shall not (and shall 
+not permit any member of their respective Groups to) take any action 
+outside the ordinary course of business on the date of an External 
+Distribution but after such External Distribution.
+
+
+ARTICLE XI
+
+DEFAULTED AMOUNTS
+
+Section 11.1 General. In the event that one or more Parties defaults on its 
+obligation to pay Distribution Taxes for which it is liable pursuant to 
+Article V to another Party, then each non-defaulting Party shall be 
+required to fund a portion of such Distribution Taxes in accordance with 
+the Sharing Percentages of the non-defaulting Parties; provided, however, 
+that no payment obligation shall exist under this Section 11.1 with respect 
+to Distribution Taxes that are attributable to the Fault for Distribution 
+Purposes of one or more Parties; provided, further, that any payment of 
+Distribution Taxes by a non-defaulting Party pursuant to this Section 11.1 
+shall in no way release the defaulting Party from its obligations to pay 
+such Distribution Taxes and any non-defaulting Party may exercise any 
+available legal remedies available against such defaulting Party; provided, 
+further, that interest shall accrue on any such payment by a non-defaulting 
+Party at a rate per annum equal to the then applicable LIBOR. In connection 
+with the foregoing, it is expressly understood that any defaulting Partys 
+rights to any amounts to be received by such defaulting Party hereunder may 
+be used via a right of offset to satisfy, in whole or in part, the 
+obligations of such defaulting Party to pay the Distribution Taxes that are 
+borne by the non-defaulting Parties; such rights of offset shall be applied 
+in favor of the non-defaulting Party or Parties in proportion to the 
+additional amounts paid by any such non-defaulting Party or Parties.
+
+
+ARTICLE XII
+
+DISPUTE RESOLUTION
+
+Section 12.1 Negotiation. In the event of a dispute arising out of or in 
+connection with this Agreement (including its interpretation, performance 
+or validity) (collectively, Agreement Disputes), the senior tax officers 
+of the relevant Parties (or such other individuals designated thereby) 
+shall negotiate for a maximum of 21 days (or a mutually-agreed extension) 
+(such period of days, the Negotiation Period) from the time of receipt by 
+a Party of written notice of such Agreement Dispute. The relevant Parties 
+shall not assert the defenses of statute of limitations and laches for any 
+delays arising due to the procedures in Sections 12.1 or 12.2.
+
+Section 12.2 Mediation. If the Parties have not timely resolved the 
+Agreement Dispute under Section 12.1, the Parties agree to submit the 
+Agreement Dispute to mediation no later than 10 days following the end of 
+the Negotiation Period, with such mediation to be
+ 
+33
+
+------------------------------------------------------------------------
+conducted in accordance with the Mediation Procedure of the International 
+Institute for Conflict Prevention and Resolution (CPR). The Parties to 
+the Agreement Dispute agree to bear equally the CPR and mediators costs 
+for same. The Parties agree to participate in good faith in the mediation 
+for a maximum of 14 days (or a mutually agreed extension). If the Parties 
+have not timely resolved the Agreement Dispute pursuant to this Section 
+12.2, either Party may then bring an action in accordance with Sections 
+13.15 and 13.16 herein.
+
+Section 12.3 Confidentiality. All information and communications between 
+the Parties relating to an Agreement Dispute and/or under the procedures in 
+Sections 12.1 and 12.2 shall be considered Confidential Information for 
+which the provisions of Section 8.6 of the Distribution Agreement shall 
+apply herein, mutatis mutandis.
+
+Section 12.4 Continuity of Performance. Unless otherwise agreed in writing, 
+the Parties shall continue to perform under this Agreement during the 
+course of dispute resolution under this Article XII with respect to all 
+matters not subject thereto.
+
+
+ARTICLE XIII
+
+MISCELLANEOUS
+
+Section 13.1 Counterparts. This Agreement may be executed in more than one 
+counterpart, all of which shall be considered one and the same agreement, 
+and shall become effective when one or more such counterparts have been 
+signed by each of the Parties and delivered to the other Parties.
+
+Section 13.2 Survival. Except as otherwise contemplated by this Agreement 
+or the Distribution Agreement, all covenants and agreements of the Parties 
+contained in this Agreement shall survive the Distribution Date and remain 
+in full force and effect in accordance with their applicable terms; 
+provided, however, that all indemnification for Taxes shall survive until 
+ninety (90) days following the expiration of the applicable statute of 
+limitations (taking into account all extensions thereof), if any, of the 
+Tax that gave rise to the indemnification; provided, further, that, in the 
+event that notice for indemnification has been given within the applicable 
+survival period, such indemnification shall survive until such time as such 
+claim is finally resolved.
+
+Section 13.3 Notices. All notices, requests, claims, demands, and other 
+communications under this Agreement shall be in English, shall be in 
+writing and shall be given or made (and shall be deemed to have been duly 
+given or made upon receipt) by delivery in person, by overnight courier 
+service, by facsimile with receipt confirmed (followed by delivery of an 
+original via overnight courier service), or by registered or certified mail 
+(postage prepaid, return receipt requested) to the respective Parties at 
+the following addresses (or at such other address for a Party as shall be 
+specified in a notice given in accordance with this Section 13.3):
+
+To HLT:
+
+Hilton Worldwide Holdings Inc.
+7930 Jones Branch Drive, Suite 1100
+McLean, Virginia 22102
+Attn: General Counsel
+Facsimile: (703) 883-6188
+ 
+34
+
+------------------------------------------------------------------------
+To PK:
+
+Park Hotels & Resorts Inc.
+1600 Tysons Boulevard, Suite 1000
+McLean, Virginia 22102
+Attn: General Counsel
+Facsimile: (703) 893-1057
+
+To HGV:
+
+Hilton Grand Vacations Inc.
+6355 MetroWest Boulevard, Suite 180
+Orlando, Florida 32835
+Attn: General Counsel
+Facsimile: (407) 722-3776
+
+Section 13.4 Waivers. Any consent required or permitted to be given by any 
+Party to the other Parties under this Agreement shall be in writing and 
+signed by the Party giving such consent and shall be effective only against 
+such Party (and its Group).
+
+Section 13.5 Assignment. This Agreement may not be assigned without the 
+express prior written consent of the other Parties, and any attempted 
+assignment, without such consents, will be null and void; provided, 
+however, that this Agreement shall be assignable in whole in connection 
+with a merger or consolidation or the sale of all or substantially all the 
+assets of a Party hereto so long as the resulting, surviving or transferee 
+entity assumes all the obligations of the relevant Party hereto by 
+operation of law or pursuant to an agreement in form and substance 
+reasonably satisfactory to the other Parties to this Agreement.
+
+Section 13.6 Successors and Assigns. The provisions of this Agreement and 
+the obligations and rights hereunder shall be binding upon, inure to the 
+benefit of and be enforceable by (and against) the Parties and their 
+respective successors and permitted transferees and assigns.
+
+Section 13.7 Termination and Amendment. This Agreement (including 
+indemnification obligations hereunder) may be terminated, modified or 
+amended and each Distribution may be amended, modified or abandoned at any 
+time prior to the Effective Time by and in the sole discretion of HLT 
+without the approval of PK or HGV or the stockholders of HLT. In the event 
+of such termination, no Party shall have any liability of any kind to any 
+other Party or any other Person. After the Effective Time, this Agreement 
+may not be terminated except by an agreement in writing signed by a duly 
+authorized representative of each of HLT, PK, and HGV.
+
+Section 13.8 No Circumvention. The Parties agree not to directly or 
+indirectly take any actions, act in concert with any Person who takes an 
+action, or cause or allow any member of any such Partys Group to take any 
+actions (including the failure to take a reasonable action) such that the 
+resulting effect is to materially undermine the effectiveness of any of the 
+provisions of this Agreement, the Distribution Agreement or any other 
+Ancillary Agreement.
+ 
+35
+
+------------------------------------------------------------------------
+Section 13.9 Subsidiaries. Each of the Parties shall cause to be performed, 
+and hereby guarantees the performance of, all actions, agreements and 
+obligations set forth herein to be performed by any Subsidiary of such 
+Party or by any entity that becomes a Subsidiary of such Party on and after 
+the Effective Time, to the extent such Subsidiary remains a Subsidiary of 
+the applicable Party.
+
+Section 13.10 Third Party Beneficiaries. Except as provided in Section 5.4 
+relating to each of the Blackstone Entities, this Agreement is solely for 
+the benefit of the Parties and should not be deemed to confer upon third 
+parties any remedy, claim, liability, reimbursement, claim of action or 
+other right in excess of those existing without reference to this 
+Agreement.
+
+Section 13.11 Title and Headings. Titles and headings to sections herein 
+are inserted for the convenience of reference only and are not intended to 
+be a part of or to affect the meaning or interpretation of this Agreement.
+
+Section 13.12 Schedules. The Schedules shall be construed with and as an 
+integral part of this Agreement to the same extent as if the same had been 
+set forth verbatim herein.
+
+Section 13.13 Specific Performance. In the event of any actual or 
+threatened default in, or breach of, any of the terms, conditions and 
+provisions of this Agreement, the Party who is or is to be thereby 
+aggrieved shall have the right to specific performance and injunctive or 
+other equitable relief of its rights under this Agreement, in addition to 
+any and all other rights and remedies at law or in equity, and all such 
+rights and remedies shall be cumulative. The Parties agree that the 
+remedies at law for any breach or threatened breach, including monetary 
+damages, may be inadequate compensation for any loss and that the Parties 
+may be irreparably harmed as a result. Accordingly, any defense in any 
+action for specific performance that a remedy at law would be adequate is 
+waived. Any requirements for the securing or posting of any bond with such 
+remedy are waived by the Parties to this Agreement.
+
+Section 13.14 Governing Law. This Agreement shall be governed by and 
+construed in accordance with the Laws of the State of Delaware without 
+reference to any choice-of-law or conflicts of law principles that would 
+result in the application of the laws of a different jurisdiction.
+
+Section 13.15 Consent to Jurisdiction. Each Party irrevocably submits to 
+the exclusive jurisdiction of (a) the Court of Chancery of the State of 
+Delaware or (b) if such court does not have subject matter jurisdiction, 
+any other state or federal court located within the County of New Castle in 
+the State of Delaware, to resolve any Agreement Dispute that is not 
+resolved pursuant to Sections 12.1 or 12.2. Any judgment of such court may 
+be enforced by any court of competent jurisdiction. Further, 
+notwithstanding Sections 12.1 and 12.2, either Party may apply to the above 
+courts set forth in Section 13.15(a) and 13.15(b) above for a temporary 
+restraining order or similar emergency relief during the process set forth 
+in Sections 12.1 and
+ 
+36
+
+------------------------------------------------------------------------
+12.2. Each of the Parties agrees that service by U.S. registered mail to 
+such Partys respective address set forth above shall be effective service 
+of process for any of the above Actions and irrevocably and unconditionally 
+waives any objection to the laying of venue of any Action in accordance 
+with this Section 13.15. Nothing in this Section 13.15 shall limit or 
+restrict the Parties from agreeing to arbitrate any Agreement Dispute 
+pursuant to mutually-agreed procedures.
+
+Section 13.16 Waiver of Jury Trial. EACH OF THE PARTIES HEREBY WAIVES TO 
+THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ANY RIGHT IT MAY HAVE TO A 
+TRIAL BY JURY WITH RESPECT TO ANY ACTION ARISING OUT OF OR IN CONNECTION 
+WITH THIS AGREEMENT, INCLUDING ANY AGREEMENT DISPUTE.
+
+Section 13.17 Force Majeure. No Party (or any Person acting on its behalf) 
+shall have any liability or responsibility for failure to fulfill any 
+obligation (other than a payment obligation) under this Agreement so long 
+as and to the extent to which the fulfillment of such obligation is 
+prevented, frustrated, hindered, or delayed as a consequence of 
+circumstances of Force Majeure (as defined in the Distribution Agreement). 
+A Party claiming the benefit of this provision shall, as soon as reasonably 
+practicable after the occurrence of any such event: (a) notify the other 
+applicable Parties of the nature and extent of any such Force Majeure 
+condition and (b) use due diligence to remove any such causes and resume 
+performance under this Agreement as soon as feasible.
+
+Section 13.18 Interpretation. The Parties have participated jointly in the 
+negotiation and drafting of this Agreement. This Agreement shall be 
+construed without regard to any presumption or rule requiring construction 
+or interpretation against the party drafting or causing any instrument to 
+be drafted.
+
+Section 13.19 Changes in Law.
+
+(a) Any reference to a provision of the Code, Treasury Regulations, or a 
+Law of another jurisdiction shall include a reference to any applicable 
+successor provision or Law.
+
+(b) If, due to any change in applicable Law or regulations or their 
+interpretation by any court of Law or other governing body having 
+jurisdiction subsequent to the date hereof, performance of any provision of 
+this Agreement or any transaction contemplated hereby shall become 
+impracticable or impossible, the Parties hereto shall use their 
+commercially reasonable best efforts to find and employ an alternative 
+means to achieve the same or substantially the same result as that 
+contemplated by such provision.
+
+Section 13.20 Severability. In the event any one or more of the provisions 
+contained in this Agreement should be held invalid, illegal or 
+unenforceable in any respect, the validity, legality and enforceability of 
+the remaining provisions contained herein and therein shall not in any way 
+be affected or impaired thereby. The Parties shall endeavor in good-faith 
+negotiations to replace the invalid, illegal or unenforceable provisions 
+with valid provisions, the economic effect of which comes as close as 
+possible to that of the invalid, illegal or unenforceable provisions.
+ 
+37
+
+------------------------------------------------------------------------
+Section 13.21 Tax Sharing Agreements. All Tax sharing, indemnification and 
+similar agreements, written or unwritten, as between any of the Parties or 
+their respective Subsidiaries, on the one hand, and any other Party or its 
+respective Subsidiaries, on the other hand (other than this Agreement, any 
+other Ancillary Agreement or any agreement solely between any of HLT, OpCo 
+and/or any of their Subsidiaries), shall be or shall have been terminated 
+as of the Distribution Date and, after the Distribution Date, none of such 
+Parties (or their Subsidiaries) to any such Tax sharing, indemnification or 
+similar agreement shall have any further rights or obligations under any 
+such agreement.
+
+Section 13.22 Exclusivity. Except as specifically set forth herein or in 
+the Distribution Agreement or any other Ancillary Agreement, all matters 
+related to Taxes or Tax Returns of the Parties and their respective 
+Subsidiaries shall be governed exclusively by this Agreement. In the event 
+of a conflict between this Agreement, the Distribution Agreement or any 
+Ancillary Agreement with respect to such matters, this Agreement shall 
+govern and control.
+
+Section 13.23 No Waiver. No failure to exercise and no delay in exercising, 
+on the part of any Party, any right, remedy, power or privilege hereunder 
+shall operate as a waiver hereof or thereof; nor shall any single or 
+partial exercise of any right, remedy, power or privilege hereunder 
+preclude any other or further exercise thereof or the exercise of any other 
+right, remedy, power or privilege. No waiver shall be effective unless it 
+is in writing and is signed by the Party asserted to have granted such 
+waiver.
+
+Section 13.24 No Duplication; No Double Recovery. Nothing in this Agreement 
+is intended to confer to or impose upon any Party a duplicative right, 
+entitlement, obligation, or recovery with respect to any matter arising out 
+of the same facts and circumstances.
+ 
+38
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be 
+executed the day and year first above written.
+ 
+HILTON WORLDWIDE HOLDINGS INC.
+ 
+ 
+Name:
+Title:
+PARK HOTELS & RESORTS INC.
+ 
+ 
+Name:
+Title:
+HILTON GRAND VACATIONS INC.
+ 
+ 
+Name:
+Title:
+HILTON DOMESTIC OPERATING COMPANY INC.
+ 
+ 
+Name:
+Title:
+
+------------------------------------------------------------------------
+Schedule 2.3
+ 
+1. 	HLT is the Paying Party of amounts shown on Non-Income Tax Returns with 
+respect to HLT Retained Assets (determined on a with and without basis, 
+as determined by HLT in its good faith discretion).
+ 
+2. 	PK is the Paying Party of amounts shown on Non-Income Tax Returns with 
+respect to Ownership Assets (determined on a with and without basis, as 
+determined by HLT in its good faith discretion).
+ 
+3. 	HGV is the Paying Party of amounts shown on Non-Income Tax Returns with 
+respect to Timeshare Assets (determined on a with and without basis, as 
+determined by HLT in its good faith discretion).
+
+------------------------------------------------------------------------
+Schedule 8.3(b)
+ 
+  	 	  	The IRS has asserted that certain foreign currency denominated 
+intercompany loans, from HLTs foreign subsidiaries to certain U.S. 
+subsidiaries, should be recharacterized as equity for U.S. federal income 
+tax purposes and should constitute deemed dividends from such foreign 
+subsidiaries to the U.S. subsidiaries as described in Note 12 of HLTs 
+financial statements included in its Form 10Q filing for the quarterly 
+period ending September 30, 2016.
+ 
+  	 	  	In calculating the amount of U.S. taxable income resulting from 
+the Hilton HHonors guest loyalty program, the IRS has taken a position that 
+Hilton HHonors Worldwide, L.L.C. should not reduce gross income by the 
+estimated costs of future redemptions, but rather such costs would be 
+deductible only at the time the points are redeemed as described in Note 12 
+of HLTs financial statements included in its Form 10Q filing for the 
+quarterly period ending September 30, 2016.
+ 
+  	 	  	The IRS has asserted that foreign currency denominated loans 
+entered into by one of HLTs Luxembourg subsidiaries whose functional 
+currency is the U.S. Dollar, should instead be treated as entered into by 
+one of HLTs Belgian subsidiaries whose functional currency is the Euro, 
+and thus foreign currency gains and losses with respect to such loans 
+should have been measured in Euros, instead of the U.S. Dollar as described 
+in Note 12 of HLTs financial statements included in its Form 10Q filing 
+for the quarterly period ending September 30, 2016.
+ 
+  	 	  	In the fourth quarter of 2015, certain of HLTs U.S. subsidiary 
+corporations were converted to limited liability companies and certain of 
+HLTs subsidiary controlled foreign corporations elected to be disregarded 
+for U.S. federal income tax purposes. These transactions were treated as 
+tax-free liquidations for federal tax purposes.
