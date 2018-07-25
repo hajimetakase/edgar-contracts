@@ -1,0 +1,660 @@
+ EX-10.3 4 ex10_3.htm FLASH FORWARD MUTUAL CONTRIBUTION AND ENVIRONMENTAL 
+INDEMNIFICATION AGREEMENT
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+
+ 
+FLASH FORWARD MUTUAL CONTRIBUTION
+AND ENVIRONMENTAL INDEMNIFICATION AGREEMENT
+
+This FLASH FORWARD MUTUAL CONTRIBUTION AND ENVIRONMENTAL INDEMNIFICATION 
+AGREEMENT, dated as of July 13, 2010 (this “Agreement”), is entered into by 
+and among, on one side, Toshiba Corporation, a Japanese corporation (“
+Toshiba”), and, on the other side, SanDisk Flash B.V., a Netherlands 
+company (“SanDisk Entity”, and together with Toshiba, the “Parties”).
+ 
+RECITALS
+ 
+WHEREAS, Toshiba, SanDisk Corporation and SanDisk (Cayman) Limited, a 
+company organized under the laws of the Cayman Islands, are parties to that 
+certain Mutual Contribution and Environmental Indemnification Agreement, 
+dated as of September 10, 2004, setting forth the terms and conditions 
+relating to environmental issues that arise out of the manufacture of Y3 
+NAND Flash Memory Products manufactured at the Y3 Facility;
+ 
+WHEREAS, Toshiba, SanDisk Corporation and SanDisk (Ireland) Limited, a 
+company organized under the laws of the Republic of Ireland, are parties to 
+that certain Mutual Contribution and Environmental Indemnification 
+Agreement, dated as of July 7, 2006, as amended by that certain JVRA, dated 
+as of January 29, 2009, setting forth the terms and conditions relating to 
+environmental issues that arise out of the manufacture of Y4 NAND Flash 
+Memory Products manufactured at the Y4 Facility;
+ 
+WHEREAS, Toshiba, SanDisk Entity and SanDisk Corporation are parties to 
+that certain Flash Forward Master Agreement, dated as of the date hereof 
+(the “FF Master Agreement”);
+ 
+WHEREAS, pursuant to the terms of the FF Master Agreement and other FF 
+Operative Documents, Flash Forward, Ltd., a Japanese godo kaisha (the “
+Company”), will have Y5 NAND Flash Memory Products and other products 
+manufactured at the Y5 Facility; and
+ 
+WHEREAS, Toshiba and SanDisk Entity have agreed to mutually contribute to, 
+and indemnify each other and the Company for, environmental remediation 
+costs or liability resulting from the Y5 Facility manufacturing operations 
+as set forth below.
+ 
+NOW, THEREFORE, the Parties agree as follows:
+ 
+1.  
+Definitions and Interpretation.
+ 
+1.1  
+FF Master Agreement.  Appendix A to the FF Master Agreement is hereby 
+incorporated into this Agreement.  Capitalized terms used but not defined 
+in this Agreement shall have the meanings given to them in Appendix A.  If 
+any capitalized term used in this Agreement is not defined herein or in 
+Appendix A, it shall have the meaning assigned to it in the FF Master 
+Agreement.
+ 
+1.2  
+Definitions.  The following terms used in this Agreement shall have the 
+following respective meanings:
+ 
+(a)  
+“Environmental Costs” means any and all costs, expenses or liability 
+(including claims by third parties or any Governmental Authority) 
+attributable to any contamination from the release or discharge of 
+Hazardous Substances resulting from, arising out of or otherwise by virtue 
+of the construction or operation of the Y5 Facility or Other Y5 Facilities 
+from the Closing until the FF Termination Date, including any and all costs 
+to investigate, remove or remediate any release of Hazardous Substances or 
+otherwise reasonably necessary to assure that the Company and the Y5 
+Facility and Other Y5 Facilities are and will (until the FF Termination 
+Date) remain in compliance with then applicable Environmental Laws.
+ 
+ 
+1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+(b)  
+“Environmental Laws” means all Applicable Laws in Japan, including, but not 
+limited to, the Soil Contamination Control Law (Dojyouosen Taisaku Ho, Law 
+No. 53 of 2002), now or hereafter in effect relating to the protection of 
+human health, safety, and the environment from emissions, discharges, 
+releases or threatened releases of pollutants, contaminants (chemical or 
+industrial), toxic or Hazardous Substances or wastes into the environment 
+(including, ambient air, soil, surface water, ground water, wetlands, land 
+or subsurface strata), or otherwise relating to the manufacture, 
+processing, distribution, use, treatment, storage, disposal, transport or 
+handling or investigation or remediation of pollutants, contaminants, 
+chemicals or industrial, toxic or Hazardous Substances or wastes.
+ 
+(c)  
+“Hazardous Substances” means petroleum, petroleum hydrocarbons or petroleum 
+products, petroleum by-products, radioactive materials, asbestos or 
+asbestos-containing materials, pesticides, radon, urea formaldehyde, lead 
+or lead-containing materials, polychlorinated biphenyls; and any other 
+chemicals, materials, substances or wastes in any amount or concentration 
+which are now or hereafter become defined as or included in the definition 
+of “hazardous substances,” “hazardous materials,” “hazardous wastes,” 
+“extremely hazardous wastes,” “restricted hazardous wastes,” “toxic 
+substances,” “toxic pollutants,” “pollutants,” “regulated substances,” 
+“solid wastes,” or “contaminants” or words of similar import, under any 
+Environmental Law.
+ 
+(d)  
+“Share” means each of SanDisk Entity’s and Toshiba’s respective liability 
+for Environmental Costs, which shall be measured by and shared in 
+proportion to (i) each Party’s Y5 Capacity Ratio (as may be adjusted 
+pursuant to the FF Master Agreement) within the Y5 Facility and Other Y5 
+Facilities at the time of the applicable contamination or release, if 
+determinable, or (ii) if the time of such contamination or release is not 
+determinable, each of Toshiba’s and SanDisk’s cumulative Equivalent Lot 
+output from the commencement of production at the Y5 Facility and Other Y5 
+Facilities until the date the applicable contamination or release is 
+discovered.
+ 
+2.  
+Environmental Investigations.
+ 
+2.1  
+Environmental Consultants.  As of the date hereof, the Parties acknowledge 
+that neither Party has engaged an environmental consultant to investigate, 
+or prepared or obtained an environmental report with respect to, the Y5 
+Facility or Other Y5 Facility (as defined below).  Subject to Section 2.2, 
+each of SanDisk and Toshiba will engage an environmental consulting company 
+to conduct an environmental investigation on its behalf as to the surface 
+and subsurface conditions existing on or immediately adjacent to the 
+proposed site of the Y5 Facility and other new land to be acquired or 
+leased by Toshiba for the purpose of the Y5 Facility’s operation (such new 
+land to be acquired or leased, the “Other Y5 Facility”) (each a “
+Consultant” and the Consultant engaged by SanDisk, the “SanDisk Consultant
+” and the Consultant engaged by Toshiba, the “Toshiba Consultant”). SanDisk 
+shall be solely responsible for the fees and costs charged by the SanDisk 
+Consultant and shall indemnify and hold harmless Toshiba and the Company 
+from any claims for compensation or damages made by the SanDisk Consultant. 
+ Toshiba shall be solely responsible for the fees and costs charged by the 
+Toshiba Consultant and shall indemnify and hold harmless SanDisk and the 
+Company from any claims for compensation or damages made by the Toshiba 
+Consultant; provided, however, that fees and costs incurred by the Toshiba 
+Consultant after the Closing and other than in connection with finalizing 
+the Y5 Baseline Environmental Report (as defined below) shall be chargeable 
+to and payable by the Company, which fees and costs shall be chargeable to 
+and payable by the Parties through wafer price increases.
+ 
+2.2  
+Scope of Review.  To the extent reasonably practicable and subject to 
+Toshiba’s consent, which shall not be unreasonably withheld, each 
+Consultant will perform the activities customarily associated with Phase I 
+(tochirireki chosa) and Phase II (osen jokyo kakunin chosa) studies.  The 
+Consultant(s) will perform Phase I and, if performed, Phase II studies at 
+the site of the Y5 Facility (and immediately adjacent thereto) prior to the 
+start of Y5 Facility operation (scheduled to begin April 2011); provided, 
+however, that the Parties acknowledge that the Consultants may not be able 
+to perform such studies with respect to some portions or all of the Y5 
+Facility and Other Y5 Facilities (any such portion, an “Untested Area”), 
+and that access by the Consultants to the proposed site of the Y5 Facility 
+and Other Y5 Facilities will be only to the extent necessary to conduct the 
+Phase I and Phase II studies and subject to Toshiba’s prior consent, which 
+shall not be unreasonably withheld.
+ 
+ 
+2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+2.3  
+Information from Monitoring Activities.  Toshiba shall share, or cause to 
+be shared, with SanDisk and, upon SanDisk’s request, the SanDisk 
+Consultant, the results of any monitoring activities conducted by Toshiba 
+or its Affiliates with respect to the surface and subsurface conditions on 
+the proposed site of the Y5 Facility and Other Y5 Facilities on or after 
+the Effective Date and until the FF Termination Date; provided that if as 
+of the FF Termination Date any claims have been made against SanDisk with 
+respect to its indemnification obligations hereunder, on SanDisk’s request, 
+Toshiba shall continue to provide SanDisk the results of any monitoring 
+activities to the extent such results may affect the evaluation or 
+determination of alleged liability of SanDisk hereunder.  The Parties 
+acknowledge and agree that any such information concerning the Y5 Facility 
+and Other Y5 Facilities shall be considered Confidential Information of the 
+Company and any such information concerning the Yokkaichi Facility 
+(including the Y5 Facility and Other Y5 Facilities) shall be considered 
+Confidential Information of Toshiba.
+ 
+3.  
+Baseline Environmental Report.
+ 
+    Each Party shall direct the Consultant retained by it to (i) provide
+    the other Consultant and other Party with its initial environmental
+    report on the Y5 Facility and Other Y5 Facilities and (ii) discuss the
+    reports in good faith with the other Consultant with the intent of the
+    Parties and their Consultants agreeing upon a single, combined report
+    (the “Y5 Baseline Environmental Report”).  If Toshiba, SanDisk and the
+    Consultants are unable to agree upon a single report within sixty (60)
+    days after the start of Y5 Facility operations, then the draft reports
+    of both Consultants (or combined report indicating areas of
+    disagreement) shall collectively be considered to be the Y5 Baseline
+    Environmental Report.
+ 
+4.  
+Environmental Compliance.
+ 
+4.1  
+Compliance.  The Parties confirm their intent that the Y5 Facility and 
+Other Y5 Facilities and all operations of the Company be maintained in 
+compliance with all Environmental Laws, including by having remedial 
+measures taken as required by any Governmental Authority or otherwise 
+reasonably necessary to ensure that the Y5 Facility and Other Y5 Facilities 
+and all operations of the Company will remain in compliance with all 
+Environmental Laws.
+ 
+4.2  
+Notice.  Each Party shall promptly notify the other of any circumstances of 
+which it becomes aware that require or could reasonably be expected to 
+require remediation or other actions to ensure that the Company and its 
+operations are and will be maintained in compliance with all Environmental 
+Laws and to minimize the aggregate Covered Environmental Costs (as defined 
+below) that may be incurred.  Upon any such notice being given and 
+received, the Parties shall promptly discuss in good faith and seek to 
+agree upon the measures to be taken in response to such circumstances.  
+Pending their agreement, nothing shall prevent or limit Toshiba, acting in 
+good faith on its own initiative or upon SanDisk’s reasonable request, from 
+investigating the circumstances of any releases of Hazardous Substances or 
+taking steps reasonably appropriate to limit or prevent ongoing releases, 
+to limit the effects of a release, or to prevent or limit any exposure or 
+damage resulting from, arising out of or otherwise by virtue of a release, 
+including taking immediate or urgent steps as appropriate in light of the 
+circumstances then known, provided, that nothing in this paragraph shall 
+require either Party to take any step except as required by applicable 
+Environmental Law.
+ 
+5.  
+Indemnification Obligations.
+ 
+5.1  
+Mutual Responsibility and Indemnity for Environmental Costs.
+ 
+(a)  
+Subject to Section ‎5.1(b), each of SanDisk and Toshiba shall:
+ 
+(1)  
+be responsible for bearing its Share of Environmental Costs; and
+ 
+(2)  
+indemnify, defend and hold harmless the other Party and the Company (and 
+their respective Indemnified Parties) for its Share of such Environmental 
+Costs.
+ 
+ 
+3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(b)  
+Each of SanDisk’s and Toshiba’s responsibility for its Share of 
+Environmental Costs under Section ‎5.1(a) shall be subject to each of the 
+following limitations (Environmental Costs not excluded from the one or 
+both Parties’ responsibility under this Section ‎5.1(b), “Covered 
+Environmental Costs”):
+ 
+(1)  
+Except as provided in Section 5.2(a), neither Party shall be responsible 
+for conditions identified in the Y5 Baseline Environmental Report, 
+including responsibility for any Environmental Costs resulting from, 
+arising out of or otherwise by virtue of remediation or removal of 
+pre-existing conditions.  However, if remedial measures otherwise taken in 
+accordance with this Agreement incidentally result in remediation or 
+removal of conditions not resulting from operation of the Y5 Facility or 
+Other Y5 Facilities, only the Environmental Costs paid for the remedial 
+measures taken with respect to the Y5 Facility or Other Y5 Facilities, as 
+applicable (including amounts paid for remedial measures taken with respect 
+to the Y5 Facility or Other Y5 Facilities that return the Y5 Facility or 
+Other Y5 Facilities to a condition better than that identified in the Y5 
+Baseline Environmental Report) shall constitute Covered Environmental 
+Costs.
+ 
+(2)  
+Neither Party shall be responsible for Environmental Costs to the extent 
+such Environmental Costs are incurred as a result of the willful misconduct 
+of employees, agents or representatives of the other Party.
+ 
+(3)  
+Environmental Costs incurred for remediation shall only constitute Covered 
+Environmental Costs to the extent reasonably necessary to ensure that the 
+Company fulfills the Prudent Operator Standard.  The “Prudent Operator 
+Standard” means taking all such remedial measures (i) as are required to be 
+in compliance with all then effective Environmental Laws, (ii) that have 
+been required by a Governmental Authority or (iii) that a prudent operator 
+of a similar facility would then take or begin to take to ensure that its 
+continuing operations and facilities will remain in compliance with then 
+effective Environmental Laws and with Environmental Laws as they are then 
+scheduled to go into effect or are anticipated to be changed in the next 
+****.
+ 
+(4)  
+No Environmental Costs shall constitute Covered Environmental Costs with 
+respect to either Party to the extent such Party’s liability limit under 
+Section ‎5.5 has been exceeded.
+ 
+(c)  
+If the Parties are not able to agree on whether any given Environmental 
+Costs constitute Covered Environmental Costs (including, following the 
+completion of the sixty (60)-day process set forth in Section ‎8.5, as to 
+whether remediation is necessary to fulfill the Prudent Operator Standard), 
+such dispute shall be resolved by the mediation and arbitration provisions 
+of Appendix A.
+ 
+5.2  
+Toshiba Indemnity.  Toshiba shall indemnify SanDisk and its Indemnified 
+Parties from any environmental costs, expenses or liabilities of SanDisk 
+resulting from, arising out of or otherwise by virtue of:
+ 
+(a)  
+environmental conditions existing at the Yokkaichi Facility (including the 
+Y5 Facility or Other Y5 Facilities but excluding conditions from operations 
+of the Y3 Facility and Y4 Facility) prior to the Closing;
+ 
+(b)  
+the actions or omissions of Toshiba, its Affiliates or its or their 
+respective employees, directors, agents or representatives (other than in 
+connection with the operation of the Y5 Facility or Other Y5 Facilities), 
+for which Toshiba shall be solely responsible; provided however, that 
+Toshiba shall have no indemnification obligation under this Section ‎
+5.2(b) to the extent that any Environmental Costs result from, arise out of 
+or otherwise occur by virtue of actions or omissions of SanDisk, its 
+Affiliates or its or their respective employees, directors, agents or 
+representatives, for which SanDisk shall be solely responsible; or
+ 
+(c)  
+from the operations of the Y5 Facility or Other Y5 Facilities after the FF 
+Termination Date (unless SanDisk is the Buyer for purposes of Section ‎5.3
+, in which case this Section ‎5.2(c) shall not apply).
+ 
+5.3  
+Buyer Indemnity.  If either of Toshiba or SanDisk (as “Buyer”) acquires the 
+interests of the other (as “Seller”) in the Company, the Y5 Facility and 
+Other Y5 Facilities (whether through acquiring its FF Interests, by an 
+asset sale and liquidation or by other means), then, subject to Section ‎7
+, Buyer shall indemnify Seller and its Indemnified Parties from any 
+environmental costs, expenses or liability of Seller resulting from, 
+arising out of or otherwise by virtue of, operations of the Y5 Facility and 
+Other Y5 Facilities after the FF Termination Date.  However, Buyer shall 
+have no indemnification obligation under this Section ‎5.3 to the extent 
+that any Seller environmental costs, expenses or liabilities result from, 
+arise out of or otherwise by virtue of actions or omissions of Seller, its 
+Affiliates or its or their respective employees, directors, agents or 
+representatives.
+ 
+ 
+4
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+5.4  
+Control by Indemnifying Party.
+ 
+(a) 
+The indemnifying Party under Section ‎5.2 or ‎5.3 shall have the sole right 
+to control the defense of any claim and the method and scope of remediation 
+with respect to which the indemnified Party seeks indemnification, provided 
+that the indemnifying Party shall not enter into any settlement that would 
+materially affect the operations of the indemnified Party at the Yokkaichi 
+Facility unless the indemnified Party has granted its prior written 
+consent.
+ 
+(b) 
+The Parties shall cooperate in good faith to seek to agree upon the means 
+of joint defense of any third party claim giving rise to Covered 
+Environmental Costs (with any disagreement to be resolved by the mediation 
+and arbitration provisions set forth in Appendix A).
+ 
+5.5  
+Liability Limit.  Neither Party’s aggregate liability for Covered 
+Environmental Costs or indemnification obligations under Sections ‎5.1, ‎
+5.2 and ‎5.3 shall exceed the greater of (a) US$5 million or (b) the 
+aggregate (i) purchase price of the products purchased by such Party from 
+Flash Forward and (ii) transfer price of the products produced for such 
+Party at the Y5 Facility (which for purposes of computing this aggregate 
+shall be deemed to be no less than cost plus one percent (1%)), during the 
+six years prior to the date of the applicable claim (or in the case of 
+liability arising after the FF Termination Date, for the six year period 
+immediately preceding the FF Terminate Date).
+ 
+6.  
+Satisfaction of Indemnification Obligations.
+ 
+6.1  
+Prompt Payment.  Each Party shall promptly pay its Share of any Covered 
+Environmental Costs paid by the Company or by the other Party in excess of 
+its obligation to bear the Covered Environmental Costs.  In the event that 
+any Covered Environmental Costs are incurred by the Company or 
+disproportionately by a Party in excess of its Share, the Company or such 
+Party, as applicable, shall invoice the other Party or Parties directly for 
+the balance of such Covered Environmental Costs to the extent of such 
+Party’s Share in accordance with Section ‎5.1(a); provided, however, that 
+upon the mutual agreement of the Parties, each Party’s respective Share of 
+Covered Environmental Costs may otherwise be paid via adjustments to the 
+purchase prices they pay to the Company for Y5 NAND Flash Memory Products, 
+pursuant to the applicable Master Operative Documents.  The Parties shall 
+discuss in good faith the means and the timing of payment of their 
+respective Shares of Covered Environmental Costs, taking into account when 
+the Covered Environmental Costs are paid by the Company or by the other 
+Party and the amount of such Covered Environmental Costs.  To the extent 
+the obligations of either Party will not be timely or fully retired by 
+wafer price increases, the Parties shall directly pay their respective 
+Shares of Covered Environmental Costs.
+ 
+6.2  
+Action in the Name of the Company.  Either Party making a demand for 
+indemnification or contribution pursuant to this Agreement shall be 
+entitled, notwithstanding anything to the contrary in the FF Master 
+Agreement or the FF Operating Agreement, to cause the Company to make such 
+demand, if doing so is appropriate to fulfill the intent of this Section ‎
+6 (e.g., if the Company has borne the Covered Environmental Costs and the 
+claiming Party has already reimbursed the Company for its Share of the 
+same).
+ 
+7.  
+Post Termination Environmental Costs and Exit Environmental Report.
+ 
+7.1  
+Environmental Costs Paid Post Termination.  Except as otherwise set forth 
+in this Section ‎7, the Parties’ obligations under Section ‎5.1 shall 
+expire as of the FF Termination Date.
+ 
+(a)  
+In respect of Environmental Costs for remediation, to the extent the Exit 
+Environmental Report (as defined below) identifies contamination at the Y5 
+Facility or Other Y5 Facilities and a good faith claim concerning shared 
+responsibility for such remediation costs is made by one of the Parties 
+before the FF Termination Date, any obligations of the Parties under 
+Section ‎5.1(a) (subject to Section ‎5.1(b)) in respect of remediation of 
+such contamination shall survive the FF Termination Date, but only for so 
+long and to the extent the Prudent Operator Standard continues to require 
+remediation in respect of such contamination.
+ 
+(b)  
+In respect of Covered Environmental Costs resulting from a bona fide third 
+party claim, the Parties obligations under Section ‎5.1(a) (subject to 
+Section ‎5.1(b)) shall survive ****.
+ 
+ 
+5
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+7.2  
+Exit Environmental Report.
+ 
+(a)  
+Promptly upon (i) the exercise by either Party of any right under the FF 
+Operating Agreement and/or the FF Master Agreement to acquire the FF 
+Interests of the other Party, to sell its FF Interests to the other Party 
+or to cause the dissolution of the Company, or (ii) entering into any 
+letter of intent or agreement for the sale of the Y5 Facility and Other Y5 
+Facilities or all or substantially all of the assets (leased or owned) of 
+the Company, the Parties shall engage an environmental consultant from an 
+internationally recognized environmental investigation firm that has 
+experience in Japan and that is mutually acceptable to the Parties (the “
+Exit Consultant”) to conduct and complete Phase I and Phase II 
+investigations of the Y5 Facility and Other Y5 Facilities as of a date as 
+close as practicable to but in any event in advance of the FF Termination 
+Date.  Toshiba shall facilitate the Exit Consultant’s access to the 
+Yokkaichi Facility as reasonably necessary to conduct such investigations.
+ 
+(b)  
+The Exit Consultant shall be directed to prepare a draft report based on 
+its Phase I and Phase II investigations and to deliver the draft report to 
+SanDisk and Toshiba (and if either so directs, to any environmental 
+consultant either Party has engaged for its own account).  SanDisk and 
+Toshiba, directly and/or through their respective consultants, shall have 
+sixty (60) days from receipt to comment on the draft report (any such 
+comment shall be delivered both to the Exit Consultant and the other Party 
+and any consultant it engages for its own account). The Exit Consultant 
+shall then be directed to issue to the Parties its final report (the “Exit 
+Environmental Report”), which shall be final and binding on the Parties.
+ 
+(c)  
+Environmental Costs arising from the Exit Environmental Report process 
+shall be payable as provided in Article ‎5 and Section ‎6.1.
+ 
+(d)  
+Unless all payments due for Covered Environmental Costs in connection with 
+the Exit Environmental Report process have been made before the FF 
+Termination Date, the Buyer shall be entitled to withhold from the purchase 
+price payable (or distributable) to Seller and place into third party 
+escrow up to **** of such purchase price (but not to exceed the balance of 
+Seller’s liability limit in Section ‎5.5), which shall serve as security 
+for Seller’s responsibility for Covered Environmental Costs determined 
+pursuant to this Section ‎7.
+ 
+7.3  
+****
+ 
+8.  
+Miscellaneous.
+ 
+8.1  
+Survival.  Sections ‎5, ‎6, ‎7 and ‎8 and Appendix A shall survive the 
+termination or expiration of this Agreement.
+ 
+8.2  
+Entire Agreement.  This Agreement, together with any exhibits, schedules, 
+appendices and attachments thereto, constitutes the agreement of the 
+Parties to this Agreement with respect to the subject matter hereof and 
+supersedes all prior written and oral agreements and understandings with 
+respect to such subject matter.
+ 
+8.3  
+Effective Time of Agreement.  This Agreement shall be effective from the 
+date first written above.
+ 
+ 
+6
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+8.4  
+Governing Law.  This Agreement shall be governed and construed as to all 
+matters including validity, construction and performance by and under the 
+substantive laws of Japan.
+ 
+8.5  
+Dispute Concerning Prudent Operator Standard or Attribution of 
+Environmental Costs.  Notwithstanding anything to the contrary in Section 
+2.5 of Appendix A, if the Parties are not able to agree upon (i) what 
+application of the Prudent Operator Standard requires with respect to any 
+given proposed remediation hereunder or (ii) the attribution of Hazardous 
+Substances for purposes of Section ‎7.3, at the request of either of them 
+they shall engage a neutral and independent environmental consultant 
+acceptable to both Parties (the “Independent Consultant”) to facilitate 
+resolution of such dispute.  The Parties (and at the option of each of them 
+their own environmental consultants) shall meet and discuss the matter with 
+the Independent Consultant and seek in good faith to resolve the dispute.  
+If the Parties are not able to resolve the dispute within sixty (60) days 
+after initiating discussions with the Independent Consultant, then at any 
+time after such sixty (60) day period either Party may bring an arbitration 
+claim pursuant to Section 2.5 of Appendix A to resolve the dispute.
+ 
+8.6  
+Assignment.  Neither party hereto may transfer this Agreement or any of its 
+rights hereunder (except for any transfer to an Affiliate or in connection 
+with a merger, consolidation or sale of all or substantially all the assets 
+or the outstanding securities of such party, which transfer shall not 
+require any consent of the other party) without the prior written consent 
+of the other party hereto (which consent may be withheld in such other 
+party’s sole discretion), and any such purported transfer without such 
+consent shall be void.
+ 
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.3
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed 
+and delivered as of the date and year first above written.
+ 
+ 
+ 
+ 
+  	TOSHIBA CORPORATION
+  	 By: 	 /s/ Kiyoshi Kobayashi
+  	 Name: 	 Kiyoshi Kobayashi
+  	 Title: 	 President and CEO
+  	  	 Semiconductor Company
+  	  	 Corporate Senior Vice President
+  	  	 
+  	 SANDISK FLASH B.V.
+  	 By: 	 /s/ Sanjay Mehrotra
+  	 Name: 	 Sanjay Mehrotra
+  	 Title: 	 Director
+  	  	 
+  	  	 
+  	  	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Signature Page to Flash Forward Mutual Contribution and Environmental 
+Indemnification Agreement
+ 
+ 
+ 
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+ 
+
