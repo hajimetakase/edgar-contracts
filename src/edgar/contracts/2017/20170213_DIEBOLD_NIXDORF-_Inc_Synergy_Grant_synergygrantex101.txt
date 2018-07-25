@@ -1,0 +1,569 @@
+ EX-10.1 2 synergygrantex101.htm EXHIBIT 10.1
+
+
+Exhibit 10.1
+
+
+[dnwordmark72dpi1.jpg]
+
+Synergy Grant
+Performance Share Agreement
+
+
+WHEREAS, the Participant is a key associate of Diebold Nixdorf, 
+Incorporated (hereinafter called the “Corporation”) or a Subsidiary; and
+
+WHEREAS, the execution of a Synergy Grant Performance Share Agreement 
+(hereinafter called the “Agreement”) substantially in the form hereof has 
+been authorized by a resolution of the Compensation Committee (the 
+“Committee”) of the Board of Directors of the Corporation (the “Board”).
+
+NOW, THEREFORE, subject to the terms and conditions of the 1991 Equity and 
+Performance Incentive Plan (As Amended and Restated as of February 12, 
+2014) (the “Plan”), and the terms and conditions described below, the 
+Corporation hereby confirms to the Participant the grant, effective on the 
+Grant Date, equal to the fixed number of Performance Shares listed as 
+“Target Units” on the Grant Detail Page subject to the terms and conditions 
+of the Plan and the terms and conditions described below, together with the 
+opportunity to earn up to an additional [_____] of such number of 
+Performance Shares for superior performance as described herein.
+
+      1.Definitions.
+As used in this Agreement:
+
+      (a)“Interim Measurement Date” means each of December 31, 2017 and
+      December 31, 2018.
+(b)A “Change in Control” shall be deemed to have occurred if any of the 
+following events shall occur:
+      (i)The acquisition by any individual, entity or group (within the
+      meaning of Section 13(d)(3) or 14(d)(2) of the Securities Exchange
+      Act of 1934, as amended (the “Exchange Act”)) (a “Person”) of
+      beneficial ownership (within the meaning of Rule 13d-3 promulgated
+      under the Exchange Act) of 30% or more of either: (A) the
+      then-outstanding shares of common stock of the Corporation (the
+      “Corporation Common Stock”) or (B) the combined voting power of the
+      then-outstanding voting securities of the Corporation entitled to
+      vote generally in the election of directors (“Voting Stock”); 
+      provided, however, that for purposes of this subsection (i), the
+      following acquisitions shall not constitute a Change in Control: (1)
+      any acquisition directly from the Corporation, (2) any acquisition by
+      the Corporation, (3) any acquisition by any employee
+
+
+------------------------------------------------------------------------
+
+
+      benefit plan (or related trust) sponsored or maintained by the
+      Corporation or any Subsidiary of the Corporation, or (4) any
+      acquisition by any Person pursuant to a transaction which complies
+      with clauses (A), (B) and (C) of subsection (iii) of this Section
+      1(a); or
+      (ii)Individuals who, as to the date hereof, constitute the Board (as
+      modified by this subsection (ii), the “Incumbent Board”) cease for
+      any reason (other than death or disability) to constitute at least a
+      majority of the Board; provided, however, that any individual
+      becoming a director subsequent to the date hereof whose election, or
+      nomination for election by the Corporation’s shareholders, was
+      approved by a vote of at least a majority of the directors then
+      comprising the Incumbent Board (either by a specific vote or by
+      approval of the proxy statement of the Corporation in which such
+      person is named as a nominee for director, without objection to such
+      nomination) shall be considered as though such individual were a
+      member of the Incumbent Board, but excluding for this purpose, any
+      such individual whose initial assumption of office occurs as a result
+      of an actual or threatened election contest with respect to the
+      election or removal of directors or other actual or threatened
+      solicitation of proxies or consents by or on behalf of a Person other
+      than the Board; or
+      (iii)Consummation of a reorganization, merger or consolidation or
+      sale or other disposition of all or substantially all of the assets
+      of the Corporation (a “Business Combination”), in each case, unless,
+      following such Business Combination, (A) all or substantially all of
+      the individuals and entities who were the beneficial owners,
+      respectively, of the Corporation Common Stock and Voting Stock
+      immediately prior to such Business Combination beneficially own,
+      directly or indirectly, more than 50% of, respectively, the
+      then-outstanding shares of common stock and the combined voting power
+      of the then-outstanding voting securities entitled to vote generally
+      in the election of directors, as the case may be, of the entity
+      resulting from such Business Combination (including, without
+      limitation, an entity which as a result of such transaction owns the
+      Corporation or all or substantially all of the Corporation’s assets
+      either directly or through one or more subsidiaries) in substantially
+      the same proportions relative to each other as their ownership,
+      immediately prior to such Business Combination, of the Corporation
+      Common Stock and Voting Stock of the Corporation, as the case may be,
+      (B) no Person (excluding any entity resulting from such Business
+      Combination or any employee benefit plan (or related trust) sponsored
+      or maintained by the Corporation or such entity resulting from such
+      Business Combination) beneficially owns, directly or indirectly, 15%
+      or more of, respectively, the then-outstanding shares of common stock
+      of the entity resulting from such Business Combination, or the
+      combined voting power of the then-outstanding voting securities of
+      such corporation except to the extent that such ownership existed
+      prior to the Business Combination and (C) at least a
+
+
+------------------------------------------------------------------------
+
+
+      majority of the members of the board of directors of the corporation
+      resulting from such Business Combination were members of the
+      Incumbent Board at the time of the execution of the initial
+      agreement, or of the action of the Board providing for such Business
+      Combination; or
+      (iv)Approval by the shareholders of the Corporation of a complete
+      liquidation or dissolution of the Corporation.
+(c)“Final Measurement Date” means December 31, 2019.
+(d)“Management Objectives” means goals established by the Board for the 
+Corporation for the Performance Period covered by this Agreement as 
+described in Section 2 of this Agreement.
+(e)“Measurement Date” means an Interim Measurement Date or the Final 
+Measurement Date, as applicable.
+(f)“Performance Period” means the period commencing on January 1, 2017 and 
+ending on December 31, 2019.
+(g)“Synergy Savings” shall have the meaning set forth on Exhibit A.
+(h)“Termination for Good Cause” means the Participant’s termination of the 
+Participant’s employment with the Corporation or a Subsidiary as a result 
+of the occurrence of any of the following:
+      (i)a change in the Participant’s principal location of employment
+      that is greater than fifty (50) miles from its location as of the
+      date hereof without the Participant’s consent; provided, however,
+      that the Participant hereby acknowledges that the Participant may be
+      required to engage in travel in connection with the performance of
+      the Participant’s duties hereunder and that such travel shall not
+      constitute a change in the Participant’s principal location of
+      employment for purposes hereof;
+      (ii)a material diminution in the Participant’s base compensation;
+      (iii)a change in the Participant’s position with the Corporation
+      without the Participant’s consent such that there is a material
+      diminution in the Participant’s authority, duties or
+      responsibilities; or
+      (iv)any other action or inaction that constitutes a material breach
+      by the Corporation of the agreement under which the Participant
+      provides services.
+Notwithstanding the foregoing, the Participant’s termination of the 
+Participant’s employment with the Corporation as a result of the occurrence 
+of any of the foregoing shall not constitute a “Termination For Good Cause” 
+unless (A) the Participant gives the Corporation written notice of such 
+occurrence within ninety (90) days of such occurrence and such occurrence 
+is not cured by the Corporation within thirty (30) days of the date on 
+which such written notice is received by the Corporation and (B)
+
+
+
+------------------------------------------------------------------------
+
+
+the Participant actually terminates his or her employment with the 
+Corporation prior to the three hundred sixty-fifth (365th) day following 
+such occurrence.
+
+      (i)Capitalized terms used herein without definition shall have the
+      meanings assigned to them in the Plan.
+2.Management Objectives.
+The Management Objectives for the Performance Period covered by this 
+Agreement and the potential Performance Shares that may be earned with 
+respect to the Management Objectives are set forth on Exhibit A. In no 
+event shall the Participant be entitled to receive more than [_____] of the 
+Performance Shares granted hereunder.
+
+      3.Grant of Performance Shares.
+The Corporation hereby grants to the Participant the number of Performance 
+Shares specified above, which may be earned by the Participant during the 
+Performance Period as set forth in Section 4 of this Agreement.
+
+      4.Earned Shares.
+(a)General.
+      (i)The Performance Shares granted hereby shall be earned based on the
+      level of the Corporation’s results with respect to the Management
+      Objectives established for the Performance Period covered by this
+      Agreement.
+      (ii)The number of Performance Shares earned shall be determined based
+      on the level of results of the Management Objectives. No additional
+      Performance Shares shall be earned for results in excess of the
+      maximum level of results for the Management Objectives.
+      (iii)The level of achievement with respect to the Management
+      Objectives will be assessed by the Committee as of each Interim
+      Measurement Date and as of the Final Measurement Date, in each case
+      as soon as practicable following the receipt of audited financial
+      statements relating to the fiscal year ended as of such Measurement
+      Date. There will not be interpolation of performance achievement or
+      payout as of any Interim Measurement Date; however, at the Final
+      Measurement Date, if results for Synergy Savings are attained at an
+      interim level of performance, a proportionate number of Performance
+      Shares shall be earned, as determined by mathematical interpolation.
+(b)Interim Measurement Dates. As of any Interim Measurement Date:
+      (i)if the Synergy Savings achieved to date are below the Target level
+      of performance, then (i) none of the potential Performance Shares
+      granted hereby will be earned as
+
+
+------------------------------------------------------------------------
+
+
+      of such Interim Measurement Date, and (ii) performance shall be
+      assessed as of the next Measurement Date; and
+      (ii)if the Synergy Savings achieved to date are at or above the
+      Target level of performance, then (i) 50% of the potential
+      Performance Shares granted hereby shall be earned at the Target level
+      as of such Interim Measurement Date and paid out following such
+      Interim Measurement Date in accordance with Section 5, and (ii)
+      performance shall be assessed as of the Final Measurement Date with
+      respect to the remaining potential Performance Shares. For the
+      avoidance of doubt, if any Performance Shares are earned as of and
+      paid out following the December 31, 2017 Interim Measurement Date
+      pursuant to this Section 4(b)(ii), no additional potential
+      Performance Shares shall be earned as of the December 31, 2018
+      Interim Measurement Date.
+(c)Final Measurement Date. The final number of Performance Shares earned 
+and to be paid out following the Final Measurement Date with respect to 
+this Agreement, if any, shall be the number of Performance Shares earned at 
+the level of cumulative Synergy Savings for the Performance Period per 
+Exhibit A, with amounts interpolated as provided in Section 4(a)(iii), 
+reduced by such number of Performance Shares, if any, that were earned as 
+of and paid out following the Interim Measurement Dates.
+5.Payment of Awards.
+Payment shall be made in the form of the Corporation’s Common Shares. 
+Amounts earned as of a Measurement Date shall be paid, less applicable 
+taxes, as soon as practicable after the determination by the Committee of 
+the level of attainment of the Management Objectives as of such Measurement 
+Date, (but in all events by the last day of the fiscal year following such 
+Measurement Date); provided, however, that in the event that Performance 
+Shares become nonforfeitable pursuant to Section 6, the Performance Shares 
+(except as otherwise required under Section 13) shall be payable within 30 
+days of becoming nonforfeitable.
+
+Any payment of awards due pursuant to this Agreement to a deceased 
+Participant shall be paid to the beneficiary designated by the Participant 
+by the latest Designation of Death Beneficiary in the form attached as 
+Exhibit B hereto filed by the Participant with the Corporation. If no such 
+beneficiary has been designated or survives the Participant, payment shall 
+be made to the Participant’s legal representative. A beneficiary 
+designation may be changed or revoked by a Participant at any time, 
+provided the change or revocation is filed with the Corporation.
+
+Prior to payment, the Corporation shall only have an unfunded and unsecured 
+obligation to make payment of earned awards to the Participant.
+
+
+
+------------------------------------------------------------------------
+
+
+      6.Effect of Change in Control.
+In the event of a Change in Control after the Grant Date but prior to the 
+end of the Performance Period, the Participant shall be deemed to have 
+earned 100% of the Performance Shares granted hereunder as of the date of 
+the Change in Control, and such earned Performance Shares, less such number 
+of Performance Shares, if any, that were earned as of and paid out 
+following an Interim Measurement Date(s) prior to such Change in Control, 
+shall be payable in the form of Common Shares. The Performance Shares 
+earned under this Section 6 shall be paid to the Participant as soon as 
+practicable following the end of the Performance Period, but in all events 
+by the last day of the fiscal year following the last fiscal year of the 
+Performance Period, only if the Participant remains employed by the 
+Corporation or a Subsidiary as of the end of the Performance Period, 
+otherwise such earned Performance Shares shall be forfeited; provided, 
+that if, prior to the end of the Performance Period, the Participant’s 
+employment with the Corporation or a Subsidiary is terminated by the 
+Participant as a “Termination for Good Cause,” the Participant is 
+terminated by the Corporation other than as a “Termination for Cause,” or 
+the Participant’s employment with the Corporation or a Subsidiary 
+terminates under the circumstances set forth in Section 7(a) through 7(b) 
+hereof, then the Performance Shares earned under this Section 6 shall 
+become immediately nonforfeitable upon such termination. Notwithstanding 
+anything in this Section 6 to the contrary, in connection with a Business 
+Combination the result of which is that the Corporation Common Stock and 
+Voting Stock is exchanged for or becomes exchangeable for securities of 
+another entity, cash or a combination thereof, if the entity resulting from 
+such Business Combination does not assume the Performance Shares evidenced 
+hereby and the Corporation’s obligations hereunder, or replace the 
+Performance Shares evidenced hereby with a substantially equivalent 
+security of the entity resulting from such Business Combination, then the 
+Performance Shares evidenced hereby shall become immediately nonforfeitable 
+as of immediately prior to such Business Combination, if not previously 
+earned as of and paid following an Interim Measurement Date(s).
+
+      7.Effect of Death or Disability.
+If the Participant’s employment with the Corporation or one of its 
+Subsidiaries should terminate under the circumstances set forth in Section 
+7(a) through 7(b) below, prior to the payment of an award, the extent to 
+which the Performance Shares granted hereby shall be deemed to have been 
+earned shall be determined as if the Participant’s employment had not 
+terminated and the result shall be multiplied by a fraction, the numerator 
+of which is the number of full months the Participant was employed during 
+the Performance Period and the denominator of which is the total number of 
+months in the Performance Period; provided, however, the Board, upon the 
+recommendation of the Committee, may, in its discretion, increase payments 
+made under the foregoing circumstances up to the full amount payable for 
+service throughout the Performance Period; and provided, further, that the 
+amount of Performance Shares, if any,
+
+
+
+------------------------------------------------------------------------
+
+
+earned under this Section 7 shall be reduced by such number of Performance 
+Shares, if any, that were earned as of and paid out following an Interim 
+Measurement Date(s) prior to such death or disability:
+
+      (a)because of death; or
+(b)because of permanent disability.
+Performance Shares payable pursuant to this Section 7 shall be paid in 
+accordance with Section 5.
+
+      8.Effect of Other Terminations of Employment; Detrimental Activity.
+In the event that the Participant’s employment shall terminate prior to the 
+payment of an award in a manner other than any specified in Section 7 
+hereof or if the Participant shall at any time engage in any Detrimental 
+Activity (as defined below), the Participant shall forfeit any rights he or 
+she may have in any Performance Shares that have not been paid out to the 
+Participant prior to the time of such termination; provided, however, that 
+the Board, upon recommendation of the Committee, may order payment of an 
+award in an amount determined as in Section 7 hereof for termination for 
+the reasons set forth in Section 7 hereof, under circumstances which 
+warrant such exceptional treatment in the judgment of the Committee and the 
+Board.
+
+      9.Detrimental Activity.
+If the Participant, either during employment by the Corporation or a 
+Subsidiary or within one year after termination of such employment, shall 
+engage in any Detrimental Activity, and the Board shall so find, and 
+(except for any Detrimental Activity described in Section 9(d)(v)(B)) if 
+the Participant shall not have ceased all Detrimental Activity within 30 
+days after notice of such finding given within one year after commencement 
+of such Detrimental Activity, the Participant shall:
+
+      (a)Return to the Corporation all Performance Shares that the
+      Participant has not disposed of and paid out pursuant to this
+      Agreement within a period of one year prior to the date of the
+      commencement of such Detrimental Activity, and
+(b)With respect to any Performance Shares that the Participant has disposed 
+of that were paid out pursuant to this Agreement within a period of one 
+year prior to the date of the commencement of such Detrimental Activity, 
+pay to the Corporation in cash the value of such Performance Shares on the 
+date such Performance Shares were paid out.
+(c)To the extent that the amounts referred to in Section 9(a) and 9(b) 
+above are not paid to the Corporation, the Corporation may set off the 
+amounts so payable to it against any amounts that may be owing from time to 
+time by the Corporation or a Subsidiary to the Participant, whether as 
+wages, deferred compensation or vacation pay or in the form of any other 
+benefit or for any other reason.
+(d)For purposes of this Agreement, the term “Detrimental Activity” shall 
+include:
+
+
+------------------------------------------------------------------------
+
+
+      (i)Engaging in any activity, as an employee, principal, agent, or
+      consultant for another entity, and in a capacity, that directly
+      competes with the Corporation or any Subsidiary in any actual
+      product, service or business activity (or in any product, service or
+      business activity which was under active development while the
+      Participant was employed by the Corporation if such development is
+      being actively pursued by the Corporation during the one-year period
+      first referred to in this Section 9) for which the Participant has
+      had any direct responsibility and direct involvement during the last
+      two years of his or her employment with the Corporation or a
+      Subsidiary, in any territory in which the Corporation or a Subsidiary
+      manufactures, sells, markets, services, or installs such product or
+      service, or engages in such business activity.
+      (ii)Soliciting any employee of the Corporation or a Subsidiary to
+      terminate his or her employment with the Corporation or a Subsidiary.
+      (iii)The disclosure to anyone outside the Corporation or a
+      Subsidiary, or the use in other than the Corporation or a
+      Subsidiary’s business, without prior written authorization from the
+      Corporation, of any confidential, proprietary or trade secret
+      information or material relating to the business of the Corporation
+      and its Subsidiaries, acquired by the Participant during his or her
+      employment with the Corporation or its Subsidiaries or while acting
+      as a consultant for the Corporation or its Subsidiaries thereafter; 
+      provided, however, that nothing in this Agreement limits a
+      Participant’s ability to file a charge or complaint or to
+      communicate, including by providing documents or other information
+      without notice to the Corporation, with the Securities and Exchange
+      Commission or any other governmental agency or commission
+      (“Government Agency”) or limits a Participant’s right to receive an
+      award for information provided to any Government Agency.
+      (iv)The failure or refusal to disclose promptly and to assign to the
+      Corporation upon request all right, title and interest in any
+      invention or idea, patentable or not, made or conceived by the
+      Participant during employment by the Corporation and any Subsidiary,
+      relating in any manner to the actual or anticipated business,
+      research or development work of the Corporation or any Subsidiary or
+      the failure or refusal to do anything reasonably necessary to enable
+      the Corporation or any Subsidiary to secure a patent where
+      appropriate in the United States and in other countries.
+      (v)Activity that results in Termination for Cause. For the purposes
+      of this Section 9 and Section 6, “Termination for Cause” shall mean a
+      termination:
+            (A)due to the Participant’s willful and continuous gross
+            neglect of his or her duties for which he or she is employed,
+            or
+
+
+------------------------------------------------------------------------
+
+
+            (B)due to an act of dishonesty on the part of the Participant
+            constituting a felony resulting or intended to result, directly
+            or indirectly, in his or her gain for personal enrichment at
+            the expense of the Corporation or a Subsidiary.
+10.Shares Non-Transferable.
+The Performance Shares granted hereby that have not yet been paid out are 
+not transferable other than by will or the laws of descent and 
+distribution.
+
+      11.Dilution and Other Adjustments.
+In the event of any change in the aggregate number of outstanding Common 
+Shares by reason of any stock dividend or stock split, recapitalization, 
+reclassification, merger, consolidation, combination or exchange of shares 
+or other similar corporate change, the Committee shall adjust the 
+Management Objectives and/or the number of Performance Shares then held by 
+the Participant. Such adjustments made by the Committee shall be conclusive 
+and binding for all purposes of this Agreement.
+
+      12.Withholding Taxes.
+To the extent that the Corporation is required to withhold federal, state, 
+local or foreign taxes in connection with the delivery of Common Shares to 
+the Participant or other person under this Agreement, and the amounts 
+available to the Corporation for such withholding are insufficient, it 
+shall be a condition to the receipt of such delivery that the Participant 
+or such other person will make arrangements satisfactory to the Corporation 
+for payment of the balance of such taxes required to be withheld, which 
+arrangements (in the discretion of the Committee) may include 
+relinquishment of a portion of such benefit. In no event, however, shall 
+the Corporation accept Common Shares for payment of taxes in excess of 
+required tax withholding rates, except that, in the discretion of the 
+Committee, the Participant or such other person may surrender Common Shares 
+owned for more than 6 months to satisfy any tax obligations resulting from 
+any such transaction.
+
+      13.Compliance with Section 409A of the Code.
+To the extent applicable, it is intended that this Agreement and the Plan 
+comply with the provisions of Section 409A of the Code, so that the income 
+inclusion provisions of Section 409A(a)(1) do not apply to the Participant. 
+This Agreement and the Plan shall be administered in a manner consistent 
+with this intent, and any provision that would cause the Agreement or the 
+Plan to fail to satisfy Section 409A of the Code shall have no force and 
+effect until amended to comply with Section 409A of the Code (which 
+amendment may be retroactive to the extent permitted by Section 409A of the 
+Code and may be made by the Corporation without the consent of the 
+Participant). In particular, to the extent the Performance Shares become 
+nonforfeitable pursuant to Section 6 and payment at such time would subject 
+the Participant to penalties under Section 409A of the Code, then 
+notwithstanding anything to the contrary in Section 5,
+
+
+
+------------------------------------------------------------------------
+
+
+payment will be made, to the extent necessary to comply with the provisions 
+of Section 409A of the Code, to the Participant on the earlier of (a) the 
+Participant’s “separation from service” with the Corporation (determined in 
+accordance with Section 409A of the Code); provided, however, that if the 
+Participant is a “specified employee” (within the meaning of Section 409A 
+of the Code), the payment date shall be the date that is six months after 
+the date of the Participant’s “separation of service” with the Corporation, 
+(b) the date payment otherwise would have made under Section 5 above, or 
+(c) the Participant’s death. Reference to Section 409A of the Code is to 
+Section 409A of the Internal Revenue Code of 1986, as amended, and will 
+also include any proposed, temporary or final regulations, or any other 
+guidance, promulgated with respect to such Section by the U.S. Department 
+of the Treasury or the Internal Revenue Service.
+
+      14.Employment Rights.
+For purposes of this Agreement, the continuous employ of the Participant 
+with the Corporation or a Subsidiary shall not be deemed interrupted, and 
+the Participant shall not be deemed to have ceased to be an associate of 
+the Corporation or any Subsidiary, by reason of the transfer of his or her 
+employment among the Corporation and its Subsidiaries. This award is a 
+voluntary, discretionary bonus being made on a one-time basis and it does 
+not constitute a commitment to make any future awards. This award and any 
+payments made hereunder will not be considered salary or other compensation 
+for purposes of any severance pay or similar allowance, except as otherwise 
+required by law. Nothing in this Agreement will give the Participant any 
+right to continue employment with the Corporation or any Subsidiary, as the 
+case may be, or interfere in any way with the right of the Corporation or a 
+Subsidiary to terminate the employment of the Participant.
+
+      15.Data Protection.
+Information about the Participant and the Participant’s participation in 
+the Plan may be collected, recorded and held, used and disclosed for any 
+purpose related to the administration of the Plan. The Participant 
+understands that such processing of this information may need to be carried 
+out by the Corporation and its Subsidiaries and by third party 
+administrators whether such persons are located within the Participant’s 
+country or elsewhere, including the United States of America. The 
+Participant consents to the processing of information relating to the 
+Participant and the Participant’s participation in the Plan in any one or 
+more of the ways referred to above.
+
+      16.Amendments.
+Any amendment to the Plan shall be deemed to be an amendment to this 
+Agreement to the extent that the amendment is applicable hereto; provided, 
+however, that no amendment shall adversely affect the rights of the 
+Participant with respect to the Performance Shares without the 
+Participant’s consent.
+
+
+
+------------------------------------------------------------------------
+
+
+      17.Plan and Capitalized Terms.
+This Agreement is subject to the terms and conditions of the Plan. 
+Capitalized terms used herein without definition shall have the meanings 
+assigned to them in the Plan or on the Grant Detail Page (which is a part 
+of this Agreement) as the context so requires.
+
+      18.Validity.
+If any provision of this Agreement or the application of any provision 
+hereof to any person or circumstances is held invalid, unenforceable or 
+otherwise illegal, the remainder of this Agreement and the application of 
+such provision to any other person or under any circumstances shall not be 
+affected, and the provisions so held to be invalid, unenforceable or 
+otherwise illegal shall be reformed to the extent (and only to the extent) 
+necessary to make it enforceable, valid and legal.
+
+      19.Governing Law.
+This Agreement is made under, and shall be construed in accordance with the 
+internal substantive laws of the State of Ohio.
+
+
+[Balance of this page intentionally left blank]
+
+
+
+------------------------------------------------------------------------
+
+
+Executed as of the _______________.
+
+
+ 
+DIEBOLD NIXDORF, INCORPORATED
+ 
+ 
+
+The undersigned hereby acknowledges receipt of an executed original of this 
+Agreement and accepts the Performance Shares granted hereunder on the terms 
+and conditions set forth herein and in the Plan.
+
+
+
+ 
+ 
+Date:
+ 
+ 
+Participant
+
+
+
+
+
