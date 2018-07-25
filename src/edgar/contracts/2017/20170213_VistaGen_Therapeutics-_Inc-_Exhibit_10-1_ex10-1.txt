@@ -1,0 +1,2094 @@
+ EX-10.1 2 ex10-1.htm MATERIAL CONTRACTS
+Execution Version
+ 
+Exhibit 10.1
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXCLUSIVE LICENSE AND SUBLICENSE AGREEMENT
+
+ 
+
+by and between
+
+ 
+
+VISTAGEN THERAPEUTICS, INC.
+
+ 
+
+and
+
+APOLLO BIOLOGICS LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+EXCLUSIVE LICENSE AND SUBLICENSE AGREEMENT
+
+
+This Agreement is effective as of December 9, 2016 (the “Effective Date”), 
+by and between VistaGen Therapeutics, Inc., a California corporation 
+located at 343 Allerton Avenue, South San Francisco, CA 94080 (“VistaGen
+”), and Apollo Biologics LP, a Delaware limited partnership located at c/o 
+Versant Venture Management, LLC, One Sansome, Suite 3630, San Francisco, CA 
+94104 (“Apollo”). VistaGen and Apollo are each sometimes referred to herein 
+as a “Party” or collectively as the “Parties.”
+
+RECITALS
+
+WHEREAS, VistaGen and University Health Network (“UHN”) entered into that 
+certain (i) License Agreement, [*****] (“License Agreement Number One”), 
+(ii) License Agreement, [*****] (“License Agreement Number Two”), (iii) 
+License Agreement, [*****] (“License Agreement Number Three”) and (iv) 
+License Agreement, [*****] (“License Agreement Number Four” and together 
+with License Agreement Number One, License Agreement Number Two, License 
+Agreement Number Three and any additional license agreement entered into 
+between UHN and VistaGen in accordance with Section 2.5 below, each a “
+License Agreement” and collectively, the “License Agreements”);
+
+WHEREAS, VistaGen and UHN have entered into that certain Patent License 
+Amendment Agreement, dated as of December 9, 2016, pursuant to which each 
+License Agreement is amended;
+
+WHEREAS, pursuant to each License Agreement, VistaGen is the exclusive 
+licensee, with the right to grant sublicenses (through multiple tiers), of 
+all right, title and interest in the Licensed IP, subject only to a 
+royalty-free, nonexclusive, non-transferable license to practice the 
+Licensed IP granted by UHN to the United States Government for governmental 
+purposes;
+
+WHEREAS, Apollo desires to obtain, and VistaGen is willing to grant, (i) an 
+exclusive sublicense under the Licensed IP in the Apollo Field of Use in 
+accordance with each License Agreement, (ii) an exclusive license under the 
+Present Improvements in the Apollo Field of Use under the terms of this 
+Agreement and (iii) a non-exclusive license under the Future Improvements 
+in the Apollo Field of Use, in each case of (i)-(iii), under the terms of 
+this Agreement; and
+
+WHEREAS, prior to entering into this Agreement, VistaGen has delivered 
+sufficient evidence reasonably satisfactory to Apollo that (i) the 
+Sponsored Research Collaboration Agreement by and between UHN and VistaGen, 
+dated as of September 18, 2007, as amended from time to time (the “
+VistaGen SRA”) has been terminated and (ii) the Strategic Consulting 
+Agreement by and between VistaGen and Gordon Keller, Ph.D., dated as of 
+August 1, 2014 has been appropriately amended to allow Dr. Keller to enter 
+into a new consulting agreement with Apollo.
+
+NOW, THEREFORE, in consideration of the promises and mutual covenants 
+herein contained and for other good and valuable consideration, the 
+adequacy and receipt of which are hereby acknowledged, VistaGen and Apollo 
+hereby agree as follows:
+
+ARTICLE 1
+
+DEFINITIONS
+
+1.1 “Affiliate” shall mean any entity which directly or indirectly 
+controls, or is controlled by, or is under common control with, a Party. 
+The term “control” as used herein means (a) in the case of corporate 
+entities, direct or indirect ownership of at least fifty percent (50%) of 
+the stock or shares entitled to vote for the election of directors; or (b) 
+with the power to direct the management and policies of such entities.
+
+
+1.2 “Apollo Field of Use” shall mean [*****] cardiac cell therapy [*****], 
+including for use in human medical or veterinary purposes [*****].
+
+
+1.3 “Bankruptcy Code” means Title 7 or Title 11 U.S. Code, or any similar 
+federal, state (or with respect to Canada, provincial) or foreign law for 
+the relief of debtors.
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+-1-
+
+Exclusive License and Sublicense Agreement
+ 
+
+
+1.4 “Biosimilar Product” shall mean, with respect to a Licensed Product and 
+on a country-by-country basis, a product that (i) is marketed for sale in 
+such country by a third party (not licensed, supplied or otherwise 
+permitted by a Party or its Affiliates or Sublicensees); (ii) contains the 
+corresponding Licensed Product or substantial equivalent as an active 
+pharmaceutical ingredient in such country; and (iii) such product, as and 
+to the extent required, is approved through an abbreviated process 
+(similar, with respect to the United States, to an Abbreviated New Drug 
+Applications under Section 505(j) of the FD&C Act (21 USC 355(j)) or is 
+approved as a “Biosimilar Biologic Product” under Title VII, Subtitle A 
+Biologics Price Competition and Innovation Act of 2009, Section 42 U.S.C. 
+262, Section 351 of the PHSA, or, outside the United States, in accordance 
+with European Directive 2001/83/EC on the Community Code for medicinal 
+products (Article 10(4) and Section 4, Part II of Annex I) and European 
+Regulation EEC/2309/93 establishing the Community procedures for the 
+authorization and evaluation of medicinal products, each as amended, and 
+together with all associated guidance, and any counterparts thereof or 
+equivalent process inside or outside of the United States or European Union 
+to the foregoing.
+ 
+1.5 “Calendar Year” means each successive period of twelve (12) months 
+commencing on January 1 and ending on December 31.
+
+
+1.6 “Combination Product” shall mean any Revenue Bearing Product sold or 
+used in combination with one or more other products or components which are 
+not Revenue Bearing Products.
+
+
+1.7 “FDA” means the United States Food and Drug Administration or its 
+successor.
+
+
+1.8 “Field of Use” shall mean the Apollo Field of Use or the VistaGen Field 
+of Use, as applicable.
+
+
+1.9 “First Commercial Sale” shall mean, with respect to a Licensed Product 
+and a country, the first sale to an independent third party in such country 
+after all Regulatory Approvals, including any pricing or reimbursement 
+approvals, as applicable, have been obtained in such country.
+
+
+1.10 “Future Improvement” shall mean an Improvement created, conceived or 
+reduced to practice after the Effective Date.
+
+
+1.11 “Future Improvement Patent Rights” shall mean the patent rights within 
+any Future Improvements.
+
+
+1.12 “[*****] Transaction Agreement” shall mean an agreement pursuant to 
+which Apollo or any of its Affiliates has [*****] either solely in [*****] 
+or in [*****] and one or more of the following countries: [*****]. For 
+clarity, an agreement pursuant to which Apollo or any of its Affiliates 
+have [*****] in regions in addition to [*****] or one or more of the 
+countries listed above (including globally) shall not be considered a “
+[*****] Transaction Agreement” hereunder.
+
+
+1.13 “Licensed IP” shall mean all rights licensed or otherwise granted to 
+VistaGen from UHN under each License Agreement, including the UHN Patent 
+Rights.
+
+
+1.14 “Licensed Product” shall mean [*****].
+
+
+1.15 “Improvements” means any and all [*****].
+
+
+1.16 “IND” means (a) an Investigational New Drug Application as defined in 
+the United States Federal Food, Drug and Cosmetic Act, as amended, and 
+applicable regulations promulgated thereunder by the FDA, or (b) the 
+equivalent application to the equivalent regulatory authority in any other 
+regulatory jurisdiction, the filing of which is necessary to initiate or 
+conduct clinical testing of a biologic or pharmaceutical product candidate 
+in humans in such jurisdiction.
+
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-2-
+
+Exclusive License and Sublicense Agreement
+ 
+1.17 “Net Sales” shall mean [*****]
+
+
+(a) [*****]
+
+(b) [*****]
+
+(c) [*****]
+
+(d) [*****]
+
+[*****].
+
+In the event that a Revenue Bearing Product is sold as a Combination 
+Product, Net Sales, for the purposes of determining royalty payments on the 
+Combination Product, shall mean [*****]:
+
+            (i) [*****]
+
+            (ii) [*****].
+
+1.18 “Orphan Indication” means a disease or condition for which a product 
+intended to treat such disease or condition has received orphan drug status 
+from the FDA or European Medicines Agency (the “EMA”).
+
+
+1.19 “Phase 2 Clinical Trial” means a human clinical trial of a product, 
+the principal purpose of which is a determination of safety and efficacy in 
+the target patient population, as described in 21 C.F.R. 312.21(b) (as 
+amended or any replacement thereof), or a similar clinical trial prescribed 
+by the regulatory authority in a country other than the United States.
+
+
+1.20 “Phase 3 Clinical Trial” means a human clinical trial of a product, 
+the design of which is acknowledged by the FDA to be sufficient for such 
+clinical trial to satisfy the requirements of 21 C.F.R. 312.21(c) (as 
+amended or any replacement thereof), or a similar human clinical trial 
+prescribed by the regulatory authority to be sufficient for such clinical 
+trial to satisfy the requirements of a pivotal efficacy and safety clinical 
+trial.
+
+
+1.21 “Present Improvement” shall mean any Improvement in existence on the 
+Effective Date.
+
+
+1.22 “Regulatory Approval” means all approvals necessary for the 
+manufacture, marketing, importation and sale of a product for one or more 
+indications in a country or regulatory jurisdiction, which may include 
+satisfaction of all applicable regulatory and notification requirements, 
+including any pricing and reimbursement approvals. Regulatory Approvals 
+include approvals by regulatory authorities of INDs, marketing 
+authorization approvals, new drug applications or biologics license 
+applications.
+
+
+1.23 “Reporting Period” shall begin on the first day of each calendar 
+quarter and end on the last day of such calendar quarter.
+
+
+1.24 “Revenue Bearing Products” shall mean a Licensed Product [*****].
+
+
+1.25 “Sublicensee” shall mean any non-Affiliate sub-sublicensee or 
+sublicensee, as applicable, of the rights granted by Apollo pursuant to 
+Section 2.2.
+
+
+1.26 “Term” shall have the meaning set forth in Section 12.1.
+
+
+1.27 “Territory”  shall mean worldwide.
+
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-3-
+
+Exclusive License and Sublicense Agreement
+       
+        1.28 “UHN Patent Rights” shall mean:
+
+
+(a) the United States and international patents licensed to VistaGen from 
+UHN pursuant to each License Agreement, including those listed on Exhibit A
+;
+
+(b) the United States and international patent applications and provisional 
+applications licensed to VistaGen from UHN pursuant to each License 
+Agreement, including those listed on Exhibit A;
+
+(c) any patent applications claiming priority from the patents, patent 
+applications, or provisional applications licensed to VistaGen from UHN 
+pursuant to each License Agreement, including those listed on Exhibit A, 
+and any direct or indirect divisionals, continuations, continuation-in-part 
+applications, and continued prosecution applications (and their relevant 
+international equivalents) of the patent applications licensed to VistaGen 
+from UHN pursuant to each License Agreement, including those listed on 
+Exhibit A and of such patent applications claiming priority from the 
+provisional applications licensed to VistaGen from UHN pursuant to each 
+License Agreement, including those listed on Exhibit A, to the extent the 
+claims are directed to subject matter specifically described in the patent 
+applications licensed to VistaGen from UHN pursuant to each License 
+Agreement, including those listed on Exhibit A, and the resulting patents;
+
+(d) any patents resulting from reissues, reexaminations, or extensions (and 
+their relevant international equivalents, including, without limitation 
+supplementary protection certificates) of the patents described in clauses 
+(a), (b) and (c) above; and
+
+(e) international (non-United States) patent applications and provisional 
+applications filed after the Effective Date and the relevant international 
+equivalents to divisionals, continuations, continuation-in-part 
+applications and continued prosecution applications of the patent 
+applications to the extent the claims are directed to subject matter 
+specifically described in the patents or patent applications referred to in 
+clauses (a), (b), (c) and (d) above.
+
+Notwithstanding the foregoing, to the extent there is a conflict between 
+the content of Exhibit A and that listed in Exhibit B of each License 
+Agreement, the content of Exhibit B of each License Agreement shall 
+control.
+
+1.29 “Valid Claim” shall mean [*****].
+
+
+1.30 “VistaGen Field of Use” shall mean all fields other than the Apollo 
+Field of Use. [*****].
+
+
+ARTICLE 2
+
+GRANT OF RIGHTS
+
+2.1 License and Sublicense Grants.
+
+
+(a) VistaGen hereby grants to Apollo and its Affiliates for the Term a 
+royalty-bearing, exclusive (even as to VistaGen and its Affiliates, except 
+as set forth in Section 2.3) sublicense, with the right to grant further 
+sublicenses (as provided in Section 2.2 below) through multiple tiers, 
+under the Licensed IP, to research, develop, commercialize, make, have 
+made, use, have used, sell, have sold, offer to sell, have offered for 
+sale, import, have imported and otherwise exploit, itself and through third 
+parties, Licensed Products in the Apollo Field of Use in the Territory.
+
+(b) VistaGen hereby grants to Apollo and its Affiliates for the Term a 
+royalty-free, exclusive (even as to VistaGen and its Affiliates) license, 
+with the right to grant sublicenses (as provided in Section 2.2 below) 
+through multiple tiers, under the Present Improvements, to research, 
+develop, commercialize, make, have made, use, have used, sell, have sold, 
+offer to sell, have offered for sale, import, have imported and otherwise 
+exploit, itself and through third parties, Licensed Products in the Apollo 
+Field of Use in the Territory.
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-4-
+
+Exclusive License and Sublicense Agreement
+ 
+(c) VistaGen hereby grants to Apollo and its Affiliates for the Term a 
+royalty-free, non-exclusive license, with the right to grant sublicenses 
+(as provided in Section 2.2 below) through multiple tiers, under the Future 
+Improvements, to research, develop, commercialize, make, have made, use, 
+have used, sell, have sold, offer to sell, have offered for sale, import, 
+have imported and otherwise exploit, itself and through third parties, 
+Licensed Products in the Apollo Field of Use in the Territory.
+
+(d) VistaGen acknowledges and agrees that, during the Term, it shall not 
+directly or indirectly grant any licenses, sublicenses or other rights 
+inconsistent with this Section 2.1.
+
+(e) Apollo acknowledges and agrees that, during the Term, it, its 
+Affiliates and its Sublicensees under this Agreement will comply with any 
+provision of the License Agreements if and to the extent such provision is 
+applicable to a sublicensee under the License Agreements.
+
+2.2 Sublicenses. Apollo shall have the right to grant further sublicenses 
+of the rights and licenses granted to Apollo hereunder through multiple 
+tiers. Apollo shall incorporate terms and conditions into its sublicense 
+agreements sufficient to enable Apollo to comply with this Agreement. 
+Apollo shall promptly furnish VistaGen with a fully signed photocopy of any 
+sublicense agreement, which sublicense agreement may be redacted as 
+necessary to protect commercially sensitive information. Upon termination 
+of this Agreement for any reason, provided that a Sublicensee is not in 
+material breach of its sublicense, VistaGen shall grant to such Sublicensee 
+sublicense rights and terms equivalent to the sublicense rights and terms 
+which Apollo previously granted to such Sublicensee.
+
+
+2.3 Retained Rights.
+
+
+(a) VistaGen shall retain the licenses granted to it by UHN pursuant to 
+each License Agreement to use the Licensed IP in accordance with the terms 
+of each License Agreement solely in the VistaGen Field of Use.
+
+(b) Apollo acknowledges UHN’s reserved right under each License Agreement 
+to retain a non-exclusive, sublicensable right to use the Licensed IP for 
+non-commercial research purposes and/or academic educational purposes, 
+without any financial obligation to VistaGen or Apollo for so using the 
+Licensed IP.
+
+(c) Apollo acknowledges that, with respect to UHN, the U.S. federal 
+government retains a royalty-free, non-exclusive, non-transferable license 
+to practice any government-funded invention claimed in any UHN Patent 
+Rights as set forth in 35 U.S.C. §§ 01-211, and the regulations promulgated 
+thereunder, as amended, or any successor statutes or regulations.
+
+2.4 No Additional Rights. Nothing in this Agreement shall be construed to 
+confer any rights upon Apollo by implication, estoppel, or otherwise as to 
+any patent rights or other intellectual property of VistaGen or UHN other 
+than the Licensed IP and Improvements.
+
+
+2.5 VistaGen SRA. VistaGen covenants and agrees to promptly notify Apollo 
+(but in no event later than [*****] after receipt) in the event it receives 
+any Invention Notice (as defined in the VistaGen SRA) applicable to 
+[*****] the Apollo Field of Use from UHN following the Effective Date. For 
+clarity, [*****]. In addition, VistaGen hereby assigns all right, title and 
+interest in and to any unexercised or future option available to VistaGen 
+pursuant to Section 4.3 of the VistaGen SRA, through which VistaGen may 
+obtain an exclusive license to any Resulting IP (as defined in the VistaGen 
+SRA) in the field set forth in [*****] Apollo Field of Use disclosed in 
+such Invention Notice. To the extent Apollo, in its sole discretion, 
+decides to exercise such option to obtain an exclusive license, it shall 
+notify VistaGen of its decision within [*****] days of receipt of notice 
+from VistaGen. VistaGen shall promptly (within the required time periods 
+set forth in the VistaGen SRA) notify UHN of such decision on behalf of 
+Apollo and acquire exclusive license rights to the applicable Resulting IP 
+through the procedures set forth in Section 4.3 of the VistaGen SRA; 
+provided that (i) the terms and conditions of each such exclusive license 
+agreement shall be substantially identical to the terms and conditions set 
+forth in the License Agreements and (ii) each such exclusive license 
+agreement shall automatically be considered a License Agreement hereunder 
+with all rights licensed or otherwise granted to VistaGen thereunder 
+automatically considered Licensed IP hereunder with the field in clause 
+(ii) of the Apollo Field of Use applying to such Licensed IP. Apollo and 
+VistaGen shall endeavor to amend Exhibit A attached hereto to reflect such 
+additional Licensed IP. Apollo shall reimburse VistaGen to the extent 
+VistaGen pays an issue fee to UHN pursuant to each such exclusive license, 
+which reimbursement shall not exceed [*****]. For the avoidance of doubt, 
+in accordance with this Agreement, VistaGen shall retain the licenses 
+granted to it by UHN solely within the VistaGen Field of Use under any such 
+license agreement entered into pursuant to this Section 2.5.
+
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-5-
+
+Exclusive License and Sublicense Agreement
+ 
+2.6 Future UHN SRA. During the Term and for a period of [*****] 
+thereafter, neither VistaGen nor any of its Affiliates or sublicensees 
+(other than Apollo and its Affiliates, licensees and Sublicensees), either 
+alone, or with or through any third party (including by way of any 
+assignment, license, covenant or other transaction regarding patent rights 
+or other intellectual property, or by any research, development or other 
+agreement), shall enter into any agreement with UHN in the field set forth 
+in [*****] the Apollo Field of Use.
+
+
+2.7 Section 365(n) of the Bankruptcy Code. All rights and licenses granted 
+pursuant to any Section of this Agreement are, and shall be deemed to be, 
+rights and licenses to “intellectual property” (as defined in Section 
+101(35A) of title 11 of the United States Code and of any similar 
+provisions of applicable Bankruptcy Code under any other jurisdiction 
+including the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3 and 
+Companies’ Creditors Arrangement Act, R.S.C. 1985, c. C-36, as amended from 
+time to time. VistaGen agrees that Apollo as a licensee and sublicensee of 
+rights and licenses under this Agreement, shall retain and may fully 
+exercise all of its rights and elections under the Bankruptcy Code. The 
+Parties further agree that, in the event of the commencement of a 
+bankruptcy proceeding by or against VistaGen under the Bankruptcy Code or 
+analogous provisions of applicable laws outside the United States, Apollo 
+shall be entitled to a complete duplicate of (or complete access to, as 
+appropriate) any patent rights or other intellectual property licensed or 
+sublicensed to Apollo and all embodiments of such intellectual property, 
+which, if not already in Apollo’s possession, shall be promptly delivered 
+to it (a) upon any such commencement of a bankruptcy proceeding upon 
+Apollo’s written request therefor, unless VistaGen in the bankruptcy 
+proceeding elects to continue to perform all of its obligations under this 
+Agreement or (b) if not delivered under clause (a), following the rejection 
+of this Agreement in the bankruptcy proceeding, upon written request 
+therefor by Apollo.
+
+ARTICLE 3
+
+APOLLO DILIGENCE OBLIGATIONS AND REPORTING
+
+3.1 Diligence Requirements. Apollo shall use commercially reasonable 
+efforts, or shall cause one or more of its Affiliates and Sublicensees to 
+use commercially reasonable efforts, to develop [*****]. In the event that 
+VistaGen determines that Apollo (itself or through its Affiliates or 
+Sublicensees) has failed to fulfill its obligations under this Section 3.1, 
+then VistaGen may treat such failure as a material breach in accordance 
+with Section 12.3(a).
+
+
+3.2 R&D Plan. Within [*****] after the Effective Date, Apollo shall furnish 
+to VistaGen a copy of Apollo’s Research and Development Plan (“R&D Plan”) 
+for Licensed Products; and a status and progress report as to Apollo’s 
+implementation of the R&D Plan shall be furnished to VistaGen annually 
+thereafter, in conjunction with submission to VistaGen of the annual 
+report, together with an update for the R&D Plan for the next year. The 
+Parties acknowledge that the R&D Plan will represent the optimal and 
+desired goals and timeline for [*****], and that there is no guarantee of 
+achieving the goals within said timeline.
+
+
+3.3 Annual Report. [*****] each Calendar Year during the Term, Apollo shall 
+prepare and deliver to VistaGen a written summary report which shall 
+describe (a) the research performed to date employing the Licensed IP, (b) 
+the progress of [*****] Licensed Products [*****] and (c) [*****].
+
+
+ARTICLE 4
+
+ROYALTIES AND PAYMENT TERMS
+
+4.1 Consideration for Grant of Rights
+
+
+(a) License and Sublicense Issue. Within [*****], Apollo shall pay to 
+VistaGen a sublicense and license issue fee of One Million Two Hundred 
+Fifty Thousand U.S. dollars (U.S.$1,250,000). [*****].
+
+(b) Running Royalties. Beginning upon the First Commercial Sale of a 
+Revenue Bearing Product, Apollo shall pay to VistaGen a [*****] royalty on 
+a [*****] basis on [*****] Net Sales for [*****]. Running royalties shall 
+be payable for each Reporting Period and shall be due to VistaGen within 
+[*****] of the end of each Reporting Period.
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-6-
+
+Exclusive License and Sublicense Agreement
+ 
+(c) Royalty Stacking. To the extent that Apollo or any of its Affiliates or 
+Sublicensees obtains licenses to third party patent rights or other 
+intellectual property in order to practice the Licensed IP or to develop or 
+commercialize any Licensed Products, Apollo and its Affiliates and 
+Sublicensees may deduct from any royalty due to VistaGen hereunder [*****] 
+of the royalties due according to agreements between Apollo (and its 
+Affiliates and Sublicensees, as applicable) and a third party(ies) on such 
+patents or intellectual property up to an amount equal to [*****] of the 
+running royalties owed in any Reporting Period hereunder, with any excess 
+third party royalties carried over into next succeeding Reporting Periods 
+until exhausted.
+
+(d) Biosimilar Competition. Notwithstanding the foregoing, on a 
+country-by-country basis in the Territory, the royalty rate for Net Sales 
+of a Revenue Bearing Product set forth in Section 4.1(b) shall be reduced 
+(A) by [*****], following a launch of a Biosimilar Product, if the unit 
+sales of all Biosimilar Products in such country exceed [*****] of the sum 
+of unit sales of Revenue Bearing Products plus unit sales of all Biosimilar 
+Products in such country, (B) by [*****] following a launch of a Biosimilar 
+Product, if the unit sales of all Biosimilar Products in such country 
+exceed [*****] of the sum of unit sales of Revenue Bearing Products plus 
+unit sales of all Biosimilar Products in such country, or (C) by [*****] 
+to become [*****] following a launch of Biosimilar Product, if the unit 
+sales of all Biosimilar Products in such country exceed [*****] of the sum 
+of unit sales of Revenue Bearing Products plus unit sales of all Biosimilar 
+Products in such country. Unless otherwise agreed by the Parties, the unit 
+sales of each such Biosimilar Product sold during a Reporting Period shall 
+be as reported by [*****] or any other independent sales auditing firm 
+reasonably agreed upon by the Parties.
+
+(e) No Multiple Royalties. If the commercial sale of any Revenue Bearing 
+Product is covered by more than one of the [*****], multiple royalties 
+shall not be due.
+
+(f) Duration of Royalty Obligations. The royalty obligations of Apollo 
+shall continue on a [*****] basis as to each Revenue Bearing Product, until 
+the expiration or termination of the last to expire Valid Claim within 
+[*****] in that country. Upon the expiration of Apollo’s royalty 
+obligations with respect to a Revenue Bearing Product in a country, the 
+license grants contained in Sections 2.1 shall become fully paid-up, 
+royalty-free, perpetual and irrevocable for such Revenue Bearing Product in 
+such country.
+
+(g) Development Milestone Payments. Subject to Section 4.1(h), Apollo shall 
+pay to VistaGen the following development milestone payments listed in the 
+tables below for [*****] Revenue Bearing Product to achieve each 
+development milestone event. Apollo shall provide VistaGen with written 
+notice and such milestone payment within [*****] after achieving each 
+development milestone. Each such milestone payment shall be payable only 
+once on the [*****] Revenue Bearing Product to achieve such development 
+milestone event. For the avoidance of doubt, in no event shall Apollo be 
+required to pay VistaGen more than an aggregate of [*****] in development 
+milestone payments under this Section 4.1(g).
+
+ 
+Development Milestone Event
+Milestone Payment
+(A)
+ 
+[*****]
+ 
+[*****]
+ 
+(B)
+ 
+[*****]
+ 
+[*****]
+ 
+(C)
+ 
+[*****]
+ 
+[*****]
+ 
+(D)
+
+[*****]
+[*****]
+ 
+(h)  [*****]
+
+            (i) [*****]
+
+            (ii) [*****]
+
+            (iii) [*****].
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-7-
+
+Exclusive License and Sublicense Agreement
+ 
+(i) Commercial Milestone Payments. Apollo shall pay to VistaGen the 
+following commercial milestone payments listed in the tables below after 
+achievement of [*****] commercial milestone event. Apollo shall provide 
+VistaGen with written notice and such milestone payment within [*****] 
+after the end of the Calendar Year in which the applicable milestone event 
+was achieved. Each such milestone payment shall be payable only once. For 
+the avoidance of doubt, in no event shall Apollo be required to pay 
+VistaGen more than an aggregate of [*****] in commercial milestone payments 
+under this Section 4.1(i).
+ 
+ 
+Commercial Milestone Event
+Milestone Payment
+(A)
+ 
+[*****]
+ 
+[*****]
+ 
+(B)
+ 
+[*****]
+ 
+[*****]
+ 
+(C)
+ 
+[*****]
+ 
+[*****]
+ 
+(D)
+ 
+[*****]
+ 
+[*****]
+ 
+ 
+(j) [*****] Transaction Agreement Revenue.
+
+            (i) Subject to Sections 4.1(j)(ii), Apollo shall pay VistaGen
+            the following percentage of all consideration allocable solely
+            to [*****] received by Apollo pursuant to the [*****] 
+            Transaction Agreement:
+
+                  (A) [*****]
+
+
+                  (B) [*****]
+
+
+                  (C) [*****].
+
+
+Apollo shall provide VistaGen with written notice of [*****] Transaction 
+Agreement and payment of the amount represented by the above percentages 
+within [*****] after [*****]. [*****].
+
+            (ii) The following shall not be considered consideration and
+            subject to the sharing percentages in Section 4.1(j)(i): 
+            [*****].
+
+            (iii) To the extent that patent rights, other intellectual
+            property rights or other rights, products or obligations other
+            than those applicable to Revenue Bearing Products are [*****] 
+            Transaction Agreement, that portion of the consideration
+            received by Apollo and subject to Section 4.1(j)(i) shall be
+            equitably apportioned between the Revenue Bearing Products and
+            those other rights, products and obligations, and such
+            apportionment shall be reasonable and in accordance with
+            customary standards in the industry.
+
+            (iv) To the extent Apollo [*****] Transaction Agreement, that
+            portion of the consideration received by Apollo and subject to 
+            Section 4.1(j)(i) shall be equitably apportioned between 
+            [*****] and any other such applicable country, and such
+            apportionment shall be reasonable and in accordance with
+            customary standards in the industry. [*****].
+
+            (v) With respect to each of Sections 4.1(j)(iii) and
+            4.1(j)(iv), Apollo shall promptly deliver to VistaGen a written
+            report setting forth each such apportionment. In the event
+            VistaGen disagrees with the determination made by Apollo,
+            VistaGen shall so notify Apollo within [*****] of receipt of
+            Apollo’s report and the Parties shall meet to discuss and
+            resolve such disagreement in good faith. If the Parties are
+            unable to agree in good faith as to such fair market values
+            within [*****], then (a) the matter shall be submitted in
+            accordance with the dispute resolution process set forth in
+            Article 13, and (b) VistaGen shall not be entitled to terminate
+            this Agreement until such matter is fully determined by a court
+            of competent jurisdiction.
+
+(k) Method of Payment. All payments shall be made by wire transfer of 
+immediately available funds into an account designated by VistaGen.
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-8-
+
+Exclusive License and Sublicense Agreement
+ 
+(l) Payments in U.S. Dollars. All payments due under this Agreement shall 
+be payable in United States dollars. Conversion of foreign currency to U.S. 
+dollars shall be made at the conversion rate existing in the United States 
+(as reported in the Wall Street Journal) on the last working day of the 
+calendar quarter of the applicable Reporting Period. Such payments shall be 
+without deduction of exchange, collection, or other charges, and, 
+specifically, without deduction of withholding or similar taxes or other 
+government imposed fees or taxes, except as permitted in the definition of 
+Net Sales.
+
+(m) Late Payments. Any payments by Apollo that are not paid on or before 
+the date such payments are due under this Agreement shall bear interest, to 
+the extent permitted by law, at [*****] above the Prime Rate of interest as 
+reported in the Wall Street Journal on the date payment is due.
+
+(n) Payments to UHN. VistaGen shall be solely responsible for any and all 
+amounts payable to UHN pursuant to the terms of each License Agreement, 
+including any amounts payable as a result of, or in connection with, entry 
+by the Parties into this Agreement or any milestone achieved by, or 
+royalties on Net Sales of, any Revenue Bearing Product. In no event shall 
+Apollo be responsible or liable for any amounts due and payable to UHN 
+under any License Agreement or the VistaGen SRA.
+
+ARTICLE 5
+
+REPORTS, RECORDS AND CONFIDENTIAL INFORMATION
+
+5.1 Frequency of Reports.
+
+
+(a) Upon First Commercial Sale of a Revenue Bearing Product. Apollo shall 
+report to VistaGen the date of the First Commercial Sale of a Revenue 
+Bearing Product within [*****] of occurrence in each country.
+
+(b) After First Commercial Sale. After the First Commercial Sale of a 
+Revenue Bearing Product, Apollo shall deliver reports to VistaGen within 
+[*****] of the end of each Reporting Period, containing information 
+concerning the immediately preceding Reporting Period, as further described 
+in Section 5.2.
+
+5.2 Content of Reports and Payments. Each report delivered by Apollo to 
+VistaGen shall contain at least the following information for the 
+immediately preceding Reporting Period:
+
+
+(a) the number of Revenue Bearing Products sold by Apollo, its Affiliates 
+and Sublicensees to independent third parties in each country;
+
+(b) the gross price charged by Apollo, its Affiliates and Sublicensees for 
+each Revenue Bearing Product in each country;
+
+(c) calculation of Net Sales for the applicable Reporting Period in each 
+country, including, without limitation, a listing of applicable deductions; 
+and
+
+(d) total royalty payable on Net Sales in U.S. dollars, together with the 
+exchange rates used for conversion.
+
+If no amounts are due to VistaGen for any Reporting Period, the report 
+shall so state.
+
+5.3 Records. Apollo shall maintain, and shall cause its Affiliates and 
+Sublicensees to maintain, complete and accurate records relating to amounts 
+payable to VistaGen in relation to this Agreement. The relevant entity 
+shall retain such records for at least [*****] following the end of the 
+Calendar Year to which they pertain, during which time a certified, 
+independent public accountant selected by VistaGen and reasonably 
+acceptable to Apollo shall have the right, at VistaGen’s expense, to 
+inspect such records during normal business hours to verify any reports and 
+payments made or compliance in other respects under this Agreement. In the 
+event that any audit performed under this Section 5.3 reveals an 
+underpayment in excess of [*****], Apollo shall bear the full out-of-pocket 
+cost of such audit and shall remit any amounts due to VistaGen within 
+[*****] of receiving written notice thereof from VistaGen.
+
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-9-
+
+Exclusive License and Sublicense Agreement
+ 
+5.4 Confidentiality of Reports and Records. The reports and records 
+(including the R&D Plan) provided by Apollo hereunder shall be regarded as 
+Apollo’s Confidential Information (as defined below) and, notwithstanding 
+Section 5.5 below, VistaGen hereby covenants that it shall not use or 
+disclose any information included in such reports for any purpose other 
+than determining whether Apollo, its Affiliates and Sublicensees have 
+complied with their obligations under this Agreement; provided that 
+VistaGen may disclose such reports to UHN solely to use for the same 
+purpose. VistaGen further agrees that, notwithstanding Section 5.5 below, 
+until such time as such information is no longer confidential through no 
+fault of VistaGen, it shall maintain such reports and any information 
+included therein in strict confidence and treat such information in a 
+manner at least as restrictive as its manner of treating its own 
+confidential information of similar nature and in any event not less than 
+with a reasonable degree of care.
+
+
+5.5 Confidentiality.
+
+
+(a) Confidential Information; Exceptions. Except to the extent expressly 
+authorized by this Agreement or otherwise agreed in writing, during the 
+Term and for a period of [*****] thereafter, the Parties hereby agree to 
+hold in strict confidence and not publish, disclose or transfer, directly 
+or indirectly, or use for any purpose other than as provided for in this 
+Agreement any information and materials furnished to it by or on behalf of 
+the other Party or its Affiliates or generated pursuant to this Agreement 
+(collectively, “Confidential Information”). For clarity, Confidential 
+Information of a Party or its Affiliates will include, without limitation, 
+all information and materials disclosed by such Party or its Affiliates or 
+their respective designees that (a) is marked as “Confidential,” 
+“Proprietary” or with similar designation at the time of disclosure or (b) 
+by its nature can reasonably be expected to be considered Confidential 
+Information by the recipient. Information disclosed orally will not be 
+required to be identified as such to be considered Confidential 
+Information. The terms of this Agreement shall be deemed to be the 
+Confidential Information of both Parties. Notwithstanding the foregoing, 
+Confidential Information will not include any information to the extent 
+that it can be established by written documentation by the receiving Party 
+that such information: (a) was already known to the receiving Party, other 
+than under an obligation of confidentiality (except to the extent such 
+obligation has expired or an exception is applicable under the relevant 
+agreement pursuant to which such obligation was established), at the time 
+of disclosure, (b) was generally available to the public or otherwise part 
+of the public domain at the time of its disclosure to the receiving Party, 
+(c) became generally available to the public or otherwise part of the 
+public domain after its disclosure and other than through any act or 
+omission of the receiving Party in breach of this Agreement, (d) was 
+independently developed by the receiving Party as demonstrated by written 
+documentation prepared contemporaneously with such independent development; 
+or (e) was disclosed to the receiving Party, other than under an obligation 
+of confidentiality (except to the extent such obligation has expired or an 
+exception is applicable under the relevant agreement pursuant to which such 
+obligation was established), by a third party who had no obligation to the 
+disclosing Party not to disclose such information to others.
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-10-
+
+Exclusive License and Sublicense Agreement
+ 
+(b) Authorized Disclosure. Except as expressly provided otherwise in this 
+Agreement, each Party may use and disclose Confidential Information of the 
+other Party solely as follows: (a) under appropriate confidentiality 
+provisions substantially equivalent to those in this Agreement: (i) in 
+connection with the performance of its obligations or as reasonably 
+necessary or useful in the exercise of its rights under this Agreement, 
+including the right to grant licenses or sublicenses as permitted 
+hereunder, or (ii) to actual or potential bona fide (sub)licensees, 
+acquirers or assignees, collaborators, investment bankers, investors or 
+lenders with whom a Party (or its Affiliates) has entered into good faith 
+negotiations regarding a proposed transaction, or; (b) to the extent such 
+disclosure is to a governmental authority as reasonably necessary in filing 
+or prosecuting the UHN Patent Rights or Present Improvement Patent Rights, 
+copyright and trademark applications in accordance with this Agreement, 
+prosecuting or defending litigation related to this Agreement, complying 
+with applicable governmental regulations with respect to performance under 
+this Agreement, obtaining Regulatory Approval or fulfilling post-approval 
+regulatory obligations for the Licensed Products, or otherwise required by 
+applicable law; provided, however, that if a Party is required by 
+applicable law or the rules of any securities exchange or automated 
+quotation system to make any such disclosure of the other Party’s 
+Confidential Information it will, except where impracticable for necessary 
+disclosures (for example, in the event of medical emergency), give 
+reasonable advance notice to the other Party of such disclosure requirement 
+and, in each of the foregoing, will use its reasonable efforts to secure 
+confidential treatment of such Confidential Information required to be 
+disclosed and will only disclosed that Confidential Information that is 
+required to be disclosed; (c) to advisors (including lawyers and 
+accountants) on a need to know basis, in each case under appropriate 
+confidentiality provisions or professional standards of confidentiality 
+substantially equivalent to those of this Agreement, or (d) to the extent 
+mutually agreed to by the Parties. Each Party acknowledges and agrees that 
+the other Party may submit this Agreement to the SEC and if a Party does 
+submit this Agreement to the SEC, such Party agrees to consult with the 
+other Party with respect to the preparation and submission of, a 
+confidential treatment request for this Agreement. If a Party is required 
+by applicable law to make a disclosure of the terms of this Agreement in a 
+filing with or other submission to the SEC, and [*****], then such Party 
+will have the right to make such public disclosure at the time and in the 
+manner reasonably determined by its counsel to be required by applicable 
+law. Notwithstanding anything to the contrary herein, it is hereby 
+understood and agreed that if a Party seeking to make a disclosure to the 
+SEC as set forth in this Section 5.5(b), [*****] such comments, limit 
+disclosure or obtain confidential treatment to the extent reasonably 
+requested by the other Party.
+
+(c) Press Releases. Neither Party may issue any press release or make any 
+other public announcement or statement concerning this Agreement, the 
+transactions contemplated hereby or the terms hereof, without the prior 
+written approval of the other Party, except as may be required by 
+applicable law. In the event either Party (the “Issuing Party”) desires to 
+issue a press release or other public statement disclosing information 
+relating to this Agreement, the transactions contemplated hereby or the 
+terms hereof, the Issuing Party will provide the other Party (the “
+Reviewing Party”) with a copy of the proposed press release or public 
+statement (the “Release”) and seek the Reviewing Party’s prior written 
+consent. The Issuing Party will specify with each such Release, taking into 
+account the urgency of the matter being disclosed, a reasonable period of 
+time within which the Receiving Party may provide any comments on such 
+Release and if the Receiving Party fails to provide any comments during the 
+response period called for by the Issuing Party, the Reviewing Party will 
+be deemed to have consented to the issuance of such Release. If the 
+Receiving Party provides any comments, the Parties will consult on such 
+Release and work in good faith to prepare a mutually acceptable Release. 
+Either Party may subsequently publicly disclose any information previously 
+contained in any Release so consented to.
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-11-
+
+Exclusive License and Sublicense Agreement
+ 
+ARTICLE 6
+
+PATENT PROSECUTION
+
+6.1 Responsibility for UHN Patent Rights. Pursuant to each License 
+Agreement, VistaGen has the right to control the preparation, filing, 
+prosecution, defense in post-grant or post-issuance administrative 
+proceedings, and maintenance of all patents and patent applications in 
+respect of the UHN Patent Rights in the Territory. VistaGen hereby grants 
+to Apollo the sole and exclusive right to exercise all of its rights 
+regarding patent prosecution, maintenance and enforcement under each 
+License Agreement, and VistaGen hereby appoints Apollo to act as its agent, 
+to prepare, file, prosecute, maintain and defend in all agency proceedings 
+(e.g., reissues, reexaminations, oppositions and interferences) all of the 
+UHN Patent Rights during the Term. Likewise, VistaGen hereby grants to 
+Apollo the sole and exclusive right to prepare, file, prosecute, maintain 
+and defend in all agency proceedings (e.g., reissues, reexaminations, 
+oppositions and interferences) any and all patent rights within the Present 
+Improvements (the “Present Improvement Patent Rights” and together with 
+Future Improvement Patent Rights, “Improvement Patent Rights”) during the 
+Term. With respect to the foregoing, Apollo shall copy VistaGen on all 
+patent prosecution documents and give VistaGen reasonable opportunities to 
+advise Apollo on such filing, prosecution and maintenance. In the event 
+Apollo desires to abandon any patent or patent application within the UHN 
+Patent Rights or Present Improvement Patent Rights, Apollo shall provide 
+VistaGen with reasonable prior written notice of such intended abandonment 
+or decline of responsibility. If VistaGen elects to continue such patent or 
+patent application, the Parties shall consult and Apollo may elect to 
+retain responsibility therefor. Otherwise, the right to prepare, file, 
+prosecute, maintain and defend the relevant UHN Patent Rights or Present 
+Improvement Patent Rights, at VistaGen’s expense, shall revert to VistaGen 
+and with respect to the UHN Patent Rights shall be subject to the terms and 
+conditions of the applicable License Agreement.
+
+
+6.2 Payment of Expenses. The Parties acknowledge and agree that pursuant to 
+each License Agreement, payment of all fees and costs, including, without 
+limitation, attorney’s fees, for the filing, prosecution and maintenance of 
+the UHN Patent Rights incurred by UHN before the Effective Date shall be 
+the responsibility of VistaGen. Apollo shall be responsible for all such 
+fees and costs incurred after the Effective Date. For the avoidance of 
+doubt, Apollo shall not be responsible for payment of any fees and costs 
+associated with the prosecution and maintenance of the UHN Patent Rights or 
+Present Improvement Patent Rights incurred prior to the Effective Date.
+
+
+6.3 Patent Extensions and Orange or Purple Book Listings. If elections with 
+respect to obtaining patent term extensions (including, without limitation, 
+any available pediatric extensions) or supplemental protection certificates 
+or their equivalents in any country with respect to UHN Patent Rights or 
+Present Improvement Patent Rights are available, Apollo shall have the sole 
+and exclusive right to make any such elections based on Licensed Products. 
+With respect to data exclusivity periods (such as those periods listed in 
+the FDA’s Orange or Purple Book (including, without limitation, any 
+available pediatric extensions) or periods under national implementations 
+of Article 10.1(a)(iii) of Directive 2001/EC/83 or orphan exclusivity 
+periods, and all equivalents in any country), Apollo shall have the sole 
+and exclusive right to seek and maintain all such data exclusivity periods 
+available for the Licensed Products. With respect to all of the rights and 
+activities identified in this Section 6.3, VistaGen hereby appoints Apollo 
+as its agent for such purposes with the authority to act on VistaGen’s 
+behalf with respect to the UHN Patent Rights or Present Improvement Patent 
+Rights in a manner consistent with this Agreement.
+
+
+ARTICLE 7
+
+INFRINGEMENT
+
+7.1 Notification of Infringement of Licensed IP or Improvements. Each Party 
+agrees to provide written notice to the other Party promptly after becoming 
+aware of any infringement of the Licensed IP or Improvements by a third 
+party and of any available evidence thereof, including to the extent 
+VistaGen receives notice from UHN of any infringement of the Licensed IP by 
+a third party and of any available evidence thereof.
+
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-12-
+
+Exclusive License and Sublicense Agreement
+ 
+7.2 Right to Prosecute Infringements. Pursuant to each License Agreement, 
+VistaGen has the right to determine the appropriate course of action to 
+enforce the Licensed IP or otherwise abate the infringement thereof, to 
+take (or refrain from taking) appropriate action to enforce the Licensed 
+IP, to defend any declaratory judgments seeking to invalidate or hold the 
+Licensed IP unenforceable, to control any litigation or other enforcement 
+action and to enter into, or permit, the settlement of any such litigation, 
+declaratory judgments or other enforcement action with respect to Licensed 
+IP.
+ 
+(a) Apollo Right to Prosecute. VistaGen hereby assigns to Apollo the first 
+and exclusive right, but not the obligation, under its own control and at 
+its own expense, to prosecute any third party infringement of the Licensed 
+IP or Present Improvements, subject to Sections 7.4 and 7.5. The total cost 
+of any such infringement action commenced or defended solely by Apollo 
+shall be borne by Apollo.
+
+(b) VistaGen Right to Prosecute. If within [*****] after having been 
+notified of any alleged infringement that is material and competitive in 
+the marketplace Apollo is unsuccessful in persuading the alleged infringer 
+to desist and shall not have brought and shall not be diligently 
+prosecuting an infringement action, then VistaGen shall have the right, but 
+shall not be obligated, under its own control and at its own expense, to 
+prosecute any infringement of the Licensed IP or Present Improvements, and, 
+with respect to the Licensed IP, the terms and conditions of the applicable 
+License Agreement shall govern.
+
+7.3 Declaratory Judgment Actions. If a declaratory judgment action is 
+brought naming UHN, VistaGen or Apollo or any of its Affiliates or 
+Sublicensees as a defendant and alleging invalidity, unenforceability or 
+non-infringement of any UHN Patent Rights or Improvement Patent Rights, 
+Apollo or VistaGen, as the case may be, shall promptly notify the other 
+Party in writing and Apollo may elect, upon written notice to VistaGen 
+within [*****] after receiving or giving notice of the commencement of such 
+action, to take over the sole control of such action at its own expense 
+solely with respect to UHN Patent Rights or Present Improvement Patent 
+Rights. If Apollo does not defend any such action, then VistaGen shall have 
+the right, but shall not be obligated, to defend such action at VistaGen’s 
+expense and, with respect to the UHN Patent Rights, the terms of the 
+applicable License Agreement shall govern.
+
+
+7.4 Offsets. Apollo may offset a total of [*****] of any expenses incurred 
+under Sections 7.2 and 7.3 against any payments due to VistaGen under 
+Article 4, provided that in no event shall such payments under Article 4, 
+when aggregated with any other offsets and credits allowed under this 
+Agreement, be reduced by more than [*****] in any Reporting Period.
+
+
+7.5 Recovery. In the event that either Party exercises the rights conferred 
+in this Article 7 and recovers any damages or other sums in such action, 
+such damages or other sums recovered shall first be applied to all 
+out-of-pocket costs and expenses incurred by the Parties in connection 
+therewith (including, without limitation, attorneys’ fees). If such 
+recovery is insufficient to cover all such costs and expenses of both 
+Parties, the controlling Party’s costs shall be paid in full first before 
+any of the other Party’s costs. If after such reimbursement any funds shall 
+remain from such damages or other sums recovered, such funds shall be 
+retained by the Party that controlled the action or proceeding under this 
+Article 7; provided, however, that (a) if Apollo is the Party that 
+controlled such action or proceeding, VistaGen shall receive out of any 
+such remaining recovery received by Apollo an amount equal to royalties 
+payable hereunder by treating such remaining recovery as “Net Sales” 
+hereunder and (b) if VistaGen is the Party that controlled such action or 
+proceeding, the remaining recovery received by VistaGen shall be shared 
+equally between Apollo and VistaGen.
+
+
+7.6 Cooperation. Each Party agrees to cooperate in any action under this 
+Article 7 which is controlled by the other Party, including, without 
+limitation, joining such action as a party plaintiff if necessary or 
+desirable for initiation or continuation of such action; provided that the 
+controlling Party reimburses the cooperating Party promptly for any 
+reasonable costs and expenses incurred by the cooperating Party in 
+connection with providing such assistance.
+
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-13-
+
+Exclusive License and Sublicense Agreement
+ 
+ARTICLE 8
+
+INDEMNIFICATION AND INSURANCE
+
+8.1 Indemnification of VistaGen. Apollo hereby agrees to indemnify, defend 
+and hold harmless each of VistaGen and its Affiliates and its and their 
+trustees, directors, officers, employees, scientists, agents, successors, 
+assigns and other representatives (collectively, the “VistaGen Indemnitees
+”) from and against all damages, liabilities, losses and other expenses, 
+including, without limitation, reasonable attorney’s fees, expert witness 
+fees and costs (collectively, “Losses”), regarding any claims, suits or 
+proceedings brought by a third party, whether or not a lawsuit or other 
+proceeding is filed (collectively “Claim”), that arise out of or relate to 
+(a) any product, process, or service that is made, used, sold, imported, or 
+performed by or on behalf of Apollo pursuant to any right or license 
+granted under this Agreement, (b) Apollo’s failure to comply with any 
+applicable laws, rules or regulations in connection with this Agreement and 
+(c) the [*****] of Apollo, except that Apollo’s liability for damages under 
+its indemnity shall be reduced or apportioned to the extent any claim is 
+proximately caused by VistaGen’s [*****]. [*****].
+
+
+8.2 Indemnification of Apollo. VistaGen hereby agrees to indemnify, defend 
+and hold harmless Apollo and its Affiliates and its and their trustees, 
+directors, officers, employees, scientists, agents, successors, assigns and 
+other representatives (collectively, the “Apollo Indemnitees”) from and 
+against all Losses regarding any Claims that arise out of or relate to (a) 
+any product, process, or service that is made, used, sold, imported, or 
+performed by or on behalf of VistaGen using or incorporating the Licensed 
+IP, (b) VistaGen’s failure to comply with any applicable laws, rules or 
+regulations in connection with this Agreement, (c) any Claims brought by 
+UHN with respect to any payments due and payable to UHN under any License 
+Agreement and (d) the [*****] of VistaGen, except that VistaGen’s liability 
+for damages under its indemnity shall be reduced or apportioned to the 
+extent any claim is proximately caused by Apollo’s [*****].
+
+
+8.3 Indemnification Procedure. A party entitled to indemnification 
+hereunder shall provide the indemnifying Party with prompt written notice 
+of any claim, suit, action, demand, or judgment for which indemnification 
+is sought under this Agreement. The indemnifying Party shall, at its own 
+expense, provide attorneys reasonably acceptable to the other Party to 
+defend against any such claim. The indemnified Party shall cooperate fully 
+with the indemnifying Party in such defense and shall permit the 
+indemnifying Party to conduct and control such defense and the disposition 
+of such claim, suit, or action (including all decisions relative to 
+litigation, appeal, and settlement).
+
+
+8.4 Insurance. Within [*****] after the Effective Date, Apollo shall obtain 
+and carry in full force and effect commercial general liability insurance, 
+including, without limitation, product liability and errors and omissions 
+insurance which shall protect Apollo and VistaGen Indemnitees with respect 
+to events covered by Section 8.1. The limits of such insurance shall be 
+customary and reasonable in Apollo’s industry. At the request of VistaGen, 
+Apollo shall provide VistaGen with Certificates of Insurance evidencing 
+compliance with this Section 8.4. Apollo shall continue to maintain such 
+insurance after the expiration or termination of this Agreement during any 
+period in which Apollo or any Affiliate or Sublicensee continues to make, 
+use, or sell a product that was a Licensed Product under this Agreement, 
+[*****].
+
+
+ARTICLE 9
+
+REPRESENTATIONS OR WARRANTIES
+
+9.1 Mutual Representations. Each Party represents and warrants to the other 
+that (i) such Party is a company or corporation duly organized, validly 
+existing and in good standing under the laws of the jurisdiction in which 
+it is organized; (ii) such Party has the legal power and authority to 
+execute, deliver and perform this Agreement; (iii) the execution, delivery 
+and performance by such Party of this Agreement has been duly authorized by 
+all necessary corporate action; (iv) this Agreement constitutes the legal, 
+valid and binding obligation of such Party, enforceable against such Party 
+in accordance with its terms; and (v) the execution, delivery and 
+performance of this Agreement shall not cause or result in a violation of 
+any law, of such Party’s charter documents, or of any contract by which 
+such Party is bound.
+
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-14-
+
+Exclusive License and Sublicense Agreement
+ 
+9.2 VistaGen Representations, Warranties and Covenants. VistaGen 
+represents, warrants and covenants that:
+
+
+(a) it has, or will have (with respect to Future Improvements), the power 
+and authority to grant the licenses and sublicenses provided for herein to 
+Apollo, and that it has not earlier granted, or assumed any obligation to 
+grant, any rights in the Licensed IP or Improvements to any third party 
+that would conflict with the rights granted to Apollo herein;
+
+(b) it has obtained from UHN the exclusive right to grant sublicenses 
+(including exclusive sublicenses) under the Licensed IP;
+
+(c) as of the Effective Date, neither UHN nor VistaGen is in breach of any 
+License Agreement, nor has VistaGen received any notification from UHN 
+alleging it is in breach of any License Agreement;
+
+(d) during the Term, in the event that it (i) receives formal written 
+notice from UHN of a material breach of its obligations under any License 
+Agreement or (ii) sends formal written notice to UHN of a material breach 
+of UHN’s obligations under any License Agreement, in each of (i) and (ii), 
+it shall promptly provide Apollo a copy of any such written notice;
+
+(e) as of the Effective Date, to its knowledge, there are no actions, 
+suits, investigations, claims or proceedings pending or threatened in 
+writing relating to the Licensed IP or Improvements;
+
+(f) as of the Effective Date, VistaGen has not received any written notice 
+from UHN or any third party with respect to any actions, suits, 
+investigations, claims or proceedings pending or threatened in writing 
+relating to the Licensed IP or Improvements;
+
+(g) other than the License Agreements and the VistaGen SRA, it does not 
+license or does not have the right to license from UHN any other patent 
+rights or other intellectual property applicable to the Apollo Field of 
+Use;
+
+(h) during the Term, VistaGen shall not breach or default under any 
+provision of each License Agreement; and
+
+(i) during the Term and thereafter, VistaGen shall not amend or modify any 
+License Agreement in any manner without the prior written consent of 
+Apollo.
+
+9.3 Disclaimer of Warranties. EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN 
+THIS AGREEMENT, NEITHER PARTY MAKES ANY OTHER WARRANTIES CONCERNING 
+LICENSED IP, IMPROVEMENTS OR ANY OTHER MATTER WHATSOEVER, INCLUDING, 
+WITHOUT LIMITATION, ANY EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF THIRD PARTY RIGHTS OR 
+ARISING OUT OF COURSE OF CONDUCT OR TRADE CUSTOM OR USAGE, AND EACH PARTY 
+DISCLAIMS ALL SUCH EXPRESS OR IMPLIED WARRANTIES. VISTAGEN MAKES NO 
+WARRANTY OR REPRESENTATION AS TO THE VALIDITY OR SCOPE OF UHN PATENT RIGHTS 
+OR IMPROVEMENT PATENT RIGHTS, OR THAT ANY LICENSED PRODUCT SHALL BE FREE 
+FROM AN INFRINGEMENT ON PATENTS OR OTHER INTELLECTUAL PROPERTY RIGHTS OF 
+THIRD PARTIES. FURTHER, VISTAGEN HAS MADE NO INVESTIGATION AND MAKES NO 
+REPRESENTATION THAT THE UHN PATENT RIGHTS OR IMPROVEMENT PATENT RIGHTS ARE 
+SUITABLE FOR APOLLO’S PURPOSES.
+
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-15-
+
+Exclusive License and Sublicense Agreement
+ 
+9.4 Limitation of Liability. EXCEPT FOR [*****], IN NO EVENT SHALL EITHER 
+PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF 
+PROFITS OR EXPECTED SAVINGS OR OTHER ECONOMIC LOSSES) ARISING OUT OF OR IN 
+CONNECTION WITH THIS AGREEMENT OR ITS SUBJECT MATTER. EACH PARTY’S 
+AGGREGATE LIABILITY, IF ANY, FOR ALL DAMAGES OF ANY KIND RELATING TO THIS 
+AGREEMENT OR ITS SUBJECT MATTER SHALL NOT EXCEED THE AMOUNT PAID BY APOLLO 
+TO VISTAGEN UNDER THIS AGREEMENT. THE FOREGOING EXCLUSIONS AND LIMITATIONS 
+SHALL APPLY TO ALL CLAIMS AND ACTIONS OF ANY KIND AND ON ANY THEORY OF 
+LIABILITY, WHETHER BASED ON CONTRACT, TORT (INCLUDING, WITHOUT LIMITATION, 
+NEGLIGENCE OR STRICT LIABILITY), OR ANY OTHER GROUNDS, AND REGARDLESS OF 
+WHETHER THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND 
+NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. THE 
+PARTIES FURTHER AGREE THAT EACH WARRANTY DISCLAIMER, EXCLUSION OF DAMAGES 
+OR OTHER LIMITATION OF LIABILITY HEREIN IS INTENDED TO BE SEVERABLE AND 
+INDEPENDENT OF THE OTHER PROVISIONS SINCE THEY EACH REPRESENT SEPARATE 
+ELEMENTS OF RISK ALLOCATION BETWEEN THE PARTIES.
+
+
+9.5 Breach by VistaGen. In the event that VistaGen commits a breach of any 
+License Agreement and Apollo receives notice of such breach, within 
+[*****] of the receipt of any such notice of breach, subject to any cure 
+period permitted under the applicable License Agreement, Apollo may request 
+to meet with UHN and VistaGen and representatives of the Parties shall meet 
+and discuss in good faith a potential cure of such breach in accordance 
+with the terms of the applicable License Agreement. In the event VistaGen 
+is unable to cure such breach, VistaGen hereby provides Apollo (or any of 
+its Affiliates or Sublicensees) the right, but not the obligation, to cure 
+such breach directly with UHN on VistaGen’s behalf in accordance with the 
+terms of the applicable License Agreement. VistaGen shall reimburse Apollo 
+(or any of its Affiliates or Sublicensees) for any and all costs and 
+expenses incurred in attempting to cure, or curing, such breach. In the 
+event such breach is unable to be cured or is not cured (including because 
+Apollo does not elect to cure such breach), at Apollo’s request, VistaGen 
+shall use all reasonable efforts to assist Apollo in entering into a direct 
+license with UHN equal in scope to the sublicense set forth in Article 2, 
+[*****]. VistaGen further agrees not to impede, restrict or otherwise 
+interfere with the entrance of Apollo and UHN into such direct license.
+
+
+9.6 Breach by UHN. In the event that UHN commits a material breach of any 
+License Agreement and such License Agreement is terminated as a result of 
+such breach, VistaGen shall delegate to Apollo, or pursue at Apollo’s 
+written request and expense, any cause of action that VistaGen may have 
+pursuant to the terms of the applicable License Agreement.
+
+
+ARTICLE 10
+
+ASSIGNMENT
+
+            This Agreement, and the rights and obligations hereunder, may 
+not be assigned or transferred, in whole or in part, by either Party 
+without the prior written consent of the other Party, except that no 
+consent shall be required for either Party to assign this Agreement to (i) 
+any entity acquiring it or all or substantially all of the assets of such 
+Party as to which this Agreement relates whether by sale, merger, operation 
+of law or otherwise (including, for clarity, with respect to VistaGen all 
+of the License Agreements), or (ii) any of its Affiliates; provided that 
+upon any such assignment with respect to VistaGen, VistaGen shall similarly 
+assign each License Agreement and that certain letter agreement by and 
+among UHN, Apollo and VistaGen effective as of the date hereof (the “
+Letter Agreement”) such that the VistaGen contracting party in each License 
+Agreement and the Letter Agreement is the same VistaGen contracting party 
+as in this Agreement. Each Party shall notify the other Party no later than 
+[*****] after any assignment of this Agreement. Any assignment in 
+circumvention of the foregoing shall be void. Subject to the foregoing, 
+this Agreement shall be binding upon and inure to the benefit of the 
+Parties hereto and their respective permitted successors and assigns.
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-16-
+
+Exclusive License and Sublicense Agreement
+ 
+ARTICLE 11
+
+GENERAL COMPLIANCE WITH LAW
+
+11.1 Compliance with Laws. Apollo shall use reasonable commercial efforts 
+to comply with all commercially material local, state, federal, and 
+international laws and regulations relating to the development, 
+manufacture, use, and sale of Licensed Products.
+
+
+11.2 Export Control. Apollo and its Affiliates and Sublicensees shall 
+comply with all United States laws and regulations controlling the export 
+of certain commodities and technical data, including, without limitation, 
+all Export Administration Regulations of the United States Department of 
+Commerce. Among other things, these laws and regulations prohibit or 
+require a license for the export of certain types of commodities and 
+technical data to specified countries. Apollo hereby gives written 
+assurance that it shall comply with, and shall cause its Affiliates and 
+Sublicensees to comply with, all United States export control laws and 
+regulations, that it bears sole responsibility for any violation of such 
+laws and regulations by itself or its Affiliates or Sublicensees, and that 
+it shall indemnify, defend, and hold VistaGen harmless (in accordance with 
+Section 8.1) for the consequences of any such violation.
+
+
+11.3 Marking of Licensed Products. To the extent commercially feasible and 
+consistent with prevailing business practices, Apollo shall mark, and shall 
+cause its Affiliates and Sublicensees to mark, all Licensed Products that 
+are manufactured or sold under this Agreement with the number of each 
+issued patent under the UHN Patent Rights or Improvement Patent Rights that 
+applies to such Licensed Product.
+
+
+ARTICLE 12
+
+TERMINATION
+
+12.1 Term. Unless earlier terminated in accordance with the provisions of 
+this Article 12, this Agreement shall continue in force on a 
+country-by-country and Licensed Product-by-Licensed Product basis until the 
+expiration of the last to expire patent within the UHN Patent Rights or 
+Improvement Patent Rights (the “Term”). Following the end of the Term for 
+any such Licensed Product in such country by expiration (but not 
+termination), the licenses granted to Apollo under Sections 2.1(a)-(c) will 
+become perpetual, irrevocable, non-terminable, fully paid-up and 
+royalty-free.
+
+
+12.2 Voluntary Termination by Apollo.
+
+
+(a) Apollo shall have the right to terminate this Agreement, for any 
+reason, upon at least [*****] prior written notice to VistaGen, such notice 
+to state the date at least [*****] in the future upon which termination is 
+to be effective.
+
+(b) Apollo shall have the right to terminate this Agreement immediately 
+upon written notice to VistaGen on a Licensed IP-by-Licensed IP, UHN Patent 
+Right-by-UHN Patent Right, Improvement-by-Improvement or Improvement Patent 
+Right-by-Improvement Patent Right basis, such notice to state the Licensed 
+IP, UHN Patent Right, Improvement or Improvement Patent Right for which 
+such termination shall be applicable (such terminated patent right or other 
+intellectual property, the “Terminated IP”). In the event Apollo provides 
+such notice, the Terminated IP will no longer be subject to this Agreement, 
+all licenses or sublicenses to such Terminated IP will terminate and Apollo 
+shall have no further rights or obligations with respect to such Terminated 
+IP as of the date of VistaGen’s receipt of such written notice.
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-17-
+
+Exclusive License and Sublicense Agreement
+ 
+12.3 Termination for Breach.
+
+
+(a) In the event Apollo commits a material breach of its obligations under 
+this Agreement, and fails to cure that breach within [*****] after 
+receiving written notice thereof, VistaGen may terminate this Agreement 
+immediately upon written notice to Apollo, subject to completion of the 
+dispute resolution process set forth in Article 13 and subsequent cure. 
+Notwithstanding the foregoing, if VistaGen terminates this Agreement due to 
+Apollo’s failure to timely pay the sublicense and license issue fee 
+required in Section 4.1(a), the termination is effective upon notice and 
+the dispute resolution process set forth in Article 13 shall not apply to 
+such termination.
+
+(b) In the event VistaGen commits a material breach of its obligations 
+under this Agreement, Apollo may, in its discretion, either (i) terminate 
+this Agreement if VistaGen has not cured such breach within [*****] after 
+receipt of written notice thereof or (ii) continue this Agreement and seek 
+arbitration pursuant to Article 13 confirming that such breach has in fact 
+occurred and/or seeking specific performance, and if such arbitration finds 
+that such breach indeed has occurred, then any future payments to VistaGen 
+pursuant to Article 4 of this Agreement shall be reduced by [*****] as of 
+the termination date.
+
+12.4 Other Grounds for Bankruptcy. A Party may terminate this Agreement 
+immediately if the other Party hereto is declared insolvent or commits an 
+act of bankruptcy.
+
+
+12.5 Effect of Expiration or Termination.
+
+
+(a) Survival. The following provisions shall survive the expiration or 
+termination of this Agreement: Article 1, Article 8, Article 9, Article 13 
+and Article 14, and Sections 4.1(f), 5.2 (but only with respect to 
+obligation to provide final report and payment), 5.3, 11.1, 11.2, 12.1 (but 
+only with respect to the second sentence) and 12.5.
+
+(b) Inventory. Upon the early termination of this Agreement, Apollo and its 
+Affiliates and Sublicensees may complete and sell any work-in-progress and 
+inventory of Licensed Products that exist as of the effective date of 
+termination, provided that (i) Apollo pays VistaGen the applicable running 
+royalty or other amounts due on Net Sales of any Revenue Bearing Products 
+in accordance with the terms and conditions of this Agreement, and (ii) 
+Apollo and its Affiliates and Sublicensees shall complete and sell all 
+work-in-progress and inventory of Licensed Products after the effective 
+date of termination.
+
+(c) Expiration or termination of this Agreement for any reason shall not 
+relieve either Party of any liability or obligation which accrued hereunder 
+prior to the effective date of such termination or expiration.
+
+ARTICLE 13
+
+DISPUTE RESOLUTION
+
+13.1 Mandatory Procedures. The Parties agree that any dispute arising out 
+of or relating to this Agreement shall be resolved solely by means of the 
+procedures set forth in this Article 13, and that such procedures 
+constitute legally binding obligations that are an essential provision of 
+this Agreement. If either Party fails to observe the procedures of this 
+Article 13, as may be modified by their written agreement, the other Party 
+may bring an action for specific performance of these procedures in any 
+court of competent jurisdiction.
+
+
+13.2 Equitable Remedies. Although the procedures specified in this Article 
+13 are the sole and exclusive procedures for the resolution of disputes 
+arising out of or relating to this Agreement, either Party may seek a 
+preliminary injunction or other provisional equitable relief if, in its 
+reasonable judgment, such action is necessary to avoid irreparable harm to 
+itself or to preserve its rights under this Agreement.
+
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-18-
+
+Exclusive License and Sublicense Agreement
+ 
+13.3 Dispute Resolution Procedures. Any controversy or claim arising out of 
+or relating to this Agreement, or the breach thereof, shall be settled by 
+binding confidential arbitration in accordance with the Commercial 
+Arbitration Rules (the “Rules”) of the American Arbitration Association (“
+AAA”), and the procedures set forth below. In the event of any 
+inconsistency between the Rules of AAA and the procedures set forth below, 
+the procedures set forth below shall control. Judgment upon the award 
+rendered by the arbitrators may be enforced in any court having 
+jurisdiction thereof.
+
+
+(a) The location of the arbitration shall be in the County of New York. 
+VistaGen and Apollo hereby irrevocably submit to the exclusive jurisdiction 
+and venue of the AAA arbitration panel selected by the Parties and located 
+in New York, New York for any dispute regarding this Agreement, and to the 
+exclusive jurisdiction and venue of the federal and state courts located in 
+New York, New York for any action or proceeding to enforce an arbitration 
+award or as otherwise provided in Section 13.3(e), and waive any right to 
+contest or otherwise object to such jurisdiction or venue.
+
+(b) The arbitration shall be conducted by a panel of three neutral 
+arbitrators who are independent and disinterested with respect to the 
+Parties, this Agreement, and the outcome of the arbitration. Each Party 
+shall appoint one neutral arbitrator, and these two arbitrators so selected 
+by the Parties shall then select the third arbitrator, and all arbitrators 
+must have at least ten (10) years’ experience in mediating or arbitrating 
+cases regarding the same or substantially similar subject matter as the 
+dispute between VistaGen and Apollo. If one Party has given written notice 
+to the other Party as to the identity of the arbitrator appointed by the 
+Party, and the Party thereafter makes a written demand on the other Party 
+to appoint its designated arbitrator within the next ten days, and the 
+other Party fails to appoint its designated arbitrator within ten days 
+after receiving said written demand, then the arbitrator who has already 
+been designated shall appoint the other two arbitrators.
+
+(c) The arbitrators shall decide any disputes and shall control the process 
+concerning these pre-hearing discovery matters. Pursuant to the Rules of 
+AAA, the Parties may subpoena witnesses and documents for presentation at 
+the hearing.
+
+(d) Prompt resolution of any dispute is important to both Parties; and the 
+Parties agree that the arbitration of any dispute shall be conducted 
+expeditiously. The arbitrators are instructed and directed to assume case 
+management initiative and control over the arbitration process (including, 
+without limitation, scheduling of events, pre-hearing discovery and 
+activities, and the conduct of the hearing), in order to complete the 
+arbitration as expeditiously as is reasonably practical for obtaining a 
+just resolution of the dispute.
+
+(e) The arbitrators may grant any legal or equitable remedy or relief that 
+the arbitrators deem just and equitable, to the same extent that remedies 
+or relief could be granted by a state or federal court, provided however, 
+that no punitive damages may be awarded. No court action shall be 
+maintained seeking punitive damages. The decision of any two of the three 
+arbitrators appointed shall be binding upon the Parties. Notwithstanding 
+anything to the contrary in this Agreement, prior to or while an 
+arbitration proceeding is pending, either Party has the right to seek and 
+obtain injunctive and other equitable relief from a court of competent 
+jurisdiction to enforce that Party’s rights hereunder.
+
+(f) The expenses of the arbitration, including, without limitation, the 
+arbitrators’ fees, expert witness fees, and attorney’s fees, may be awarded 
+to the prevailing Party, in the discretion of the arbitrators, or may be 
+apportioned between the Parties in any manner deemed appropriate by the 
+arbitrators. Unless and until the arbitrators decide that one Party is to 
+pay for all (or a share) of such expenses, both Parties shall share equally 
+in the payment of the arbitrators’ fees as and when billed by the 
+arbitrators.
+
+(g) Notwithstanding the foregoing, any disputes arising hereunder with 
+respect to the inventorship, validity, enforceability or other aspect of 
+intellectual property rights shall be resolved by a court of competent 
+jurisdiction and not by arbitration.
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-19-
+
+Exclusive License and Sublicense Agreement
+ 
+(h) Except as set forth below and as necessary to obtain or enforce a 
+judgment upon any arbitration award, the Parties shall keep confidential 
+the fact of the arbitration, the dispute being arbitrated, and the decision 
+of the arbitrators. Notwithstanding the foregoing, the Parties may disclose 
+information about the arbitration to persons who have a need to know, such 
+as directors, trustees, management employees, witnesses, experts, 
+investors, attorneys, lenders, insurers, actual or potential collaborators 
+or corporate partners of Apollo, actual or potential acquirors of Apollo, 
+and others who may be directly affected provided that such persons are 
+bound to keep such information confidential. Additionally, if a Party has 
+stock which is publicly traded, the Party may make such disclosures as are 
+required by applicable securities laws, but shall use commercially 
+reasonably efforts to seek confidential treatment for such disclosure.
+
+13.4 Performance to Continue. Each Party shall continue to perform its 
+undisputed obligations under this Agreement pending final resolution of any 
+dispute arising out of or relating to this Agreement; provided, however, 
+that a Party may suspend performance of its undisputed obligations during 
+any period in which the other Party fails or refuses to perform its 
+undisputed obligations.
+
+
+13.5 Statute of Limitations. The Parties agree that all applicable statutes 
+of limitation and time-based defenses (such as estoppel and laches) shall 
+be tolled while the procedures set forth in Section 13.5 are pending. The 
+Parties shall cooperate in taking any actions necessary to achieve this 
+result.
+
+
+ARTICLE 14
+
+MISCELLANEOUS
+
+14.1 Notice. Any notices required or permitted under this Agreement shall 
+be in writing, shall specifically refer to this Agreement, and shall be 
+sent by hand, recognized national overnight courier, confirmed facsimile 
+transmission, confirmed electronic mail, or registered or certified mail, 
+postage prepaid, return receipt requested, to the following addresses or 
+facsimile numbers of the Parties:
+
+
+If to VistaGen:
+
+VistaGen Therapeutics, Inc.
+                  343 Allerton Ave
+                  South San Francisco, CA 94080
+Attention: Shawn K. Singh, CEO
+ 
+
+If to Apollo:
+
+                  Apollo Biologics LP
+                  c/o Versant Venture Management, LLC
+                  One Sansome
+                  Suite 3630
+                  San Francisco, CA 94104
+Attention: Jerel Davis, Authorized Representative
+ 
+
+All notices under this Agreement shall be deemed effective upon receipt. A 
+Party may change its contact information immediately upon written notice to 
+the other Party in the manner provided in this Section 14.1.
+
+14.2 Governing Law. This Agreement and all disputes arising out of or 
+related to this Agreement, or the performance, enforcement, breach or 
+termination hereof, and any remedies relating thereto, shall be construed, 
+governed, interpreted and applied in accordance with the laws of the State 
+of Delaware, without regard to conflict of laws principles, except that 
+questions affecting the construction and effect of any patent shall be 
+determined by the law of the country in which the patent shall have been 
+granted.
+
+
+ 
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-20-
+
+Exclusive License and Sublicense Agreement
+ 
+14.3 Force Majeure. Neither Party shall be responsible for delays resulting 
+from causes beyond the reasonable control of such Party, including, without 
+limitation fire, explosion, flood, war, strike, or riot, provided that the 
+nonperforming Party uses commercially reasonable efforts to avoid or remove 
+such causes of nonperformance and continues performance under this 
+Agreement with reasonable dispatch whenever such causes are removed.
+
+
+14.4 Amendment and Waiver. This Agreement may be amended, supplemented, or 
+otherwise modified only by means of a written instrument signed by both 
+Parties. Any waiver of any rights or failure to act in a specific instance 
+shall relate only to such instance and shall not be construed as an 
+agreement to waive any rights or fail to act in any other instance, whether 
+or not similar.
+
+
+14.5 Severability. In the event that any provision of this Agreement shall 
+be held invalid or unenforceable for any reason, such invalidity or 
+unenforceability shall not affect any other provision of this Agreement, 
+and the Parties shall negotiate in good faith to modify this Agreement to 
+preserve (to the extent possible) their original intent. If the Parties 
+fail to reach a modified agreement within thirty (30) days after the 
+relevant provision is held invalid or unenforceable, then the dispute shall 
+be resolved in accordance with the procedures set forth in Article 13. 
+While the dispute is pending resolution, this Agreement shall be construed 
+as if such provision were deleted by agreement of the Parties.
+
+
+14.6 Binding Effect. This Agreement shall be binding upon and inure to the 
+benefit of the Parties and their respective legal representatives, 
+successors and assigns.
+
+
+14.7 Headings. All headings are for convenience only and shall not affect 
+the meaning of any provision of this Agreement.
+
+
+14.8 Entire Agreement. This Agreement constitutes the entire agreement 
+between the Parties with respect to its subject matter and supersedes all 
+prior agreements or understandings between the parties relating to its 
+subject matter.
+
+
+14.9 Construction. The use of words in the singular or plural, or with a 
+particular gender, shall not limit the scope or exclude the application of 
+any provision of this Agreement to such person or persons or circumstances 
+as the context otherwise permits. The words “will” and “shall” shall have 
+the same meaning and, unless the context otherwise requires, the use of the 
+word “or” is used in the inclusive sense (and/or). The term “including, 
+“include,” or “includes” as used herein shall mean including, without 
+limiting the generality of any description preceding such term, 
+irrespective of whether such term is used “without limitation” or “without 
+limiting” throughout this Agreement.
+
+
+14.10 Counterparts. This Agreement may be executed in counterparts signed 
+separately by the Parties, each of which together shall constitute one and 
+the same instrument. Execution of this Agreement may be concluded by 
+signing and delivery by electronic transmission to a Party of the other 
+Party’s signed copy.
+
+
+[remainder of this page intentionally left blank]
+
+ 
+      ___________________
+ 
+ 
+*****
+VISTAGEN THERAPEUTICS, INC. HAS REQUESTED THAT THE OMITTED PORTIONS OF THIS 
+DOCUMENT, WHICH ARE INDICATED BY [*****], BE AFFORDED CONFIDENTIAL 
+TREATMENT. VISTAGEN THERAPEUTICS, INC. HAS SEPARATELY FILED THE OMITTED 
+PORTIONS OF THE DOCUMENT WITH THE SECURITIES AND EXCHANGE COMMISSION.
+ 
+ 
+-21-
+
+Exclusive License and Sublicense Agreement
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed 
+by their duly authorized representatives.
+
+ 
+
+ 
+
+VISTAGEN THERAPEUTICS, INC.
+ 
+By: /s/ Shawn K. Singh
+
+Name: Shawn K. Singh
+
+Title: Chief Executive Officer
+
+ 
+ 
+
+ 
+-22-
+
+Exclusive License and Sublicense Agreement
+ 
+
+ 
+  APOLLO BIOLOGICS LP
+
+ 
+ 
+ 
+ By: BJD Newco, LLC, its general partner
+
+ 
+ 
+ 
+ By: /s/ Jerel Davis
+ 
+ Name: Jerel Davis
+ 
+ Title: Authorized Representative
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+-23-
+
+Exclusive License and Sublicense Agreement
+ 
+EXHIBIT A
+
+LICENSED IP
+
+      [*****]
+
+ 
+
+      [*****]
+
+ 
+
+ 
+ 
+A-1
+
+Exclusive License and Sublicense Agreement
+ 
+      [*****]
+
+
+ 
+
+[*****]
+
+
+ 
+
+ 
+ 
+A-2
+
+Exclusive License and Sublicense Agreement
+ 
+[*****]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+A-3
+
+Exclusive License and Sublicense Agreement
+ 
+[*****]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+A-4
+
+ 
+Exclusive License and Sublicense Agreement
+ 
+[*****]
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+A-5
+
+Exclusive License and Sublicense Agreement
+ 
+
+[*****]
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+A-6
