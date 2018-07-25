@@ -1,0 +1,321 @@
+ EX-10.4 5 ex10_4.htm PATENT INDEMNIFICATION AGREEMENT
+Exhibit 10.4
+FOIA Confidential Treatment Requested
+Execution Version
+
+ 
+PATENT INDEMNIFICATION AGREEMENT
+ 
+This PATENT INDEMNIFICATION AGREEMENT, dated and effective as of July 13, 
+2010, is entered into by and among, on one side, Toshiba Corporation, a 
+Japanese corporation (“Toshiba”), and, on the other side, SanDisk 
+Corporation, a Delaware corporation (“SanDisk Corporation”), and SanDisk 
+**** and SanDisk together with Toshiba, the “Parties”).
+ 
+WHEREAS, Toshiba and SanDisk are parties to that certain Flash Forward 
+Master Agreement, dated as of the date hereof (the “FF Master Agreement”);
+ 
+WHEREAS, Toshiba and SanDisk are parties to that certain 3D Collaboration 
+Agreement, dated as of June 13, 2008 (the “3D Collaboration Agreement”), 
+pursuant to which the Parties have agreed to expand their collaboration 
+through a project for the joint development of and technical collaboration 
+on **** (as defined in the 3D Collaboration Agreement) and technology;
+ 
+****
+ 
+WHEREAS, recognizing that the products SanDisk will acquire from the 
+Company will have been manufactured using Toshiba patents and technology, 
+and recognizing that SanDisk, as an owner of the equity interests in the 
+Company, will benefit from Toshiba’s making available its patents and 
+technology to the Company, the Parties have determined to enter into this 
+Agreement, which is required by the FF Master Agreement.
+ 
+NOW, THEREFORE, the Parties agree as follows:
+ 
+1. INDEMNIFICATION.
+ 
+1.1  
+Patent Infringement. With regard to any and all sales of Y5 NAND Flash 
+Memory Products and ****, if applicable, by the Company to SanDisk (“
+Company Products”):
+ 
+(a)  
+Subject to the terms and conditions listed below, Toshiba agrees to 
+indemnify and defend SanDisk in any legal proceeding, lawsuit or other 
+judicial action, **** claims that the Company Products supplied by the 
+Company infringe any **** patent(s). With regard to any claim of patent 
+infringement for which Toshiba has indemnification obligations hereunder, 
+Toshiba’s obligations are subject to the following conditions:
+ 
+(i)  
+SanDisk shall notify Toshiba in writing of such claim ****;
+ 
+(ii)  
+SanDisk shall also notify Toshiba in writing ****;
+ 
+(iii)  
+SanDisk shall provide Toshiba with notice of any other written 
+communication indicating potential patent infringement claims against the 
+Company Products ****; provided, however, SanDisk’s failure to provide such 
+notice shall in no way constitute a breach of this Agreement by SanDisk nor 
+in any way excuse Toshiba’s obligations under this Agreement;
+ 
+(iv)  
+****, Toshiba shall have the sole and exclusive control of the defense or 
+settlement of such claim; ****; and
+ 
+(v)  
+SanDisk shall provide all reasonable assistance in defending such claim.
+ 
+ 
+1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.4
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(b)  
+Notwithstanding the foregoing, Toshiba shall not be obligated to indemnify 
+or defend SanDisk in the event that such infringement arises from:
+ 
+(i)  
+****;
+ 
+(ii)  
+****
+ 
+(iii)  
+****
+ 
+(c)  
+****
+ 
+(d)  
+****
+ 
+(e)  
+****
+ 
+(f)  
+In addition to the obligations set forth above, should any third party 
+patent claim result in a temporary or permanent injunction against the 
+manufacture, use, sale, offer for sale, importation or otherwise disposal 
+of the Company Products by SanDisk, Toshiba shall use best efforts to 
+undertake one of the following actions:
+ 
+(i)  
+****
+ 
+(ii)  
+****
+ 
+(g)  
+The total cumulative liability of Toshiba under this Agreement, exclusive 
+of the remedy set forth in subparagraph (e) above, shall be limited (i), 
+with respect to ****, to an amount not to exceed the greater of (x) **** or 
+(y) ****, and (ii), with respect to ****, if applicable, to an amount not 
+to exceed the greater of (x) ****or (y) ****.
+ 
+1.2  
+Qualifying Claims.
+ 
+(a)  
+If either Party receives a notice of a **** or becomes aware that the 
+Company has received such a notice, it shall promptly notify the other 
+Party. Promptly following the notified Party’s receipt of such notice from 
+the notifying Party, the Parties shall meet and discuss in good faith 
+whether and how ****, in accordance with the principles set forth in 
+Section 1.2(b).
+ 
+(b)  
+In discussing and evaluating each ****, Toshiba and SanDisk shall discuss 
+and agree upon ****
+ 
+(c)  
+If despite their good faith efforts the Parties are not able to agree upon 
+**** pursuant to Section 1.2(b) for ****, the matter shall be resolved in 
+accordance with the dispute resolution procedures set forth in the FF 
+Master Agreement.
+ 
+(d)  
+****.
+ 
+1.3  
+****.
+ 
+2. TERMINATION
+ 
+    This Agreement shall terminate ****, and upon such termination, this
+    Agreement shall be of no further force and effect, and Toshiba and
+    SanDisk shall thereafter have no liability hereunder.
+ 
+ 
+2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.4
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+3. MISCELLANEOUS
+ 
+3.1  
+Certain Definitions and Interpretive Rules.
+ 
+(a)  
+As used herein, the term “Agreement” means this Patent Indemnification 
+Agreement together with any exhibits, schedules, appendices and attachments 
+hereto.
+ 
+(b)  
+Capitalized terms used but not defined in the main body of this Agreement 
+shall have the respective meanings assigned to them in attached Appendix A
+. If any capitalized term used in this Agreement is not defined in either 
+the main body of this Agreement or Appendix A, it shall have the meaning 
+assigned to it in the FF Master Agreement.
+ 
+(c)  
+The rules of construction and documentary conventions and general terms and 
+conditions set forth in Appendix A shall apply to this Agreement.
+ 
+3.2  
+****
+ 
+(a)  
+****
+ 
+(i)  
+****
+ 
+(ii)  
+****
+ 
+(iii)  
+****
+ 
+3.3  
+Survival. Except as otherwise specifically provided in this Agreement, all 
+covenants, agreements, representations and warranties of the Parties made 
+in or pursuant to such agreement or instrument shall survive the execution 
+and delivery of such agreement or instrument and the closing of the 
+transactions contemplated thereby, notwithstanding any investigation by or 
+on behalf of any party. Further, the provisions set forth in this Article 
+III shall survive and shall apply with respect to this Agreement following 
+termination thereof pursuant to Article II hereof.
+ 
+3.4  
+Assignment. Neither Party shall transfer, or grant or permit to exist any 
+Lien (except Permitted Liens) on, this Agreement or any of its rights 
+hereunder, (except for any transfer to an Affiliate or in connection with a 
+merger, consolidation or sale of all or substantially all the assets or the 
+outstanding securities of such Party, which transfer shall not require any 
+consent of the other Party) without the prior written consent of the other 
+Party (which consent may be withheld in each such other Party’s sole 
+discretion), and any such purported transfer or Lien without such consent 
+shall be void.  ****
+ 
+3.5  
+Governing Law. This Agreement shall be governed and construed as to all 
+matters including validity, construction and performance by and under the 
+substantive laws of the State of California.
+ 
+3.6  
+****  Notwithstanding the provisions of Section 2.9 of Appendix A, any 
+other provision of this Agreement, and any delay beyond the date of hereof 
+of execution by **** of this Agreement, Toshiba and SanDisk acknowledge and 
+agree that, by the execution and delivery hereof to Toshiba and SanDisk 
+Corporation: (i) this Agreement shall be effective as between Toshiba and 
+SanDisk Corporation as of the date hereof; and (ii) ****.
+ 
+ 
+ 
+ 
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+ 
+ 
+ 
+ 
+ 
+3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.4
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed 
+and delivered as of the date and year first above written.
+ 
+ 
+  	TOSHIBA CORPORATION
+  	 By: 	 /s/ Kiyoshi Kobayashi
+  	 Name: 	 Kiyoshi Kobayashi
+  	 Title: 	 President and CEO
+  	  	 Semiconductor Company
+  	  	 Corporate Senior Vice President
+  	  	 
+  	 SANDISK CORPORATION
+  	 By: 	 /s/ Eli Harari
+  	 Name: 	 Eli Harari
+  	 Title: 	 Chairman and CEO
+  	  	 
+  	 
+  	**** 	 
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+[Signature page to Flash Forward Patent Indemnification Agreement]
+ 
+ 
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+ 
+ 
+ 
