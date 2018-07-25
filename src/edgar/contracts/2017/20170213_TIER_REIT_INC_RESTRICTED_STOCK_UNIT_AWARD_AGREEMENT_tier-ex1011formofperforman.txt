@@ -1,0 +1,658 @@
+ EX-10.11 3 tier-ex1011formofperforman.htm EXHIBIT 10.11
+Exhibit 10.11
+
+TIER REIT, INC.
+
+RESTRICTED STOCK UNIT AWARD AGREEMENT
+
+
+Name of the Grantee: [    ] (the “Grantee”)
+Total number of Restricted Stock Units at 100% Attainment: [_____] (the “
+Target Award”)
+      Absolute TSR Target: [_______]
+      Index Relative TSR Target: [_______]
+      Peer Relative TSR Target: [_______]
+Baseline Value: $[____]
+Grant Effective Date: [January __, 2017]
+
+
+RECITALS
+
+A.    The Grantee is an employee of TIER REIT, Inc. (the “Company”).
+
+
+B.    Pursuant to the Company’s 2015 Equity Incentive Plan (as may be 
+amended and supplemented from time to time, the “Plan”), the Company hereby 
+grants to the Grantee the number of Restricted Stock Units specified above, 
+subject to the terms and conditions set forth herein. Each Restricted Stock 
+Unit shall relate to one share of Common Stock of the Company (each, a “
+Share”). Unless otherwise indicated, capitalized terms used herein but not 
+defined shall have the meanings given to those terms in the Plan.
+
+
+NOW, THEREFORE, the Company and the Grantee agree as follows:
+
+
+1.Grant of Restricted Stock Units. The Company hereby grants the Grantee 
+the number of Restricted Stock Units specified above (the “Award”), subject 
+to the following terms and conditions and subject to the provisions of the 
+Plan. The Plan is hereby incorporated herein by reference as though set 
+forth herein in its entirety.
+
+
+2.    Restrictions on Transfer of Award. This Award may not be sold, 
+transferred, pledged, assigned or otherwise encumbered or disposed of by 
+the Grantee, and any Shares issuable with respect to the Award may not be 
+sold, transferred, pledged, assigned or otherwise encumbered or disposed of 
+until (i) the Restricted Stock Units have vested as provided in Section 3 
+of this Agreement and (ii) Shares have actually been issued to the Grantee 
+pursuant to Section 6 and in accordance with the terms of the Plan and this 
+Agreement.
+
+
+3.    Vesting of Restricted Stock Units. Except as otherwise provided 
+below, the restrictions and conditions of Section 2(i) of this Agreement 
+shall lapse as follows:
+
+
+(i)    The Administrator shall determine during the first 60 days following 
+the end of the Performance Period the number of Restricted Stock Units that 
+shall vest on account of the Company’s Annualized TSR Percentage in 
+accordance with the following table:
+
+
+
+------------------------------------------------------------------------
+
+
+     Annualized TSR Percentage
+
+
+     Percentage of  
+     Absolute TSR Target Vested
+
+
+     Greater than or equal to 5%
+     but less than 7.5%
+     50%
+     Greater than or equal to 7.5%
+      but less than 10%
+     100%
+
+
+     Greater than or equal to 10%
+     200%
+
+
+In the event that the Annualized TSR Percentage shall fall between two 
+levels in the above table, linear interpolation shall be used to determine 
+such number of vested Restricted Stock Units.
+
+
+(ii)    The Administrator shall determine during the first 60 days 
+following the end of the Performance Period the number of Restricted Stock 
+Units that shall vest on account of the Company’s Index Relative TSR Return 
+in accordance with the following table:
+
+
+     Index Relative TSR Return
+
+
+     Percentage of 
+     Index Relative TSR Target Vested
+
+
+     25th Percentile or higher
+     50%
+     50th Percentile or higher
+     100%
+
+
+     75th Percentile or higher
+
+
+     200%
+
+
+In the event that the Index Relative TSR Return shall fall between two 
+levels in the above table, linear interpolation shall be used to determine 
+such number of vested Restricted Stock Units.
+
+
+(iii)    The Administrator shall determine during the first 60 days 
+following the end of the Performance Period the number of Restricted Stock 
+Units that shall vest on account of the Company’s Peer Relative TSR Return 
+in accordance with the following table:
+
+
+     Peer Relative TSR Return
+
+
+     Percentage of 
+     Peer Relative TSR Target Vested
+
+
+     25th Percentile or higher
+     50%
+     50th Percentile or higher
+     100%
+
+
+     75th Percentile or higher
+
+
+     200%
+
+
+In the event that the Peer Relative TSR Return shall fall between two 
+levels in the above table, linear interpolation shall be used to determine 
+such number of vested Restricted Stock Units.
+
+
+(iv)    In the event that a Sale Event (as defined in the Plan) occurs 
+prior to the end of the Performance Period, the Grantee will be deemed to 
+have earned the number of Restricted Stock Units based on the attainment 
+level resulting from the Annualized TSR Percentage, Index Relative TSR 
+Return and Peer Relative TSR Return, each calculated from the first day of 
+the Performance Period through the end of the calendar month immediately 
+preceding the date of the Sale Event pursuant to Sections 3(i), 3(ii) and 
+3(iii) above, multiplied by (a) in the event such Sale Event is consummated 
+prior to the one-year anniversary of January
+
+
+
+2
+
+------------------------------------------------------------------------
+
+1, [2017], a fraction, the numerator of which shall be the number of 
+calendar days from January 1, [2017] to the date of the Sale Event and the 
+denominator of which shall be 365, and (b) in the event such Sale Event is 
+consummated on or after the one-year anniversary of January 1, [2017], the 
+number one. All such earned Restricted Stock Units shall become fully 
+vested upon the consummation of the Sale Event. The foregoing treatment 
+supersedes the treatment of performance awards upon a Sale Event in the 
+Grantee’s Employment Agreement.
+
+
+4.    Adjustments. Without duplication with the provisions of Section 3 of 
+the Plan, if (i) the Company shall at any time be involved in a merger, 
+consolidation, dissolution, liquidation, reorganization, exchange of 
+shares, sale of all or substantially all of the assets or shares of Common 
+Stock of the Company or a transaction similar thereto, (ii) any stock 
+dividend, stock split, reverse stock split, stock combination, 
+reclassification, recapitalization, or other similar change in the capital 
+structure of the Company, or any distribution to holders of Stock other 
+than ordinary cash dividends, shall occur or (iii) any other event shall 
+occur which in the judgment of the Administrator necessitates action by way 
+of adjusting the terms of this Award, then and in that event, the 
+Administrator shall take such action as shall be necessary in the 
+discretion of the Administrator to maintain the Grantee’s rights hereunder.
+
+
+5.    Termination of Service.
+
+
+(i)    Except as otherwise provided herein, if the Grantee’s employment 
+with the Company and its Subsidiaries terminates for any reason prior to 
+the satisfaction of the vesting conditions set forth in Section 3, above, 
+any Restricted Stock Units that have not vested as of such date shall 
+automatically and without notice terminate and be forfeited, and neither 
+the Grantee nor any of his or her successors, heirs, assigns, or personal 
+representatives will thereafter have any further rights or interests in 
+such unvested Restricted Stock Units.
+
+
+(ii)    If the Grantee’s employment is terminated by the Company for 
+reasons other than Cause, the Grantee’s employment terminates on account of 
+death or Disability or the Grantee resigns for Good Reason prior to the end 
+of the Performance Period, subject to the effectiveness of a release in 
+favor of the Company (except in the case of death), the Administrator shall 
+determine the amount of Restricted Stock Units deemed earned based on the 
+Company’s Annualized TSR Percentage, Index Relative TSR Return and Peer 
+Relative TSR Return through the date the Grantee’s employment relationship 
+with the Company is terminated (the “Termination Date”), and the Grantee 
+shall vest in the greater of (x) the number of Restricted Stock Units 
+underlying the Target Award or (y) the number of Restricted Stock Units 
+deemed earned based on the Company’s Annualized TSR Percentage, Index 
+Relative TSR Return and Peer Relative TSR Return through the Termination 
+Date, and if the Termination Date is prior to the one-year anniversary of 
+January 1, [2017], further multiplied by a fraction, the numerator of which 
+shall be the number of calendar days from the Grant Effective Date to the 
+Termination Date and the denominator of which shall be 365.
+
+
+6.    Issuance of Shares; Forfeiture. The Company shall issue to the 
+Grantee the number of Shares equal to the aggregate number of Restricted 
+Stock Units that have vested pursuant to Section 3 of this Agreement within 
+30 days thereafter (such date of issuance, the “Issuance Date”). On the 
+Issuance Date, the Company shall also issue to the Grantee a number
+
+
+
+3
+
+------------------------------------------------------------------------
+
+of Shares determined by multiplying the Dividend Shares by the number of 
+Shares issued to the Grantee pursuant to the first sentence of this Section 
+6.
+
+
+7.    Defined Terms. The following terms shall have the following 
+respective meanings:
+
+
+(i)    “Absolute TSR Target” means one-third of the Target Award, as 
+indicated above. Such Restricted Stock Units shall be earned based on the 
+Company’s Annualized TSR Percentage during the Performance Period.
+
+
+(ii)    “Annualized TSR Percentage” means the compounded annual growth 
+rate, expressed as a percentage (rounded down to the nearest tenth of a 
+percent (0.1%)), in the value per Share during the Performance Period due 
+to the appreciation in the price per Share and dividends paid during such 
+period, assuming dividends are reinvested. Where “D” is the value of all 
+dividends paid to a shareholder of record with respect to one Share during 
+the Performance Period at the end of the Performance Period after being 
+reinvested and N is the number of 12 month periods that have elapsed 
+between the first day of the Performance Period and the last day of the 
+Performance Period (which may not be a full integer if computed in 
+connection with a Sale Event or a termination of employment under Section 
+5(ii)) the Annualized TSR Percentage is calculated as follows:
+
+
+(iii)    “Baseline Value” for each of the Company, the Peer Companies and 
+the Index Companies, means the dollar amount representing the Fair Market 
+Value of one share of common stock of such company on December 31, 2016.
+
+
+(iv)    “Cause” shall mean, unless otherwise provided in an Employment 
+Agreement between the Company and the Grantee, a determination by the 
+Administrator that the Grantee shall be dismissed as a result of (a) any 
+material breach by the Grantee of any agreement between the Grantee and the 
+Company; (b) the conviction of, indictment for or plea of nolo contendere 
+by the Grantee to a felony or a crime involving moral turpitude; or (c) any 
+material misconduct or willful and deliberate non-performance (other than 
+by reason of disability) by the Grantee of the Grantee’s duties to the 
+Company.
+
+
+(v)    “Disability” shall mean, unless otherwise provided in an Employment 
+Agreement between the Company and the Grantee, the occurrence of an event 
+which would entitle the Grantee to the payment of disability income under 
+the Company’s long-term disability plan.
+
+
+(vi)    “Dividend Shares” means a number of Shares equal to the sum of the 
+quotients obtained by dividing each Performance Period Dividend by the Fair 
+Market Value of one Share of Stock on the date each such Performance Period 
+Dividend is paid.
+
+
+(vii)    “Employment Agreement” shall mean any applicable agreement between 
+the Grantee and the Company governing employment matters.
+
+
+
+4
+
+------------------------------------------------------------------------
+
+(viii)    “Ending Share Value” means, for each of the Company, the Peer 
+Companies and the Index Companies, the average of the closing price of one 
+share of common stock of such company over the 20 consecutive trading days 
+ending on, and including the Valuation Date (or if such date is not a 
+trading day, the most recent trading day immediately preceding such date); 
+provided that if the Valuation Date is the date upon which a Sale Event 
+occurs, the Ending Share Value as of such date shall be equal to the fair 
+value, as determined by the Administrator, of the total consideration paid 
+or payable in the transaction resulting in the Sale Event for one Share, 
+and if one of the 20 consecutive trading days is an ex-dividend date for 
+the Company, or any of the Peer Companies and the Index Companies, the 
+Administrator shall make fair and appropriate adjustments.
+
+
+(ix)    “Fair Market Value” means, as of any given date, the fair market 
+value of a security which shall be the closing sale price reported for such 
+security on the principal stock exchange or, if applicable, any other 
+national exchange on which the security is traded or admitted to trading on 
+such date on which a sale was reported. If there are no market quotations 
+for such date, the determination shall be made by reference to the last 
+date preceding such date for which there are market quotations.
+
+
+(x)    “Good Reason” shall mean, unless otherwise provided in an Employment 
+Agreement between the Company and the Grantee, a determination by the 
+Administrator of the occurrence of one of the following events: (a) a 
+material adverse change in the nature or scope of the Grantee’s 
+responsibilities, authorities, powers, functions or duties; (b) a material 
+reduction in the Grantee’s annual base salary except for across-the-board 
+salary reductions similarly affecting all or substantially all 
+similarly-situated employees; or (c) the relocation of the offices at which 
+the Grantee is principally employed to a location more than 50 miles from 
+such offices.
+
+
+(xi)    “Index Companies” means the companies included in the NAREIT Office 
+Index (unweighted), but specifically excluding the Company, throughout the 
+Performance Period.
+
+
+(xii)    “Index Relative TSR Return” means the Company’s Total Shareholder 
+Return during the Performance Period relative to the Total Shareholder 
+Return of the Index Companies during the Performance Period. Relative 
+Performance will be determined by ranking the Company and the Index 
+Companies from highest to lowest according to their respective Total 
+Shareholder Return. After this ranking, the percentile performance of the 
+Company relative to the Index Companies will be determined as follows:
+
+
+
+  N
+(R-1)
+P
+-
+=
+1
+
+5
+
+------------------------------------------------------------------------
+
+            where:
+“P” represents the percentile performance which will be rounded, if 
+necessary, to the nearest whole percentile by application of regular 
+rounding.
+                    “N” represents the number of Index Companies.
+
+
+                    “R” represents the Company’s ranking among the Index
+                    Companies.
+
+
+(xiii)    “Index Relative TSR Target” means one-third of the Target Award, 
+as indicated above. Such Restricted Stock Units shall be earned based on 
+the Company’s Index Relative TSR Return during the Performance Period.
+
+
+(xiv)    “Peer Companies” means each of Brandywine Realty Trust (BDN), 
+Columbia Property Trust, Inc. (CXP), Corporate Office Properties Trust 
+(OFC), Cousins Properties, Inc. (CUZ), Franklin Street Properties Corp. 
+(FSP), Highwoods Properties, Inc. (HIW), Kilroy Realty Corp. (KRC), Mack 
+Cali Realty Corp. (CLI), and Piedmont Office Realty Trust, Inc. (PDM).
+
+
+(xv)    “Peer Relative TSR Return” means the Company’s Total Shareholder 
+Return during the Performance Period relative to the Total Shareholder 
+Return of the Peer Companies during the Performance Period. Relative 
+Performance will be determined by ranking the Company and the Peer 
+Companies from highest to lowest according to their respective Total 
+Shareholder Return. After this ranking, the percentile performance of the 
+Company relative to the Peer Companies will be determined as follows:
+
+
+
+  N
+(R-1)
+P
+-
+=
+1
+            where:
+“P” represents the percentile performance which will be rounded, if 
+necessary, to the nearest whole percentile by application of regular 
+rounding.
+                    “N” represents the number of Peer Companies.
+
+
+                    “R” represents the Company’s ranking among the Peer
+                    Companies.
+
+
+(xvi)    “Peer Relative TSR Target” means one-third of the Target Award, as 
+indicated above. Such Restricted Stock Units shall be earned based on the 
+Company’s Peer Relative TSR Return during the Performance Period.
+
+
+(xvii)    “Performance Period” means the period commencing on January 1, 
+[2017] and concluding on the Valuation Date.
+
+
+
+6
+
+------------------------------------------------------------------------
+
+(xviii)    “Performance Period Dividend” shall mean each dividend or other 
+distribution paid on one Share for which the record date occurred on or 
+after the first day of the Performance Period and prior to the Issuance 
+Date for the Performance Period (excluding dividends and distributions paid 
+in the form of additional Shares).
+
+
+(xix)    “Total Shareholder Return” or “TSR” means for each of the Company, 
+the Index Companies and the Peer Companies, with respect to the Performance 
+Period, the total return (expressed as a percentage) that would have been 
+realized by a shareholder who (a) bought one share of common stock of such 
+company at the Baseline Value on the Grant Effective Date, (b) reinvested 
+each dividend and other distribution declared during the Performance Period 
+with respect to such share (and any other shares, or fractions thereof, 
+previously received upon reinvestment of dividends or other distributions 
+or on account of stock dividends), without deduction for any taxes with 
+respect to such dividends or other distributions or any charges in 
+connection with such reinvestment, in additional shares of common stock of 
+such company at a price per share equal to (i) the Fair Market Value on the 
+trading day immediately preceding the ex-dividend date for such dividend or 
+other distribution less (ii) the amount of such dividend or other 
+distribution, and (c) sold such shares on the Valuation Date at the Ending 
+Share Value of such shares on the Valuation Date, without deduction for any 
+taxes with respect to any gain on such sale or any charges in connection 
+with such sale. As set forth in, and pursuant to, Section 4 of this 
+Agreement, appropriate adjustments to the Total Shareholder Return shall be 
+made to take into account all stock dividends, stock splits, reverse stock 
+splits and the other events set forth in Section 4 for each of the Company, 
+the Index Companies, and the Peer Companies that occur during the 
+Performance Period.
+
+
+(xx)    “Valuation Date” means the earlier of (a) December 31, 2018, or (b) 
+the date upon which a Sale Event shall occur.
+
+
+8.    Incorporation of Plan; Interpretation by Administrator. This 
+Agreement is subject in all respects to the terms, conditions, limitations 
+and definitions contained in the Plan. In the event of any discrepancy or 
+inconsistency between this Agreement and the Plan, the terms and conditions 
+of the Plan shall control. The Administrator may make such rules and 
+regulations and establish such procedures for the administration of this 
+Agreement as it deems appropriate.
+
+
+Without limiting the generality of the foregoing, the Administrator may 
+interpret the Plan and this Agreement, with such interpretations to be 
+conclusive and binding on all persons and otherwise accorded the maximum 
+deference permitted by law, provided that the Administrator’s 
+interpretation shall not be entitled to deference on and after a Sale Event 
+except to the extent that such interpretations are made exclusively by 
+members of the board of directors of the Company or relevant committee, who 
+are individuals who served as members of such board or committee, as 
+applicable, before the Sale Event and take any other actions and make any 
+other determinations or decisions that it deems necessary or appropriate in 
+connection with the Plan, this Agreement or the administration or 
+interpretation thereof. In the event of any dispute or disagreement as to 
+interpretation of the Plan or this Agreement or of any rule, regulation or 
+procedure, or as to any question, right or obligation arising from or 
+related to the Plan or this
+
+
+
+7
+
+------------------------------------------------------------------------
+
+Agreement, the decision of the Administrator, except as provided above, 
+shall be final and binding upon all persons.
+
+
+9.    Withholding and Taxes. No later than the date as of which an amount 
+first becomes includible in the gross income of the Grantee for income tax 
+purposes or subject to the Federal Insurance Contributions Act withholding 
+with respect to the shares of Restricted Stock granted hereunder, the 
+Grantee will pay to the Company or, if appropriate, any of its 
+Subsidiaries, or make arrangements satisfactory to the Administrator 
+regarding the payment of, any United States federal, state or local or 
+foreign taxes of any kind required by law to be withheld with respect to 
+such amount. The Grantee hereby authorizes the Company to satisfy such 
+withholding obligation by withholding from the Shares of Stock to be issued 
+a number of Shares of Stock with an aggregate Fair Market Value that would 
+satisfy the withholding amount due.
+
+
+10.    No Obligation to Continue Employment Relationship. Neither the Plan 
+nor this Award confers upon the Grantee any rights with respect to 
+continued employment.
+
+
+11.    Amendment; Modification. This Agreement may only be modified or 
+amended in a writing signed by the parties hereto, provided that the 
+Grantee acknowledges that the Plan may be amended or discontinued in 
+accordance with Section 19 thereof and that this Agreement may be amended 
+or canceled by the Administrator, on behalf of the Company, for the purpose 
+of satisfying changes in law or for any other lawful purpose, so long as no 
+such action shall adversely affect the Grantee’s rights under this 
+Agreement without the Grantee’s written consent. No promises, assurances, 
+commitments, agreements, undertakings or representations, whether oral, 
+written, electronic or otherwise, and whether express or implied, with 
+respect to the subject matter hereof, have been made by the parties which 
+are not set forth expressly in this Agreement. The failure of the Grantee 
+or the Company to insist upon strict compliance with any provision of this 
+Agreement, or to assert any right the Grantee or the Company, respectively, 
+may have under this Agreement, shall not be deemed to be a waiver of such 
+provision or right or any other provision or right of this Agreement.
+
+
+12.    Complete Agreement. This Agreement (together with those agreements 
+and documents expressly referred to herein, for the purposes referred to 
+herein) embodies the complete and entire agreement and understanding 
+between the parties with respect to the subject matter hereof, and 
+supersede any and all prior promises, assurances, commitments, agreements, 
+undertakings or representations, whether oral, written, electronic or 
+otherwise, and whether express or implied, which may relate to the subject 
+matter hereof in any way.
+
+
+13.    No Limit on Other Compensation Arrangements. Nothing contained in 
+this Agreement shall preclude the Company from adopting or continuing in 
+effect other or additional compensation plans, agreements or arrangements, 
+and any such plans, agreements and arrangements may be either generally 
+applicable or applicable only in specific cases or to specific persons.
+
+
+14.    Severability. If any term or provision of this Agreement is or 
+becomes or is deemed to be invalid, illegal or unenforceable in any 
+jurisdiction or under any applicable law,
+
+
+
+8
+
+------------------------------------------------------------------------
+
+rule or regulation, then such provision shall be construed or deemed 
+amended to conform to applicable law (or if such provision cannot be so 
+construed or deemed amended without materially altering the purpose or 
+intent of this Agreement and the grant of Restricted Stock Units hereunder, 
+such provision shall be stricken as to such jurisdiction and the remainder 
+of this Agreement and the award hereunder shall remain in full force and 
+effect).
+
+
+15.    Law Governing. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN 
+ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS, WITHOUT REGARD TO ANY 
+PRINCIPLES OF CONFLICTS OF LAW WHICH COULD CAUSE THE APPLICATION OF THE 
+LAWS OF ANY JURISDICTION OTHER THAN THE STATE OF TEXAS.
+
+
+16.    Headings. Section, paragraph and other headings and captions are 
+provided solely as a convenience to facilitate reference. Such headings and 
+captions shall not be deemed in any way material or relevant to the 
+construction, meaning or interpretation of this Agreement or any term or 
+provision hereof.
+
+
+17.    Notices. Notices hereunder shall be mailed or delivered to the 
+Company at its principal place of business and shall be mailed or delivered 
+to the Grantee at the address on file with the Company or, in either case, 
+at such other address as one party may subsequently furnish to the other 
+party in writing.
+
+
+18.    Counterparts. This Agreement may be executed in two or more separate 
+counterparts, each of which shall be an original, and all of which together 
+shall constitute one and the same agreement.
+
+
+19.    Successors and Assigns. The rights and obligations created hereunder 
+shall be binding on the Grantee and his heirs and legal representatives and 
+on the successors and assigns of the Company.
+
+
+[Signature Page Follows]
+
+9
+
+------------------------------------------------------------------------
+
+IN WITNESS WHEREOF, the undersigned have caused this Award to be executed 
+on the [_____________] day of [________], 201[_].
+
+
+
+
+
+
+
+                                    TIER REIT, INC.
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+                                    By:
+                                     
+                                     
+                                    Name:
+                                     
+                                    Title:
+                                     
+                                     
+                                     
+                                     
+                                    Grantee
+                                     
+                                     
+                                     
+                                     
+                                     
+                                    Name:
+                                     
+                                     
+                                     
+                                    Address:
+                                     
+
+
+
+
+
+
+
+
+
+
+10
+
