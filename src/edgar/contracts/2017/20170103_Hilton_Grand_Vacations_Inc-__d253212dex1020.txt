@@ -1,0 +1,1296 @@
+ EX-10.20 9 d253212dex1020.htm EX-10.20
+Exhibit 10.20
+
+STOCKHOLDERS AGREEMENT
+
+by and among
+
+HILTON WORLDWIDE HOLDINGS INC.,
+
+HILTON GRAND VACATIONS INC.,
+
+and
+
+the Blackstone Holders
+
+(as defined herein)
+
+Dated as of                     
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	  	  	   	  	   	Page 	 
+ ARTICLE I DEFINITIONS AND INTERPRETATION
+   	  	2 	  
+  	
+ Section 1.1
+   	Definitions 	   	  	2 	  
+  	
+ Section 1.2
+   	References; Interpretation 	   	  	9 	  
+  	
+ Section 1.3
+   	Effective Time 	   	  	9 	  
+ ARTICLE II SECTION 355(e) RESTRICTIONS
+   	  	9 	  
+  	
+ Section 2.1
+   	General 	   	  	9 	  
+  	
+ Section 2.2
+   	Exceptions for Applicable Percentage, Safe Harbor VIII and Unqualified 
+355(e) Opinion 	   	  	10 	  
+  	
+ Section 2.3
+   	Blackstone Ownership Shift due to Issuance 	   	  	11 	  
+  	
+ Section 2.4
+   	Special Rule 	   	  	11 	  
+ ARTICLE III DEVICE RESTRICTIONS
+   	  	11 	  
+  	
+ Section 3.1
+   	General 	   	  	11 	  
+  	
+ Section 3.2
+   	Exceptions for In Parallel and Unqualified Device Opinion 	   	  	11 	  
+
+ ARTICLE IV ADDITIONAL RULES
+   	  	12 	  
+  	
+ Section 4.1
+   	Plan of Reorganization and Blackstone Restructuring 	   	  	12 	  
+  	
+ Section 4.2
+   	Representation Regarding Blackstone Restructuring 	   	  	12 	  
+  	
+ Section 4.3
+   	Joint and Several Liability 	   	  	12 	  
+  	
+ Section 4.4
+   	Margin Loan 	   	  	12 	  
+  	
+ Section 4.5
+   	Reallocation Event 	   	  	12 	  
+  	
+ Section 4.6
+   	Cooperation 	   	  	13 	  
+  	
+ Section 4.7
+   	Effect of Rulings and Opinion on Section 355(e) Calculations 	   	  	
+13 	  
+ ARTICLE V MISCELLANEOUS
+   	  	13 	  
+  	
+ Section 5.1
+   	Counterparts 	   	  	13 	  
+  	
+ Section 5.2
+   	Survival 	   	  	13 	  
+  	
+ Section 5.3
+   	Notices 	   	  	14 	  
+  	
+ Section 5.4
+   	Waivers 	   	  	14 	  
+  	
+ Section 5.5
+   	Assignment 	   	  	14 	  
+  	
+ Section 5.6
+   	Successors and Assigns 	   	  	15 	  
+  	
+ Section 5.7
+   	Termination and Amendment 	   	  	15 	  
+  	
+ Section 5.8
+   	No Circumvention 	   	  	15 	  
+  	
+ Section 5.9
+   	Subsidiaries 	   	  	15 	  
+  	
+ Section 5.10
+   	Third Party Beneficiaries 	   	  	15 	  
+  	
+ Section 5.11
+   	Title and Headings 	   	  	15 	  
+  	
+ Section 5.12
+   	Schedules 	   	  	15 	  
+  	
+ Section 5.13
+   	Specific Performance 	   	  	15 	  
+ 
+i
+
+------------------------------------------------------------------------
+  	  	  	   	  	   	Page 	 
+  	
+ Section 5.14
+   	Governing Law 	   	  	16 	  
+  	
+ Section 5.15
+   	Consent to Jurisdiction 	   	  	16 	  
+  	
+ Section 5.16
+   	Waiver of Jury Trial 	   	  	16 	  
+  	
+ Section 5.17
+   	Force Majeure 	   	  	16 	  
+  	
+ Section 5.18
+   	Interpretation 	   	  	17 	  
+  	
+ Section 5.19
+   	Changes in Law 	   	  	17 	  
+  	
+ Section 5.20
+   	Severability 	   	  	17 	  
+  	
+ Section 5.21
+   	No Waiver 	   	  	17 	  
+  	
+ Section 5.22
+   	No Duplication; No Double Recovery 	   	  	17 	  
+  	
+ Section 5.23
+   	No Recourse 	   	  	17 	  
+Schedules 	   	 	   	 	 	
+Schedule I 	   	List of Blackstone Entities 	   	 	 	
+ 
+ii
+
+------------------------------------------------------------------------
+STOCKHOLDERS AGREEMENT
+
+THIS STOCKHOLDERS AGREEMENT (this Agreement) is made and entered into as 
+of the day of                     , by and among Hilton Worldwide Holdings 
+Inc., a Delaware corporation (HLT), Hilton Grand Vacations Inc., a 
+Delaware corporation (HGV), and the Blackstone Holders (as defined 
+herein). Each of HLT, HGV and each Blackstone Holder is sometimes referred 
+to herein as a Party and collectively, as the Parties. Each of HLT, HGV 
+and Park Hotels & Resorts Inc., a Delaware corporation (PK), is sometimes 
+referred to herein as a Spinoff Party and collectively, as the Spinoff 
+Parties.
+
+
+WITNESSETH:
+
+WHEREAS, the Board of Directors of HLT (the Board) has determined that it 
+is appropriate, desirable and in the best interests of HLT and its 
+stockholders to separate HLT into three separate, publicly traded 
+companies, one for each of (i) the HLT Retained Business (as defined 
+herein), which shall be owned and conducted, directly or indirectly, by 
+HLT, (ii) the Ownership Business (as defined herein), which shall be owned 
+and conducted, directly or indirectly, by PK (which will elect to be a REIT 
+(as defined herein)), and (iii) the Timeshare Business (as defined herein), 
+which shall be owned and conducted, directly or indirectly, by HGV;
+
+WHEREAS, in order to effect such separation, the Board has determined that 
+it is appropriate, desirable and in the best interests of HLT and its 
+stockholders (i) to enter into a series of transactions after giving effect 
+to which (A) HLT and/or one or more of its Subsidiaries (as defined herein) 
+will, collectively, own all of the HLT Retained Assets (as defined herein) 
+and assume (or retain) all of the HLT Retained Liabilities (as defined 
+herein), (B) PK and/or one or more of its Subsidiaries will, collectively, 
+own all of the Ownership Assets (as defined herein) and assume (or retain) 
+all of the Ownership Liabilities (as defined herein) and (C) HGV and/or one 
+or more of its Subsidiaries will, collectively, own all of the Timeshare 
+Assets (as defined herein) and assume (or retain) all of the Timeshare 
+Liabilities (as defined herein) and (ii) for HLT to distribute to the 
+holders of its common stock, par value $0.01 per share (HLT Common Stock
+), on a pro rata basis (in each case without consideration being paid by 
+such stockholders) (A) all of the outstanding shares of common stock, par 
+value $0.01 per share, of PK (the PK Common Stock), and (B) all of the 
+outstanding shares of common stock, par value $0.01 per share, of HGV (the 
+HGV Common Stock) (such transactions as they may be amended or modified 
+from time to time, collectively, the Plan of Reorganization); and
+
+WHEREAS, it is the intention of the Parties that each of the distributions 
+by HLT of all of the PK Common Stock (the PK Distribution) and HGV Common 
+Stock (the HGV Distribution and together with the PK Distribution, the 
+External Distributions) qualifies as a tax-free distribution within the 
+meaning of Section 355 of the Internal Revenue Code of 1986, as amended 
+(the Code).
+
+NOW, THEREFORE, in consideration of the foregoing and the terms, 
+conditions, covenants and provisions of this Agreement, each of the Parties 
+mutually covenant and agree as follows:
+
+------------------------------------------------------------------------
+ARTICLE I
+
+DEFINITIONS AND INTERPRETATION
+
+Section 1.1 Definitions. As used in this Agreement, the following terms 
+shall have the following meanings:
+
+(1) Acquisition means an acquisition for purposes of Section 355(e) of 
+the Code of stock of the applicable Spinoff Party, or issuance by a Spinoff 
+Party of any options or other instruments that grant the holder a right 
+(including if such Spinoff Party has a right to settle the obligation with 
+property other than stock of such Spinoff Party) to complete such an 
+acquisition. The terms Acquire and Acquired have a corresponding 
+meaning. For purposes of determining whether and to what extent a 
+transaction shall be taken into account for purposes of this definition, 
+any recapitalization or other action resulting in a shift of voting power 
+or any redemption or repurchase of shares of stock shall be treated as an 
+indirect acquisition of shares of stock by the benefitted or non-exchanging 
+stockholders.
+
+(2) Additional Blackstone Entity means any Blackstone Entity designated 
+as an Additional Blackstone Entity on Schedule I hereto.
+
+(3) Affiliate means a Person that directly, or indirectly, through one or 
+more intermediaries, controls, or is controlled by, or is under common 
+control with, a specified Person. A Person shall be deemed to control 
+another Person if such first Person possesses, directly or indirectly, the 
+power to direct, or cause the direction of, the management and policies of 
+such other Person, whether through the ownership of voting securities, by 
+contract or otherwise. For purposes hereof, none of the Spinoff Parties or 
+their respective Subsidiaries shall be considered an Affiliate of any of 
+the other Parties or their respective Subsidiaries (determined on the same 
+basis). For the avoidance of doubt, for purposes hereof, neither The 
+Blackstone Group L.P. (nor any of its Affiliates) shall be considered an 
+Affiliate of any of the Spinoff Parties or their respective Subsidiaries.
+
+(4) Agreement has the meaning set forth in the preamble hereto.
+
+(5) Ancillary Agreement has the meaning set forth in the Distribution 
+Agreement.
+
+(6) Big Four Accounting Firm means each of Deloitte & Touche LLP, Ernst & 
+Young LLP, KPMG LLP, and PricewaterhouseCoopers LLP.
+
+(7) Blackstone Acquisition has the meaning set forth in Section 2.1(a).
+
+(8) Blackstone Applicable Percentage means, with respect to a Spinoff 
+Party, the percentage shift in ownership equal to the greater of (a) the 
+percentage determined by dividing (i) the value of all shares of such 
+Spinoff Party (as of immediately after the Distribution) transferred in one 
+or more Dispositions of stock of such Spinoff Party occurring on or after 
+the Distribution Date by (ii) the value of all outstanding stock of such 
+Spinoff Party as of immediately after the Distribution, or (b) the 
+percentage determined by dividing (i) the total combined voting power of 
+all shares of such Spinoff Party (as of immediately after the Distribution) 
+transferred in one or more Dispositions of stock of such Spinoff Party 
+occurring on
+ 
+2
+
+------------------------------------------------------------------------
+or after the Distribution Date by (ii) the total combined voting power of 
+all outstanding stock of such Spinoff Party as of immediately after the 
+Distribution. The amount set forth in (a)(ii) or (b)(ii) shall be reduced 
+by any redemption or repurchase (directly or indirectly) by a Spinoff Party 
+(or any of its Subsidiaries) of HLT Common Stock, PK Common Stock or HGV 
+Common Stock, as applicable, following the Distribution and prior to the 
+last such Disposition (with such reduction calculated in the case of 
+(a)(ii) by using the value of the applicable stock as of immediately after 
+the Distribution). This definition and the application thereof is intended 
+to monitor compliance with Section 355(e) of the Code and the Treasury 
+Regulations promulgated thereunder and shall be interpreted accordingly by 
+the Parties in good faith.
+
+(9) Blackstone Entity means any of the entities listed on Schedule I 
+hereto and any successors thereto.
+
+(10) Blackstone-HGV Applicable Percentage means the Blackstone Applicable 
+Percentage with respect to HGV.
+
+(11) Blackstone-HGV Percentage Shift Limit means             %1, as 
+adjusted from time to time by mutual written consent of the Blackstone 
+Representative and HGV or under Section 2.3 or Section 4.5; provided, 
+however, that the sum of the Blackstone-HGV Percentage Shift Limit and the 
+HGV Percentage Shift Limit immediately after such adjustments must equal 
+such sum immediately before such adjustments; provided further, that if the 
+Blackstone Representative has actual knowledge that the HGV Applicable 
+Percentage exceeds the HGV Percentage Shift Limit, the Blackstone-HGV 
+Percentage Shift Limit shall be reduced by such excess (without prejudice 
+to any rights or remedies any Blackstone Holder or any other Party may 
+have).
+
+(12) Blackstone-HLT Applicable Percentage means the Blackstone Applicable 
+Percentage with respect to HLT.
+
+(13) Blackstone-HLT Percentage Shift Limit means             %2, as 
+adjusted from time to time by mutual written consent of the Blackstone 
+Representative and HLT or under Section 2.3 or Section 4.5; provided, 
+however, that the sum of the Blackstone-HLT Percentage Shift Limit and the 
+HLT Percentage Shift Limit immediately after such adjustments must equal 
+such sum immediately before such adjustments; provided further, that if the 
+Blackstone Representative has actual knowledge that the HLT Applicable 
+Percentage exceeds the HLT Percentage Shift Limit, the Blackstone-HLT 
+Percentage Shift Limit shall be reduced by such excess (without prejudice 
+to any rights or remedies any Blackstone Holder or any other Party may 
+have).
+ 
+ 
+1  	The Blackstone-HGV Percentage Shift Limit, the Blackstone-HLT 
+Percentage Shift Limit, and the Blackstone-PK Percentage Shift Limit will 
+be (i) 40.66% if the closing of the transactions contemplated by that 
+certain Stock Purchase Agreement dated as of October 24, 2016 among HNA 
+Tourism Group Co., Ltd., and the Seller Parties named therein (the HNA 
+Stock Purchase Agreement and the closing, the SPA Closing) has not 
+occurred as of the Distribution Date and (ii) 15.65% if the SPA Closing has 
+occurred as of the Distribution Date. If, after October 24, 2016 but prior 
+to the Distribution Date, the Blackstone Holders have disposed of shares of 
+HLT Common Stock in one or more transactions other than the disposition 
+pursuant to the HNA Stock Purchase Agreement, the limit described in the 
+preceding sentence will be reduced by the percentage of HLT Common Stock 
+that is the subject of such disposition or dispositions.
+2  	See footnote 1.
+ 
+3
+
+------------------------------------------------------------------------
+(14) Blackstone Holder means any Blackstone Entity designated as a 
+Blackstone Holder on Schedule I hereto.
+
+(15) Blackstone-PK Applicable Percentage means the Blackstone Applicable 
+Percentage with respect to PK.
+
+(16) Blackstone-PK Percentage Shift Limit means             %3, as 
+adjusted from time to time in connection with an adjustment to PK 
+Applicable Percentage pursuant to the terms of the Tax Matters Agreement or 
+under Section 5.4(f) or (g) of the Tax Matters Agreement; provided, 
+however, that the sum of the Blackstone-PK Percentage Shift Limit and the 
+PK Percentage Shift Limit immediately after such adjustments must equal 
+such sum immediately before such adjustments; provided further, that if the 
+Blackstone Representative has actual knowledge that the PK Applicable 
+Percentage exceeds the PK Percentage Shift Limit, the Blackstone-PK 
+Percentage Shift Limit shall be reduced by such excess.
+
+(17) Blackstone Representative means Tyler Henritze, or such other person 
+as the Blackstone Holders may designate.
+
+(18) Blackstone Restructuring has the meaning set forth in Section 4.1.
+
+(19) Board has the meaning set forth in the recitals hereto.
+
+(20) Code has the meaning set forth in the recitals hereto.
+
+(21) Delaware Courts has the meaning set forth in Section 5.15.
+
+(22) Disposition has the meaning set forth in Section 2.1(a). The terms 
+Dispose and Disposed have a corresponding meaning.
+
+(23) Distribution or Distributions means, individually or collectively, 
+the Internal Distributions and the External Distributions.
+
+(24) Distribution Agreement means the Distribution Agreement by and among 
+HLT, PK, HGV and OpCo dated as of             .
+
+(25) Distribution Date means the date on which the Distributions to 
+holders of record of shares of HLT Common Stock of the HGV Common Stock and 
+the PK Common Stock owned by HLT are effectuated pursuant to the 
+Distribution Agreement.
+
+(26) Effective Time has the meaning set forth in the Distribution 
+Agreement.
+
+(27) External Distributions has the meaning set forth in the recitals 
+hereto.
+
+(28) HGV has the meaning set forth in the recitals hereto.
+ 
+ 
+3  	See footnote 1.
+ 
+4
+
+------------------------------------------------------------------------
+(29) HGV Applicable Percentage means the percentage shift in ownership 
+equal to the greater of (a) the percentage determined by dividing (i) the 
+value of all shares of HGV stock (as of immediately after the Distribution) 
+Acquired pursuant to one or more Issuances of HGV stock occurring on or 
+after the Distribution Date by (ii) the value of all outstanding stock of 
+HGV as of immediately after the Distribution, or (b) the percentage 
+determined by dividing (i) the total combined voting power of all shares of 
+HGV stock (as of immediately after the Distribution) Acquired pursuant to 
+one or more Issuances of HGV stock occurring on or after the Distribution 
+Date by (ii) the total combined voting power of all outstanding stock of 
+HGV as of immediately after the Distribution. The amount set forth in 
+(a)(ii) or (b)(ii) shall be reduced by any redemption or repurchase 
+(directly or indirectly) by HGV (or its Subsidiaries) of HGV Common Stock 
+following the Distribution and prior to the last such Issuance (with such 
+reduction calculated in the case of (a)(ii) by using the value of the 
+applicable stock as of immediately after the Distribution). This definition 
+and the application thereof is intended to monitor compliance with Section 
+355(e) of the Code and the Treasury Regulations promulgated thereunder and 
+shall be interpreted accordingly by the Parties in good faith.
+
+(30) HGV Common Stock has the meaning set forth in the recitals hereto.
+
+(31) HGV Distribution has the meaning set forth in the recitals hereto.
+
+(32) HGV Group has the meaning set forth in the Distribution Agreement.
+
+(33) HGV Percentage Shift Limit means 8.34%, as adjusted from time to 
+time by mutual written consent of the Blackstone Representative and HGV or 
+under Section 2.3 or Section 4.5; provided, however, that the sum of the 
+Blackstone-HGV Percentage Shift Limit and the HGV Percentage Shift Limit 
+immediately after such adjustments must equal such sum immediately before 
+such adjustments; provided further, that if HGV has actual knowledge that 
+the Blackstone-HGV Applicable Percentage exceeds the Blackstone-HGV 
+Percentage Shift Limit, the HGV Percentage Shift Limit shall be reduced by 
+such excess (without prejudice to any rights or remedies HGV or any other 
+Party may have).
+
+(34) HLT has the meaning set forth in the preamble of this Agreement.
+
+(35) HLT Applicable Percentage means the percentage shift in ownership 
+equal to the greater of (a) the percentage determined by dividing (i) the 
+value of all shares of HLT stock (as of immediately after the Distribution) 
+Acquired pursuant to one or more Issuances of HLT stock occurring on or 
+after the Distribution Date by (ii) the value of all outstanding stock of 
+HLT as of immediately after the Distribution, or (b) the percentage 
+determined by dividing (i) the total combined voting power of all shares of 
+HLT stock (as of immediately after the Distribution) Acquired pursuant to 
+one or more Issuances of HLT stock occurring on or after the Distribution 
+Date by (ii) the total combined voting power of all outstanding stock of 
+HLT as of immediately after the Distribution. The amount set forth in 
+(a)(ii) or (b)(ii) shall be reduced by any redemption or repurchase 
+(directly or indirectly) by HLT (or its Subsidiaries) of HLT Common Stock 
+following the Distribution and prior to the last such Issuance (with such 
+reduction calculated in the case of (a)(ii) by using the value of the 
+applicable stock as of immediately after the Distribution). This definition 
+and the application thereof is intended to monitor compliance with Section 
+355(e) of the Code and the Treasury Regulations promulgated thereunder and 
+shall be interpreted accordingly by the Parties in good faith.
+ 
+5
+
+------------------------------------------------------------------------
+(36) HLT Common Stock has the meaning set forth in the Distribution 
+Agreement.
+
+(37) HLT Group has the meaning set forth in the Distribution Agreement.
+
+(38) HLT Percentage Shift Limit means 8.34%, as adjusted from time to 
+time by mutual written consent of the Blackstone Representative and HLT or 
+under Section 2.3 or Section 4.5; provided, however, that the sum of the 
+Blackstone-HLT Percentage Shift Limit and the HLT Percentage Shift Limit 
+immediately after such adjustments must equal such sum immediately before 
+such adjustments; provided further, that if HLT has actual knowledge that 
+the Blackstone-HLT Applicable Percentage exceeds the Blackstone-HLT 
+Percentage Shift Limit, the HLT Percentage Shift Limit shall be reduced by 
+such excess (without prejudice to any rights or remedies HLT or any other 
+Party may have).
+
+(39) HLT Retained Assets has the meaning set forth in the Distribution 
+Agreement.
+
+(40) HLT Retained Business has the meaning set forth in the Distribution 
+Agreement.
+
+(41) HLT Retained Liabilities has the meaning set forth in the 
+Distribution Agreement.
+
+(42) In Parallel describes one or more Dispositions by a Blackstone 
+Entity if and only if such Dispositions (i) result in the disposition of 
+proportionate or almost proportionate amounts of HLT Common Stock, PK 
+Common Stock and HGV Common Stock (e.g., a sale by a Blackstone Entity of 
+5% of its HLT stock would require a sale by such Blackstone Entity (or its 
+parallel Additional Blackstone Entity) of 5% of its (or such parallel 
+Additional Blackstone Entitys) PK stock and 5% of its HGV stock), (ii) 
+commenced at the same time and as part of the same plan, (iii) completed 
+within a single taxable year of such Blackstone Entity, and (iv) all in the 
+same form of transaction, for example, all in the form of a sale or all in 
+the form of a distribution. The determination of whether one or more 
+Dispositions by a Blackstone Entity are In Parallel shall be made taking 
+into account only those shares of HLT Common Stock, PK Common Stock and HGV 
+Common Stock owned by such Blackstone Entity on the Distribution Date. For 
+the avoidance of doubt, one or more Dispositions shall not fail to meet the 
+requirements of (i) solely because such Dispositions include, in addition 
+to a proportionate or almost proportionate amount of PK Common Stock owned 
+on the Distribution Date, an amount of PK Common Stock received in the 
+Purging Distribution.
+
+(43) Internal Distributions has the meaning set forth in the Tax Matters 
+Agreement.
+
+(44) IRS means the United States Internal Revenue Service or any 
+successor thereto, including, but not limited to its agents, 
+representatives, and attorneys.
+
+(45) Issuance has the meaning set forth in Section 2.1(b).
+
+(46) Issuer has the meaning set forth in Section 2.1(b).
+ 
+6
+
+------------------------------------------------------------------------
+(47) Law means any U.S. or non-U.S. federal, national, supranational, 
+state, provincial, local or similar statute, law, ordinance, regulation, 
+rule, code, administrative pronouncement, order, requirement or rule of law 
+(including common law), or any income tax treaty.
+
+(48) Margin Loan Agreement means that certain Margin Loan Agreement dated 
+as of June 30, 2014 among HLT Holdco III LLC, as borrower, the Margin Loan 
+Lenders party thereto, and Morgan Stanley Bank International Limited, as 
+Administrative Agent and any related security agreements, control 
+agreements, issuer agreements and guarantees, in each case as amended, 
+supplemented or modified from time to time.
+
+(49) Margin Loan Collateral has the meaning given to the term 
+Collateral in the Margin Loan Agreement.
+
+(50) Margin Loan Event of Default has the meaning given to the term 
+Event of Default in the Margin Loan Agreement.
+
+(51) Margin Loan Lender has the meaning given to the term Lender in the 
+Margin Loan Agreement.
+
+(52) Ownership Assets has the meaning set forth in the Tax Matters 
+Agreement.
+
+(53) Ownership Business has the meaning set forth in the Distribution 
+Agreement.
+
+(54) Ownership Liabilities has the meaning set forth in the Distribution 
+Agreement.
+
+(55) Party has the meaning set forth in the preamble hereto.
+
+(56) Person means any natural person, firm, individual, corporation, 
+business trust, joint venture, association, company, limited liability 
+company, partnership, or other organization or entity, whether incorporated 
+or unincorporated, or any governmental entity.
+
+(57) PK has the meaning set forth in the recitals hereto.
+
+(58) PK Applicable Percentage has the meaning set forth in the Tax 
+Matters Agreement.
+
+(59) PK Distribution has the meaning set forth in the recitals hereto.
+
+(60) PK Percentage Shift Limit has the meaning set forth in the Tax 
+Matters Agreement.
+
+(61) PK Common Stock has the meaning set forth in the recitals hereto.
+
+(62) Plan of Reorganization has the meaning set forth in the recitals 
+hereto.
+
+(63) Purging Distribution means any distribution made by PK in order to 
+comply with the requirements of Section 857(a)(2)(B) of the Code.
+ 
+7
+
+------------------------------------------------------------------------
+(64) Qualified Tax Advisor means any Big Four Accounting Firm or any law 
+firm of nationally recognized standing.
+
+(65) Reallocation Event means any Acquisition during the Restricted 
+Period of the stock of a Spinoff Party (other than a Disposition or an 
+Issuance) that could reasonably be viewed as increasing the ownership shift 
+with respect to such Spinoff Party for purposes of Section 355(e) of the 
+Code, taking into account any available safe harbors under Treasury 
+Regulations Section 1.355-7 (and the amount of such increase, the 
+Reallocation Event Reduction). This definition and the application thereof 
+is intended to monitor compliance with Section 355(e) of the Code and the 
+Treasury Regulations promulgated thereunder and shall be interpreted 
+accordingly by the Parties in good faith.
+
+(66) REIT means a real estate investment trust within the meaning of 
+Section 856(a) of the Code.
+
+(67) Reorganization Slide Deck has the meaning set forth in the Tax 
+Matters Agreement.
+
+(68) Restricted Period means the two-year period beginning on the 
+Distribution Date.
+
+(69) Spinoff Party has the meaning set forth in the preamble hereto.
+
+(70) Subsidiary has the meaning set forth in the Distribution Agreement.
+
+(71) Tax Matters Agreement means that certain Tax Matters Agreement by 
+and among HLT, PK, HGV and Hilton Domestic Operating Company Inc., a 
+Delaware corporation, dated as of                         .
+
+(72) Timeshare Assets has the meaning set forth in the Tax Matters 
+Agreement.
+
+(73) Timeshare Business has the meaning set forth in the Distribution 
+Agreement.
+
+(74) Timeshare Liabilities has the meaning set forth in Distribution 
+Agreement.
+
+(75) Unqualified 355(e) Opinion means, with respect to a Disposition, 
+Blackstone Acquisition, Issuance or Reallocation Event, an unqualified 
+will opinion (or, with respect to Issuance or Reallocation Event, in 
+either case with respect to which HLT delivers the opinion, a will or 
+should opinion) of a Qualified Tax Advisor addressed to HLT and in form 
+and substance reasonably satisfactory to HLT, without substantive 
+qualifications, to the effect that such Disposition, Blackstone 
+Acquisition, Issuance (including any future Issuance of stock pursuant to 
+an option or other instrument that grants the holder a right (including if 
+the Issuer has a right to settle the obligation with property other than 
+stock of such Issuer) to complete an Acquisition) or Reallocation Event 
+will not be part of a plan (or series of related transactions) within the 
+meaning of Section 355(e) of the Code involving the Distributions.
+ 
+8
+
+------------------------------------------------------------------------
+(76) Unqualified Device Opinion means, with respect to a Disposition, an 
+unqualified will opinion of a Qualified Tax Advisor addressed to HLT, in 
+form and substance reasonably satisfactory to HLT, without substantive 
+qualifications, to the effect that such Disposition will not cause any of 
+the Distributions to be considered to be used principally as a device for 
+the distribution of earnings and profits within the meaning of Section 
+355(a)(1)(B) of the Code, taking into account the facts and circumstances 
+as they exist at that time, including the existence of prior dispositions, 
+if any, and any planned or intended transactions as of such time.
+
+(77) U.S. means the United States of America.
+
+Section 1.2 References; Interpretation.
+
+(a) Terms not otherwise defined herein shall have the meaning ascribed to 
+them in the Distribution Agreement. References in this Agreement to any 
+gender include references to all genders, and references to the singular 
+include references to the plural and vice versa. Unless the context 
+otherwise requires, the words include, includes, and including when 
+used in this Agreement shall be deemed to be followed by the phrase 
+without limitation. Unless the context otherwise requires, references in 
+this Agreement to Articles, Sections, Exhibits and Schedules shall be 
+deemed references to Articles and Sections of, and Exhibits and Schedules 
+to, this Agreement. Unless the context otherwise requires, the words 
+hereof, hereby, and herein and words of similar meaning when used in 
+this Agreement refer to this Agreement in its entirety and not to any 
+particular Article, Section or provision of this Agreement. Unless the 
+context otherwise requires, the word stock or shares refers to any 
+equity interests of the applicable entity for U.S. federal income tax 
+purposes and any references to a Person include a reference to any 
+successor to such Person.
+
+Section 1.3 Effective Time.
+
+(a) The agreements contained herein, including, but not limited to, the 
+certain restrictions on the transfer and other actions with respect to HLT 
+Common Stock, PK Common Stock and HGV Common Stock shall be effective upon 
+the Distribution Date.
+
+
+ARTICLE II
+
+SECTION 355(E) RESTRICTIONS
+
+Section 2.1 General.
+
+(a) During the Restricted Period, (i) the Blackstone Holders shall not, and 
+shall cause the other Blackstone Entities not to, permit any person to 
+sell, transfer or otherwise dispose of interests in any Blackstone Entity 
+unless such disposition is described in Treasury Regulations Section 
+1.355-7(d)(7)(i) and (ii) the Blackstone Holders shall not, and shall cause 
+the other Blackstone Entities not to, directly or indirectly dispose of any 
+HLT Common Stock, PK Common Stock or HGV Common Stock, including through 
+the issuance of an interest in any Blackstone Entity (any such sale, 
+transfer or disposition described in (i) or (ii), a Disposition); 
+provided, however, that no transaction entered into by a Spinoff Party 
+shall constitute a Disposition. During the Restricted Period, the 
+Blackstone Holders shall not, and shall cause the other Blackstone Entities 
+not to, Acquire any HLT stock, PK stock or HGV stock (such Acquisition, a 
+Blackstone Acquisition); provided that the foregoing shall not be 
+applicable to any Acquisition resulting from action by a Spinoff Party or a 
+Subsidiary thereof.
+ 
+9
+
+------------------------------------------------------------------------
+(b) During the Restricted Period, neither HLT nor HGV (each, an Issuer) 
+may issue any of its stock or take any action with respect to its stock 
+that would cause an Acquisition (including redemptions or repurchases), or 
+issue any options or other instruments that grant the holder a right 
+(including if such Issuer has a right to settle the obligation with 
+property other than stock of such Issuer) to complete an Acquisition (any 
+such issuance or other transaction, an Issuance); provided that, HGV 
+shall have no right to enforce this Section 2.1(b) against HLT.
+
+Section 2.2 Exceptions for Applicable Percentage, Safe Harbor VIII and 
+Unqualified 355(e) Opinion.
+
+(a) Applicable Percentage. Notwithstanding Section 2.1, but subject to 
+Article III,
+
+(i) a Disposition of HLT Common Stock shall be permitted if, immediately 
+after such Disposition, the Blackstone-HLT Applicable Percentage will be 
+less than or equal to the Blackstone-HLT Percentage Shift Limit;
+
+(ii) a Disposition of PK Common Stock shall be permitted if, immediately 
+after such Disposition, the Blackstone-PK Applicable Percentage will be 
+less than or equal to the Blackstone-PK Percentage Shift Limit;
+
+(iii) a Disposition of HGV Common Stock shall be permitted if, immediately 
+after such Disposition, the Blackstone-HGV Applicable Percentage will be 
+less than or equal to the Blackstone-HGV Percentage Shift Limit;
+
+(iv) an Issuance by HLT shall be permitted if, immediately after such 
+Issuance, the HLT Applicable Percentage will be less than or equal to the 
+HLT Percentage Shift Limit; and
+
+(v) an Issuance by HGV shall be permitted if, immediately after such 
+Issuance, the HGV Applicable Percentage will be less than or equal to the 
+HGV Percentage Shift Limit.
+
+(b) Safe Harbor VIII. Notwithstanding Section 2.1(b), an Issuance shall be 
+permitted where such Issuance (or the related issuance of stock in the case 
+of an option issuance) is described in Treasury Regulations Section 
+1.355-7(d)(8) (other than an Issuance made in connection with a merger or 
+other acquisition transaction by a third party of the relevant Issuers 
+stock; provided, that no Issuance will be deemed to be connected with an 
+acquisition pursuant to a secondary sale for cash of Issuer stock by one or 
+more Blackstone Entities in a public offering).
+
+(c) Unqualified 355(e) Opinion. Notwithstanding Section 2.1, but subject to 
+Article III, a Disposition, Blackstone Acquisition or Issuance, as the case 
+may be, shall be permitted if the Blackstone Representative (in the case of 
+a Disposition or Blackstone Acquisition) or Issuer (in the case of an 
+Issuance) provides an Unqualified 355(e) Opinion to HLT; provided, further
+, that in the case of an Issuance of stock pursuant to an exercise of an 
+option or other instrument that grants the holder a right (including if the 
+Issuer has a right to settle the obligation with property other than stock 
+of such Issuer) to complete such an acquisition, such Issuance shall be 
+permitted if the Issuer provided an Unqualified 355(e) Opinion to HLT in 
+respect of the Issuance of such option or other instrument.
+ 
+10
+
+------------------------------------------------------------------------
+Section 2.3 Blackstone Ownership Shift due to Issuance. During the 
+Restricted Period, if a proposed Issuance is a redemption or repurchase, 
+then, immediately before such Issuance, (i) the Blackstone-HLT Percentage 
+Shift Limit or Blackstone-HGV Percentage Shift Limit (as applicable) shall 
+be increased or decreased (but not below the Blackstone-HLT Applicable 
+Percentage or Blackstone-HGV Applicable Percentage, respectively, as of 
+immediately before such Issuance) such that the number of shares permitted 
+to be Disposed of under Section 2.2(a)(i) or (a)(iii) remains unchanged 
+immediately after such Issuance (other than to reflect shares of the 
+relevant Issuer actually redeemed or repurchased from the Blackstone 
+Entities pursuant to such Issuance), and (ii) the HLT Percentage Shift 
+Limit or HGV Percentage Shift Limit (as applicable) shall be decreased (in 
+the case of an increase in clause (i), but not below the HLT Applicable 
+Percentage or HGV Applicable Percentage, respectively, as of immediately 
+before such Issuance) or increased (in the case of a decrease in clause 
+(i)) by the amount set forth in clause (i). If clause (ii) calls for a 
+reduction in the HLT Percentage Shift Limit or HGV Percentage Shift Limit 
+(as applicable) and the amount of such reduction would be limited by the 
+parenthetical therein, then, notwithstanding any other provision of this 
+Agreement (including Section 2.2(c)), the relevant Issuer shall not 
+undertake such Issuance without the written consent of the Blackstone 
+Representative; provided that in the event the Blackstone Representative so 
+consents, the amount of the increase set forth in (i) shall not exceed the 
+amount of the decrease set forth in clause (ii). For the avoidance of 
+doubt, an Issuance that satisfies the requirements of this Section 2.3 
+remains subject to the provisions of this Agreement, including, without 
+limitation, Sections 2.1(b) and 2.2(a)(iv) and (a)(v). For the avoidance of 
+doubt, if a proposed Issuance is not consummated, the Blackstone-HLT 
+Percentage Shift Limit and HLT Percentage Shift Limit, or Blackstone-HGV 
+Percentage Shift Limit and HGV Percentage Shift Limit, as applicable shall 
+not be adjusted pursuant to this Section 2.3 as a result of such proposed 
+Issuance.
+
+Section 2.4 Special Rule. Any Disposition or Issuance which is permitted 
+pursuant to Section 2.2(b) or (c) shall be disregarded for purposes clauses 
+(a)(i) and (b)(i) of the definition of Blackstone-HLT Applicable 
+Percentage, Blackstone-PK Applicable Percentage, Blackstone-HGV Applicable 
+Percentage, HLT Applicable Percentage or HGV Applicable Percentage, as 
+applicable.
+
+
+ARTICLE III
+
+DEVICE RESTRICTIONS
+
+Section 3.1 General. During the Restricted Period, the Blackstone Holders 
+shall cause the Blackstone Entities not to directly or indirectly dispose 
+of HLT Common Stock, PK Common Stock or HGV Common Stock.
+
+Section 3.2 Exceptions for In Parallel and Unqualified Device Opinion.
+
+(a) In Parallel. Notwithstanding Section 3.1, but subject to Article II, 
+one or more Dispositions shall be permitted if such Dispositions are In 
+Parallel.
+ 
+11
+
+------------------------------------------------------------------------
+(b) Unqualified Device Opinion. Notwithstanding Section 3.1, but subject to 
+Article II, a Disposition shall be permitted if the Blackstone 
+Representative provides an Unqualified Device Opinion to HLT.
+
+
+ARTICLE IV
+
+ADDITIONAL RULES
+
+Section 4.1 Plan of Reorganization and Blackstone Restructuring. For the 
+avoidance of doubt, this Agreement does not impose any restrictions of any 
+kind on the consummation of the transactions set forth in the Plan of 
+Reorganization, the Reorganization Slide Deck or that certain series of 
+transactions relating to the Blackstone Entities previously described by 
+the Blackstone Holders to HLT (such series of transactions, the 
+Blackstone Restructuring).
+
+Section 4.2 Representation Regarding Blackstone Restructuring. Each of the 
+Blackstone Holders represents and warrants to HLT and HGV that (i) the 
+ultimate indirect ownership of HLT Common Stock, PK Common Stock and HGV 
+Common Stock held by each Blackstone Entity will remain unchanged as a 
+result of the Blackstone Restructuring and (ii) the transactions comprising 
+the Blackstone Restructuring are tax-free for U.S. federal income tax 
+purposes.
+
+Section 4.3 Joint and Several Liability. The Blackstone Holders shall be 
+jointly and severally liable for all of their respective obligations 
+pursuant to Article II and Article III of this Agreement.
+
+Section 4.4 Margin Loan. Notwithstanding anything to the contrary herein, 
+this Agreement shall not impose any restrictions of any kind on a 
+Disposition resulting from the exercise by any Margin Loan Lender of its 
+right to foreclosure or similar enforcement action on any of the Margin 
+Loan Collateral following the occurrence of a Margin Loan Event of Default; 
+provided that immediately after such foreclosure or similar enforcement 
+action, the Blackstone-HLT Applicable Percentage, Blackstone-PK Applicable 
+Percentage and/or Blackstone-HGV Applicable Percentage, as applicable, 
+shall be increased to reflect such foreclosure or similar enforcement 
+action. Notwithstanding the foregoing, if the Blackstone Representative or 
+a Spinoff Party provides an Unqualified 355(e) Opinion with respect to such 
+foreclosure or similar enforcement action to HLT, such foreclosure or 
+similar enforcement action shall not increase the relevant Blackstone 
+Applicable Percentage.
+
+Section 4.5 Reallocation Event. Upon a Reallocation Event with respect to 
+HLT stock or HGV stock, the Blackstone Representative, on the one hand, and 
+the relevant Spinoff Party, on the other, shall use reasonable efforts to 
+allocate the Reallocation Event Reduction to and reduce the Blackstone-HLT 
+Percentage Shift Limit and/or HLT Percentage Shift Limit, or Blackstone-HGV 
+Percentage Shift Limit and/or HGV Percentage Shift Limit, as applicable. If 
+the Blackstone Representative and the relevant Spinoff Party do not agree 
+on an allocation, the Reallocation Event Reduction shall first be allocated 
+to and reduce the relevant HLT Percentage Shift Limit or HGV Percentage 
+Shift Limit (but not below the HLT Applicable Percentage or HGV Applicable 
+Percentage, respectively, as of the time of the Reallocation
+ 
+12
+
+------------------------------------------------------------------------
+Event). Any excess Reallocation Event Reduction shall be allocated to and 
+reduce the relevant Blackstone-HLT Percentage Shift Limit or Blackstone-HGV 
+Percentage Shift Limit (but not below the Blackstone-HLT Applicable 
+Percentage or Blackstone-HGV Applicable Percentage, respectively, as of the 
+time of the Reallocation Event). For the avoidance of doubt, the sum 
+(immediately before the Reallocation Event) of the Blackstone-HLT 
+Percentage Shift Limit and HLT Percentage Shift Limit, or Blackstone-HGV 
+Percentage Shift Limit and HGV Percentage Shift Limit, as applicable, shall 
+equal the sum (immediately after the Reallocation Event), of the 
+Reallocation Event Reduction plus the Blackstone-HLT Percentage Shift Limit 
+and HLT Percentage Shift Limit, or Blackstone-HGV Percentage Shift Limit 
+and HGV Percentage Shift Limit, as applicable. Notwithstanding anything to 
+the contrary in this Section 4.5, if the Blackstone Representative or the 
+relevant Spinoff Party provides an Unqualified 355(e) Opinion with respect 
+to a purported Reallocation Event to HLT, such purported Reallocation Event 
+shall not constitute a Reallocation Event.
+
+
+Section 4.6 Cooperation. The Parties shall reasonably cooperate (and, in 
+the case of HLT and HGV, cause the members of the HLT Group and the HGV 
+Group, respectively, to reasonably cooperate) in obtaining any Unqualified 
+Device Opinion or Unqualified 355(e) Opinion (including making reasonable 
+representations required in connection with any such opinion), including by 
+maintaining and making available to each other all records necessary in 
+connection with such opinions and making employees available on a mutually 
+convenient basis to provide additional information or explanation of any 
+material provided hereunder.
+
+
+Section 4.7 Effect of Rulings and Opinion on Section 355(e) Calculations. 
+For purposes of computing the (a) HLT Applicable Percentage, (b) HGV 
+Applicable Percentage, (c) Blackstone-HLT Applicable Percentage, (d) 
+Blackstone-HGV Applicable Percentage, (e) Blackstone-PK Applicable 
+Percentage or (f) Reallocation Event Reduction, any calculation of the 
+shift of ownership of one or more of the Spinoff Parties under Section 
+355(e) shall take into account (i) any IRS private letter ruling received 
+by one or more of the Spinoff Parties and/or the Blackstone Entities and 
+(ii) any unqualified will opinion of a Qualified Tax Advisor (or, with 
+respect to an opinion delivered by HLT, should opinion) addressed to HLT 
+and in form and substance reasonably satisfactory to HLT, without 
+substantive qualifications, in each case addressing the manner in which the 
+calculation of such shift is performed.
+
+
+ARTICLE V
+
+MISCELLANEOUS
+
+Section 5.1 Counterparts. This Agreement may be executed in more than one 
+counterpart, all of which shall be considered one and the same agreement, 
+and shall become effective when one or more such counterparts have been 
+signed by each of the Parties and delivered to the other Parties.
+
+
+Section 5.2 Survival. Except as otherwise contemplated by this Agreement or 
+the Distribution Agreement, all covenants and agreements of the Parties 
+contained in this Agreement shall survive the Distribution Date and remain 
+in full force and effect in accordance with their applicable terms.
+ 
+13
+
+------------------------------------------------------------------------
+Section 5.3 Notices. All notices, requests, claims, demands, and other 
+communications under this Agreement shall be in English, shall be in 
+writing and shall be given or made (and shall be deemed to have been duly 
+given or made upon receipt) by delivery in person, by overnight courier 
+service, by facsimile with receipt confirmed (followed by delivery of an 
+original via overnight courier service), or by registered or certified mail 
+(postage prepaid, return receipt requested) to the respective Parties at 
+the following addresses (or at such other address for a Party as shall be 
+specified in a notice given in accordance with this Section 5.3):
+
+To HLT:
+
+Hilton Worldwide Holdings Inc.
+7930 Jones Branch Drive, Suite 1100
+McLean, Virginia 22102
+Attn: General Counsel
+Facsimile: (703) 883-6188
+
+To HGV:
+
+Hilton Grand Vacations Inc.
+6355 MetroWest Boulevard, Suite 180
+Orlando, Florida 32835
+Attn: General Counsel
+Facsimile: (407) 722-3776
+
+To the Blackstone Holders:
+
+The Blackstone Group L.P.
+345 Park Avenue
+New York, New York
+Attn: Tyler Henritze
+Facsimile: (212) 583-5191
+
+Section 5.4 Waivers. Any consent required or permitted to be given by any 
+Party to the other Parties under this Agreement shall be in writing and 
+signed by the Party giving such consent and shall be effective only against 
+such Party.
+
+Section 5.5 Assignment. This Agreement may not be assigned without the 
+express prior written consent of the other parties hereto, and any 
+attempted assignment, without such consents, will be null and void; 
+provided, however, that, (i) without the prior written consent of HLT or 
+HGV, a Blackstone Entity may assign this Agreement to an Affiliate that 
+becomes a party hereto and (ii) this Agreement shall be assignable in whole 
+in connection with a merger or consolidation or the sale of all or 
+substantially all the assets of a Party hereto so long as the resulting, 
+surviving or transferee entity assumes all the obligations of the relevant 
+Party hereto by operation of law or pursuant to an agreement in form and 
+substance reasonably satisfactory to the other Parties to this Agreement.
+ 
+14
+
+------------------------------------------------------------------------
+Section 5.6 Successors and Assigns. The provisions of this Agreement and 
+the obligations and rights hereunder shall be binding upon, inure to the 
+benefit of and be enforceable by (and against) the Parties and their 
+respective successors and permitted transferees and assigns.
+
+Section 5.7 Termination and Amendment. This Agreement may not be terminated 
+or amended except by an agreement in writing signed by a duly authorized 
+representative of each of HLT, HGV and the Blackstone Representative (on 
+behalf of the Blackstone Holders). HLT and HGV agree not to amend Sections 
+5.4, 9.3 or 13.10 of the Tax Matters Agreement (or the relevant definitions 
+used in such Sections), or grant any waivers with respect thereto, without 
+the written consent of the Blackstone Representative (on behalf of the 
+Blackstone Holders).
+
+Section 5.8 No Circumvention. The Parties agree not to directly or 
+indirectly take any actions, act in concert with any Person who takes an 
+action, or cause or allow any Subsidiary of such Party to take any actions 
+(including the failure to take a reasonable action) such that the resulting 
+effect is to materially undermine the effectiveness of any of the 
+provisions of this Agreement, the Distribution Agreement or any Ancillary 
+Agreement.
+
+Section 5.9 Subsidiaries. Each of the Parties shall cause to be performed, 
+and hereby guarantees the performance of, all actions, agreements and 
+obligations set forth herein to be performed by any Subsidiary of such 
+Party or by any entity that becomes a Subsidiary of such Party on and after 
+the Effective Time, to the extent such Subsidiary remains a Subsidiary of 
+the applicable Party.
+
+Section 5.10 Third Party Beneficiaries. This Agreement is solely for the 
+benefit of the Parties and should not be deemed to confer upon third 
+parties any remedy, claim, liability, reimbursement, claim of action or 
+other right in excess of those existing without reference to this 
+Agreement; provided that the Blackstone Holders shall be jointly and 
+severally liable for any losses, costs, expenses, damages, claims and other 
+liabilities (including reasonable attorneys fees) incurred by PK or any of 
+its Affiliates arising, directly or indirectly, from or in connection with 
+any breach by any Blackstone Holder of its obligations hereunder.
+
+Section 5.11 Title and Headings. Titles and headings to sections herein are 
+inserted for the convenience of reference only and are not intended to be a 
+part of or to affect the meaning or interpretation of this Agreement.
+
+Section 5.12 Schedules. Any Schedules shall be construed with and as an 
+integral part of this Agreement to the same extent as if the same had been 
+set forth verbatim herein.
+
+Section 5.13 Specific Performance. In the event of any actual or threatened 
+default in, or breach of, any of the terms, conditions and provisions of 
+this Agreement, the Party who is or is to be thereby aggrieved shall have 
+the right to specific performance and injunctive or other equitable relief 
+of its rights under this Agreement, in addition to any and all other rights 
+and remedies at law or in equity, and all such rights and remedies shall be 
+cumulative. The Parties agree that the remedies at law for any breach or 
+threatened breach, including monetary damages, may be inadequate 
+compensation for any loss and that the Parties may be irreparably harmed as 
+a result. Accordingly, any defense in any action for specific performance 
+that a remedy at law would be adequate is waived. Any requirements for the 
+securing or posting of any bond with such remedy are waived by the Parties 
+to this Agreement.
+ 
+15
+
+------------------------------------------------------------------------
+Section 5.14 Governing Law. This Agreement shall be governed by and 
+construed in accordance with the Laws of the State of Delaware without 
+reference to any choice-of-law or conflicts of law principles that would 
+result in the application of the laws of a different jurisdiction.
+
+Section 5.15 Consent to Jurisdiction. Each of the Parties irrevocably 
+submits to the exclusive jurisdiction of (a) the Court of Chancery of the 
+State of Delaware and any appeals court thereof or (b) if such court does 
+not have subject matter jurisdiction, any other state or federal court 
+located within the County of New Castle in the State of Delaware and any 
+appeals court thereof (the courts referred to in clauses (a) and (b), the 
+Delaware Courts), for the purposes of any suit, action, or other 
+proceeding to compel arbitration or for provisional relief in aid of 
+arbitration or to prevent irreparable harm, and to the non-exclusive 
+jurisdiction of the Delaware Courts for the enforcement of any award issued 
+thereunder. Each of the Parties further agrees that service of any process, 
+summons, notice, or document by U.S. registered mail to such Partys 
+respective address set forth above shall be effective service of process 
+for any action, suit, or proceeding in the Delaware Courts with respect to 
+any matters to which it has submitted to jurisdiction in this Section 5.15. 
+Each of the Parties irrevocably and unconditionally waives any objection to 
+the laying of venue of any action, suit, or proceeding arising out of this 
+Agreement or the transactions contemplated hereby in the Delaware Courts, 
+and hereby further irrevocably and unconditionally waives and agrees not to 
+plead or claim in any such court that any such action, suit or proceeding 
+brought in any such court has been brought in an inconvenient forum.
+
+Section 5.16 Waiver of Jury Trial. EACH OF THE PARTIES HEREBY WAIVES TO THE 
+FULLEST EXTENT PERMITTED BY APPLICABLE LAW ANY RIGHT IT MAY HAVE TO A TRIAL 
+BY JURY WITH RESPECT TO ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT 
+OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS 
+CONTEMPLATED BY THIS AGREEMENT. EACH OF THE PARTIES HEREBY (A) CERTIFIES 
+THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS 
+REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN 
+THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) 
+ACKNOWLEDGES THAT IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE 
+TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT, AS APPLICABLE, BY, AMONG OTHER 
+THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 5.16.
+
+Section 5.17 Force Majeure. No Party (or any Person acting on its behalf) 
+shall have any liability or responsibility for failure to fulfill any 
+obligation (other than a payment obligation) under this Agreement so long 
+as and to the extent to which the fulfillment of such obligation is 
+prevented, frustrated, hindered, or delayed as a consequence of 
+circumstances of Force Majeure (as defined in the Distribution Agreement). 
+A Party claiming the benefit of this provision shall, as soon as reasonably 
+practicable after the occurrence of any such event: (a) notify the other 
+applicable Parties of the nature and extent of any such Force Majeure 
+condition and (b) use due diligence to remove any such causes and resume 
+performance under this Agreement as soon as feasible.
+ 
+16
+
+------------------------------------------------------------------------
+Section 5.18 Interpretation. The Parties have participated jointly in the 
+negotiation and drafting of this Agreement. This Agreement shall be 
+construed without regard to any presumption or rule requiring construction 
+or interpretation against the party drafting or causing any instrument to 
+be drafted.
+
+Section 5.19 Changes in Law.
+
+(a) Any reference to a provision of the Code, Treasury Regulations, or a 
+Law of another jurisdiction shall include a reference to any applicable 
+successor provision or Law.
+
+(b) If, due to any change in applicable Law or regulations or their 
+interpretation by any court of Law or other governing body having 
+jurisdiction subsequent to the date hereof, performance of any provision of 
+this Agreement or any transaction contemplated hereby shall become 
+impracticable or impossible, the Parties hereto shall use their 
+commercially reasonable best efforts to find and employ an alternative 
+means to achieve the same or substantially the same result as that 
+contemplated by such provision.
+
+Section 2.20 Severability. In the event any one or more of the provisions 
+contained in this Agreement should be held invalid, illegal or 
+unenforceable in any respect, the validity, legality and enforceability of 
+the remaining provisions contained herein and therein shall not in any way 
+be affected or impaired thereby. The Parties shall endeavor in good-faith 
+negotiations to replace the invalid, illegal or unenforceable provisions 
+with valid provisions, the economic effect of which comes as close as 
+possible to that of the invalid, illegal or unenforceable provisions.
+
+Section 5.21 No Waiver. No failure to exercise and no delay in exercising, 
+on the part of any Party, any right, remedy, power or privilege hereunder 
+shall operate as a waiver hereof or thereof; nor shall any single or 
+partial exercise of any right, remedy, power or privilege hereunder 
+preclude any other or further exercise thereof or the exercise of any other 
+right, remedy, power or privilege. No waiver shall be effective unless it 
+is in writing and is signed by the Party asserted to have granted such 
+waiver.
+
+Section 5.22 No Duplication; No Double Recovery. Nothing in this Agreement 
+is intended to confer to or impose upon any Party a duplicative right, 
+entitlement, obligation, or recovery with respect to any matter arising out 
+of the same facts and circumstances.
+
+Section 5.23 No Recourse. This Agreement may only be enforced against, and 
+any claims or cause of action that may be based upon, arise out of or 
+relate to this Agreement, or the negotiation, execution or performance of 
+this Agreement may only be made against the entities that are expressly 
+identified as parties hereto and no past, present or future Affiliate, 
+director, officer, employee, incorporator, member, manager, partner, 
+stockholder, agent, attorney or representative of any party hereto or any 
+of the foregoing shall have any liability for any obligations or 
+liabilities of the parties to this Agreement or for any claim based on, in 
+respect of, or by reason of, the transactions contemplated hereby.
+ 
+17
+
+------------------------------------------------------------------------
+[Remainder of Page Intentionally Left Blank]
+ 
+18
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be 
+executed the day and year first above written.
+ 
+HILTON WORLDWIDE HOLDINGS INC.
+ 
+ 
+Name:
+Title:
+HILTON GRAND VACATIONS INC.
+ 
+ 
+Name:
+Title:
+HLT A23 BREH VI HOLDCO LLC
+By: Blackstone Real Estate Holdings VI L.P., its sole member
+By: BREP VI Side-by-Side GP L.L.C., its general partner.
+ 
+ 
+Name:
+Title:
+HLT BREH VI HOLDCO LLC
+By: HLT BREH VI Holdings Holdco LLC, its controlling member
+ 
+ 
+Name:
+Title:
+
+------------------------------------------------------------------------
+HLT BREH INTL II HOLDCO LLC
+By: HLT BREH Intl II Holdings Holdco LLC, its sole member
+ 
+ 
+Name:
+Title:
+HLT A23 HOLDCO LLC
+By: Blackstone A23 Holdings LLC, its sole member
+ 
+ 
+Name:
+Title:
+HLT BREP VI.TE.2 HOLDCO LLC
+By: Blackstone Real Estate Partners VI.TE.2 L.P., its sole member
+By: Blackstone Real Estate Associates VI L.P., its general partner
+By: BREA VI L.L.C., its general partner.
+ 
+ 
+Name:
+Title:
+HLT HOLDCO III, LLC
+By: HLT Holdco II LLC, its sole member
+ 
+ 
+Name:
+Title:
+ 
+2
+
+------------------------------------------------------------------------
+HLT HOLDCO II, LLC
+By: HLT Holdco LLC, its sole member
+ 
+ 
+Name:
+Title:
+HLT A23 BREH VI HOLDCO PRIME LLC
+By: Blackstone Real Estate Holdings VI L.P., its sole member
+By: BREP VI Side-by-Side GP L.L.C., its general partner
+ 
+ 
+Name:
+Title:
+HLT BREH VI HOLDCO PRIME LLC
+By: HLT BREH VI Holdings Holdco LLC, its controlling member
+ 
+ 
+Name:
+Title:
+HLT BREH INTL II HOLDCO PRIME LLC
+By: HLT BREH Intl II Holdings Holdco LLC, its sole member
+ 
+ 
+Name:
+Title:
+ 
+3
+
+------------------------------------------------------------------------
+HLT A23 HOLDCO PRIME LLC
+By: Blackstone A23 Holdings LLC, its sole member
+ 
+ 
+Name:
+Title:
+HLT BREP VI.TE.2 HOLDCO PRIME LLC
+By: Blackstone Real Estate Partners VI L.P., its sole member
+By: Blackstone Real Estate Associates VI L.P., its general partner
+By: BREA VI L.L.C., its general partner
+ 
+ 
+Name:
+Title:
+HLT HOLDCO III PRIME, LLC
+By: HLT Holdco II Prime LLC, its sole member
+By: HLT Holdco Prime LLC, its sole member
+By: BH Hotels Holdco LLC, its sole member
+ 
+ 
+Name:
+Title:
+HLT HOLDCO II PRIME, LLC
+By: HLT Holdco Prime LLC, its sole member
+By: BH Hotels Holdco LLC, its sole member
+ 
+ 
+Name:
+Title:
+ 
+4
