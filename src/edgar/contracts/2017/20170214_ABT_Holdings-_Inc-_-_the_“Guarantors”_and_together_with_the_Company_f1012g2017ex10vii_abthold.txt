@@ -1,0 +1,1744 @@
+ EX-10.7 14 f1012g2017ex10vii_abthold.htm SECURITY AGREEMENT
+Exhibit 10.7
+ 
+SECURITY AGREEMENT
+ 
+This SECURITY AGREEMENT, dated as of October 7, 2016 (this “Agreement”), is 
+among ABT HOLDINGS, INC., an Idaho corporation (the “Company”), all of the 
+Subsidiaries of the Company (such subsidiaries, the “Guarantors” and 
+together with the Company, the “Debtors”) and the holders of the Company’s 
+8% Senior Secured Convertible Debenture Due October 1, 2018, in the 
+original aggregate principal amount of $5,800,000 (collectively and as they 
+may be amended, restated, supplemented or otherwise modified from time to 
+time, the “Debentures”) signatory hereto, their endorsees, transferees and 
+assigns (collectively, the “Secured Parties”).
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, pursuant to the Purchase Agreement (as defined in the Debentures), 
+the Secured Parties have severally agreed to extend the loans to the 
+Company evidenced by the Debentures;
+ 
+WHEREAS, pursuant to a certain Subsidiary Guarantee, dated as of the date 
+hereof (the “Guarantee”), the Guarantors have jointly and severally agreed 
+to guarantee and act as surety for payment of such Debentures; and
+ 
+WHEREAS, in order to induce the Secured Parties to extend the loans 
+evidenced by the Debentures, each Debtor has agreed to execute and deliver 
+to the Secured Parties this Agreement and to grant the Secured Parties, 
+pari passu with each other Secured Party and through the Agent (as defined 
+in Section 18 hereof), a security interest in certain property of such 
+Debtor to secure the prompt payment, performance and discharge in full of 
+all of the Company’s obligations under the Debentures and the Guarantors’ 
+obligations under the Guarantee.
+ 
+NOW, THEREFORE, in consideration of the agreements herein contained and for 
+other good and valuable consideration, the receipt and sufficiency of which 
+is hereby acknowledged, the parties hereto hereby agree as follows:
+ 
+1.  Certain Definitions. As used in this Agreement, the following terms 
+shall have the meanings set forth in this Section 1. Terms used but not 
+otherwise defined in this Agreement that are defined in Article 9 of the 
+UCC (such as “account”, “chattel paper”, “commercial tort claim”, “deposit 
+account”, “document”, “equipment”, “fixtures”, “general intangibles”, 
+“goods”, “instruments”, “inventory”, “investment property”, 
+“letter-of-credit rights”, “proceeds” and “supporting obligations”) shall 
+have the respective meanings given such terms in Article 9 of the UCC.
+     
+
+ 
+
+ 
+
+     
+    (a)  “Collateral” means the collateral in which the Secured Parties are
+    granted a security interest by this Agreement and which shall include
+    the following personal property of the Debtors, whether presently owned
+    or existing or hereafter acquired or coming into existence, wherever
+    situated, and all additions and accessions thereto and all
+    substitutions and replacements thereof, and all proceeds, products and
+    accounts thereof, including, without limitation, all proceeds from the
+    sale or transfer of the Collateral and of insurance covering the same
+    and of any tort claims in connection therewith, and all dividends,
+    interest, cash, notes, securities, equity interest or other property at
+    any time and from time to time acquired, receivable or otherwise
+    distributed in respect of, or in exchange for, any or all of the
+    Pledged Securities (as defined below):
+ 
+       (i) All goods, including, without limitation, (A) all machinery,
+       equipment, computers, motor vehicles, trucks, tanks, boats, ships,
+       appliances, furniture, special and general tools, fixtures, test and
+       quality control devices and other equipment of every kind and nature
+       and wherever situated, together with all documents of title and
+       documents representing the same, all additions and accessions
+       thereto, replacements therefor, all parts therefor, and all
+       substitutes for any of the foregoing and all other items used and
+       useful in connection with any Debtor’s businesses and all
+       improvements thereto; and (B) all inventory;
+        
+       (ii)  All contract rights and other general intangibles, including,
+       without limitation, all partnership interests, membership interests,
+       stock or other securities, rights under any of the Organizational
+       Documents, agreements related to the Pledged Securities, licenses,
+       distribution and other agreements, computer software (whether
+       “off-the-shelf”, licensed from any third party or developed by any
+       Debtor), computer software development rights, leases, franchises,
+       customer lists, quality control procedures, grants and rights,
+       goodwill, Intellectual Property and income tax refunds;
+        
+       (iii)  All accounts, together with all instruments, all documents of
+       title representing any of the foregoing, all rights in any
+       merchandising, goods, equipment, motor vehicles and trucks which any
+       of the same may represent, and all right, title, security and
+       guaranties with respect to each account, including any right of
+       stoppage in transit;
+        
+       (iv)  All documents, letter-of-credit rights, instruments and
+       chattel paper;
+        
+       (v)  All commercial tort claims;
+        
+       (vi)  All deposit accounts and all cash (whether or not deposited in
+       such deposit accounts);
+        
+       (vii)  All investment property;
+        
+       (viii)  All supporting obligations; and
+        
+       (ix)  All files, records, books of account, business papers, and
+       computer programs; and
+        
+       (x)  the products and proceeds of all of the foregoing Collateral
+       set forth in clauses (i)-(ix) above.
+        
+
+  	2 	 
+
+ 
+
+        
+       Without limiting the generality of the foregoing, the “Collateral”
+       shall include all investment property and general intangibles
+       respecting ownership and/or other equity interests in each
+       Guarantor, including, without limitation, the shares of capital
+       stock and the other equity interests listed on Schedule H hereto (as
+       the same may be modified from time to time pursuant to the terms
+       hereof), and any other shares of capital stock and/or other equity
+       interests of any other direct or indirect subsidiary of any Debtor
+       obtained in the future, and, in each case, all certificates
+       representing such shares and/or equity interests and, in each case,
+       all rights, options, warrants, stock, other securities and/or equity
+       interests that may hereafter be received, receivable or distributed
+       in respect of, or exchanged for, any of the foregoing and all rights
+       arising under or in connection with the Pledged Securities,
+       including, but not limited to, all dividends, interest and cash.
+        
+       Notwithstanding the foregoing, nothing herein shall be deemed to
+       constitute an assignment of any asset which, in the event of an
+       assignment, becomes void by operation of applicable law or the
+       assignment of which is otherwise prohibited by applicable law (in
+       each case to the extent that such applicable law is not overridden
+       by Sections 9-406, 9-407 and/or 9-408 of the UCC or other similar
+       applicable law); provided, however, that to the extent permitted by
+       applicable law, this Agreement shall create a valid security
+       interest in such asset and, to the extent permitted by applicable
+       law, this Agreement shall create a valid security interest in the
+       proceeds of such asset.
+        
+    (b)  “Intellectual Property” means the collective reference to all
+    rights, priorities and privileges relating to intellectual property,
+    whether arising under United States, multinational or foreign laws or
+    otherwise, including, without limitation, (i) all copyrights arising
+    under the laws of the United States, any other country or any political
+    subdivision thereof, whether registered or unregistered and whether
+    published or unpublished, all registrations and recordings thereof, and
+    all applications in connection therewith, including, without
+    limitation, all registrations, recordings and applications in the
+    United States Copyright Office, (ii) all letters patent of the United
+    States, any other country or any political subdivision thereof, all
+    reissues and extensions thereof, and all applications for letters
+    patent of the United States or any other country and all divisions,
+    continuations and continuations-in-part thereof, (iii) all trademarks,
+    trade names, corporate names, company names, business names, fictitious
+    business names, trade dress, service marks, logos, domain names and
+    other source or business identifiers, and all goodwill associated
+    therewith, now existing or hereafter adopted or acquired, all
+    registrations and recordings thereof, and all applications in
+    connection therewith, whether in the United States Patent and Trademark
+    Office or in any similar office or agency of the United States, any
+    State thereof or any other country or any political subdivision
+    thereof, or otherwise, and all common law rights related thereto, (iv)
+    all trade secrets arising under the laws of the United States, any
+    other country or any political subdivision thereof, (v) all rights to
+    obtain any reissues, renewals or extensions of the foregoing, (vi) all
+    licenses for any of the foregoing, and (vii) all causes of action for
+    infringement of the foregoing.
+     
+
+  	3 	 
+
+ 
+
+     
+    (c)  “Majority in Interest” means, at any time of determination, the
+    majority in interest (based on then-outstanding principal amounts of
+    Debentures at the time of such determination) of the Secured Parties.
+     
+    (d)  “Necessary Endorsement” means undated stock powers endorsed in
+    blank or other proper instruments of assignment duly executed and such
+    other instruments or documents as the Agent (as that term is defined
+    below) may reasonably request.
+        
+    (e)  “Obligations” means all of the liabilities and obligations
+    (primary, secondary, direct, contingent, sole, joint or several) due or
+    to become due, or that are now or may be hereafter contracted or
+    acquired, or owing to, of any Debtor to the Secured Parties, including,
+    without limitation, all obligations under this Agreement, the
+    Debentures, the Guarantee and any other instruments, agreements or
+    other documents executed and/or delivered in connection herewith or
+    therewith, in each case, whether now or hereafter existing, voluntary
+    or involuntary, direct or indirect, absolute or contingent, liquidated
+    or unliquidated, whether or not jointly owed with others, and whether
+    or not from time to time decreased or extinguished and later increased,
+    created or incurred, and all or any portion of such obligations or
+    liabilities that are paid, to the extent all or any part of such
+    payment is avoided or recovered directly or indirectly from any of the
+    Secured Parties as a preference, fraudulent transfer or otherwise as
+    such obligations may be amended, supplemented, converted, extended or
+    modified from time to time. Without limiting the generality of the
+    foregoing, the term “Obligations” shall include, without limitation:
+    (i) principal of, and interest on the Debentures and the loans extended
+    pursuant thereto; (ii) any and all other fees, indemnities, costs,
+    obligations and liabilities of the Debtors from time to time under or
+    in connection with this Agreement, the Debentures, the Guarantee and
+    any other instruments, agreements or other documents executed and/or
+    delivered in connection herewith or therewith; and (iii) all amounts
+    (including but not limited to post-petition interest) in respect of the
+    foregoing that would be payable but for the fact that the obligations
+    to pay such amounts are unenforceable or not allowable due to the
+    existence of a bankruptcy, reorganization or similar proceeding
+    involving any Debtor.
+     
+    (f)  “Organizational Documents” means with respect to any Debtor, the
+    documents by which such Debtor was organized (such as a certificate of
+    incorporation, certificate of limited partnership or articles of
+    organization, and including, without limitation, any certificates of
+    designation for preferred stock or other forms of preferred equity) and
+    which relate to the internal governance of such Debtor (such as bylaws,
+    a partnership agreement or an operating, limited liability or members
+    agreement).
+     
+    (g)  “Pledged Interests” shall have the meaning ascribed to such term
+    in Section 4(j).
+     
+    (h)  “Pledged Securities” shall have the meaning ascribed to such term
+    in Section 4(i).
+     
+    (i)  “Senior Lender” shall have the meaning ascribed to such term in
+    the Debenture.
+     
+
+  	4 	 
+
+ 
+
+     
+    (i)  “UCC” means the Uniform Commercial Code of the State of New York
+    and or any other applicable law of any state or states which has
+    jurisdiction with respect to all, or any portion of, the Collateral or
+    this Agreement, from time to time. It is the intent of the parties that
+    defined terms in the UCC should be construed in their broadest sense so
+    that the term “Collateral” will be construed in its broadest sense.
+    Accordingly if there are, from time to time, changes to defined terms
+    in the UCC that broaden the definitions, they are incorporated herein
+    and if existing definitions in the UCC are broader than the amended
+    definitions, the existing ones shall be controlling.
+ 
+2.  Grant of Security Interest in Collateral. As an inducement for the 
+Secured Parties to extend the loans as evidenced by the Debentures and to 
+secure the complete and timely payment, performance and discharge in full, 
+as the case may be, of all of the Obligations, each Debtor hereby 
+unconditionally and irrevocably pledges, grants and hypothecates to the 
+Agent for the benefit of the Secured Parties and the Agent, a security 
+interest in and to, a lien upon and a right of set-off against all of their 
+respective right, title and interest of whatsoever kind and nature in and 
+to, the Collateral (a “Security Interest” and, collectively, the “Security 
+Interests”).
+ 
+3.  Delivery of Certain Collateral. Contemporaneously or prior to the 
+execution of this Agreement, each Debtor shall deliver or cause to be 
+delivered to the Agent (a) any and all certificates and other instruments 
+representing or evidencing the Pledged Securities, and (b) any and all 
+certificates and other instruments or documents representing any of the 
+other Collateral, in each case, together with all Necessary Endorsements. 
+The Debtors are, contemporaneously with the execution hereof, delivering to 
+Agent, or have previously delivered to Agent, a true and correct copy of 
+each Organizational Document governing any of the Pledged Securities.
+ 
+4.  Representations, Warranties, Covenants and Agreements of the Debtors. 
+Except as set forth under the corresponding section of the disclosure 
+schedules delivered to the Secured Parties concurrently herewith (the “
+Disclosure Schedules”), which Disclosure Schedules shall be deemed a part 
+hereof, each Debtor represents and warrants to, and covenants and agrees 
+with, the Secured Parties as follows:
+ 
+    (a) Each Debtor has the requisite corporate, partnership, limited
+    liability company or other power and authority to enter into this
+    Agreement and otherwise to carry out its obligations hereunder. The
+    execution, delivery and performance by each Debtor of this Agreement
+    and the filings contemplated therein have been duly authorized by all
+    necessary action on the part of such Debtor and no further action is
+    required by such Debtor. This Agreement has been duly executed by each
+    Debtor. This Agreement constitutes the legal, valid and binding
+    obligation of each Debtor, enforceable against each Debtor in
+    accordance with its terms except as such enforceability may be limited
+    by applicable bankruptcy, insolvency, reorganization and similar laws
+    of general application relating to or affecting the rights and remedies
+    of creditors and by general principles of equity.
+     
+    (b)  The Debtors have no place of business or offices where their
+    respective books of account and records are kept (other than
+    temporarily at the offices of its attorneys or accountants) or places
+    where Collateral is stored or located, except as set forth on Schedule
+    A attached hereto. Except as specifically set forth on Schedule A, each
+    Debtor is the record owner of the real property where such Collateral
+    is located, and there exist no mortgages or other liens on any such
+    real property except for Permitted Liens (as defined in the
+    Debentures). Except as disclosed on Schedule A, none of such Collateral
+    is in the possession of any consignee, bailee, warehouseman, agent or
+    processor.
+     
+
+  	5 	 
+
+ 
+
+     
+    (c)  Except for Permitted Liens (as defined in the Debentures) and
+    except as set forth on Schedule B attached hereto, the Debtors are the
+    sole owner of the Collateral (except for non-exclusive licenses granted
+    by any Debtor in the ordinary course of business), free and clear of
+    any liens, security interests, encumbrances, rights or claims, and are
+    fully authorized to grant the Security Interests. Except as set forth
+    on Schedule C attached hereto, there is not on file in any governmental
+    or regulatory authority, agency or recording office an effective
+    financing statement, security agreement, license or transfer or any
+    notice of any of the foregoing (other than those that will be filed in
+    favor of the Secured Parties pursuant to this Agreement) covering or
+    affecting any of the Collateral. Except as set forth on Schedule C 
+    attached hereto and except pursuant to this Agreement, as long as this
+    Agreement shall be in effect, the Debtors shall not execute and shall
+    not knowingly permit to be on file in any such office or agency any
+    other financing statement or other document or instrument (except to
+    the extent filed or recorded in favor of the Secured Parties pursuant
+    to the terms of this Agreement).
+     
+    (d)  No written claim has been received that any Collateral or any
+    Debtor’s use of any Collateral violates the rights of any third party.
+    There has been no adverse decision to any Debtor’s claim of ownership
+    rights in or exclusive rights to use the Collateral in any jurisdiction
+    or to any Debtor’s right to keep and maintain such Collateral in full
+    force and effect, and there is no proceeding involving said rights
+    pending or, to the best knowledge of any Debtor, threatened before any
+    court, judicial body, administrative or regulatory agency, arbitrator
+    or other governmental authority.
+     
+    (e)  Each Debtor shall at all times maintain its books of account and
+    records relating to the Collateral at its principal place of business
+    and its Collateral at the locations set forth on Schedule A attached
+    hereto and may not relocate such books of account and records or
+    tangible Collateral unless it delivers to the Secured Parties at least
+    30 days prior to such relocation (i) written notice of such relocation
+    and the new location thereof (which must be within the United States)
+    and (ii) evidence that appropriate financing statements under the UCC
+    and other necessary documents have been filed and recorded and other
+    steps have been taken to perfect the Security Interests to create in
+    favor of the Secured Parties a valid, perfected and continuing
+    perfected lien in the Collateral.
+     
+    (f)  This Agreement creates in favor of the Secured Parties a valid
+    security interest in the Collateral, subject only to Permitted Liens
+    (as defined in the Debentures) securing the payment and performance of
+    the Obligations. Upon making the filings described in the immediately
+    following paragraph, all security interests created hereunder in any
+    Collateral which may be perfected by filing Uniform Commercial Code
+    financing statements shall have been duly perfected. Except for the
+    filing of the Uniform Commercial Code financing statements referred to
+    in the immediately following paragraph, the recordation of the
+    Intellectual Property Security Agreement (as defined in Section 4(p)
+    hereof) with respect to copyrights and copyright applications in the
+    United States Copyright Office referred to in paragraph (m), the
+    execution and delivery of deposit account control agreements satisfying
+    the requirements of Section 9-104(a)(2) of the UCC with respect to each
+    deposit account of the Debtors, and the delivery of the certificates
+    and other instruments provided in Section 3, no action is necessary to
+    create, perfect or protect the security interests created hereunder.
+    Without limiting the generality of the foregoing, except for the filing
+    of said financing statements, the recordation of said Intellectual
+    Property Security Agreement, and the execution and delivery of said
+    deposit account control agreements, no consent of any third parties and
+    no authorization, approval or other action by, and no notice to or
+    filing with, any governmental authority or regulatory body is required
+    for (i) the execution, delivery and performance of this Agreement, (ii)
+    the creation or perfection of the Security Interests created hereunder
+    in the Collateral or (iii) the enforcement of the rights of the Agent
+    and the Secured Parties hereunder.
+     
+
+  	6 	 
+
+ 
+
+     
+    (g)  Each Debtor hereby authorizes the Agent to file one or more
+    financing statements under the UCC, with respect to the Security
+    Interests, with the proper filing and recording agencies in any
+    jurisdiction deemed proper by it.
+ 
+    (h)  The execution, delivery and performance of this Agreement by the
+    Debtors does not (i) violate any of the provisions of any
+    Organizational Documents of any Debtor or any judgment, decree, order
+    or award of any court, governmental body or arbitrator or any
+    applicable law, rule or regulation applicable to any Debtor or (ii)
+    conflict with, or constitute a default (or an event that with notice or
+    lapse of time or both would become a default) under, or give to others
+    any rights of termination, amendment, acceleration or cancellation
+    (with or without notice, lapse of time or both) of, any agreement,
+    credit facility, debt or other instrument (evidencing any Debtor’s debt
+    or otherwise) or other understanding to which any Debtor is a party or
+    by which any property or asset of any Debtor is bound or affected. If
+    any, all required consents (including, without limitation, from
+    stockholders or creditors of any Debtor) necessary for any Debtor to
+    enter into and perform its obligations hereunder have been obtained.
+     
+    (i) The capital stock and other equity interests listed on Schedule H 
+    hereto (the “Pledged Securities”) represent all of the capital stock
+    and other equity interests of the Guarantors, and represent all capital
+    stock and other equity interests owned, directly or indirectly, by the
+    Company. All of the Pledged Securities are validly issued, fully paid
+    and nonassessable, and the Company is the legal and beneficial owner of
+    the Pledged Securities, free and clear of any lien, security interest
+    or other encumbrance except for the security interests created by this
+    Agreement and other Permitted Liens (as defined in the Debentures).
+     
+    (j)  The ownership and other equity interests in partnerships and
+    limited liability companies (if any) included in the Collateral (the “
+    Pledged Interests”) by their express terms do not provide that they are
+    securities governed by Article 8 of the UCC and are not held in a
+    securities account or by any financial intermediary.
+     
+    (k)  Except for Permitted Liens (as defined in the Debentures), each
+    Debtor shall at all times maintain the liens and Security Interests
+    provided for hereunder as valid and perfected liens and security
+    interests in the Collateral in favor of the Secured Parties until this
+    Agreement and the Security Interest hereunder shall be terminated
+    pursuant to Section 14 hereof. Each Debtor hereby agrees to defend the
+    same against the claims of any and all persons and entities. Each
+    Debtor shall safeguard and protect all Collateral for the account of
+    the Secured Parties. At the request of the Agent, each Debtor will sign
+    and deliver to the Agent on behalf of the Secured Parties at any time
+    or from time to time one or more financing statements pursuant to the
+    UCC in form reasonably satisfactory to the Agent and will pay the cost
+    of filing the same in all public offices wherever filing is, or is
+    deemed by the Agent to be, necessary or desirable to effect the rights
+    and obligations provided for herein. Without limiting the generality of
+    the foregoing, each Debtor shall pay all fees, taxes and other amounts
+    necessary to maintain the Collateral and the Security Interests
+    hereunder, and each Debtor shall obtain and furnish to the Agent from
+    time to time, upon demand, such releases and/or subordinations of
+    claims and liens which may be required to maintain the priority of the
+    Security Interests hereunder.
+ 
+    (l)  No Debtor will transfer, pledge, hypothecate, encumber, license,
+    sell or otherwise dispose of any of the Collateral (except for (i)
+    non-exclusive licenses granted by a Debtor in its ordinary course of
+    business and sales of inventory by a Debtor in its ordinary course of
+    business and (ii) Permitted Liens) without the prior written consent of
+    a Majority in Interest.
+     
+    (m)  Each Debtor shall keep and preserve its equipment, inventory and
+    other tangible Collateral in good condition, repair and order and shall
+    not operate or locate any such Collateral (or cause to be operated or
+    located) in any area excluded from insurance coverage.
+     
+    (n)  Each Debtor shall maintain with financially sound and reputable
+    insurers, insurance with respect to the Collateral, including
+    Collateral hereafter acquired, against loss or damage of the kinds and
+    in the amounts customarily insured against by entities of established
+    reputation having similar properties similarly situated and in such
+    amounts as are customarily carried under similar circumstances by other
+    such entities and otherwise as is prudent for entities engaged in
+    similar businesses but in any event sufficient to cover the full
+    replacement cost thereof. Each Debtor shall cause each insurance policy
+    issued in connection herewith to provide, and the insurer issuing such
+    policy to certify to the Agent, that (a) the Agent will be named as
+    lender loss payee and additional insured under each such insurance
+    policy; (b) if such insurance be proposed to be cancelled or materially
+    changed for any reason whatsoever, such insurer will promptly notify
+    the Agent and such cancellation or change shall not be effective as to
+    the Agent for at least thirty (30) days after receipt by the Agent of
+    such notice, unless the effect of such change is to extend or increase
+    coverage under the policy; and (c) the Agent will have the right (but
+    no obligation) at its election to remedy any default in the payment of
+    premiums within thirty (30) days of notice from the insurer of such
+    default. If no Event of Default (as defined in the Debentures) exists
+    and if the proceeds arising out of any claim or series of related
+    claims do not exceed $100,000, loss payments in each instance will be
+    applied by the applicable Debtor to the repair and/or replacement of
+    property with respect to which the loss was incurred to the extent
+    reasonably feasible, and any loss payments or the balance thereof
+    remaining, to the extent not so applied, shall be payable to the
+    applicable Debtor; provided, however, that payments received by any
+    Debtor after an Event of Default occurs and is continuing or in excess
+    of $100,000 for any occurrence or series of related occurrences shall
+    be paid to the Agent on behalf of the Secured Parties and, if received
+    by such Debtor, shall be held in trust for the Secured Parties and
+    immediately paid over to the Agent unless otherwise directed in writing
+    by the Agent. Copies of such policies or the related certificates, in
+    each case, naming the Agent as lender loss payee and additional insured
+    shall be delivered to the Agent at least annually and at the time any
+    new policy of insurance is issued.
+     
+
+  	7 	 
+
+ 
+
+     
+    (o)  Each Debtor shall, within ten (10) days of obtaining knowledge
+    thereof, advise the Secured Parties promptly, in sufficient detail, of
+    any material adverse change in the Collateral, and of the occurrence of
+    any event which would have a material adverse effect on the value of
+    the Collateral or on the Secured Parties’ security interest, through
+    the Agent, therein.
+     
+    (p) Each Debtor shall promptly execute and deliver to the Agent such
+    further deeds, mortgages, assignments, security agreements, financing
+    statements or other instruments, documents, certificates and assurances
+    and take such further action as the Agent may from time to time request
+    and may in its sole discretion deem necessary to perfect, protect or
+    enforce the Secured Parties’ security interest in the Collateral
+    including, without limitation, if applicable, the execution and
+    delivery of a separate security agreement with respect to each Debtor’s
+    Intellectual Property (“Intellectual Property Security Agreement”) in
+    which the Secured Parties have been granted a security interest
+    hereunder, substantially in a form reasonably acceptable to the Agent,
+    which Intellectual Property Security Agreement, other than as stated
+    therein, shall be subject to all of the terms and conditions hereof.
+ 
+    (q)  Each Debtor shall permit the Agent and its representatives and
+    agents to inspect the Collateral during normal business hours and upon
+    reasonable prior notice, and to make copies of records pertaining to
+    the Collateral as may be reasonably requested by the Agent from time to
+    time.
+     
+    (r)  Each Debtor shall take all steps reasonably necessary to
+    diligently pursue and seek to preserve, enforce and collect any rights,
+    claims, causes of action and accounts receivable in respect of the
+    Collateral.
+     
+    (s)  Each Debtor shall promptly notify the Secured Parties in
+    sufficient detail upon becoming aware of any attachment, garnishment,
+    execution or other legal process levied against any Collateral and of
+    any other information received by such Debtor that may materially
+    affect the value of the Collateral, the Security Interest or the rights
+    and remedies of the Secured Parties hereunder.
+     
+
+  	8 	 
+
+ 
+
+     
+    (t)  All information heretofore, herein or hereafter supplied to the
+    Secured Parties by or on behalf of any Debtor with respect to the
+    Collateral is accurate and complete in all material respects as of the
+    date furnished.
+     
+    (u)  The Debtors shall at all times preserve and keep in full force and
+    effect their respective valid existence and good standing and any
+    rights and franchises material to its business.
+     
+    (v)  No Debtor will change its name, type of organization, jurisdiction
+    of organization, organizational identification number (if it has one),
+    legal or corporate structure, or identity, or add any new fictitious
+    name unless it provides at least 30 days prior written notice to the
+    Secured Parties of such change and, at the time of such written
+    notification, such Debtor provides any financing statements or fixture
+    filings necessary to perfect and continue the perfection of the
+    Security Interests granted and evidenced by this Agreement.
+     
+    (w)  Except in the ordinary course of business, no Debtor may consign
+    any of its inventory or sell any of its inventory on bill and hold,
+    sale or return, sale on approval, or other conditional terms of sale
+    without the consent of the Agent which shall not be unreasonably
+    withheld.
+ 
+    (x)  No Debtor may relocate its chief executive office to a new
+    location without providing 30 days prior written notification thereof
+    to the Secured Parties and so long as, at the time of such written
+    notification, such Debtor provides any financing statements or fixture
+    filings necessary to perfect and continue the perfection of the
+    Security Interests granted and evidenced by this Agreement.
+ 
+    (y)  Each Debtor was organized and remains organized solely under the
+    laws of the state (or other jurisdiction in the case of a Debtor not
+    organized in the United States) set forth next to such Debtor’s name in 
+    Schedule D attached hereto, which Schedule D sets forth each Debtor’s
+    organizational identification number or, if any Debtor does not have
+    one, states that one does not exist.
+     
+    (z)  (i) The actual name of each Debtor is the name set forth in 
+    Schedule D attached hereto; (ii) no Debtor has any trade names except
+    as set forth on Schedule E attached hereto; (iii) no Debtor has used
+    any name other than that stated in the preamble hereto or as set forth
+    on Schedule E for the preceding five years; and (iv) no entity has
+    merged into any Debtor or been acquired by any Debtor within the past
+    five years except as set forth on Schedule E.
+     
+    (aa)  At any time and from time to time that any Collateral consists of
+    instruments, certificated securities or other items that require or
+    permit possession by the secured party to perfect the security interest
+    created hereby, the applicable Debtor shall deliver such Collateral to
+    the Agent.
+     
+
+  	9 	 
+
+ 
+
+     
+    (bb)  Each Debtor, in its capacity as issuer, hereby agrees to comply
+    with any and all orders and instructions of Agent regarding the Pledged
+    Interests consistent with the terms of this Agreement without the
+    further consent of any Debtor as contemplated by Section 8-106 (or any
+    successor section) of the UCC. Further, each Debtor agrees that it
+    shall not enter into a similar agreement (or one that would confer
+    “control” within the meaning of Article 8 of the UCC) with any other
+    person or entity [other than the Senior Lender].
+     
+    (cc)  Each Debtor shall cause all tangible chattel paper constituting
+    Collateral to be delivered to the Agent, or, if such delivery is not
+    possible, then to cause such tangible chattel paper to contain a legend
+    noting that it is subject to the security interest created by this
+    Agreement. To the extent that any Collateral consists of electronic
+    chattel paper, the applicable Debtor shall cause the underlying chattel
+    paper to be “marked” within the meaning of Section 9-105 of the UCC (or
+    successor section thereto).
+     
+    (dd)  If there is any investment property or deposit account included
+    as Collateral that can be perfected by “control” through an account
+    control agreement, the applicable Debtor shall cause such an account
+    control agreement, in form and substance in each case satisfactory to
+    the Agent, to be entered into and delivered to the Agent for the
+    benefit of the Secured Parties.
+     
+    (ee)  To the extent that any Collateral consists of letter-of-credit
+    rights, the applicable Debtor shall cause the issuer of each underlying
+    letter of credit to consent to an assignment of the proceeds thereof to
+    the Secured Parties.
+     
+    (ff)  To the extent that any Collateral is in the possession of any
+    third party, the applicable Debtor shall join with the Agent in
+    notifying such third party of the Secured Parties’ security interest in
+    such Collateral and shall use its best efforts to obtain an
+    acknowledgement and agreement from such third party with respect to the
+    Collateral, in form and substance reasonably satisfactory to the Agent.
+     
+    (gg)  If any Debtor shall at any time hold or acquire a commercial tort
+    claim, such Debtor shall promptly notify the Secured Parties in a
+    writing signed by such Debtor of the particulars thereof and grant to
+    the Secured Parties in such writing a security interest therein and in
+    the proceeds thereof, all upon the terms of this Agreement, with such
+    writing to be in form and substance satisfactory to the Agent.
+     
+    (hh)  Each Debtor shall immediately provide written notice to the
+    Secured Parties of any and all accounts which arise out of contracts
+    with any governmental authority and, to the extent necessary to perfect
+    or continue the perfected status of the Security Interests in such
+    accounts and proceeds thereof, shall execute and deliver to the Agent
+    an assignment of claims for such accounts and cooperate with the Agent
+    in taking any other steps required, in its judgment, under the Federal
+    Assignment of Claims Act or any similar federal, state or local statute
+    or rule to perfect or continue the perfected status of the Security
+    Interests in such accounts and proceeds thereof.
+     
+
+  	10 	 
+
+ 
+
+     
+    (ii)  Each Debtor shall cause each subsidiary of such Debtor to
+    immediately become a party hereto (an “Additional Debtor”), by
+    executing and delivering an Additional Debtor Joinder in substantially
+    the form of Annex A attached hereto and comply with the provisions
+    hereof applicable to the Debtors. Concurrent therewith, the Additional
+    Debtor shall deliver replacement schedules for, or supplements to all
+    other Schedules to (or referred to in) this Agreement, as applicable,
+    which replacement schedules shall supersede, or supplements shall
+    modify, the Schedules then in effect. The Additional Debtor shall also
+    deliver such opinions of counsel, authorizing resolutions, good
+    standing certificates, incumbency certificates, organizational
+    documents, financing statements and other information and documentation
+    as the Agent may reasonably request. Upon delivery of the foregoing to
+    the Agent, the Additional Debtor shall be and become a party to this
+    Agreement with the same rights and obligations as the Debtors, for all
+    purposes hereof as fully and to the same extent as if it were an
+    original signatory hereto and shall be deemed to have made the
+    representations, warranties and covenants set forth herein as of the
+    date of execution and delivery of such Additional Debtor Joinder, and
+    all references herein to the “Debtors” shall be deemed to include each
+    Additional Debtor.
+     
+    (jj) 	Each Debtor shall vote the Pledged Securities to comply with the
+    covenants and agreements set forth herein and in the Debentures.
+     
+    (kk)	Each Debtor shall register the pledge of the applicable Pledged
+    Securities on the books of such Debtor. Each Debtor shall notify each
+    issuer of Pledged Securities to register the pledge of the applicable
+    Pledged Securities in the name of the Secured Parties on the books of
+    such issuer. Further, except with respect to certificated securities
+    delivered to the Agent, the applicable Debtor shall deliver to Agent an
+    acknowledgement of pledge (which, where appropriate, shall comply with
+    the requirements of the relevant UCC with respect to perfection by
+    registration) signed by the issuer of the applicable Pledged
+    Securities, which acknowledgement shall confirm that: (a) it has
+    registered the pledge on its books and records; and (b) at any time
+    directed by Agent during the continuation of an Event of Default, such
+    issuer will transfer the record ownership of such Pledged Securities
+    into the name of any designee of Agent, will take such steps as may be
+    necessary to effect the transfer, and will comply with all other
+    instructions of Agent regarding such Pledged Securities without the
+    further consent of the applicable Debtor.
+     
+    (ll) 	In the event that, upon an occurrence of an Event of Default,
+    Agent shall sell all or any of the Pledged Securities to another party
+    or parties (herein called the “Transferee”) or shall purchase or retain
+    all or any of the Pledged Securities, each Debtor shall, to the extent
+    applicable: (i) deliver to Agent or the Transferee, as the case may be,
+    the articles of incorporation, bylaws, minute books, stock certificate
+    books, corporate seals, deeds, leases, indentures, agreements,
+    evidences of indebtedness, books of account, financial records and all
+    other Organizational Documents and records of the Debtors and their
+    direct and indirect subsidiaries; (ii) use its best efforts to obtain
+    resignations of the persons then serving as officers and directors of
+    the Debtors and their direct and indirect subsidiaries, if so
+    requested; and (iii) use its best efforts to obtain any approvals that
+    are required by any governmental or regulatory body in order to permit
+    the sale of the Pledged Securities to the Transferee or the purchase or
+    retention of the Pledged Securities by Agent and allow the Transferee
+    or Agent to continue the business of the Debtors and their direct and
+    indirect subsidiaries.
+     
+    (mm) 	Without limiting the generality of the other obligations of the
+    Debtors hereunder, each Debtor shall promptly (i) cause to be
+    registered at the United States Copyright Office all of its material
+    copyrights, (ii) cause the security interest contemplated hereby with
+    respect to all Intellectual Property registered at the United States
+    Copyright Office or United States Patent and Trademark Office to be
+    duly recorded at the applicable office, and (iii) give the Agent notice
+    whenever it acquires (whether absolutely or by license) or creates any
+    additional material Intellectual Property.
+     
+    (nn)  Each Debtor will from time to time, at the joint and several
+    expense of the Debtors, promptly execute and deliver all such further
+    instruments and documents, and take all such further action as may be
+    necessary or desirable, or as the Agent may reasonably request, in
+    order to perfect and protect any security interest granted or purported
+    to be granted hereby or to enable the Secured Parties to exercise and
+    enforce their rights and remedies hereunder and with respect to any
+    Collateral or to otherwise carry out the purposes of this Agreement.
+     
+    (oo)  Schedule F attached hereto lists all of the patents, patent
+    applications, trademarks, trademark applications, registered
+    copyrights, and domain names owned by any of the Debtors as of the date
+    hereof. Schedule F lists all material licenses in favor of any Debtor
+    for the use of any patents, trademarks, copyrights and domain names as
+    of the date hereof. All material patents and trademarks of the Debtors
+    have been duly recorded at the United States Patent and Trademark
+    Office and all material copyrights of the Debtors have been duly
+    recorded at the United States Copyright Office.
+     
+    (pp)  Except as set forth on Schedule G attached hereto, none of the
+    account debtors or other persons or entities obligated on any of the
+    Collateral is a governmental authority covered by the Federal
+    Assignment of Claims Act or any similar federal, state or local statute
+    or rule in respect of such Collateral.
+     
+    (qq)	 Until the Obligations shall have been paid and performed in full,
+    the Company covenants that it shall promptly direct any direct or
+    indirect subsidiary of the Company formed or acquired after the date
+    hereof to enter into a Subsidiary Guarantee in favor of the Secured
+    Party, in the form attached as an exhibit to the Purchase Agreement.
+     
+
+  	11 	 
+
+ 
+
+     
+5.  Effect of Pledge on Certain Rights. If any of the Collateral subject to 
+this Agreement consists of nonvoting equity or ownership interests 
+(regardless of class, designation, preference or rights) that may be 
+converted into voting equity or ownership interests upon the occurrence of 
+certain events (including, without limitation, upon the transfer of all or 
+any of the other stock or assets of the issuer), it is agreed that the 
+pledge of such equity or ownership interests pursuant to this Agreement or 
+the enforcement of any of Agent’s rights hereunder shall not be deemed to 
+be the type of event which would trigger such conversion rights 
+notwithstanding any provisions in the Organizational Documents or 
+agreements to which any Debtor is subject or to which any Debtor is party.
+     
+6.  Defaults. The following events shall be “Events of Default”:
+ 
+    (a)   The occurrence of an Event of Default (as defined in the
+    Debentures) under the Debentures;
+     
+    (b)  Any representation or warranty of any Debtor in this Agreement
+    shall prove to have been incorrect in any material respect when made;
+     
+    (c)  The failure by any Debtor to observe or perform any of its
+    obligations hereunder for five (5) days after delivery to such Debtor
+    of notice of such failure by or on behalf of a Secured Party unless
+    such default is capable of cure but cannot be cured within such time
+    frame and such Debtor is using best efforts to cure same in a timely
+    fashion; or
+     
+    (d)  If any provision of this Agreement shall at any time for any
+    reason be declared to be null and void, or the validity or
+    enforceability thereof shall be contested by any Debtor, or a
+    proceeding shall be commenced by any Debtor, or by any governmental
+    authority having jurisdiction over any Debtor, seeking to establish the
+    invalidity or unenforceability thereof, or any Debtor shall deny that
+    any Debtor has any liability or obligation purported to be created
+    under this Agreement.
+     
+7.  Duty to Hold in Trust.
+ 
+    (a)  Upon the occurrence of any Event of Default and at any time
+    thereafter, each Debtor shall, upon receipt of any revenue, income,
+    dividend, interest or other sums subject to the Security Interests,
+    whether payable pursuant to the Debentures or otherwise, or of any
+    check, draft, note, trade acceptance or other instrument evidencing an
+    obligation to pay any such sum, hold the same in trust for the Secured
+    Parties and shall forthwith endorse and transfer any such sums or
+    instruments, or both, to the Secured Parties, pro-rata in proportion to
+    their respective then-currently outstanding principal amount of
+    Debentures for application to the satisfaction of the Obligations (and
+    if any Debenture is not outstanding, pro-rata in proportion to the
+    initial purchases of the remaining Debentures).
+     
+    (b)  If any Debtor shall become entitled to receive or shall receive
+    any securities or other property (including, without limitation, shares
+    of Pledged Securities or instruments representing Pledged Securities
+    acquired after the date hereof, or any options, warrants, rights or
+    other similar property or certificates representing a dividend, or any
+    distribution in connection with any recapitalization, reclassification
+    or increase or reduction of capital, or issued in connection with any
+    reorganization of such Debtor or any of its direct or indirect
+    subsidiaries) in respect of the Pledged Securities (whether as an
+    addition to, in substitution of, or in exchange for, such Pledged
+    Securities or otherwise), such Debtor agrees to (i) accept the same as
+    the agent of the Secured Parties; (ii) hold the same in trust on behalf
+    of and for the benefit of the Secured Parties; and (iii) to deliver any
+    and all certificates or instruments evidencing the same to Agent on or
+    before the close of business on the fifth business day following the
+    receipt thereof by such Debtor, in the exact form received together
+    with the Necessary Endorsements, to be held by Agent subject to the
+    terms of this Agreement as Collateral.
+ 
+
+  	12 	 
+
+ 
+
+ 
+8.  Rights and Remedies Upon Default.
+ 
+    (a)  Upon the occurrence of any Event of Default and at any time
+    thereafter, the Secured Parties, acting through the Agent, shall have
+    the right to exercise all of the remedies conferred hereunder and under
+    the Debentures, and the Secured Parties shall have all the rights and
+    remedies of a secured party under the UCC. Without limitation, the
+    Agent, for the benefit of the Secured Parties, shall have the following
+    rights and powers:
+ 
+       (i)   The Agent shall have the right to take possession of the
+       Collateral and, for that purpose, enter, with the aid and assistance
+       of any person, any premises where the Collateral, or any part
+       thereof, is or may be placed and remove the same, and each Debtor
+       shall assemble the Collateral and make it available to the Agent at
+       places which the Agent shall reasonably select, whether at such
+       Debtor’s premises or elsewhere, and make available to the Agent,
+       without rent, all of such Debtor’s respective premises and
+       facilities for the purpose of the Agent taking possession of,
+       removing or putting the Collateral in saleable or disposable form.
+        
+       (ii)  Upon notice to the Debtors by Agent, all rights of each Debtor
+       to exercise the voting and other consensual rights which it would
+       otherwise be entitled to exercise and all rights of each Debtor to
+       receive the dividends and interest which it would otherwise be
+       authorized to receive and retain, shall cease. Upon such notice,
+       Agent shall have the right to receive, for the benefit of the
+       Secured Parties, any interest, cash dividends or other payments on
+       the Collateral and, at the option of Agent, to exercise in such
+       Agent’s discretion all voting rights pertaining thereto. Without
+       limiting the generality of the foregoing, Agent shall have the right
+       (but not the obligation) to exercise all rights with respect to the
+       Collateral as it were the sole and absolute owner thereof,
+       including, without limitation, to vote and/or to exchange, at its
+       sole discretion, any or all of the Collateral in connection with a
+       merger, reorganization, consolidation, recapitalization or other
+       readjustment concerning or involving the Collateral or any Debtor or
+       any of its direct or indirect subsidiaries.
+        
+       (iii)   The Agent shall have the right to operate the business of
+       each Debtor using the Collateral and shall have the right to assign,
+       sell, lease or otherwise dispose of and deliver all or any part of
+       the Collateral, at public or private sale or otherwise, either with
+       or without special conditions or stipulations, for cash or on credit
+       or for future delivery, in such parcel or parcels and at such time
+       or times and at such place or places, and upon such terms and
+       conditions as the Agent may deem commercially reasonable, all
+       without (except as shall be required by applicable statute and
+       cannot be waived) advertisement or demand upon or notice to any
+       Debtor or right of redemption of a Debtor, which are hereby
+       expressly waived. Upon each such sale, lease, assignment or other
+       transfer of Collateral, the Agent, for the benefit of the Secured
+       Parties, may, unless prohibited by applicable law which cannot be
+       waived, purchase all or any part of the Collateral being sold, free
+       from and discharged of all trusts, claims, right of redemption and
+       equities of any Debtor, which are hereby waived and released.
+        
+
+  	13 	 
+
+ 
+
+        
+       (iv)  The Agent shall have the right (but not the obligation) to
+       notify any account debtors and any obligors under instruments or
+       accounts to make payments directly to the Agent, on behalf of the
+       Secured Parties, and to enforce the Debtors’ rights against such
+       account debtors and obligors.
+        
+       (v)  The Agent, for the benefit of the Secured Parties, may (but is
+       not obligated to) direct any financial intermediary or any other
+       person or entity holding any investment property to transfer the
+       same to the Agent, on behalf of the Secured Parties, or its
+       designee.
+        
+       (vi)  The Agent may (but is not obligated to) transfer any or all
+       Intellectual Property registered in the name of any Debtor at the
+       United States Patent and Trademark Office and/or Copyright Office
+       into the name of the Secured Parties or any designee or any
+       purchaser of any Collateral.
+        
+    (b)  The Agent shall comply with any applicable law in connection with
+    a disposition of Collateral and such compliance will not be considered
+    adversely to affect the commercial reasonableness of any sale of the
+    Collateral. The Agent may sell the Collateral without giving any
+    warranties and may specifically disclaim such warranties. If the Agent
+    sells any of the Collateral on credit, the Debtors will only be
+    credited with payments actually made by the purchaser. In addition,
+    each Debtor waives any and all rights that it may have to a judicial
+    hearing in advance of the enforcement of any of the Agent’s rights and
+    remedies hereunder, including, without limitation, its right following
+    an Event of Default to take immediate possession of the Collateral and
+    to exercise its rights and remedies with respect thereto.
+     
+    (c)  For the purpose of enabling the Agent to further exercise rights
+    and remedies under this Section 8 or elsewhere provided by agreement or
+    applicable law, each Debtor hereby grants to the Agent, for the benefit
+    of the Agent and the Secured Parties, an irrevocable, nonexclusive
+    license (exercisable without payment of royalty or other compensation
+    to such Debtor) to use, license or sublicense following an Event of
+    Default, any Intellectual Property now owned or hereafter acquired by
+    such Debtor, and wherever the same may be located, and including in
+    such license access to all media in which any of the licensed items may
+    be recorded or stored and to all computer software and programs used
+    for the compilation or printout thereof.
+ 
+
+  	14 	 
+
+ 
+
+ 
+9.  Applications of Proceeds. The proceeds of any such sale, lease or other 
+disposition of the Collateral hereunder or from payments made on account of 
+any insurance policy insuring any portion of the Collateral shall be 
+applied first, to the expenses of retaking, holding, storing, processing 
+and preparing for sale, selling, and the like (including, without 
+limitation, any taxes, fees and other costs incurred in connection 
+therewith) of the Collateral, to the reasonable attorneys’ fees and 
+expenses incurred by the Agent in enforcing the Secured Parties’ rights 
+hereunder and in connection with collecting, storing and disposing of the 
+Collateral, and then to satisfaction of the Obligations pro rata among the 
+Secured Parties (based on then-outstanding principal amounts of Debentures 
+at the time of any such determination), and to the payment of any other 
+amounts required by applicable law, after which the Secured Parties shall 
+pay to the applicable Debtor any surplus proceeds. If, upon the sale, 
+license or other disposition of the Collateral, the proceeds thereof are 
+insufficient to pay all amounts to which the Secured Parties are legally 
+entitled, the Debtors will be liable for the deficiency, together with 
+interest thereon, at the rate of 18% per annum or the lesser amount 
+permitted by applicable law (the “Default Rate”), and the reasonable fees 
+of any attorneys employed by the Secured Parties to collect such 
+deficiency. To the extent permitted by applicable law, each Debtor waives 
+all claims, damages and demands against the Secured Parties arising out of 
+the repossession, removal, retention or sale of the Collateral, unless due 
+solely to the gross negligence or willful misconduct of the Secured Parties 
+as determined by a final judgment (not subject to further appeal) of a 
+court of competent jurisdiction.
+ 
+10.  Securities Law Provision. Each Debtor recognizes that Agent may be 
+limited in its ability to effect a sale to the public of all or part of the 
+Pledged Securities by reason of certain prohibitions in the Securities Act 
+of 1933, as amended, or other federal or state securities laws 
+(collectively, the “Securities Laws”), and may be compelled to resort to 
+one or more sales to a restricted group of purchasers who may be required 
+to agree to acquire the Pledged Securities for their own account, for 
+investment and not with a view to the distribution or resale thereof. Each 
+Debtor agrees that sales so made may be at prices and on terms less 
+favorable than if the Pledged Securities were sold to the public, and that 
+Agent has no obligation to delay the sale of any Pledged Securities for the 
+period of time necessary to register the Pledged Securities for sale to the 
+public under the Securities Laws. Each Debtor shall cooperate with Agent in 
+its attempt to satisfy any requirements under the Securities Laws 
+(including, without limitation, registration thereunder if requested by 
+Agent) applicable to the sale of the Pledged Securities by Agent.
+ 
+11.  Costs and Expenses. Each Debtor agrees to pay all reasonable 
+out-of-pocket fees, costs and expenses incurred in connection with any 
+filing required hereunder, including without limitation, any financing 
+statements pursuant to the UCC, continuation statements, partial releases 
+and/or termination statements related thereto or any expenses of any 
+searches reasonably required by the Agent. The Debtors shall also pay all 
+other claims and charges which in the reasonable opinion of the Agent is 
+reasonably likely to prejudice, imperil or otherwise affect the Collateral 
+or the Security Interests therein. The Debtors will also, upon demand, pay 
+to the Agent the amount of any and all reasonable expenses, including the 
+reasonable fees and expenses of its counsel and of any experts and agents, 
+which the Agent, for the benefit of the Secured Parties, may incur in 
+connection with the creation, perfection, protection, satisfaction, 
+foreclosure, collection or enforcement of the Security Interest and the 
+preparation, administration, continuance, amendment or enforcement of this 
+Agreement and pay to the Agent the amount of any and all reasonable 
+expenses, including the reasonable fees and expenses of its counsel and of 
+any experts and agents, which the Agent, for the benefit of the Secured 
+Parties, and the Secured Parties may incur in connection with (i) the 
+enforcement of this Agreement, (ii) the custody or preservation of, or the 
+sale of, collection from, or other realization upon, any of the Collateral, 
+or (iii) the exercise or enforcement of any of the rights of the Secured 
+Parties under the Debentures. Until so paid, any fees payable hereunder 
+shall be added to the principal amount of the Debentures and shall bear 
+interest at the Default Rate.
+ 
+
+  	15 	 
+
+ 
+
+ 
+12. Responsibility for Collateral. The Debtors assume all liabilities and 
+responsibility in connection with all Collateral, and the Obligations shall 
+in no way be affected or diminished by reason of the loss, destruction, 
+damage or theft of any of the Collateral or its unavailability for any 
+reason. Without limiting the generality of the foregoing, (a) neither the 
+Agent nor any Secured Party (i) has any duty (either before or after an 
+Event of Default) to collect any amounts in respect of the Collateral or to 
+preserve any rights relating to the Collateral, or (ii) has any obligation 
+to clean-up or otherwise prepare the Collateral for sale, and (b) each 
+Debtor shall remain obligated and liable under each contract or agreement 
+included in the Collateral to be observed or performed by such Debtor 
+thereunder. Neither the Agent nor any Secured Party shall have any 
+obligation or liability under any such contract or agreement by reason of 
+or arising out of this Agreement or the receipt by the Agent or any Secured 
+Party of any payment relating to any of the Collateral, nor shall the Agent 
+or any Secured Party be obligated in any manner to perform any of the 
+obligations of any Debtor under or pursuant to any such contract or 
+agreement, to make inquiry as to the nature or sufficiency of any payment 
+received by the Agent or any Secured Party in respect of the Collateral or 
+as to the sufficiency of any performance by any party under any such 
+contract or agreement, to present or file any claim, to take any action to 
+enforce any performance or to collect the payment of any amounts which may 
+have been assigned to the Agent or to which the Agent or any Secured Party 
+may be entitled at any time or times.
+ 
+13.  Security Interests Absolute. All rights of the Secured Parties and all 
+obligations of the Debtors hereunder, shall be absolute and unconditional, 
+irrespective of: (a) any lack of validity or enforceability of this 
+Agreement, the Debentures or any agreement entered into in connection with 
+the foregoing, or any portion hereof or thereof; (b) any change in the 
+time, manner or place of payment or performance of, or in any other term 
+of, all or any of the Obligations, or any other amendment or waiver of or 
+any consent to any departure from the Debentures or any other agreement 
+entered into in connection with the foregoing; (c) any exchange, release or 
+nonperfection of any of the Collateral, or any release or amendment or 
+waiver of or consent to departure from any other collateral for, or any 
+guarantee, or any other security, for all or any of the Obligations; (d) 
+any action by the Secured Parties to obtain, adjust, settle and cancel in 
+its sole discretion any insurance claims or matters made or arising in 
+connection with the Collateral; or (e) any other circumstance which might 
+otherwise constitute any legal or equitable defense available to a Debtor, 
+or a discharge of all or any part of the Security Interests granted hereby. 
+Until the Obligations shall have been paid and performed in full, the 
+rights of the Secured Parties shall continue even if the Obligations are 
+barred for any reason, including, without limitation, the running of the 
+statute of limitations or bankruptcy. Each Debtor expressly waives 
+presentment, protest, notice of protest, demand, notice of nonpayment and 
+demand for performance. In the event that at any time any transfer of any 
+Collateral or any payment received by the Secured Parties hereunder shall 
+be deemed by final order of a court of competent jurisdiction to have been 
+a voidable preference or fraudulent conveyance under the bankruptcy or 
+insolvency laws of the United States, or shall be deemed to be otherwise 
+due to any party other than the Secured Parties, then, in any such event, 
+each Debtor’s obligations hereunder shall survive cancellation of this 
+Agreement, and shall not be discharged or satisfied by any prior payment 
+thereof and/or cancellation of this Agreement, but shall remain a valid and 
+binding obligation enforceable in accordance with the terms and provisions 
+hereof. Each Debtor waives all right to require the Secured Parties to 
+proceed against any other person or entity or to apply any Collateral which 
+the Secured Parties may hold at any time, or to marshal assets, or to 
+pursue any other remedy. Each Debtor waives any defense arising by reason 
+of the application of the statute of limitations to any obligation secured 
+hereby.
+ 
+
+  	16 	 
+
+ 
+
+ 
+14.  Term of Agreement. This Agreement and the Security Interests shall 
+terminate on the date on which all payments under the Debentures have been 
+indefeasibly paid in full and all other Obligations have been paid or 
+discharged; provided, however, that all indemnities of the Debtors 
+contained in this Agreement (including, without limitation, Annex B 
+hereto) shall survive and remain operative and in full force and effect 
+regardless of the termination of this Agreement.
+ 
+15.  Power of Attorney; Further Assurances.
+     
+    (a)  Each Debtor authorizes the Agent, and does hereby make, constitute
+    and appoint the Agent and its officers, agents, successors or assigns
+    with full power of substitution, as such Debtor’s true and lawful
+    attorney-in-fact, with power, in the name of the Agent or such Debtor,
+    to, after the occurrence and during the continuance of an Event of
+    Default, (i) endorse any note, checks, drafts, money orders or other
+    instruments of payment (including payments payable under or in respect
+    of any policy of insurance) in respect of the Collateral that may come
+    into possession of the Agent; (ii) to sign and endorse any financing
+    statement pursuant to the UCC or any invoice, freight or express bill,
+    bill of lading, storage or warehouse receipts, drafts against debtors,
+    assignments, verifications and notices in connection with accounts, and
+    other documents relating to the Collateral; (iii) to pay or discharge
+    taxes, liens, security interests or other encumbrances at any time
+    levied or placed on or threatened against the Collateral; (iv) to
+    demand, collect, receipt for, compromise, settle and sue for monies due
+    in respect of the Collateral; (v) to transfer any Intellectual Property
+    or provide licenses respecting any Intellectual Property; and (vi)
+    generally, at the option of the Agent, and at the expense of the
+    Debtors, at any time, or from time to time, to execute and deliver any
+    and all documents and instruments and to do all acts and things which
+    the Agent deems necessary to protect, preserve and realize upon the
+    Collateral and the Security Interests granted therein in order to
+    effect the intent of this Agreement and the Debentures all as fully and
+    effectually as the Debtors might or could do; and each Debtor hereby
+    ratifies all that said attorney shall lawfully do or cause to be done
+    by virtue hereof. This power of attorney is coupled with an interest
+    and shall be irrevocable for the term of this Agreement and thereafter
+    as long as any of the Obligations shall be outstanding. The designation
+    set forth herein shall be deemed to amend and supersede any
+    inconsistent provision in the Organizational Documents or other
+    documents or agreements to which any Debtor is subject or to which any
+    Debtor is a party. Without limiting the generality of the foregoing,
+    after the occurrence and during the continuance of an Event of Default,
+    the Agent on behalf of the secured Parties and each Secured Party is
+    specifically authorized to execute and file any applications for or
+    instruments of transfer and assignment of any patents, trademarks,
+    copyrights or other Intellectual Property with the United States Patent
+    and Trademark Office and the United States Copyright Office.
+     
+
+  	17 	 
+
+ 
+
+     
+    (b)  On a continuing basis, each Debtor will make, execute,
+    acknowledge, deliver, file and record, as the case may be, with the
+    proper filing and recording agencies in any jurisdiction, including,
+    without limitation, the jurisdictions indicated on Schedule C attached
+    hereto, all such instruments, and take all such action as may
+    reasonably be deemed necessary or advisable, or as reasonably requested
+    by the Agent, to perfect the Security Interests granted hereunder and
+    otherwise to carry out the intent and purposes of this Agreement, or
+    for assuring and confirming to the Agent the grant or perfection of a
+    perfected security interest in all the Collateral under the UCC.
+ 
+    (c)  Each Debtor hereby irrevocably appoints the Agent as such Debtor’s
+    attorney-in-fact, with full authority in the place and instead of such
+    Debtor and in the name of such Debtor, from time to time in the Agent’s
+    discretion, to take any action and to execute any instrument which the
+    Agent may deem necessary or advisable to accomplish the purposes of
+    this Agreement, including the filing, in its sole discretion, of one or
+    more financing or continuation statements and amendments thereto,
+    relative to any of the Collateral without the signature of such Debtor
+    where permitted by law, which financing statements may (but need not)
+    describe the Collateral as “all assets” or “all personal property” or
+    words of like import, and ratifies all such actions taken by the Agent
+    for the benefit of the Secured Parties. This power of attorney is
+    coupled with an interest and shall be irrevocable for the term of this
+    Agreement and thereafter as long as any of the Obligations shall be
+    outstanding.
+ 
+16.  Notices. All notices, requests, demands and other communications 
+hereunder shall be subject to the notice provision of the Purchase 
+Agreement (as such term is defined in the Debentures).
+ 
+17.  Other Security. To the extent that the Obligations are now or 
+hereafter secured by property other than the Collateral or by the 
+guarantee, endorsement or property of any other person, firm, corporation 
+or other entity, then the Agent, on behalf of the Secured Parties, shall 
+have the right, in its sole discretion, to pursue, relinquish, subordinate, 
+modify or take any other action with respect thereto, without in any way 
+modifying or affecting any of the Secured Parties’ rights and remedies 
+hereunder.
+ 
+18.  Appointment of Agent. The Secured Parties hereby appoint Hillair 
+Capital Management LLC to act as their agent (“Agent”) for purposes of 
+exercising any and all rights and remedies of the Secured Parties 
+hereunder. Such appointment shall continue until revoked in writing by a 
+Majority in Interest, at which time a Majority in Interest shall appoint a 
+new Agent, provided that Agent may not be removed as Agent unless Agent 
+shall then hold less than $500,000 in principal amount of Debentures; 
+provided, further, that such removal may occur only if each of the other 
+Secured Parties shall then hold not less than an aggregate of $2,900,001 in 
+principal amount of Debentures. The Agent shall have the rights, 
+responsibilities and immunities set forth in Annex B hereto.
+ 
+
+  	18 	 
+
+ 
+
+ 
+19.  Miscellaneous.
+ 
+    (a)  No course of dealing between the Debtors and the Secured Parties,
+    nor any failure to exercise, nor any delay in exercising, on the part
+    of the Secured Parties, any right, power or privilege hereunder or
+    under the Debentures shall operate as a waiver thereof; nor shall any
+    single or partial exercise of any right, power or privilege hereunder
+    or thereunder preclude any other or further exercise thereof or the
+    exercise of any other right, power or privilege.
+     
+    (b)  All of the rights and remedies of the Secured Parties, and of the
+    Agent on behalf of the Secured Parties, with respect to the Collateral,
+    whether established hereby or by the Debentures or by any other
+    agreements, instruments or documents or by law shall be cumulative and
+    may be exercised singly or concurrently.
+     
+    (c)  This Agreement, together with the exhibits and schedules hereto,
+    contain the entire understanding of the parties with respect to the
+    subject matter hereof and supersede all prior agreements and
+    understandings, oral or written, with respect to such matters, which
+    the parties acknowledge have been merged into this Agreement and the
+    exhibits and schedules hereto. No provision of this Agreement may be
+    waived, modified, supplemented or amended except in a written
+    instrument signed, in the case of an amendment, by the Debtors and by
+    the Secured Parties holding 67% or more of the principal amount of
+    Debentures then outstanding, or, in the case of a waiver, by the party
+    against whom enforcement of any such waived provision is sought.
+     
+    (d)  If any term, provision, covenant or restriction of this Agreement
+    is held by a court of competent jurisdiction to be invalid, illegal,
+    void or unenforceable, the remainder of the terms, provisions,
+    covenants and restrictions set forth herein shall remain in full force
+    and effect and shall in no way be affected, impaired or invalidated,
+    and the parties hereto shall use their commercially reasonable efforts
+    to find and employ an alternative means to achieve the same or
+    substantially the same result as that contemplated by such term,
+    provision, covenant or restriction. It is hereby stipulated and
+    declared to be the intention of the parties that they would have
+    executed the remaining terms, provisions, covenants and restrictions
+    without including any of such that may be hereafter declared invalid,
+    illegal, void or unenforceable.
+     
+    (e)  No waiver of any default with respect to any provision, condition
+    or requirement of this Agreement shall be deemed to be a continuing
+    waiver in the future or a waiver of any subsequent default or a waiver
+    of any other provision, condition or requirement hereof, nor shall any
+    delay or omission of any party to exercise any right hereunder in any
+    manner impair the exercise of any such right.
+     
+    (f)   This Agreement shall be binding upon and inure to the benefit of
+    the parties and their successors and permitted assigns. The Company and
+    the Guarantors may not assign this Agreement or any rights or
+    obligations hereunder without the prior written consent of each Secured
+    Party. Any Secured Party may assign any or all of its rights under this
+    Agreement to any Person (as defined in the Purchase Agreement) to whom
+    such Secured Party assigns or transfers any rights with respect to any
+    Obligations, provided such transferee agrees in writing to be bound,
+    with respect to such transferred rights, by the provisions of this
+    Agreement that apply to the “Secured Parties.”
+     
+
+  	19 	 
+
+ 
+
+     
+    (g)  Each party shall take such further action and execute and deliver
+    such further documents as may be necessary or appropriate in order to
+    carry out the provisions and purposes of this Agreement.
+     
+    (h)  Except to the extent mandatorily governed by the jurisdiction or
+    situs where the Collateral is located, all questions concerning the
+    construction, validity, enforcement and interpretation of this
+    Agreement shall be governed by and construed and enforced in accordance
+    with the internal laws of the State of New York, without regard to the
+    principles of conflicts of law thereof. Except to the extent
+    mandatorily governed by the jurisdiction or situs where the Collateral
+    is located, each Debtor agrees that all proceedings concerning the
+    interpretations, enforcement and defense of the transactions
+    contemplated by this Agreement and the Debentures (whether brought
+    against a party hereto or its respective affiliates, directors,
+    officers, shareholders, partners, members, employees or agents) shall
+    be commenced exclusively in the state and federal courts sitting in the
+    City of New York, Borough of Manhattan. Except to the extent
+    mandatorily governed by the jurisdiction or situs where the Collateral
+    is located, each Debtor hereby irrevocably submits to the exclusive
+    jurisdiction of the state and federal courts sitting in the City of New
+    York, Borough of Manhattan for the adjudication of any dispute
+    hereunder or in connection herewith or with any transaction
+    contemplated hereby or discussed herein, and hereby irrevocably waives,
+    and agrees not to assert in any proceeding, any claim that it is not
+    personally subject to the jurisdiction of any such court, that such
+    proceeding is improper. Each party hereto hereby irrevocably waives
+    personal service of process and consents to process being served in any
+    such proceeding by mailing a copy thereof via registered or certified
+    mail or overnight delivery (with evidence of delivery) to such party at
+    the address in effect for notices to it under this Agreement and agrees
+    that such service shall constitute good and sufficient service of
+    process and notice thereof. Nothing contained herein shall be deemed to
+    limit in any way any right to serve process in any manner permitted by
+    law. Each party hereto hereby irrevocably waives, to the fullest extent
+    permitted by applicable law, any and all right to trial by jury in any
+    legal proceeding arising out of or relating to this Agreement or the
+    transactions contemplated hereby.
+     
+    (i)  This Agreement may be executed in any number of counterparts, each
+    of which when so executed shall be deemed to be an original and, all of
+    which taken together shall constitute one and the same Agreement. In
+    the event that any signature is delivered by facsimile transmission,
+    such signature shall create a valid binding obligation of the party
+    executing (or on whose behalf such signature is executed) the same with
+    the same force and effect as if such facsimile signature were the
+    original thereof.
+     
+
+  	20 	 
+
+ 
+
+     
+    (j)  All Debtors shall jointly and severally be liable for the
+    obligations of each Debtor to the Secured Parties hereunder.
+     
+    (k)   Each Debtor shall indemnify, reimburse and hold harmless the
+    Agent and the Secured Parties and their respective partners, members,
+    shareholders, officers, directors, employees and agents (and any other
+    persons with other titles that have similar functions) (collectively, “
+    Indemnitees”) from and against any and all losses, claims, liabilities,
+    damages, penalties, suits, costs and expenses, of any kind or nature,
+    (including fees relating to the cost of investigating and defending any
+    of the foregoing) imposed on, incurred by or asserted against such
+    Indemnitee in any way related to or arising from or alleged to arise
+    from this Agreement or the Collateral, except any such losses, claims,
+    liabilities, damages, penalties, suits, costs and expenses which result
+    from the gross negligence or willful misconduct of the Indemnitee as
+    determined by a final, nonappealable decision of a court of competent
+    jurisdiction. This indemnification provision is in addition to, and not
+    in limitation of, any other indemnification provision in the
+    Debentures, the Purchase Agreement (as such term is defined in the
+    Debentures) or any other agreement, instrument or other document
+    executed or delivered in connection herewith or therewith.
+     
+    (l)   Nothing in this Agreement shall be construed to subject Agent or
+    any Secured Party to liability as a partner in any Debtor or any of its
+    direct or indirect subsidiaries that is a partnership or as a member in
+    any Debtor or any of its direct or indirect subsidiaries that is a
+    limited liability company, nor shall Agent or any Secured Party be
+    deemed to have assumed any obligations under any partnership agreement
+    or limited liability company agreement, as applicable, of any such
+    Debtor or any of its direct or indirect subsidiaries or otherwise,
+    unless and until any such Secured Party exercises its right to be
+    substituted for such Debtor as a partner or member, as applicable,
+    pursuant hereto.
+     
+    (m)   To the extent that the grant of the security interest in the
+    Collateral and the enforcement of the terms hereof require the consent,
+    approval or action of any partner or member, as applicable, of any
+    Debtor or any direct or indirect subsidiary of any Debtor or compliance
+    with any provisions of any of the Organizational Documents, the Debtors
+    hereby grant such consent and approval and waive any such noncompliance
+    with the terms of said documents.
+ 
+[SIGNATURE PAGES FOLLOW]
+ 
+
+  	21 	 
+
+ 
+
+  
+IN WITNESS WHEREOF, the parties hereto have caused this Security Agreement 
+to be duly executed on the day and year first above written.
+ 
+ABT HOLDINGS, Inc.
+ 
+  	  	 
+By: 	/s/ Shahan Ohanessian 	 
+  	Name: SHAHAN OHANESSIAN 	 
+  	
+Title: CEO 
+ 
+  	  	 
+SCOOBEEZ, INC.
+ 
+  	  	 
+By: 	/s/ Shahan Ohanessian 	 
+  	Name: SHAHAN OHANESSIAN 	 
+  	Title: CEO 	 
+  	  	 
+SCOOBEEZ GLOBAL, INC. 
+ 
+  	  	 
+By: 	/s/ Shahan Ohanessian 	 
+  	Name: SHAHAN OHANESSIAN 	 
+  	Title: CEO 	 
+  	  	 
+SCOOBUR LLC
+ 
+  	  	 
+By: 	/s/ Shahan Ohanessian  	 
+  	Name: SHAHAN OHANESSIAN 	 
+  	Title: Managing Partner 	 
+ 
+ 
+[SIGNATURE PAGE OF HOLDERS FOLLOWS]
+ 
+
+ 
+
+ 
+
+ 
+[SIGNATURE PAGE OF HOLDERS]
+ 
+Name of Investing Entity: __________________________
+ 
+Signature of Authorized Signatory of Investing entity: 
+_________________________
+ 
+Name of Authorized Signatory: _________________________
+ 
+Title of Authorized Signatory: __________________________
+               
+               
+[SIGNATURE PAGE OF HOLDERS FOLLOWS]
+  
+
+ 
+
+ 
+
+ 
+SCHEDULE A
+ 
+Principal Place of Business of Debtors
+ 
+Locations Where Collateral is Located or Stored
+ 
+ 
+SCHEDULE B
+ 
+Existing Liens
+ 
+ 
+SCHEDULE C
+ 
+Filings
+ 
+ 
+SCHEDULE D
+ 
+Legal Names and Organizational Identification Numbers
+ 
+ 
+SCHEDULE E
+Names; Mergers and Acquisitions
+ 
+ 
+SCHEDULE F
+Intellectual Property
+ 
+ 
+SCHEDULE G
+Account Debtors
+ 
+ 
+SCHEDULE H
+Pledged Securities
+ 
+
+ 
+
+ 
+
+ 
+ANNEX A
+to
+SECURITY
+AGREEMENT
+ 
+FORM OF ADDITIONAL DEBTOR JOINDER
+ 
+Security Agreement dated as of October 7, 2016 made by
+ABT Holdings, Inc. and its subsidiaries party thereto
+from time to time, as Debtors to and in favor of
+the Secured Parties identified therein (the “Security Agreement”)
+ 
+Reference is made to the Security Agreement as defined above; capitalized 
+terms used herein and not otherwise defined herein shall have the meanings 
+given to such terms in, or by reference in, the Security Agreement.
+ 
+The undersigned hereby agrees that upon delivery of this Additional Debtor 
+Joinder to the Secured Parties referred to above, the undersigned shall (a) 
+be an Additional Debtor under the Security Agreement, (b) have all the 
+rights and obligations of the Debtors under the Security Agreement as fully 
+and to the same extent as if the undersigned was an original signatory 
+thereto and (c) be deemed to have made the representations and warranties 
+set forth therein as of the date of execution and delivery of this 
+Additional Debtor Joinder. WITHOUT LIMITING THE GENERALITY OF THE 
+FOREGOING, THE UNDERSIGNED SPECIFICALLY GRANTS TO THE AGENT ON BEHALF OF 
+THE SECURED PARTIES A SECURITY INTEREST IN THE COLLATERAL AS MORE FULLY SET 
+FORTH IN THE SECURITY AGREEMENT AND ACKNOWLEDGES AND AGREES TO THE WAIVER 
+OF JURY TRIAL PROVISIONS SET FORTH THEREIN.
+ 
+Attached hereto are supplemental and/or replacement Schedules to the 
+Security Agreement, as applicable.
+ 
+An executed copy of this Joinder shall be delivered to the Secured Parties, 
+and the Secured Parties may rely on the matters set forth herein on or 
+after the date hereof. This Joinder shall not be modified, amended or 
+terminated without the prior written consent of the Secured Parties.
+ 
+                       
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the undersigned has caused this Joinder to be executed 
+in the name and on behalf of the undersigned.
+ 
+        [None as of October 7, 2016]
+ 
+  	By: 	 /s/ Shahan Ohanessian
+  	Name: SHAHAN OHANESSIAN
+  	Title: CEO
+  	  	 
+  	
+Address: 396 S. PASADENA AVE,
+PASADENA, CA 91105
+  
+Dated:
+ 
+
+ 
+
+ 
+
+ 
+ANNEX B
+to
+SECURITY
+AGREEMENT
+ 
+THE AGENT
+ 
+1. Appointment. The Secured Parties (all capitalized terms used herein and 
+not otherwise defined shall have the respective meanings provided in the 
+Security Agreement to which this Annex B is attached (the “Agreement”)), by 
+their acceptance of the benefits of the Agreement, hereby designate [_____] 
+(“[_____]” or “Agent”) as the Agent to act as specified herein and in the 
+Agreement. Each Secured Party shall be deemed irrevocably to authorize the 
+Agent to take such action on its behalf under the provisions of the 
+Agreement and any other Transaction Document (as such term is defined in 
+the Purchase Agreement) and to exercise such powers and to perform such 
+duties hereunder and thereunder as are specifically delegated to or 
+required of the Agent by the terms hereof and thereof and such other powers 
+as are reasonably incidental thereto. The Agent may perform any of its 
+duties hereunder by or through its agents or employees.
+ 
+2. Nature of Duties. The Agent shall have no duties or responsibilities 
+except those expressly set forth in the Agreement. Neither the Agent nor 
+any of its partners, members, shareholders, officers, directors, employees 
+or agents shall be liable for any action taken or omitted by it as such 
+under the Agreement or hereunder or in connection herewith or therewith, be 
+responsible for the consequence of any oversight or error of judgment or 
+answerable for any loss, unless caused solely by its or their gross 
+negligence or willful misconduct as determined by a final judgment (not 
+subject to further appeal) of a court of competent jurisdiction. The duties 
+of the Agent shall be mechanical and administrative in nature; the Agent 
+shall not have by reason of the Agreement or any other Transaction Document 
+a fiduciary relationship in respect of any Debtor or any Secured Party; and 
+nothing in the Agreement or any other Transaction Document, expressed or 
+implied, is intended to or shall be so construed as to impose upon the 
+Agent any obligations in respect of the Agreement or any other Transaction 
+Document except as expressly set forth herein and therein.
+ 
+3. Lack of Reliance on the Agent. Independently and without reliance upon 
+the Agent, each Secured Party, to the extent it deems appropriate, has made 
+and shall continue to make (i) its own independent investigation of the 
+financial condition and affairs of the Company and its subsidiaries in 
+connection with such Secured Party’s investment in the Debtors, the 
+creation and continuance of the Obligations, the transactions contemplated 
+by the Transaction Documents, and the taking or not taking of any action in 
+connection therewith, and (ii) its own appraisal of the creditworthiness of 
+the Company and its subsidiaries, and of the value of the Collateral from 
+time to time, and the Agent shall have no duty or responsibility, either 
+initially or on a continuing basis, to provide any Secured Party with any 
+credit, market or other information with respect thereto, whether coming 
+into its possession before any Obligations are incurred or at any time or 
+times thereafter. The Agent shall not be responsible to the Debtors or any 
+Secured Party for any recitals, statements, information, representations or 
+warranties herein or in any document, certificate or other writing 
+delivered in connection herewith, or for the execution, effectiveness, 
+genuineness, validity, enforceability, perfection, collectibility, priority 
+or sufficiency of the Agreement or any other Transaction Document, or for 
+the financial condition of the Debtors or the value of any of the 
+Collateral, or be required to make any inquiry concerning either the 
+performance or observance of any of the terms, provisions or conditions of 
+the Agreement or any other Transaction Document, or the financial condition 
+of the Debtors, or the value of any of the Collateral, or the existence or 
+possible existence of any default or Event of Default under the Agreement, 
+the Debentures or any of the other Transaction Documents.
+ 
+
+ 
+
+ 
+
+ 
+4. Certain Rights of the Agent. The Agent shall have the right to take any 
+action with respect to the Collateral, on behalf of all of the Secured 
+Parties. To the extent practical, the Agent shall request instructions from 
+the Secured Parties with respect to any material act or action (including 
+failure to act) in connection with the Agreement or any other Transaction 
+Document, and shall be entitled to act or refrain from acting in accordance 
+with the instructions of a Majority in Interest; if such instructions are 
+not provided despite the Agent’s request therefor, the Agent shall be 
+entitled to refrain from such act or taking such action, and if such action 
+is taken, shall be entitled to appropriate indemnification from the Secured 
+Parties in respect of actions to be taken by the Agent; and the Agent shall 
+not incur liability to any person or entity by reason of so refraining. 
+Without limiting the foregoing, (a) no Secured Party shall have any right 
+of action whatsoever against the Agent as a result of the Agent acting or 
+refraining from acting hereunder in accordance with the terms of the 
+Agreement or any other Transaction Document, and the Debtors shall have no 
+right to question or challenge the authority of, or the instructions given 
+to, the Agent pursuant to the foregoing and (b) the Agent shall not be 
+required to take any action which the Agent believes (i) could reasonably 
+be expected to expose it to personal liability or (ii) is contrary to this 
+Agreement, the Transaction Documents or applicable law.
+ 
+5. Reliance. The Agent shall be entitled to rely, and shall be fully 
+protected in relying, upon any writing, resolution, notice, statement, 
+certificate, telex, teletype or telecopier message, cablegram, radiogram, 
+order or other document or telephone message signed, sent or made by the 
+proper person or entity, and, with respect to all legal matters pertaining 
+to the Agreement and the other Transaction Documents and its duties 
+thereunder, upon advice of counsel selected by it and upon all other 
+matters pertaining to this Agreement and the other Transaction Documents 
+and its duties thereunder, upon advice of other experts selected by it. 
+Anything to the contrary notwithstanding, the Agent shall have no 
+obligation whatsoever to any Secured Party to assure that the Collateral 
+exists or is owned by the Debtors or is cared for, protected or insured or 
+that the liens granted pursuant to the Agreement have been properly or 
+sufficiently or lawfully created, perfected, or enforced or are entitled to 
+any particular priority.
+ 
+
+ 
+
+ 
+
+ 
+6. Indemnification. To the extent that the Agent is not reimbursed and 
+indemnified by the Debtors, the Secured Parties will jointly and severally 
+reimburse and indemnify the Agent, in proportion to their initially 
+purchased respective principal amounts of Debentures, from and against any 
+and all liabilities, obligations, losses, damages, penalties, actions, 
+judgments, suits, costs, expenses or disbursements of any kind or nature 
+whatsoever which may be imposed on, incurred by or asserted against the 
+Agent in performing its duties hereunder or under the Agreement or any 
+other Transaction Document, or in any way relating to or arising out of the 
+Agreement or any other Transaction Document except for those determined by 
+a final judgment (not subject to further appeal) of a court of competent 
+jurisdiction to have resulted solely from the Agent’s own gross negligence 
+or willful misconduct. Prior to taking any action hereunder as Agent, the 
+Agent may require each Secured Party to deposit with it sufficient sums as 
+it determines in good faith is necessary to protect the Agent for costs and 
+expenses associated with taking such action.
+ 
+7. Resignation by the Agent.
+     
+    (a) The Agent may resign from the performance of all its functions and
+    duties under the Agreement and the other Transaction Documents at any
+    time by giving 30 days’ prior written notice (as provided in the
+    Agreement) to the Debtors and the Secured Parties. Such resignation
+    shall take effect upon the appointment of a successor Agent pursuant to
+    clauses (b) and (c) below.
+     
+    (b) Upon any such notice of resignation, the Secured Parties, acting by
+    a Majority in Interest, shall appoint a successor Agent hereunder.
+     
+    (c) If a successor Agent shall not have been so appointed within said
+    30-day period, the Agent shall then appoint a successor Agent who shall
+    serve as Agent until such time, if any, as the Secured Parties appoint
+    a successor Agent as provided above. If a successor Agent has not been
+    appointed within such 30-day period, the Agent may petition any court
+    of competent jurisdiction or may interplead the Debtors and the Secured
+    Parties in a proceeding for the appointment of a successor Agent, and
+    all fees, including, but not limited to, extraordinary fees associated
+    with the filing of interpleader and expenses associated therewith,
+    shall be payable by the Debtors on demand.
+ 
+8. Rights with respect to Collateral. Each Secured Party agrees with all 
+other Secured Parties and the Agent (i) that such Secured Party shall not, 
+and shall not attempt to, exercise any rights with respect to its security 
+interest in the Collateral, whether pursuant to any other agreement or 
+otherwise (other than pursuant to this Agreement), or take or institute any 
+action against the Agent or any of the other Secured Parties in respect of 
+the Collateral or its rights hereunder (other than any such action arising 
+from the breach of this Agreement) and (ii) that such Secured Party has no 
+other rights with respect to the Collateral other than as set forth in this 
+Agreement and the other Transaction Documents. Upon the acceptance of any 
+appointment as Agent hereunder by a successor Agent, such successor Agent 
+shall thereupon succeed to and become vested with all the rights, powers, 
+privileges and duties of the retiring Agent and the retiring Agent shall be 
+discharged from its duties and obligations under the Agreement.  After any 
+retiring Agent’s resignation or removal hereunder as Agent, the provisions 
+of the Agreement including this Annex B shall inure to its benefit as to 
+any actions taken or omitted to be taken by it while it was Agent.
+ 
+ 
+ 
+ 
