@@ -1,0 +1,1613 @@
+ EX-10.38 3 stlt_ex1038.htm STANDARD EXCLUSIVE LICENSE AGREEMENT
+EXHIBIT 10.38
+ 
+[***] Indicates redacted information subject to a request for confidential 
+treatment.
+ 
+STANDARD EXCLUSIVE LICENSE AGREEMENT
+WITH SUBLICENSING TERMS
+ 
+TABLE OF CONTENTS
+ 
+Section 1
+Definitions
+Section 2
+Grant
+Section 3
+Due Diligence
+Section 4
+Payments
+Section 5
+Certain Warranties and Disclaimers of FSURF
+Section 6
+Record Keeping
+Section 7
+Patent Prosecution
+Section 8
+Infringement and Invalidity
+Section 9
+Term and Termination
+Section 10
+Assignability
+Section 11
+Dispute Resolution Procedures
+Section 12
+Product Liability; Conduct of Business
+Section 13
+Use of Names
+Section 14
+Miscellaneous
+Section 15
+Notices
+Section 16
+Contract Formation and Authority
+Section 17
+United States Government Interests
+Section 18
+Confidentiality
+Section 19
+University Rules and Regulations
+Appendix A –
+Inter-institutional Agreement
+Appendix B –
+Development Plan
+Appendix C –
+Development Report
+Appendix D –
+FSURF Royalty Report
+Appendix E –
+Due Diligence
+  
+ 
+1
+ 
+ 
+This Agreement is made effective the ____ day of _____________, 2016, (the 
+“Effective Date”) by and between the Florida State University Research 
+Foundation, Inc. (hereinafter called “FSURF”), a nonstock, nonprofit 
+Florida corporation, having its principal place of business at 2000 Levy 
+Avenue, Suite 351, Tallahassee, Florida 32310, and Spotlight Innovation 
+Inc. (hereinafter called “Licensee”), a corporation organized and existing 
+under the laws of Nevada, having its principle place of business at 6750 
+Westown Pkwy, Ste. 200-226, Des Moines, Iowa 50266;
+ 
+WHEREAS, U.S. Department of Health and Human Services, as represented by 
+National Center for Advancing Translational Sciences (HHS), and Johns 
+Hopkins University (JHU) are co-owners with Florida State University 
+Research Foundation of certain inventions that are described in the 
+“Licensed Patents” (defined below) and has granted FSURF the right to 
+license its undivided rights pursuant to that certain Inter-institutional 
+Agreement effective [***] and attached as Appendix A;
+   
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set 
+forth below, the parties covenant and agree as follows:
+  
+Section 1 Definitions
+ 
+1.1 The term “Affiliate” shall mean: (a) any person or entity which 
+controls at least fifty percent (50%) of the equity or voting stock of the 
+Licensee or (b) any person or entity fifty percent (50%) of whose equity or 
+voting stock is owned or controlled by the Licensee or (c) any person or 
+entity of which at least fifty percent (50%) of the equity or voting stock 
+is owned or controlled by the same person or entity owning or controlling 
+at least fifty percent (50%) of Licensee or (d) any entity in which any 
+officer or employee is also an officer or employee of Licensee or any 
+person who is an officer or employee of Licensee.
+ 
+1.2 “Development Plan” shall mean a written report summarizing the 
+development activities that are to be undertaken by the Licensee to bring 
+Licensed Products and/or Licensed Processes to the market. The Development 
+Plan is attached as Appendix B.
+ 
+1.3 “Development Report” shall mean a written account of Licensee’s 
+progress under the Development Plan having at least the information 
+specified on Appendix C to this Agreement, and shall be sent to the address 
+specified on Appendix C.
+ 
+1.4 “Licensed Field” shall include treatment of viral infection(s).
+ 
+1.5 “Licensed Patents” shall refer to and mean all of the following FSURF 
+intellectual property:
+ 
+      1.5.1 the United States patent(s)/patent application(s) U.S.
+      Provisional patent applications [***], and all U.S. patents and
+      foreign patents and patent applications based on these U.S.
+      applications.
+       
+      1.5.2 United States and foreign patents issued from the applications
+      listed in 1.5.1 above and from divisionals and continuations of these
+      applications, to the extent the claims are directed to subject matter
+      specifically described in the applications listed in 1.5.1 above and
+      are dominated by the claims of those patent applications and patents
+      issuing thereon or reissues thereof, and any and all foreign patents
+      and patent applications corresponding thereto, all to the extent
+      owned or controlled by Florida State University.
+ 
+1.6 “Licensed Product” and “Licensed Process” shall mean:
+ 
+      1.6.1 In the case of a Licensed Product, any product or part thereof
+      developed by or on behalf of Licensee that:
+ 
+ 
+(a) 	is covered in whole or in part by an issued, unexpired claim or a 
+pending claim contained in the Licensed Patents, in any country in which 
+any product is made, used or sold;
+ 
+(b) 	is manufactured by using a process which is covered in whole or in 
+part by an issued, unexpired claim or a pending claim contained in the 
+Licensed Patents, in any country in which any such process is used or in 
+which any such product is used or sold.
+ 
+      1.6.2 In the case of a Licensed Process, any process which:
+ 
+ 
+(a) 	is covered in whole or in part by an issued, unexpired claim or a 
+pending claim contained in the Licensed Patents in any country in which 
+such process is practiced.
+ 
+ 
+2
+ 
+ 
+1.7 “Licensed Territory” shall be worldwide.
+ 
+1.8 “Liquidation Event” means (a) a merger, share exchange or other 
+reorganization, (b) the sale by one or more stockholders of a majority of 
+the voting power of Licensee, (c) the sale of all or substantially all of 
+the assets of Licensee, or (d) an asset sale of a Licensed Product(s) and 
+or Licensed Process(es), in which, with respect to (a), (b), and (c), the 
+stockholders of Licensee prior to such transaction do not own, directly or 
+indirectly, a majority of the voting power of the acquiring, surviving or 
+successor entity, as the case may be. For the avoidance of doubt, a 
+Liquidation Event shall not include the issuance and sale of Licensee’s 
+equity securities, or securities convertible into Licensee’s equity 
+securities, in a private placement transaction or other transaction that is 
+not an Initial Public Offering or the issuance of Licensee’s equity 
+securities to a bona fide creditor of Licensee in exchange for the 
+cancellation of indebtedness owed by Licensee, in each case, even if such 
+sale or issuance transaction results in the stockholders of Licensee 
+immediately prior to such transaction not owning, directly or indirectly, a 
+majority of the voting power of Licensee after such transaction.
+ 
+1.9 “Net Sales” shall mean the gross invoice price charged by, and the 
+value of non-cash consideration owed to, Licensee, an Affiliate or a 
+Sublicensee for sales of Licensed Products and Licensed Processes, less (a) 
+sales taxes or other taxes (other than income taxes), (b) shipping and 
+insurance charges, (c) actual allowances, rebates, credits, or refunds for 
+returned or defective goods, chargeback payments (or the equivalent 
+thereof), (d) trade, quantity, and other discounts, retroactive price 
+reductions, or other allowances actually allowed or granted from the billed 
+amount and taken (provided that such discounts shall be limited to 
+discounts in amounts customary in the trade), and (e) any import or export 
+duties, tariffs, or similar charges incurred with respect to the import or 
+export of Licensed Products or Licensed Processes into or out of any 
+country in the Licensed Territory. Licensed Products and Licensed Processes 
+will be considered sold when it is shipped, delivered, or invoiced, 
+whichever is earlier, by Licensee, an Affiliate or a Sublicensee, as the 
+case may be. Notwithstanding the foregoing, Net Sales shall not include, 
+and shall be deemed zero with respect to (a) the distribution of reasonable 
+quantities of promotional samples of Licensed Products and (b) Licensed 
+Products and Licensed Processes provided for clinical trials and research 
+purposes. For purposes of calculating Net Sales, a sale to a Sublicensee 
+for end use by the Sublicensee will be treated as a sale at Licensee’s list 
+price. For clarity, the term “Net Sales” does not include consideration 
+received by Licensee for the grant of rights under a Sublicense (for which 
+payment shall be governed solely by Section 2.2.2 hereof) or for royalties 
+under a Sublicense (for which payment shall be governed solely by Section 
+2.2.2 hereof).
+ 
+1.10 The term “Sublicensee” shall mean any third party to whom Licensee 
+confers the right to make, use or sell Licensed Product and/or Licensed 
+Processes and/or any of the intellectual property rights embodied in 
+Licensed Patents.
+ 
+Section 2 Grant
+ 
+2.1 License.
+ 
+2.1.1 License Under Licensed Patents
+ 
+      FSURF hereby grants to Licensee an exclusive license, limited to the
+      Licensed Field and the Licensed Territory, under the Licensed Patents
+      to make, use and sell Licensed Products and/or Licensed Processes.
+      FSURF reserves to itself, Florida State University, HHS, and JHU the
+      right to make and use the Licensed Patents, Licensed Products and/or
+      Licensed Processes solely for their internal research, clinical
+      (including, but not limited to patient care), and educational
+      purposes. In addition, FSURF reserves to itself, as well as to
+      Florida State University, HHS, JHU and to all non-profit research
+      institutions, the right to use materials that might be covered under
+      Licensed Patents solely for their internal research, educational, and
+      clinical purposes and to meet all applicable governmental
+      requirements governing the ability to transfer materials. This
+      license grant is subject to the government license rights in Section
+      17 herein.
+ 
+ 
+3
+ 
+ 
+2.2 Sublicense.
+ 
+      2.2.1 Licensee may grant written, Sublicenses to third parties. Any
+      agreement granting a Sublicense shall state that the Sublicense is
+      subject to the termination of this Agreement. Licensee shall have the
+      same responsibility for the activities of any Sublicensee or
+      Affiliate as if the activities were directly those of Licensee. This
+      right is subject to the requirement that any sublicense is subject to
+      the HHS Inter-Institutional Agreement attached as Appendix A.
+ 
+      2.2.2 In respect to Sublicenses granted by Licensee under 2.2.1
+      above, Licensee shall pay to FSURF an amount equal to what Licensee
+      would have been required to pay to FSURF had Licensee sold the amount
+      of Licensed Products or Licensed Processes sold by such Sublicensee.
+      In addition, if Licensee receives any fees, minimum royalties, or
+      other payments in consideration for any rights granted under a
+      Sublicense, and such payments are not based directly upon the amount
+      or value of Licensed Products or Licensed Processes sold by the
+      Sublicensee, then Licensee shall pay FSURF an amount equal to [***]
+      of such payments for any Sublicense entered into during the first two
+      years following the Effective Date, and an amount equal to [***] of
+      such payments for a Sublicense entered into thereafter, of such
+      payments in the manner specified in Section 4. Licensee shall not
+      receive from Sublicensees anything of value in lieu of cash payments
+      in consideration for any Sublicense under this Agreement without the
+      express prior written permission of FSURF.
+       
+      2.2.3 Licensee shall provide FSURF with an unredacted copy of each
+      sublicense agreement and any agreement which transfers intellectual
+      property rights granted hereunder, at least thirty (30) days prior to
+      the execution of the sublicense agreement and a fully executed
+      version within thirty (30) days of execution.
+       
+      2.2.4 In the event that FSURF notifies Licensee in writing of a third
+      party’s interest in a field of use which Licensee is not addressing
+      at the time of receipt of the notice, Licensee shall respond to FSURF
+      in writing within thirty (30) days of receipt of such notice to
+      inform FSURF whether Licensee intends to pursue the Field of Use. If
+      in such response, Licensee elects to forego the Field of Use, FSURF
+      may terminate the Licensee’s license in said field and negotiate and
+      execute said license directly.
+ 
+ 
+4
+ 
+ 
+Section 3 Due Diligence
+ 
+3.1 Development.
+ 
+3.1.1 Licensee agrees to and warrants that:
+ 
+ 
+(a) 	it has, or will obtain, the expertise necessary to independently 
+evaluate the inventions of the Licensed Patents;
+ 
+(b) 	it will establish and actively and diligently pursue the Development 
+Plan (see Appendix B) to the end that the inventions of the Licensed 
+Patents will be utilized to provide Licensed Products and/or Licensed 
+Processes for sale in the retail market within the Licensed Field;
+ 
+(c) 	it will diligently develop markets for Licensed Products and Licensed 
+Processes; and
+ 
+(d) 	until the date of first commercial sale of Licensed Products or 
+Licensed Processes, it will supply FSURF with a written Development Report 
+annually fifteen (15) days after the end of the calendar year (see Appendix 
+C).
+ 
+      3.1.2 Licensee agrees that the first commercial sale of products to
+      the retail customer shall occur on or before January 1, 2023 or FSURF
+      shall have the right to terminate the Agreement pursuant to Section
+      9.3 hereto. In addition, Licensee agrees to pay the product
+      development milestone payments listed in Section 4.3.3 and to
+      complete the due diligence activities listed in Appendix E or FSURF
+      shall have the right to terminate the Agreement pursuant to Section
+      9.3. Licensee will notify FSURF in writing as each milestone or due
+      diligence activity is met.
+       
+      3.1.3 Licensee may issue a written request to negotiate extensions of
+      individual milestones listed in Section 4.3.3 or due dates for
+      individual due diligence activities listed in Appendix E. Provided
+      that such requests are received by FSURF no less than ninety (90)
+      days prior to the original due date in the case of milestone
+      payments, or no less than forty five (45) days prior to the original
+      due date in the case of due diligence activities, and that each
+      request describes fully Licensee’s diligent efforts to achieve the
+      milestones or complete the due diligence activities, FSURF shall
+      consider in good faith such requests. Upon granting each such
+      request, FSURF and Licensee shall negotiate in good faith the length
+      of the extension. FSURF shall not unreasonably withhold requests to
+      negotiate extensions.
+       
+      3.1.4 Florida State University policies may require approval of
+      clinical trials involving technology invented at the University.
+      Accordingly, Licensee will notify FSURF prior to commencing any
+      clinical trials at Florida State University or its affiliated medical
+      facilities.
+ 
+ 
+5
+ 
+ 
+Section 4 Payments
+ 
+4.1 Obligation in Lieu of License Issue Fee (Alternative Fee).
+ 
+      In lieu of a license issue fee, in the case of a Liquidation Event
+      after the Effective Date, Licensee agrees to pay to FSURF an amount
+      equal to [***] of the transaction value ascribed to those assets,
+      products, and properties related to or stemming from the licensed
+      technology defined in the Agreement (the “Alternative Fee”). Payment
+      of the Alternative Fee shall be due thirty (30) days following the
+      closing of such Liquidation Event.
+ 
+4.2 Royalty.
+ 
+      Licensee agrees to pay to FSURF as earned royalties a royalty
+      calculated as a percentage of Net Sales from the sale of Licensed
+      Product and/or Licensed Process. The royalty is deemed earned as of
+      the earlier of the date the Licensed Product and/or Licensed Process
+      is actually sold and paid for, the date an invoice is sent by
+      Licensee or its Sublicensee(s), or the date a Licensed Product and/or
+      Licensed Process is transferred to a third party for any promotional
+      reasons. The royalty shall remain fixed while this Agreement is in
+      effect at a rate of [***] of Net Sales.
+ 
+4.3 Other Payments.
+ 
+      4.3.1 Licensee agrees to pay FSURF maintenance fees according to the
+      schedule below upon each anniversary of the Effective Date.
+ 
+Payment
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+and every [***] thereafter on the same date, for the life of this 
+Agreement.
+ 
+      4.3.2 Upon the first quarter that sales are made, the maintenance fee
+      shall no longer be required, and minimum royalty payments shall be
+      made according to the schedule below and shall be creditable against
+      royalties.
+ 
+Payment
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+$ [***]
+ 
+[***]
+and every [***] thereafter on the same date, for the life of this Agreement
+ 
+      Upon the first quarter following the quarter in which commercial
+      sales of the applicable Licensed Product and/or Licensed Process
+      begin, the above minimum royalties shall be paid on a quarterly
+      basis, with such amounts due within thirty (30) days of the end of
+      the calendar quarter, such calendar quarters ending on March 31, June
+      30, September 30, and December 31. Any minimum royalty paid in a
+      calendar year will be credited against the earned royalties for that
+      calendar year. Any earned royalties paid in a calendar year will be
+      credited against the minimum royalties due for said calendar year. It
+      is understood that earned royalties will be applied against minimum
+      royalties on a calendar year basis, and that sales of Licensed
+      Products and/or Licensed Processes requiring the payment of earned
+      royalties made during a prior or subsequent calendar year shall have
+      no effect on the annual minimum royalty due FSURF for other than the
+      same calendar year in which the royalties were earned.
+ 
+ 
+6
+ 
+ 
+4.3.3 In addition to all other payments required under this Agreement, 
+Licensee agrees to pay FSURF milestone payments, as follows:
+ 
+                 Milestone payments for the first product:
+                  
+                 [***]– upon the earlier of (a) the [***], or (b)
+                 [***]anniversary of the date of this license.
+                 [***]– upon the earlier of (a) [***], or (b)
+                 [***]anniversary of the Effective Date.
+                 [***]– upon the [***].
+                 [***]– upon filing of the [***].
+                 [***]– within [***]after the [***].
+                  
+                 Milestones payments for each additional product:
+                  
+                 [***]– upon [***].
+                 [***]– upon [***]
+                 [***]– within [***]after the [***].
+ 
+4.4 Accounting for Payments.
+ 
+      4.4.1 Amounts owing to FSURF under Sections 4.1 and 4.2 shall be paid
+      on a quarterly basis after the amount of minimum royalties paid is
+      exceeded, with such amounts due and received by FSURF on or before
+      the thirtieth day following the end of the calendar quarter ending on
+      March 31, June 30, September 30 or December 31 in which such amounts
+      were earned. Any amounts which remain unpaid after the date they are
+      due to FSURF shall accrue interest from the due date at the rate of
+      [***]. However, in no event shall this interest provision be
+      construed as a grant of permission for any payment delays. Licensee
+      shall also be responsible for repayment to FSURF of any attorney,
+      collection agency, or other out-of-pocket FSURF expenses required to
+      collect overdue payments due from this Section, or any other
+      applicable section of this Agreement.
+ 
+      4.4.2 Except as otherwise directed, all amounts owing to FSURF under
+      this Agreement shall be paid in U.S. dollars to FSURF at the
+      following address:
+       
+           President
+           Florida State University Research Foundation, Inc.
+           Attn: Gary K. Ostrander
+           2000 Levy Avenue, Suite 351
+           Tallahassee, FL 32310
+ 
+           All royalties owing with respect to Net Sales stated in
+           currencies other than U.S. dollars shall be converted at the
+           rate shown in the Federal Reserve Noon Valuation - Value of
+           Foreign Currencies on the day preceding the payment due date.
+ 
+ 
+7
+ 
+ 
+      4.4.3 A certified full accounting statement showing how any amounts
+      payable to FSURF under Section 4.3 have been calculated shall be
+      submitted to FSURF on the date of each such payment. In addition to
+      being certified, such accounting statements shall contain a written
+      representation signed by an executive officer of Licensee that states
+      that the statements are true, accurate, and fairly represent all
+      amounts payable to FSURF pursuant to this Agreement. Such accounting
+      shall be on a per-country and product line, model or trade name basis
+      and shall be summarized on the form shown in Appendix D – FSURF
+      Royalty Report of this Agreement.
+       
+      4.4.4 FSURF is exempt from paying income taxes under U.S. law.
+      Therefore, all payments due under this Agreement shall be made
+      without deduction for taxes, assessments, or other charges of any
+      kind which may be imposed on FSURF by any government outside of the
+      United States or any political subdivision of such government with
+      respect to any amounts payable to FSURF pursuant to this Agreement.
+      All such taxes, assessments, or other charges shall be assumed by
+      Licensee.
+ 
+Section 5 Certain Warranties and Disclaimers of FSURF
+ 
+5.1 FSURF warrants that, except as otherwise provided under Section 17.1 of 
+this Agreement and the Inter-Institutional Agreement attached as Appendix 
+A, with respect to U.S. Government interests, it is the co-owner of the 
+Licensed Patents or otherwise has the right to grant the licenses granted 
+to Licensee in this Agreement. However, nothing in this Agreement shall be 
+construed as:
+ 
+      5.1.1 a warranty or representation by FSURF as to the validity or
+      scope of any right included in the Licensed Patents;
+       
+      5.1.2 a warranty or representation that anything made, used, sold or
+      otherwise disposed of under the license granted in this Agreement
+      will or will not infringe patents of third parties;
+       
+      5.1.3 an obligation to bring or prosecute actions or suits against
+      third parties for infringement of Licensed Patents;
+       
+      5.1.4 an obligation to furnish any know-how not provided in Licensed
+      Patents or any services other than those specified in this Agreement;
+      or
+       
+      5.1.5 a warranty or representation by FSURF that it will not grant
+      licenses to others to make, use or sell products not covered by the
+      claims of the Licensed Patents which may be similar and/or compete
+      with products made or sold by Licensee.
+ 
+ 
+8
+ 
+ 
+5.2 EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS AGREEMENT, FSURF MAKES 
+NO REPRESENTATIONS AND EXTENDS NO WARRANTIES OF ANY KIND, EITHER EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND VALIDITY OF LICENSED PATENTS CLAIMS, 
+ISSUED OR PENDING. FSURF ASSUMES NO RESPONSIBILITIES WHATSOEVER WITH 
+RESPECT TO USE, SALE, OR OTHER DISPOSITION BY LICENSEE, ITS SUBLICENSEE(S), 
+OR THEIR VENDEES OR OTHER TRANSFEREES OF PRODUCT INCORPORATING OR MADE BY 
+USE OF INVENTIONS LICENSED UNDER THIS AGREEMENT.
+ 
+Section 6 Record Keeping
+ 
+6.1 Licensee and its Sublicensee(s) shall keep books and records sufficient 
+to verify the accuracy and completeness of Licensee’s and its 
+Sublicensee(s)’s accounting referred to above, including without 
+limitation, inventory, purchase and invoice records, manufacturing records, 
+sales analysis, general ledgers, financial statements, and tax returns 
+relating to the Licensed Products and/or Licensed Processes. Such books and 
+records shall be preserved for a period not less than six years after they 
+are created or as required by federal law, both during and after the term 
+of this Agreement.
+ 
+6.2 Licensee and its Sublicensee(s) shall take all steps necessary so that 
+FSURF may, within thirty (30) days of its written request, audit, review 
+and/or copy all of the books and records at a single U.S. location to 
+verify the accuracy of Licensee’s and its Sublicensee(s)’s accounting. Such 
+review may be performed by any authorized employees of FSURF as well as by 
+any attorneys and/or accountants designated by FSURF, upon reasonable 
+notice and during regular business hours. If a deficiency with regard to 
+any payment hereunder is determined, Licensee and its Sublicensee(s) shall 
+pay the deficiency within thirty (30) days of receiving notice thereof 
+along with applicable interest as described in Section 4.4.1. If a royalty 
+payment deficiency for a calendar year exceeds [***] of the royalties paid 
+for that year, then Licensee and its Sublicensee(s) shall be responsible 
+for paying FSURF’s out-of-pocket expenses incurred with respect to such 
+review.
+ 
+6.3 At any time during the term of this agreement, FSURF may request in 
+writing that Licensee verify the calculation of any past payments owed to 
+FSURF through the means of a self-audit. Within ninety (90) days of the 
+request, Licensee shall complete a self-audit of its books and records to 
+verify the accuracy and completeness of the payments owed. Within thirty 
+(30) days of the completion of the self-audit, Licensee shall submit to 
+FSURF a report detailing the findings of the self-audit and the manner in 
+which it was conducted in order to verify the accuracy and completeness of 
+the payments owed. If Licensee has determined through its self-audit that 
+there is any payment deficiency, Licensee shall pay FSURF the deficiency 
+along with applicable interest under Section 4.4.1 with the submission of 
+the self-audit report to FSURF.
+ 
+Section 7 Patent Prosecution
+ 
+7.1 FSURF shall diligently prosecute and maintain the Licensed Patents 
+using counsel of its choice. FSURF shall provide Licensee with copies of 
+all patent applications amendments, and other filings with the United 
+States Patent and Trademark Office and foreign patent offices. FSURF will 
+also provide Licensee with copies of office actions and other 
+communications received by FSURF from the United States Patent and 
+Trademark Office and foreign patent offices relating to Licensed Patents. 
+Licensee agrees to keep such information confidential.
+ 
+ 
+9
+ 
+ 
+7.2 Licensee shall pay to FSURF the sum of [***], within thirty (30) days 
+of the Effective Date to reimburse any and all expenses associated with 
+preparation, filing, prosecution, issuance, maintenance, defense, and 
+reporting of the Licensed Patents incurred prior to the Effective Date. (
+NOTE: the above referenced dollar amount in this Section 7.2 is subject to 
+change, as all related patent prosecution expense invoices may not have 
+been received from the law firm at the time of license terms negotiation. 
+In addition, the amounts in this article are separate from other amounts 
+due for payment listed elsewhere.)
+ 
+7.3 Licensee shall be responsible for and pay all costs and expenses 
+incurred by FSURF related to the preparation, filing, prosecution, 
+issuance, maintenance, defense and reporting of the Licensed Patents 
+subsequent to and separate of those expenses cited in Section 7.2 within 
+thirty (30) days of receipt of an invoice from FSURF. It shall be the 
+responsibility of Licensee to keep FSURF fully apprised of the “small 
+entity” status of Licensee and all Sublicensees with respect to the U.S. 
+patent laws and with respect to the patent laws of any other countries, if 
+applicable, and to inform FSURF of any changes in writing of such status, 
+within thirty (30) days of any such change. In the event that additional 
+licenses are granted to licensees for alternate fields-of-use, patent 
+expenses associated with Licensed Patents will be divided proportionally 
+between the number of existing licensees. In the case of foreign patent 
+protection, if a licensee declines to reimburse FSURF for its proportional 
+share of patent expenses in any particular country, then said licensee 
+relinquishes the right to commercialize Licensed Products in the specified 
+country.
+ 
+Section 8 Infringement and Invalidity
+ 
+8.1 In the event that any Licensed Patents are infringed by a third party, 
+Licensor and joint owners of the Licensed Patents (subject to and as 
+described in the Inter-Institutional Agreement attached as Appendix A) 
+shall have the first right and choice, but not obligation, to defend the 
+Licensed Patents. Licensee shall have the right, but not the obligation, to 
+defend the Licensed Patents after Licensor and joint owners elect not to 
+commence a suit either by formal notice to Licensee or by failure to act 
+within the ninety (90) day period following notification of the infringer, 
+to institute, prosecute and control any action or proceeding with respect 
+to such infringement, by counsel of its choice, including any declaratory 
+judgment action arising from such infringement provided, however, prior to 
+instituting such action, Licensee shall first meet with FSURF and provide 
+FSURF with (i) a written estimate of the expenses that would reasonably be 
+incurred in connection with such action or proceeding and (ii) financial 
+records reasonably sufficient to reasonably demonstrate that it has the 
+financial wherewithal to pay such expenses as they fall due through the 
+conclusion of such action or proceeding by means of judgment or other 
+final, non-appealable decision or a plan to raise such funds. In the event 
+that any Patent Rights licensed to Licensee are infringed by a third party 
+prior to Licensee filing an investigational new drug application (“IND”) 
+for a Licensed Product, prior to any enforcement action being taken by 
+either FSURF or Licensee regarding such infringement, FSURF and Licensee 
+shall discuss, and will mutually agree, in writing, as to how to handle 
+such infringement by such third party. Licensee shall be free to enter into 
+a settlement, consent judgment, or other voluntary disposition with respect 
+to any such action, provided that any settlement, consent judgment or other 
+voluntary disposition thereof which (i) materially limits the scope, 
+validity, or enforceability of patents included in the Patent Rights or 
+(ii) admits fault or wrongdoing on the part of FSURF must be approved by 
+FSURF, such approval not to be unreasonably withheld. Licensee’s request 
+for such approval shall include complete copies of final settlement 
+documents, a detailed summary of such settlement, and any other information 
+material to such settlement. FSURF shall provide Licensee notice of its 
+approval or denial within fifteen (15) business days of any request for 
+such approval by Licensee, provided that (i) in the event FSURF wishes to 
+deny such approval, such notice shall include a detailed written 
+description of FSURF’s reasonable objections to the proposed settlement, 
+consent judgment, or other voluntary disposition and (ii) FSURF shall be 
+deemed to have approved of such proposed settlement, consent judgment, or 
+other voluntary disposition in the event it fails to provide such notice 
+within such fifteen (15) day period in accordance herewith. If Licensee 
+recovers monetary damages in the form of lost profits from a third party 
+infringer as a remedy for the infringement of Patent Rights licensed 
+hereunder, then Licensee shall first apply such recovery to the costs and 
+expenses incurred in obtaining or negotiating for such recovery (including 
+attorneys’ fees) and reimburse FSURF for the costs and expenses it 
+reasonably incurred in obtaining or negotiating for such recovery 
+(including attorneys’ fees), and pay to FSURF the royalties on the 
+remaining portion of such lost profits at the rate specified in Section 
+4.2. If Licensee recovers monetary damages in the form of a reasonable 
+royalty as a remedy for the infringement of Patent Rights, then, after 
+applying such royalty to the recovery of the costs and expenses incurred in 
+obtaining or negotiating for such royalty (including attorneys’ fees) and 
+reimbursing FSURF for the costs and expenses it reasonably incurred in 
+obtaining or negotiating for such recovery (including attorneys’ fees), the 
+remaining amount of any such royalty shall be treated as Sublicensing 
+Royalty Revenue in accordance with Section 2.2.2.
+ 
+ 
+10
+ 
+ 
+8.2 Notwithstanding the foregoing, and in FSURF’s sole discretion, FSURF 
+shall be entitled to participate through counsel of its own choosing in any 
+legal action involving the invention and Patent Rights. Nothing in the 
+foregoing Sections shall be construed in any way which would limit the 
+authority of the Florida Attorney General. FSURF and Licensee agree to 
+notify each other promptly of each infringement or possible infringement of 
+Licensed Patents, as well as any facts which may affect the validity, scope 
+or enforceability of the patent rights of which any party becomes aware.
+ 
+Section 9 Term and Termination
+ 
+9.1 The term of this license shall begin on the Effective Date of this 
+Agreement and continue until the date that no Licensed Patent remains an 
+enforceable patent, unless earlier terminated as provided herein.
+ 
+9.2 Licensee may terminate this Agreement at any time by giving at least 
+sixty (60) days written notice of such termination to FSURF. Such a notice 
+shall be accompanied by a statement of the reasons for termination.
+ 
+9.3 FSURF may terminate this Agreement by giving Licensee at least thirty 
+(30) days written notice if Licensee:
+ 
+      9.3.1 is delinquent on any report or payment;
+       
+      9.3.2 is not diligently developing and commercializing Licensed
+      Product and Licensed Process;
+       
+      9.3.3 is in breach of any provision;
+ 
+ 
+11
+ 
+ 
+      9.3.4 provides any false report;
+       
+      9.3.5 goes into bankruptcy, liquidation or proposes having a receiver
+      control any assets;
+       
+      9.3.6 violates any laws or regulations of applicable government
+      entities;
+       
+      9.3.6 shall cease to carry on its business pertaining to Licensed
+      Patents; or
+       
+      9.3.8 fails for more than two (2) calendar quarters to make payments
+      of earned royalties under Section 4.2.
+       
+      Termination under this Section 9.3 will take effect thirty (30) days
+      after written notice by FSURF unless Licensee remedies the problem in
+      that 30-day period.
+ 
+9.4 FSURF may immediately terminate this Agreement upon the occurrence of 
+the second separate default by Licensee within any consecutive three-year 
+period for failure to pay royalties, patent or any other expenses when due.
+ 
+9.5 Upon the termination of this Agreement for any reason, nothing herein 
+shall be construed to release either party from any obligation that matured 
+prior to the effective date of such termination. Licensee shall remain 
+obligated to provide an accounting for and to pay royalties earned to the 
+date of termination, and any minimum royalties shall be prorated as of the 
+date of termination by the number of days elapsed in the applicable 
+calendar year. Licensee may, however, after the effective date of such 
+termination, sell all Licensed Products, and complete Licensed Products in 
+the process of manufacture at the time of such termination and sell the 
+same, provided that Licensee shall remain obligated to provide an 
+accounting for and to pay running royalties thereon.
+ 
+9.6 Licensee shall be obligated to deliver to FSURF, within ninety (90) 
+days of the date of termination of this agreement, complete and unredacted 
+copies of all documentation prepared for or submitted for all regulatory 
+approvals of Licensed Products or Licensed Processes.
+ 
+Section 10 Assignability
+ 
+This Agreement may not be transferred or assigned by Licensee except with 
+the prior written consent of FSURF, which will not be unreasonably 
+withheld. Licensee may, on written notice to FSURF and with FSURF’s 
+consent, assign this Agreement to an acquirer of all or substantially all 
+of Licensee's stock or assets, in which case assignee assumes all 
+responsibilities under this license, however Licensee shall not be released 
+of its obligations that matured prior to assignment.
+ 
+ 
+12
+ 
+ 
+Section 11 Dispute Resolution Procedures
+ 
+11.1 Mandatory Procedures.
+ 
+      In the event either party intends to file a lawsuit against the other
+      with respect to any matter in connection with this Agreement,
+      compliance with the procedures set forth in this Section shall be a
+      condition precedent to the filing of such lawsuit, other than for
+      injunctive relief. Either party may terminate this Agreement as
+      provided in this Agreement without following the procedures set forth
+      in this section.
+ 
+      11.1.1 When a party intends to invoke the procedures set forth in
+      this section, written notice shall be provided to the other party.
+      Within thirty (30) days of the date of such notice, the parties agree
+      that representatives designated by the parties shall meet at mutually
+      agreeable times and engage in good faith negotiations at a mutually
+      convenient location to resolve such dispute.
+       
+      11.1.2 If the parties fail to meet within the time period set forth
+      in Section 11.1.1 above or if either party subsequently determines
+      that negotiations between the representatives of the parties are at
+      an impasse, the party declaring that the negotiations are at an
+      impasse shall give notice to the other party stating with
+      particularity the issues that remain in dispute.
+       
+      11.1.3 Not more than fifteen (15) days after the giving of such
+      notice of issues, each party shall deliver to the other party a list
+      of the names and addresses of at least three individuals, any one of
+      whom would be acceptable as a neutral advisor in the dispute (the
+      “Neutral Advisor”) to the party delivering the list. Any individual
+      proposed as a Neutral Advisor shall have experience in determining,
+      mediating, evaluating, or trying intellectual property litigation and
+      shall not be affiliated with the party that is proposing such
+      individual.
+       
+      11.1.4 Within ten (10) days after delivery of such lists, the parties
+      shall agree on a Neutral Advisor. If they are unable to so agree
+      within that time, within five (5) days, they shall each select one
+      individual from the lists. Within five (5) days, the individuals so
+      selected shall meet and appoint a third individual from the lists to
+      serve as the Neutral Advisor. Within thirty (30) days after the
+      selection of a Neutral Advisor:
+ 
+ 
+(a) 	The parties shall each provide a written statement of the issues in 
+dispute to the Neutral Advisor.
+ 
+ 
+ 
+ 
+(b) 	The parties shall meet with the Neutral Advisor in Tallahassee, 
+Florida on a date and time established by the Neutral Advisor. The meeting 
+must be attended by persons authorized to make final decisions on behalf of 
+each party with respect to the dispute. At the meeting, each party shall 
+make a presentation with respect to its position concerning the dispute. 
+The Neutral Advisor will then discuss the issues separately with each party 
+and attempt to resolve all issues in the dispute. At the meeting, the 
+parties will enter into a written settlement agreement with respect to all 
+issues that are resolved. Such settlement agreement shall be final and 
+binding with respect to such resolved issues and may not be the subject of 
+any lawsuit between the parties, other than a suit for enforcement of the 
+settlement agreement.
+ 
+ 
+13
+ 
+ 
+      11.1.5 The expenses of the Neutral Advisor shall be shared by the
+      parties equally. All other out-of-pocket costs and expenses for the
+      alternative dispute resolution procedure required under this Section
+      shall be paid by the party incurring the same.
+       
+      11.1.6 Positions taken and statements made during this alternative
+      dispute resolution procedure shall be deemed settlement negotiations
+      and shall not be admissible for any purpose in any subsequent
+      proceeding.
+ 
+11.2 Failure to Resolve Dispute.
+ 
+      If any issue is not resolved at the meeting with the Neutral Advisor,
+      either party may file appropriate administrative or judicial
+      proceedings with respect to the issue that remains in dispute. No new
+      issues may be included in the lawsuit without the mandatory
+      procedures set forth in this section having first been followed.
+ 
+11.3 If Licensee or any of its Affiliates (i) brings a Patent Challenge 
+against FSURF, or (ii) Licensee or any of its Affiliates assists another 
+party in bringing a Patent Challenge against FSURF (except as required 
+under a court order or subpoena), and (iii) FSURF does not choose to 
+exercise its rights to terminate this Agreement pursuant to Section 9.3 
+then, in the event that such a Patent Challenge is successful, Licensee 
+will have no right to recoup any consideration, including royalties, paid 
+during the period of challenge. In the event that a Patent Challenge is 
+unsuccessful, Licensee shall reimburse FSURF for all reasonable legal fees 
+and expenses incurred in its defense against the Patent Challenge.
+ 
+Section 12 Product Liability; Conduct of Business
+ 
+12.1 Licensee and its Sublicensee(s) shall, at all times during the term of 
+this Agreement and thereafter, indemnify, defend and hold FSURF, the 
+Florida Board of Governors, the Florida State University Board of Trustees, 
+Florida State University, JHU, The Johns Hopkins Hospital, The Johns 
+Hopkins Health System Corporation, U.S. Department of Health and Human 
+Services, as represented by National Center for Advancing Translational 
+Sciences (HHS) and each of their directors, officers, employees, and 
+agents, and the inventors of the Licensed Patents “Indemnitees”, regardless 
+of whether such inventors are employed by Florida State University, and/or 
+HHS, and/or JHU at the time of the claim, harmless against all claims and 
+expenses, including legal expenses and reasonable attorneys’ fees, whether 
+arising from a third party claim or resulting from FSURF’s enforcing this 
+indemnification clause against Licensee, arising out of the death of or 
+injury to any person or persons or out of any damage to property and 
+against any other claim, proceeding, demand, expense and liability of any 
+kind whatsoever (other than patent infringement claims) resulting from the 
+production, manufacture, sale, use, lease, consumption, marketing, or 
+advertisement of Licensed Products or Licensed Process(es) or arising from 
+any right or obligation of Licensee hereunder. Notwithstanding the above, 
+FSURF at all times reserves the right to retain counsel of its own to 
+defend FSURF, the Florida Board of Governors’, the Florida State University 
+Board of Trustees, Florida State University, and the inventor’s interests.
+ 
+12.2 Licensee warrants that it now maintains and will continue to maintain 
+liability insurance coverage at a minimum level of [***] per claim until 
+first commercial use, and at a minimum level of [***] per claim at and 
+continuing after first initial human testing or first commercial sale and 
+that such insurance coverage lists Indemnitees’ as additional insureds. 
+Within ninety (90) days after the execution of this Agreement and 
+thereafter annually between January 1 and January 31 of each year, Licensee 
+will present evidence to FSURF that the coverage is being maintained with 
+Indemnitees listed as additional insureds. In addition, Licensee shall 
+provide FSURF with at least thirty (30) days prior written notice of any 
+change in or cancellation of the insurance coverage.
+ 
+ 
+14
+ 
+ 
+Section 13 Use of Names
+ 
+Licensee and its Sublicensee(s) shall not use the names of FSURF and joint 
+owners (see Appendix A), or of Florida State University, nor of any of 
+either institution's employees, agents, or affiliates, nor the name of any 
+inventor of Licensed Patents, nor any adaptation of such names, in any 
+promotional, advertising or marketing materials or any other similar form 
+of publicity, or to suggest any endorsement by the such entities or 
+individuals, without the prior written approval of FSURF in each case.
+ 
+Section 14 Miscellaneous
+ 
+14.1 This Agreement shall be construed in accordance with the internal laws 
+of the State of Florida. Venue for any legal action shall be the state or 
+federal courts in Leon County, Florida.
+ 
+14.2 The parties hereto are independent contractors and not joint venturers 
+or partners.
+ 
+14.3 Licensee shall ensure that it applies patent markings that meet all 
+requirements of U.S. law, 35 U.S.C. §287, with respect to all Licensed 
+Products subject to this Agreement.
+ 
+14.4 This Agreement constitutes the full understanding between the parties 
+with reference to the subject matter hereof, and no statements or 
+agreements by or between the parties, whether orally or in writing, shall 
+vary or modify the written terms of this Agreement. This Agreement 
+supercedes and replaces any and all previous agreements between the 
+Parties. Neither party shall claim any amendment, modification, or release 
+from any provisions of this Agreement by mutual agreement, acknowledgment, 
+or otherwise, unless such mutual agreement is in writing, signed by the 
+other party, and specifically states that it is an amendment to this 
+Agreement. Failure of either party to require performance by the other of 
+any provision herein shall in no way affect the rights of that party to 
+enforce same. The waiver of either party of any breach shall never be 
+construed to be a waiver of any succeeding breach or a waiver of the 
+provision itself.
+ 
+14.5 Licensee shall not encumber or otherwise grant a security interest in 
+any of the rights granted hereunder to any third party.
+ 
+14.6 Licensee acknowledges that it is subject to and agrees to abide by the 
+United States laws and regulations (including the Export Administration Act 
+of 1979 and Arms Export Contract Act) controlling the export of technical 
+data, computer software, laboratory prototypes, biological material, and 
+other commodities. The transfer of such items may require a license from 
+the cognizant agency of the U.S. Government or written assurances by 
+Licensee that it shall not export such items to certain foreign countries 
+without prior approval of such agency. FSURF neither represents that a 
+license is or is not required or that, if required, it shall be issued.
+ 
+14.7 Licensee is responsible for any and all wire/bank fees associated with 
+all payments due to FSURF pursuant to this agreement.
+ 
+ 
+15
+ 
+ 
+14.8 Survival.
+ 
+      The provisions of this Section shall survive termination of this
+      Agreement. Upon termination of the Agreement for any reason, the
+      following sections of the License Agreement will remain in force as
+      non-cancelable obligations:
+ 
+· 	Section 6 Record Keeping
+· 	Section 9 Requirement to pay royalties on sale of Licensed Products 
+made, and in process, at time of License Agreement termination
+· 	Section 12 Product Liability; Conduct of Business
+· 	Section 13 Use of Names
+· 	Section 18 Confidentiality
+ 
+14.9 This Agreement is subject to the terms and conditions of Appendix A, 
+the terms of which are incorporated herein, which is an agreement between 
+the U.S. Department of Health and Human Services, Johns Hopkins University, 
+and Florida State University Research Foundation regarding technology 
+collaboratively developed and jointly owned.
+ 
+Section 15 Notices
+ 
+      Any notice required to be given pursuant to the provisions of this
+      Agreement shall be in writing and shall be deemed to have been given
+ 
+· 	when delivered personally, or
+· 	if sent by facsimile transmission, when receipt thereof is acknowledged 
+at the facsimile number of the recipient as set forth below, or
+· 	the second day following the day on which the notice has been delivered 
+prepaid to a national air courier service, or
+· 	five (5) business days following deposit in the U.S. mail if sent 
+certified mail, (return receipt acknowledgement is not required to certify 
+delivery).
+  
+15.1 If to Florida State University Research Foundation, Inc.:
+ 
+ 
+ 
+President
+Florida State University Research Foundation, Inc.
+Attn: Gary K. Ostrander
+2000 Levy Avenue, Suite 351
+Tallahassee, FL 32310
+Facsimile Number: (850) 644-3658
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+with a copy to:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Office of Commercialization
+ 
+FSU Office of Research Legal Counsel
+Florida State University
+ 
+3012 Westcott N. Annex
+Attn: Executive Director
+ 
+222 S. Copeland Street
+95 Chieftan Way, 312 Dittmer Bldg.
+ 
+Tallahassee, FL 32306-1330
+Tallahassee, FL 32306-4391
+ 
+850-645-0108 (facsimile)
+ 
+ 
+16
+ 
+ 
+15.2 If to Licensee:
+ 
+ 
+ 
+President
+Spotlight Innovation Inc.
+Attn: Cris Grunewald
+6750 Westown Pkwy, Ste. 200-226
+West Des Moines, Iowa 50266
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 16 Contract Formation and Authority
+ 
+      The submission of this Agreement does not constitute an offer, and
+      this document shall become effective and binding only upon the
+      execution by duly authorized representatives of both Licensee and
+      FSURF. Copies of this Agreement that have not been executed and
+      delivered by both FSURF and Licensee shall not serve as a memorandum
+      or other writing evidencing an agreement between the parties. This
+      Agreement shall automatically terminate and be of no further force
+      and effect, without the requirement of any notice from FSURF to
+      Licensee, if FSURF does not receive the License Issue Fee or
+      certificates representing shares issued to FSURF pursuant to this
+      Agreement, as applicable, within thirty (30) days of the Effective
+      Date.
+         
+16.1 FSURF and Licensee hereby warrant and represent that the persons 
+signing this Agreement have authority to execute this Agreement on behalf 
+of the party for whom they have signed.
+ 
+16.2 Force Majeure.
+     
+      No default, delay, or failure to perform on the part of Licensee or
+      FSURF shall be considered a default, delay or failure to perform
+      otherwise chargeable hereunder, if such default, delay or failure to
+      perform is due to epidemics, war, embargoes, fire, earthquake,
+      hurricane, flood, acts of God, or default of common carrier. In the
+      event of such default, delay or failure to perform, any date or times
+      by which either party is otherwise scheduled to perform shall be
+      extended automatically for a period of time equal in duration to the
+      time lost by reason of the excused default, delay or failure to
+      perform.
+             
+Section 17 United States Government Interests
+ 
+17.1 It is understood that the United States Government (through any of its 
+agencies or otherwise) has funded research during the course of or under 
+which any of the inventions of the Licensed Patents were conceived or made. 
+The United States Government, as a co-owner of the Licensed Patents, is 
+entitled, to certain rights, under the provisions of 35 U.S.C. §202-212 and 
+applicable regulations of Title 37 of the Code of Federal Regulations. 
+These include a non-exclusive, nontransferable, irrevocable, paid-up 
+license to practice or have practiced the inventions of such Licensed 
+Patents for governmental purposes. Any license granted to Licensee in this 
+Agreement shall be subject to such right. FSURF shall have the right to 
+share all Sublicensees’ confidential information with JHU and HHS for the 
+purpose of compliance with the Inter-Institutional Agreement attached as 
+Appendix A.
+ 
+17.2 Licensee agrees that for Licensed Products covered by the Licensed 
+Patents that are subject to the non-exclusive royalty-free license to the 
+United States Government, said Licensed Products will be manufactured 
+substantially in the United States. Licensee further agrees that it shall 
+abide by all the requirements and limitations of U.S. Code, Title 35, 
+Chapter 18, and implementing regulations thereof, for all patent 
+applications and patents invented in whole or in part with federal money.
+ 
+ 
+17
+ 
+ 
+Section 18 Confidentiality
+ 
+      Each Party shall maintain all information of the other Party which is
+      treated by such other Party as proprietary or confidential and
+      appropriately marked “proprietary” or “confidential” (referred to
+      herein as “Confidential Information”) in confidence, and shall not
+      disclose, divulge or otherwise communicate such confidential
+      information to others, or use it for any purpose, except pursuant to,
+      and in order to carry out, the terms and objectives of this
+      Agreement, and each party hereby agrees to exercise every reasonable
+      precaution to prevent and restrain the unauthorized disclosure of
+      such confidential information by any of its Affiliates, directors,
+      officers, employees, consultants, subcontractors, Sublicensees or
+      agents. The parties agree to keep the terms of this Agreement
+      confidential, provided that each party may disclose this Agreement to
+      their authorized agents and investors who are bound by similar
+      confidentiality provisions. Notwithstanding the foregoing,
+      Confidential Information of a party shall not include information
+      which: (a) was lawfully known by the receiving party prior to
+      disclosure of such information by the disclosing party to the
+      receiving party; (b) was or becomes generally available in the public
+      domain, without the fault of the receiving party; (c) is subsequently
+      disclosed to the receiving party by a third party having a lawful
+      right to make such disclosure; (d) is required by law, rule,
+      regulation or legal process to be disclosed, provided that the
+      receiving party making such disclosure shall take all reasonable
+      steps to restrict and maintain to the extent possible confidentiality
+      of such disclosure and shall provide reasonable notice to the other
+      party to allow such party the opportunity to oppose the required
+      disclosure; or (e) has been independently developed by employees or
+      others on behalf of the receiving party without access to or use of
+      disclosing party’s information as demonstrated by written record.
+      Each party’s obligations under this Section 18 shall extend for a
+      period of five (5) years from termination or expiration of this
+      Agreement.
+ 
+Section 19 University Rules and Regulations
+ 
+      Licensee understands and agrees that Florida State University
+      personnel who are engaged by Licensee, whether as consultants,
+      employees or otherwise, or who possess a material financial interest
+      in Licensee, are subject to the Florida State University’s policies
+      regarding outside activities and financial interests and, Florida
+      State University’s Intellectual Property Policy, and a monitoring
+      plan which addresses conflicts of interests associated therewith as
+      required by Chapter 112, Florida Statutes. Any term or condition of
+      an agreement between Licensee and such Florida State University
+      personnel which seeks to vary or override such personnel’s
+      obligations to Florida State University may not be enforced against
+      such personnel, Florida State University or FSURF, without the
+      express written consent of an individual authorized to vary or waive
+      such obligations on behalf of Florida State University and FSURF.
+      Furthermore, should an interest of Licensee conflict with the
+      interest of Florida State University, Florida State University
+      personnel are obligated to resolve such conflicts according to the
+      guidelines and policies set forth by Florida State University.
+ 
+ 
+18
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement on 
+the dates indicated below.
+ 
+FLORIDA STATE UNIVERSITY RESEARCH FOUNDATION, INC.
+ 
+______________________________________ Date: ____________, 2016
+Gary K. Ostrander
+President, Florida State University Research Foundation
+ 
+LICENSEE
+ 
+By: ___________________________________ Date: ____________, 2016
+ 
+Name and Office: ______________________________________________
+ 
+ 
+19
+ 
+ 
+Appendix A - Inter-institutional Agreement
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+ 
+ 
+Appendix B - Development Plan
+ 
+The starting point for the Development Plan will be the group of compounds 
+previously identified by Prof. Hengli Tang and collaborators and described 
+in Provisional Patent Application [***]. Novel compounds (prodrugs or other 
+derivatives) will be synthesized with the aim of optimizing characteristics 
+such as oral bioavailability, CNS penetration, pharmacodynamic (PD) and 
+pharmacokinetic (PK) properties, and safety. The ultimate goals of the 
+Development Program are to complete preclinical and clinical testing of one 
+or more lead drug candidates, prepare and file a New Drug Application, 
+obtain marketing approval, and commence product manufacturing and sales.
+ 
+ 
+A. 	Development activities to be undertaken
+ 
+ 
+ 
+ 
+ 
+(Please break activities into subunits)
+ 
+ 
+1. 	Testing of lead compounds in small animal and human brain organoid 
+model for ZIKV inhibition. We will test the efficacy of lead compounds in 
+both IFNAR-/- mice and C57BL/6 mice. Multiple assays, including body weight 
+loss, lethality, and viral load in blood and tissues, will be used to 
+determine if a compound is effective against ZIKV infection. We will also 
+use the human brain organoid system as a complementary model to avoid 
+pitfalls of species-specific differences and safeguard the success of our 
+project.
+ 
+ 
+ 
+ 
+2. 	Determination of mechanism of action (this project is concurrent with 
+other activities and not part of a sequence of activities). We will use a 
+combined approach of biochemistry, molecular biology, and virology to 
+identify the compound target and dissect its mechanism of action (MOA). We 
+will label the compound and identify its binding partner in cells and in 
+vitro; we will map any drug resistant mutations in cell culture and 
+determine the specific steps of the virus life cycle to which the compound 
+targets.
+ 
+ 
+ 
+ 
+3. 	Optimization of lead compounds in each class. For both classes of 
+compounds, we will perform iterative rounds of analog synthesis and 
+testing, typically on a biweekly or monthly schedule. The chemistry team 
+will design and synthesize compounds; the biology team will test the 
+compounds in assays; and the Drug Metabolism and Pharmacokinetics (DMPK) 
+team will evaluate compound physical properties. During lead optimization, 
+it is necessary to address ADME and toxicological liabilities and to 
+improve the lead compound’s DMPK properties. The goal lead optimization is 
+to identify an advanced lead candidate with drug-like properties, efficacy 
+in animal models, and low toxicity.
+ 
+ 
+ 
+ 
+4. 	Advanced safety testing for lead candidates. Once advanced lead 
+candidates are identified, we will begin to build a safety package for the 
+compound. This in general will consist of non-GLP toxicology studies in a 
+rodent and a non-rodent species. Upon successful completion of the 
+exploratory toxicology studies, we will manufacture sufficient amounts of 
+application program interface (API) under GMP conditions to support GLP 
+toxicology studies in two species under GLP conditions, including GLP 
+genotoxicity and safety pharmacology studies under GLP conditions. The 
+results from these studies will form the body of the regulatory filing to 
+open an IND with the FDA.
+ 
+ 
+B. 	Estimated total development time
+ 
+ 
+ 
+II. 	Governmental Approval
+ 
+ 
+ 
+ 
+A. 	Types of submissions required
+ 
+ 
+ 
+ 
+B. 	Government agency, e.g., FDA, EPA, etc.
+ 
+ 
+ 
+III.
+    Proposed Market Approach (this may include/involve an exit strategy)
+ 
+ 
+21
+ 
+ 
+Appendix C - Development Report
+ 
+When appropriate, indicate estimated start date and finish date for 
+activities.
+ 
+I.
+Date Development Plan Initiated and Time Period Covered by this Report.
+ 
+ 
+ 
+II.
+Development Report.
+ 
+ 
+ 
+ 
+A. 	Activities completed since last report including the object and 
+parameters of the development, when initiated, when completed and the 
+results.
+ 
+ 
+ 
+ 
+B. 	Activities currently under investigation, i.e., ongoing activities 
+including object and parameters of such activities, when initiated, and 
+projected date of completion.
+ 
+ 
+ 
+III.
+Future Development Activities.
+ 
+ 
+A. 	Activities to be undertaken before next report including, but not 
+limited to, the type and object of any studies conducted and their 
+projected starting and completion dates.
+ 
+ 
+ 
+ 
+B. 	Estimated total development time remaining before a product will be 
+commercialized.
+ 
+ 
+ 
+IV.
+Changes to Initial Development Plan.
+ 
+ 
+ 
+ 
+A. 	Reasons for change.
+ 
+ 
+ 
+ 
+B. 	Variables that may cause additional changes.
+ 
+ 
+ 
+V.
+Items to be Provided if Applicable:
+ 
+ 
+ 
+ 
+A. 	Information relating to Licensed Products or Licensed Processes that 
+has become publicly available, e.g., published articles, competing 
+products, patents, etc.
+ 
+ 
+ 
+ 
+B. 	Development work being performed by third parties, other than Licensee, 
+to include name of third party, reasons for use of third party, planned 
+future uses of third parties including reasons why and type of work.
+ 
+ 
+ 
+ 
+C. 	Update of competitive information trends in industry, government 
+compliance (if applicable) and market plan.
+ 
+ 
+ 
+ 
+D. 	Information and copies of relevant materials evidencing the status of 
+any patent applications or other protection relating to Licensed Products, 
+or Licensed Processes or the Licensed Patents.
+ 
+PLEASE SEND DEVELOPMENT REPORTS TO:
+ 
+ 
+      with a copy to:
+ 
+President
+Office of Commercialization
+Florida State University Research Foundation, Inc.
+Florida State University
+Attn: Gary K. Ostrander
+Attn: Executive Director
+2000 Levy Avenue, Suite 351
+95 Chieftan Way, 312 Dittmer Bldg.
+Tallahassee, FL 32310
+Tallahassee, FL 32306-4391
+Facsimile Number: (850) 644-3658
+Facsimile Number: (850) 644-3675
+ 
+ 
+22
+ 
+ 
+Appendix D - FSURF Royalty Report
+ 
+Licensee:  __________________________________
+Agreement No.:_______________________
+ 
+Inventor: ___________________________________
+P#:  P                                                                      
+ 
+ 
+Period Covered:   From: ____/___ /2_____          Through: ____/____ /2___
+Prepared By:________________________________
+Date: ______________________________
+ 
+Approved By:________________________________
+Date: ______________________________
+ 
+If license covers several major product lines, please prepare a separate 
+report
+for each line. Then combine all product lines into a summary report.
+ 
+Report Type:
+¨ Single Product Line 
+Report:________________________________________________________
+ 
+¨ Multiproduct Summary Report. Page 1 of ______ Pages
+ 
+¨ Product Line Detail. Line: __________________ Tradename: ________________ 
+Page: __________
+Report Currency:
+¨ U. S. Dollars                          ¨ Other 
+__________________________________
+ 
+ 
+Unit
+ 
+Gross
+ 
+* Less:
+ 
+Net
+ 
+Royalty
+ 
+Period Royalty Amount
+Country
+Sales
+$$ Sales
+Allowances
+$$ Sales
+Rate
+This Year
+Last Year
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U.S.A.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Canada
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Europe:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Japan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other:
+TOTAL:
+ 
+Total Royalty: _______________ Conversion Rate: ____________ Royalty in 
+U.S. Dollars: $                                                
+ 
+The following royalty forecast is non-binding and for FSURF’s internal 
+planning purposes only:
+ 
+Royalty Forecast Under This Agreement: Next Quarter:__________ 
+Q2:__________ Q3:__________ Q4:__________
+ 
+ 
+* On a separate page, please indicate the reasons for returns or other 
+adjustments if significant.
+Also note any unusual occurrences that affected royalty amounts during this 
+period.
+To assist FSURF's forecasting, please comment on any significant expected 
+trends in sales volume.
+ 
+ 
+23
+ 
+ 
+Appendix E – Due Diligence
+ 
+Due Diligence Activity
+Completion Date
+Synthesis of novel analog(s) of parent compound(s) to create a First Lead 
+Compound (“FLC”)
+[***]
+ZIKV inhibition testing of FLC in mice
+[***]
+ZIKV inhibition testing of FLC in human brain organoid system
+[***]
+GMP Manufacturing of FLC (small scale)
+[***]
+Non-GLP toxicology testing in rodents and non-rodents
+[***]
+Pre-IND meeting with FDA
+[***]
+Identification of packaging, labeling and compatibility testing
+[***]
+GLP toxicology testing of FLC in rodents and non-rodents
+[***]
+Submission of IND
+[***]
+Initiation of Phase 1 clinical trial
+[***]
+ADME, PK, GLP testing of FLC
+[***]
+Initiation of Phase 2 clinical trial
+[***]
+CMC development (product characterization, purity, potency, qualification, 
+validation of analytical methods and processes, bioequivalence and 
+bioavailability)
+[***]
+End of Phase 2 meeting with FDA
+[***]
+Two-year stability testing
+[***]
+Initiation of Phase 3 clinical trial
+[***]
+Pre-NDA meeting with FDA
+[***]
+Submission of NDA
+[***]
+Sale of first FDA-approved drug
+[***]
+ 
+ 
+ 
+24
+ 
+ 
