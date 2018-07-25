@@ -1,0 +1,950 @@
+ EX-10.2 3 ex10_2.htm TRANSITION AGREEMENT
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+
+ 
+TRANSITION AGREEMENT
+ 
+This TRANSITION AGREEMENT (“Agreement”) is made and entered into as of July 
+13, 2010 by and among, on one side, Toshiba Corporation, a Japanese 
+corporation (“Toshiba”), and, on the other side, SanDisk Corporation, a 
+Delaware corporation (“SanDisk Corporation”), and SanDisk Flash B.V., a 
+company organized under the laws of The Netherlands (“SanDisk Flash”, and 
+collectively with SanDisk Corporation, “SanDisk,” and SanDisk together with 
+Toshiba, the “Parties”).
+ 
+WHEREAS, Toshiba and SanDisk are parties to that certain FF Master 
+Agreement; and,
+ 
+WHEREAS, both Parties deem it desirable to establish terms and conditions 
+which shall govern upon the occurrence of a Change of Control of SanDisk.
+ 
+NOW, THEREFORE, the Parties agree as follows:
+ 
+1.  
+Applicability
+ 
+(a)  
+Applicability.  Except as expressly provided herein, the provisions of this 
+Agreement shall apply only if a Change of Control of SanDisk occurs during 
+the term of the FF Master Agreement.
+ 
+(b)  
+Definitions.  Capitalized terms used but not defined in this Agreement 
+shall have the respective meanings assigned to them in Exhibit 1 attached 
+hereto.  Capitalized terms used but not defined in this Agreement or 
+Exhibit 1 shall have the respective meanings assigned to them in the FF 
+Master Agreement and/or Appendix A thereto.
+ 
+2.  
+Change of Control Generally
+ 
+(a)  
+CIC Notice; SanDisk Obligation to Provide.  If, at any time during the term 
+of the FF Master Agreement, a Change of Control of SanDisk occurs, SanDisk 
+shall, within **** Business Days after the date in which the Change of 
+Control has been consummated (as evidenced by **** (“CIC Closing Date”), 
+provide a CIC Notice to Toshiba.  From and after **** with respect to a 
+Change of Control of SanDisk, upon the request of the **** Acquirer, 
+SanDisk shall introduce the **** Acquirer to Toshiba and facilitate good 
+faith discussions between such **** Acquirer and Toshiba in a manner 
+consistent with Government Rules or other applicable legal requirements.  
+After the CIC Closing Date, upon the request of Toshiba, SanDisk shall 
+introduce the Acquirer to Toshiba and facilitate discussions between the 
+Acquirer and Toshiba.
+ 
+(b)  
+Toshiba Options.  Upon any Change of Control of SanDisk, Toshiba shall have 
+the option, ****, to:
+ 
+(i)  
+continue the business of Flash Forward, and its participation therein, on 
+the same basis as prior to such Change of Control, substituting the 
+Acquiror (or related entity as designated by SanDisk) for SanDisk as a 
+Member of Flash Forward and party to the FF Operative Documents in 
+accordance with the provisions of Section 9.1 of the FF Operating 
+Agreement;
+ 
+(ii)  
+give notice to SanDisk of its election to engage in Consultation, in which 
+case SanDisk and Toshiba shall, and shall cause their respective Affiliates 
+to, so engage in Consultation;
+ 
+(iii)  
+if the Acquiror is a Designated Company, exercise the **** Buy-Out Option 
+in accordance with Section ‎3(b) and Section ‎4 below; or
+ 
+(iv)  
+if the Acquiror is **** Designated Company in respect of the **** Buy-Out 
+Option, exercise the **** Buy-Out Option in accordance with Section ‎3(b) 
+and Section ‎5 below.
+ 
+ 
+1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+3.  
+Change of Control Involving a Designated Company
+ 
+(a)  
+Toshiba Designation Right.  Toshiba shall have the right, for purposes of 
+this Agreement, to designate **** companies as Designated Companies as of 
+the Effective Date.  Toshiba may replace **** Designated Companies 
+effective as of the **** and successively on each **** thereafter, provided 
+that, as of the date it communicates such replacement to SanDisk in writing 
+(which shall be no later than **** days prior to each such ****), Toshiba 
+has no Knowledge or Awareness of any Active Acquisition Interest of a third 
+party to be designated as a Designated Party as it relates to SanDisk.  
+Each such notice shall specify (i) which Designated Company(ies) are being 
+replaced, (ii) the newly chosen Designated Company(ies) and (iii) whether 
+such replacements correspond in respect of the **** Buy-Out Option or 
+****Buy-Out Option.
+ 
+(b)  
+Toshiba Election – Designated Company.  Upon a Change of Control of SanDisk 
+involving a Designated Company, in addition to the rights of Toshiba 
+described in Section ‎2(b)(i) and Section ‎2(b)(ii), Toshiba may Exercise 
+one (1) (but not both) of the following options by providing a return 
+notice (“Election Notice”)  (the date on which the Election Notice is 
+delivered to SanDisk is an “Exercise Date”) to SanDisk indicating its 
+election and Exercise thereof during the period beginning on the date that 
+is **** after the CIC Closing Date and ending on the date that is **** 
+after the CIC Closing Date:
+ 
+(i)  
+**** Buy-Out Option.  Toshiba may elect to purchase and acquire all (but 
+not less than all) of (x) the FF Interests owned by SanDisk, or (y) Flash 
+Forward capacity and **** equipment allocated to SanDisk; in each case at 
+the **** Buy-Out Purchase Price, in a series of one or more successive 
+closings over a period of **** commencing on the Initial Closing Date 
+(“****Buy-Out Option”), subject to a foundry and supply arrangement with 
+SanDisk, in each case in accordance with Section ‎4 below.
+ 
+(ii)  
+**** Buy-Out Option.  Toshiba may elect to purchase and acquire all (but 
+not less than all) of (x) the FF Interests owned by SanDisk, or (y) Flash 
+Forward capacity and **** equipment allocated to SanDisk; in each case for 
+the **** Buy-Out Purchase Price, within **** after the CIC Closing Date 
+(“****Buy-Out Option”), subject to a **** foundry and supply arrangement 
+with SanDisk, in each case in accordance with Section ‎5 below.
+ 
+(iii)  
+For the avoidance of doubt, upon Toshiba’s election to purchase either (x) 
+the FF Interests owned by SanDisk, or (y) the Flash Forward capacity and 
+equipment allocated to SanDisk, as described in Section 3(b)(i) or (ii) 
+above, at the Initial Closing Date, all successive purchases shall be 
+solely within such category of (x) or (y).
+ 
+(c)  
+Termination of Options.  In the event that Toshiba fails to provide an 
+Election Notice to SanDisk within the time period stated in Section ‎3(b), 
+each of the **** Buy-Out Option and the **** Buy-Out Option shall 
+terminate.  Either of the **** Buy-Out Option or the **** Buy-Out Option, 
+as applicable, shall terminate upon Toshiba providing an Election Notice 
+indicating its Exercise of the other option.  For the avoidance of doubt, 
+if Toshiba fails to provide an Election Notice to SanDisk within the time 
+period stated in Section 3(b), then SanDisk, if it is the surviving entity 
+after the Change of Control, shall continue as the counterparty under the 
+FF Operative Documents; if SanDisk is not the surviving entity, then the 
+Acquirer shall be substituted for SanDisk as provided in Section 2(b)(i).
+ 
+4.  
+**** Buy-Out Option
+ 
+(a)  
+General.  In the event that Toshiba elects to Exercise the **** Buy-Out 
+Option pursuant to Section ‎3(b)(i), each of Toshiba and SanDisk shall 
+consummate Toshiba’s purchase of SanDisk’s FF Interests or Flash Forward 
+capacity and equipment, as applicable, in accordance with this Section ‎
+4(a).
+ 
+(i)  
+Election Notice; Binding Agreement.  The Election Notice shall indicate 
+that Toshiba is Exercising its option hereunder and set forth (x) the 
+percentage, which shall be between **** and **** of SanDisk’s FF Interests 
+or Flash Forward capacity and equipment that Toshiba desires to initially 
+purchase and (y) its desired closing date, which shall be no earlier than 
+**** and no later than **** from the Exercise Date.  The Election Notice 
+shall be irrevocable and, upon delivery of the same to SanDisk, shall 
+constitute a binding agreement by Toshiba to purchase, and by SanDisk to 
+sell the percentage of such FF Interests or Flash Forward capacity and 
+equipment specified in the initial Election Notice on the Initial Closing 
+Date pursuant to this Section 4.
+ 
+ 
+2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(ii)  
+Initial Closing Date; Deliveries.  The purchase of SanDisk’s FF Interests 
+or  Flash Forward capacity and equipment, as applicable, pursuant to any 
+Election Notice shall be completed on the date which Toshiba requests in 
+the Election Notice, or such other date as may be mutually agreed by the 
+Parties in writing (“Initial Closing Date”), except that such closing may 
+be extended as necessary to comply with any Governmental Rule.  On the 
+Initial Closing Date, SanDisk shall deliver duly executed instruments of 
+transfer and other documents necessary to effect the conveyance of its FF 
+Interests or Flash Forward capacity and equipment, and Toshiba shall 
+deliver payment **** by wire transfer of immediately available funds **** 
+an amount equal to the applicable **** Buy-Out Purchase Price to an account 
+specified by SanDisk.
+ 
+       Unless otherwise agreed by the Parties, in the event that Toshiba
+       elects to purchase SanDisk’s Flash Forward capacity and equipment,
+       Toshiba shall deliver the **** Buy-Out Purchase Price, by wire
+       transfer of immediately available funds **** to SanDisk by wire
+       transfer of immediately available funds to an account designated by
+       SanDisk, provided that, such SanDisk equipment and capacity acquired
+       by Toshiba hereunder shall be acquired pursuant to additional terms
+       and procedures discussed and agreed in good faith by the Parties
+       with due consideration for the terms and procedures set forth in
+       ****.
+ 
+(iii)  
+**** Buy-Out Purchase Price.  The **** Buy-Out Purchase Price shall be 
+determined as set forth in Schedule ‎4(a)(iii).
+ 
+(iv)  
+Successive Closings.  In the event that Toshiba elects to purchase less 
+than **** of SanDisk’s FF Interests or Flash Forward capacity and 
+equipment, as applicable, on the Initial Closing Date, Toshiba shall issue 
+a subsequent Election Notice **** prior to each **** and elect to purchase 
+**** of SanDisk’s remaining FF Interests or Flash Forward capacity and 
+equipment in an amount which shall be between **** and **** of the such 
+**** FF Interests or Flash Forward capacity and equipment, as applicable.  
+The closing of each such subsequent purchase shall take place on the 
+applicable **** to which the Election Notice relates (“Successive Closing 
+Date”).  In such case, the closing procedures in Section ‎4(a)(ii) and the 
+**** Buy-Out Purchase Price in Schedule ‎4(a)(iii) in respect of such 
+Successive Closing Date shall apply. Prior to any **** in the event that 
+Toshiba elects to purchase SanDisk’s Flash Forward capacity and equipment, 
+the Parties shall discuss and agree on mechanics for SanDisk to transfer 
+****, and ****.
+ 
+(v)  
+**** Buy-Out by ****.  If by the **** Toshiba has not purchased **** 
+SanDisk’s FF Interests or Flash Forward capacity and equipment, as 
+applicable, Toshiba shall purchase **** in accordance with the closing 
+procedures in Section ‎4(a)(ii) at the applicable **** Buy-Out Purchase 
+Price in Schedule ‎4(a)(iii).
+ 
+(vi)  
+SanDisk Non-JV Equipment.  Except as may otherwise be agreed between the 
+Parties at the time: (x) any SanDisk equipment utilized in the production 
+of  **** that is scheduled to be incorporated into **** but is not owned or 
+leased by **** at the time of the Exercise shall be acquired by Toshiba 
+****; and (y) any **** in **** that is not owned or leased by Flash Forward 
+at the time of the Exercise shall remain the property of and be removed by 
+SanDisk in a reasonable time and manner after mutual discussion, unless 
+Flash Forward is at the time ****, in which case the Parties shall discuss 
+in good faith with respect to treating any SanDisk **** equipment as 
+equipment under subsection (x) of this Section 4(a)(vi).  Capacity output 
+from SanDisk **** equipment used in the production of **** Products and 
+purchased by Toshiba in accordance with this Section 4(a)(vi) shall be 
+treated as **** Supply under this Agreement.
+ 
+(vii)  
+Loans and Support Obligations.  Prior to the Initial Closing Date, the 
+Parties agree to discuss in good faith the **** related to the purchased 
+SanDisk’s FF Interests or Flash Forward capacity and equipment in a manner 
+that ****.
+ 
+(b)  
+**** Product Supply.  Toshiba shall, and shall cause Flash Forward to, 
+supply **** Products and, as applicable, ****, to SanDisk and the Acquirer 
+(“****Product Supply”) from and after the Initial Closing Date for a period 
+of **** (“**** Supply Period”); provided, that the **** Supply Period shall 
+be no longer than ****.  Volumes and prices of the **** Product Supply 
+shall be as described in this Section ‎4(b).
+ 
+(i)  
+**** Supply Volume.  SanDisk shall have the right to purchase, and Toshiba 
+shall have the obligation to sell, the **** Product Supply in an amount 
+equal to the **** (the “****Supply Volume”).
+ 
+ 
+3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(ii)  
+**** Product Supply.  The **** Product Supply shall be sourced from **** 
+during the **** Supply Period, at all times in an amount equal to the 
+aggregate **** Supply Volume.  SanDisk shall have an obligation to purchase 
+****.  SanDisk shall not have the obligation to purchase ****.  Toshiba may 
+reduce the **** Product Supply ****, by the **** Supply Amount after the 
+Initial Closing Date in connection with certain technology transitions 
+carried out by Toshiba as described in Section ‎4(b)(vi) below.
+ 
+(iii)  
+Prices for **** Product Supply.  Prices for the **** Product Supply shall 
+be as follows:
+ 
+       (A) **** Supply Prices.  ****
+ 
+       (B) **** Supply Prices.  ****
+ 
+(iv)  
+**** Lead Time.  As to **** Supply, SanDisk shall be required to provide 
+Toshiba with a rolling written **** forecast of the estimated **** 
+requirements, and binding written purchase orders **** in advance.
+ 
+(v)  
+Capacity Expansions.  ****
+ 
+(vi)  
+Technology Transitions.
+ 
+       (A) General.  Subject to Section ‎4(b)(vi)(B) below, after the
+       Exercise Date, ****
+ 
+       (B) ****
+ 
+       ****
+ 
+       (C) ****
+ 
+           (1)  ****
+ 
+           (2)  ****
+ 
+       (D) ****
+ 
+       (E) ****
+ 
+5.  
+**** Buy-Out Option
+ 
+(a)  
+General.  In the event that the Acquirer is **** Designated Company in 
+respect of the **** Buy-Out Option as set forth in the ****, and Toshiba 
+elects to exercise its **** Buy-Out Option pursuant to Section ‎3(b)(ii), 
+Toshiba and SanDisk shall consummate the purchase and sale of the FF 
+Interests owned by SanDisk or Flash Forward capacity and equipment 
+allocated to SanDisk in accordance with this Section ‎5.
+ 
+(b)  
+Election Notice; Binding Agreement.  The Election Notice shall state (i) 
+that Toshiba exercises its option hereunder and agrees to purchase **** of 
+SanDisk’s FF Interests or **** of the Flash Forward capacity and equipment 
+allocated to SanDisk on a closing date no earlier than **** and no later 
+than **** after the date on which the **** Buy-Out Purchase Price is 
+finally determined in accordance with Schedule ‎5(d).  The Election Notice 
+shall be irrevocable and, upon delivery of the same to SanDisk, shall 
+constitute a binding agreement by Toshiba to purchase, and by SanDisk to 
+sell **** of the FF Interests or Flash Forward capacity and equipment 
+specified in the Election Notice on the Buy-Out Closing Date pursuant to 
+this Section 5.
+ 
+(c)  
+**** Buy-Out Closing.  The provisions set forth in Section ‎4(a)(ii) shall 
+apply to the closing mechanics in respect to purchase and sale of the FF 
+Interests under this Section ‎5, except that (i) the Initial Closing Date 
+shall be referred to as the “**** Buy-Out Closing Date”, and (ii) the 
+purchase price to be paid by Toshiba shall be the **** Buy-Out Purchase 
+Price payable to SanDisk on the Payment Due Date.
+ 
+ 
+4
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(d)  
+**** Buy-Out Purchase Price.  The **** Buy-Out Purchase Price shall be 
+determined as set forth in Schedule ‎5(d).
+ 
+(e)  
+**** Foundry Supply.  Commencing on the **** Buy-Out Closing Date and for a 
+period of **** thereafter (“**** Foundry Period”), SanDisk shall have the 
+right to receive continuing supply as described in ****.
+ 
+6.  
+Intellectual Property
+ 
+(a)  
+In the event of a Change of Control of SanDisk involving a Designated 
+Company, each of SanDisk’s and Toshiba’s rights and obligations with 
+respect to certain intellectual property rights shall be as set forth in 
+Schedule ‎6.
+ 
+7.  
+Term and Termination
+ 
+(a)  
+Term.  This Agreement shall remain in effect until terminated by either 
+Party as permitted herein.
+ 
+(b)  
+Termination.  This Agreement may be terminated at any time prior to ****:
+ 
+(i)  
+By the mutual written agreement of SanDisk and Toshiba;
+ 
+(ii)  
+In the event that either Party materially breaches any material provision 
+of this Agreement and such breach is not cured within **** from the date of 
+its receipt of written notice of such breach from the other Party, the 
+non-breaching Party shall have the right to terminate this Agreement by 
+giving **** prior written notice; and,
+ 
+(iii)  
+Automatically upon the expiration or termination of the FF Master Agreement 
+due to reasons unrelated to this Agreement prior to the Exercise of any 
+option by Toshiba under Sections ‎4 or ‎5.
+ 
+(c)  
+Survival.  Notwithstanding the termination of this Agreement, the 
+obligations under Sections 1, 7, and 8(e), (f), (g) and (h) and Appendix A 
+shall survive any such termination.
+ 
+8.  
+General Provisions
+ 
+(a)  
+****
+ 
+(i)  
+****
+ 
+(ii)  
+****.
+ 
+(b)  
+Effect on the FF Joint Venture and FF Operative Documents.
+ 
+(i)  
+Management Rights.  ****
+ 
+       ****
+ 
+(ii)  
+Access; Operations.  From and after the Exercise Date, notwithstanding 
+****.
+ 
+(iii)  
+Effect on the FF Operative Documents.  FF Operative Documents in effect as 
+of the Exercise Date will be modified to take into account the changed 
+relationship of the Parties.
+ 
+(iv)  
+No Impairment.  Until the earlier of the final closing date under the **** 
+Buy-Out Option or the **** Buy-Out Closing Date as applicable, Toshiba 
+agrees not to take any action that would materially impair or diminish 
+SanDisk’s rights hereunder, the value of the FF Joint Venture (including 
+its business, operations, properties, assets or condition), SanDisk’s FF 
+Interests or the Flash Forward capacity and equipment allocated to SanDisk, 
+as applicable.
+ 
+ 
+5
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(c)  
+No Further Changes.  Except as expressly stated herein, in no event shall 
+this Agreement, or the rights and obligations of SanDisk or Toshiba as set 
+forth herein, have any effect upon, or otherwise modify, amend, or be 
+deemed to interpret the Parties’ respective rights and obligations pursuant 
+to ****.
+ 
+(d)  
+Further Assurances.  The Parties agree to cooperate to execute and deliver 
+such further documents, certificates and agreements and to take such other 
+actions as may be reasonably requested to evidence, reflect or effectuate 
+the provisions, transactions and intentions of this Agreement.
+ 
+(e)  
+Rules of Construction and Documentary Conventions.  The rules of 
+construction and documentary conventions and general terms and conditions 
+set forth in Appendix A shall apply to this Agreement.
+ 
+(f)  
+Arbitration.  Any disputes arising out of or relating to this Agreement 
+shall be finally settled pursuant to the arbitration provisions of 
+Appendix A, provided that provisions relating to the Board of Executive 
+Officers shall not apply.
+ 
+(g)  
+Governing Law.  This Agreement shall be governed and construed as to all 
+matters including validity, construction and performance by and under the 
+substantive laws of California, without regard to its conflicts of law 
+provisions.
+ 
+(h)  
+Joinder of SanDisk Flash.  Notwithstanding the provisions of Section 2.9 of 
+Appendix A, any other provision of this Agreement, and any delay beyond the 
+date of hereof of execution by SanDisk Flash of this Agreement, Toshiba and 
+SanDisk acknowledge and agree that, by the execution and delivery hereof to 
+Toshiba and SanDisk Corporation: (i) this Agreement shall be effective as 
+between Toshiba and SanDisk Corporation as of the date hereof; and (ii) 
+upon the execution and delivery to Toshiba and SanDisk Corporation of this 
+Agreement by SanDisk Flash, SanDisk Flash shall be joined as a Party to 
+this Agreement, this Agreement shall be effective by and among Toshiba, 
+SanDisk Corporation and SanDisk Flash as of the date written by the 
+signature of the authorized signatory of SanDisk Flash, and SanDisk Flash 
+shall enjoy and be subject to all rights and obligations hereunder from and 
+after such date.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[SIGNATURES CONTINUE ON FOLLOWING PAGE]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+ 
+ 
+           IN WITNESS WHEREOF, the Parties have caused this Agreement to be 
+executed and delivered as of the date and year first above written.
+ 
+ 
+ 
+  	TOSHIBA CORPORATION
+  	 By: 	 /s/ Kiyoshi Kobayashi
+  	 Name: 	 Kiyoshi Kobayashi
+  	 Title: 	 President and CEO
+  	  	 Semiconductor Company
+  	  	 Corporate Senior Vice President
+  	  	 
+  	 SANDISK CORPORATION
+  	 By: 	 /s/ Eli Harari
+  	 Name: 	 Eli Harari
+  	 Title: 	 Chairman and CEO
+  	  	 
+  	 SANDISK FLASH B.V.
+  	 By: 	 /s/ Sanjay Mehrotra
+  	 Name: 	 Sanjay Mehrotra
+  	 Title: 	 Director
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Signature Page to Flash Forward Transition Agreement]
+
+ 
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+
+ 
+Exhibit 1
+ 
+Definitions
+ 
+“**** Buy-Out Closing Date” shall have the meaning set forth in Section ‎
+5(c).
+ 
+“**** Buy-Out Option” shall have the meaning set forth in Section ‎
+3(b)(ii).
+ 
+“**** Buy-Out Purchase Price” shall have the meaning set forth in Schedule 
+‎5(d).
+ 
+“Acquirer” means ****.
+ 
+“Active Acquisition Interest” ****
+ 
+“Agreement” means that certain Transition Agreement, dated as of the date 
+hereof, between SanDisk and Toshiba, to which this Exhibit 1 is attached.
+ 
+“Appendix A” means the appendix entitled Definitions, Rules of Construction 
+and General Terms and Conditions, attached to the FF Master Agreement.
+ 
+“Available Termination” means (i) any termination right provided for in 
+Section 9.1 of the FF Master Agreement where the event giving rise to the 
+termination right occurred prior to the Exercise; (ii) a Section 9.1(h) 
+(Bankruptcy Event) termination any time prior to the final applicable 
+closing under either of the buy-out options in Section 2(b)(iii) or (iv); 
+and (iii) the expiration of the FF Master Agreement upon the end of its 
+fifteen (15) year life.
+ 
+“Change of Control”, for purposes of this Agreement, means any transaction 
+involving SanDisk that includes ****.
+ 
+“CIC Closing Date” shall have the meaning set forth in Section ‎2(a).
+ 
+“CIC Notice” means the written notice provided by SanDisk to Toshiba 
+setting forth (i) that a Change of Control has occurred, (ii) the name of 
+the Acquirer and (iii) the CIC Closing Date.
+ 
+****
+ 
+“Consultation” means good faith discussion between SanDisk and Toshiba to 
+determine the most effective manner to continue, or the optimal disposition 
+of, Flash Forward and/or its assets and operations, taking into account 
+****.
+ 
+“Continued Development Investment” ****.
+ 
+“Designated Company(ies)” means, initially, (i) **** and (ii) **** 
+identified in the **** as each of the foregoing designations may be 
+subsequently modified from time to time, in each case including such 
+companies’ Subsidiaries and Affiliates.
+ 
+“Development Agreements” ****
+ 
+****
+ 
+“Election Notice” shall have the meaning set forth in Section ‎3(b).
+ 
+****
+ 
+“Exercise” means Toshiba’s exercise of the **** Buy-Out Option or **** 
+Buy-Out Option.
+ 
+ 
+Ex. 1, p. 1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“Exercise Date” shall have the meaning set forth in Section ‎3(b).
+ 
+“**** Product Supply” shall have the meaning set forth in Section 4(b).
+ 
+“****Supply Period” shall have the meaning set forth in Section 4(b).
+ 
+“**** Supply Volume” shall have the meaning set forth in Section 4(b)(i).
+ 
+“**** Supply” means the percentage of the **** Supply Volume that is ****
+ 
+“FF Master Agreement” means that certain Flash Forward Master Agreement, 
+among Toshiba, SanDisk and SanDisk Flash, dated as of July 13, 2010.
+ 
+“Initial Closing Date” shall have the meaning set forth in Section ‎
+4(a)(ii).
+ 
+“****Supply” means the percentage of the **** Supply Volume that is ****
+ 
+“Knowledge or Awareness” means that executives or officers responsible for 
+**** possess specific knowledge of a matter from (i) **** (ii) **** (iii) 
+**** or (iv) ****.
+ 
+“****Foundry Period” shall have the meaning set forth in Section ‎5(e).
+ 
+“**** Cost” means ****.
+ 
+“Member” shall have the meaning set forth in the FF Operating Agreement.
+ 
+“Non-Designated Company(ies)” means all third parties other than Designated 
+Companies.
+ 
+“Payment Due Date” means a date that is **** after the **** Buy-Out Closing 
+Date.
+ 
+ “****Supply Amount” ****
+ 
+“**** Buy-Out Option” shall have the meaning set forth in Section ‎3(b)(i)
+.
+ 
+“**** Buy-Out Purchase Price” shall have the meaning set forth in Schedule 
+‎4(a)(iii).
+ 
+“Successive Closing Date” shall have the meaning set forth in Section ‎
+4(a)(iv).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+******
+ 
+Ex. 1, p. 2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule ‎4(a)(iii)
+ 
+**** Buy-Out Purchase Price
+ 
+The “**** Buy-Out Purchase Price” shall mean, as of the Initial Closing 
+Date or any Successive Closing Date, the amount equal to either of:
+ 
+(a)  
+****
+ 
+or, if applicable,
+ 
+(b)  
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+******
+ 
+Schs., p. 1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 5(d)
+ 
+****  Buy-Out Purchase Price
+ 
+The “**** Buy-Out Purchase Price” shall be an amount of United States 
+Dollars and be determined in accordance with ****
+ 
+****
+
+    ****
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+******
+ 
+Schs., p. 2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.2
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule ‎6
+ 
+Intellectual Property
+ 
+(a)  
+General.  From and after the Exercise Date, the provisions of this 
+Schedule 6 will apply.
+ 
+(b)  
+Definitions.
+ 
+    “Continued Development Support” means SanDisk’s participating in **** 
+    and supporting joint development with respect to a Segment after a
+    Change of Control of SanDisk involving a Designated Company, in a
+    manner ****.
+ 
+    “License” means a worldwide, perpetual, fully paid-up, royalty-free,
+    right and license, sublicenseable only to the extent expressly set
+    forth in this Schedule 6, to use, practice and exploit **** the
+    Transferred Technology, and to have made products only to the extent
+    expressly set forth in this Schedule 6.
+ 
+    “Non-Patent Rights” means, as to a Party, all copyrights, mask work
+    rights, trade secret rights, and all other intellectual property,
+    industrial property or proprietary rights (whether or not subject to
+    statutory registration) other than patents, patent applications,
+    trademarks and trademark applications, in each case (i) which are owned
+    by such Party or any of its Affiliates, or (ii) under which such Party
+    or any of its Affiliates has the right to grant a License of the scope
+    set forth herein without incurring any royalty or other payments to any
+    third party.
+ 
+    “Segment” means **** segments of Technology, or product segments, or
+    any other products or Technology, ****.
+ 
+    “Technology” means all technology, research, development, ideas,
+    inventions, knowledge, know how, technical information (whether or not
+    patentable) and intellectual property of any kind, ****.
+ 
+    “Transferred” means ****.
+ 
+    “Transferred Technology” means Technology that is Transferred (i) **** 
+    or (ii) ****.
+ 
+(c)  
+****
+ 
+    (i) ****; and
+ 
+    (ii) ****
+ 
+(d)  
+License to Technology.
+ 
+    (i) Grant of License to Transferred Technology.  ****
+ 
+    (ii) ****
+ 
+(e)  
+Grant of License to Certain Other Technology.  ****
+ 
+(f)  
+Patent Cross License.  ****
+ 
+(g)  
+No Other Amendments.  Except as expressly provided in this Schedule 6, in 
+no event shall this Schedule 6, or the rights and obligations of SanDisk or 
+Toshiba as set forth herein, have any effect upon, or otherwise modify, 
+amend, or be deemed to interpret the Parties’ respective rights and 
+obligations pursuant to ****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+ 
+ 
+ 
+ 
+ 
