@@ -1,0 +1,1084 @@
+ EX-10.1 3 d260662dex101.htm EX-10.1
+Exhibit 10.1
+
+EXECUTION VERSION
+
+
+
+
+TRANSITION SERVICES AGREEMENT
+
+by and between
+
+XEROX CORPORATION
+
+and
+
+CONDUENT INCORPORATED
+ 
+
+ 
+
+Dated as of December 30, 2016
+ 
+
+ 
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	  	  	   	Page 	 
+ARTICLE I 	  
+Definitions 	  
+SECTION 1.01. 	  	
+ Definitions
+   	  	1 	  
+ARTICLE II 	  
+Services 	  
+SECTION 2.01. 	  	
+ Provision of Services
+   	  	4 	  
+SECTION 2.02. 	  	
+ Service Amendments and Additions
+   	  	8 	  
+SECTION 2.03. 	  	
+ No Management Authority
+   	  	9 	  
+ARTICLE III 	  
+Compensation 	  
+SECTION 3.01. 	  	
+ Compensation for Services
+   	  	9 	  
+SECTION 3.02. 	  	
+ Payment Terms
+   	  	9 	  
+SECTION 3.03. 	  	
+ DISCLAIMER OF WARRANTIES
+   	  	10 	  
+SECTION 3.04. 	  	
+ Books and Records
+   	  	10 	  
+ARTICLE IV 	  
+Term 	  
+SECTION 4.01. 	  	
+ Commencement
+   	  	10 	  
+SECTION 4.02. 	  	
+ Service Extension
+   	  	11 	  
+SECTION 4.03. 	  	
+ Termination
+   	  	11 	  
+SECTION 4.04. 	  	
+ Return of Books, Records and Files
+   	  	12 	  
+ARTICLE V 	  
+Indemnification; Limitation of Liability 	  
+SECTION 5.01. 	  	
+ Indemnification
+   	  	12 	  
+SECTION 5.02. 	  	
+ Limitation on Liability
+   	  	13 	  
+ARTICLE VI 	  
+Other Covenants 	  
+SECTION 6.01. 	  	
+ Attorney-in-Fact
+   	  	14 	  
+ 
+i
+
+------------------------------------------------------------------------
+ARTICLE VII 	  
+Miscellaneous 	  
+SECTION 7.01. 	  	
+ Title to Data
+   	  	14 	  
+SECTION 7.02. 	  	
+ Force Majeure
+   	  	14 	  
+SECTION 7.03. 	  	
+ Separation Agreement
+   	  	15 	  
+SECTION 7.04. 	  	
+ Relationship of Parties
+   	  	15 	  
+SECTION 7.05. 	  	
+ Confidentiality
+   	  	15 	  
+SECTION 7.06. 	  	
+ Counterparts; Entire Agreement
+   	  	15 	  
+SECTION 7.07. 	  	
+ Governing Law; Jurisdiction
+   	  	16 	  
+SECTION 7.08. 	  	
+ Assignability
+   	  	16 	  
+SECTION 7.09. 	  	
+ Third-Party Beneficiaries
+   	  	16 	  
+SECTION 7.10. 	  	
+ Notices
+   	  	17 	  
+SECTION 7.11. 	  	
+ Severability
+   	  	17 	  
+SECTION 7.12. 	  	
+ Headings
+   	  	17 	  
+SECTION 7.13. 	  	
+ Waivers of Default
+   	  	17 	  
+SECTION 7.14. 	  	
+ Amendments
+   	  	17 	  
+SECTION 7.15. 	  	
+ Interpretation
+   	  	17 	  
+ 
+ii
+
+------------------------------------------------------------------------
+TRANSITION SERVICES AGREEMENT (this Agreement), dated as of December 30, 
+2016, by and between XEROX CORPORATION, a New York corporation (Xerox), 
+and CONDUENT INCORPORATED, a New York corporation (Conduent).
+
+
+RECITALS
+
+WHEREAS, in connection with the contemplated Spin-Off of Conduent and 
+concurrently with the execution of this Agreement, Xerox and Conduent are 
+entering into a Separation and Distribution Agreement (the Separation 
+Agreement);
+
+WHEREAS, each of Xerox and Conduent may provide to the other certain 
+services, as more particularly described in this Agreement, for a limited 
+period of time following the Spin-Off; and
+
+WHEREAS, each of Xerox and Conduent desires to reflect the terms of their 
+agreement with respect to such services.
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and 
+sufficiency of which are acknowledged by this Agreement, Xerox and 
+Conduent, for themselves, their successors and assigns, agree as follows:
+
+
+ARTICLE I
+
+Definitions
+
+SECTION 1.01. Definitions. As used in this Agreement, the following terms 
+have the following meanings:
+
+Additional Services has the meaning ascribed thereto in Section 2.02(a).
+
+Affiliate has the meaning ascribed thereto in the Separation Agreement.
+
+Affected Party has the meaning ascribed thereto in Section 7.02.
+
+Agreement has the meaning ascribed thereto in the preamble.
+
+Ancillary Agreements has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Applicable Termination Date means, with respect to each Service, the date 
+that is 12 months from the Distribution Date, or such earlier termination 
+date specified with respect to such Service, as applicable, in Schedule A 
+or Schedule B, as applicable.
+
+BPO Business means the BPO Business as defined in the Separation 
+Agreement.
+
+------------------------------------------------------------------------
+Conduent has the meaning ascribed thereto in the preamble.
+
+Conduent Group has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Conduent Indemnitees has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Consents has the meaning ascribed thereto in the Separation Agreement.
+
+Cost of Services means, with respect to each Service, the amount 
+specified with respect to such Service in Schedule A or Schedule B, as 
+applicable, to be paid by a Service Recipient in respect of such Service to 
+the Service Provider of such Service.
+
+Designated Work Product means the work product resulting from the 
+provision of Services hereunder for the Service Recipients exclusive use 
+listed or described on Schedule C.
+
+Dispute has the meaning ascribed thereto in Section 2.01(c).
+
+Dispute Notice has the meaning ascribed thereto in Section 2.01(c).
+
+Distribution has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Distribution Date has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Force Majeure Event has the meaning ascribed thereto in Section 7.02.
+
+Governmental Authority has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Group means either the Xerox Group or the Conduent Group, as the context 
+requires.
+
+Indemnitee means a Xerox Indemnitee or a Conduent Indemnitee, as the 
+context requires.
+
+Information has the meaning ascribed thereto in the Separation Agreement.
+
+Insurance Proceeds has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Law has the meaning ascribed thereto in the Separation Agreement.
+ 
+2
+
+------------------------------------------------------------------------
+Liabilities has the meaning ascribed thereto in the Separation Agreement.
+
+Omitted Services has the meaning ascribed thereto in Section 2.02(a).
+
+Party means either party hereto, and Parties means both parties hereto.
+
+Performing Party has the meaning ascribed thereto in Section 7.02.
+
+Person has the meaning ascribed thereto in the Separation Agreement.
+
+Separation Agreement has the meaning ascribed thereto in the recitals.
+
+Service Extension has the meaning ascribed thereto in Section 4.02.
+
+Service Manager has the meaning ascribed thereto in Section 2.01(c).
+
+Service Provider means any member of the Conduent Group or the Xerox 
+Group, as applicable, in its capacity as the provider of any Services to 
+any member of the Xerox Group or the Conduent Group, respectively.
+
+Service Recipient means any member of the Conduent Group or the Xerox 
+Group, as applicable, in its capacity as the recipient of any Services from 
+any member of the Xerox Group or the Conduent Group, respectively.
+
+Services means the individual services identified in Schedule A or 
+Schedule B, as applicable.
+
+Spin-Off has the meaning ascribed thereto in the Separation Agreement.
+
+Sub-Contractor has the meaning ascribed thereto in Section 2.01(e).
+
+Subsidiary has the meaning ascribed thereto in the Separation Agreement.
+
+Taxes has the meaning ascribed thereto in Section 3.01(b).
+
+Third-Party Claim has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Xerox has the meaning ascribed thereto in the preamble.
+
+Xerox Business has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Xerox Group has the meaning ascribed thereto in the Separation Agreement.
+ 
+3
+
+------------------------------------------------------------------------
+Xerox Indemnitees has the meaning ascribed thereto in the Separation 
+Agreement.
+
+
+ARTICLE II
+
+Services
+
+SECTION 2.01. Provision of Services. (a) Commencing immediately after the 
+Distribution, Xerox shall, and shall cause the applicable members of the 
+Xerox Group to, (i) provide to Conduent and the applicable members of the 
+Conduent Group the Services set forth in Schedule A and (ii) pay, perform, 
+discharge and satisfy, as and when due, its and their respective 
+obligations as Service Recipients under this Agreement, in each case in 
+accordance with the terms of this Agreement.
+
+(b) Commencing immediately after the Distribution, Conduent shall, and 
+shall cause the applicable members of the Conduent Group to, (i) provide to 
+Xerox and the applicable members of the Xerox Group the Services set forth 
+in Schedule B and (ii) pay, perform, discharge and satisfy, as and when 
+due, its and their respective obligations as Service Recipients under this 
+Agreement, in each case in accordance with the terms of this Agreement.
+
+(c) Each Service Recipient and its respective Service Provider shall 
+cooperate in good faith with each other in connection with the performance 
+of the Services hereunder. Each of Xerox and Conduent agrees to appoint an 
+employee representative (each such representative, a Service Manager) who 
+will have overall responsibility for implementing, managing and 
+coordinating the Services pursuant to this Agreement on behalf of Xerox and 
+Conduent, respectively. Initially, the Service Managers will be the 
+individuals set forth on Schedule D. Either Party may change its designated 
+Service Manager at any time upon notice given to the other Party in 
+accordance with Section 7.10. The Service Managers will consult and 
+coordinate with each other on a regular basis, and no less frequently than 
+monthly, during the term of this Agreement. Except as otherwise provided in 
+this Agreement, the Parties shall resolve all disputes arising under or in 
+connection with this Agreement (each, a Dispute) in accordance with the 
+following procedures (including, for the avoidance of doubt, any Dispute 
+relating to payments with respect to the Services). All Disputes will be 
+first considered in person, by teleconference or by video conference by the 
+Service Managers within five business days after receipt of notice from 
+either Party specifying the nature of the Dispute (a Dispute Notice). If 
+any Dispute is not resolved by the Service Managers within 10 business days 
+after receipt of a Dispute Notice, then, upon the written request of either 
+Party, each Party shall designate a representative who does not spend a 
+substantial portion of his or her time on activities relating to this 
+Agreement to meet in person, by teleconference or by video conference with 
+the other Partys designated representative for the purpose of resolving 
+the Dispute. The designated representatives shall negotiate in good faith 
+to resolve the Dispute. If they do not resolve the Dispute within 10 
+business days after the date the Dispute was referred to them, the Parties 
+may pursue any other rights, remedies or actions that may be available to 
+them under this Agreement or at Law.
+ 
+4
+
+------------------------------------------------------------------------
+(d) The Service Provider shall determine the personnel who shall perform 
+the Services to be provided by it. All personnel providing Services will 
+remain at all times, and be deemed to be, employees or representatives 
+solely of the Service Provider responsible to provide such Services (or its 
+Affiliates or Sub-Contractors) for all purposes, and not to be employees or 
+representatives of the Service Recipient. The Service Provider (or its 
+Affiliates or Sub-Contractors) will be solely responsible for payment of 
+(i) all compensation, (ii) all income, disability, withholding and other 
+employment taxes and (iii) all medical benefit premiums, vacation pay, sick 
+pay and other employee benefits payable to or with respect to personnel who 
+perform Services on behalf of such Service Provider. All such personnel 
+will be under the sole direction, control and supervision of the Service 
+Provider and the Service Provider has the sole right to exercise all 
+authority with respect to the employment, substitution, termination, 
+assignment and compensation of such personnel.
+
+(e) The Service Provider may, at its option, from time to time, delegate 
+any or all of its obligations to perform Services under this Agreement to 
+any one or more of its Affiliates or engage the services of other 
+professionals, consultants or other third parties (each, a Sub-Contractor
+) in connection with the performance of the Services; provided, however, 
+that (i) the Service Provider shall remain ultimately responsible for 
+ensuring that its obligations with respect to the nature, scope, quality 
+and other aspects of the Services are satisfied with respect to any 
+Services provided by any such Affiliate or Sub-Contractor and shall be 
+liable for any failure of a Sub-Contractor to so satisfy such obligations 
+(or otherwise breaches any provision hereof) and (ii) such Sub-Contractor 
+agrees in writing to be bound by confidentiality provisions at least as 
+restrictive to it as the terms of Section 7.05 of this Agreement. Except as 
+agreed by the Parties in Schedule A or Schedule B or otherwise in writing, 
+any costs associated with engaging the services of an Affiliate of the 
+Service Provider or a Sub-Contractor shall not affect the Cost of Services 
+payable by the Service Recipient under this Agreement, and the Service 
+Provider shall remain solely responsible with respect to payment for such 
+Affiliates or Sub-Contractors costs, fees and expenses.
+
+(f) The Services shall be performed in substantially the same manner, 
+scope, time frame, nature and quality, with the same care, and to the same 
+extent and service level as such Services (or substantially similar 
+services) were provided to the BPO Business or the Xerox Business, as 
+applicable, immediately prior to the Distribution Date, unless the Services 
+are being provided by a Sub-Contractor who is also providing the same 
+services to the Service Provider or a member of such Service Providers 
+Group, in which case the Services shall be performed for the Service 
+Recipient in the same manner, scope, time frame, nature and quality, with 
+the same care, and to the same extent and service level as they are being 
+performed for the Service Provider or such member of such Service 
+Providers Group, as applicable. If the Service Provider has not provided 
+such Services (or substantially similar services) immediately prior to the 
+Distribution Date, then the Services shall be performed in a competent and 
+professional manner consistent with industry standards. The Services shall 
+be used solely for the operation of the BPO Business or the Xerox Business, 
+as applicable, for substantially the same purpose as used by the applicable 
+Service Recipient on the date of this Agreement.
+ 
+5
+
+------------------------------------------------------------------------
+(g) The Parties acknowledge that the Service Provider may make changes from 
+time to time in the manner of performing Services if the Service Provider 
+is making similar changes in performing the same or substantially similar 
+Services for itself or other members of its Group; provided, however, that, 
+unless expressly contemplated in Schedule A or Schedule B, such changes 
+shall not affect the Cost of Services for such Service payable by the 
+Service Recipient under this Agreement or decrease the manner, scope, time 
+frame, nature, quality or level of the Services provided to the Service 
+Recipient, except upon prior written approval of the Service Recipient. 
+Service Recipients shall cooperate with the Service Providers to the extent 
+necessary or appropriate to facilitate the performance of the Services in 
+accordance with the terms of this Agreement. Without limiting the 
+generality of the foregoing, (i) each Party shall make available on a 
+timely basis to the other Party all information and materials requested by 
+such Party to the extent reasonably necessary for the performance or 
+receipt of the Services, (ii) each Party shall, and shall cause the members 
+of its Group to, upon reasonable notice, give or cause to be given to the 
+other Party and its Affiliates and Sub-Contractors reasonable access, 
+during regular business hours and at such other times as are reasonably 
+required, to the relevant premises and personnel to the extent reasonably 
+necessary for the performance or receipt of the Services and (iii) each 
+Party shall, and shall cause the members of its Group to, give the other 
+Party and its Affiliates and Sub-Contractors reasonable access to, and all 
+necessary rights to utilize, such Partys, and its Groups, information, 
+facilities, personnel, assets, systems and technologies to the extent 
+reasonably necessary for the performance or receipt of the Services. Each 
+Party shall (and shall cause the members of its Group and its personnel and 
+the personnel of its Affiliates and Sub-Contractors providing or receiving 
+Services to): (A) not attempt to obtain access to, use or interfere with 
+any information technology systems of the other Party or any member of its 
+Group, or any confidential or competitively sensitive information owned, 
+used or processed by the other Party, except to the extent reasonably 
+necessary to do so to provide or receive Services; (B) maintain reasonable 
+security measures to protect the systems of the other Party and the members 
+of its Group to which it has access pursuant to this Agreement from access 
+by unauthorized third parties; (C) not disable, damage or erase or disrupt 
+or impair the normal operation of the information technology systems of the 
+other Party or any member of its Group; (D) Service Provider shall 
+immediately notify Service Recipient of any confirmed misuse, disclosure or 
+loss of, or inability to account for, any confidential or competitively 
+sensitive information, and any confirmed unauthorized access to Service 
+Providers facilities, systems or network; and Service Provider will 
+investigate such confirmed security incidents and reasonably cooperate with 
+Service Recipients incident response team, supplying logs and other 
+necessary information to mitigate and limit the damages resulting from such 
+a security incident, provided that the Service Recipient agrees to 
+reimburse Service Provider for time spent and actual travel expenses 
+incurred in connection with any such investigation; and (E) subject to 
+applicable Law, the Service Provider shall use reasonable efforts to comply 
+with any commercially reasonable requests to assist Service Recipient with 
+its electronic discovery obligations related to Services provided to the 
+Service Recipient, provided that the Service Recipient agrees to reimburse 
+Service Provider for time spent and actual travel expenses incurred for 
+such response.
+ 
+6
+
+------------------------------------------------------------------------
+(h) Nothing in this Agreement shall be deemed to require the provision of 
+any Service by any Service Provider (or any Affiliate or Sub-Contractor of 
+a Service Provider) to any Service Recipient if the provision of such 
+Service requires the Consent of any Person (including any Governmental 
+Authority), whether under applicable Law, by the terms of any contract to 
+which such Service Provider or any other member of its Group is a party or 
+otherwise, unless and until, subject to the third-to-last sentence of this 
+Section 2.01(h), such Consent has been obtained. The Service Provider shall 
+use commercially reasonable efforts to obtain as promptly as possible any 
+Consent of any Person that may be necessary for the performance of the 
+Service Providers obligations pursuant to this Agreement. Any fees, 
+expenses or extra costs incurred in connection with obtaining any such 
+Consents shall be paid by the Service Recipient, and the Service Recipient 
+shall use commercially reasonable efforts to provide assistance as 
+necessary in obtaining such Consents. In the event that the Consent of any 
+Person, if required in order for the Service Provider to provide Services, 
+is not obtained reasonably promptly after the Distribution, the Service 
+Provider shall notify the Service Recipient and the Parties shall cooperate 
+in devising an alternative manner for the provision of the Services 
+affected by such failure to obtain such Consent and the Cost of Services 
+associated therewith, such alternative manner and Cost of Services to be 
+reasonably satisfactory to both Parties and agreed to in writing. If the 
+Parties elect such an alternative plan, the Service Provider shall provide 
+the Services in such alternative manner and the Service Recipient shall pay 
+for such Services based on the alternative Cost of Services. The Services 
+shall not include, and no Service Provider (or any Affiliate or 
+Sub-Contractor of a Service Provider) shall be obligated to provide, any 
+service the provision of which to a Service Recipient following the 
+Distribution would constitute a violation of any Law. In addition, 
+notwithstanding anything to the contrary herein, the Service Provider (and 
+the Affiliates and Sub-Contractors of the Service Provider) will not be 
+required to perform or to cause to be performed any of the Services for the 
+benefit of any third party or any other Person other than the applicable 
+Service Recipient.
+
+(i) Each Party, on behalf of itself and its Affiliates, hereby grants to 
+the other Party and to its Affiliates and Sub-Contractors providing 
+Services under this Agreement a nonexclusive, nontransferable, world-wide, 
+royalty-free, sublicensable license, for the term of this Agreement, to use 
+the intellectual property owned by such Party and the members of its Group 
+solely to the extent necessary for the other Party and the members of its 
+Group to perform their obligations hereunder. Subject to the terms of the 
+Separation Agreement, each Service Provider acknowledges and agrees that it 
+will acquire no right, title or interest (including any license rights or 
+rights of use) to the Designated Work Product and such Designated Work 
+Product shall remain the exclusive property of the Service Recipient. To 
+the extent title to any Designated Work Product vests in the Service 
+Provider by operation of Law, each Party hereby assigns (and shall cause 
+any such other Service Provider, and any Affiliate or Sub-Contractor of 
+such Service Provider, to assign) to the relevant Service Recipient all 
+right, title and interest in and to such Designated Work Product, and the 
+Service Provider shall (and shall cause any Affiliate or Sub-Contractor of 
+such Service Provider to) provide such assistance and execute such 
+documents as the Service Recipient may reasonably request to assign to the 
+relevant Service Recipient all right, title and interest in and to such 
+work product. Each Service Recipient acknowledges and agrees that it will 
+acquire no right, title or interest
+ 
+7
+
+------------------------------------------------------------------------
+(other than a non-exclusive, perpetual, royalty-free worldwide right of 
+use) to any work product resulting from the provision of Services hereunder 
+that is not for the Service Recipients exclusive use and such work product 
+shall remain the exclusive property of the Service Provider.
+
+(j) The Parties acknowledge that it may be necessary for each of them to 
+make proprietary and/or third party software available to the other in the 
+course and for the purpose of performing Services. Each Party (a) shall 
+comply with the license restrictions applicable to any and all proprietary 
+or third party software made available to such Party by the other Party in 
+the course of the provision of Services hereunder, (b) acknowledges receipt 
+of the license terms of use applicable to all proprietary or third party 
+software in its possession as of the Distribution Date, and (c) agrees that 
+it shall be responsible for providing to the other Party a copy of the 
+applicable license terms (or, solely with respect to open source software 
+or other software with publicly available license terms, information 
+sufficient to direct such other Party to a copy thereof) for any and all 
+proprietary or third party software first made available to such other 
+Party after the Distribution Date, solely to the extent such provision 
+would not violate the providing Partys duty of confidentiality owed to any 
+third party.
+
+(k) Subject to Section 2.02, the Parties agree that the Services set forth 
+in Schedule A and Schedule B constitute all of the Services to be provided 
+by members of the Xerox Group and members of the Conduent Group, 
+respectively, as of the Distribution Date.
+
+SECTION 2.02. Service Amendments and Additions. (a) From time to time 
+during the term, each of Xerox and Conduent may request the other Party to 
+provide services that (i) were provided by the Xerox Business or the BPO 
+Business, as applicable, within the 12 months prior to the Distribution 
+Date and (ii) are reasonably necessary for the operation of the Xerox 
+Business or the BPO Business, as applicable, as conducted as of the 
+Distribution Date (Omitted Services). In the event that a Party desires 
+to have the other Party provide Omitted Services or additional services 
+that are not Omitted Services (Additional Services), such other Party, in 
+its discretion, may agree to provide such Omitted Services or Additional 
+Services. Any request for an Omitted Service or Additional Service shall be 
+in writing and shall specify, as applicable (A) the type and the scope of 
+the requested service, (B) who shall perform the requested service, (C) 
+where and to whom the requested service is to be provided and (D) the 
+proposed term for the requested service.
+
+(b) If a Party agrees to provide Omitted Services or Additional Services 
+pursuant to Section 2.02(a), then the Parties shall in good faith negotiate 
+an amendment to Schedule A or Schedule B, as applicable, which will 
+describe in detail the service, project scope, term, price and payment 
+terms to be charged for such Omitted or Additional Services. Once agreed to 
+in writing, the amendment to Schedule A or Schedule B, as applicable, shall 
+be deemed part of this Agreement as of such date and the Omitted Services 
+or Additional Services, as applicable, shall be deemed Services, provided 
+hereunder, in each case subject to the terms and conditions of this 
+Agreement.
+ 
+8
+
+------------------------------------------------------------------------
+SECTION 2.03. No Management Authority. No Service Provider (or any 
+Affiliate or Sub-Contractor of a Service Provider) shall be authorized by, 
+or shall have any responsibility under, this Agreement to manage the 
+affairs of the business of any Service Recipient.
+
+
+ARTICLE III
+
+Compensation
+
+SECTION 3.01. Compensation for Services. (a) As compensation for each 
+Service rendered pursuant to this Agreement, the Service Recipient shall be 
+required to pay to the Service Provider the Cost of Services specified for 
+such Service in Schedule A or Schedule B, as applicable.
+
+(b) During the term of this Agreement, the amount of a Cost of Service for 
+a Service may increase to the extent of any increase in the applicable Cost 
+of Services during a Service Extension, in accordance with Section 4.02.
+
+(c) The amount of any actual and documented sales tax, value-added tax, 
+goods and services tax or similar tax that is required to be assessed and 
+remitted by the Service Provider in connection with the Services provided 
+hereunder (Taxes) will be promptly paid to the Service Provider by the 
+Service Recipient in accordance with Section 3.02. Such payment shall be in 
+addition to the Cost of Services set forth in Schedule A or Schedule B, as 
+applicable (unless such Tax is expressly already accounted for in the 
+applicable Cost of Services).
+
+(d) Either Party shall have the right to withhold or deduct from any 
+payments made under this Agreement as required by applicable Law. For all 
+purposes of this Agreement, any such deducted or withheld amounts shall be 
+treated as paid to the other Party for purposes of this Agreement. The 
+Party making such deduction or withholding shall promptly provide to the 
+other Party tax receipts or other documents evidencing the payment of any 
+such deducted or withheld amount to the applicable Governmental Authority.
+
+SECTION 3.02. Payment Terms. (a) The Service Provider shall bill the 
+Service Recipient monthly, within 30 business days after the end of each 
+month, or at such other interval specified with respect to a particular 
+Service in Schedule A or Schedule B, as applicable, an amount equal to the 
+aggregate Cost of Services due for all Services provided in such month or 
+other specified interval, as applicable, plus any Taxes. Invoices shall be 
+directed to the Service Manager appointed by Xerox or Conduent, as 
+applicable, or to such other Person designated in writing from time to time 
+by such Service Manager. The Service Recipient shall pay such amount in 
+full within 60 days after receipt of each invoice by wire transfer of 
+immediately available funds to the account designated by the Service 
+Provider for this purpose. If the 60th day falls on a weekend or a holiday, 
+the Service Recipient shall pay such amount on or before the following 
+business day. Each invoice shall set forth in reasonable detail the 
+calculation of the charges and amounts and applicable Taxes, for each 
+Service during the month or
+ 
+9
+
+------------------------------------------------------------------------
+other specified interval to which such invoice relates. In addition to any 
+other remedies for non-payment, if any payment is not received by the 
+Service Provider on or before the date such amount is due, then a late 
+payment interest charge, calculated at 2.0% per annum rate, shall 
+immediately begin to accrue and any such late payment interest charges 
+shall become immediately due and payable in addition to the amount 
+otherwise owed under this Agreement. The Parties shall cooperate to achieve 
+an invoicing structure that minimizes taxes for both Parties, including by 
+implementing a local to local invoicing structure where applicable.
+
+(b) Any objection to the amount of any invoice shall be deemed to be a 
+Dispute hereunder subject to the provisions applicable to Disputes set 
+forth in Section 2.01(c).
+
+SECTION 3.03. DISCLAIMER OF WARRANTIES. WITHOUT LIMITATION TO THE COVENANTS 
+RELATING TO THE PROVISION OF SERVICES SET FORTH IN SECTION 2.01(f), THE 
+SERVICES TO BE PROVIDED UNDER THIS AGREEMENT ARE FURNISHED WITHOUT 
+REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY 
+WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE. NO 
+MEMBER OF THE XEROX GROUP OR OF THE CONDUENT GROUP, AS SERVICE PROVIDER, 
+MAKES ANY REPRESENTATION OR WARRANTY THAT ANY SERVICE COMPLIES WITH ANY 
+LAW, DOMESTIC OR FOREIGN.
+
+SECTION 3.04. Books and Records. Xerox and Conduent shall each, and shall 
+each cause the members of their Group to, maintain complete and accurate 
+books of account as necessary to support calculations of the Cost of 
+Services for Services rendered by it or the other members of its Group as 
+Service Providers and shall make such books available to the other, upon 
+reasonable notice, during normal business hours; provided, however, that to 
+the extent Xeroxs or Conduents books, or the books of the members of 
+their Group, contain Information relating to any other aspect of the Xerox 
+Business or the BPO Business, as applicable, Xerox and Conduent shall 
+negotiate a procedure to provide the other Party with necessary access 
+while preserving the confidentiality of such other records.
+
+
+ARTICLE IV
+
+Term
+
+SECTION 4.01. Commencement. This Agreement is effective as of the date 
+hereof and shall remain in effect with respect to a particular Service 
+until the occurrence of the Applicable Termination Date applicable to such 
+Service (or, subject to the terms of Section 4.02, the expiration of any 
+Service Extension applicable to such Service), unless earlier terminated 
+(i) in its entirety or with respect to a particular Service, in each case 
+in accordance with Section 4.03, or (ii) by mutual consent of the Parties. 
+Notwithstanding anything to the contrary contained herein, if the 
+Separation Agreement shall be terminated in accordance with its terms, this 
+Agreement shall be automatically terminated and void ab initio with no 
+further action by the Parties and shall be of no force and effect.
+ 
+10
+
+------------------------------------------------------------------------
+SECTION 4.02. Service Extension. If the Service Recipient reasonably 
+determines that it will require a Service to continue beyond the Applicable 
+Termination Date or the end of a subsequent extension period, the Service 
+Recipient may request the Service Provider to extend the term of such 
+Service for the desired renewal period(s) (each, a Service Extension) by 
+written notice to the Service Provider no less than 45 days prior to end of 
+the then-current Service term. The Service Provider shall respond to any 
+such request for a Service Extension within 15 days of receipt and shall 
+use reasonable best efforts to comply with such Service Extension request; 
+provided, however, that (i) the Service Extensions with respect to each 
+Service shall not extend the term of such Service more than 12 months 
+beyond the Applicable Termination Date applicable to such Service, (ii) the 
+Service Provider will not be in breach of its obligations under this 
+Section 4.02 if it is unable to comply with a Service Extension request 
+through the use of reasonable best efforts such as where a Consent that is 
+required in order for the Service Provider to continue to provide the 
+applicable Service during the requested Service Extension cannot be 
+obtained by the Service Provider through the use of reasonable best 
+efforts, (iii) the Service Provider shall not be required to contribute 
+capital, pay or grant any consideration or concession in any form 
+(including providing any letter of credit, guaranty or other financial 
+accommodation) to any Person in order to obtain or make any Consent that is 
+required in order for the Service Provider to continue to provide the 
+applicable Service during the requested Service Extension (other than 
+reasonable out-of-pocket expenses, attorneys fees and recording or similar 
+fees, all of which shall be reimbursed by the Service Recipient, as 
+promptly as reasonably practicable), and (iv) each Service Extension is 
+permissible under applicable Law. With respect to Schedule A or Schedule B, 
+as applicable, the the Cost of Services specified for such Service in 
+Schedule A or Schedule B, as applicable, shall be amended to include an 
+incremental surcharge of 10% for each Service Extension. The Parties shall 
+amend the terms of Schedule A or Schedule B, as applicable, to reflect the 
+new Service term and Cost of Services, within 5 days following the Service 
+Providers agreement to a Service Extension, subject to the conditions set 
+forth in this Section 4.02. Each such amended Schedule A or Schedule B, as 
+applicable, as agreed to in writing by the Parties, shall be deemed part of 
+this Agreement as of the date of such agreement. Additionally, if the 
+Service Provider deems that an extension of a Service requires any other 
+Service to be extended due to their related nature, the Service Provider 
+will provide notice to the Service Recipient that it must request in 
+writing an extension of that affected Service before it accepts the 
+extension request.
+
+SECTION 4.03. Termination. (a) If a Service Provider or Service Recipient 
+materially breaches any of its respective obligations under this Agreement 
+(and the period for resolution of the Dispute relating to such breach set 
+forth in Section 2.01(c) has expired), the non-breaching Service Recipient 
+or Service Provider, as applicable, may terminate this Agreement with 
+respect to the Service to which such obligations apply, effective upon not 
+less than 30 days written notice of termination to the breaching Party, if 
+the breaching Party does not cure such default within 30 days after 
+receiving written notice thereof from the non-breaching Party. The 
+termination of this Agreement with respect to any Service pursuant to this 
+Section 4.03 shall not affect the Parties rights or obligations under this 
+Agreement with respect to any other Service.
+ 
+11
+
+------------------------------------------------------------------------
+(b) Except as otherwise provided in this Agreement or Schedule A or 
+Schedule B, upon not less than 60 days prior written notice a Service 
+Recipient shall be entitled to terminate one or more Services being 
+provided by any Service Provider for any reason or no reason at all.
+
+(c) In the event of any termination of this Agreement in its entirety or 
+with respect to any Service, each Party, Service Provider and Service 
+Recipient shall remain liable for all of their respective obligations that 
+accrued hereunder prior to the date of such termination, including all 
+obligations of each Service Recipient to pay any amounts due to any Service 
+Provider hereunder.
+
+SECTION 4.04. Return of Books, Records and Files. Upon the request of the 
+Service Recipient after the termination of a Service with respect to which 
+the Service Provider holds books, records or files, including current and 
+archived copies of computer files, (i) owned solely by the Service 
+Recipient or its Affiliates and used by the Service Provider in connection 
+with the provision of a Service pursuant to this Agreement or (ii) created 
+by the Service Provider and in the Service Providers possession as a 
+function of and relating solely to the provision of Services pursuant to 
+this Agreement, such books, records and files shall either be returned to 
+the Service Recipient or destroyed by the Service Provider, with 
+certification of such destruction provided to the Service Recipient, other 
+than, in each case, such books, records and files electronically preserved 
+or recorded within any computerized data storage device or component 
+(including any hard-drive or database) pursuant to automatic or routine 
+backup procedures generally accessible only by legal, IT or compliance 
+personnel, which such books, records and files will not be used by the 
+Service Provider for any other purpose. The Service Recipient shall bear 
+the Service Providers reasonable, necessary and actual out-of-pocket costs 
+and expenses associated with the return or destruction of such books, 
+records or files. At its expense, the Service Provider may make one copy of 
+such books, records or files for its legal files.
+
+
+ARTICLE V
+
+Indemnification; Limitation of Liability
+
+SECTION 5.01. Indemnification. (a) Conduent in its capacity as a Service 
+Recipient and on behalf of each member of its Group in its capacity as a 
+Service Recipient, shall indemnify, defend and hold harmless Xerox and the 
+other Xerox Indemnitees from and against any and all Liabilities incurred 
+by such Xerox Indemnitee and arising out of, in connection with or by 
+reason of this Agreement or any Services provided by any member of the 
+Xerox Group hereunder, except to the extent such Liabilities arise out of a 
+Xerox Group members (i) breach of this Agreement, (ii) violation of Laws 
+in providing the Services, (iii) violation of third-party rights (including 
+such third-party rights embodied in patents, trademarks, copyrights and 
+trade secrets) in providing the Services or (iv) gross negligence or wilful 
+misconduct in providing the Services.
+ 
+12
+
+------------------------------------------------------------------------
+(b) Xerox in its capacity as a Service Recipient and on behalf of each 
+member of its Group in its capacity as a Service Recipient, shall 
+indemnify, defend and hold harmless Conduent and the other Conduent 
+Indemnitees from and against any and all Liabilities incurred by such 
+Conduent Indemnitee and arising out of, in connection with or by reason of 
+this Agreement or any Services provided by any member of the Conduent Group 
+hereunder, except to the extent such Liabilities arise out of a Conduent 
+Group members (i) breach of this Agreement, (ii) violation of Laws in 
+providing the Services, (iii) violation of third-party rights (including 
+such third-party rights embodied in patents, trademarks, copyrights and 
+trade secrets) in providing the Services or (iv) gross negligence or wilful 
+misconduct in providing the Services.
+
+SECTION 5.02. Limitation on Liability. (a) No Service Provider, in its 
+capacity as such, nor any member of its Group acting in the capacity of a 
+Service Provider, nor any Indemnitee thereof, shall be liable (whether such 
+liability is direct or indirect, in contract or tort or otherwise) to the 
+other Party (or any of such other Partys Indemnitees) for any Liabilities 
+arising out of, related to or in connection with the Services or this 
+Agreement, except to the extent that such Liabilities arise out of such 
+Service Providers (or a member of its Groups) (i) breach of this 
+Agreement, (ii) violation of Laws in providing the Services, (iii) 
+violation of third-party rights (including such third-party rights embodied 
+in patents, trademarks, copyrights and trade secrets) in providing the 
+Services or (iv) gross negligence or wilful misconduct in providing the 
+Services; provided that nothing in this Section 5.02(a) shall be deemed to 
+limit a Service Recipients rights under Section 5.02(d) regarding 
+Insurance Proceeds in respect of Third-Party Claims.
+
+(b) IN NO EVENT SHALL ANY SERVICE PROVIDER, IN ITS CAPACITY AS SUCH, NOR 
+ANY MEMBER OF ITS GROUP ACTING IN THE CAPACITY OF A SERVICE PROVIDER, NOR 
+ANY INDEMNITEE THEREOF, BE LIABLE, WHETHER IN CONTRACT, IN TORT (INCLUDING 
+NEGLIGENCE AND STRICT LIABILITY) OR OTHERWISE TO THE SERVICE RECIPIENT (OR 
+ANY OF ITS INDEMNITEES) FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR 
+PUNITIVE DAMAGES (INCLUDING LOSS OF PROFITS) AS A RESULT OF ANY BREACH, 
+PERFORMANCE OR NON-PERFORMANCE BY SUCH SERVICE PROVIDER UNDER THIS 
+AGREEMENT, EXCEPT AS MAY BE PAYABLE TO A CLAIMANT IN A THIRD-PARTY CLAIM.
+
+(c) EACH GROUPS TOTAL LIABILITY, IN ITS CAPACITY AS A SERVICE PROVIDER, TO 
+THE OTHER GROUP ARISING OUT OF, RELATED TO OR IN CONNECTION WITH THE 
+SERVICES OR THIS AGREEMENT FOR ANY CLAIM SHALL NOT EXCEED IN THE AGGREGATE 
+AN AMOUNT EQUAL TO THE TOTAL AMOUNT PAID TO IT FOR SERVICES UNDER THIS 
+AGREEMENT; PROVIDED, HOWEVER, THAT, NOTWITHSTANDING THE FOREGOING, IN THE 
+CASE OF ANY LIABILITY TO THE OTHER PARTY ARISING OUT OF A THIRD-PARTY 
+CLAIM, EACH GROUPS TOTAL LIABILITY IN ITS CAPACITY AS A
+ 
+13
+
+------------------------------------------------------------------------
+SERVICE PROVIDER TO THE OTHER GROUP SHALL BE INCREASED BY AN AMOUNT EQUAL 
+TO THE AMOUNT, IF ANY, OF ANY INSURANCE PROCEEDS THAT ARE ACTUALLY RECEIVED 
+BY SUCH SERVICE PROVIDER IN ACCORDANCE WITH SECTION 5.02(d).
+
+(d) If a Service Provider, in its capacity as such, or any member of its 
+Group acting in the capacity of a Service Provider, or any Indemnitee 
+thereof, shall be liable to the other Party for any Liability arising out 
+of a Third-Party Claim, such Service Provider, at the request of the 
+Indemnitee, shall use commercially reasonable efforts to pursue and recover 
+any available Insurance Proceeds under applicable insurance policies. 
+Promptly upon the actual receipt of any such Insurance Proceeds, such 
+Service Provider shall pay such Insurance Proceeds to the applicable 
+Indemnitee to the extent of the Liability arising out of the applicable 
+Third-Party Claim. The Indemnitee shall, upon the request of such Service 
+Provider and to the extent permitted under such Service Providers 
+applicable insurance policies, promptly pay directly to such Service 
+Provider or to such Service Providers insurer any reasonable costs or 
+expenses incurred in the collection of such Indemnitees portion of such 
+Insurance Proceeds (including such Indemnitees portion of applicable 
+retentions or deductibles); provided, however, that in no event shall an 
+Indemnitees portion of such collection costs and expenses, applicable 
+retentions and deductibles exceed the amount of Insurance Proceeds actually 
+received by such Indemnitee.
+
+(e) The provisions of this Article V shall survive indefinitely, 
+notwithstanding any termination of all or any portion of this Agreement.
+
+
+ARTICLE VI
+
+Other Covenants
+
+SECTION 6.01. Attorney-in-Fact. On a case-by-case basis, the Service 
+Recipient shall execute documents necessary to appoint the Service Provider 
+as its attorney-in-fact for the sole purpose of executing any and all 
+documents and instruments reasonably required to be executed in connection 
+with the performance by the Service Provider of any Service under this 
+Agreement.
+
+
+ARTICLE VII
+
+Miscellaneous
+
+SECTION 7.01. Title to Data. Each of Conduent and Xerox acknowledges that 
+it will acquire no right, title or interest (including any license rights 
+or rights of use) in any firmware or software, or the licenses therefor 
+that are owned by the other Party or its Affiliates, Subsidiaries or 
+divisions, by reason of the provision of the Services hereunder, except as 
+expressly provided in Section 2.01(i) and Section 4.04.
+
+SECTION 7.02. Force Majeure. In case performance of any terms or provisions 
+hereof shall be delayed or prevented, in whole or in part, because of or 
+related
+ 
+14
+
+------------------------------------------------------------------------
+to compliance with any Law or requirement of any national securities 
+exchange, or because of riot, war, public disturbance, strike, labor 
+dispute, fire, explosion, storm, flood, act of God or act of terrorism that 
+is not within the control of the Party, Service Provider or Service 
+Recipient whose performance is interfered with (each, a Performing Party
+) and which by the exercise of reasonable diligence such Performing Party 
+is unable to prevent, or for any other reason which is not within the 
+control of such Performing Party whose performance is interfered with and 
+which by the exercise of reasonable diligence such Performing Party is 
+unable to prevent (each, a Force Majeure Event), then upon prompt written 
+notice stating the date and extent of such interference and the cause 
+thereof by the Performing Party to the other Party, Service Recipient or 
+Service Provider (each, an Affected Party), as applicable, the Performing 
+Party shall be excused from its obligations hereunder during the period 
+such Force Majeure Event or its effects continue, and no liability shall 
+attach against either the Performing Party or the Affected Party on account 
+thereof; provided, however, that the Performing Party promptly resumes the 
+required performance upon the cessation of the Force Majeure Event or its 
+effects. No Performing Party shall be excused from performance if such 
+Performing Party fails to use commercially reasonable efforts to remedy the 
+situation and remove the cause and effects of the Force Majeure Event.
+
+SECTION 7.03. Separation Agreement. The Parties agree that, in the event of 
+a conflict between the terms of this Agreement and the Separation Agreement 
+with respect to the subject matter hereof, the terms of this Agreement 
+shall govern.
+
+SECTION 7.04. Relationship of Parties. Nothing in this Agreement shall be 
+deemed or construed by the Parties or any third party as creating a 
+relationship of principal and agent, partnership or joint venture between 
+the Parties, between Service Providers and Service Recipients or with any 
+individual providing Services, it being understood and agreed that no 
+provision contained herein, and no act of any Party or members of their 
+respective Groups, shall be deemed to create any relationship between the 
+Parties or members of their respective Groups other than the relationship 
+set forth herein. Each Party and each Service Provider shall act under this 
+Agreement solely as an independent contractor and not as an agent or 
+employee of any other Party or any of such Partys Affiliates.
+
+SECTION 7.05. Confidentiality. Each Party hereby acknowledges that 
+confidential Information of such Party or members of its Group may be 
+exposed to employees and agents of the other Party or its Group as a result 
+of the activities contemplated by this Agreement. Each Party agrees, on 
+behalf of itself and its Affiliates, that such Partys obligation (and the 
+obligation of members of its Group) to use and keep confidential such 
+Information of the other Party or its Group shall be governed by Sections 
+7.01(c) and 7.09 of the Separation Agreement.
+
+SECTION 7.06. Counterparts; Entire Agreement. (a) This Agreement may be 
+executed in one or more counterparts, all of which counterparts shall be 
+considered one and the same agreement, and shall become effective when one 
+or more counterparts have been signed by each Party and delivered to the 
+other Party. This Agreement may be executed by facsimile or PDF signature 
+and scanned and exchanged by electronic mail, and such facsimile or PDF 
+signature or scanned and exchanged copies shall constitute an original for 
+all purposes.
+ 
+15
+
+------------------------------------------------------------------------
+(b) This Agreement, the Separation Agreement, the other Ancillary 
+Agreements and the Exhibits and Schedules hereto and thereto contain the 
+entire agreement between the Parties with respect to the subject matter 
+hereof and supersede all previous agreements, negotiations, discussions, 
+writings, understandings, commitments and conversations with respect to 
+such subject matter, and there are no agreements or understandings between 
+the Parties with respect to the subject matter hereof other than those set 
+forth or referred to herein or therein.
+
+SECTION 7.07. Governing Law; Jurisdiction. This Agreement shall be governed 
+by, and construed in accordance with, the Laws of the State of New York, 
+regardless of the Laws that might otherwise govern under applicable 
+principles of conflicts of Laws thereof. Each Party irrevocably consents to 
+the exclusive jurisdiction, forum and venue of the Commercial Division of 
+the Supreme Court of the State of New York, New York County and the United 
+States District Court for the Southern District of New York over any and 
+all claims, disputes, controversies or disagreements between the Parties or 
+any of their respective Subsidiaries, Affiliates, successors and assigns 
+under or related to this Agreement or any document executed pursuant to 
+this Agreement or any of the transactions contemplated hereby or thereby.
+
+SECTION 7.08. Assignability. Neither this Agreement nor any of the rights, 
+interests or obligations under this Agreement shall be assigned, in whole 
+or in part, by operation of Law or otherwise by either Party without the 
+prior written consent of the other Party. Any purported assignment without 
+such consent shall be void. Subject to the preceding sentences, this 
+Agreement will be binding upon, inure to the benefit of, and be enforceable 
+by, the Parties and their respective successors and assigns. 
+Notwithstanding the foregoing, either Party may assign this Agreement 
+without consent in connection with (a) a merger transaction in which such 
+Party is not the surviving entity and the surviving entity acquires or 
+assumes all or substantially all of such Partys assets or (b) the sale of 
+all or substantially all of such Partys assets; provided, however, that 
+the assignee expressly assumes in writing all of the obligations of the 
+assigning Party under this Agreement, and the assigning Party provides 
+written notice and evidence of such assignment and assumption to the 
+non-assigning Party. Nothing in this Section 7.08 shall affect or impair a 
+Service Providers ability to delegate any or all of its obligations under 
+this Agreement to one or more Affiliates or Sub-Contractors pursuant to 
+Section 2.01(e).
+
+SECTION 7.09. Third-Party Beneficiaries. Except for the indemnification 
+rights under this Agreement of any Xerox Indemnitee or Conduent Indemnitee 
+in their respective capacities as such, (a) the provisions of this 
+Agreement are solely for the benefit of the Parties hereto and are not 
+intended to confer upon any Person except the Parties hereto any rights or 
+remedies hereunder and (b) there are no third-party beneficiaries of this 
+Agreement and this Agreement shall not provide any third person with any 
+remedy, claim, liability, reimbursement, cause of action or other right in 
+excess of those existing without reference to this Agreement.
+ 
+16
+
+------------------------------------------------------------------------
+SECTION 7.10. Notices. All notices or other communications under this 
+Agreement shall be in writing and shall be provided in the manner set forth 
+in the Separation Agreement.
+
+SECTION 7.11. Severability. If any provision of this Agreement or the 
+application thereof to any Person or circumstance is determined by a court 
+of competent jurisdiction to be invalid, void or unenforceable, the 
+remaining provisions hereof, or the application of such provision to 
+Persons or circumstances or in jurisdictions other than those as to which 
+it has been held invalid or unenforceable, shall remain in full force and 
+effect and shall in no way be affected, impaired or invalidated thereby, so 
+long as the economic or legal substance of the transactions contemplated 
+hereby is not affected in any manner materially adverse to either Party. 
+Upon any such determination, any such provision, to the extent determined 
+to be invalid, void or unenforceable, shall be deemed replaced by a 
+provision that such court determines is valid and enforceable and that 
+comes closest to expressing the intention of the invalid, void or 
+unenforceable provision.
+
+SECTION 7.12. Headings. The article, section and paragraph headings 
+contained in this Agreement are for reference purposes only and shall not 
+affect in any way the meaning or interpretation of this Agreement.
+
+SECTION 7.13. Waivers of Default. No failure or delay of any Party (or the 
+applicable member of its Group) in exercising any right or remedy under 
+this Agreement shall operate as a waiver thereof, nor shall any single or 
+partial exercise of any such right or power, or any abandonment or 
+discontinuance of steps to enforce such right or power, or any course of 
+conduct, preclude any other or further exercise thereof or the exercise of 
+any other right or power. Waiver by any Party of any default by the other 
+Party of any provision of this Agreement shall not be deemed a waiver by 
+the waiving Party of any subsequent or other default.
+
+SECTION 7.14. Amendments. No provisions of this Agreement shall be deemed 
+waived, amended, supplemented or modified by any Party, unless such waiver, 
+amendment, supplement or modification is in writing and signed by the 
+authorized representative of each Party.
+
+SECTION 7.15. Interpretation. The rules of interpretation set forth in 
+Section 11.14 of the Separation Agreement are incorporated by reference 
+into this Agreement, mutatis mutandis.
+ 
+17
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date 
+first written above.
+ 
+XEROX CORPORATION
+By: 	  	/s/  Leslie F. Varon
+  	Name:   Leslie F. Varon
+  	Title:     Chief Financial Officer
+CONDUENT INCORPORATED
+By: 	  	/s/  Brian Webb-Walsh
+  	Name:   Brian Webb-Walsh
+  	Title:     Chief Financial Officer
