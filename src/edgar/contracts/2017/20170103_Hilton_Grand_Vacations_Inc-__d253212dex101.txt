@@ -1,0 +1,3190 @@
+ EX-10.1 5 d253212dex101.htm EX-10.1
+Exhibit 10.1
+
+EMPLOYEE MATTERS AGREEMENT
+
+by and among
+
+HILTON WORLDWIDE HOLDINGS INC.,
+
+PARK HOTELS & RESORTS INC.,
+
+HILTON GRAND VACATIONS INC., and
+
+HILTON DOMESTIC OPERATING COMPANY INC.
+
+Dated as of                         , 2016
+
+------------------------------------------------------------------------
+Table of Contents
+ 
+  	   	  	   	Page 	 
+ 1.
+   	
+ DEFINITIONS
+   	  	2 	  
+ 2.
+   	
+ EMPLOYEES
+   	  	4 	  
+ 3.
+   	
+ BENEFIT PROGRAM PARTICIPATION
+   	  	6 	  
+ 4.
+   	
+ DEFINED BENEFIT PENSION PLANS
+   	  	7 	  
+ 5.
+   	
+ DEFINED CONTRIBUTION PENSION PLANS
+   	  	10 	  
+ 6.
+   	
+ NON-QUALIFIED RETIREMENT/DEFERRED COMPENSATION PLANS
+   	  	14 	  
+ 7.
+   	
+ EMPLOYEE HEALTH AND WELFARE BENEFIT PLANS
+   	  	16 	  
+ 8.
+   	
+ SEVERANCE PLANS
+   	  	22 	  
+ 9.
+   	
+ PAID TIME OFF
+   	  	23 	  
+ 10.
+   	
+ PERQUISITES
+   	  	24 	  
+ 11.
+   	
+ CASH BONUS PLANS
+   	  	25 	  
+ 12.
+   	
+ EQUITY-BASED AWARDS
+   	  	26 	  
+ 13.
+   	
+ COLLECTIVE BARGAINING AGREEMENTS
+   	  	28 	  
+ 14.
+   	
+ TRANSITION SERVICES
+   	  	29 	  
+ 15.
+   	
+ ACCESS TO INFORMATION AND DATA EXCHANGE
+   	  	29 	  
+ 16.
+   	
+ NOTICES; COOPERATION
+   	  	31 	  
+ 17.
+   	
+ FURTHER ASSURANCES
+   	  	31 	  
+ 18.
+   	
+ INDEMNIFICATION
+   	  	31 	  
+ 19.
+   	
+ DISPUTE RESOLUTION
+   	  	33 	  
+ 20.
+   	
+ PAYROLL REPORTING AND TAX WITHHOLDING
+   	  	33 	  
+ 21.
+   	
+ MISCELLANEOUS
+   	  	34 	  
+ 
+i
+
+------------------------------------------------------------------------
+This EMPLOYEE MATTERS AGREEMENT (this Agreement), dated as of             
+            , 2016, is by and among Hilton Worldwide Holdings Inc., a 
+Delaware corporation (HLT), Park Hotels & Resorts Inc., a Delaware 
+corporation (PK), Hilton Grand Vacations Inc., a Delaware corporation (
+HGV) and, solely for purposes of Section 18, Hilton Domestic Operating 
+Company Inc., a Delaware corporation and subsidiary of HLT (OpCo). Each 
+of HLT, PK, HGV and, solely for purposes of Section 18, OpCo, is sometimes 
+referred to herein as a Party and collectively, as the Parties. 
+Capitalized terms used and not defined herein shall have the meaning set 
+forth in the Distribution Agreement (as defined below) or in Section 1 
+below.
+
+WHEREAS, HLT, acting through its direct and indirect Subsidiaries, 
+currently conducts a number of businesses, including (i) the HLT Retained 
+Business, (ii) the Ownership Business and (iii) the Timeshare Business;
+
+WHEREAS, the Board of Directors of HLT (the Board) has determined that it 
+is appropriate, desirable and in the best interests of HLT and its 
+stockholders to separate HLT into three separate, publicly traded 
+companies, one for each of (i) the HLT Retained Business, which shall be 
+owned and conducted, directly or indirectly, by HLT, (ii) the Ownership 
+Business, which shall be owned and conducted, directly or indirectly, by PK 
+(which shall elect to be a REIT), and (iii) the Timeshare Business, which 
+shall be owned and conducted, directly or indirectly, by HGV;
+
+WHEREAS, in order to effect such separation, the Board has determined that 
+it is appropriate, desirable and in the best interests of HLT and its 
+stockholders (i) to enter into a series of transactions after giving effect 
+to which (A) HLT and/or one or more of its Subsidiaries shall, 
+collectively, own all of the HLT Retained Assets and Assume all of the HLT 
+Retained Liabilities, (B) PK and/or one or more of its Subsidiaries shall, 
+collectively, own all of the Ownership Assets and Assume all of the 
+Ownership Liabilities, and (C) HGV and/or one or more of its Subsidiaries 
+shall, collectively, own all of the Timeshare Assets and Assume all of the 
+Timeshare Liabilities (such transactions as described in Annex I to the 
+Distribution Agreement and, as they may be amended or modified from time to 
+time, collectively, the Plan of Reorganization) and (ii) for HLT to 
+distribute to the holders of its common stock, par value $0.01 per share (
+HLT Common Stock), on a pro rata basis (in each case without consideration 
+being paid by such stockholders), (A) all of the outstanding shares of 
+common stock, par value $0.01 per share, of PK (the PK Common Stock) and 
+(B) all of the outstanding shares of common stock, par value $0.01 per 
+share, of HGV (the HGV Common Stock);
+
+WHEREAS, each of the Parties has executed the distribution agreement, dated 
+as of the date hereof (as it may be amended or modified from time to time, 
+the Distribution Agreement) to effectuate such Plan of Reorganization; 
+and
+
+WHEREAS, each of the Parties has determined that it is necessary and 
+desirable to allocate and assign responsibility for certain employee, 
+compensation and benefits-related Assets and Liabilities in respect of the 
+activities of the business of such entities on the Distribution Date.
+
+------------------------------------------------------------------------
+NOW, THEREFORE, in consideration of the mutual promises and covenants 
+contained herein, the Parties agree as follows:
+
+1. DEFINITIONS. As used in this Agreement, the following terms shall have 
+the following meanings:
+
+(a) Cut-Off Date shall mean the day immediately preceding the 
+Distribution Date.
+
+(b) Employee shall mean, with respect to any entity, an individual who is 
+considered, according to the payroll and other records of such entity, to 
+be employed by such entity and, for the avoidance of doubt, shall not 
+include a leased employee (as defined in Section 414(n) of the Code), an 
+independent contractor, or other individual performing services with 
+respect to any entity who is not on the payroll of such entity.
+
+(c) ERISA shall mean the Employee Retirement Income Security Act of 1974, 
+as amended. Reference to a specific provision of ERISA also includes any 
+proposed, temporary or final regulation or other published IRS guidance in 
+force under that provision.
+
+(d) Former Employees shall mean, collectively, any Former HGV Employees, 
+any Former Hilton Employees and any Former PK Employees.
+
+(e) Former HGV Employee shall mean each Employee of Hilton who provided 
+services primarily related to the Timeshare Business and whose employment 
+terminated for any reason prior to the Distribution Date.
+
+(f) Former Hilton Employee shall mean each Employee of Hilton who 
+provided services primarily related to the HLT Retained Business whose 
+employment terminated for any reason prior to the Distribution Date.
+
+(g) Former PK Employee shall mean each Employee of Hilton who provided 
+services primarily related to the Ownership Business and whose employment 
+terminated for any reason prior to the Distribution Date.
+
+(h) HGV Board shall mean the board of directors of HGV.
+
+(i) HGV Plan shall mean each Plan sponsored or maintained by any member 
+of the HGV Group immediately on and after the Plan Effective Time.
+
+(j) HGV Compensation Committee shall mean the compensation committee of 
+the HGV Board.
+
+(k) Hilton shall mean HLT or one of its Subsidiaries immediately prior to 
+the Plan Effective Time.
+
+(l) Hilton Controlled Group shall mean, as of any date of determination 
+prior to the Distribution Date, any trade or business (whether or not 
+incorporated) which is considered a member of a controlled group of 
+organizations within the meaning of Section 414(b), (c), (m), or (o) of the 
+Code that includes HLT or is considered a single employer under common 
+control with HLT under Section 4001(b)(1) of ERISA.
+ 
+2
+
+------------------------------------------------------------------------
+(m) Hilton Plan shall mean each Plan sponsored or maintained by HLT or 
+one of its Subsidiaries immediately prior to the Plan Effective Time.
+
+(n) HLT Compensation Committee shall mean the compensation committee of 
+the Board.
+
+(o) HLT Plan shall mean each Plan sponsored or maintained by any member 
+of the HLT Group immediately on and after the Plan Effective Time.
+
+(p) Liabilities shall have the same meaning as ascribed to such term in 
+the Distribution Agreement, provided, however that for purposes of this 
+Agreement, Taxes shall be treated as Liabilities.
+
+(q) PK Board shall mean the board of directors of PK.
+
+(r) PK Compensation Committee shall mean the compensation committee of 
+the PK Board.
+
+(s) PK Plan shall mean each Plan sponsored or maintained by any member of 
+the PK Group immediately on and after the Plan Effective Time.
+
+(t) Plan shall mean each plan, policy, program, practice, agreement, or 
+arrangement providing compensation or benefits for any group of Employees 
+or individual Employee, or the dependents or beneficiaries of any such 
+Employee(s), including without limitation, each employee benefit plan 
+(within the meaning of Section 3(3) of ERISA), whether formal or informal 
+or written or unwritten, and including, any means, whether or not legally 
+required, pursuant to which any benefit is provided by an employer to any 
+Employee or the beneficiaries of any such Employee. The term Plan as used 
+in this Agreement does not include any contract, agreement or understanding 
+relating to the settlement of actual or potential employment Action.
+
+(u) Plan Effective Time shall mean 12:01 a.m. on the Distribution Date.
+
+(v) Pre-Existing Hilton Employee shall mean each Employee employed by 
+Hilton prior to the Distribution Date (other than a Former Employee) 
+including each Employee who is absent from work with the HLT Group on the 
+Cut-Off Date by reason of layoff, leave of absence or disability.
+
+(w) Terminated Hilton DB Plans shall mean, collectively, the Terminated 
+Hilton UK DB Plans and the Terminated Hilton US DB Plans.
+
+(x) Terminated Hilton UK DB Plan shall mean each defined benefit pension 
+Plan which was sponsored or maintained by HLT or one of its Subsidiaries 
+prior to the Plan Effective Time and that was made available to certain 
+Pre-Existing Hilton Employees and Former Employees in the United Kingdom, 
+but which, as of the Plan Effective Time, is not a Hilton Plan due to such 
+Plans termination prior to such date.
+ 
+3
+
+------------------------------------------------------------------------
+(y) Terminated Hilton US DB Plan shall mean each tax-qualified defined 
+benefit pension Plan which was sponsored or maintained by HLT or one of its 
+Subsidiaries prior to the Plan Effective Time and that was made available 
+to certain Pre-Existing Hilton Employees and Former Employees in the United 
+States, but which, as of the Plan Effective Time, is not a Hilton Plan due 
+to such Plans termination prior to such date.
+
+(z) Terminated Japanese DB Plans shall mean each defined benefit pension 
+Plan which was sponsored or maintained by Vacations prior to the Plan 
+Effective Time and that was made available to certain HGV Employees and 
+Former HGV Employees in Japan, but which, as of the Plan Effective Time, is 
+not a Japanese DB Plan due to such Plans termination prior to such date.
+
+(aa) Vacations shall mean HGV or one of its Subsidiaries immediately 
+prior to the Plan Effective Time.
+
+2. EMPLOYEES. (a) Allocation of Employees. The Parties shall take all steps 
+necessary or appropriate so that all of the Employees of HLT and its 
+Subsidiaries as of the Cut-Off Date are allocated among the HLT Retained 
+Business, the Ownership Business and the Timeshare Business as of the 
+Distribution Date in accordance with the principles set forth in this 
+Section 2(a). In making such allocation of Employees of HLT and its 
+Subsidiaries pursuant to Section 2(a)(i) and (ii), the Parties shall share 
+such information regarding the allocation of Employees as is reasonably 
+requested. An Employee, other than a PK Employee (as defined below) or an 
+HGV Employee (as defined below), who is (1) allocated to the HLT Retained 
+Business and (2) employed by a member of the HLT Group as of the 
+Distribution Date is a HLT Employee. An Employee who is (1) allocated to 
+the Ownership Business and (2) employed by a member of the PK Group as of 
+the Distribution Date is a PK Employee. An Employee who is (1) allocated 
+to the Timeshare Business and (2) employed by a member of the HGV Group as 
+of the Distribution Date is an HGV Employee. All Employees of HLT and its 
+Subsidiaries as of the Cut-Off Date shall be allocated as an HLT Employee, 
+a PK Employee or an HGV Employee on the Distribution Date. Except as 
+otherwise expressly provided for herein or in the Distribution Agreement, a 
+member of the HLT Group shall be liable for all Liabilities involving HLT 
+Employees and Former Hilton Employees, a member of the PK Group shall be 
+liable for all Liabilities involving PK Employees and Former PK Employees 
+and a member of the HGV Group shall be liable for all Liabilities involving 
+HGV Employees and Former HGV Employees. Notwithstanding anything in Section 
+2(a) to the contrary, if the Parties determine after the Distribution Date 
+that an Employee was incorrectly allocated to the Ownership Business, the 
+Timeshare Business or the HLT Retained Business (or was incorrectly 
+employed by a member of the PK Group, the HGV Group or the HLT Group as of 
+the Distribution Date), the Parties shall correct such matter as 
+appropriate and such correction shall be effective as of the Distribution 
+Date.
+
+(i) In making the allocation provided for in this Section 2(a), and subject 
+to clause (ii) below, the Parties shall allocate each Employee whose 
+employment duties prior to the Distribution Date relate exclusively to the 
+Ownership Business to a member of the PK Group and the Timeshare Business 
+to a member of the HGV Group. The Parties shall allocate all other 
+Employees in a mutually agreeable manner that, to the extent possible, 
+takes into account the Employees expertise, experience and existing 
+positions and duties and does not
+ 
+4
+
+------------------------------------------------------------------------
+unreasonably disrupt the HLT Retained Business, the Ownership Business or 
+the Timeshare Business and maximizes the ability of each of the HLT 
+Retained Business, the Ownership Business and the Timeshare Business to 
+manage and operate their respective businesses on and after the 
+Distribution Date, taking into account the respective needs of such 
+businesses as established by past practice, to the extent applicable.
+
+(ii) The Parties each agree that, between the date hereof and the 
+Distribution Date, Employees shall not be transferred among the HLT 
+Retained Business, the Ownership Business and the Timeshare Business except 
+(A) as necessary to effectuate the second sentence of clause (i) of this 
+Section 2(a), (B) in the ordinary course of business, consistent with past 
+practice, or (C) in accordance with the procedures described in the next 
+sentence. The Parties agree that, between the date hereof and the 
+Distribution Date, the senior human resources executives of each Party 
+shall consult with one another in connection with the transfer of any 
+Employee whose duties relate primarily to the HLT Retained Business, the 
+Ownership Business or the Timeshare Business, as the case may be, and whose 
+supervisor objects to the transfer. Consent by the transferee Party to any 
+such transfer shall not be required.
+
+(b) Leaves of Absence. Employees who are on an approved leave of absence as 
+of the Distribution Date shall be treated as HLT Employees, PK Employees or 
+HGV Employees, as the case may be, notwithstanding such leave of absence 
+and each Party shall continue to apply the same leave of absence policy 
+applicable to such inactive Employees as of such date until such inactive 
+Employee returns to active employment with the HLT Group, the PK Group or 
+the HGV Group, as the case may be.
+
+(c) Subsequent Transfers of Employment. To the extent that the employment 
+of any individual transfers among the HLT Group, the PK Group and the HGV 
+Group following the Distribution Date but on or prior to December 31, 2017, 
+the Parties shall use their reasonable efforts to effect the provisions of 
+this Agreement with respect to the compensation and benefits of any such 
+individual on and after the date of such transfer, it being understood that 
+(i) it may not be possible to replicate the effect of such provisions under 
+such circumstances and (ii) none of the Parties shall be bound by the 
+provisions of this Section 2(c) to Assume any Liabilities or Transfer any 
+Assets. Notwithstanding the foregoing, for compensation subject to the 
+provisions of Section 409A of the Code, any such subsequent transfer, 
+regardless of whether prior to, on or after December 31, 2017, shall be a 
+separation from service from the applicable employer for purposes of such 
+compensation, and the consequences of such separation from service shall be 
+determined in accordance with the terms of the applicable Plan.
+
+(d) No Creation/Acceleration of Benefits. Except as otherwise expressly 
+provided for herein, no provision of, or event arising under, this 
+Agreement, the Distribution Agreement or any of the Ancillary Agreements 
+shall be construed to create any right, or accelerate entitlement, to any 
+compensation or benefit whatsoever on the part of any Pre-Existing Hilton 
+Employee, Former Employee or other future, present or former Employee of 
+any member of the HLT Group, the PK Group or the HGV Group.
+
+(e) At-Will Status. Nothing in this Agreement shall create any obligation 
+on the part of any member of the HLT Group, the PK Group or the HGV Group 
+to continue the employment of any Employee or permit the return from a 
+leave of absence of any Employee following the date of this Agreement or 
+the Distribution Date (except as required by applicable Law) or change the 
+employment status of any Employee from at-will, to the extent such 
+Employee was an at-will employee under applicable Law.
+ 
+5
+
+------------------------------------------------------------------------
+3. BENEFIT PROGRAM PARTICIPATION. (a) Except as otherwise expressly 
+provided for herein with respect to a particular Plan or otherwise provided 
+for under applicable Law, all Employees who will become PK Employees and 
+HGV Employees as of the Distribution Date shall cease active participation 
+in all Hilton Plans no later than 11:59 p.m. on the Cut-Off Date (or such 
+other time as may be required pursuant to applicable local Law).
+
+(b) Recognition of Prior Service; No Duplication of Benefits. Except as 
+otherwise expressly provided for under the terms of an HLT Plan, a PK Plan 
+or an HGV Plan, each of HLT, PK and HGV shall, or shall cause another 
+member or members of their respective Groups to, recognize each HLT 
+Employees, PK Employees and HGV Employees, as the case may be, service 
+with Hilton for purposes of determining such Employees eligibility, vested 
+status, benefit levels and benefit accruals under each applicable HLT Plan, 
+PK Plan and HGV Plan, as the case may be, and, in each case, to the extent 
+required under applicable local Law or, in the event there is no applicable 
+local Law, to the same extent such service would be credited under the 
+corresponding Hilton Plan, as applicable, or if none, as required by the 
+applicable Plan terms. Notwithstanding the foregoing, for purposes of any 
+Plans subject to any federal, state or local Laws of the United States, 
+hours of service performed outside of the United States are not required to 
+be credited for purposes of eligibility under any such HLT Plan, PK Plan or 
+HGV Plan that is a welfare plan (within the meaning of Section 3(1) of 
+ERISA), to the extent permitted by applicable Law. In addition, to the 
+extent it would result in a duplication of benefits or duplication of 
+service credit under one or more Plans sponsored or maintained by any 
+member of the HLT Group, the PK Group or the HGV Group, as applicable, 
+service credit shall not be awarded for purposes of retirement, severance, 
+paid time off or any other Plan sponsored or maintained by any member of 
+the HLT Group, the PK Group or the HGV Group, if the HLT Employee, PK 
+Employee or HGV Employee, as the case may be, is compensated or otherwise 
+eligible for a benefit, as applicable, on account of such service under a 
+Hilton Plan as in effect on the Cut-Off Date. Notwithstanding the foregoing 
+and for the avoidance of doubt, service credit shall be awarded for 
+purposes of eligibility for any HLT Plan that is subject to any federal, 
+state or local Laws of the United States (as adopted by any member of the 
+PK Group or the HGV Group through no later than December 31, 2017), even if 
+such award results in duplication of service credit.
+
+(c) Amendment and Termination. Nothing in this Agreement shall be construed 
+or interpreted to restrict the right or authority of any member of the HLT 
+Group, the PK Group or the HGV Group, as applicable, to amend or terminate 
+any HLT Plan, PK Plan or HGV Plan, or any Plan that is newly adopted or 
+implemented in accordance with the terms hereof after the Distribution 
+Date, as applicable, effective as of a date on and after the Distribution 
+Date, to the extent permitted by applicable Law.
+
+(d) Non-Termination of Employment. Any Pre-Existing Hilton Employee who, on 
+the Distribution Date, is employed by a member of the HLT Group, the PK 
+Group or the HGV Group shall not be deemed either to have terminated 
+employment, incurred a separation from service or severance from 
+employment, or to be in retirement status under any HLT Plan,
+ 
+6
+
+------------------------------------------------------------------------
+PK Plan or HGV Plan solely as a result of the Distribution or related 
+transactions except to the extent required by applicable Law or the 
+applicable Plan terms. Except to the extent required by applicable Law or 
+the applicable Plan terms, any Pre-Existing Hilton Employee who, on the 
+Distribution Date, is employed by a member of the HLT Group, the PK Group 
+or the HGV Group shall not, solely as a result of the Distribution or 
+related transactions, be eligible to receive payment of, or exercise any 
+portability rights in respect of, such Employees vested benefit or 
+retirement allowance under any HLT Plan, PK Plan or HGV Plan; provided that 
+each HLT Employee, PK Employee and HGV Employee shall receive credit for 
+their service with Hilton prior to the Distribution Date from a member of 
+the HLT Group, the PK Group or the HGV Group, as applicable, as provided 
+for in this Section 3.
+
+(e) No Change in Control. The Parties acknowledge and agree that neither 
+the consummation of the Distribution nor any transaction in connection with 
+the Distribution shall be deemed a change of control, a change in 
+control or term of similar import for purposes of any Hilton Plan, HLT 
+Plan, PK Plan or HGV Plan.
+
+(f) Fiduciary Matters. The Parties acknowledge that actions required to be 
+taken pursuant to this Agreement may be subject to fiduciary duties or 
+standards of conduct under ERISA or other applicable Law, and no Party 
+shall be deemed to be in violation of this Agreement if it fails to comply 
+with any provisions hereof based upon its good faith determination (as 
+supported by advice from counsel experienced in such matters) that to do so 
+would violate such a fiduciary duty or standard. Each Party shall be 
+responsible for taking such actions as are deemed necessary and appropriate 
+to comply with its own fiduciary responsibilities and shall fully release 
+the other Parties for any Liabilities caused by the failure to satisfy any 
+such responsibility.
+
+(g) Consent of Third Parties. If any provision of this Agreement is 
+dependent on the consent of any third party and such consent is withheld, 
+the Parties shall use commercially reasonable efforts to implement the 
+applicable provision of this Agreement to the full extent practicable. If 
+any provision of this Agreement cannot be implemented due to the failure of 
+such third party to consent, the Parties shall negotiate in good faith to 
+implement the provision in a mutually satisfactory manner.
+
+4. DEFINED BENEFIT PENSION PLANS. (a) US Tax-Qualified DB Plans. Effective 
+as of the Plan Effective Time, HLT shall, or shall cause another member or 
+members or members of the HLT Group to, Assume (i) each tax-qualified 
+defined benefit pension Plan sponsored or maintained by Hilton as of the 
+Cut-Off Date that is made available to certain Pre-Existing Hilton 
+Employees in the United States (or on temporary assignment outside the 
+United States, if applicable) as of the Cut-Off Date, including, without 
+limitation, the Plans listed on Schedule 4(a)(i) (such Plans, the US DB 
+Plans), (ii) all Liabilities associated with the US DB Plans related to 
+Former Employees, HLT Employees, PK Employees and HGV Employees while such 
+Employees were employed by a member of the Hilton Controlled Group, whether 
+incurred prior to, on or after the Plan Effective Time, (iii) all Assets 
+and Liabilities related to any Terminated Hilton US DB Plans, and (iv) all 
+Assets and accrued benefits associated with the US DB Plans related to 
+Former Employees, HLT Employees, PK Employees and HGV Employees while such 
+Employees were employed by a member of the Hilton Controlled Group, whether 
+accrued prior to, on or after the Plan Effective Time. On and after the 
+Plan Effective Time, no
+ 
+7
+
+------------------------------------------------------------------------
+member of the PK Group or the HGV Group shall have any Liabilities related 
+to any US DB Plans or any Terminated Hilton US DB Plans. For the avoidance 
+of doubt, no member of the HLT Group is Assuming any Assets or Liabilities 
+related to non-Hilton participating employers under the US DB Plans.
+
+(b) Non-US DB Plans.
+
+(i) HLT Group. Effective as of the Plan Effective Time, except as otherwise 
+expressly provided for herein, HLT shall, or shall cause another member or 
+members or members of the HLT Group to, Assume (w) each defined benefit 
+pension plan sponsored or maintained by Hilton as of the Cut-Off Date that 
+is made available to certain Pre-Existing Hilton Employees outside of the 
+United States as of the Cut-Off Date, including without limitation, the 
+Plans listed on Schedule 4(b)(i), and any legally enforceable agreements or 
+guarantees given by Hilton to support such plans (collectively, the 
+Non-US DB Plans), (x) all Liabilities associated with the Non-US DB Plans 
+related to HLT Employees and Former Hilton Employees, and, solely with 
+respect to the Hilton UK Pension Plan (the UK DB Plan), Liabilities 
+relating to benefits built up by any HLT Employees, Former Employees, PK 
+Employees, and HGV Employees, in each case, while employed by Hilton, 
+whether incurred prior to, on or after the Plan Effective Time, (y) all 
+Assets and Liabilities related to any Terminated Hilton UK DB Plans, and 
+(z) all Assets and accrued benefits associated with the Non-US DB Plans 
+related to HLT Employees and Former Hilton Employees and, solely with 
+respect to the UK DB Plans, Assets related to and accrued benefits built up 
+by any HLT Employees, Former Employees, PK Employees, and HGV Employees 
+while employed by Hilton, whether accrued prior to, on or after the Plan 
+Effective Time. On and after the Plan Effective Time, except as otherwise 
+expressly provided for herein, no member of the PK Group or the HGV Group 
+shall have any Liabilities related to HLT Employees or Former Employees 
+under the Non-US DB Plans, HLT Employees or Former Employees under any 
+Terminated Hilton UK DB Plan or, solely with respect to the UK DB Plan, HLT 
+Employees, Former Employees, PK Employees, or HGV Employees.
+
+(ii) PK Group.
+
+(A) Establishment of New Non-US DB Plans/Transfer of Assets and Liabilities
+. Effective as of the Plan Effective Time, PK shall, or shall cause another 
+member or members of the PK Group to, Assume (x) a portion of each Non-US 
+DB Plan that is made available as of the Cut-Off Date to certain 
+Pre-Existing Hilton Employees outside of the United States who become PK 
+Employees at PK properties based outside of the United States, including, 
+without limitation, the Plans listed on Schedule 4(b)(ii)(A), but excluding 
+the UK DB Plan (such Plans, the Non-US PK DB Plans), (y) all Liabilities 
+associated with the Non-US PK DB Plans related to PK Employees and Former 
+PK Employees, whether incurred prior to, on or after the Plan Effective 
+Time, and (z) all Assets and accrued benefits related to PK Employees and 
+Former PK Employees associated with the Non-US PK DB Plans, whether accrued 
+prior to, on or after the Plan Effective Time. On and after the Plan 
+Effective Time, no member of the HLT Group or the HGV Group shall have any 
+Liabilities related to the Non-US PK DB Plans.
+ 
+8
+
+------------------------------------------------------------------------
+(B) UK Life Assurance Plans. Effective as of the Plan Effective Time, PK 
+shall, or shall cause another member or members of the PK Group to (x) 
+establish, adopt and implement a new life assurance Plan to provide life 
+assurance benefits to PK Employees employed in the United Kingdom on 
+substantially similar terms, in all material respects, to the terms on 
+which the PK Employees employed in the United Kingdom were provided with 
+life assurance benefits as of the Cut-Off Date, and, if any member of the 
+PK Group provides life assurance benefits to any new Employees employed by 
+a member of the PK Group in the United Kingdom after the Distribution Date, 
+it shall be through the same Plan and on the same terms as for PK 
+Employees, and (y) Assume all Liabilities associated with such Plan related 
+to PK Employees (and any new Employees employed by any member of the PK 
+Group after the Distribution Date who are provided with life assurance 
+benefits).
+
+(C) UK DB Plan Mitigation Arrangements. As a result of ceasing to 
+participate in the UK DB Plan, following the Distribution Date, PK shall, 
+or shall cause another member or members of the PK Group to pay, on a 
+monthly basis, in arrears, to or in respect of each PK Employee who was an 
+Active Deferred Member (as defined in the UK DB Plan) participating in the 
+UK DB Plan immediately before the Distribution Date, in respect of each 
+calendar month in which such PK Employee is employed by a member of the PK 
+Group, either (x) a contribution to the defined contribution pension scheme 
+that such PK Employee is a member of and provided under Section 
+5(b)(ii)(A), based on a fixed percentage (the Mitigation Percentage) of 
+such PK Employees basic salary as communicated to such PK Employee before 
+the Distribution Date, or (y) a cash salary supplement in an amount equal 
+to the product of (I) the Mitigation Percentage and (II) such PK Employees 
+basic salary. These payments shall be paid on such terms, including as to 
+duration, as are communicated to such PK Employees before the Distribution 
+Date, and subject to any ability of PK or any other member or members of 
+the PK Group to change the affected PK Employees contractual terms where 
+permitted by applicable Law following the Distribution Date. These payments 
+are to be provided as mitigation to such PK Employee for the loss of the 
+salary linkage feature provided under the UK DB Plan prior to the 
+Distribution Date.
+
+(iii) HGV Group.
+
+(A) Establishment of New Non-US DB Plans/Transfer of Assets and Liabilities
+. Effective as of the Plan Effective Time, HGV shall, or shall cause 
+another member or members of the HGV Group to, Assume (x) each defined 
+benefit pension plan sponsored or maintained by Vacations as of the Cut-Off 
+Date that is made available as of the Cut-Off Date to certain Pre-Existing 
+Hilton Employees in Japan who become HGV Employees at HGV properties based 
+in Japan (such Plans, the Japanese DB Plans), all Liabilities associated 
+with the Japanese DB Plans related to HGV Employees and Former HGV 
+Employees, whether incurred prior to, on or after the Plan Effective Time, 
+and all Assets and accrued benefits associated with the Japanese DB Plans 
+related to HGV Employees and Former HGV Employees, whether incurred prior 
+to, on or after the Plan Effective Time, and (y) (I) a portion of each 
+other Non-US DB Plan that is made available as of the Cut-Off Date to 
+certain Pre-Existing Hilton Employees outside of the United States who 
+become HGV Employees based outside the United States, including, without 
+limitation, the Plans listed on Schedule 4(b)(iii)(A), but excluding the UK 
+DB Plan (such Plans, the Non-US HGV DB Plans), (II) all Liabilities 
+associated with the Non-US HGV DB Plans related to HGV Employees and Former 
+HGV Employees, whether incurred prior to, on or after the Plan Effective 
+Time, and (III) all Assets and accrued benefits related to HGV Employees 
+and Former HGV Employees associated with the Non-US HGV DB Plans, whether 
+accrued prior to, on or after the Plan Effective Time. On and after the 
+Plan Effective Time, no member of the HLT Group or the PK Group shall have 
+any Liabilities related to the Japanese DB Plans and the Non-US HGV DB 
+Plans.
+ 
+9
+
+------------------------------------------------------------------------
+(B) UK Life Assurance Plans. Effective as of the Plan Effective Time, HGV 
+shall, or shall cause another member or members of the HGV Group to (x) 
+establish, adopt and implement a new life assurance Plan to provide life 
+assurance benefits to HGV Employees employed in the United Kingdom on 
+substantially similar terms, in all material respects, to the terms on 
+which the HGV Employees employed in the United Kingdom were provided with 
+life assurance benefits as of the Cut-Off Date, and, if any member of the 
+HGV Group provides life assurance benefits to any new Employees employed by 
+a member of the HGV Group in the United Kingdom after the Distribution 
+Date, it shall be through the same Plan and on the same terms as for HGV 
+Employees, and (y) Assume all Liabilities associated with such Plan related 
+to HGV Employees (and any new Employees employed by any member of the HGV 
+Group after the Distribution Date who are provided with life assurance 
+benefits).
+
+(C) UK DB Plan Mitigation Arrangements. As a result of ceasing to 
+participate in the UK DB Plan, following the Distribution Date, HGV shall, 
+or shall cause another member or members of the HGV Group to continue to 
+pay, on a monthly basis, in arrears, to or in respect of each HGV Employee 
+who was an Active Deferred Member participating in the UK DB Plan 
+immediately before the Distribution Date, in respect of each calendar month 
+in which such HGV Employee is employed by a member of the HGV Group, either 
+(x) a contribution to the defined contribution pension scheme that such HGV 
+Employee is a member of and provided under Section 5(b)(ii)(A), based on 
+the Mitigation Percentage of such HGV Employees basic salary as 
+communicated to such HGV Employee before the Distribution Date, or (y) a 
+cash salary supplement in an amount equal to the product of (I) the 
+Mitigation Percentage and (II) such HGV Employees basic salary. These 
+payments shall be paid on such terms, including as to duration, as are 
+communicated to such HGV Employees before the Distribution Date, and 
+subject to any ability of HGV or any other member or members of the HGV 
+Group to change the affected HGV Employees contractual terms where 
+permitted by applicable Law following the Distribution Date. These payments 
+are to be provided as mitigation to such HGV Employee for the loss of the 
+salary linkage feature provided under the UK DB Plan prior to the 
+Distribution Date.
+
+5. DEFINED CONTRIBUTION PENSION PLANS. (a) US Tax-Qualified DC Plans.
+
+(i) General. Effective as of the Plan Effective Time, except as otherwise 
+expressly provided for herein or in the Transition Services Agreement, HLT 
+shall, or shall cause another member or members of the HLT Group to, Assume 
+(x) each tax-qualified defined contribution pension plan sponsored or 
+maintained by Hilton as of the Cut-Off Date that is made available to 
+certain Pre-Existing Hilton Employees in the United States (or on temporary 
+assignment outside the United States, if applicable) as of the Cut-Off 
+Date, including, without limitation, the Plans listed on Schedule 5(a)(i) 
+(such Plans, the US DC Plans), (y) all Liabilities associated with the US 
+DC Plans related to Former Employees, HLT Employees, PK Employees and HGV 
+Employees while such Employees were employed by a member of the Hilton 
+Controlled Group, whether incurred prior to, on or after the Plan Effective 
+Time, and (z) all Assets and accrued benefits associated with the US DC 
+Plans related to Former Employees, HLT
+ 
+10
+
+------------------------------------------------------------------------
+Employees, PK Employees and HGV Employees while such Employees were 
+employed by a member of the Hilton Controlled Group, whether accrued prior 
+to, on or after the Plan Effective Time. On and after the Plan Effective 
+Time, except as otherwise expressly provided for herein or in the 
+Transition Services Agreement, no member of the PK Group or the HGV Group 
+shall have any Liabilities related to HLT Employees or Former Employees 
+under the US DC Plans. For the avoidance of doubt, no member of the HLT 
+Group is Assuming any Assets or Liabilities related to non-Hilton 
+participating employers under the US DC Plans.
+
+(ii) Continued Participation in HW 401(k) Plan. Prior to the Plan Effective 
+Time, each of (x) the Subsidiaries of HLT and (y) PK, HGV and their 
+respective Subsidiaries with Employees who participate in the Hilton 
+Worldwide 401(k) Plan as of the Cut-Off Date (the HW 401(k) Plan) shall 
+have adopted the HW 401(k) Plan each as a participating employer. Effective 
+as of the Plan Effective Time, each of the applicable members of the PK 
+Group and the HGV Group shall remain as participating employers in the HW 
+401(k) Plan until no later than December 31, 2017 and, in connection 
+therewith, each of the HLT Group, the PK Group and the HGV Group shall (x) 
+pay their proportional share of the administrative and contribution costs 
+associated with the HW 401(k) Plan during such period and (y) Assume all 
+Liabilities associated with the HW 401(k) Plan related to HLT Employees, 
+Former HLT Employees, PK Employees, Former PK Employees, HGV Employees and 
+Former HGV Employees (and any new Employees employed by any member of the 
+HLT Group, the PK Group or the HGV Group, as applicable, after the 
+Distribution Date), respectively.
+
+(iii) Establishment of New US Tax-Qualified DC Plans/Transfer of Assets and 
+Liabilities. Effective no later than January 1, 2018, each of PK and HGV 
+shall, or shall cause another member or members of the PK Group and the HGV 
+Group, as applicable, to establish, adopt and administer one or more new 
+defined contribution pension plans that are intended to meet the 
+requirements of Sections 401(a) and 401(k) of the Code and a related trust 
+that is intended to meet the requirements of Section 501(a) of the Code for 
+the benefit of eligible PK Employees and HGV Employees, as applicable, in 
+the United States (or on temporary assignment outside of the United States, 
+if applicable) (and any new Employees employed by any member of the PK 
+Group or HGV Group after the Distribution Date) (collectively, the New 
+401(k) Plans), the terms and conditions of which shall be determined by 
+the PK Compensation Committee or the HGV Compensation Committee (or their 
+respective designees), as applicable, taking into account the terms and 
+conditions of the HW 401(k) Plan.
+
+(iv) As soon as practicable following the adoption of each New 401(k) Plan, 
+HLT shall, or shall cause the applicable member of the HLT Group to, cause 
+the trustee of the HW 401(k) Plan to Transfer to the trustee or other 
+funding agent of each New 401(k) Plan the amounts (in cash, securities, 
+other property or a combination thereof, including any promissory notes 
+reflecting outstanding participant loan balances) representing the account 
+balances of all PK Employees, Former PK Employees, HGV Employees and Former 
+HGV Employees (and any new Employees employed by any member of the PK Group 
+or the HGV Group, as applicable, after the Distribution Date) who were 
+participating in the HW 401(k) Plan with said amounts to be established as 
+account balances of such Employees under the applicable New 401(k) Plan. 
+Each such Transfer shall comply with Section 414(l) of the Code and the 
+requirements of ERISA. Each of PK and HGV shall, or shall cause the 
+applicable member of the PK Group or the HGV Group, as applicable, to (x) 
+cause the trustees or other funding agent of
+ 
+11
+
+------------------------------------------------------------------------
+the applicable New 401(k) Plan to accept the trust-to-trust Transfer from 
+the HW 401(k) Plan, and to credit the accounts of such PK Employees, Former 
+PK Employees, HGV Employees and Former HGV Employees, as applicable (and 
+any new Employees employed by any member of the PK Group and the HGV Group 
+after the Distribution Date, as applicable) under the applicable New 401(k) 
+Plan with the amounts Transferred on their behalf and (y) Assume and be 
+solely responsible for all Liabilities under the applicable New 401(k) Plan 
+relating to the accounts that are so Transferred as of the time of such 
+Transfer. In connection with the trust-to-trust Transfer described above, 
+the Parties agree to cooperate in making any and all appropriate filings 
+required under applicable Law and to take all such action(s) as may be 
+necessary or appropriate to cause such plan-to-plan Transfer to take place 
+as soon as practicable following the adoption of each New 401(k) Plan.
+
+(b) Non-US DC Plans.
+
+(i) HLT Group. Effective as of the Plan Effective Time, except as otherwise 
+expressly provided for herein or in the Transition Services Agreement, HLT 
+shall, or shall cause another member or members of the HLT Group to, Assume 
+(x) each defined contribution pension plan sponsored or maintained by 
+Hilton as of the Cut-Off Date that is made available to certain 
+Pre-Existing Hilton Employees outside of the United States as of the 
+Cut-Off Date, including, without limitation, the Plans listed on Schedule 
+5(b)(i) (such Plans, the Non-US DC Plans), (y) all Liabilities associated 
+with (I) the Non-US DC Plans and (II) the HOGARENTE (the Hotel and 
+Restaurant Association) and the Pensioenfond Horeca & Catering Retirement 
+Plan (such Plans, the Mandatory DC Plans), in each case, related to HLT 
+Employees and Former Employees, whether incurred prior to, on or after the 
+Plan Effective Time, and (z) all Assets and accrued benefits associated 
+with the Non-US DC Plans, in each case, related to HLT Employees and Former 
+Employees, whether accrued prior to, on or after the Plan Effective Time. 
+On and after the Plan Effective Time, except as otherwise expressly 
+provided for herein or in the Transition Services Agreement, no member of 
+the PK Group or the HGV Group shall have any Liabilities related to HLT 
+Employees or Former Employees under the Non-US DC Plans or the Mandatory DC 
+Plans.
+
+(ii) PK Group.
+
+(A) Establishment of New Plans in the UK. (1) Effective as of the Plan 
+Effective Time, PK shall, or shall cause another member or members of the 
+PK Group to, for the purposes of providing defined contribution pension 
+benefits for PK Employees employed in the United Kingdom, adopt and 
+implement one or more new defined contribution pension Plans that have the 
+same terms as to contribution rates and eligibility as the Legal and 
+General Group Pension PlanHilton Worldwide Personal UK Retirement Plan 
+(the UK GPP) and The Peoples Pension Scheme  Hilton Hotels Worldwide 
+Section (the UK Auto-Enrolment Plan) (the UK GPP and the UK 
+Auto-Enrolment Plan, collectively, the UK DC Plans).
+
+(2) Following the establishment, adoption and implementation by PK or 
+another member or members of the PK Group of one or more new defined 
+contribution pension Plans as required by clause (1) above, if it would not 
+otherwise automatically happen, PK shall, or shall cause another member or 
+members of the PK Group to, request the trustee of the UK Auto-Enrolment 
+Plan to Transfer all Assets and
+ 
+12
+
+------------------------------------------------------------------------
+Liabilities of the UK Auto-Enrolment Plan attributable to PK Employees to 
+the applicable new defined contribution pension Plan, subject to the 
+agreement of the new defined contribution pension Plan trustee or provider. 
+Following such Transfer, no member of the HLT Group or the HGV Group shall 
+have any Liabilities relating thereto. In addition, if it would not 
+otherwise automatically be permitted, PK shall, or shall cause another 
+member or members of the PK Group to request that the trustee or provider 
+of the new defined contribution pension Plan accept a Transfer of the 
+Assets and Liabilities in the UK GPP attributable to any PK Employee who 
+wishes to Transfer such Assets and Liabilities to the new defined 
+contribution pension Plan, provided such PK Employee is still an active 
+member of the new defined contribution pension Plan at the date of the 
+Transfer.
+
+(B) Assumption/Establishment of New Plans. Effective as of the Plan 
+Effective Time, PK shall, or shall cause another member or members of the 
+PK Group to (x) commence participation in the Mandatory DC Plans and (y) 
+Assume (I) each Non-US DC Plan that is made available as the Cut-Off Date 
+to certain Pre-Existing Hilton Employees as of the Cut-Off Date in South 
+Africa who become PK Employees at PK properties based in South Africa (such 
+Plans, the SA DC Plans), all Liabilities associated with the SA DC Plans 
+related to PK Employees and Former PK Employees, whether incurred prior to, 
+on or after the Plan Effective Time, and all Assets and accrued benefits 
+associated with the SA DC Plans related to PK Employees and Former PK 
+Employees, whether accrued prior to, on or after the Plan Effective Time, 
+and (II) (1) a portion of each other Non-US DC Plan that is made available 
+as of the Cut-Off Date to certain Pre-Existing Hilton Employees outside of 
+the United States who become PK Employees at PK properties based outside of 
+the United States, including, without limitation, the Plans listed on 
+Schedule 5(b)(ii)(B), but excluding the UK DC Plans (such Plans, PK 
+Required Plans), (2) all Liabilities associated with the PK Required Plans 
+related to PK Employees and Former PK Employees, whether incurred prior to, 
+on or after the Plan Effective Time, and (3) all Assets and accrued 
+benefits associated with the PK Required Plans related to PK Employees and 
+Former PK Employees, whether accrued prior to, on or after the Plan 
+Effective Time. On and after the Plan Effective Time, no member of the HLT 
+Group or the HGV Group shall have any Liabilities related to PK Employees 
+or Former PK Employees under the SA DC Plans or the PK Required Plans. The 
+PK Compensation Committee (or its designee) shall establish, adopt and 
+implement one or more new defined contribution pension plans that have 
+substantially similar terms, in all material respects, to the PK Required 
+Plans. Following the adoption of such plans, HLT shall, or shall cause 
+another member or members of the HLT Group to, Transfer all Assets and 
+Liabilities attributable to PK Employees and Former PK Employees under the 
+respective PK Required Plans to each such newly adopted plan. On and after 
+such Transfer, no member of the HLT Group or the HGV Group shall have any 
+Liabilities related thereto. Following commencement of participation in the 
+Mandatory DC Plans, PK shall, or shall cause another member or members of 
+the PK Group to, Assume all Liabilities associated with such the Mandatory 
+DC Plans related to PK Employees and Former PK Employees, whether incurred 
+prior to, on or after the Plan Effective Time.
+ 
+13
+
+------------------------------------------------------------------------
+(iii) HGV Group.
+
+(A) Assumption/Establishment of New Plans Effective as of the Plan 
+Effective Time, HGV shall, or shall cause another member or members of the 
+HGV Group to, Assume (x) each Non-US DC Plan that is made available as of 
+the Cut-Off Date to certain Pre-Existing Hilton Employees in Japan who 
+become HGV Employees at HGV properties based in Japan (the Japanese DC 
+Plans), all Liabilities associated with the Japanese DC Plans related to 
+HGV Employees and Former HGV Employees, whether incurred prior to, on or 
+after the Plan Effective Time, and all Assets and accrued benefits 
+associated with the Japanese DC Plans related to HGV Employees and Former 
+HGV Employees, whether accrued prior to, on or after the Plan Effective 
+Time, (y) the defined contribution pension Plans that are made available as 
+of the Cut-Off Date to certain Pre-Existing Hilton Employees in the United 
+Kingdom who become HGV Employees at HGV properties based in the United 
+Kingdom and that have the same terms as to contribution rates and 
+eligibility as the UK DC Plans (the Replacement UK DC Plans), all 
+Liabilities associated with the Replacement UK DC Plans related to HGV 
+Employees and Former HGV Employees, whether incurred prior to, on or after 
+the Plan Effective Time, and all Assets and accrued benefits associated 
+with the Replacement UK DC Plans related to HGV Employees and Former HGV 
+Employees, whether accrued prior to, on or after the Plan Effective Time, 
+and (z) (I) a portion of each other Non-US DC Plan that is made available 
+as of the Cut-Off Date to certain Pre-Existing Hilton Employees outside of 
+the United States who become HGV Employees at HGV properties based outside 
+of the United States, including, without limitation, the Plans listed on 
+Schedule 5(b)(iii)(A), (such Plans, excluding the UK DC Plans, the Hilton 
+International Plan (Hilton Retirement Capital Plan section) and the Hilton 
+Worldwide International Retirement Plan, the HGV Required Plans), (II) 
+all Liabilities associated with the HGV Required Plans related to HGV 
+Employees and Former HGV Employees, whether incurred prior to, on or after 
+the Plan Effective Time, and (III) all Assets and accrued benefits 
+associated with the HGV Required Plans related to HGV Employees and Former 
+HGV Employees, whether accrued prior to, on or after the Plan Effective 
+Time. On and after the Plan Effective Time, no member of the HLT Group or 
+the PK Group shall have any Liabilities related to HGV Employees or Former 
+HGV Employees under the Japanese DC Plans or the HGV Required Plans. The 
+HGV Compensation Committee (or its designee) shall establish, adopt and 
+implement one or more new defined contribution pension plans that have 
+substantially similar terms, in all material respects, to the HGV Required 
+Plans, effective as of the Plan Effective Time. Effective as of the Plan 
+Effective Time, HLT shall, or shall cause another member or members of the 
+HLT Group to, Transfer all Assets and Liabilities attributable to HGV 
+Employees and Former HGV Employees under each applicable HGV Required Plan 
+to each such newly adopted plan. On and after such Transfer, no member of 
+the HLT Group or the PK Group shall have any Liabilities related thereto.
+
+6. NON-QUALIFIED RETIREMENT/DEFERRED COMPENSATION PLANS. (a) General. 
+Effective as of the Plan Effective Time, except as otherwise expressly 
+provided for herein, HLT shall, or shall cause another member or members of 
+the HLT Group to, Assume (x) each non-qualified retirement and deferred 
+compensation plan sponsored or maintained by Hilton as of the Cut-Off Date 
+that is made available to certain Pre-Existing Hilton Employees in the 
+United States (or on temporary assignment outside the United States, if 
+applicable) as of the Cut-Off Date, including, without limitation, the 
+Plans listed on Schedule 6(a), (such Plans, the Hilton Deferred 
+Compensation Plans), (y) all Liabilities associated with the Hilton 
+Deferred Compensation Plans related to Former Employees, HLT Employees, PK 
+Employees and HGV Employees, whether incurred prior to, on or after the 
+Plan Effective Time, and (z) all Assets (including any associated rabbi 
+trust) and accrued benefits associated with the Hilton Deferred 
+Compensation Plans related to Former Employees, HLT Employees, PK
+ 
+14
+
+------------------------------------------------------------------------
+Employees and HGV Employees, whether accrued prior to, on or after the Plan 
+Effective Time. Except as otherwise expressly provided for herein, on and 
+after the Plan Effective Time, no member of the PK Group or the HGV Group 
+shall have any Liabilities related to Former Employees, HLT Employees, PK 
+Employees or HGV Employees under the Hilton Deferred Compensation Plans.
+
+(b) New PK and HGV Deferred Compensation Plans/Transfer of Liabilities.
+
+(i) PK Group. Effective as of the Plan Effective Time, PK shall, or shall 
+cause another member or members of the PK Group to, establish, adopt and 
+administer one or more new deferred compensation and/or non-qualified 
+retirement plans for eligible PK Employees (and any new Employees employed 
+by any member of the PK Group after the Distribution Date) in the United 
+States. The terms and conditions of one such plan for PK Employees who 
+participated in the Hilton Hotels 2005 Executive Deferred Compensation Plan 
+(the 2005 EDCP) as of the Cut-Off Date shall be substantially similar, in 
+all material respects, to the 2005 EDCP. Effective as of the Plan Effective 
+Time, PK shall, or shall cause another member or members of the PK Group 
+to, Assume all Liabilities related to the 2005 EDCP attributable to PK 
+Employees who participated in the 2005 EDCP as of the Cut-Off Date. On and 
+after the Plan Effective Time, no member of the HLT Group or the HGV Group 
+shall have any Liabilities related to PK Employees under the 2005 EDCP and 
+no member of the PK Group shall have any Liabilities related to the HLT 
+Employees and Former Employees under the 2005 EDCP. Any such other plans 
+that are adopted by any member of the PK Group shall be on such terms and 
+conditions as determined by the PK Compensation Committee (or its 
+designee).
+
+(ii) HGV Group. Effective as of the Plan Effective Time, HGV shall, or 
+shall cause another member or members of the HGV Group to, establish, adopt 
+and administer one or more new deferred compensation and/or non-qualified 
+retirement plans for eligible HGV Employees (and any new Employees employed 
+by any member of the HGV Group after the Distribution Date) in the United 
+States. The terms and conditions of one such plan for HGV Employees who 
+participated in the 2005 EDCP as of the Cut-Off Date shall be substantially 
+similar, in all material respects, to the 2005 EDCP. Effective as of the 
+Plan Effective Time, HGV shall, or shall cause another member or members of 
+the HGV Group to, Assume all Liabilities related to the 2005 EDCP 
+attributable to HGV Employees who participated in the 2005 EDCP as of the 
+Cut-Off Date. On and after the Plan Effective Time, no member of the HLT 
+Group or the PK Group shall have any Liabilities related to HGV Employees 
+under the 2005 EDCP and no member of the HGV Group shall have any 
+Liabilities related to the HLT Employees and Former Employees under the 
+2005 EDCP. Any such other plans that are adopted by any member of the HGV 
+Group shall be on such terms and conditions as determined by the HGV 
+Compensation Committee (or its designee).
+
+(iii) No Separation from Service.
+
+(A) The Parties agree that transfers of employment in connection with the 
+Distribution shall not be treated as separations from service under any 
+Hilton Deferred Compensation Plan, and such employment shall only be 
+considered to terminate for purposes of the applicable Hilton Deferred 
+Compensation Plans or a PK or HGV non-qualified retirement/deferred 
+compensation plan that receives the Liabilities, as applicable, as a result 
+of
+ 
+15
+
+------------------------------------------------------------------------
+(x) a transfer of employment among the HLT Group, the PK Group and the HGV 
+Group, or (y) a termination of employment with the HLT Group, the PK Group 
+or the HGV Group, as applicable, following the Plan Effective Time. All 
+non-qualified retirement/deferred compensation benefits payable on and 
+after the Plan Effective Time related to HLT Employees, PK Employees and 
+HGV Employees shall be paid under the applicable Hilton Deferred 
+Compensation Plans or a PK or HGV non-qualified retirement/deferred 
+compensation plan that receives the Liabilities, as applicable.
+
+7. EMPLOYEE HEALTH AND WELFARE BENEFIT PLANS. (a) US H&W Plans.
+
+(i) General. Effective as of the Plan Effective Time, except as otherwise 
+expressly provided for herein or in the Transition Services Agreement, HLT 
+shall, or shall cause another member or members of the HLT Group to, Assume 
+(x) each health and welfare benefit Plan (other than severance Plans) 
+sponsored or maintained by Hilton as of the Cut-Off Date that is made 
+available to certain Pre-Existing Hilton Employees in the United States and 
+Puerto Rico as of the Cut-Off Date, including, without limitation, the 
+Plans listed on Schedule 7(a)(i) (the Hilton H&W Plans), (y) all 
+Liabilities associated with the Hilton H&W Plans related to Former 
+Employees, HLT Employees, PK Employees and HGV Employees, whether incurred 
+prior to, on or after the Plan Effective Time, and (z) all Assets and 
+accrued benefits associated with the Hilton H&W Plans related to Former 
+Employees, HLT Employees, PK Employees and HGV Employees, whether accrued 
+prior to, on or after the Plan Effective Time. On and after the Plan 
+Effective Time, except as otherwise provided for in Section 7(a)(iii), no 
+member of the PK Group or the HGV Group shall have any Liabilities related 
+to HLT Employees or Former Hilton Employees under the Hilton H&W Plans, no 
+member of the HLT Group or the HGV Group shall have any Liabilities related 
+to PK Employees or Former PK Employees under the Hilton H&W Plans and no 
+member of the HLT Group or the PK Group shall have any Liabilities related 
+to HGV Employees or Former HGV Employees under the Hilton H&W Plans.
+
+(ii) COBRA. HLT or another member or members of the HLT Group shall be 
+responsible for providing continuation coverage pursuant to the 
+Consolidated Omnibus Budget Reconciliation Act of 1985, as amended (COBRA) 
+(COBRA Coverage) under the applicable HLT Plan with respect to qualified 
+beneficiaries whose qualifying event occurred prior to or in conjunction 
+with the Distribution. For qualifying events occurring on and after the 
+Plan Effective Time, HLT shall, or shall cause another member or members of 
+the HLT Group to, be responsible for providing COBRA Coverage to qualified 
+beneficiaries whose qualifying event relates to a HLT Employee (and any new 
+Employees employed by any member of the HLT Group after the Distribution 
+Date), PK shall, or shall cause another member or members of the PK Group 
+to, be responsible for providing COBRA Coverage to qualified beneficiaries 
+whose qualifying event relates to a PK Employee (and any new Employees 
+employed by any member of the PK Group after the Distribution Date), and 
+HGV shall, or shall cause another member or members of the HGV Group to, be 
+responsible for providing COBRA Coverage to qualified beneficiaries whose 
+qualifying event relates to a HGV Employee (and any new Employees employed 
+by any member of the HGV Group after the Distribution Date).
+ 
+16
+
+------------------------------------------------------------------------
+(iii) Continued Participation In Hilton H&W Plans. Subject to the consent 
+of the applicable insurers or any other applicable third-parties, as 
+needed, effective as of the Plan Effective Time, each of the applicable 
+members of the PK Group and the HGV Group shall remain participating 
+employers in the Hilton H&W Plans until no later than December 31, 2017, 
+but shall cease participating in any cafeteria Plans, salary continuation 
+Plans, health savings accounts, health and dependent care flexible spending 
+accounts, voluntary benefit Plans, commuter benefit Plans and tuition 
+reimbursement Plans, in each case, sponsored or maintained by Hilton as of 
+the Cut-Off Date that are made available to certain Pre-Existing Hilton 
+Employees in the United States as of the Cut-Off Date (such Plans, the 
+Specified H&W Plans) as of the Plan Effective Time. In connection with 
+such continued participation, each of the HLT Group, the PK Group and the 
+HGV Group shall (x) pay their proportional share of the administrative and 
+contribution costs associated with such Plans during such period and (y) 
+Assume all Liabilities associated with such Plans related to HLT Employees, 
+Former HLT Employees, PK Employees, Former PK Employees, HGV Employees or 
+Former HGV Employees (and any new Employees employed by any member of the 
+HLT Group, the PK Group or the HGV Group, as applicable, after the 
+Distribution Date), respectively. Insurance premiums under the Hilton H&W 
+Plans, including premiums related to COBRA Coverage, shall be paid either 
+(x) directly to the applicable insurer by a member of each of the HLT 
+Group, the PK Group and the HGV Group on behalf of the participating Former 
+Employees, Employees and dependents of each, or (y) directly to the 
+applicable insurer by a member of the HLT Group on behalf of Former 
+Employees, HLT Employees, PK Employees and HGV Employees and their 
+respective dependents with reimbursement of such amounts being made by a 
+member of the PK Group and the HGV Group within the time period required 
+under ERISA. During the period commencing on the Distribution Date and 
+ending no later than December 31, 2017, the HLT Group, the PK Group and the 
+HGV Group shall share proportionally in any credits returned (e.g., MLR 
+credits, subrogation recoveries, etc.) to any health and welfare benefit 
+Plan sponsored or maintained by any member of the HLT Group in which a 
+member of the PK Group and HGV Group continue to participate on and after 
+the Plan Effective Time.
+
+(iv) New PK and HGV Health and Welfare Benefit Plans.
+
+(A) Effective as of the Plan Effective Time, each of PK and HGV shall, or 
+shall cause another member or members of the PK Group or the HGV Group, as 
+applicable, to, establish, adopt and implement one or more new health and 
+welfare benefit Plans in which eligible PK Employees and HGV Employees (and 
+any new Employees employed by any member of the PK Group and the HGV Group 
+after the Distribution Date) in the United States shall participate, with 
+terms and conditions that are substantially similar, in all material 
+respects, to the terms and conditions of the Specified H&W Plans in which 
+such Employees were participating as of the Cut-Off Date.
+
+(B) Effective no later than January 1, 2018, each of PK and HGV shall, or 
+shall cause another member or members of the PK Group or the HGV Group, as 
+applicable, to, establish, adopt and implement one or more new health and 
+welfare benefit Plans (excluding a Retiree Health Plan and retiree life 
+insurance arrangements) under which PK Employees and HGV Employees (and any 
+new Employees employed by any member of the PK Group and the HGV Group 
+after the Distribution Date) in the United States shall participate, the 
+terms and conditions of which shall be determined by the PK Compensation 
+Committee (or its designee) or the HGV Compensation Committee (or its 
+designee), as applicable, taking into account the terms and conditions of 
+the corresponding Hilton H&W Plan.
+ 
+17
+
+------------------------------------------------------------------------
+(C) Each of PK and HGV shall, or shall cause another member or members of 
+the PK Group and the HGV Group, as applicable, to use commercially 
+reasonable efforts to waive all pre-existing condition exclusions and 
+actively-at-work requirements for each health and welfare benefit Plan in 
+which PK Employees and HGV Employees in the United States were 
+participating as of the Cut-Off Date or the effective date of the new Plan, 
+as applicable.
+
+(D) Each of PK and HGV shall, or shall cause another member or members of 
+the PK Group and the HGV Group, as applicable, to provide credit for 
+expenses incurred by PK Employees and HGV Employees in the United States 
+and their eligible dependents during the portion of the plan year that 
+includes the Distribution Date for purposes of satisfying all deductible, 
+coinsurance and maximum out-of-pocket requirements applicable to each such 
+Employee.
+
+(E) For the plan year in which the Distribution Date occurs, flexible 
+spending accounts and health savings accounts of PK Employees and HGV 
+Employees shall be transferred to the corresponding PK or HGV health and 
+welfare benefit Plan, including contribution and payment history.
+
+(b) Non-US H&W Plans.
+
+(i) HLT Group.
+
+(A) General. Effective as of the Plan Effective Time, except as expressly 
+provided for herein or in the Transition Services Agreement, HLT shall, or 
+shall cause another member or members of the HLT Group to, Assume (x) each 
+health and welfare benefit Plan (including each related insurance policy, 
+trust instrument and other related contract or agreement) sponsored or 
+maintained by Hilton as of the Cut-Off Date that is made available to 
+certain Pre-Existing Hilton Employees outside of the United States as of 
+the Cut-Off Date, including without limitation, the Plans listed on 
+Schedule 7(b)(i)(A) (such Plans, the Hilton Non-US H&W Plans), (y) all 
+Liabilities associated with the Hilton Non-US H&W Plans related to HLT 
+Employees, Former Employees, PK Employees and HGV Employees, whether 
+incurred prior to, on or after the Plan Effective Time, and (z) all Assets 
+and accrued benefits associated with the Non-US H&W Plans related to HLT 
+Employees, Former Hilton Employees, PK Employees and HGV Employees. On and 
+after the Plan Effective Time, except as expressly provided for herein or 
+in the Transition Services Agreement, no member of the PK Group or the HGV 
+Group shall have any Liabilities related HLT Employees and Former Employees 
+under the Non-US H&W Plans.
+
+(B) Continued Participation in Brazilian H&W Plans/New Brazilian H&W Plans
+. Effective as of the Plan Effective Time, HLT shall, or shall cause 
+another member or members of the HLT Group to, for the purposes of 
+providing health and welfare and/or life insurance benefits for HLT 
+Employees employed in Brazil (and any new Employees employed by any member 
+of the HLT Group in Brazil after the Distribution Date), either (x) to
+ 
+18
+
+------------------------------------------------------------------------
+establish, adopt or implement one or more new health and welfare and/or 
+life insurance benefit plans that have substantially similar terms, in all 
+material respects, to the Seguro Saude Empresarial, the Seguro Coletivo 
+Empresarial de Assistencia a Saude Na Segmentacao Odontologico and/or the 
+Seguro de Vida Em Groupo, as applicable (each such Plan, a Brazilian H&W 
+Plan) or (y) subject to consent of the applicable insurer(s) or any other 
+applicable third-parties, as needed, effective as of the Plan Effective 
+Time, each of the applicable members of the HLT Group shall remain as 
+participating employers in one or more Brazilian H&W Plans until no later 
+than December 31, 2017 and, in connection therewith, each of the HLT Group 
+and the PK Group shall (I) pay their proportional share of the 
+administrative and contribution costs associated with the applicable 
+Brazilian H&W Plan(s) during such period and (II) Assume all Liabilities 
+associated with the applicable Brazilian H&W Plan(s) related to HLT 
+Employees, Former HLT Employees, PK Employees and Former PK Employees (and 
+any new Employees employed by any member of the HLT Group or the PK Group, 
+as applicable, after the Distribution Date), respectively. Effective no 
+later than January 1, 2018, HLT shall, or shall cause another member or 
+members of the HLT Group to, establish, adopt and implement one or more new 
+health and welfare benefit Plans that have substantially similar terms, in 
+all material respects, to the applicable Brazilian H&W Plan(s).
+
+(ii) PK Group.
+
+(A) Continued Participation in HLT Plans. Subject to consent of the 
+applicable insurers or any other applicable third-parties, as needed, 
+effective as of the Plan Effective Time, each of the applicable members of 
+the PK Group shall remain as participating employers in the Plans listed on 
+Schedule 7(b)(ii)(A) (each such Plan, a Continued PK H&W Plan) until no 
+later than December 31, 2017 and, in connection therewith, each of the HLT 
+Group and the PK Group shall (x) pay their proportional share of the 
+administrative and contribution costs associated with each such Continued 
+PK H&W Plan during such period and (y) Assume all Liabilities associated 
+with each such Continued PK H&W Plan related to HLT Employees, Former HLT 
+Employees, PK Employees and Former PK Employees (and any new Employees 
+employed by any member of the HLT Group or the PK Group, as applicable, 
+after the Distribution Date), respectively. Effective no later than January 
+1, 2018, PK shall, or shall cause another member or members of the PK Group 
+to, establish, adopt and implement one or more new health and welfare 
+benefit Plans that have substantially similar terms, in all material 
+respects, to each applicable Continued PK H&W Plan.
+
+(B) Assumption/Establishment of New Plans. Effective as of the Plan 
+Effective Time, PK shall, or shall cause another member or members of the 
+PK Group to, Assume (I) each health and welfare benefit Plan sponsored or 
+maintained by a member of the PK Group as of the Cut-Off Date that is made 
+available as of the Cut-Off Date to certain Pre-Existing Hilton Employees 
+in Brazil and South Africa who become PK Employees at PK properties based 
+in Brazil and South Africa (such Plans, collectively, the Brazilian and SA 
+H&W Plans), all Liabilities associated with the Brazilian and SA H&W Plans 
+related to PK Employees and Former PK Employees, whether incurred prior to, 
+on or after the Plan Effective Time, and all Assets (including each related 
+insurance policy, trust instrument and other related contract or agreement) 
+and accrued benefits associated with the Brazilian and SA H&W Plans related 
+to PK Employees and Former PK Employees, whether accrued prior to, on or 
+after the Plan Effective Time, and (II) (1) a portion of each other health 
+and welfare benefit Plan
+ 
+19
+
+------------------------------------------------------------------------
+sponsored or maintained by Hilton as of the Cut-Off Date that is made 
+available as of the Cut-Off Date to certain Pre-Existing Hilton Employees 
+outside of the United States who become PK Employees at PK properties based 
+outside of the United States, including, without limitation, the Plans 
+listed on Schedule 7(b)(ii)(B) (collectively, PK Required H&W Plans), (2) 
+all Liabilities associated with the PK Required H&W Plans related to PK 
+Employees and Former PK Employees, whether incurred prior to, on or after 
+the Plan Effective Time, and (3) all Assets (other than those held in an 
+insurance policy or those that the PK Employee has the right to elect to 
+retain with the applicable insurer) and accrued benefits associated with 
+the PK Required H&W Plans related to PK Employees and Former PK Employees, 
+whether accrued prior to, on or after the Plan Effective Time. On and after 
+the Plan Effective Time, no member of the HLT Group or the HGV Group shall 
+have any Liabilities related to PK Employees or Former PK Employees under 
+the Brazilian and SA H&W Plans or the PK Required H&W Plans. The PK 
+Compensation Committee (or its designee) shall establish, adopt and 
+implement one or more new health and welfare benefit Plans that have 
+substantially similar terms, in all material respects, to the PK Required 
+H&W Plans. Following the adoption of such Plans, HLT shall, or shall cause 
+another member or members of the HLT Group to, Transfer all Assets (other 
+than those held in an insurance policy or those that the PK Employee or 
+Former PK Employee has the right to elect to retain with the applicable 
+insurer) and Liabilities attributable to PK Employees and Former PK 
+Employees under the respective PK Required H&W Plans to each such newly 
+adopted Plan. Following such Transfer, no member of the HLT Group or the 
+HGV Group shall have any Liabilities related thereto.
+
+(C) UK Group Medical Insurance Plan. Effective as of the Plan Effective 
+Time, PK shall, or shall cause another member or members of the PK Group to 
+(x) establish, adopt and implement a new group medical insurance Plan to 
+provide group medical insurance benefits to PK Employees employed in the 
+United Kingdom on substantially similar terms, in all material respects, to 
+the terms on which the PK Employees employed in the United Kingdom were 
+provided with group medical insurance benefits as of the Cut-Off Date, and, 
+if any member of the PK Group provides group medical insurance benefits to 
+any new Employees employed by a member of the PK Group in the United 
+Kingdom after the Distribution Date, it shall be through the same Plan and 
+on the same terms as for PK Employees, and (y) Assume all Liabilities 
+associated with such Plan related to PK Employees (and any new Employees 
+employed by any member of the PK Group after the Distribution Date who are 
+provided with group medical insurance benefits).
+
+(iii) HGV Group.
+
+(A) Continued Participation in HLT Plans. Subject to consent of the 
+applicable insurers or any other applicable third-parties, as needed, 
+effective as of the Plan Effective Time, each of the applicable members of 
+the HGV Group shall remain as participating employers in the Plans listed 
+on Schedule 7(b)(iii)(A) (each such Plan, a Continued HGV H&W Plan) until 
+no later than December 31, 2017 and, in connection therewith, each of the 
+HLT Group and the HGV Group shall (x) pay their proportional share of the 
+administrative and contribution costs associated with each such Continued 
+HGV H&W Plan during such period and (y) Assume all Liabilities associated 
+with each such Continued HGV H&W Plan related to HLT Employees or HGV 
+Employees (and any new Employees employed by any member of the HLT Group or 
+the HGV Group, as applicable, after the Distribution Date), respectively. 
+Effective no
+ 
+20
+
+------------------------------------------------------------------------
+later than January 1, 2018, HGV shall, or shall cause another member or 
+members of the HGV Group to, establish, adopt and implement one or more new 
+health and welfare benefit Plans that have substantially similar terms, in 
+all material respects, to each applicable Continued HGV H&W Plan.
+
+(B) Assumption/Establishment of New Plans. Effective as of the Plan 
+Effective Time, HGV shall, or shall cause another member or members of the 
+HGV Group to, Assume (I) each health and welfare benefit Plan sponsored or 
+maintained by a member of the HGV Group as of the Cut-Off Date that is made 
+available as of the Cut-Off Date to certain Pre-Existing Hilton Employees 
+in Japan who become HGV Employees at HGV properties based in Japan (such 
+Plans, the Japanese H&W Plans), all Liabilities associated with the 
+Japanese H&W Plans related to HGV Employees and Former HGV Employees, 
+whether incurred prior to, on or after the Plan Effective Time, and all 
+Assets (other than those held in an insurance policy or those that the HGV 
+Employee or Former HGV Employee has the right to elect to retain with the 
+applicable insurer) and accrued benefits associated with the Japanese H&W 
+Plans related to HGV Employees and Former HGV Employees, whether accrued 
+prior to, on or after the Plan Effective Time, (II) the group medical 
+insurance Plan sponsored and maintained by a member of the HGV Group as of 
+the Cut-Off Date that is made available as of the Cut-Off Date to certain 
+Pre-Existing Hilton Employees in the United Kingdom who become HGV 
+Employees at HGV properties based in the United Kingdom (such Plan, the 
+HGV UK Group Medical Plan), all Liabilities associated with the HGV UK 
+Group Medical Plan related to HGV Employees and Former HGV Employees, 
+whether incurred prior to, on or after the Plan Effective Time, and all 
+Assets (other than those held in an insurance policy or those that the HGV 
+Employee or Former HGV Employee has the right to elect to retain with the 
+applicable insurer) and accrued benefits associated with the HGV UK Group 
+Medical Plan related to HGV Employees and Former HGV Employees, whether 
+accrued prior to, on or after the Plan Effective Time, and (III) (1) a 
+portion of each other health and welfare benefit Plan sponsored or 
+maintained by Hilton as of the Cut-Off Date that is made available as of 
+the Cut-Off Date to certain Pre-Existing Hilton Employees outside of the 
+United States who become HGV Employees at HGV properties based outside of 
+the United States (collectively, HGV Required H&W Plans), (2) all 
+Liabilities associated with the HGV Required H&W Plans related to HGV 
+Employees and Former HGV Employees, whether incurred prior to, on or after 
+the Plan Effective Time, and (3) all Assets (other than those held in an 
+insurance policy or those that the HGV Employee or Former HGV Employee has 
+the right to elect to retain with the applicable insurer) and accrued 
+benefits associated with the HGV Required H&W Plans related to HGV 
+Employees and Former HGV Employees, whether accrued prior to, on or after 
+the Plan Effective Time. On and after the Plan Effective Time, no member of 
+the HLT Group or the PK Group shall have any Liabilities related to HGV 
+Employees or Former HGV Employees under the Japanese H&W Plans or the HGV 
+Required H&W Plans. The HGV Compensation Committee (or its designee) shall 
+establish, adopt and implement one or more new health and welfare benefit 
+Plans that have substantially similar terms, in all material respects, to 
+the HGV Required H&W Plans. Following the adoption of such Plans, HLT 
+shall, or shall cause another member or members of the HLT Group to, 
+Transfer all Assets (other than those held in an insurance policy or those 
+that the HGV Employee or Former HGV Employees has the right to elect to 
+retain with the applicable insurer) and Liabilities attributable to HGV 
+Employees and Former HGV Employees under the respective HGV Required H&W 
+Plans to each such newly adopted Plan. Following such Transfer, no member 
+of the HLT Group or the PK Group shall have any Liabilities related 
+thereto.
+ 
+21
+
+------------------------------------------------------------------------
+(iv) Credit. To the extent available under local Law, PK and HGV shall, or 
+shall cause another member or members of the PK Group and the HGV Group, as 
+applicable, to use commercially reasonable efforts to waive all 
+pre-existing condition exclusions and actively-at-work requirements for 
+each Non-US health and welfare benefit Plan in which such PK Employees and 
+HGV Employees were participating as of the Cut-Off Date or the effective 
+date of such new Plan, as applicable.
+
+(A) PK and HGV shall, or shall cause another member or members of the PK 
+Group and the HGV Group, as applicable, to provide credit for expenses 
+incurred by such PK Employees and HGV Employees and their respective 
+eligible dependents during the portion of the plan year that includes the 
+Distribution Date for purposes of satisfying all deductible, coinsurance 
+and maximum out-of-pocket requirements applicable to each such Employee.
+
+(B) For purposes of this Section 7, a claim or Liability is deemed to be 
+incurred (i) with respect to medical, dental, vision and/or prescription 
+drug benefits, upon the rendering of health services giving rise to such 
+claim or Liability; (ii) with respect to life insurance, accidental death 
+and dismemberment and business travel accident insurance, upon the 
+occurrence of the event giving rise to such claim or Liability; (iii) with 
+respect to disability benefits, upon the date of an Employees disability, 
+as determined by the disability benefit insurance carrier or claim 
+administrator, giving rise to such claim or Liability; and (iv) with 
+respect to a period of continuous hospitalization, upon the date of 
+admission to the hospital.
+
+8. SEVERANCE PLANS. (a) US Plans. (i) Effective as of the Plan Effective 
+Time, HLT shall, or shall cause another member or members of the HLT Group 
+to, Assume (x) each severance plan sponsored or maintained by Hilton as of 
+the Cut-Off Date that is made available to certain Pre-Existing Hilton 
+Employees in the United States (or on temporary assignment outside the 
+United States, if applicable) as of the Cut-Off Date, including, without 
+limitation, the Plans listed on Schedule 8(a)(i) (collectively, the 
+Hilton Severance Plans), (y) all Liabilities associated with the Hilton 
+Severance Plans related to HLT Employees as of the Plan Effective Time, and 
+(z) all accrued benefits associated with the Hilton Severance Plans related 
+to HLT Employees as of the Plan Effective Time. Effective as of the Plan 
+Effective Time, (I) HLT shall, or shall cause another member or members of 
+the HLT Group to, Assume all Liabilities associated with the Hilton 
+Severance Plans related to Former Hilton Employees, (II) PK shall, or shall 
+cause another member or members of the PK Group to, Assume all Liabilities 
+associated with the Hilton Severance Plans related to Former PK Employees, 
+and (III) HGV shall, or shall cause another member or members of the HGV 
+Group to, Assume all Liabilities associated with the Hilton Severance Plans 
+related to Former HGV Employees.
+
+(ii) On or after the Plan Effective Time, PK and/or HGV may establish, 
+adopt and implement one or more new severance Plans in the United States, 
+the terms and conditions of which shall be determined by the PK 
+Compensation Committee (or its designee) and/or the HGV Compensation 
+Committee (or its designee), as applicable.
+ 
+22
+
+------------------------------------------------------------------------
+(iii) The Parties agree that transfers of employment in connection with the 
+Distribution shall not be treated as terminations of employment under any 
+Hilton Severance Plan and all severance benefits payable on and after the 
+Plan Effective Time related to HLT Employees, PK Employees and HGV 
+Employees (and any new Employees employed by any member of the HLT Group, 
+the PK Group and the HGV Group after the Distribution Date) shall be paid 
+under the applicable Hilton Severance Plan or, upon adoption following the 
+Distribution Date, the new PK Group severance Plan or HGV Group severance 
+Plan, as applicable.
+
+(b) Non-US Plans. HLT, PK and HGV shall, or shall cause another member or 
+members of the HLT Group, the PK Group and the HGV Group, as applicable, to 
+provide severance or end of service benefits (Non-US Severance), as 
+applicable, to their respective Employees to the extent required by 
+applicable Law and Assume all such Liabilities related to HLT Employees, PK 
+Employees and HGV Employees, as applicable. Effective as of the Plan 
+Effective Time, (i) HLT shall, or shall cause another member or members of 
+the HLT Group to, Assume all Liabilities associated with Non-US Severance 
+related to Former Hilton Employees, (ii) PK shall, or shall cause another 
+member or members of the PK Group to, Assume all Liabilities associated 
+with Non-US Severance related to Former PK Employees, and (iii) HGV shall, 
+or shall cause another member or members of the HGV Group to, Assume all 
+Liabilities associated with Non-US Severance related to Former HGV 
+Employees.
+
+9. PAID TIME OFF. (a) Effective as of the Plan Effective Time, HLT shall, 
+or shall cause another member or members of the HLT Group to, Assume each 
+US and non-US paid time off Plan sponsored or maintained by Hilton as of 
+the Cut-Off Date that is made available to Pre-Existing Hilton Employees as 
+of the Cut-Off Date who become HLT Employees (such Plans, the Hilton PTO 
+Plans) and all Liabilities associated with the Hilton PTO Plans related to 
+HLT Employees as of the Plan Effective Time. On and after the Plan 
+Effective Time, no member of the PK Group or the HGV Group shall have any 
+Liabilities related to HLT Employees under the Hilton PTO Plans.
+
+(b) Effective as of the Plan Effective Time, PK shall, or shall cause 
+another member or members of the PK Group to, establish, adopt and 
+implement one or more new US and non-US paid time off Plans (each such 
+Plan, a PK PTO Plan), the terms and conditions of which shall be 
+determined by one or more members of the PK Group, taking into account the 
+terms and conditions of the corresponding Hilton PTO Plan. Effective as of 
+the Plan Effective Time, PK shall, or shall cause another member or members 
+of the PK Group to, Assume all Liabilities related to PK Employees under 
+the applicable Hilton PTO Plan. On and after the Plan Effective Time, no 
+member of the HLT Group or the HGV Group shall have any Liabilities related 
+thereto.
+
+(c) Effective as of the Plan Effective Time, HGV shall, or shall cause 
+another member or members of the HGV Group to, establish, adopt and 
+implement one or more new US and non-US paid time off plans (each such 
+Plan, a HGV PTO Plan), the terms and conditions of which shall be 
+determined by one or more members of the HGV Group, taking into account the 
+terms and conditions of the corresponding Hilton PTO Plan. Effective as of 
+the Plan Effective Time, HGV shall, or shall cause another member or 
+members of the HGV Group to, Assume all Liabilities related to HGV 
+Employees under the applicable Hilton PTO Plan. On and after the Plan 
+Effective Time, no member of the HLT Group or the PK Group shall have any 
+Liabilities related thereto.
+ 
+23
+
+------------------------------------------------------------------------
+(d) Unless otherwise required by applicable Law, the Parties agree that 
+transfers of employment in connection with the Distribution shall not be 
+treated as terminations of employment under any Hilton PTO Plan, PK PTO 
+Plan or HGV PTO Plan and all paid time off benefits accrued under any 
+Hilton PTO Plan as of the Plan Effective Time related to HLT Employees, PK 
+Employees and HGV Employees shall remain with the applicable Hilton PTO 
+Plan or transfer to a PK PTO Plan or HGV PTO Plan, as applicable.
+
+(e) To the extent that any member of the HLT Group, PK Group or HGV Group 
+(such member, the Paying Entity) is required to pay any amounts relating 
+to paid time off benefits associated with HLT Employees, PK Employees or 
+HGV Employees who are not Employees of the Paying Entity as of the 
+Distribution Date in connection with the Distribution, the employing entity 
+agrees to reimburse the Paying Entity for such amounts.
+
+10. PERQUISITES. (a) TMTP/Go Hilton. Effective as of the Plan Effective 
+Time, HGV Employees and PK Employees (and any new Employees employed by any 
+member of the HGV Group and the PK Group after the Distribution Date) shall 
+continue to be eligible to participate in the Go Hilton Program, as amended 
+from time to time in the HLT Groups sole discretion (the Program), 
+subject to annual review of such participation by the HLT Group and, in the 
+case of HGV Employees (and any new Employees employed by any member of the 
+HGV Group), payment of any annual participation fees assessed by the HLT 
+Group, in its sole discretion, if any. HGV and PK participation in the 
+Program is subject to the terms and conditions of reciprocity agreement(s) 
+between a member of the HLT Group and a member of the HGV Group or the PK 
+Group, as applicable, and reciprocal loading of HGV and PK inventory to be 
+centrally managed by the HLT Go Hilton team. Such participation is intended 
+to qualify as a fringe benefit excludible from gross income of HLT 
+Employees, HGV Employees and PK Employees (and any new Employees employed 
+by any member of the HLT Group, PK Group and the HGV Group after the 
+Distribution Date) under Section 132(a) of the Code. This Agreement and any 
+reciprocity agreement(s) shall each constitute a reciprocal agreement 
+between HLT and HGV and HLT and PK, as applicable, within the meaning of 
+Section 132(i) of the Code and each of HLT, PK and HGV shall, or shall 
+cause another member or members of the HLT Group, the PK Group and the HGV 
+Group to, execute such further documentation as may be required for tax 
+purposes or otherwise necessary to effect such arrangement.
+
+(b) HGV Discount Program. Effective as of the Plan Effective Time, HLT 
+Employees shall be permitted to continue to participate in the discount 
+program offered by the HGV Group with respect to purchases of HGV inventory 
+if so requested in writing by one or more members of the HLT Group and PK 
+Employees shall no longer participate in such discount program.
+
+(c) HLT Non-US Perquisites. Effective as of the Plan Effective Time, HLT 
+shall, or shall cause another member or members of the HLT Group to, 
+Assume, establish, adopt and implement, as applicable, one or more new 
+perquisite policies covering HLT Employees (and any new Employees employed 
+by any member of the HLT Group after the Distribution Date) outside of the 
+United States, the terms and conditions of which shall be determined by the 
+HLT Compensation Committee (or its designee), taking into account the terms 
+and conditions of the perquisite policy sponsored or maintained by Hilton 
+as of the Cut-Off Date that is made available to certain Pre-Existing 
+Hilton Employees outside of the United States as of the Cut-Off Date
+ 
+24
+
+------------------------------------------------------------------------
+(such plans, the Hilton Non-US Perk Plans). In connection with the 
+foregoing, effective as of the Plan Effective Time, HLT shall, or shall 
+cause another member or members of the HLT Group to, Assume all Liabilities 
+associated with the Hilton Non-US Perk Plans related to HLT Employees and 
+Former Hilton Employees. Following the Plan Effective Time, no member of 
+the PK Group or the HGV Group shall have any Liabilities related to HLT 
+Employees or Former Hilton Employees under the Hilton Non-US Perk Plans.
+
+(d) PK Non-US Perquisites. Effective as of the Plan Effective Time, PK 
+shall, or shall cause another member or members of the PK Group to, 
+establish, adopt and implement, as applicable, one or more new perquisite 
+policies covering eligible PK Employees (and any new Employees employed by 
+any member of the PK Group after the Distribution Date) outside of the 
+United States, the terms and conditions of which shall be determined by the 
+PK Compensation Committee (or its designee), taking into account the terms 
+and conditions of the corresponding Hilton Non-US Perk Plan. Effective as 
+of the Plan Effective Time, PK shall, or shall cause another member or 
+members of the PK Group to, Assume all Liabilities associated with the 
+Hilton Non-US Perk Plans related to PK Employees and Former PK Employees.
+
+(e) HGV Non-US Perquisites. Effective as of the Plan Effective Time, HGV 
+shall, or shall cause another member or members of the HGV Group to, 
+establish, adopt and implement, as applicable, one or more new perquisite 
+policies covering eligible HGV Employees (and any new Employees employed by 
+any member of the HGV Group after the Distribution Date) outside of the 
+United States, the terms and conditions of which shall be determined by the 
+HGV Compensation Committee (or its designee), taking into account the terms 
+and conditions of the corresponding Hilton Non-US Perk Plan. Effective as 
+of the Plan Effective Time, HGV shall, or shall cause another member or 
+members of the HGV Group to, Assume all Liabilities associated with the 
+Hilton Non-US Perk Plans related to HGV Employees and Former HGV Employees.
+
+11. CASH BONUS PLANS. (a) General. Effective as of the Plan Effective Time, 
+HLT shall, or shall cause another member or members of the HLT Group to, 
+Assume each cash bonus Plan sponsored or maintained by Hilton as of the 
+Cut-Off Date that is made available to certain Pre-Existing Hilton 
+Employees as of the Cut-Off Date, including, without limitation, the Hilton 
+2016 corporate and hotel operations (general managers and hotel management) 
+and hotel sales incentive Plans other than the 2016 Assumed HGV Plans (as 
+defined below) (such Plans, the Hilton Bonus Plans) and all Assets and 
+Liabilities with respect to the bonus amounts earned (or to be earned) 
+under the Hilton Bonus Plans based on the performance of Hilton for the 
+period beginning on January 1, 2016 and ending on December 31, 2016 with 
+respect to HLT Employees and Former Hilton Employees. Such bonus amounts, 
+if any, shall be paid, following the determination and certification by the 
+HLT Compensation Committee (or its designee), by a member of the HLT Group 
+in accordance with the terms and conditions of the applicable Hilton Bonus 
+Plan.
+
+(b) HGV Cash Bonus Plans. Effective as of the Plan Effective Time, HGV 
+shall, or shall cause another member or members of the HGV Group to, Assume 
+each cash bonus Plan sponsored or maintained by Vacations as of the Cut-Off 
+Date in respect of the 2016 fiscal year (the 2016 Assumed HGV Plans) and 
+all Assets and Liabilities with respect to bonus amounts earned under the 
+2016 Assumed HGV Plans based on the performance of the HGV
+ 
+25
+
+------------------------------------------------------------------------
+Group for the period commencing on January 1, 2016 and ending on December 
+31, 2016 (CY 2016) with respect to HGV Employees and Former HGV 
+Employees, as determined and certified by the HGV Compensation Committee 
+(or its designee). Such bonus amounts, if any, shall be paid by a member of 
+the HGV Group in accordance with the terms and conditions of the applicable 
+2016 Assumed HGV Plan.
+
+(c) 2016 PK and HGV Cash Bonuses. Effective as of the Plan Effective Time, 
+each of PK and HGV shall, or shall cause another member or members of the 
+PK Group and HGV Group, as applicable, to, Assume all Liabilities 
+associated with bonuses for CY 2016 under the Hilton Bonus Plans related to 
+PK Employees and HGV Employees, as applicable. Such bonus amounts, if any, 
+shall be paid, following the determination and certification by the HLT 
+Compensation Committee (or its designee), by a member of the PK Group or 
+the HGV Group, as applicable, in accordance with the terms and conditions 
+of the applicable Hilton Bonus Plan.
+
+12. EQUITY-BASED AWARDS. (a) General. Effective as of the Plan Effective 
+Time, HLT shall Assume each equity-based incentive plan sponsored or 
+maintained by Hilton as of the Cut-Off Date that is made available to 
+certain Pre-Existing Hilton Employees as of the Cut-Off Date, including, 
+without limitation, the HLT 2013 Omnibus Incentive Plan (the OIP) and all 
+Assets and Liabilities associated with such plans related to Former 
+Employees, HLT Employees, PK Employees and HGV Employees, whether incurred 
+prior to, on or following the Plan Effective Time. Following the Plan 
+Effective Time, no member of the PK Group or the HGV Group shall have any 
+Liabilities related to HLT Employees or Former Employees under such plans. 
+Employees who separate from service with Hilton prior to the Plan Effective 
+Time and whose awards are subject to continued vesting under the retirement 
+eligibility provisions of the OIP and the award agreements thereunder shall 
+be treated as HLT Employees regardless of their roles with Hilton prior to 
+the Plan Effective Time.
+
+(b) New PK and HGV Plans. (i) Effective not later than the Plan Effective 
+Time, PK shall have adopted (x) the Park Hotels & Resorts Inc. 2017 Omnibus 
+Incentive Plan (the PK OIP), which shall permit the issuance of 
+equity-based and cash-based incentive awards denominated in PK Common Stock 
+and (y) the Park Hotels & Resorts Inc. 2017 Stock Plan for Non-Employee 
+Directors, which shall permit the issuance of equity-based awards 
+denominated in PK Common Stock (the PK Director Plan). HLT shall cause 
+the PK OIP and the PK Director Plan to both be approved prior to the Plan 
+Effective Time by HLT, as PKs sole stockholder.
+
+(ii) Effective not later than the Plan Effective Time, HGV shall have 
+adopted (x) the Hilton Grand Vacations Inc. 2017 Omnibus Incentive Plan 
+(the HGV OIP), which shall permit the issuance of equity-based and 
+cash-based incentive awards denominated in HGV Common Stock and (y) the 
+Hilton Grand Vacations Inc. 2017 Stock Plan for Non-Employee Directors, 
+which shall permit the issuance of equity-based awards denominated in HGV 
+Common Stock (the HGV Director Plan). HLT shall cause the HGV OIP and the 
+HGV Director Plan to both be approved prior to the Plan Effective Time by 
+HLT, as HGVs sole stockholder.
+ 
+26
+
+------------------------------------------------------------------------
+(iii) No individual awards (other than as expressly contemplated below) 
+shall be granted under the PK OIP, the PK Director Plan, the HGV OIP or the 
+HGV Director Plan until after the Distribution Date with any such awards at 
+the discretion of the PK Board, the PK Compensation Committee, the HGV 
+Board or the HGV Compensation Committee, as applicable.
+
+(c) Treatment of Equity-Based Awards. (i) Equity-based awards granted under 
+the OIP based on HLT Common Stock held by HLT Employees, Former Employees, 
+HLT non-employee Board members and PK Employees who serve as General 
+Managers at Hilton-branded PK properties outside of the United States (PK 
+Non-US GMs) shall remain outstanding under the OIP and be adjusted, 
+effective as of the Distribution Date, in accordance with the terms of the 
+OIP in a manner as determined by the HLT Compensation Committee, to reflect 
+the impact of the Distribution, but shall otherwise remain subject to the 
+same general terms and conditions, including vesting schedule, as the 
+original awards.
+
+(ii) Equity-based awards granted under the OIP based on HLT Common Stock 
+held by PK Employees (other than PK Non-US GMs) shall be converted, 
+effective as of the Distribution Date, into awards under the PK OIP with 
+equivalent value based on, and settled in, PK Common Stock but shall 
+otherwise remain subject to the same general terms and conditions, 
+including vesting schedule, as the original awards, except as expressly 
+provided for below.
+
+(iii) Equity-based awards granted under the OIP based on HLT Common Stock 
+held by HGV Employees shall be converted, effective as of the Distribution 
+Date, into awards under the HGV OIP with equivalent value based on, and 
+settled in, HGV Common Stock but shall otherwise remain subject to the same 
+general terms and conditions, including vesting schedule, as the original 
+awards, except as expressly provided for below.
+
+(iv) Performance-based awards granted in 2014 under the OIP held by PK 
+Employees shall be converted, effective as of the Distribution Date, into 
+awards under the PK OIP with equivalent value based on, and settled in, PK 
+Common Stock but shall otherwise remain subject to the same general terms 
+and conditions, including vesting schedule, as the original awards. As soon 
+as practicable following the determination by the HLT Compensation 
+Committee as to whether and to what extent the performance conditions have 
+been satisfied with respect to such performance-based awards, HLT or 
+another member of the HLT Group shall notify PK or another member of the PK 
+Group of such determination.
+
+(v) Performance-based awards granted in 2014 under the OIP held by HGV 
+Employees shall be converted, effective as of the Distribution Date, into 
+awards under the HGV OIP with equivalent value based on, and settled in, 
+HGV Common Stock but shall otherwise remain subject to the same general 
+terms and conditions, including vesting schedule, as the original awards. 
+As soon as practicable following the determination by the HLT Compensation 
+Committee as to whether and to what extent the performance conditions have 
+been satisfied with respect to such performance-based awards, HLT or 
+another member of the HLT Group shall notify HGV or another member of the 
+HGV Group of such determination.
+ 
+27
+
+------------------------------------------------------------------------
+(vi) Performance-based awards granted in 2015 and 2016 under the OIP held 
+by HLT Employees, PK Employees and HGV Employees shall be converted into 
+time vesting awards, effective as of the Distribution Date, based on a 
+performance level determined by the HLT Compensation Committee and, subject 
+to continued employment, shall vest on the date that the applicable 
+performance period would have otherwise ended, be settled in shares of HLT 
+Common Stock, PK Common Stock or HGV Common Stock, as applicable, and 
+otherwise remain subject to the same general terms and conditions as the 
+original awards.
+
+(d) PK and HGV shall, or shall cause another member or members of the PK 
+Group or the HGV Group to, Assume all Liabilities related to any cash 
+long-term incentive awards granted under the OIP by HLT to PK Employees and 
+HGV Employees, respectively, whether incurred prior to, on or following the 
+Distribution Date. On and after the Distribution Date, no member of the HLT 
+Group shall have any Liabilities related thereto.
+
+(e) All of the adjustments and conversions described in this Section 12 
+shall be effected in accordance with Sections 424 and 409A of the Code, as 
+applicable.
+
+(f) The Parties shall use commercially reasonable efforts to maintain 
+effective registration statements with the SEC with respect to the awards 
+described in this Section 12, to the extent any such registration statement 
+is required by applicable Law.
+
+13. COLLECTIVE BARGAINING AGREEMENTS. (a) HLT Collective Bargaining 
+Agreements. HLT or another member or members of the HLT Group shall 
+expressly Assume all collective bargaining or other labor agreements which 
+relate to the HLT Retained Business, including, without limitation, those 
+so identified on Schedule 13(a) (such agreements, the HLT CBAs) and 
+associated Liabilities, in each case, effective as of the Distribution 
+Date. For each such HLT CBA in effect as of the Distribution Date, HLT or 
+another member or members of the HLT Group, as applicable, agrees to 
+recognize the union which is a party to each such HLT CBA as the exclusive 
+collective bargaining representative for the HLT Employees covered under 
+the terms of each such HLT CBA. PK shall, or shall cause another member or 
+members of the PK Group to, at the request of HLT, execute all Owners 
+Letters and take all other actions necessary for HLTs and/or PKs 
+compliance with any collective bargaining agreement or other labor 
+agreement identified on Schedule 13(a) or Schedule 13(c).
+
+(b) PK Collective Bargaining Agreements. PK or a member of the PK Group 
+shall expressly Assume all collective bargaining or other labor agreements 
+so identified on Schedule 13(b) (such agreements, the PK CBAs) and 
+associated Liabilities, in each case, effective as of the Distribution 
+Date. For each such PK CBA in effect as of the Distribution Date, PK or 
+another member or members of the PK Group agrees to recognize the union 
+which is a party to each such PK CBA as the exclusive collective bargaining 
+representative for the PK Employees covered under the terms of each such PK 
+CBA.
+
+(c) HGV Collective Bargaining Agreements. HGV or a member of the HGV Group 
+shall expressly Assume all collective bargaining or other labor agreements 
+so identified on Schedule 13(c) (such agreements, the HGV CBAs) and 
+associated Liabilities, in each case, effective as of the Distribution 
+Date. For each such HGV CBA in effect as of the Distribution Date, HGV or 
+another member or members of the HGV Group agrees to recognize the union
+ 
+28
+
+------------------------------------------------------------------------
+which is a party to each such HGV CBA as the exclusive collective 
+bargaining representative for the HGV Employees covered under the terms of 
+each such HGV CBA. HGV shall, or shall cause another member or members of 
+the HGV Group to, at the request of HLT, execute all Owners Letters and 
+take all other actions necessary to HLTs and/or HGVs compliance with any 
+collective bargaining agreement or other labor agreement identified on 
+Schedule 13(a) or Schedule 13(c).
+
+(d) EU Directive. Notwithstanding anything to the contrary in this Section 
+13, in countries in which the European Union Acquired Rights Directive 
+applies, collective bargaining agreements and any other agreements with 
+employee representatives shall continue to apply after the Distribution 
+Date to the extent and in the manner provided for by local Law.
+
+14. TRANSITION SERVICES. Each of HLT, PK and HGV and the members of their 
+respective Groups shall provide such transition services as required by the 
+Transition Services Agreement.
+
+15. ACCESS TO INFORMATION AND DATA EXCHANGE. (a) Provision of Corporate 
+Records. (i) Consistent with Section 8.3 of the Distribution Agreement, 
+upon the prior written request by PK or HGV for specific and identified 
+agreements, documents, books, records or files including, without 
+limitation, computer files, microfiche, tape recordings and photographs 
+(collectively, Records), relating to or affecting PK or HGV, as 
+applicable, HLT shall arrange, as soon as reasonably practicable following 
+the receipt of such request, for the provision of appropriate copies of 
+such Records (or the originals thereof if the Party making the request has 
+a reasonable need for such originals) in the possession of HLT or any of 
+its Subsidiaries.
+
+(ii) After the Distribution Date, upon the prior written request by HLT or 
+PK for specific and identified Records relating to or affecting HLT or PK, 
+as applicable, HGV shall arrange, as soon as practicable following the 
+receipt of such request, for the provision of appropriate copies of such 
+Records (or the originals thereof if the Party making the request has a 
+need for such originals) in the possession of HGV or any of its 
+Subsidiaries.
+
+(iii) After the Distribution Date, upon the prior written request by HLT or 
+HGV for specific and identified Records relating to or affecting HLT or 
+HGV, as applicable, PK shall arrange, as soon as practicable following the 
+receipt of such request, for the provision of appropriate copies of such 
+Records (or the originals thereof if the Party making the request has a 
+need for such originals) in the possession of PK or any of its 
+Subsidiaries.
+
+(b) Access to Information. (i) From and after the Distribution Date and 
+consistent with Section 8.3 of the Distribution Agreement, each of HLT, PK 
+and HGV shall afford to the other and its authorized accountants, counsel 
+and other designated representatives reasonable access during normal 
+business hours, subject to the appropriate restrictions for classified, 
+privileged or confidential information, to the personnel, properties, books 
+and Records of such Party and its Subsidiaries insofar as such access is 
+reasonably required by the other Party.
+ 
+29
+
+------------------------------------------------------------------------
+(ii) Without limiting the generality of the foregoing clause (i), except as 
+otherwise provided by applicable Law, each Party shall furnish, or shall 
+cause to be furnished to the other Parties, a list of all benefit plan 
+participants and employee data or information in its possession which is 
+necessary for such other Parties to maintain and implement any benefit plan 
+or arrangement covered by this Agreement, or to comply with the provisions 
+of this Agreement, and which is not otherwise readily available to such 
+other Party.
+
+(c) Reimbursement; Other Matters. (i) Except to the extent otherwise 
+specifically identified by the Distribution Agreement or any Ancillary 
+Agreement, a Party providing Records or access to information to the other 
+Party under this Section 15 shall be entitled to receive from the 
+recipient, upon the presentation of invoices therefore, payments for such 
+amounts, relating to supplies, disbursements and other out-of-pocket 
+expenses, as may be reasonably incurred in providing such Records or access 
+to information.
+
+(ii) The Parties shall comply with those document retention policies, cost 
+sharing arrangements, expense reimbursement procedures and request 
+procedures as shall be established and agreed to in writing by their 
+respective authorized officers on or prior to the Distribution Date in 
+respect of Records and related matters.
+
+(d) Confidentiality. Each of HLT, PK and HGV shall, or shall cause another 
+member or members of the HLT Group, the PK Group, and the HGV Group to, not 
+use or permit the use of (without the prior written consent of the other) 
+and shall hold, and shall cause its consultants and advisors to hold, in 
+strict confidence, all information concerning the other Parties in its 
+possession, its custody or under its control (except to the extent that (A) 
+such information has been in the public domain through no fault of such 
+Party, (B) such information has been later lawfully acquired from other 
+sources by such Party, or (C) as may be required under the USA Patriot Act) 
+to the extent such information (x) relates to the period up to the Plan 
+Effective Time, (y) relates to the Distribution Agreement or any Ancillary 
+Agreement or (z) is obtained in the course of performing services for the 
+other Party pursuant to the Distribution Agreement or any Ancillary 
+Agreement, and each Party shall not (without the prior written consent of 
+the other) otherwise release or disclose such information to any other 
+Person, except such Partys auditors and attorneys, unless compelled to 
+disclose such information by judicial or administrative process or unless 
+such disclosure is required by Law and such Party has used commercially 
+reasonable efforts to consult with the other affected Party or Parties 
+prior to such disclosure. To the extent that a Party is compelled by 
+judicial or administrative process to disclose such information under 
+circumstances in which any evidentiary privilege would be available, such 
+Party agrees to assert such privilege in good faith prior to making such 
+disclosure. Each of the Parties agrees to consult with each relevant other 
+Party in connection with any such judicial or administrative process, 
+including, without limitation, in determining whether any privilege is 
+available, and further agrees to allow each such relevant Party and its 
+counsel to participate in any hearing or other proceeding (including, 
+without limitation, any appeal of an initial order to disclose) in respect 
+of such disclosure and assertion of privilege. Notwithstanding anything to 
+the contrary contained herein, each Party shall be entitled to use 
+information disclosed pursuant to this Agreement to the extent reasonably 
+necessary for the administration of its employee benefit plans in 
+accordance with applicable Law.
+ 
+30
+
+------------------------------------------------------------------------
+(e) Audit Rights with Respect to Information Provided. Each of the Parties 
+and their duly authorized representatives shall have the right to conduct 
+reasonable audits with respect to all information provided to it by the 
+other Party. The Parties shall cooperate to determine the procedures and 
+guidelines for conducting audits under this Section 15(e), which shall 
+require reasonable advance notice by the auditing Party. The auditing Party 
+shall have the right to make copies of any records at its expense, subject 
+to applicable Law.
+
+16. NOTICES; COOPERATION. Notwithstanding anything in this Agreement to the 
+contrary, all actions contemplated herein with respect to benefit plans 
+which are to be consummated pursuant to this Agreement shall be subject to 
+such notices to, and/or approvals by, the Internal Revenue Service (or 
+other Governmental Entity) as are required or deemed appropriate by such 
+benefit plans sponsor. Each of HLT, PK and HGV agrees to use its 
+commercially reasonable efforts to cause all such notices and/or approvals 
+to be filed or obtained, as the case may be, in a timely fashion. Each 
+Party shall reasonably cooperate with the other Parties with respect to any 
+Governmental Approvals, employee notices or any other actions reasonably 
+necessary to maintain and implement the employee benefit arrangements 
+covered by this Agreement.
+
+17. FURTHER ASSURANCES. From time to time, as and when reasonably requested 
+by any other Party, each Party shall execute and deliver, or cause to be 
+executed and delivered, all such documents and instruments and shall take, 
+or cause to be taken, all such further or other actions as such other Party 
+may reasonably deem necessary or desirable to effect the purposes of this 
+Agreement and the transactions contemplated hereunder.
+
+18. INDEMNIFICATION. (a) Indemnification by HLT. Except as otherwise 
+specifically set forth in this Agreement or in Article VII of the 
+Distribution Agreement, following the Plan Effective Time, HLT shall, and 
+shall cause the other members of the HLT Group to, indemnify, defend and 
+hold harmless the Ownership Indemnitees and the Timeshare Indemnitees from 
+and against any and all Indemnifiable Losses of the Ownership Indemnitees 
+and the Timeshare Indemnitees, respectively, arising out of, by reason of 
+or otherwise in connection with (i) any HLT Plan, (ii) any and all 
+Liabilities relating primarily to, arising primarily out of or resulting 
+primarily from the operation or conduct of any US DB Plan, UK DB Plan or 
+Terminated Hilton DB Plan or any individual identified as an HLT Employee 
+(and any new Employees employed by any member of the HLT Group after the 
+Distribution Date), and (iii) the breach by HLT of any provision of this 
+Agreement. In furtherance of the foregoing, HLT and OpCo shall be jointly 
+and severally liable to any of the Ownership Indemnitees for any and all 
+Indemnifiable Losses of the Ownership Indemnitees arising out of, by reason 
+of or otherwise in connection with the foregoing.
+
+(b) Indemnification by PK. Except as otherwise specifically set forth in 
+this Agreement or in Article VII of the Distribution Agreement, following 
+the Plan Effective Time, PK shall, and shall cause the other members of the 
+PK Group to, indemnify, defend and hold harmless the Managing and 
+Franchising Indemnitees and the Timeshare Indemnitees from and against any 
+and all Indemnifiable Losses of the Management and Franchising Indemnitees 
+and the Timeshare Indemnitees, respectively, arising out of, by reason of 
+or otherwise in connection with (i) any PK Plan, (ii) any and all 
+Liabilities relating primarily to, arising primarily out of or resulting 
+primarily from the operation or conduct of any Plan sponsored or maintained 
+by any
+ 
+31
+
+------------------------------------------------------------------------
+member of the PK Group prior to the Distribution Date primarily for the 
+benefit of PK Employees and Former PK Employees or any individual 
+identified as a PK Employee (and any new Employees employed by any member 
+of the PK Group after the Distribution Date), or (iii) the breach by PK of 
+any provision of this Agreement. In furtherance of the foregoing, any and 
+all payments by PK or any other members of the PK Group in respect of 
+Indemnifiable Losses of the Managing and Franchising Indemnitees arising 
+out of, by reason of or otherwise in connection with the foregoing shall be 
+made directly to OpCo or one of its Subsidiaries.
+
+(c) Indemnification by HGV. Except as otherwise specifically set forth in 
+this Agreement or in Article VII of the Distribution Agreement, following 
+the Plan Effective Time, HGV shall, and shall cause the other members of 
+the HGV Group to, indemnify, defend and hold harmless the Managing and 
+Franchising Indemnitees and the Ownership Indemnitees from and against any 
+and all Indemnifiable Losses of the Managing and Franchising Indemnitees 
+and the Ownership Indemnitees, respectively, arising out of, by reason of 
+or otherwise in connection with (i) any HGV Plan, (ii) any and all 
+Liabilities relating primarily to, arising primarily out of or resulting 
+primarily from the operation or conduct of any Plan sponsored or maintained 
+by Vacations prior to the Distribution Date or any individual identified as 
+a HGV Employee (and any new Employees employed by any member of the HGV 
+Group after the Distribution Date), or (iii) the breach by HGV of any 
+provision of this Agreement.
+
+(d) Limitations on Indemnification Obligations. (i) The amount that any 
+Party (an Indemnifying Party) is or may be required to pay to any other 
+Person (an Indemnitee) pursuant to paragraphs (a), (b) or (c) of this 
+Section 18, as applicable, shall be reduced (retroactively or 
+prospectively) by any Insurance Proceeds or other amounts actually 
+recovered by or on behalf of such Indemnitee in respect of the related 
+Indemnifiable Loss. If an Indemnitee shall have received the payment 
+required by this Agreement from an Indemnifying Party in respect of an 
+Indemnifiable Loss and shall subsequently actually receive Insurance 
+Proceeds or other amounts in respect of such Indemnifiable Loss, then such 
+Indemnitee shall pay to such Indemnifying Party a sum equal to the amount 
+of such Insurance Proceeds or other amounts actually received, up to the 
+aggregate amount of any payments received from such Indemnifying Party 
+pursuant to this Agreement in respect of such Indemnifiable Loss.
+
+(ii) An Indemnifying Party shall not be required to indemnify or pay an 
+Indemnitee pursuant to paragraphs (a), (b) or (c) of this Section 18, as 
+applicable, for any Indemnifiable Losses relating to or associated with any 
+Plan of the Indemnifying Party arising out of, by reason of or otherwise in 
+connection with any act or failure to act on the part of such Indemnitee 
+(including for this purpose any Subsidiaries, businesses or operations 
+which become associated with the Indemnitee by virtue of or in connection 
+with the Distribution) with respect to or in connection with such Plan, 
+including, without limitation, any such act or failure to act in connection 
+with the administration by the Indemnitee of such Plan.
+
+(e) Survival of Indemnities. The obligations of HLT, PK and HGV under this 
+Section 18 shall survive the sale or other Transfer by any of them of any 
+assets or businesses or the assignment by any of them of any Liabilities, 
+with respect to any Indemnifiable Loss of the other related to such assets, 
+businesses or Liabilities.
+ 
+32
+
+------------------------------------------------------------------------
+(f) REIT Status Considerations. The principles of Section 7.9(c) of the 
+Distribution Agreement shall apply to indemnification payments due under 
+this Agreement.
+
+19. DISPUTE RESOLUTION.
+
+(a) Negotiation. In the event of a dispute arising out of or in connection 
+with this Agreement (including its interpretation, performance or validity) 
+(collectively, Agreement Disputes), the general counsels of the relevant 
+Parties (or such other individuals designated thereby) shall negotiate for 
+a maximum of 21 days (or a mutually-agreed extension) (such period of days, 
+the Negotiation Period) from the time of receipt by a Party of written 
+notice of such Agreement Dispute. The relevant Parties shall not assert the 
+defenses of statute of limitations and laches for any delays arising due to 
+the procedures in Section 19(a) or Section 19(b).
+
+(b) Mediation. If the Parties have not timely resolved the Agreement 
+Dispute under Section 19(a), the Parties agree to submit the Agreement 
+Dispute to mediation no later than 10 days following the end of the 
+Negotiation Period, with such mediation conducted in accordance with the 
+Mediation Procedure of the International Institute for Conflict Prevention 
+and Resolution (CPR). The Parties to the Agreement Dispute agree to bear 
+equally the CPR and mediators costs. The Parties agree to participate in 
+good faith in the mediation for a maximum of 14 days (or a mutually agreed 
+extension). If the Parties have not timely resolved the Agreement Dispute 
+pursuant to this Section 19(b), either Party may then bring an action in 
+accordance with Sections 21(r) and 21(s) herein.
+
+(c ) Confidentiality. All information and communications between the 
+Parties relating to an Agreement Dispute and/or under the procedures in 
+Sections 19(a) and 19(b) shall be considered Confidential Information for 
+which the provisions of Section 15(d) herein apply.
+
+(d ) Unless otherwise agreed in writing, the Parties shall continue to 
+perform under this Agreement during the course of dispute resolution under 
+this Section 19 with respect to all matters not subject thereto.
+
+20. PAYROLL REPORTING AND TAX WITHHOLDING. (a) Form W-2 Reporting. The 
+Parties agree to use commercially reasonable efforts to follow the 
+alternate procedure for United States employment tax withholding as 
+provided in Section 5 of Rev. Proc. 2004-53, I.R.B. 2004-35.
+
+(b) Garnishments, Tax Levies, Child Support orders and Wage Assignments. 
+With respect to Employees with garnishments, tax levies, child support 
+orders and wage assignments in effect with Hilton as of the Cut-Off Date, 
+PK and HGV, as the successor employers to each such PK Employee and HGV 
+Employee, as applicable, shall, or shall cause another member of the PK 
+Group or the HGV Group, as applicable, to honor such payroll deduction 
+authorizations and shall continue to make payroll deductions and payments 
+to the authorized payee, as specified by the court or governmental order 
+which was filed with Hilton. HLT shall, or shall cause another member of 
+the HLT Group to provide each of PK and HGV with a list of the PK Employees 
+and HGV Employees who have garnishments, tax levies, child support orders 
+and wage assignments in effect as of the Cut-Off Date.
+ 
+33
+
+------------------------------------------------------------------------
+(c) Authorization for Payroll Deductions. Unless otherwise prohibited by 
+this Agreement, another Ancillary Agreement, a Plan document or applicable 
+Law, with respect to Employees with authorizations for payroll deductions 
+and direct deposits in effect with Hilton as of the Cut-Off Date, PK and 
+HGV, as the successor employers, shall, or shall cause another member or 
+members of the PK Group and the HGV Group, as applicable, to honor such 
+payroll deduction authorizations relating to each PK Employee and HGV 
+Employee, as applicable, and shall not require that such PK Employee or HGV 
+Employee, as applicable, submit a new authorization to the extent that the 
+type of deduction by PK or HGV, as applicable, does not differ from that 
+made by Hilton.
+
+21. MISCELLANEOUS. (a) Complete Agreement; Construction. This Agreement, 
+including any schedules hereto and the Distribution Agreement, shall 
+constitute the entire agreement between the Parties with respect to the 
+subject matter hereof and shall supersede all previous negotiations, 
+commitments, course of dealings and writings with respect to such subject 
+matter. In the event and to the extent that there shall be a conflict 
+between the provisions of this Agreement and the provisions of the 
+Distribution Agreement, this Agreement shall control unless specifically 
+stated otherwise in this Agreement. In the event and to the extent that 
+there shall be a conflict between the provisions of this Agreement and the 
+provisions of any other Ancillary Agreement, this Agreement shall control 
+unless specifically stated otherwise in this Agreement.
+
+(b) Data Privacy. The Parties agree that any applicable data privacy Laws 
+and any other obligations of the HLT Group, PK Group and the HGV Group to 
+maintain the confidentiality of any employee information or information 
+held by any Plan in accordance with applicable Law shall govern the 
+disclosure of employee information among the Parties under this Agreement. 
+The Parties agree to use commercially reasonable efforts to have in place 
+appropriate technical and organizational security measures to protect the 
+personal data of the HLT Employees, PK Employees and HGV Employees.
+
+(c) Ancillary Agreements. Except as expressly set forth herein, this 
+Agreement is not intended to address, and should not be interpreted to 
+address, the matters specifically and expressly covered by any other 
+Ancillary Agreement.
+
+(d) Counterparts. This Agreement may be executed in more than one 
+counterpart, all of which shall be considered one and the same agreement, 
+and shall become effective when one or more such counterparts have been 
+signed by each of the Parties and delivered to the other Parties.
+
+(e) Survival of Agreements. Except as otherwise contemplated by this 
+Agreement, all covenants and agreements of the Parties contained in this 
+Agreement shall survive the Plan Effective Time and remain in full force 
+and effect in accordance with their applicable terms.
+
+(f) Expenses. All out-of-pocket fees and expenses incurred, or to be 
+incurred and directly related to the transactions contemplated hereby shall 
+be paid as described in Section 11.5 of the Distribution Agreement.
+ 
+34
+
+------------------------------------------------------------------------
+(g) Notices. All notices, requests, claims, demands and other 
+communications under this Agreement shall be made as described in Section 
+11.6 of the Distribution Agreement.
+
+(h) Consents. Any consent required or permitted to be given by any Party to 
+the other Parties under this Agreement shall be in writing and signed by 
+the Party giving such consent and shall be effective only against such 
+Party (and its Group).
+
+(i) Assignment. This Agreement shall not be assignable, in whole or in 
+part, directly or indirectly, by any Party without the prior written 
+consent of the other Parties (not to be unreasonably withheld or delayed), 
+and any attempt to assign any rights or obligations arising under this 
+Agreement without such consent shall be void. Notwithstanding the 
+foregoing, this Agreement shall be assignable in whole in connection with a 
+merger or consolidation or the sale of all or substantially all the assets 
+of a Party so long as the resulting, surviving or transferee Business 
+Entity assumes all the obligations of the relevant Party by operation of 
+Law or pursuant to an agreement in form and substance reasonably 
+satisfactory to the other Parties. No assignment permitted by this Section 
+21(i) shall release the assigning Party from liability for the full 
+performance of its obligations under this Agreement.
+
+(j) Successors and Assigns. The provisions of this Agreement and the 
+obligations and rights hereunder shall be binding upon, inure to the 
+benefit of and be enforceable by (and against) the Parties and their 
+respective successors and permitted transferees and assigns.
+
+(k) Termination and Amendment. This Agreement may be terminated, amended, 
+or modified and the Distribution may be amended, modified or abandoned at 
+any time prior to the Effective Time by and in the sole discretion of HLT 
+without the approval of PK, HGV or the stockholders of HLT. In the event of 
+such termination, no Party shall have any Liability of any kind to any 
+other Party or any other Person. After the Effective Time, this Agreement 
+may not be terminated, modified or amended except by an agreement in 
+writing signed by HLT, PK and HGV.
+
+(l) Payment Terms. Except as expressly provided to the contrary in this 
+Agreement or the Transition Services Agreement, any amount to be paid or 
+reimbursed by any Party (and/or a member of such Partys Group), on the one 
+hand, to any other Party or Parties (and/or a member of such Partys or 
+Parties Group), on the other hand, under this Agreement shall be paid or 
+reimbursed hereunder within sixty (60) days after presentation of an 
+invoice or a written demand therefor and setting forth, or accompanied by, 
+reasonable documentation or other reasonable explanation supporting such 
+amount. Except as expressly provided to the contrary in this Agreement, any 
+amount not paid when due pursuant to this Agreement (and any amount billed 
+or otherwise invoiced or demanded and properly payable that is not paid 
+within sixty (60) days of such bill, invoice or other demand) shall bear 
+interest at a rate per annum equal to LIBOR, from time to time in effect, 
+calculated for the actual number of days elapsed, accrued from the date on 
+which such payment was due up to the date of the actual receipt of payment. 
+Except as expressly provided to the contrary in this Agreement, a Party (or 
+any member of a Partys Group) may direct that any payment owed such Party 
+(or member of such Partys Group) hereunder be paid directly to a member of 
+the same Group.
+ 
+35
+
+------------------------------------------------------------------------
+(m) No Circumvention. The Parties agree not to directly or indirectly take 
+any actions, act in concert with any Person who takes an action, or cause 
+or allow any member of any such Partys Group to take any actions 
+(including the failure to take a reasonable action) such that the resulting 
+effect is to materially undermine the effectiveness of any of the 
+provisions of this Agreement (including adversely affecting the rights or 
+ability of any Party to successfully pursue indemnification or payment 
+pursuant to Section 18).
+
+(n) Subsidiaries. Each of the Parties shall cause to be performed, and 
+hereby guarantees the performance of, all actions, agreements and 
+obligations set forth herein to be performed by any Subsidiary of such 
+Party or by any entity that becomes a Subsidiary of such Party at and after 
+the Plan Effective Time, to the extent such Subsidiary remains a Subsidiary 
+of the applicable Party.
+
+(o) Third Party Beneficiaries. Except as provided in Section 18 relating to 
+Indemnitees, this Agreement is solely for the benefit of the Parties and 
+should not be deemed to confer upon third parties any remedy, claim, 
+Liability, reimbursement, claim of action or other right in excess of those 
+existing without reference to this Agreement.
+
+(p) Title and Headings. Titles and headings to sections herein are inserted 
+for the convenience of reference only and are not intended to be a part of 
+or to affect the meaning or interpretation of this Agreement.
+
+(q) Governing Law. This Agreement shall be governed by and construed in 
+accordance with the Laws of the State of Delaware without reference to any 
+choice-of-law or conflict of law principles that would result in the 
+applicable of Laws of a different jurisdiction.
+
+(r) Consent to Jurisdiction. Each Party irrevocably submits to the 
+exclusive jurisdiction of (a) the Court of Chancery of the State of 
+Delaware or (b) if such court does not have subject matter jurisdiction, 
+any other state or federal court located within the County of New Castle in 
+the State of Delaware, to resolve any Agreement Dispute that is not 
+resolved pursuant to Sections 19(a) or 19(b). Any judgment of such court 
+may be enforced by any court of competent jurisdiction. Further, 
+notwithstanding Sections 19(a) or 19(b), either Party may apply to the 
+above courts set forth in Section 21(r)(a) and 21(r)(b) above for a 
+temporary restraining order or similar emergency relief during the process 
+set forth in Sections 19(a) and 19(b). Each of the Parties agrees that 
+service by U.S. registered mail to such Partys respective address set 
+forth above shall be effective service of process for any of the above 
+Actions and irrevocably and unconditionally waives any objection to the 
+laying of venue of any Action in accordance with this Section 21(r). 
+Nothing in this Section 21(r) shall limit or restrict the Parties from 
+agreeing to arbitrate any Agreement Dispute pursuant to mutually-agreed 
+procedures.
+
+(s) Waiver of Jury Trial. EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST 
+EXTENT PERMITTED BY APPLICABLE LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY 
+WITH RESPECT TO ANY ACTION ARISING OUT OF OR IN CONNECTION WITH THIS 
+AGREEMENT, INCLUDING ANY AGREEMENT DISPUTE.
+ 
+36
+
+------------------------------------------------------------------------
+(t) Severability. In the event any one or more of the provisions contained 
+in this Agreement should be held invalid, illegal or unenforceable in any 
+respect, the validity, legality and enforceability of the remaining 
+provisions contained herein and therein shall not in any way be affected or 
+impaired thereby. The Parties shall endeavor in good-faith negotiations to 
+replace the invalid, illegal or unenforceable provisions with valid 
+provisions, the economic effect of which comes as close as possible to that 
+of the invalid, illegal or unenforceable provisions.
+
+(u) Force Majeure. No Party (or any Person acting on its behalf) shall have 
+any Liability for failure to fulfill any obligation (other than a payment 
+obligation) under this Agreement, so long as and to the extent to which the 
+fulfillment of such obligation is prevented, frustrated, hindered or 
+delayed as a consequence of circumstances of Force Majeure. A Party 
+claiming the benefit of this provision shall, as soon as reasonably 
+practicable after the occurrence of any such event: (i) notify the other 
+applicable Parties of the nature and extent of any such Force Majeure 
+condition and (ii) use due diligence to remove any such causes and resume 
+performance under this Agreement as soon as feasible.
+
+(v) Interpretation. The Parties have participated jointly in the 
+negotiation and drafting of this Agreement. This Agreement shall be 
+construed without regard to any presumption or rule requiring construction 
+or interpretation against the Party drafting or causing any instrument to 
+be drafted.
+
+(w) No Duplication; No Double Recovery. Nothing in this Agreement is 
+intended to confer to or impose upon any Party a duplicative right, 
+entitlement, obligation or recovery with respect to any matter arising out 
+of the same facts and circumstances.
+
+(x) No Waiver. No failure to exercise and no delay in exercising, on the 
+part of any Party, any right, remedy, power or privilege hereunder shall 
+operate as a waiver hereof or thereof; nor shall any single or partial 
+exercise of any right, remedy, power or privilege hereunder or thereunder 
+preclude any other or further exercise thereof or the exercise of any other 
+right, remedy, power or privilege.
+
+(y) No Admission of Liability. The allocation of Assets and Liabilities 
+herein is solely for the purpose of allocating such Assets and Liabilities 
+among the HLT Group, the PK Group and the HGV Group and is not intended as 
+an admission of liability or responsibility for any alleged Liabilities 
+vis-a-vis any third party, including with respect to the Liabilities of any 
+non-wholly owned Subsidiary of HLT, PK or HGV.
+
+(z) Effect if Distribution Does Not Occur. If the Distribution does not 
+occur, then all actions that are, under this Agreement, to be take or occur 
+effective as of the Distribution, or otherwise in connection with the 
+Distribution, shall not be taken or occur except to the extent specifically 
+agreed by the Parties.
+
+(aa) Relationship of Parties. Nothing in this Agreement shall be deemed or 
+construed by the Parties or any third party as creating the relationship of 
+principal and agent, partnership or joint venture between the Parties, it 
+being understood and agreed that no provision contained herein, and no act 
+of the Parties, shall be deemed to create any relationship between the 
+Parties other than the relationship set forth herein.
+ 
+37
+
+------------------------------------------------------------------------
+[Signature Page Follows]
+ 
+38
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly 
+executed as of the day and year first above written.
+ 
+HILTON WORLDWIDE HOLDINGS INC.
+By: 	  	 
+Name: 	  	 
+Title: 	  	 
+PARK HOTELS & RESORTS INC.
+By: 	  	 
+Name: 	  	 
+Title: 	  	 
+HILTON GRAND VACATIONS INC.
+By: 	  	 
+Name: 	  	 
+HILTON DOMESTIC OPERATING COMPANY INC. (solely for purposes of Section 18)
+By: 	  	 
+Name: 	  	 
+
+------------------------------------------------------------------------
+FINAL
+
+SCHEDULE 4(a)(i)
+HLT US DEFINED BENEFIT PENSION PLANS
+ 
+1. 	Hilton Hotels Retirement Plan
+ 
+2. 	Hilton International Cash Balance Plan
+ 
+1
+
+------------------------------------------------------------------------
+SCHEDULE 4(b)(i)
+HLT NON-US DEFINED BENEFIT PENSION PLANS
+ 
+1. 	Hilton UK Pension Plan
+ 
+  	a. 	Guarantee, dated May 18, 2015, by Hilton Worldwide Manage Limited 
+for Hilton UK Trustee Limited as trustee of the Hilton UK Pension
+ 
+  	b. 	Hilton UK Pension Plan Funding Support Plan
+ 
+2. 	Hilton International Wien GmbH
+ 
+3. 	Delta Lloyd Life Defined Benefits Plan
+ 
+4. 	Hilton UK Hotels Limited Unfunded Retirement Benefit Scheme
+ 
+5. 	Germany GmbH mit Diensteintritt ab dem 01.05.1988
+ 
+6. 	Germany GmbH mit Diensteintritt bis zum 30.04.1988
+ 
+7. 	Hilton International Plan (Hilton International Retirement Plan 
+section)
+ 
+8. 	Hilton Hotels Egypt End of Service Plan for General Managers and Senior 
+Regional SpecialistsEgypt
+ 
+9. 	Hilton Hotels in Egypt End of Service Plan (for non-Senior Managers)
+ 
+10. 	Conrad Cairo End of Service Plan
+ 
+11. 	Bituah Pensioni
+ 
+12. 	Japan Defined Benefit Plan
+ 
+13. 	Stichting Pension Fund (the A Plan)
+ 
+14. 	Statutory Old Age and Collectively Bargained Pension Benefits
+ 
+15. 	Trinidad Hilton Limited Pension Fund
+ 
+16. 	Hilton Trinidad Plan (unionized)
+ 
+17. 	Switzerland Defined Benefit Plan
+ 
+2
+
+------------------------------------------------------------------------
+SCHEDULE 4(b)(ii)(A)
+PK NON-US DEFINED BENEFIT PENSION PLANS
+ 
+1. 	Stichting Pension Fund (the A Plan)
+ 
+3
+
+------------------------------------------------------------------------
+SCHEDULE 4(b)(iii)(A)
+HGV NON-US DEFINED BENEFIT PENSION PLANS
+ 
+1. 	Japan Social Pension Insurance
+ 
+4
+
+------------------------------------------------------------------------
+SCHEDULE 5(a)(i)
+HLT US DEFINED CONTRIBUTION PENSION PLANS
+ 
+1. 	Hilton 401(k) Plan
+ 
+2. 	Hilton Resorts 401(k) Plan
+ 
+3. 	Hilton Puerto Rico Retirement Savings Plan
+ 
+5
+
+------------------------------------------------------------------------
+SCHEDULE 5(b)(i)
+HLT NON-US DEFINED CONTRIBUTION PENSION PLANS
+ 
+1. 	Hilton Worldwide UK Retirement Plan
+ 
+2. 	UK Auto-Enrollment Plan
+ 
+3. 	Alexander Forbes Retirement Fund
+ 
+4. 	Stichting Pension Fund (B, C and Nettopensioen Plans)
+ 
+5. 	HOGARENTE through the Hotel and Restaurant Association
+ 
+6. 	Pensioenfond Horeca & Catering
+ 
+7. 	DEBEKA/MIKU (for non-Nuremburg employees)
+ 
+8. 	Personal Retirement Savings Accounts
+ 
+9. 	Hilton International Plan (Hilton Retirement Capital Plan section)
+ 
+10. 	Hilton Worldwide International Retirement Plan
+ 
+11. 	Group Registered Retirement Savings Plan
+ 
+12. 	Conrad International Retirement Plan
+ 
+13. 	Bituah Pensioni
+ 
+14. 	Hilton Nairobi Ltd. Staff Pension Scheme (and Trust)
+ 
+15. 	Hilton Addis Ababa Provident Fund
+ 
+16. 	Australasia  Hilton Australia Retirement Plan (HARP)
+ 
+17. 	Zurich Hilton Ireland Management Pension Plan 60515438
+ 
+18. 	Delta Lloyd Defined Contribution Plan
+ 
+19. 	Japan Defined Contribution Plan
+ 
+6
+
+------------------------------------------------------------------------
+SCHEDULE 5(b)(ii)(B)
+PK ASSUMED AND NEW NON-US DEFINED CONTRIBUTION PENSION PLANS
+ 
+1. 	Alexander Forbes Retirement Fund
+ 
+2. 	Personal Retirement Savings Accounts
+ 
+3. 	Stichting Pension Fund (B and Nettopensioen Plans)
+ 
+4. 	Debeka Lebensversicherung AG-Debeka
+ 
+5. 	HOGARENTE through the Hotel and Restaurant Association
+ 
+6. 	Pensioenfond Horeca & Catering
+ 
+7
+
+------------------------------------------------------------------------
+SCHEDULE 5(b)(iii)(A)
+HGV ASSUMED AND NEW NON-US DEFINED CONTRIBUTION PENSION PLANS
+ 
+1. 	Japan Defined Contribution Retirement Plan
+ 
+8
+
+------------------------------------------------------------------------
+SCHEDULE 6(a)
+HLT US NON-QUALIFIED DEFERRED COMPENSATION PLANS
+ 
+1. 	Hilton Hotels Executive Deferred Compensation Plan (pre-2005)
+ 
+2. 	Hilton Supplemental Executive Retirement Plan
+ 
+3. 	Hilton Hotels Retirement Benefit Replacement Plan
+ 
+4. 	Promus Hotel Corporation Executive Deferred Compensation Plan
+ 
+5. 	Promus Hotel Capital Accumulation Plan for Executives
+ 
+6. 	Promus Hotel Corporation Deferred Compensation Plan
+ 
+7. 	Hilton International Co. Deferred Compensation Plan 2005 for Management 
+Employees in US and Puerto Rico
+ 
+8. 	Hilton 2005 Executive Deferred Compensation Plan
+ 
+9. 	Deferred Compensation Trust Between Hilton Domestic Operating Company 
+Inc. and Wells Fargo Bank, N.A.
+ 
+10. 	Various Individual Arrangements
+ 
+9
+
+------------------------------------------------------------------------
+SCHEDULE 7(a)(i)
+HLT US HEALTH & WELFARE PLANS
+ 
+1. 	Hilton Health & Welfare Plan
+ 
+2. 	Salary Continuation Plan (SALCO)
+ 
+3. 	Voluntary Insurance Benefits
+ 
+4. 	Commuter Benefits
+ 
+5. 	Paid Maternity Leave Program
+ 
+6. 	Paid Parental Leave Program
+ 
+7. 	Educational Assistance Program
+ 
+8. 	Retiree Health Access Plan
+ 
+9. 	Washington Hilton Medical Plan
+ 
+10. 	Embassy Suites Washington, D.C. Convention Center Medical Plan
+ 
+11. 	Hilton-McLean Welfare Benefits Plan
+ 
+12. 	DoubleTree-Crystal City Welfare Benefits Plan
+ 
+13. 	Capital Hilton Medical Plan
+ 
+14. 	Hilton Worldwide, Inc. Texas Occupational Injury Benefit Plan
+ 
+10
+
+------------------------------------------------------------------------
+SCHEDULE 7(b)(i)(A)
+HLT NON-US HEALTH AND WELFARE PLANS
+ 
+1. 	UK Group Medical Insurance
+ 
+2. 	UK Voluntary Dental Coverage
+ 
+3. 	UK Employee Assistance Program
+ 
+4. 	UK Long-Term Disability Insurance
+ 
+5. 	UK Life Insurance
+ 
+6. 	UK Business Travel Insurance
+ 
+7. 	Hilton Hotels Ireland Ltd. Life Assurance Plan
+ 
+8. 	Long-Term Disability Insurance
+ 
+9. 	UK Cash Medical Plan Insurance
+ 
+10. 	Group Term Life, Total Permanent Disability Insurance
+ 
+11. 	Group Personal Accident Insurance Plan
+ 
+12. 	Group Hospitalization, Major Medical Insurance, Outpatient, Dental 
+Plans
+ 
+13. 	Hilton International Retiree Medical Plan and Trust
+ 
+11
+
+------------------------------------------------------------------------
+SCHEDULE 7(b)(ii)(A)
+PK CONTINUED PARTICIPATION NON-US HEALTH AND WELFARE PLANS
+ 
+1. 	UK Voluntary Dental Coverage
+ 
+2. 	UK Employee Assistance Program
+ 
+3. 	UK Long-Term Disability Insurance
+ 
+4. 	UK Cash Medical Plan Insurance
+ 
+12
+
+------------------------------------------------------------------------
+SCHEDULE 7(b)(ii)(B)
+PK NEW NON-US HEALTH AND WELFARE PLANS
+ 
+1. 	UK Group Medical Insurance
+ 
+2. 	Discovery Health Medical Scheme (and associated Medical Savings 
+Accounts)
+ 
+3. 	Life Insurance
+ 
+4. 	Disability Income Benefit
+ 
+5. 	Seguro Saude Empresarial
+ 
+6. 	Seguro de Vida Em Grupo
+ 
+7. 	Seguro Coletivo Empresarial de Assistencia a Saude Na Segmentacao 
+Odontologico
+ 
+8. 	Long-Term Disability Insurance
+ 
+9. 	UK Life Insurance
+ 
+10. 	Conrad Dublin Life Assurance Plan
+ 
+13
+
+------------------------------------------------------------------------
+SCHEDULE 7(b)(iii)(A)
+HGV CONTINUED PARTICIPATION NON-US HEALTH AND WELFARE PLANS
+ 
+1. 	UK Voluntary Dental Coverage
+ 
+2. 	UK Employee Assistance Program
+ 
+3. 	UK Long-Term Disability Insurance
+ 
+4. 	UK Cash Medical Plan Insurance
+ 
+5. 	Singapore Group Term Life, Total Permanent Disability Insurance
+ 
+6. 	Singapore Group Personal Accident Insurance Plan
+ 
+7. 	Singapore Group Hospitalization, Major Medical Insurance, Outpatient, 
+Dental Plans
+ 
+14
+
+------------------------------------------------------------------------
+SCHEDULE 8(a)(i)
+HLT US SEVERANCE PLANS
+ 
+1. 	Hilton Worldwide Holdings, Inc. 2013 Executive Severance Plan
+ 
+2. 	Hilton Worldwide Holdings, Inc. Severance Plan for General Managers, 
+Directors, Senior Directors and Vice Presidents
+ 
+3. 	Hilton Worldwide Holdings, Inc. Severance Plan for Non-Exempt and 
+Certain Exempt Employees
+ 
+4. 	Agreement dated April 2015, by and between, the Waldorf=Astoria Hotel 
+and the New York Hotel and Motel Trades Council, AFL-CIO
+ 
+5. 	Side Letter to the Agreement dated April 2015, by and between, the 
+Waldorf=Astoria Hotel and the New York Hotel and Motel Trades Council, 
+AFL-CIO
+ 
+15
+
+------------------------------------------------------------------------
+SCHEDULE 13(a)
+HLT COLLECTIVE BARGAINING AGREEMENTS
+ 
+1. 	Collective Bargaining Agreement by and between Unite Here, Local 7 & 
+International Union of Operating Engineers, AFL-CIO, Local 37 and Hilton 
+Management, LLC d/b/a Hilton Baltimore (February 1, 2012  March 31, 2019)
+ 
+2. 	Collective Bargaining Agreement between Doubletree by Hilton San Jose 
+and UNITE HERE! Local 19 International Union (July 1, 2011  November 30, 
+2017)
+ 
+3. 	Collective Bargaining Agreement between Hilton Rosemont and Unite Here 
+Local 450 (Effective November 1, 2015  October 31, 2020)
+ 
+4. 	Agreement between Waldorf-Astoria Management, LLC, as Operator of the 
+Arizona Biltmore and The International Union of Operating Engineers Local 
+No, 428, AFL-CIO (Term: March 16. 2016  March 16, 2019)
+ 
+5. 	Collective Bargaining Agreement between Hotel Association of New York 
+City, Inc. and New York Hotel and Motel Trades Council, AFL-CIO (extended 
+by memorandum of agreement through June 30, 2026)
+ 
+6. 	Plaza Collective Bargaining Agreement between UNITE HERE Local 610 and 
+Hilton Worldwide International Puerto Rico, LLC d/b/a Condado Plaza Hilton 
+(2016-2018)
+ 
+7. 	Unite HERE Local 610 and Hilton International Manage LLC d/b/a Caribe 
+Hilton Hotel Memorandum of Agreement 2016-2018
+ 
+8. 	Collective Bargaining Agreement between Hilton Minneapolis and 
+Miscellaneous Driver, Helper and Warehousemans Union Local 638 Affiliated 
+with the International Brotherhood of Teamsters May 1, 2016  April 30, 
+2021
+ 
+9. 	Collective Agreement between MH HOTELS (Meadowvale Hotel & Conference 
+Centre) Ltd. doing business as the Hilton Mississauga Meadowvale, the 
+Employer and United Food & Commercial Workers International Union, Local 
+333 (May 6, 2016  May 5, 2020)
+ 
+10. 	Contract between Oakland Airport Hilton and Freight Checkers, Clerical 
+Employees & Helpers; Union Local No. 856 International Brotherhood of 
+Teamsters (June 1, 2013  May 31, 2016)1
+ 
+11. 	Agreement between Painting and Decorating Contractors Association, 
+Chicago Council and Painters District Council No. 14 of the International 
+Union of Painters and Allied Trades (of Chicago, Cook, Lake, Will and 
+Grundy Counties, Illinois) (subject to automatic annual extensions)
+ 
+12. 	Agreement between Hilton Worldwide, Inc. (HWI) as Agent for Oasis West 
+Realty, LLC a Delaware Limited Liability Company d/b/a The Beverly Hilton 
+and International Union of Operating Engineers Local No. 501, AFL-CIO and 
+Painters & Allied Trades District Council No. 36 (August 1, 2013  July 31, 
+2016)1
+ 
+13. 	Convention Collective de Travail Entre Innvest REIT; Royal Bank Plaza, 
+South Tower, 200, Bay Street, suite 3205; P.O. Box 126, Toronto (Ontario) 
+M5J 2S1 Etablissement Vise: Hilton Quebec; 1100, boulevard Rene-Levesque 
+Est; C.P. 157, succ. Haute-Ville; Quebec (Quebec) G1R 4P3 Ci-apres appelee: 
+LEMPLOYEUR ET Syndicat Des Travailleuses Et Travailleurs de Hilton Quebec 
+(CSN); 155, boulevard Charest Est, bureau 400 Quebec (Quebec) G1K 3G6; 
+Ci-apres appele: LE SYNDICAT (2016-2020)
+ 
+1  	Expired and negotiations are underway for a new agreement.
+ 
+16
+
+------------------------------------------------------------------------
+14. 	Collective Bargaining Agreement by and between Hilton Waikoloa Village 
+and I.L.W.U Local 142 (October 1, 2016  September 30, 2020)
+ 
+15. 	Agreement between Hilton Worldwide, Inc. d/b/a Hilton Chicago and 
+Chicago and Midwest Regional Joint Board, An Affiliate Workers 
+United/S.E.I.U. (Effective: November 16, 2013  November 15, 2019)
+ 
+16. 	Agreement between Hilton Worldwide, Inc. d/b/a Palmer House Chicago 
+and Chicago and Midwest Regional Joint Board, An Affiliate Workers 
+United/S.E.I.U. (Effective: November 16, 2013  November 15, 2019)
+ 
+17. 	Agreement between Hilton Worldwide, Inc. d/b/a The Drake and Chicago 
+and Midwest Regional Joint Board, An Affiliate Workers United/S.E.I.U. 
+(Effective: November 16, 2013  November 15, 2019)
+ 
+18. 	Agreement between Teamsters Local Union No. 727 and Hilton OHare 
+(January 1, 2012  December 31, 2016)
+ 
+19. 	Collective Bargaining Agreement by and between Interstate Management 
+Company, LLC as Agent for BVP Tenant LLC d/b/a Buena Vista Palace and UNITE 
+HERE Local 737 (extended by memorandum of agreement through December 31, 
+2016) and Assumption Agreement: Entered into by and between Hilton 
+Management, LLC as agent for BVP Tenant, LLC d/b/a Buena Vista Palace
+ 
+20. 	The Beverly Hilton and General Teamsters, Airline, Aerospace and 
+Allied Employees, Warehousemen, Drivers, Construction, Rock and Sand, Local 
+986 (May 1, 2014  April 30, 2017)
+ 
+21. 	Agreement between UNITE HERE, Local #8 and Doubletree Management, LLC 
+as Operator of Doubletree Hotel, Seattle Airport 18740 International 
+Boulevard, Seattle, WA 98188 (206) 246-8600 (Effective June 1, 2014  May 
+31, 2017)
+ 
+22. 	Agreement between Unite Here, Local #8 and Doubletree Management, LLC 
+as Operator of Hilton Seattle Airport 18740 International Boulevard, 
+Seattle, WA 98188 (206) 246-8600 (Effective June 1, 2014  May 31, 2017)
+ 
+23. 	Agreement between Plumbing Contractors Association of Chicago and Cook 
+County and Chicago Journeymen Plumbers Local Union 130, U.A. (subject to 
+automatic annual extensions)
+ 
+24. 	Collective Bargaining Agreement by and between Hilton Worldwide, Inc. 
+(Hilton Washington Hotel) and The Metropolitan Regional Council of 
+Carpenters (June 1, 2014  May 31, 2017)
+ 
+25. 	Agreement between Hilton Chicago and The United Steelworkers 
+AFL-CIO-CLC on behalf of Drapery, Slip Cover, Window Shade, Venetian 
+Blinds, Exhibition, Flag and Bunting USW Decorators Union, Local Union No. 
+17U (July 1, 2012  June 30, 2017)
+ 
+26. 	Agreement between Palmer House and The United Steelworkers AFL-CIO-CLC 
+on behalf of Drapery, Slip Cover, Window Shade, Venetian Blinds, 
+Exhibition, Flag and Bunting USW Decorators Union, Local Union No. 17U 
+(July 1, 2012  June 30, 2018)
+ 
+27. 	Agreement between The Drake Hotel and The United Steelworkers 
+AFL-CIO-CLC on behalf of Drapery, Slip Cover, Window Shade, Venetian 
+Blinds, Exhibition, Flag and Bunting USW Decorators Union, Local Union No. 
+17U (July 1, 2012  June 30, 2019)
+ 
+28. 	Contract and Agreement Between the Hilton Hotel, Vancouver, Washington 
+and Unite Here Local 8 Affiliated with Unite Here International Union (July 
+1, 2014  June 30, 2017)
+ 
+29. 	Collective Agreement between The Westin Diplomat Resort and Spa and 
+UNITE HERE Local 355 (July 1, 2013  June 30, 2017)
+ 
+17
+
+------------------------------------------------------------------------
+30. 	Collective Bargaining Agreement between Painters and Allied Trades 
+District Council 16 & Hilton San Francisco Union Square (August 1, 2012  
+July 31, 2017)
+ 
+31. 	Contract and Agreement between Hilton Management LLC and Unite Here 
+Local 8 Affiliated with Unite Here International Union, AFL-CIO/CLC (August 
+1, 2014  July 31, 2017)
+ 
+32. 	Agreement between Unite Here, Local 1 and Waldorf-Astoria Management, 
+LLC as Operator of the Waldorf-Astoria Chicago (September 1, 2013  August 
+31, 2017)
+ 
+33. 	International Union of Operating Engineers Local 68-68A  68B, AFL-CIO 
+and Hilton Management , LLC d/b/a Hilton Newark Airport Hotel (May 1, 2016 
+ April 30, 2020)
+ 
+34. 	Agreement by and between Hilton Management, LLC operators of the 
+Washington Hilton and UNITE HERE Local 25 (October 16, 2010  October 15, 
+2017)
+ 
+35. 	Agreement by and between Hilton Management, LLC operators of the 
+Capital Hilton and UNITE HERE Local 25 (October 16, 2010  October 15, 
+2017)
+ 
+36. 	Agreement by and between Embassy Suites Management Company, LLC 
+operators of the Embassy Suites Washington D.C., Convention Center and 
+UNITE HERE Local 25 (October 16, 2010  October 15, 2017)
+ 
+37. 	Collective Bargaining Agreement by and between Hilton Oakland Airport 
+and the International Union of Operating Engineers, Stationary Engineers, 
+Local 39 (November 16, 2014  November 15, 2017)
+ 
+38. 	Agreement between Hilton San Diego Bayfront and UNITE HERE Local 30 
+(February 1, 2014  November 28, 2016)2
+ 
+39. 	Collective Bargaining Agreement by and between Doubletree by Hilton 
+Hotel San Jose and the International Union of Operating Engineers, 
+Stationary Engineers, Local 39 (December 1, 2014  November 30, 2017)
+ 
+40. 	Agreement between Hilton Atlanta and Service Employees International 
+Union/National Association of Government Employees, Local #679 (December 
+23, 2012  December 22, 2017)
+ 
+41. 	Clerical Agreement between Teamsters Local Union No. 856, I.B.T. and 
+Hilton San Francisco Union Square (January 1, 2013  December 31, 2017)
+ 
+42. 	Collective Agreement Between Hilton Saint John and National 
+Automobile, Aerospace, Transportation and General Workers Union of Canada 
+(Unifor  Canada), Local 2002 (2014  2017)
+ 
+43. 	Agreement between Hilton Chicago & Towers International Brotherhood of 
+Electrical Workers, Local Union No. 134 AFL-CIO (July 1, 2015  June 30, 
+2019)
+ 
+44. 	Agreement between Palmer House of Chicago, Illinois and International 
+Brotherhood of Electrical Workers, Local Union No. 134 AFL-CIO (July 1, 
+2015  June 30, 2019)
+ 
+45. 	Agreement between Drake Hotel of Chicago, Illinois and International 
+Brotherhood of Electrical Workers, Local Union No. 134 AFL-CIO (July 1, 
+2015  June 30, 2019)
+ 
+46. 	Agreement between Hilton Chicago OHare Airport of Chicago, Illinois 
+and International Brotherhood of Electrical Workers, Local Union No. 134 
+AFL-CIO (July 1, 2015  June 30, 2019)
+ 
+47. 	Clerical Agreement between Parc 55 A Hilton Hotel and Teamsters Union 
+Local No. 856, International Brotherhood of Teamsters (January 1, 2013  
+December 31, 2017)
+ 
+2  	Expired and negotiations are underway for a new agreement.
+ 
+18
+
+------------------------------------------------------------------------
+48. 	Collective Agreement as of the 1st day of February, 2006 between 
+Hilton Toronto Airport (hereinafter referred to as the Employer ) and 
+UNITE HERE Local 75 UNITE HERE Ontario Council (hereinafter referred to as 
+the Union) (extended through January 31, 2019 per National Agreement 
+Memorandum of Agreement)
+ 
+49. 	Collective Agreement between Hilton Toronto and UNITE HERE Local 75 
+(extended through January 31, 2019 per National Agreement Memorandum of 
+Agreement)
+ 
+50. 	Agreement between UNITE HERE Local 26 and Hilton Management, LLC as 
+operator of the Hilton Boston Logan Airport (March 1, 2013  February 28, 
+2018)
+ 
+51. 	Agreement between The Hilton Oakland Airport and District Council 16; 
+Painters and Drywall Finishers Local Union #3 (April 1, 2013  March 31, 
+2018)
+ 
+52. 	Collective Bargaining Agreement by and between 90210 Grand Wailea 
+Management Company, LLC d/b/a Grand Wailea Resort Hotel & Spa and ILWU, 
+Local 142 (April 1, 2013  March 31, 2018) (for hotel and restaurant 
+employees)
+ 
+53. 	Collective Bargaining Agreement by and between 90210 Grand Wailea 
+Management Company, LLC d/b/a Grand Wailea Resort Hotel & Spa and ILWU, 
+Local 142 (January 1, 2015  December 31, 2018) (for retail employees)
+ 
+54. 	Collective Bargaining Agreement by and between UNITE HERE! Local 5 and 
+Hilton Management, LLC d/b/a Hilton Hawaiian Village Waikiki Beach Resort 
+(July 1, 2013  June 30, 2018)
+ 
+55. 	Bargaining Agreement by and between the Journeymen Plasters P&B 
+Society Local No. 5 and the Midwest Ceiling Contractors Association 
+(expires June 30, 2018)
+ 
+56. 	Agreement between HLT CA Hilton LLC d/b/a Hilton Oakland Airport and 
+Hotel Employees and Restaurant Employees Local #2850 (July 7, 2013  July 
+6, 2018)
+ 
+57. 	Collective Bargaining Agreement by and between the International Union 
+of Operating Engineers, Stationary Engineers, Local 39 and the San 
+Francisco Hilton (July 16, 2013  July 15, 2018)
+ 
+58. 	Collective Bargaining Agreement by and between the International Union 
+of Operating Engineers, Stationary Engineers, Local 39 and the Parc 55 
+Wyndham Union Square Hotel (August 1, 2013  July 31, 2018)
+ 
+59. 	Collective Bargaining Agreement between The Hotels and Unite Here, 
+Local 2 (extended through August 14, 2018 by Memorandum of Agreement 
+Concerning Modifications to Collective Bargaining Agreement)
+ 
+60. 	Collective Bargaining Agreement between The Hotels and Hotel Employees 
+and Restaurant Employees Union, Local 2 (extended through August 14, 2018 
+by Memorandum of Agreement Concerning Modifications to Collective 
+Bargaining Agreement)
+ 
+61. 	Agreement between Chicago Joint Executive Board of the UNITE HERE 
+Local 1 and UNITE HERE Local 450 and Hilton Management, LLC d/b/a Hilton 
+Chicago (September 1, 2013  August 31, 2018)
+ 
+62. 	Agreement between Chicago Joint Executive Board of the UNITE HERE 
+Local 1 and UNITE HERE Local 450 and HLT PALMER d/b/a Palmer House 
+(September 1, 2013  August 31, 2018)
+ 
+63. 	Agreement between Chicago Joint Executive Board of the UNITE HERE 
+Local 1 and UNITE HERE Local 450 and HLT DRAKE d/b/a The Drake (September 
+1, 2013  August 31, 2018)
+ 
+19
+
+------------------------------------------------------------------------
+64. 	Agreement between Chicago Joint Executive Board of the UNITE HERE 
+Local 1 and UNITE HERE Local 450 and Hilton Management, LLC d/b/a Hilton 
+Chicago OHare Airport (September 1, 2013  August 31, 2018)
+ 
+65. 	Collective Bargaining Agreement by and between Hilton Management, LLC 
+The Employer at the Hilton Washington and Painters and Allied Trades 
+District Council No. 51, of the International Union of Painters and Allied 
+Trade, AFL-CIO (September 1, 2014  August 31, 2018)
+ 
+66. 	Collective Bargaining Agreement by and between Hilton Management, LLC 
+The Employer at the Capital Hilton Hotel and Painters and Allied Trades 
+District Council No. 51, of the International Union of Painters and Allied 
+Trade, AFL-CIO (September 1, 2014  August 31, 2018)
+ 
+67. 	Collective Bargaining Agreement by and between Embassy Suites 
+Management, LLC Employer at 1000 K, LLC d/b/a Embassy Suites DC Convention 
+Center and Painters and Allied Trades District Council No. 51, of the 
+International Union of Painters and Allied Trade, AFL-CIO (September 1, 
+2014  August 31, 2018)
+ 
+68. 	Maintenance Agreement by and between Local 26, International 
+Brotherhood of Electrical Workers and the Washington Hilton Hotel 
+(September 1, 2015  August 31, 2018)
+ 
+69. 	Agreement between HLT Conrad Domestic, LLC d/b/a Hilton San Diego 
+Bayfront and International Union of Operating Engineers Local 501, AFL-CIO 
+(September 1, 2015  August 31, 2018)
+ 
+70. 	Agreement between Hilton Worldwide, Inc. d/b/a Hilton Chicago and 
+Chicago and Midwest Regional Joint Board, an affiliate Workers 
+United/S.E.I.U. (November 16, 2013  November 15, 2016)3
+ 
+71. 	Agreement between Hilton Illinois Corp d/b/a Palmer House Hilton and 
+Chicago and Midwest Regional Joint Board, an affiliate Workers 
+United/S.E.I.U. (November 16, 2013  November 15, 2016)3
+ 
+72. 	Agreement between Vista International Ill, Inc. d/b/a The Drake Hotel 
+and Chicago and Midwest Regional Joint Board, an affiliate Workers 
+United/S.E.I.U. (November 16, 2013  November 15, 2016)3
+ 
+73. 	Collective Bargaining Agreement Hilton Worldwide, Inc. d/b/a The 
+Crystal City Embassy Suites and Unite Here Local 25 (October 16, 2010  
+October 15, 2017)
+ 
+74. 	Collective Bargaining Agreement DT Management, LLC d/b/a Doubletree 
+Hotel Crystal City and Unite Here Local 25 (October 16, 2010  October 15, 
+2017)
+ 
+75. 	Collective Bargaining Agreement Hilton Worldwide, Inc. d/b/a The 
+Hilton McLean and Unite Here Local 25 (October 16, 2010  October 15, 2017)
+ 
+76. 	Agreement between Unite Here Local 26 and Doubletree Management, LLC, 
+as operator of the Doubletree Suits by Hilton Hotel Boston  Cambridge 
+(November 1, 2015  February 28, 2018)
+ 
+77. 	Collective Bargaining Agreement between International Union of 
+Operating Engineers, Local 99 99A, AFL CIO and Embassy Suites Management, 
+LLC as agent for Ashford TRS Crystal City, LLC d/b/a Embassy Suites Crystal 
+City (November 1, 2014  October 31, 2018)
+ 
+78. 	Collective Bargaining Agreement between IUOE, Local 99 and Hilton 
+Management, LLC as agent for Hilton McLean, LLC d/b/a Hilton McLean 
+(November 1, 2014  October 31, 2018)
+ 
+79. 	Collective Bargaining Agreement by and between Hilton Management LLC 
+for The Capital Hilton Hotel and Local 99-99A, International Union of 
+Operating Engineers, affiliated with the Greater Washington Central Labor 
+Council, AFL-CIO and the Maryland State and District of Columbia AFL-CIO 
+(November 1, 2014  October 31, 2018)
+ 
+3  	Expired and negotiations are underway for a new agreement.
+ 
+20
+
+------------------------------------------------------------------------
+80. 	Collective Bargaining Agreement by and between Hilton Management LLC 
+for Washington Hilton Hotel & Towers and Local 99-99A, International Union 
+of Operating Engineers, affiliated with the Greater Washington Central 
+Labor Council, AFL-CIO and the Maryland State and District of Columbia 
+AFL-CIO (November 1, 2014  October 31, 2018)
+ 
+81. 	Agreement between Hilton Management, LLC as operator of The Hilton 
+Anaheim Hotel and UNITE HERE! Local 11 (May 16, 2013  May 15, 2018)
+ 
+82. 	Collective Bargaining Agreement between Hilton Boston Logan Airport 
+Hotel and Firemen and Oilers Local 3, S.E.I.U. (December 1, 2015  November 
+30, 2018)
+ 
+83. 	Agreement between Hilton Management LLC and International Union of 
+Operating Engineers Local Union No, 701 (January 1, 2016  December 31, 
+2018)
+ 
+84. 	Collective Bargaining Agreement between Hilton Minneapolis and Unite 
+Here Local 17 AFL-CIO (May 1, 2014  April 30, 2019)
+ 
+85. 	Collective Bargaining Agreement between Irvine Hilton and Unite Here 
+Local 11 (June 1, 2014  May 31, 2019)
+ 
+86. 	Collective Bargaining Agreement between Unite Here International Union 
+Local 631 and Hilton Management LLC (September 1, 2014  October 1, 2019)
+ 
+87. 	Agreement between Hampton Inn  Milford and Local 371 United Food & 
+Commercial Workers Union Westport, Connecticut (September 11, 2015  
+September 10, 2019)
+ 
+88. 	Collective Bargaining Agreement between International Union of 
+Operating Engineers Local 68-68A-68B, AFL-CIO and Hilton Worldwide (October 
+1, 2015  September 30, 2019)
+ 
+89. 	Collective Bargaining Agreement between United Association of 
+Journeymen & Apprentices of the Plumbing and Pipefitting Industry of the 
+United State and Canada or Broward County, Florida and Starwood Hotels & 
+Resorts Worldwide, Inc. d/b/a Westin Diplomat Resort & Spa (assumed by 
+Hilton Worldwide, Inc. December 2014) (January 21, 2014  January 20, 2020)
+ 
+90. 	Hilton Americas-Houston Labor Agreement with Unite Here International 
+Union Local 23, AFL-CIO, CLC and The International Union of Operating 
+Engineers Local 564 (The Engineers) AFL-CIO (July 1, 2015  June 30, 2020)
+ 
+91. 	Chicago Regional Council of Carpenters United Brotherhood of 
+Carpenters and Joiners of America Commercial Area Agreement Cook, Lake and 
+DuPage Counties, in Illinois (June 1, 2014  May 31, 2019)
+ 
+92. 	Collective Bargaining Agreement by and between Hilton Chicago & Towers 
+and International Union of Operating Engineers of Chicago, Illinois and 
+Vicinity Local No. 399 (July 1, 2015  June 30, 2019)
+ 
+93. 	Collective Bargaining Agreement by and between Palmer House and 
+International Union of Operating Engineers of Chicago, Illinois and 
+Vicinity Local No. 399 (July 1, 2015  June 30, 2019)
+ 
+94. 	Collective Bargaining Agreement by and between Drake Hotel and 
+International Union of Operating Engineers of Chicago, Illinois and 
+Vicinity Local No. 399 (July 1, 2015  June 30, 2019)
+ 
+95. 	Collective Bargaining Agreement by and between Hilton Chicago OHare 
+Airport and International Union of Operating Engineers of Chicago, Illinois 
+and Vicinity Local No. 399 (July 1, 2015  June 30, 2019)
+ 
+21
+
+------------------------------------------------------------------------
+96. 	Collective Bargaining Agreement by and between Embassy Suites-Chicago 
+Downtown Lakefront and International Union of Operating Engineers of 
+Chicago, Illinois and Vicinity Local No. 399 (July 1, 2015  June 30, 2019)
+ 
+97. 	Collective Bargaining Agreement by and between Waldorf-Astoria 
+Management, LLC and International Union of Operating Engineers of Chicago, 
+Illinois and Vicinity Local No. 399 (July 1, 2015  June 30, 2019).
+ 
+98. 	Collective Bargaining Agreement by and between Conrad Chicago and 
+International Union of Operating Engineers of Chicago, Illinois and 
+Vicinity Local No. 399 (July 1, 2015  June 30, 2019).
+ 
+99. 	Collective Bargaining Agreement between International Union of 
+Operating Engineers Local 68-68A-68B, AFL-CIO and Embassy Suites Management 
+LLC d/b/a Embassy Suites Parsippany (December 1, 2015  November 30, 2019)
+ 
+100. 	Collective Bargaining Agreement between International Union of 
+Operating Engineers Local 68-68A-68B, AFL-CIO and Embassy Suites Management 
+LLC d/b/a Embassy Suites Secaucus (December 1, 2015  November 30, 2019)
+ 
+101. 	Agreement between Greater Regional Bargaining Group Hotels and Hotel 
+Association of New York City, Inc. (party to agreement via property riders 
+below) (April 1, 2013  March 31, 2018)
+ 
+102. 	Agreement between Hilton Management, LLC, doing business as the 
+Hilton Westchester, its owner(s), and operator(s) and manager(s) on their 
+own behalf and on behalf of any affiliated or related entity and their 
+respective successors or assigns and the New York Hotel and Motel Trades 
+Council, ALF-CIO (Rider) (December 1, 2015  March 31, 2018)
+ 
+103. 	Agreement by and among Hilton Short Hills Hotel, its current and 
+future owner(s), operator(s) and manager(s) on their own behalf and on 
+behalf of any of their respective affiliated or related entity, as well as 
+their successors or assigns and the New York Hotel and Motel Trades 
+Council, ALF-CIO (Rider) (January 1, 2015  March 31, 2018)
+ 
+104. 	Agreement by and among Embassy Suites Parsippany, its current and 
+future owner(s), operator(s) and manager(s) on their own behalf and on 
+behalf of any of their respective affiliated or related entity, as well as 
+their successors or assigns and the New York Hotel and Motel Trades 
+Council, ALF-CIO (Rider) (September 17, 2015  March 31, 2018)
+ 
+105. 	Agreement by and among Embassy Suites Secaucus-Meadowlands, its 
+current and future owner(s), operator(s) and manager(s) on their own 
+behalf and on behalf of any of their respective affiliated or related 
+entity, as well as their successors or assigns and the New York Hotel and 
+Motel Trades Council, ALF-CIO (Rider) (August 18, 2015  March 31, 2018)
+ 
+22
+
+------------------------------------------------------------------------
+SCHEDULE 13(b)
+PK COLLECTIVE BARGAINING AGREEMENTS
+ 
+1. 	Agreement between Tex Holding, Inc. DBA Meritex and Chicago and Midwest 
+Regional Joint Board, an Affiliate of Workers United/SEIU (Effective 
+Duration: January 1, 2015  December 31, 2016)4
+ 
+2. 	Collective Bargaining Agreement by and between Meritex Laundry Portage 
+Meritex and International Union of Operating Engineers of Chicago, Illinois 
+and Vicinity Local No. 399 June 1, 2012  May, 31 2017
+ 
+3. 	Labor Agreement between Meritex LLC and Laundry, Distribution & Food 
+Service Joint Board, Workers United, Affiliated with the SEIU (September 2, 
+2014  September 1, 2017)
+ 
+4. 	Collective Bargaining Agreement between International Union of 
+Operating Engineers Local 68-68A-68B, AFL-CIO and Meritex, LLC (October 1, 
+2013  September 30, 2018)
+ 
+ 
+4  	Negotiations expected to commence prior to expiration.
+ 
+23
+
+------------------------------------------------------------------------
+SCHEDULE 13(c)
+HGV COLLECTIVE BARGAINING AGREEMENTS
+ 
+1. 	Collective Bargaining Agreement between Hilton Grand Vacations Company, 
+LLC d/b/a Hilton Grand Vacations Club at the Las Vegas Hilton and 
+International Union of Operating Engineers, Local 501, AFL-CIO July 1, 2011 
+ June 30, 20145
+ 
+2. 	Collective Bargaining Agreement between Hilton Grand Vacations Company, 
+LLC A Delaware Limited Liability Company and Local Joint Executive Board of 
+Las Vegas (for Elara) (expires 2018)
+ 
+3. 	Collective Bargaining Agreement between Hilton Grand Vacations Company, 
+LLC A Delaware Limited Liability Company and Local Joint Executive Board of 
+Las Vegas (for Boulevard/Karen/Flamingo) (expires 2018)
+ 
+4. 	Labor Agreements between Hilton Grand Vacations, LLC at the Elara Hotel 
+and General Teamsters, Airline, Aerospace and Allied Employers, 
+Warehousemen, Drivers, Constructions, Rock and Sand Teamsters Local 986 
+(Valet/Bell Department) June 1, 2015  May 31, 2019
+ 
+5. 	Collective Bargaining Agreement between Hotel Association of New York 
+City, Inc. and New York Hotel and Motel Trades Council, AFL-CIO (July 1, 
+2012  June 30, 2019, extended through June 30, 2026 by memorandum of 
+agreement)
+ 
+5  	Expired and negotiations are underway for a new agreement.
+ 
+24
