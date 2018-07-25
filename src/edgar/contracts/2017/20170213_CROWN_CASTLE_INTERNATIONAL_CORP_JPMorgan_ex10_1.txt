@@ -1,0 +1,733 @@
+ EX-10.1 2 ex10_1.htm
+ 
+Exhibit 10.1
+ 
+ 
+           AMENDMENT NO. 1 dated as of February 13, 2017 (this “Amendment
+           ”), to the CREDIT AGREEMENT dated as of January 21, 2016 (as
+           amended, supplemented or otherwise modified from time to time,
+           the “Credit Agreement”; capitalized terms used and not defined
+           herein shall have the meanings assigned to such terms in the
+           Credit Agreement), among CROWN CASTLE INTERNATIONAL CORP., a
+           Delaware corporation (the “Borrower”), the LENDERS and ISSUING
+           BANKS party thereto and JPMORGAN CHASE BANK, N.A. (“JPMorgan”),
+           as Administrative Agent (the “Administrative Agent”).
+
+WHEREAS, the Borrower, in accordance with Section 2.21 of the Credit 
+Agreement, has delivered to the Administrative Agent a Maturity Date 
+Extension Request dated as of January 19, 2017, requesting the extension of 
+the Revolving Maturity Date and the Term Maturity Date by one year to 
+January 21, 2022 (the “Maturity Date Extension”);
+
+WHEREAS, (a) each Lender holding Revolving Commitments and/or Revolving 
+Loans immediately prior to the consummation of the transactions specified 
+in Section 3 hereof (each, an “Existing Revolving Lender”) and each Lender 
+holding Term Loans immediately prior to the consummation of the 
+transactions specified in Section 3 hereof (each, an “Existing Term Lender
+” and, together with each Existing Revolving Lender, collectively, the “
+Existing Lenders”) that executes and delivers a signature page to this 
+Amendment (each, a “Consenting Revolving Lender” or a “Consenting Term 
+Lender”, as applicable, and collectively, the “Consenting Lenders”) at or 
+prior to 10:00 p.m., New York City time, on February 10, 2017 (the “
+Delivery Time”), will have agreed to the terms of this Amendment upon the 
+effectiveness of this Amendment on the Amendment Effective Date (as defined 
+below), and (b) each Existing Lender that does not execute and deliver a 
+signature page to this Amendment at or prior to the Delivery Time (each, a 
+“Declining Revolving Lender” or a “Declining Term Lender”, as applicable, 
+and collectively, the “Declining Lenders”) will be deemed not to have 
+agreed to this Amendment and will be subject to the mandatory assignment 
+provisions of Sections 2.18(b) and 2.21(c) of the Credit Agreement upon the 
+effectiveness of this Amendment on the Amendment Effective Date (it being 
+understood that the interests, rights and obligations of the Declining 
+Lenders under the Loan Documents will be assumed by (a) certain Consenting 
+Lenders and (b) certain financial institutions that are not Existing 
+Lenders and that are party hereto (each, a “New Revolving Lender” or “New 
+Term Lender”, as applicable, and collectively, the “New Lenders”), in each 
+case in accordance with Sections 2.18(b), 2.21(c) and 9.04(b) of the Credit 
+Agreement and Sections 3(a) and 3(b) hereof);
+
+WHEREAS, with respect to the foregoing, this Amendment is an amendment 
+entered into pursuant to Section 2.21 of the Credit Agreement to provide 
+for the Maturity Date Extension;
+
+WHEREAS, the Borrower intends to incur additional Term Loans in an 
+aggregate principal amount not to exceed $500,000,000.00 (the “Tack-On Term
+ 
+ 
+
+------------------------------------------------------------------------
+
+2
+
+ 
+ 
+Loans”), which Tack-On Term Loans shall, on and after the Amendment 
+Effective Date, be part of the same Class of Term Loans as the Term Loans 
+made under Section 2.01(a) of the Credit Agreement on the Effective Date 
+(the “Existing Term Loans”) and the proceeds of which will be used to pay 
+all fees and expenses of the Borrower payable in connection with this 
+Amendment and for general corporate purposes;
+
+WHEREAS, the Borrower has requested that certain provisions of the Credit 
+Agreement be amended as set forth herein to permit the incurrence of the 
+Tack-On Term Loans under the Credit Agreement (for the avoidance of doubt, 
+the incurrence of the Tack-On Term Loans will not be a Term Loan Increase 
+under Section 2.20 of the Credit Agreement);
+
+WHEREAS, the Borrower has requested that the financial institutions set 
+forth on Schedule III hereto (the “Tack-On Term Lenders”) commit to make 
+the Tack-On Term Loans on the Amendment Effective Date (the commitment of 
+each Tack-On Term Lender to provide its applicable portion of the Tack-On 
+Term Loans, as set forth opposite such Tack-On Term Lender’s name on 
+Schedule III hereto, is such Tack-On Term Lender’s “Tack-On Term Commitment
+”); and
+
+WHEREAS, the Tack-On Term Lenders are willing to make the Tack-On Term 
+Loans to the Borrower on the Amendment Effective Date on the terms and 
+subject to the conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained 
+and other good and valuable consideration, the sufficiency and receipt of 
+which are hereby acknowledged, and subject to the conditions set forth 
+herein, the parties hereto hereby agree as follows:
+
+SECTION 1.  Rules of Interpretation.  The rules of interpretation set forth 
+in Section 1.03 of the Credit Agreement are hereby incorporated by 
+reference herein, mutatis mutandis.
+
+SECTION 2.  Amendments to Credit Agreement.
+
+(a)  Section 1.01 of the Credit Agreement is hereby amended by adding the 
+following definitions in the appropriate alphabetical order:
+
+    “First Amendment Effective Date” means February 13, 2017.
+
+    “First Amendment” means Amendment No. 1, dated as of the First
+    Amendment Effective Date, among the Borrower, the Administrative Agent,
+    the Lenders party thereto and the Issuing Banks party thereto.
+
+    “Tack-On Term Commitment” has the meaning assigned to such term in the
+    First Amendment.
+
+    “Tack-On Term Lender” has the meaning assigned to such term in the
+    First Amendment.
+ 
+ 
+
+------------------------------------------------------------------------
+
+3
+
+
+ 
+    “Tack-On Term Loans” has the meaning assigned to such term in the First
+    Amendment.
+
+(b)  Section 1.01 of the Credit Agreement is hereby amended by replacing 
+the text “2021” in each of the definitions of “Revolving Maturity Date” and 
+“Term Maturity Date” with the text “2022”.
+
+(c)  Section 1.01 of the Credit Agreement is hereby amended by inserting 
+the text “initial” immediately prior to each occurrence of the text “Term 
+Commitment” in the definition of “Term Commitments”.
+
+(d)  Section 2.01 of the Credit Agreement is hereby amended by (i) 
+replacing the text “a Term Loan” with the text “an initial Term Loan” in 
+clause (a) thereof, (ii) adding the text “initial” immediately before the 
+text “Term Commitment” in clause (a) thereof, and (iii) adding the 
+following text at the end of the first sentence thereof:
+
+           Subject to the terms and conditions set forth in the First
+           Amendment, each Tack-On Term Lender agrees to make a Tack-On
+           Term Loan to the Borrower on the First Amendment Effective Date
+           in a principal amount not exceeding such Tack-On Term Lender’s
+           Tack-On Term Commitment.
+
+(e)  Section 2.07(a) of the Credit Agreement is hereby amended by replacing 
+such Section in its entirety with the following text:
+
+           (a)  Unless previously terminated, (i) the initial Term
+           Commitments shall automatically terminate upon the initial
+           funding of the initial Term Loans on the Effective Date, (ii)
+           the Tack-On Term Commitments shall automatically terminate upon
+           the funding of the Tack-On Term Loans on the First Amendment
+           Effective Date, (iii) the Revolving Commitments shall
+           automatically terminate on the Revolving Maturity Date, and (iv)
+           the 364-Day Commitments shall automatically terminate on the
+           364-Day Maturity Date.
+
+(f)  Section 2.09(a) of the Credit Agreement is hereby amended by replacing 
+such Section in its entirety with the following text:
+
+           (a)  Subject to adjustment pursuant to Section 2.10(d), the
+           Borrower shall repay Term Borrowings, if any, on the last day of
+           each March, June, September and December, beginning on June 30,
+           2016, in an aggregate principal amount equal to (i) for each
+           such date occurring on or prior to the third anniversary of the
+           Effective Date, 0.625% of the aggregate principal amount of the
+           Term Borrowings outstanding on the First Amendment Effective
+           Date, (ii) for each such date occurring after the third
+           anniversary of the Effective Date but on or prior to the fifth
+           anniversary of the 
+ 
+ 
+
+------------------------------------------------------------------------
+
+4
+
+ 
+ 
+           Effective Date, 1.250% of the aggregate principal amount of the
+           Term Borrowings outstanding on the First Amendment Effective
+           Date and (iii) for each such date occurring after the fifth
+           anniversary of the Effective Date but prior to the Term Maturity
+           Date, 2.500% of the aggregate principal amount of the Term
+           Borrowings outstanding on the First Amendment Effective Date.
+
+SECTION 3.  Transactions on the Amendment Effective Date.
+
+(a)  Concerning the Revolving Lenders, the Revolving Commitments and the 
+Revolving Loans.
+
+       (i) Subject to the terms and conditions set forth herein, on the
+       Amendment Effective Date, (A) each New Revolving Lender shall
+       become, and each Consenting Revolving Lender shall continue to be, a
+       “Revolving Lender” and a “Lender” under the Credit Agreement and (B)
+       each New Revolving Lender shall have, and each Consenting Revolving
+       Lender shall continue to have, all the rights and obligations of a
+       “Revolving Lender” and a “Lender” holding a Revolving Commitment or
+       a Revolving Loan under the Credit Agreement.
+
+       (ii) Pursuant to Sections 2.18(b), 2.21(c) and 9.04(b) of the Credit
+       Agreement, on the Amendment Effective Date, (A) each Declining
+       Revolving Lender shall be deemed to have assigned, delegated and
+       transferred its Revolving Commitments and its Revolving Loans, as
+       applicable, including any participations in LC Disbursements, and
+       (B) each Consenting Revolving Lender that will be allocated an
+       aggregate amount of the Revolving Commitments as of the Amendment
+       Effective Date that is less than the aggregate amount of Revolving
+       Commitments of such Consenting Revolving Lender immediately prior to
+       the Amendment Effective Date (as disclosed to such Consenting
+       Revolving Lender by the Administrative Agent prior to the date
+       hereof) shall be deemed to have assigned, delegated and transferred
+       the portion of its Revolving Commitments in excess of such allocated
+       amount (together with a proportionate principal amount of the
+       Revolving Loans and participations in LC Disbursements of such
+       Consenting Revolving Lender), in each case together with all its
+       interests, rights (other than its existing rights to payments
+       pursuant to Section 2.14 or 2.16 of the Credit Agreement) and
+       obligations under the Loan Documents in respect thereof, to
+       JPMorgan, as assignee, and, in the case of its Revolving Loans and
+       participations in LC Disbursements, at a purchase price equal to par
+       (the “Revolving Loan Purchase Price”).  Upon (1) payment to a
+       Declining Revolving Lender of (x) the Revolving Loan Purchase Price
+       with respect to its Revolving Loans and participations in LC
+       Disbursements so assigned, delegated and transferred pursuant to
+       this paragraph (ii) (which shall be paid by JPMorgan) and (y)
+       accrued and unpaid interest and fees and other amounts owing under
+       the Credit Agreement, in each case with respect to the
+ 
+ 
+
+------------------------------------------------------------------------
+
+5
+
+ 
+ 
+       Revolving Commitments and Revolving Loans through but excluding the
+       Amendment Effective Date (which shall be paid by the Borrower), and
+       (2) the satisfaction of the applicable conditions set forth in
+       Sections 2.18(b), 2.21(c), 2.21(e) and 9.04(b) of the Credit
+       Agreement (but without the requirement of any further action on the
+       part of such Declining Revolving Lender, the Borrower or the
+       Administrative Agent), such Declining Revolving Lender shall cease
+       to be a party to the Credit Agreement in its capacity as a Revolving
+       Lender and a Lender.
+
+       (iii) Subject to the terms and conditions set forth herein, on the
+       Amendment Effective Date, (A) to the extent any Consenting Revolving
+       Lender will be allocated an aggregate amount of the Revolving
+       Commitments as of the Amendment Effective Date that is more than the
+       aggregate amount of the Revolving Commitments of such Consenting
+       Revolving Lender immediately prior to the Amendment Effective Date
+       (as disclosed to such Consenting Revolving Lender by the
+       Administrative Agent prior to the date hereof), each such Consenting
+       Revolving Lender agrees to assume from JPMorgan the portion of such
+       excess amount (together with a proportionate principal amount of the
+       Revolving Loans and participations in LC Disbursements (in the case
+       of the Revolving Loans and participations in LC Disbursements, at a
+       purchase price equal to par)) and (B) each New Revolving Lender, if
+       any, set forth on Schedule I hereto agrees to assume from JPMorgan
+       Revolving Commitments in an aggregate amount equal to the amount
+       disclosed to such New Revolving Lender by the Administrative Agent
+       prior to the date hereof (together with a proportionate principal
+       amount of the Revolving Loans and participations in LC Disbursements
+       (in the case of the Revolving Loans and participations in LC
+       Disbursements, at a purchase price equal to par)).
+
+       (iv) Each New Revolving Lender, if any, by delivering its signature
+       page to this Amendment and assuming Revolving Commitments and
+       Revolving Loans in accordance with Section 3(a)(iii) hereof, shall
+       be deemed to have acknowledged receipt of, and consented to and
+       approved, each Loan Document and each other document required to be
+       approved by the Administrative Agent or any Lenders, as applicable,
+       on the Amendment Effective Date.
+
+       (v) For purposes of clarity, all Revolving Loans, Revolving
+       Commitments and Letters of Credit outstanding immediately prior to
+       the Amendment Effective Date shall continue to be outstanding as
+       Revolving Loans, Revolving Commitments and Letters of Credit,
+       respectively, under the Credit Agreement on and after the Amendment
+       Effective Date, subject to the terms of the Credit Agreement.
+
+       (vi) The transactions described in this Section 3(a) will be deemed
+       to satisfy the requirements of Sections 2.18(b) and 9.04 of the
+       Credit Agreement in respect of the assignment of the Revolving
+       Commitments,
+ 
+ 
+
+------------------------------------------------------------------------
+
+6
+
+ 
+ 
+       Revolving Loans and participations in LC Disbursements so assigned,
+       delegated and transferred pursuant to Section 3(a)(ii) hereof, and
+       this Amendment will be deemed to be an Assignment and Assumption
+       with respect to such assignments.
+
+       (vii) Immediately after giving effect to the consummation of the
+       transactions described in this Section 3(a), the aggregate amount of
+       the Revolving Commitments of each Consenting Revolving Lender and
+       each New Revolving Lender is set forth opposite such Lender’s name
+       on Schedule I hereto.
+
+    (b)  Concerning the Term Lenders and the Term Loans.
+
+       (i) Subject to the terms and conditions set forth herein, on the
+       Amendment Effective Date, (A) each New Term Lender shall become, and
+       each Consenting Term Lender shall continue to be, a “Term Lender”
+       and a “Lender” under the Credit Agreement and (B) each New Term
+       Lender shall have, and each Consenting Term Lender shall continue to
+       have, all the rights and obligations of a “Term Lender” and a
+       “Lender” holding a Term Loan under the Credit Agreement.
+
+       (ii) Pursuant to Sections 2.18(b), 2.21(c) and 9.04(b) of the Credit
+       Agreement, on the Amendment Effective Date, (A) each Declining Term
+       Lender shall be deemed to have assigned, delegated and transferred
+       its Term Loans, and (B) each Consenting Term Lender that will be
+       allocated an aggregate principal amount of the Term Loans as of the
+       Amendment Effective Date that is less than the aggregate principal
+       amount of Term Loans of such Consenting Term Lender immediately
+       prior to the Amendment Effective Date (as disclosed to such
+       Consenting Term Lender by the Administrative Agent prior to the date
+       hereof) shall be deemed to have assigned, delegated and transferred
+       the portion of its Term Loans in excess of such allocated amount, in
+       each case together with all its interests, rights (other than its
+       existing rights to payments pursuant to Section 2.14 or 2.16 of the
+       Credit Agreement) and obligations under the Loan Documents in
+       respect thereof, to JPMorgan, as assignee, at a purchase price equal
+       to par (the “Term Loan Purchase Price”).  Upon (1) payment to a
+       Declining Term Lender of (x) the Term Loan Purchase Price with
+       respect to its Term Loans so assigned, delegated and transferred
+       pursuant to this paragraph (ii) (which shall be paid by JPMorgan)
+       and (y) accrued and unpaid interest and fees and other amounts owing
+       under the Credit Agreement, in each case with respect to the Term
+       Loans through but excluding the Amendment Effective Date (which
+       shall be paid by the Borrower), and (2) the satisfaction of the
+       applicable conditions set forth in Sections 2.18(b), 2.21(c),
+       2.21(e) and 9.04(b) of the Credit Agreement (but without the
+       requirement of any further action on the part of such Declining Term
+       Lender, the Borrower or the Administrative Agent), such Declining
+ 
+ 
+
+------------------------------------------------------------------------
+
+7
+
+ 
+ 
+       Term Lender shall cease to be a party to the Credit Agreement in its
+       capacity as a Term Lender and a Lender.
+
+       (iii) Subject to the terms and conditions set forth herein, on the
+       Amendment Effective Date, (A) to the extent any Consenting Term
+       Lender will be allocated an aggregate principal amount of the Term
+       Loans as of the Amendment Effective Date that is more than the
+       aggregate principal amount of the Term Loans of such Consenting Term
+       Lender immediately prior to the Amendment Effective Date (as
+       disclosed to such Consenting Term Lender by the Administrative Agent
+       prior to the date hereof), each such Consenting Term Lender agrees
+       to assume from JPMorgan, at a purchase price equal to par, the
+       portion of such excess amount and (B) each New Term Lender, if any,
+       set forth on Schedule II hereto agrees to assume from JPMorgan, at a
+       purchase price equal to par, Term Loans in an aggregate principal
+       amount equal to the amount disclosed to such New Term Lender by the
+       Administrative Agent prior to the date hereof.
+
+       (iv) Each New Term Lender, if any, by delivering its signature page
+       to this Amendment and assuming Term Loans in accordance with Section
+       3(b)(iii) hereof, shall be deemed to have acknowledged receipt of,
+       and consented to and approved, each Loan Document and each other
+       document required to be approved by the Administrative Agent or any
+       Lenders, as applicable, on the Amendment Effective Date.
+
+       (v) For purposes of clarity, all Term Loans outstanding immediately
+       prior to the Amendment Effective Date shall continue to be
+       outstanding as Term Loans under the Credit Agreement on and after
+       the Amendment Effective Date, subject to the terms of the Credit
+       Agreement.
+
+       (vi) The transactions described in this Section 3(b) will be deemed
+       to satisfy the requirements of Sections 2.18(b) and 9.04 of the
+       Credit Agreement in respect of the assignment of the Term Loans so
+       assigned, delegated and transferred pursuant to Section 3(b)(ii)
+       hereof, and this Amendment will be deemed to be an Assignment and
+       Assumption with respect to such assignments.
+
+SECTION 4.  Tack-On Term Loans.
+
+(a)  Subject to the satisfaction of the conditions precedent set forth in 
+Section 6 hereof, each Tack-On Term Lender agrees, severally and not 
+jointly, to make, on the Amendment Effective Date, a Tack-On Term Loan to 
+the Borrower in an aggregate principal amount equal to its Tack-On Term 
+Commitment.  The Tack-On Term Commitment of each Tack-On Term Lender shall 
+automatically terminate upon the making of the Tack-On Term Loans on the 
+Amendment Effective Date.  The net proceeds of the Tack-On Term Loans shall 
+be used by the Borrower to pay all fees and expenses of the Borrower 
+payable in connection with this Amendment and for general
+ 
+ 
+
+------------------------------------------------------------------------
+
+8
+
+ 
+ 
+corporate purposes.  The transactions contemplated by this Section 4(a) are 
+collectively referred to as the “Tack-On Facility Transactions”.
+
+(b)  Immediately upon the consummation of the Tack-On Facility 
+Transactions, (i) each reference to the terms “Term Lender” and “Lender” in 
+the Loan Documents shall be deemed to include the Tack-On Term Lenders and 
+(ii) each reference to the term “Term Loans” in the Loan Documents shall be 
+deemed to include the Tack-On Term Loans.
+
+(c)  On and after the Amendment Effective Date, all Existing Term Loans and 
+all Tack-On Term Loans shall constitute the same Class of Loans for all 
+purposes of the Credit Agreement.  Commencing on the Amendment Effective 
+Date, the initial Interest Period for all Term Loans (including, for 
+purposes of clarity, the Tack-On Term Loans) shall be the Interest Period 
+specified in the Borrowing Request submitted by the Borrower with respect 
+the Term Borrowing consisting of the Tack-On Term Loans to be made on the 
+Amendment Effective Date.
+
+(d)  Immediately after giving effect to the consummation of the 
+transactions described in Section 3(b) hereof and this Section 4, the 
+aggregate principal amount of the Term Loans held by each Tack-On Term 
+Lender, each Consenting Term Lender and each New Term Lender is set forth 
+opposite such Lender’s name on Schedule II hereto.
+
+SECTION 5.  Representations and Warranties.  The Borrower represents and 
+warrants to the Administrative Agent and to each of the Lenders that:
+
+(a)  This Amendment has been duly authorized, executed and delivered by the 
+Borrower and each of this Amendment and the Credit Agreement, as amended 
+hereby, constitutes its legal, valid and binding obligation, enforceable 
+against the Borrower in accordance with its terms, subject to applicable 
+bankruptcy, insolvency, reorganization, moratorium or other laws affecting 
+creditors’ rights generally and subject to general principles of equity, 
+regardless of whether considered in a proceeding in equity or at law.
+
+(b)  The representations and warranties of the Borrower set forth in the 
+Loan Documents are true and correct in all material respects (or, in the 
+case of representations and warranties qualified as to materiality, in all 
+respects) on and as of the Amendment Effective Date, except in the case of 
+any such representation and warranty that expressly relates to a prior 
+date, in which case such representation and warranty is true and correct in 
+all material respects (or in all respects, as applicable) as of such 
+earlier date.
+
+(c)  At the time of and immediately after giving effect to this Amendment, 
+no Default or Event of Default shall have occurred and be continuing.
+
+SECTION 6.  Effectiveness.  This Amendment shall become effective as of the 
+date first above written (the “Amendment Effective Date”) when:
+ 
+ 
+
+------------------------------------------------------------------------
+
+9
+
+
+ 
+(a)  the Administrative Agent shall have received (i) counterparts of this 
+Amendment that, when taken together, bear the signatures of the Borrower, 
+each of the Consenting Lenders, each of the New Lenders and each of the 
+Tack-On Term Lenders, (ii) a certificate of the Borrower in substantially 
+the form of the certificate delivered to the Administrative Agent pursuant 
+to Section 4.01(c) of the Credit Agreement on the Effective Date and (iii) 
+a favorable written opinion (addressed to the Administrative Agent, the 
+Issuing Bank and the Lenders (including the Consenting Lenders, the New 
+Lenders and the Tack-On Term Lenders)) of Cravath, Swaine & Moore LLP, 
+special New York counsel to the Borrower, dated as of the Amendment 
+Effective Date;
+
+(b)  each of the applicable conditions set forth in Sections 2.18(b), 
+2.21(c), 2.21(e) and 9.04(b) of the Credit Agreement shall have been 
+satisfied;
+
+(c)  each of the representations and warranties set forth in Section 5 
+hereof shall be true and correct;
+
+(d)  the Borrower shall (i) be in compliance on a Pro Forma Basis after 
+giving effect to the incurrence of the Tack-On Term Loans (and the 
+application of the proceeds therefrom) with the covenants contained in 
+Sections 6.09 (if applicable) and 6.10 of the Credit Agreement recomputed 
+as of the last day of the most recently ended fiscal quarter of the 
+Borrower for which financial statements are required to have been delivered 
+pursuant to Section 5.01(a) or Section 5.01(b) of the Credit Agreement and 
+(ii) have delivered a certificate of a Responsible Officer certifying as to 
+compliance with clause (i) above, together with reasonably detailed 
+calculations demonstrating such compliance;
+
+(e)  The Administrative Agent shall have received a certificate, dated as 
+of the Amendment Effective Date, and signed by a Responsible Officer, 
+confirming compliance with the conditions set forth in Sections 4.02(a) and 
+4.02(b) of the Credit Agreement;
+
+(f)  the Lenders (including the Consenting Lenders, the New Lenders and the 
+Tack-On Term Lenders) shall have received all documentation and other 
+information required by bank regulatory authorities under applicable “know 
+your customer” and anti-money laundering rules and regulations, including 
+the USA PATRIOT Act, in each case to the extent requested in writing to the 
+Borrower not later than five Business Days prior to the proposed Amendment 
+Effective Date;
+
+(g)  the Administrative Agent shall have received payment of all fees and 
+expenses required to be paid or reimbursed by the Borrower under or in 
+connection with this Amendment, including those fees and expenses set forth 
+in Section 10 hereof;
+
+(h)  the Borrower shall have paid all unpaid interest and any other amounts 
+(including any breakage costs) in respect of the Existing Term Loans and, 
+solely to the extent required under Section 3(a)(ii) hereof, the 
+outstanding Revolving Loans, that has accrued to but excluding the 
+Amendment Effective Date; and
+ 
+ 
+
+------------------------------------------------------------------------
+
+10
+
+
+ 
+(i)  the Borrower shall have delivered to the Administrative Agent a 
+Borrowing Request with respect to the Borrowing of the Tack-On Term Loans 
+to be made on the Amendment Effective Date.
+
+SECTION 7.  Credit Agreement.  Except as expressly set forth herein, this 
+Amendment (a) shall not by implication or otherwise limit, impair, 
+constitute a waiver of or otherwise affect the rights and remedies of the 
+Lenders, the Administrative Agent or the Borrower under the Credit 
+Agreement or any other Loan Document and (b) shall not alter, modify, amend 
+or in any way affect any of the terms, conditions, obligations, covenants 
+or agreements contained in the Credit Agreement or any other Loan Document, 
+all of which are ratified and affirmed in all respects and shall continue 
+in full force and effect.  Nothing herein shall be deemed to entitle the 
+Borrower to any future consent to, or waiver, amendment, modification or 
+other change of, any of the terms, conditions, obligations, covenants or 
+agreements contained in the Credit Agreement or any other Loan Document in 
+similar or different circumstances.  After the Amendment Effective Date, 
+any reference in the Loan Documents to the Credit Agreement shall mean the 
+Credit Agreement as modified hereby.  This Amendment shall constitute a 
+“Loan Document”, the New Revolving Lenders shall constitute “Revolving 
+Lenders” and “Lenders”, and the New Term Lenders and the Tack-On Term 
+Lenders shall constitute “Term Lenders” and “Lenders”, in each case for all 
+purposes of the Credit Agreement and the other Loan Documents.
+
+SECTION 8.  Applicable Law; Waiver of Jury Trial.  (a)  THIS AMENDMENT AND 
+ANY CLAIM, CONTROVERSY, DISPUTE OR CAUSE OF ACTION (WHETHER IN CONTRACT OR 
+TORT OR OTHERWISE) BASED UPON, ARISING OUT OF OR RELATING TO THIS AMENDMENT 
+AND THE TRANSACTIONS CONTEMPLATED HEREBY SHALL BE GOVERNED BY, AND 
+CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+(b)  EACH PARTY HERETO HEREBY AGREES AS SET FORTH IN SECTION 9.10 OF THE 
+CREDIT AGREEMENT AS IF SUCH SECTION WERE SET FORTH IN FULL HEREIN.
+
+SECTION 9.  Counterparts; Amendment.  This Amendment may be executed in 
+counterparts (and by different parties hereto on different counterparts), 
+each of which shall constitute an original, but all of which when taken 
+together shall constitute a single contract.  Delivery of an executed 
+counterpart of a signature page of this Amendment by facsimile transmission 
+or other electronic imaging shall be effective as delivery of an original 
+executed counterpart of this Amendment.  This Amendment may not be amended 
+nor may any provision hereof be waived except pursuant to a writing signed 
+by the Borrower, the Administrative Agent and each of the Lenders.
+
+SECTION 10.  Fees and Expenses.  (a)   The Borrower agrees to pay to the 
+Administrative Agent, for the account of each Consenting Lender and each 
+New Lender, an extension consent fee equal to  0.04% of the sum of the 
+aggregate amount of Revolving Commitments and the aggregate principal 
+amount of Term Loans, in each case
+ 
+ 
+
+------------------------------------------------------------------------
+
+11
+
+ 
+ 
+of such Lender immediately after giving effect to the consummation of the 
+transactions specified in Section 3 hereof (but, for the avoidance of 
+doubt, prior to giving effect to the transactions specified in Section 4 
+hereof).  The fees payable pursuant to this Section 10(a) will be paid in 
+dollars in immediately available funds on the Amendment Effective Date.
+
+(b)  The Borrower agrees to pay to the Administrative Agent, for the 
+account of each Tack-On Term Lender, an upfront fee equal to 0.20% of the 
+aggregate principal amount of the Tack-On Term Loans funded by such Tack-On 
+Term Lender on the Amendment Effective Date.  The fees payable pursuant to 
+this Section 10(b) will be paid in dollars in immediately available funds 
+on the Amendment Effective Date.
+
+(c)  Notwithstanding anything herein to the contrary, with respect to the 
+transactions contemplated by this Amendment, (i) the Administrative Agent 
+hereby agrees to waive payment of the processing and recordation fee of 
+$3,500 to the extent such fee is required under Section 9.04(b)(ii) of the 
+Credit Agreement and (ii) each Lender that has separately notified the 
+Borrower that it has agreed to waive payment of the break funding costs 
+required to be paid under Section 2.15 of the Credit Agreement in 
+connection with the transactions contemplated by Section 4 hereof hereby 
+agrees to such waiver.
+
+(d)  The Borrower agrees to reimburse the Administrative Agent for its 
+reasonable out-of-pocket expenses in connection with this Amendment to the 
+extent required under Section 9.03 of the Credit Agreement.
+
+SECTION 11.  Headings.  The Section headings used herein are for 
+convenience of reference only, are not part of this Amendment and are not 
+to affect the construction of, or to be taken into consideration in 
+interpreting, this Amendment.
+ 
+[Signature Pages Follow]
+
+ 
+
+------------------------------------------------------------------------
+
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be 
+duly executed by their respective authorized officers as of the day and 
+year first written above.
+ 
+ 
+  	CROWN CASTLE INTERNATIONAL CORP., as the Borrower 	 
+  	  	  	 
+ 
+By
+ 
+  	  	 /s/ Jay A. Brown 	 
+  	  	Name:  Jay A. Brown 	 
+  	  	Title:    President and Chief Executive Officer 	 
+  	  	  	 
+ 
+ 
+
+[First Amendment Signature Page]
+
+------------------------------------------------------------------------
+
+ 
+ 
+  	
+JPMORGAN CHASE BANK, N.A.,
+individually (solely for purposes of Sections 3(a)(ii) and
+3(b)(ii) hereof) and as Administrative Agent and an
+Issuing Bank
+ 
+  	  	  	 
+ 
+By
+ 
+  	  	 /s/ David Migliardi 	 
+  	  	Name:  David Migliardi 	 
+  	  	Title:    Vice President 	 
+  	  	  	 
+ 
+ 
+
+[First Amendment Signature Page]
+
+------------------------------------------------------------------------
+
+ 
+ 
+  	BANK OF AMERICA, N.A., as an Issuing Bank 	 
+  	  	  	 
+ 
+By
+ 
+  	  	 /s/ Jonathan Tristan 	 
+  	  	Name:  Jonathan Tristan 	 
+  	  	Title:    Vice President 	 
+  	  	  	 
+ 
+ 
+
+[First Amendment Signature Page]
+
+------------------------------------------------------------------------
+
+ 
+[Lender Signature Pages on file with the Administrative Agent]
+ 
+ 
+
+[First Amendment Signature Page]
+
+------------------------------------------------------------------------
+
+ 
+SCHEDULE I
+
+New Revolving Lenders and Consenting Revolving Lenders
+ 
+[On file with the Administrative Agent]
+
+
+------------------------------------------------------------------------
+
+ 
+
+SCHEDULE II
+
+New Term Lenders, Consenting Term Lenders and Tack-On Term Lenders
+
+[On file with the Administrative Agent]
+ 
+ 
+
+
+------------------------------------------------------------------------
+
+ 
+ 
+SCHEDULE III
+
+Tack-On Term Lenders
+
+[On file with the Administrative Agent]
+
+ 
+ 
