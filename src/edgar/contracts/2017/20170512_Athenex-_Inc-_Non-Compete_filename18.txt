@@ -1,19 +1,18 @@
- EX-10 17 filename17.htm
-Exhibit 10.26
+ EX-10 18 filename18.htm
+Exhibit 10.27
 
 EMPLOYMENT AGREEMENT
 
 THIS EMPLOYMENT AGREEMENT (this Agreement) is made and entered into as of 
-February 20, 2017 (the Effective Date) by and between ATHENEX, INC., a 
+February 21, 2017 (the Effective Date) by and between ATHENEX, INC., a 
 company existing under the laws of Delaware having its principal office at 
 Conventus Building, 1001 Main Street, Suite 600, Buffalo, New York 14203 
-(the Company), and Dr. Simon Pedder, an individual residing at #### 
-########## ####, ###### ####, ##, #####, USA (Executive).
+(the Company), and J. Nick Riehle, an individual residing at ### ####### 
+#### #######, #### #####, ## #####, USA (Executive).
 
 1. Employment; Term. Subject to the terms and conditions set forth in this 
 Agreement, the Company hereby agrees to employ Executive, and Executive 
-hereby accepts employment, as Executive Vice President and Chief Business 
-and Strategy Officer, Proprietary Products, of the Company, for the period 
+hereby accepts employment, as Chief Financial Officer, for the period 
 beginning on the Effective Date of this Agreement and continuing for an 
 initial term of three (3) years (the Term) unless earlier terminated as 
 hereinafter set forth. Upon the end of the Term, this Employment Agreement 
@@ -21,28 +20,27 @@ shall continue to renew for additional one (1) year Terms until terminated
 pursuant to this Agreement.
 
 2. Position and Duties. During the employment relationship, Executive shall 
-serve as Executive Vice President and Chief Business and Strategy Officer, 
-Proprietary Products, of the Company, and will report to the Chief 
-Executive Officer, and will have such responsibilities, duties and 
-authorities, and render such services to the Company as are reasonably 
-consistent with such positions and as the Chief Executive Officer may from 
-time to time direct. Executive acknowledges that his duties and 
-responsibilities will require 80% of his full-time business efforts and 
-agrees that during the employment relationship, he will not engage in any 
-other business activity or have any business pursuits or interests except 
-activities or interests which the Chief Executive Officer has determined, 
-in his reasonable judgment, after notice by Executive, do not conflict with 
-the business of the Company or interfere with the performance of 
-Executives duties hereunder. Executive agrees to perform his duties and 
-discharge his responsibilities in a diligent, efficient and faithful 
-manner, and to promote the best interests of the Company. Notwithstanding 
-the foregoing, Executive may devote a reasonable amount of time to civic, 
-educational, community, or charitable activities that do not interfere with 
-the performance of Executives duties and responsibilities hereunder and, 
-with the prior consent of the Chief Executive Officer, serve as a director 
-of entities other than the Company. Executives duties (the Executive 
-Duties) shall include such duties as are assigned to Executive by the 
-Chief Executive Officer from time to time and:
+serve as Chief Financial Officer, and will report to the Chief Executive 
+Officer, and will have such responsibilities, duties and authorities, and 
+render such services to the Company as are reasonably consistent with such 
+positions and as the Chief Executive Officer may from time to time direct. 
+Executive acknowledges that his duties and responsibilities will require 
+80% of his full-time business efforts and agrees that during the employment 
+relationship, he will not engage in any other business activity or have any 
+business pursuits or interests except activities or interests which the 
+Chief Executive Officer has determined, in his reasonable judgment, after 
+notice by Executive, do not conflict with the business of the Company or 
+interfere with the performance of Executives duties hereunder. Executive 
+agrees to perform his duties and discharge his responsibilities in a 
+diligent, efficient and faithful manner, and to promote the best interests 
+of the Company. Notwithstanding the foregoing, Executive may devote a 
+reasonable amount of time to civic, educational, community, or charitable 
+activities that do not interfere with the performance of Executives duties 
+and responsibilities hereunder and, with the prior consent of the Chief 
+Executive Officer, serve as a director of entities other than the Company. 
+Executives duties (the Executive Duties) shall include such duties as 
+are assigned to Executive by the Chief Executive Officer from time to time 
+and:
  
   	a. 	preserving the business relationships of the Company;
  
@@ -68,10 +66,10 @@ services of the Company; and
 3. Salary and Benefits. As consideration and compensation for the Executive 
 Duties, the Company shall compensate Executive in the following manner:
  
-  	a. 	Base Salary. The Company shall pay Executive a salary of USD Three 
-Hundred Thousand Dollars ($300,000) per year, as may be adjusted upward 
-from time to time (the Base Salary), payable in accordance with the 
-customary payroll practices of the Company.
+  	a. 	Base Salary. The Company shall pay Executive a salary of USD Two 
+Hundred Ninety Thousand Dollars ($290,000) per year, as may be adjusted 
+upward from time to time (the Base Salary), payable in accordance with 
+the customary payroll practices of the Company.
  
   	b. 	Bonus. The Executive will also be considered for year end bonus with 
 other senior executives and will be awarded at the same range with the 
@@ -79,10 +77,10 @@ exact amount to be determined by the Compensation Committee of the Board of
 Directors.
  
   	c. 	Stock Options. The Compensation Committee of the Board will also 
-recommend to the full Board an additional 130,000 shares of Athenex stock 
+recommend to the full Board an additional 120,000 shares of Athenex stock 
 options under the current Stock Option Plan during the Initial Public 
 Offering with a term of ten (10) years, vested in equal installments over 
-four (4) years, and the exercise price the same as the Initial Public 
+three (3) years, and the exercise price the same as the Initial Public 
 Offering Price.
  
   	d. 	Other Benefits. Executive shall be entitled to fifteen (15) business 
@@ -203,7 +201,7 @@ otherwise responds to a general employment or similar notice issued on
 behalf of the Executive or another Person, in each case, without any 
 inducement from or on behalf of the Executive. The prohibitions in this 
 Section 5.a. include, but are not limited to using social media, such as 
-LinkedIn, Facebook, and/or Twitter, to directly communicate with any 
+Linkedln, Facebook, and/or Twitter, to directly communicate with any 
 employee, customer, supplier, licensee, licensor,
  
 4
@@ -275,11 +273,12 @@ way affect Executives obligations and covenants contained in Sections
 effect following a termination of employment relationship after a Change in 
 Control.
 
+
 6. Confidential Information, Work Product; Confidentiality of Terms.
  
   	a. 	Executive shall keep secret and retain the confidential nature of 
-all Confidential Information (as hereinafter defined) of or belonging to 
-the Company or any of its Affiliates and take such other precautions with 
+all Confidential Information (as hereinafter defmed) of or belonging to the 
+Company or any of its Affiliates and take such other precautions with 
 respect thereto as the Company, in its sole discretion, may reasonably 
 request. Executive shall not at any time, whether before or after the 
 termination of his employment hereunder, use, copy, disclose, divulge or 
@@ -325,6 +324,7 @@ Confidential Information shall, together with all copies thereof, and all
 other property of the Company, be returned to the Company immediately upon 
 termination of employment for whatever reason or if sooner, immediately 
 upon demand by the Company.
+
 
 7. Enforcement.
  
@@ -397,8 +397,8 @@ following termination of Executives employment for any reason, Executive
 agrees to cooperate in good faith with the Company and to be reasonably 
 available to the Company with respect to continuing or future matters 
 arising out of Executives services to the Company and its Affiliates in 
-exchange for compensation at an hourly rate of two hundred fifty dollars 
-($250.00), provided, however, that the Executive shall provide such 
+exchange for compensation at an hourly rate of one hundred ninety-five 
+dollars ($195.00), provided, however, that the Executive shall provide such 
 cooperation at no additional charge to the Company during any periods in 
 which Executive is receiving compensation from the Company pursuant to 
 Sections 4.c.ii., or 4.f. Upon termination, Executive shall promptly return 
@@ -407,7 +407,7 @@ tangible or intangible, which he possessed or had control over at any time
 during the employment relationship, including, without limitation, credit 
 cards, building and office access cards, keys, computer equipment, cell 
 phones, electronic devices, manuals, files, documents, records, software, 
-customer database and other data, research, financial data and information, 
+customer database and other data, research, fmancial data and information, 
 correspondence, statistics and payroll and other data, and any copies, 
 compilations, extracts, excerpts, summaries and other notes thereof or 
 relating thereto.
@@ -424,6 +424,7 @@ any contract, agreement, instrument, order, judgment or decree to which
 Executive is a party or by which he is bound; and (b) this Agreement is the 
 valid and binding obligation of Executive, enforceable in accordance with 
 its terms.
+
 
 11. Definitions.
 
@@ -520,7 +521,7 @@ titles specified in Section 2; (ii) the Companys material breach of any
 provision of this Agreement; or (iv) resignation by the Executive after an 
 act by the CEO or the Board of Directors of Athenex that would constitute a 
 breach of the Companys or Athenexs code of ethics, if any, or fiduciary 
-duties, a crime or material fraud; provided, however. Executives 
+duties, a crime or material fraud; provided, however, Executives 
 termination pursuant to Section 4.a.ii. shall not be for Good Reason unless 
 Executive shall have given written notice to the Company within ninety (90) 
 days after any event which has resulted in any such material diminution and 
@@ -690,15 +691,15 @@ employment and social insurance taxes, as shall be required by law.
 IN WITNESS WHEREOF, the Parties have executed this Employment Agreement as 
 of the Effective Date.
  
-  	 	  	ATHENEX, INC.
-  	 	  	By: 	  	 [LOGO]
-  	 	  	 	  	
+ATHENEX, INC.
+By: 	  	 [LOGO]
+  	
  
-[LOGO] 	  	 	  	 	  	
 Johnson Lau
-CEO
+  	CEO
  
-  	 	  	 	  	
-Dr. Simon Pedder 	  	 	  	 	  	
+[LOGO]
+ 
+J. Nick Riehle
  
 14
