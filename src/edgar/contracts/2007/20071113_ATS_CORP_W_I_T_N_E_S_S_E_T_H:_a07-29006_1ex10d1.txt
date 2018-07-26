@@ -1,0 +1,1904 @@
+ EX-10.1 2 a07-29006_1ex10d1.htm EX-10.1
+Exhibit 10.1
+
+AMENDMENT NO. 2 TO CREDIT AGREEMENT, LIMITED CONSENT AND AGREEMENT TO 
+INCREASE COMMITMENTS
+
+This Amendment No. 2 to Credit Agreement, Limited Consent and Agreement to 
+Increase Commitments (this Amendment) dated as of November 9, 2007, is 
+made among ATS CORPORATION, a Delaware corporation (the Borrower), BANK 
+OF AMERICA, N.A., a national banking association organized and existing 
+under the laws of the United States, in its capacity as administrative 
+agent for the Lenders (as defined in the Credit Agreement (as defined 
+below)) (in such capacity, the Administrative Agent), each of the Lenders 
+signatory hereto and each of the Guarantors signatory hereto.
+
+W I T N E S S E T H:
+
+WHEREAS, the Borrower, the Administrative Agent and the Lenders have 
+entered into that certain Credit Agreement dated as of June 4, 2007 (as 
+amended by Amendment No. 1 to Credit Agreement dated as of June 29, 2007 
+and as from time to time hereafter further amended, restated, supplemented 
+or otherwise modified, the Credit Agreement; capitalized terms used in 
+this Amendment not otherwise defined herein shall have the definition given 
+thereto in the Credit Agreement), pursuant to which the Lenders have made 
+available to the Borrower a revolving credit facility, including a letter 
+of credit subfacility; and
+
+WHEREAS, each of the Guarantors has entered into a Guaranty pursuant to 
+which it has guaranteed the payment and performance of the obligations of 
+the Borrower under the Credit Agreement and the other Loan Documents; and
+
+WHEREAS, the Borrower is the owner and holder of all of the issued and 
+outstanding shares of ATS NSS Acquisition, Inc., a Delaware corporation 
+(the Merger Sub); and
+
+WHEREAS, the Borrower desires to acquire all of the outstanding Equity 
+Interests of Number Six Software, Inc., a Delaware corporation (NSS), by 
+means of a merger of the Merger Sub with and into NSS (such merger being 
+referred to herein as the NSS Merger), pursuant to that certain Agreement 
+and Plan of Merger and Reorganization dated as of October 12, 2007, among 
+the Borrower, the Merger Sub, NSS, Blue Water Venture Fund III, LLC, Bakke 
+Enterprises L.L.C., the estate of Brian Lyons, Dennis Leggett and Ralph 
+Alexander, in his individual capacity and in his capacity as the 
+Stockholders Representative (as defined therein) (the Merger Agreement
+); and
+
+WHEREAS, pursuant to the Merger Agreement, NSS will be the surviving 
+corporation and the Merger Sub will be the merged or disappearing 
+corporation and shall cease to legally exist; and
+
+WHEREAS, the Borrower, the Guarantors, the Administrative Agent and the 
+Lenders have previously entered into that certain Limited Waiver dated as 
+of October 12, 2007, pursuant to which the Lenders temporarily waived the 
+provisions of Section 7.07 of the Credit Agreement to the extent necessary 
+to permit the Borrower and the Merger Sub to enter into the Merger 
+Agreement;
+
+ 
+------------------------------------------------------------------------
+
+ 
+ 
+WHEREAS, in order to consummate the transaction contemplated by the Merger 
+Agreement, the Borrower has (i) advised the Administrative Agent that it 
+desires to amend the Credit Agreement to, among other things, allow for 
+certain seller indebtedness in connection with Permitted Acquisitions and 
+(ii) requested that the Lenders (A) increase their respective Commitments 
+from $12,500,000 to $25,000,000 pursuant to Section 2.14 of the Credit 
+Agreement and (B) consent to the NSS Merger; and
+
+WHEREAS, the Administrative Agent and the Lenders are willing to so amend 
+the Credit Agreement and the Lenders are willing to so increase their 
+respective Commitments and consent to the NSS Merger on the terms and 
+conditions contained in this Amendment;
+
+NOW, THEREFORE, in consideration of the premises and further valuable 
+consideration, the receipt and sufficiency of which is hereby acknowledged, 
+the parties hereto agree as follows:
+
+    1.                                       Amendment to Credit Agreement
+    .  Subject to the terms and conditions set forth herein, and in
+    reliance upon the representations and warranties of the Borrower made
+    herein, the Credit Agreement is hereby amended as follows:
+
+        (a)                                  The following new definitions
+        are added to Section 1.01 of the Credit Agreement in the proper
+        alphabetical locations:
+
+        Coverage Adjustment Amount means, with respect to any date
+        occurring during each period set forth below, an amount equal to
+        the amount set forth below opposite such period, but subject to
+        adjustment pursuant to Section 6.10:
+
+ Period
+ 
+Coverage Adjustment Amount
+ 
+ October 1, 2007 through February 29, 2008
+ 
+$
+8,250,000
+ 
+ March 1, 2008 through May 31, 2008
+ 
+$
+5,250,000
+ 
+ June 1, 2008 through August 31, 2008
+ 
+$
+3,000,000
+ 
+ August 31, 2008 through November 30, 2008
+ 
+$
+2,000,000
+ 
+ December 1, 2008 and thereafter
+ 
+$
+0
+ 
+         
+
+        NSS means Number Six Software, Inc., a Delaware corporation.
+         
+        NSS Acquisition Date means November 9, 2007.
+
+        NSS Adjustment Amount means, with respect to the computation of 
+        Consolidated EBITDA and Consolidated Cash Flow for the fiscal
+        quarter ending December 31, 2007, the respective amounts determined
+        by (x) computing the amount (whether positive or negative) that NSS
+        operations contribute to Consolidated EBITDA or Consolidated Cash
+        Flow, as applicable, during the period (the NSS Inclusion Period
+        ) from the NSS Acquisition Date through December 31, 2007 and (y)
+        multiplying the amount so determined in clause (x) by
+
+ 
+ 
+2
+------------------------------------------------------------------------
+
+ 
+ 
+ 
+        a fraction, the numerator of which is 90 and the denominator of
+        which is the number of days in the NSS Inclusion Period.
+
+        NSS Merger the Borrowers acquisition of all of the outstanding
+        Equity Interests of NSS, by means of a merger of ATS NSS
+        Acquisition, Inc., a Delaware corporation, with and into NSS,
+        pursuant to the NSS Merger Agreement.
+
+        NSS Merger Agreement means that certain Agreement and Plan of
+        Merger and Reorganization dated as of October 12, 2007, among the
+        Borrower, the Merger Sub, Blue Water Venture Fund III, LLC, Bakke
+        Enterprises L.L.C., the estate of Brian Lyons, Dennis Leggett and
+        Ralph Alexander, in his individual capacity and in his capacity as
+        the Stockholders Representative (as defined therein).
+
+        Subordinated Seller Notes means, collectively, the promissory
+        notes issued to any holder of Equity Interests in NSS in connection
+        with the NSS Merger in an aggregate principal amount not in excess
+        of $5,500,000 and containing terms and conditions satisfactory to
+        the Administrative Agent, including, without limitation, terms and
+        conditions relating to interest payments, repayment of principal
+        and subordination of the Indebtedness evidenced thereby to the
+        Obligations.
+
+        (b)                                 The definition of Consolidated
+        EBITDA in Section 1.01 of the Credit Agreement is amended by adding
+        the following proviso at the end thereof:
+
+        ; provided, however, that, with respect to the fiscal quarter
+        ending December 31, 2007, (i) the reference to the Borrower and
+        its Subsidiaries shall not include NSS or any of its Subsidiaries
+        or the portion of Consolidated EBITDA attributable to NSS and its
+        Subsidiaries and (ii) Consolidated EBITDA (as calculated above)
+        shall be increased by an amount equal to the NSS Adjustment
+        Amount.
+
+        (c)                                  The definitions of Compliance
+        Certificate, Consolidated Asset Coverage Ratio, Consolidated
+        Cash Flow and Consolidated Fixed Charges in Section 1.01 of the
+        Credit Agreement are hereby deleted in their entirety and the
+        following definitions are inserted in lieu thereof:
+
+        Compliance Certificate means a certificate substantially in the
+        form of Exhibit D-1 or D-2, as applicable.
+
+        Consolidated Asset Coverage Ratio means for any date of
+        determination, the ratio of (a) the sum of (i) gross billed and
+        unbilled Accounts of the Borrower and its Subsidiaries on a
+        consolidated basis plus (ii) the Coverage Adjustment Amount to (b)
+        Total Outstandings.
+
+        Consolidated Cash Flow means for any period, for the Borrower and
+        its Subsidiaries, on a consolidated basis, without duplication, (a)
+        net income, after income tax, for such period (b) less income or 
+        plus loss from discontinued
+
+ 
+ 
+ 
+3
+------------------------------------------------------------------------
+
+ 
+ 
+        operations and extraordinary items for such period, (c) plus 
+        depreciation, depletion, amortization, impairment of goodwill,
+        write-down of intangibles, the amortization and expensing of
+        non-cash stock based compensation and other non-cash charges for
+        such period which will not represent a cash item in any future
+        period, (d) plus interest expense on all obligations for such
+        period, (e) plus rental expense for such period (f) minus 
+        dividends, withdrawals and other distributions for such period, (g) 
+        minus any unfinanced capital expenditures for such period, and (h) 
+        minus earn-out payments payable for such period; provided, however
+        , that, with respect to the fiscal quarter of Borrower ending
+        December 31, 2007, (i) the reference to the Borrower and its
+        Subsidiaries shall not include NSS or any of its Subsidiaries or
+        the portion of Consolidated Cash Flow attributable to NSS and its
+        Subsidiaries and (ii) Consolidated Cash Flow (as calculated above)
+        shall be increased by an amount equal to the NSS Adjustment Amount.
+
+        Consolidated Fixed Charges means for any period, for the Borrower
+        and its Subsidiaries on a consolidated basis, the sum of, without
+        duplication, (a) interest expense for such period, (b) all required
+        payments of principal of Indebtedness for such period (excluding
+        any payments of principal with respect to any Loan), (c) the
+        current portion of capitalized lease obligations for such period,
+        and (d) rental expense for such period.
+
+        (d)                                 The definition of Applicable
+        Rate in Section 1.01 of the Credit Agreement is hereby amended by
+        deleting each reference to Section 6.02(b) and inserting 
+        Section 6.02(b)(i) in lieu thereof.
+
+        (e)                                  The last sentence of the
+        definition of Applicable Rate in Section 1.01 of the Credit
+        Agreement is deleted in its entirety and the following is inserted
+        in lieu thereof:
+
+        Notwithstanding the Coverage Adjustment Amount then in effect, if a
+        Coverage Adjustment Amount equal to $0 would result in the
+        Borrowers failure to comply with Section 6.12(a) during the period
+        for which the Applicable Rate is being calculated, an additional
+        0.25% per annum shall be added to the Applicable Rate (except in
+        the case of the Unused Fee) for such period.  The Applicable Rate
+        in effect from NSS Acquisition Date through the first Applicable
+        Rate Change Date after the fiscal quarter ending March 31, 2008
+        shall be determined based upon Pricing Level 4, subject to the
+        preceding sentence.
+
+        (f)                                    The reference to Sections
+        6.12(a), (b) and (c) in subsections (a) and (b) of Section 1.07 
+        of the Credit Agreement is deleted and Sections 6.12(a), (b), (c) 
+        and (d) is inserted in lieu thereof.
+
+        (g)                                 The following subsection (c) is
+        added to Section 1.07 of the Credit Agreement:
+
+    (c)           Annualization of Consolidated EBITDA and Consolidated
+    Cash Flow.  Notwithstanding anything to the contrary in clause (a)
+    above, when calculating
+
+ 
+ 
+4
+------------------------------------------------------------------------
+
+ 
+ 
+ 
+    Consolidated EBITDA and Consolidated Cash Flow, respectively, such
+    calculation shall be made:
+
+        (i)            with respect to the fiscal year of Borrower ending
+        December 31, 2007, by taking Consolidated EBITDA and Consolidated
+        Cash Flow, as applicable, for the fiscal quarter ending December
+        31, 2007 and multiplying by four;
+
+        (ii)           with respect to the fiscal quarter of Borrower
+        ending March 31, 2008, by taking Consolidated EBITDA and
+        Consolidated Cash Flow, as applicable, for the fiscal quarter
+        ending March 31, 2008 and multiplying by four;
+
+        (iii)          with respect to the fiscal quarter of Borrower
+        ending June 30, 2008, by taking Consolidated EBITDA and
+        Consolidated Cash Flow, as applicable, for the period of two fiscal
+        quarters ending June 30, 2008 and multiplying by two; and
+
+        (iv)          with respect to the fiscal quarter of Borrower ending
+        September 30, 2008, by taking Consolidated EBITDA and Consolidated
+        Cash Flow, as applicable, for the period of three fiscal quarters
+        ending September 30, 2008 and multiplying by four-thirds (4/3).
+
+        (h)                                 The reference in Section
+        6.01(b) of the Credit Agreement to such consolidating statements
+        to be is deleted and such consolidated statements to be is
+        inserted in lieu thereof.
+
+        (i)                                     Section 6.01(d) of the
+        Credit Agreement is deleted in its entirety and the following is
+        inserted in lieu thereof:
+
+        (d)           through December 31, 2008, as soon as available, but
+        in any event within 30 days after the end of each month and, after
+        December 31, 2008, within 45 days after the end of each fiscal
+        quarter of the Borrower, an accounts receivable aging report and
+        accounts payable aging report for the Borrower and each Subsidiary;
+
+        (j)                                     The following subsections
+        are added to Section 6.01 of the Credit Agreement:
+
+        (e)           as soon as available, but in any event within 45 days
+        after the end of each fiscal quarter of the Borrower, a contract
+        backlog report for the Borrower and its Subsidiaries; and
+
+        (f)            as soon as available, but in any event within 45
+        days after the end of the fiscal year of the Borrower ending
+        December 31, 2007, (i) a consolidated and consolidating balance
+        sheet of Borrower and its Subsidiaries as at the end of such fiscal
+        year, and the related consolidated and consolidating statements of
+        income or operations, shareholders equity and cash flows for such
+        fiscal year, setting forth in each case the figures for each fiscal
+        quarter ending during such fiscal year, all in reasonable detail,
+        such consolidated statements to be certified by
+
+ 
+5
+------------------------------------------------------------------------
+
+ 
+ 
+        the chief executive officer, chief financial officer, treasurer or
+        controller of Borrower as fairly presenting the financial
+        condition, results of operations, shareholders equity and cash
+        flows of Borrower and its Subsidiaries in accordance with GAAP,
+        subject only to normal year-end audit adjustments and the absence
+        of footnotes, and such consolidating statements to be certified by
+        the chief executive officer, chief financial officer, treasurer or
+        controller of Borrower to the effect that such statements are
+        fairly stated in all material respects when considered in relation
+        to the consolidated financial statements of the Borrower and its
+        Subsidiaries, and (ii) a consolidated balance sheet of NSS and its
+        Subsidiaries for the period beginning on the date that NSS becomes
+        a Subsidiary through December 31, 2007, and the related
+        consolidated statements of income or operations, shareholders
+        equity and cash flows for such period, all in reasonable detail.
+
+        (k)                                  Section 6.02(b) of the Credit
+        Agreement is deleted in its entirety and the following is inserted
+        in lieu thereof:
+
+        (b)           concurrently with the delivery of (i) the financial
+        statements referred to in Sections 6.01(a) and (b), a duly
+        completed Compliance Certificate in the form attached hereto as 
+        Exhibit D-1 and (ii) the reports referred to in Section 6.01(d) 
+        for each month through December 31, 2008, a duly completed
+        Compliance Certificate in the form attached hereto as Exhibit D-2,
+        in each case signed by the chief executive officer, chief financial
+        officer, treasurer or controller of Borrower;
+
+        (l)                                     The following sentence is
+        added to Section 6.10 of the Credit Agreement:
+
+        In addition to the foregoing, the Borrower agrees that
+        Administrative Agent may conduct field examinations with respect to
+        ATS and its Subsidiaries at a frequency determined by the initial
+        field examination, which shall occur no later than March 31, 2008. 
+        Notwithstanding anything provided herein to the contrary, Borrower
+        also agrees that the Required Lenders may, in their sole
+        discretion, modify or adjust (i) the Coverage Adjustment Amount,
+        (ii) the frequency of field examinations, and (iii) the type and
+        frequency of any reporting required hereunder, based on the results
+        of any field examination.
+
+        (m)                               Section 6.12 of the Credit
+        Agreement is deleted in its entirety and the following is inserted
+        in lieu thereof:
+
+        6.12        Financial Covenants.
+
+    (a)           Consolidated Asset Coverage Ratio.  Maintain a
+    Consolidated Asset Coverage Ratio of not less than (i) at all times
+    prior to June 30, 2009, 1.00 to 1.00 and (ii) at all times thereafter,
+    1.20 to 1.00.  This ratio will be reported (i) from October 1, 2007
+    through December 31, 2008, at the end of each month and (ii) from
+    January 1, 2009 and thereafter, at the end of each reporting period for
+    which this Agreement requires the Borrower to deliver financial
+    statements.
+
+ 
+ 
+6
+------------------------------------------------------------------------
+
+ 
+ 
+    (b)           Consolidated Leverage Ratio.  Maintain at all times a
+    Consolidated Leverage Ratio not exceeding 3.50 to 1.00.  This ratio
+    will be reported at the end of each reporting period for which this
+    Agreement requires the Borrower to deliver financial statements
+    (pursuant to Sections 6.01(a), 6.01(b) or 6.01(f), as applicable),
+    using the results of the twelve-month period ending with that reporting
+    period (except as otherwise provided in Section 1.07(c)).
+
+    (c)           Consolidated Fixed Charge Coverage Ratio.  Maintain at
+    all times a Consolidated Fixed Charge Coverage Ratio of at least 1.20
+    to 1.00.  This ratio will be reported at the end of each reporting
+    period for which this Agreement requires the Borrower to deliver
+    financial statements (pursuant to Sections 6.01(a), 6.01(b) or 6.01(f)
+    , as applicable), using the results of the twelve-month period ending
+    with that reporting period (except as otherwise provided in Section
+    1.07(c)).
+
+    (d)           Minimum Consolidated EBITDA.  Maintain Consolidated
+    EBITDA for each fiscal quarter set forth below in an amount not less
+    than the amount set forth below opposite such fiscal quarter:
+
+ Fiscal Quarter
+ 
+Minimum Consolidated
+EBITDA
+ 
+ Fiscal quarter ending March 31, 2008
+ 
+$
+3,200,000
+ 
+ Fiscal quarter ending June 30, 2008
+ 
+$
+3,750,000
+ 
+ Fiscal quarter ending September 30, 2008
+ 
+$
+4,200,000
+ 
+     
+
+        (n)                                 Article VI of the Credit
+        Agreement is amended by adding the following section at the end
+        thereof:
+
+        6.16        Interest Rate Protection.  At all times beginning on
+        the NSS Acquisition Date, maintain variable-to-fixed rate Swap
+        Contracts having an aggregate notional amount of at least
+        $20,000,000, with terms and conditions satisfactory to the
+        Administrative Agent.
+
+        (o)                                 Section 7.03 of the Credit
+        Agreement is amended by adding the following subsection at the end
+        thereof:
+
+        (j)          unsecured Indebtedness evidenced by the Subordinated
+        Seller Notes.
+
+        (p)                                 The existing Exhibit D to the
+        Credit Agreement is deleted in its entirety and Exhibit D-1 and
+        Exhibit D-2 attached hereto are inserted in lieu thereof.
+
+        (q)                                 The following subsection (g) is
+        added to Section 7.05 of the Credit Agreement:
+
+        (g)           Dispositions of accounts receivable by NSS to Avnet,
+        Inc. pursuant to the terms of that certain Partner Agreement,
+        Agreement No. P41207035, between Avnet, Inc. and NSS.
+
+ 
+7
+------------------------------------------------------------------------
+
+ 
+ 
+        (r)            The proviso at the end of Section 7.05 of the Credit
+        Agreement is amended by deleting the reference to clauses (a)
+        through (f) and inserting clauses (a) through (g) in lieu
+        thereof.
+
+        (s)                                  Article VII of the Credit
+        Agreement is amended by adding the following sections at the end
+        thereof:
+
+        7.13        Prepayments, Etc. of Indebtedness.  Prepay, redeem,
+        purchase, defease or otherwise satisfy prior to the scheduled
+        maturity thereof in any manner, or make any payment in violation of
+        any subordination terms of, any Indebtedness permitted by Section
+        7.03(j).
+
+        7.14        Amendment, Etc. of Indebtedness.  Amend, modify or
+        otherwise change, or consent or agree to any amendment,
+        modification, waiver or other change to, any of the terms of any
+        agreement or instrument governing or evidencing any Indebtedness
+        permitted by Section 7.03(j) in any manner without the prior
+        consent of the Required Lenders.
+
+    2.                                       Increase in Commitments.  In
+    accordance with Section 2.14 of the Credit Agreement and in response to
+    the Borrowers request to increase the Aggregate Commitments from
+    $25,000,000 to $50,000,000, each of Bank of America, N.A., as a Lender
+    (BOA), and Citizens Bank of Pennsylvania, as a Lender (Citizens),
+    agrees to increase its Commitment by an amount equal to $12,500,000,
+    effective as of the date hereof.  After giving effect to such increase,
+    each of BOAs and Citizenss Commitment as of the date hereof, is
+    $25,000,000.
+
+    3.                                       Limited Consent.  Each of the
+    Lenders hereby consents, acknowledges and agrees to the NSS Merger upon
+    the terms set forth in the Merger Agreement and hereby confirms that
+    the NSS Merger shall be deemed a Permitted Acquisition under the Credit
+    Agreement.
+
+    4.                                       Effectiveness; Conditions
+    Precedent.  The amendments herein provided shall be effective upon the
+    satisfaction of the following conditions precedent:
+
+        (a)                                  The Administrative Agent shall
+        have received each of the following documents or instruments in
+        form and substance acceptable to the Administrative Agent:
+
+            (i)                                     one or more
+            counterparts of this Amendment, duly executed by the Borrower
+            and each Guarantor;
+
+            (ii)                                  a certificate of each
+            Loan Party dated as of the date hereof signed by a Responsible
+            Officer of such Loan Party (i) certifying and attaching the
+            resolutions adopted by such Loan Party approving or consenting
+            to the Increase, and (ii) in the case of the Borrower,
+            certifying that, before and after giving effect to the
+            increases provided herein, (A) the representations and
+            warranties contained in Article V of the Credit Agreement and
+            the other Loan Documents are true and correct on and as of the
+            Increase Effective Date, except to the extent that such
+            representations and warranties specifically refer to an earlier
+            date, in which case they are true
+
+ 
+8
+------------------------------------------------------------------------
+
+ 
+ 
+            and correct as of such earlier date, and except that the
+            representations and warranties contained in subsections (a) and
+            (b) of Section 5.05 of the Credit Agreement shall be deemed to
+            refer to the most recent statements furnished pursuant to
+            clauses (a) and (b), respectively, of Section 6.01 of the
+            Credit Agreement and (B) no Default exists;
+
+            (iii)                               fully-executed copies of
+            the Merger Agreement, the Subordinated Seller Notes executed in
+            connection with the NSS Merger and the other documents and
+            agreements entered into in connection with the NSS Merger;
+
+            (iv)                              consolidated opening balance
+            sheet of the Borrower and its Subsidiaries after giving effect
+            to the NSS Merger;
+
+            (v)                                 quarterly financial
+            forecasts of the Borrower and its Subsidiaries, on a
+            consolidated and consolidating basis, prepared by management of
+            the Borrower including balance sheets and related statements of
+            income or operations, shareholders equity and cash flows for
+            each fiscal quarter ending in 2009 and 2010, in each case
+            certified by the chief financial officer of the Borrower;
+
+            (vi)                              a certificate of a
+            Responsible Officer of each Loan Party either (i) attaching
+            copies of all consents, licenses and approvals required in
+            connection with the consummation by such Loan Party of the NSS
+            Merger and the execution, delivery and performance by such Loan
+            Party and the validity against such Loan Party of the Loan
+            Documents to which it is a party, and such consents, licenses
+            and approvals shall be in full force and effect, or (ii)
+            stating that no such consents, licenses or approvals are so
+            required;
+
+            (vii)                           evidence satisfactory to the
+            Administrative Agent, that contemporaneously with and
+            immediately upon the effectiveness of this Amendment, the NSS
+            Merger will have been consummated in accordance with the terms
+            of the NSS Merger Agreement
+
+            (viii)                        a certificate of a Responsible
+            Officer of the Borrower attaching copies of all consents,
+            licenses and approvals required in connection with the
+            consummation by NSS and its Subsidiaries of the NSS Merger,
+            which such consents, licenses and approvals shall be in full
+            force and effect;
+
+            (ix)                                completed requests for
+            information, dated on or before the date hereof, listing all
+            effective financing statements filed in the jurisdictions
+            satisfactory to the Administrative Agent that name NSS or any
+            of its Subsidiaries as debtor, together with copies of such
+            other financing statements
+
+            (x)                                   evidence satisfactory to
+            the Administrative Agent, that any Indebtedness (other than
+            Indebtedness permitted by Section 7.03 of the Credit
+
+9
+------------------------------------------------------------------------
+
+ 
+ 
+                            Agreement) of NSS and its Subsidiaries has been
+            or concurrently with the date hereof is being terminated and
+            all Liens securing such Indebtedness have been or concurrently
+            with the date hereof are being released; and
+
+            (xi)                                such other documents,
+            instruments, opinions, certifications, undertakings, further
+            assurances and other matters as the Administrative Agent shall
+            reasonably request.
+
+        (b)                                 All upfront fees due to the
+        Lenders, together with all other fees and expenses payable to the
+        Administrative Agent (including the fees and expenses of counsel to
+        the Administrative Agent) estimated to date shall have been paid in
+        full (without prejudice to final settling of accounts for such fees
+        and expenses).
+
+    5.                                       Effectiveness; Conditions
+    Subsequent.  The continued effectiveness of the amendments herein
+    provided shall be subject to the satisfaction of the following
+    conditions subsequent:
+
+        (a)                                  The Administrative Agent shall
+        have received (i) within five (5) Business Days following the date
+        hereof, all documents and instruments required by Section 6.13 and
+        (ii) within five (5) Business Days following the date hereof or
+        such longer period as the Administrative Agent may permit, all
+        landlord waivers requested by the Administrative Agent pursuant to 
+        Section 6.15 of the Credit Agreement, in each case with respect to
+        NSS and any of its Subsidiaries, in form and substance satisfactory
+        to the Administrative Agent.
+
+        (b)                                 Within 120 days following the
+        date hereof, all Deposit Accounts (as defined in the Security
+        Agreement) of NSS or any of its Subsidiaries shall be maintained
+        with Bank of America, N.A.
+
+    6.                                       Consent of the Guarantors. 
+    Notwithstanding that such consent is not required by the Loan
+    Documents, each of the Guarantors hereby consents, acknowledges and
+    agrees to the amendments set forth herein and hereby confirms and
+    ratifies in all respects the Loan Documents to which such Person is a
+    party (including without limitation the continuation of such Persons
+    payment and performance obligations and the effectiveness and priority
+    of any Liens granted thereunder, in each case upon and after the
+    effectiveness of this Amendment and the amendments contemplated hereby)
+    and the enforceability of such Loan Documents against such Person in
+    accordance with its terms.
+
+    7.                                       Representations and Warranties
+    .  In order to induce the Administrative Agent and the Lenders to enter
+    into this Amendment, the Borrower represents and warrants to the 
+    Administrative Agent and such Lenders as follows:
+
+        (a)                                  The representations and
+        warranties made by it in Article V of the Credit Agreement, and by
+        each Loan Party in each of the Loan Documents to which such Loan
+        Party is a party are true and correct on and as of the date hereof,
+        except to the extent that such representations and warranties
+        expressly relate to an earlier date, in which case such
+        representations and warranties are true and correct as of such
+        earlier date;
+
+ 
+10
+------------------------------------------------------------------------
+
+        (b)                                 Since the date of the most
+        recent financial reports of the Borrower delivered pursuant to 
+        Section 6.01 of the Credit Agreement, no act, event, condition or
+        circumstance has occurred or arisen which, singly or in the
+        aggregate with one or more other acts, events, occurrences or
+        conditions (whenever occurring or arising), has had or could
+        reasonably be expected to have a Material Adverse Effect;
+
+        (c)                                  The Persons appearing as
+        Guarantors on the signature pages to this Agreement constitute all
+        Persons who are required to be Guarantors pursuant to the terms of
+        the Credit Agreement and the other Loan Documents, including
+        without limitation all Persons who became Subsidiaries or were
+        otherwise required to become Guarantors after the Closing Date, and
+        each of such Persons has become and remains a party to a Guaranty
+        as a Guarantor;
+
+        (d)                                 This Amendment has been duly
+        authorized, executed and delivered by the Borrower and the
+        Guarantors and constitutes a legal, valid and binding obligation of
+        such Persons, except as may be limited by general principles of
+        equity or by the effect of any applicable bankruptcy, insolvency,
+        reorganization, moratorium or similar law affecting creditors
+        rights generally;
+
+        (e)                                  Contemporaneously with and
+        immediately upon the effectiveness of this Amendment, the NSS
+        Merger will have been consummated strictly in accordance with the
+        terms of the Merger Agreement, without any waiver or amendment not
+        consented to by the Lenders of any term, provision or condition set
+        forth therein and in compliance with applicable law and regulatory
+        approvals; and
+
+        (f)                                    No Default or Event of
+        Default has occurred and is continuing.
+
+    8.                                       Entire Agreement.  This
+    Amendment, together with all the Loan Documents (collectively, the 
+    Relevant Documents), sets forth the entire understanding and agreement
+    of the parties hereto in relation to the subject matter hereof and
+    supersedes any prior negotiations and agreements among the parties
+    relating to such subject matter.  No promise, condition, representation
+    or warranty, express or implied, not set forth in the Relevant
+    Documents shall bind any party hereto, and no such party has relied on
+    any such promise, condition, representation or warranty.  Each of the
+    parties hereto acknowledges that, except as otherwise expressly stated
+    in the Relevant Documents, no representations, warranties or
+    commitments, express or implied, have been made by any party to the
+    other in relation to the subject matter hereof or thereof.  None of the
+    terms or conditions of this Amendment may be changed, modified, waived
+    or canceled orally or otherwise, except in writing and in accordance
+    with Section 10.01 of the Credit Agreement.
+
+    9.                                       Full Force and Effect of
+    Agreement.  Except as hereby specifically amended, modified or
+    supplemented, the Credit Agreement and all other Loan Documents are
+    hereby confirmed and ratified in all respects and shall be and remain
+    in full force and effect according to their respective terms.
+
+ 
+ 
+11
+------------------------------------------------------------------------
+
+ 
+    10.                                 Counterparts.  This Amendment may
+    be executed in any number of counterparts, each of which shall be
+    deemed an original as against any party whose signature appears
+    thereon, and all of which shall together constitute one and the same
+    instrument.  Delivery of an executed counterpart of a signature page of
+    this Amendment by telecopy shall be effective as delivery of a manually
+    executed counterpart of this Amendment.
+
+    11.                                 Governing Law; Jurisdiction, Etc. 
+    This Amendment shall in all respects be governed by, and construed in
+    accordance with, the laws of the Commonwealth of Virginia, and shall be
+    further subject to the provisions of Section 10.13 of the Credit
+    Agreement.
+
+    12.                                 Enforceability.  Should any one or
+    more of the provisions of this Amendment be determined to be illegal or
+    unenforceable as to one or more of the parties hereto, all other
+    provisions nevertheless shall remain effective and binding on the
+    parties hereto.
+
+    13.                                 References.  All references in any
+    of the Loan Documents to the Credit Agreement shall mean the Credit
+    Agreement, as amended hereby.
+
+    14.                                 Successors and Assigns.  This
+    Amendment shall be binding upon and inure to the benefit of the
+    Borrower, each Guarantor, the Administrative Agent and each Lender, and
+    their respective successors and assignees to the extent such assignees
+    are permitted assignees as provided in Section 10.06 of the Credit
+    Agreement.
+
+ 
+[Signature pages follow.]
+ 
+ 
+ 
+12
+------------------------------------------------------------------------
+
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be 
+made, executed and delivered by their duly authorized officers as of the 
+day and year first above written.
+ 
+ 
+BORROWER:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATS CORPORATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Edward H. Bersoff
+ 
+Name:
+Edward H. Bersoff
+ 
+Title:
+President and Chief Executive Officer
+ 
+ 
+ 
+ 
+13
+------------------------------------------------------------------------
+
+
+                         
+
+
+ 
+ADMINISTRATIVE AGENT:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BANK OF AMERICA, N.A.,
+ 
+as Administrative Agent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Anne M. Zeschke
+ 
+Name:
+Anne M. Zeschke
+ 
+Title:
+Assistant Vice President
+ 
+ 
+ 
+ 
+14
+------------------------------------------------------------------------
+
+ 
+                         
+ 
+LENDERS:
+ 
+ 
+ 
+ 
+ 
+BANK OF AMERICA, N.A.,
+ 
+as a Lender
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Michael D. Brannan
+ 
+Name:
+Michael D. Brannan
+ 
+Title:
+Senior Vice President
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CITIZENS BANK OF PENNSYLVANIA
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Owen B. Burman
+ 
+Name:
+Owen B. Burman
+ 
+Title:
+Vice President
+ 
+ 
+15
+------------------------------------------------------------------------
+
+ 
+ 
+ 
+ 
+GUARANTORS:
+ 
+ 
+ 
+ 
+ 
+ 
+ADVANCED TECHNOLOGY SYSTEMS, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Pamela A. Little
+ 
+Name:
+Pamela A. Little
+ 
+Title:
+Senior Vice President and CFO
+ 
+ 
+ 
+ 
+RELIABLE INTEGRATION SERVICES, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Pamela A. Little
+ 
+Name:
+Pamela A. Little
+ 
+Title:
+Senior Vice President and CFO
+ 
+ 
+ 
+ 
+APPIX, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Pamela A. Little
+ 
+Name:
+Pamela A. Little
+ 
+Title:
+Senior Vice President and CFO
+ 
+ 
+ 
+ 
+POTOMAC MANAGEMENT GROUP, INC.
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Pamela A. Little
+ 
+Name:
+Pamela A. Little
+ 
+Title:
+Senior Vice President and CFO
+                         
+ 
+ 
+16
+------------------------------------------------------------------------
+
+Exhibit D-1
+ 
+FORM OF COMPLIANCE CERTIFICATE
+Financial Statement Date:                            ,             
+
+To:          Bank of America, N.A., as Administrative Agent
+
+Ladies and Gentlemen:
+
+Reference is made to that certain Credit Agreement, dated as of June 4, 
+2007 (as amended, restated, extended, supplemented or otherwise modified in 
+writing from time to time, the Agreement; the terms defined therein being 
+used herein as therein defined), among ATS Corporation, a Delaware 
+corporation (Borrower), the Lenders from time to time party thereto, and 
+Bank of America, N.A., as Administrative Agent, L/C Issuer and Swing Line 
+Lender.
+
+The undersigned Responsible Officer hereby certifies as of the date hereof 
+that he/she is the                                                          
+ of Borrower, and that, as such, he/she is authorized to execute and 
+deliver this Certificate to Agent on the behalf of Borrower, and that:
+
+[Use following paragraph 1 for fiscal year-end financial statements]
+
+1.             Attached hereto as Schedule 1 are the year-end audited 
+financial statements required by Section 6.01(a) of the Agreement for the 
+fiscal year of Borrower ended as of the above date, together with the 
+report and opinion of an independent certified public accountant required 
+by such section.
+
+[Use following paragraph 1 for fiscal quarter-end financial statements]
+
+1.             Attached hereto as Schedule 1 are the unaudited financial 
+statements required by Section 6.01(b) of the Agreement for the fiscal 
+quarter of Borrower ended as of the above date.  Such financial statements 
+fairly present the financial condition, results of operations and cash 
+flows of Borrower and its Subsidiaries in accordance with GAAP as at such 
+date and for such period, subject only to normal year-end audit adjustments 
+and the absence of footnotes.
+
+2.             The undersigned has reviewed and is familiar with the terms 
+of the Agreement and has made, or has caused to be made under his/her 
+supervision, a detailed review of the transactions and condition (financial 
+or otherwise) of Borrower during the accounting period covered by the 
+attached financial statements.
+
+3.             A review of the activities of Borrower during such fiscal 
+period has been made under the supervision of the undersigned with a view 
+to determining whether during such fiscal period Borrower performed and 
+observed all its Obligations under the Loan Documents, and
+
+ 
+------------------------------------------------------------------------
+
+ 
+ 
+[select one:]
+
+[to the best knowledge of the undersigned during such fiscal period, 
+Borrower performed and observed each covenant and condition of the Loan 
+Documents applicable to it, and no Default has occurred and is continuing.]
+
+or
+
+[the following covenants or conditions have not been performed or observed 
+and the following is a list of each such Default and its nature and 
+status:]
+
+4.             The representations and warranties of Borrower contained in 
+Article V of the Agreement, and/or any representations and warranties of 
+Borrower or any other Loan Party that are contained in any document 
+furnished at any time under or in connection with the Loan Documents, are 
+true and correct on and as of the date hereof, except to the extent that 
+such representations and warranties specifically refer to an earlier date, 
+in which case they are true and correct as of such earlier date, and except 
+that for purposes of this Compliance Certificate, the representations and 
+warranties contained in subsections (a) and (b) of Section 5.05 of the 
+Agreement shall be deemed to refer to the most recent statements furnished 
+pursuant to clauses (a) and (b), respectively, of Section 6.01 of the 
+Agreement, including the statements in connection with which this 
+Compliance Certificate is delivered.
+
+5.             The financial covenant analyses and information set forth on 
+Schedules 2 attached hereto are true and accurate on and as of the date of 
+this Certificate.
+
+IN WITNESS WHEREOF, the undersigned has executed this Certificate as of     
+                            ,              .
+
+ 
+ATS CORPORATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+ 
+For the Quarter/Year ended                       (Statement Date)
+ 
+SCHEDULE 2
+to the Compliance Certificate
+($ in 000s)
+ 
+I.
+Section 6.12(a)  Consolidated Asset Coverage Ratio.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.
+Accounts of the Borrower and its Subsidiaries on a consolidated basis:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+B.
+Coverage Adjustment Amount:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+C.
+Total Outstandings:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+D.
+Consolidated Asset Coverage Ratio ((Line I.A + Line I.B) ¸Line I.C):
+ 
+ 
+to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E.
+Consolidated Asset Coverage Ratio without the Coverage Adjustment Amount 
+(Line I.A¸Line I.C):(1)
+ 
+ 
+to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minimum Required Consolidated Asset Coverage Ratio (prior to June 30, 
+2009):
+ 
+1.0 to 1.0
+ 
+ 
+ 
+ 
+ 
+Minimum Required Consolidated Asset Coverage Ratio (thereafter):
+ 
+1.2 to 1.0
+ 
+II.
+Section 6.12(b)  Consolidated Leverage Ratio.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.
+Consolidated Total Funded Debt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+all outstanding liabilities for borrowed money plus other interest-bearing 
+liabilities, including current and long-term liabilities:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+= Consolidated Total Funded Debt:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B.
+Consolidated EBITDA(2)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+net income:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+minus income or plus loss from discontinued operations and extraordinary 
+items:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+plus income taxes:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+plus interest expense:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+------------------------------------------------------------------------
+    (1)                                  This calculation is only for
+    purposes of determining whether the additional 0.25% per annum shall be
+    added to the Applicable Rate pursuant to the definition of Applicable
+    Rate set forth in Section 1.01 of the Agreement.
+    (2)                                  With respect to each fiscal
+    quarter of the Borrower ending December 31, 2007 through September 30,
+    2008, Consolidated EBITDA shall be calculated on a calendar
+    year-to-date annualized basis in accordance with Section 1.07(c) of the
+    Credit Agreement.
+------------------------------------------------------------------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+5.
+plus depreciation, depletion, amortization and other non-cash charges:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[6.
+plus the NSS Adjustment Amount:(3)
+ 
+$
+]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[6][7].
+= Consolidated EBITDA:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.
+Consolidated Leverage Ratio (Line II.A.2 ¸ Line II.B.[6][7]):
+ 
+ 
+to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maximum Allowed Consolidated Leverage Ratio:
+ 
+3.5 to 1.0
+ 
+III.
+Section 6.12(c)  Consolidated Fixed Charge Coverage Ratio.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.
+Consolidated Cash Flow(4)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+net income, after income tax:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+minus income or plus loss from discontinued operations and extraordinary 
+items:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+plus depreciation, depletion, amortization and other non-cash charges:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+plus interest expense:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.
+plus rental expense:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.
+minus dividends, withdrawals and other distributions:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.
+minus any unfinanced capital expenditures:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.
+minus earn-out payments:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[9.
+plus the NSS Adjustment Amount:(5)
+ 
+$
+]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[9][10].= Consolidated Cash Flow:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+B.
+Consolidated Fixed Charges
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+interest expense:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+plus all required payments of principal of Indebtedness for such period 
+(excluding any payments of principal with respect to any Loan):
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+plus the current portion of capitalized lease obligations:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+plus rental expense:
+ 
+ 
+------------------------------------------------------------------------
+    (3)                                  To be included in the calculation
+    for the fiscal quarter of Borrower ending December 31, 2007.
+    (4)                                  With respect to each fiscal
+    quarter of the Borrower ending December 31, 2007 through September 30,
+    2008, Consolidated Cash Flow shall be calculated on a calendar
+    year-to-date annualized basis in accordance with Section 1.07(c) of the
+    Credit Agreement.
+    (5)                                  To be included in the calculation
+    for the fiscal quarter of Borrower ending December 31, 2007.
+ 
+------------------------------------------------------------------------
+
+ 
+ 
+ 
+ 
+5.
+= Consolidated Fixed Charges:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.
+Consolidated Fixed Charge Coverage Ratio (Line III.A.[9][10] ¸ Line 
+III.B.5):
+ 
+ 
+to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minimum Required Consolidated Fixed Charge Coverage Ratio:
+ 
+1.2 to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+IV.
+Section 6.12(d)  Minimum Consolidated EBITDA.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.
+Consolidated EBITDA:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.
+net income:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.
+minus income or plus loss from discontinued operations and extraordinary 
+items:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+plus income taxes:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.
+plus interest expense:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.
+plus depreciation, depletion, amortization and other non-cash charges:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.
+= Consolidated EBITDA:
+ 
+$
+ 
+Minimum Required Consolidated EBITDA:
+ 
+ Fiscal Quarter
+ 
+Minimum Consolidated
+EBITDA
+ 
+ Fiscal quarter ending March 31, 2008
+ 
+$
+3,200,000
+ 
+ Fiscal quarter ending June 30, 2008
+ 
+$
+3,750,000
+ 
+ Fiscal quarter ending September 30, 2008
+ 
+$
+4,500,000
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+
+Exhibit D-2
+
+ 
+
+FORM OF COMPLIANCE CERTIFICATE
+
+Month Ending:                            ,             
+
+To:          Bank of America, N.A., as Administrative Agent
+
+Ladies and Gentlemen:
+
+Reference is made to that certain Credit Agreement, dated as of June 4, 
+2007 (as amended, restated, extended, supplemented or otherwise modified in 
+writing from time to time, the Agreement; the terms defined therein being 
+used herein as therein defined), among ATS Corporation, a Delaware 
+corporation (Borrower), the Lenders from time to time party thereto, and 
+Bank of America, N.A., as Administrative Agent, L/C Issuer and Swing Line 
+Lender.
+
+The undersigned Responsible Officer hereby certifies as of the date hereof 
+that he/she is the                                                          
+ of Borrower, and that, as such, he/she is authorized to execute and 
+deliver this Certificate to Agent on the behalf of Borrower, and that:
+
+1.             Attached hereto as Schedule 1 are the accounts receivable 
+aging report and accounts payable aging report required by Section 6.01(d) 
+of the Agreement for the month ended as of the above date.
+
+2.             The undersigned has reviewed and is familiar with the terms 
+of the Agreement and has made, or has caused to be made under his/her 
+supervision, a detailed review of the transactions and condition (financial 
+or otherwise) of Borrower during the month covered by the attached reports.
+
+3.             A review of the activities of Borrower during such month has 
+been made under the supervision of the undersigned with a view to 
+determining whether during such month Borrower performed and observed all 
+its Obligations under the Loan Documents, and
+
+[select one:]
+
+[to the best knowledge of the undersigned during such month, Borrower 
+performed and observed each covenant and condition of the Loan Documents 
+applicable to it, and no Default has occurred and is continuing.]
+
+or
+
+[the following covenants or conditions have not been performed or observed 
+and the following is a list of each such Default and its nature and 
+status:]
+
+4.             The representations and warranties of Borrower contained in 
+Article V of the Agreement, and/or any representations and warranties of 
+Borrower or any other Loan Party that
+
+------------------------------------------------------------------------
+
+
+are contained in any document furnished at any time under or in connection 
+with the Loan Documents, are true and correct on and as of the date hereof, 
+except to the extent that such representations and warranties specifically 
+refer to an earlier date, in which case they are true and correct as of 
+such earlier date, and except that for purposes of this Compliance 
+Certificate, the representations and warranties contained in subsections 
+(a) and (b) of Section 5.05 of the Agreement shall be deemed to refer to 
+the most recent statements furnished pursuant to clauses (a) and (b), 
+respectively, of Section 6.01 of the Agreement.
+
+5.             The financial covenant analysis and information set forth on 
+Schedule 2 attached hereto is true and accurate on and as of the date of 
+this Certificate.
+
+IN WITNESS WHEREOF, the undersigned has executed this Certificate as of     
+                            ,              .
+
+ 
+ATS CORPORATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+
+------------------------------------------------------------------------
+
+
+For the Quarter/Year ended                       (Statement Date)
+
+SCHEDULE 2
+to the Compliance Certificate
+($ in 000s)
+
+I.
+Section 6.12(a)  Consolidated Asset Coverage Ratio.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.
+Accounts of the Borrower and its Subsidiaries on a consolidated basis:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+B.
+Coverage Adjustment Amount:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+C.
+Total Outstandings:
+ 
+$
+ 
+ 
+ 
+ 
+ 
+ 
+D.
+Consolidated Asset Coverage Ratio ((Line I.A + Line I.B) ¸Line I.C):
+ 
+ 
+to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E.
+Consolidated Asset Coverage Ratio without the Coverage Adjustment Amount 
+(Line I.A¸Line I.C):(6)
+ 
+ 
+to 1.0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minimum Required Consolidated Asset Coverage Ratio (prior to June 30, 
+2009):
+ 
+1.0 to 1.0
+------------------------------------------------------------------------
+    (6)                                  This calculation is only for
+    purposes of determining whether the additional 0.25% per annum shall be
+    added to the Applicable Rate pursuant to the definition of Applicable
+    Rate set forth in Section 1.01 of the Agreement.
+ 
+ 
+ 
+ 
+------------------------------------------------------------------------
