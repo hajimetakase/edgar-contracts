@@ -1,0 +1,1304 @@
+ EX-10.2 5 d496783dex102.htm EX-10.2
+Exhibit 10.2
+
+Amended and Restated
+Gas Purchase, Gathering and Processing Agreement
+
+Between
+
+ARP Oklahoma, LLC
+Supplier
+
+And
+
+SemGas, L.P.
+Processor
+
+SemGas, L.P., Agreement # 13-SG1022
+Agreement Date: August 1, 2013
+
+Agreement Effective Date: August 1, 2013
+ 
+1
+
+------------------------------------------------------------------------
+AMENDED AND RESTATED
+GAS PURCHASE, GATHERING AND PROCESSING AGREEMENT
+
+This AMENDED AND RESTATED GAS PURCHASE, GATHERING AND PROCESSING AGREEMENT 
+(Agreement) (SemGas, L.P. Contract # 13-SG1022), is made and entered into 
+by and between SEMGAS, L.P., an Oklahoma Limited Partnership, hereinafter 
+referred to as Processor, and ARP OKLAHOMA, LLC, an Oklahoma Limited 
+Liability Company, hereinafter referred to as Supplier and is effective 
+as of August 1, 2013 (Effective Date).
+
+WHEREAS, Supplier has certain Gas available requiring gathering services 
+and has the right to have such Gas processed;
+
+WHEREAS, Supplier desires to have Processor purchase, gather and process or 
+cause the Gas to be processed;
+
+WHEREAS, Processor desires to purchase, gather and process the Gas, or 
+cause the Gas to be processed;
+
+WHEREAS, Processor had a Gas Purchase, Gathering and Processing Agreement 
+dated November 1, 2005 with Altex Resources, Inc. (Original Agreement);
+
+WHEREAS, the Original Agreement was amended effective January 1, 2011 among 
+other things to reflect the name change of Altex Resources, Inc. to Equal 
+Energy US Inc.;
+
+WHEREAS, the Original Agreement as amended was amended again effective 
+September 21, 2012 to reflect the assignment from Equal Energy US Inc. to 
+ARP Oklahoma, LLC;
+
+WHEREAS, the parties desire to amend and restate the agreement in its 
+entirety so that the parties understanding and agreement will be contained 
+in a single document which will supersede and replace all prior agreements 
+as of the Effective Date;
+
+NOW, THEREFORE, in consideration of the mutual agreement and covenants 
+herein contained, Supplier and Processor agree, as follows:
+
+
+ARTICLE I
+DEDICATION AND INTENT
+
+1.1 Dedication and Gas Delivery Rights. Supplier commits and agrees to 
+deliver and sell to Processor, and Processor agrees to receive and purchase 
+from Supplier, all Gas produced from all formations and wells now or 
+hereafter located upon the leases or lands described on the attached 
+Exhibit D to this Agreement (the Committed Area). Supplier agrees to use 
+commercially reasonable efforts to secure the dedication of its working 
+interest owners either by their ratification of this Agreement or, in the 
+alternative, Supplier will execute a Joint Operating Agreement with its 
+working interest owners which provides that Supplier has the right to 
+commit to this Agreement l00% of the working interest of the wells in the 
+Committed Area. In the event that, prior to the date of the Original 
+Agreement, Supplier had dedicated any of
+ 
+2
+
+------------------------------------------------------------------------
+Suppliers Gas produced from the Committed Area to a third party, such 
+interest will not be dedicated under this Agreement until the termination 
+of the agreement with the third party. At the termination of the third 
+party agreement, the prior dedicated interest will become dedicated to 
+Processor under this Agreement. By virtue of oil and gas leases, fee 
+interests, mineral interests, contractual arrangements, or other legal 
+right, Supplier owns the right to sell during the term hereof all the Gas 
+from the Committed Area.
+
+1.2 Connection Obligations. Processor shall, subject to the terms hereof, 
+have the obligation to construct and/or maintain a sufficient length of 
+pipe designed to operate at the pressures set forth herein to connect any 
+Gas well(s) in the Committed Area from which Supplier produces Gas that is 
+subject to this Agreement. Supplier shall construct the required gathering 
+pipelines and metering facilities concurrently with the development and 
+completion of new wells within the Committed Area which are contemplated to 
+produce Gas. Supplier shall provide Processor with sufficient information 
+and advance notice regarding the drilling and development plans of Supplier 
+to allow Processor to contract for services, procure equipment and 
+materials, secure permits, right-of-way, or licenses in a prudent, timely 
+and commercially reasonable manner. Processor and Supplier shall coordinate 
+construction and the drilling activities of Supplier and schedules so as to 
+minimize interference between construction and drilling activities. If 
+Processor is unable to connect the additional well(s) within thirty (30) 
+days after completion of such well, then Supplier shall have the option, 
+but not the obligation, to release the subject well to a third party except 
+in cases where such inability of Processor to connect is due to a Force 
+Majeure condition. In the case of Force Majeure, Processor shall receive an 
+extension until Force Majeure issue is resolved.
+
+1.3 Remote Connections, Extension of Gathering Facilities. In the event 
+Processor connects to Suppliers well(s) beyond two miles from existing 
+pipelines, then Supplier will guarantee delivery of an additional 500,000 
+MMBtu multiplied by the actual length in miles of each separate gathering 
+system that is beyond two miles from existing Gathering Facilities 
+(expressed in tenths (1/10th) of a mile) (Additional Connect Amount). The 
+Supplier shall deliver to Processor the Additional Connect Amount within 
+three years from the date of connection. In the event the full Additional 
+Connect Amount is not provided within the allowed three years, or prior to 
+expiration of the Agreement, Supplier agrees to pay Processor a Well 
+Connect Fee equal to the (Additional Connect Amount less the amount 
+actually provided toward the Additional Connect Amount at either the end of 
+three years or as of date of expiration) multiplied by $.53. The Well 
+Connect Fee shall be paid within 30 days of either the end of the three 
+year period or expiration of the Agreement whichever is less. 
+Notwithstanding the foregoing, if Suppliers well is so remote that, in 
+Processors sole judgment, Processor cannot, even with the exercise of due 
+diligence and commercially reasonable efforts, either connect the remote 
+well to the Gathering Facilities or secure services from a third-party 
+processor/gatherer within thirty (30) days after completion of such well, 
+whether any of the conditions of Article X apply or not, then Processor 
+shall receive an extension of time, as mutually agreed to by Supplier and 
+Processor, sufficient to complete the connection of the well and Supplier 
+shall not have an option to release the well to a third party during the 
+course of such extension.
+
+1.4 Gathering and Processing. Processor will construct, own and operate a 
+Gas pipeline and Gas gathering facilities located in the vicinity of the 
+Committed Area within the State of Oklahoma (collectively the Gathering 
+Facilities). Processor shall cause the Gas from the Committed Area 
+measured at the Receipt Points (Committed Gas) to be gathered. The
+ 
+3
+
+------------------------------------------------------------------------
+Committed Gas less the Field Fuel Gas shall be referred to herein as the 
+Plant Inlet Volume. Processor shall cause the Plant Inlet Volume, to be 
+processed at Processors Gas processing plant(s), any future Gas processing 
+plants installed by Processor, or at a third party Gas processing plant(s) 
+(each a Plant), including, without limitation, those more particularly 
+described on Exhibit C hereto. Processor agrees to process the Plant Inlet 
+Volume at the Plant for the removal of Liquid Hydrocarbons contained in the 
+Plant Inlet Volume, subject to the terms and limitations set forth herein.
+
+1.5 Suppliers Representative. In the event this Agreement is ratified by 
+other working interest owners, such ratifying parties shall be bound by the 
+terms and provisions of this Agreement as if each was a party designated 
+Supplier under this Agreement. In such event, each party-Supplier hereto 
+initially designates ARP Oklahoma, LLC to serve as their representative 
+hereunder to do and perform all acts and duties required with respect to 
+such partys obligations to tender or to deliver Gas hereunder in the 
+amounts and in the manner provided herein, to receive statements for all 
+Gas delivered hereunder, to allocate the total volumes delivered and to 
+receive and distribute such payments due and payable to each such party. 
+Processor may act, and shall be fully protected in acting, in reliance upon 
+any and all such acts and things done or performed by the representative on 
+behalf of each such party as fully and effectively as though each had done, 
+performed, made or executed the same. Any notice, request, demand, 
+statement or payment to Supplier under this Agreement, shall be sent to the 
+representative as provided herein. Such parties may change their 
+representative and designate one (1) of their number as the new 
+representative from time to time by delivery of written notice of such 
+change, signed by all such parties to Processor.
+
+
+ARTICLE II
+DEFINITIONS
+
+2.1 Accounting Period shall mean a period from nine oclock (9:00) a.m. 
+on the first day of a calendar month to nine oclock (9:00) a.m. on the 
+first day of the next succeeding calendar month, or such other mutually 
+agreed to period of time; provided, however, that the Initial Accounting 
+Period shall commence at nine oclock (9:00) a.m. on the Initial 
+Processing Date (as defined in Paragraph 2.19 of this Agreement) and shall 
+continue for a period of consecutive calendar days until nine oclock 
+(9:00) a.m. on the first day of the next succeeding calendar month.
+
+2.2 Additional Connect Amount shall have the meaning set forth in Section 
+1.3.
+
+2.3 Agreement shall have the meaning set forth in the Preamble.
+
+2.4 British Thermal Unit herein called Btu shall mean the amount of 
+heat required to raise the temperature of one pound of water 1 degree from 
+59 to 60 degrees Fahrenheit. MMBtu shall mean 1,000,000 Btus.
+
+2.5 Comingled Residue Gas shall have the meaning set forth in 
+Section.4.2.
+
+2.6 Committed Area shall have the meaning set forth in Section 1.1.
+
+2.7 Committed Gas shall have the meaning set forth in Section 1.4.
+ 
+4
+
+------------------------------------------------------------------------
+2.8 Cubic Foot of Gas herein called cf shall mean the amount of gas 
+required to fill a cubic foot of space at a base pressure of 14.73 psia and 
+at a base temperature of 60 degrees Fahrenheit. Mcf shall mean 1,000 cfs. 
+MMcf shall mean 1,000,000 cfs. MMcfd shall mean MMcf per day.
+
+2.9 Day shall mean a period of twenty-four (24) consecutive hours 
+beginning and ending at nine oclock (9:00) a.m. Central Daylight or 
+Standard time, whichever is in effect, or such other mutually agreed to 
+period of time.
+
+2.10 Delivery Point(s) shall mean the point(s) where the meter(s) is 
+located at the outlet of the Plant at the interconnection with the 
+Gathering Facilities or Downstream Pipeline.
+
+2.11 Downstream Pipeline shall mean the existing pipeline immediately 
+downstream of the Delivery Point(s) established hereunder.
+
+2.12 Effective Date shall have the meaning set forth in the Preamble.
+
+2.13 Field Fuel Gas shall mean the fuel and losses consumed in operation 
+of the Gathering Facilities, including field compression and dehydration. 
+The applicable field fuel percentage set forth in the following table shall 
+be used for purposes of calculating Field Fuel Gas:
+ 
+Gathering System
+Contract Pressure
+   	Monthly Average Total Gas delivered to Receipt
+Points including all third party volumes, for the
+Accounting Period (each Plant) 	   	Field Fuel
+Percentage 	 
+ 50 psig
+   	0  5,000 Mcfd 	   	  	10% 	 
+ 50 psig
+   	5,001 Mcfd 10,000 Mcfd 	   	  	8.5% 	 
+ 50 psig
+   	Greater than 10,000 Mcfd 	   	  	7% 	 
+
+Field Fuel Gas for purposes of this Agreement is agreed to equal the 
+applicable field fuel percentage (from the preceding table) multiplied by 
+the Committed Gas measured at the Receipt Points (in MMBtus).
+
+2.14 Force Majeure shall have the meaning set forth in Section 10.2.
+
+2.15 Gas shall mean natural gas as produced in its natural state 
+including gas from gas wells and casinghead gas produced in association 
+with crude oil that meets the quality standards contained in this 
+Agreement.
+
+2.16 Gathering Facilities shall have the meaning set forth in Section 
+1.4.
+
+2.17 Gross Heating Value shall mean the number of Btus produced by the 
+complete combustion, at constant pressure, of the amount of Gas which would 
+occupy a volume of 1.0 cf at a temperature of 60° Fahrenheit on a 
+water-free basis and at a pressure of 14.73 psia and under standard 
+gravitational force (32.17 ft per sec per sec) with air of the same 
+temperature and
+ 
+5
+
+------------------------------------------------------------------------
+pressure as the Gas, when the products of combustion are cooled to the 
+initial temperature of the Gas and air, and when the vapors produced by 
+combustion have condensed to the liquid state. The Gross Heating Value at 
+each Receipt Point(s) shall be deemed to be saturated.
+
+2.18 Indemnifying Party shall have the meaning set forth in Section 9.3.
+
+2.19 Initial Processing Date shall mean the first day of flow of gas from 
+the Delivery Point.
+
+2.20 Liquid Hydrocarbon Product(s) shall mean oil, condensate, and 
+liquefiable hydrocarbons (including, to the extent contained in Plant Inlet 
+Volume, ethane, propane, butane, and natural gasoline products and mixtures 
+thereof, and shall include methane to the extent that removal thereof is 
+necessary in removing other liquefiable hydrocarbons) removed from the 
+Plant Inlet Volume by mechanical separation, extraction, condensation, 
+compression, absorption, stripping, refrigeration, fractionation, or other 
+gas processing.
+
+2.21 Liquid Hydrocarbons shall have the same meaning as Liquid 
+Hydrocarbon Products and shall also mean such Liquid Hydrocarbon Products 
+while components of Plant Inlet Volume (in gaseous or liquid form).
+
+2.22 Party shall mean Processor or Supplier individually. Parties 
+shall mean Processor and Supplier collectively.
+
+2.23 Plant shall have the meaning set forth in Section 1.4.
+
+2.24 Plant Fuel Gas shall mean the fuel gas, flared gas, lost and 
+unaccounted for gas, and electricity involved in operation of the Plant. 
+Plant Fuel Gas for purposes of this Agreement is agreed to equal four and 
+one-half percent (4.5%) of the Plant Inlet Volume (in MMBtus).
+
+2.25 Plant Inlet Volume Shall have the meaning set forth in Section 1.4.
+
+2.26 Primary Term shall have the meaning set forth in Section 8.1.
+
+2.27 Processor shall have the meaning set forth in the Preamble.
+
+2.28 psia shall mean pounds per square inch absolute.
+
+2.29 psig shall mean pounds per square inch gauge.
+
+2.30 Receipt Point(s) shall mean the existing point(s) and new point(s) 
+to be added by Supplier to Processors Gathering Facilities where Processor 
+installs meter(s) to accomplish the measurement of the Committed Gas. For 
+purposes hereof, a Receipt Point will be defined as a wellhead as 
+designated by Supplier, and mutually agreed to by the Parties in writing, 
+now or hereafter located upon the leases or lands within the Committed 
+Areas. Unless otherwise agreed between the Parties, each well connected to 
+Processors Gathering Facilities shall have its own separate and distinct 
+metering facility at the wellhead
+ 
+6
+
+------------------------------------------------------------------------
+2.31 Residue Gas and Residue Gas Stream shall mean that Gas from the 
+Plant Inlet Volume which remains after Shrinkage due to processing and 
+Plant Fuel Gas requirements at the Plant or a third party processing plant.
+
+2.32 Settlement Statement shall have the meaning set forth in Section 
+5.4.
+
+2.33 Shrinkage shall mean the reduction in the volume and Btu content of 
+the Plant Inlet Volume which occurs as a result of the removal of Liquid 
+Hydrocarbons contained therein as determined under Paragraph V of Exhibit 
+A.
+
+2.34 Supplier shall have the meaning set forth in the Preamble.
+
+Intentionally Deleted
+2.36 T & F shall have the meaning set forth in Section 7.1.
+
+2.37 Well Connect Fee shall have the meaning set forth in Section 1.3.
+
+
+ARTICLE III
+GATHERING AND PROCESSING OF COMMITTED GAS
+
+3.1 Quantity of Committed Gas to be delivered to the Receipt Point(s). 
+Subject to the other terms and provisions hereof, Supplier shall deliver, 
+or cause to be delivered, to Processor at the Receipt Point(s), all 
+Committed Gas now or hereafter produced by and/or under contract to 
+Supplier from the Committed Area. Suppliers obligation to deliver 
+Committed Gas and Processors obligation to receive such Committed Gas 
+shall be subject to Processor receiving the Committed Gas tendered at the 
+Receipt Point(s) pursuant to the terms of this Agreement. Additionally, in 
+recognition of the desirability of maintaining a uniform rate of flow of 
+Gas for processing, Supplier agrees to use commercially reasonable efforts 
+to cause production schedules to be regulated on a day-by-day basis so that 
+Committed Gas shall be made available at the Receipt Point(s) at as uniform 
+a flow rate as possible.
+
+3.2 Line Pressure. Processor, at its sole cost and expense, shall install 
+sufficient compression and/or line size to maintain an initial maximum 
+daily average line pressure of 50 psig at Processors metering facilities 
+at each of the Receipt Point(s). The maximum daily line pressure will be 50 
+psig at each Receipt Point. If Processor fails to maintain a maximum daily 
+average line pressure of 50 psig due to Processors equipment, Gathering 
+Facilities or compression unit for a period of thirty (30) days during any 
+rolling sixty (60) day period, Processor, after consultation with Supplier, 
+shall release sufficient volumes to Supplier to allow the maximum daily 
+average pressure to be brought back to 50 psig. Release of volumes shall be 
+done on a well-by-well basis; e.g., if excess volumes are estimated at 500 
+Mcfd, Processor will release an individual well or wells equaling such 
+amount from this Agreement. If Processors failure to maintain a maximum 
+daily average line pressure of 50 psig is due to Suppliers addition of a 
+well or wells, Processor shall have a period of sixty (60) days from the 
+date of initial production from said well(s) to bring the daily average 
+line pressure down to the maximum of 50 psig, or at Suppliers option, 
+Processor will release the gas from this Agreement until Processor has 
+remedied the issue.
+ 
+7
+
+------------------------------------------------------------------------
+3.3 Processors Duty to Accept Delivery. Subject to the other terms and 
+provisions of this Agreement, commencing with the Initial Processing Date, 
+Processor shall accept all of the Committed Gas delivered to the Receipt 
+Point(s). If at any time or from time to time, Processor is unable to 
+process or cause to be processed all or any part of the Plant Inlet Volume 
+for any reason provided in Article X, Processor, upon notice to Supplier, 
+may reduce the receipt of the Plant Inlet Volume or bypass such Plant Inlet 
+Volume around the Plant and deliver it to the Delivery Point(s) without 
+processing. Processor may elect to bypass a portion of the Plant Inlet 
+Volume; however, in such case the resulting combined Residue Gas Stream 
+shall meet the specifications of the pipeline receiving the Residue Gas. 
+Furthermore, unless otherwise agreed to by the Parties, such reduction or 
+bypassing of Plant Inlet Volume may be done only in proportion that the Gas 
+of other suppliers is so reduced or bypassed per contractual obligations 
+with such other suppliers.
+
+
+ARTICLE IV
+PROCESSING AND RESIDUE GAS
+
+4.1 Processing of Products. Processor shall process or cause others to 
+process the Plant Inlet Volume, except for the Gas which bypasses 
+processing under Paragraph 3.3 above. Such processing shall separate Liquid 
+Hydrocarbons Products from the Plant Inlet Volume including, but not 
+limited to, ethane, propane, butane and natural gasoline. The portion of 
+the Liquid Hydrocarbons which shall be allocable to the Plant Inlet Volume 
+shall be determined in accordance with Article IV of the Accounting 
+Procedure attached as Exhibit A to this Agreement.
+
+4.2 Commingled Residue Stream. Supplier hereby expressly acknowledges that 
+the Plant Inlet Volume will be commingled with other Gas delivered to 
+Processor by third parties so that a commingled Residue Gas stream (the 
+Commingled Residue Gas) will remain after the processing of the Plant 
+Inlet Volume and third party Gas delivered for processing. Processor or the 
+operator of the third party plant shall obtain its Plant Fuel Gas from the 
+Commingled Residue Gas and Supplier hereby authorizes such use. The 
+Suppliers share of the Commingled Residue Gas shall be determined in 
+accordance with Section 5.2 hereof and Article VI of the Accounting 
+Procedure attached as Exhibit A to this Agreement.
+
+4.3 Responsibilities of Processor in the Operations of the Plant and 
+Gathering Facilities. Processor shall operate its Plant and Processors 
+Gathering Facilities in material compliance with local, state and federal 
+laws, rules and regulations; provided, however, that Processor shall not be 
+liable to Supplier hereunder except for Processors gross negligence or 
+willful misconduct. Processor shall provide all maintenance, repair work, 
+materials, supplies, electrical power, technical supervision and operating 
+personnel required to operate Gathering Facilities.
+ 
+8
+
+------------------------------------------------------------------------
+ARTICLE V
+COMPENSATION
+
+5.1 Liquid Hydrocarbon Compensation. Processor shall purchase the Liquid 
+Hydrocarbons included in the Plant Inlet Volume by paying to Supplier 95% 
+of proceeds received by Processor pursuant to Section 7.1 for the fixed NGL 
+Recovery percentages set forth below.
+
+The fixed NGL recoveries for settlement purposes will be as follows:
+ 
+ Ethane
+   	  	50 	% 
+ Propane
+   	  	90 	% 
+ Butanes
+   	  	93 	% 
+ Natural gasoline
+   	  	95 	% 
+
+5.2 Residue Gas Compensation. Processor shall purchase all Residue Gas 
+included in the Plant Inlet Volume after subtracting the Plant Fuel Gas 
+(calculated as a percentage of the entire Plant Inlet Volume) by paying to 
+Supplier 95% of the proceeds received by Processor for such Gas as set 
+forth in Section 7.2. For purpose of clarity it is understood that the 
+entire Plant Fuel Gas amount including any amounts that might be 
+attributable to the Liquid Hydrocarbons shall be deducted from just the 
+Residue Gas.
+
+5.3 Gathering Fee. Supplier shall pay Processor an additional gathering fee 
+of $.32 per MMBtu based on the amount of the Committed Gas at the Receipt 
+Point. Such fee will be upwardly adjusted annually beginning January 1, 
+2014 to reflect one-half of the 2013 adjustment, and on a calendar year 
+basis thereafter in accordance with the Consumer Price Index Urban 
+(CPI-U.)
+
+5.4 Settlement Statement Payment. Processor shall provide to Supplier a 
+statement setting forth the calculation of the Settlement Amount (the 
+Settlement Statement) in sufficient detail and with all supporting data 
+as reasonably required by Supplier to verify such Settlement Amount. 
+Processor shall transmit the Settlement Statement to Supplier by the last 
+calendar day of each month with respect to the Gas gathered and processed 
+hereunder during the preceding month. Processor shall net the amount due 
+Processor against the amount due Supplier and shall pay, or invoice as a 
+result of such netting, the Settlement Amount indicated on the Settlement 
+Statement not later than the fourth calendar day of the second month 
+following the month in which deliveries were made. All payments made 
+hereunder whether from Processor or Supplier shall be made by electronic 
+funds transfer or ACH.
+
+
+ARTICLE VI
+QUALITY OF COMMITTED GAS
+
+6.1 No Removal of Liquid Hydrocarbons. Supplier agrees that it shall not 
+deliver to the Receipt Point(s) any Committed Gas which has had Liquid 
+Hydrocarbons removed except for any Liquid Hydrocarbons which may be 
+recovered incidental to the removal of free water from the Gas by 
+conventional mechanical field separators upstream of the Receipt Point(s), 
+which Liquid Hydrocarbons shall remain the property of Supplier. Any Liquid 
+Hydrocarbons, drip, condensate or scrubber oil collected in the Gathering 
+Facilities or Plant by Processor shall remain the property of Processor.
+ 
+9
+
+------------------------------------------------------------------------
+6.2 Quality of Committed Gas and Residue Gas. Committed Gas delivered to 
+the Receipt Point(s) under this Agreement shall meet the quality 
+specifications set forth in Exhibit B attached hereto and by this reference 
+made a part hereof. If any of the Committed Gas shall fail to meet the 
+quality specifications set forth in Exhibit B, Processor shall have the 
+right, at its option, to either: (a) accept and process or cause to be 
+processed such Gas, or (b) refuse to accept deliveries of such Gas for 
+processing (even though Processor may accept such deliveries for 
+transportation). Similarly, the Residue Gas, upon leaving the Plant, shall 
+meet the quality specifications set forth in Exhibit B. If the Residue Gas 
+at the Delivery Point(s) shall fail to meet the Gross Heating Value 
+specifications set forth in Exhibit B, Processor may take whatever steps 
+are required to enable the Residue Gas to meet such specifications 
+including, but not limited to, reducing the recovery of Liquid Hydrocarbon 
+Products, and Processor will notify Supplier within 48 hours of what steps 
+have been taken to meet such specifications. In the event that Processor, 
+in its commercially reasonable judgment, deems that the Gas requires 
+dehydration, Processor will provide dehydration.
+
+In the event that Suppliers Gas does not meet the downstream pipeline 
+tariff requirements and is refused by the downstream pipeline, Processor 
+shall not install equipment or charge Supplier for additional treating 
+without Suppliers prior written consent.
+
+
+ARTICLEVll
+PRICE OF LIQUID HYDROCARBONS AND RESIDUE GAS FOR SETTLEMENT
+
+7.1 Price of Liquid Hydrocarbons for Settlement. The sales prices of the 
+Liquid Hydrocarbon Products shall be the arithmetic mean of the daily 
+average trading range high and low prices quoted by the Oil Price 
+Information Service (OPIS) for the Conway, Kansas, Group 140 Hub, during 
+the Accounting Period, less T&F (as defined below). In the event OPIS 
+should discontinue publishing this pricing information, a comparable 
+successor publication shall be used. At such time that Processor converts 
+transportation of such Liquid Hydrocarbons to Mt. Belvieu, the quoted 
+prices will be based upon the OPIS Mt. Belvieu, TX-non-TET (E/P Mix) T&F 
+shall mean the actual third party transportation and fractionation charges, 
+and marketing charges at and downstream of the Plant attributable to such 
+Liquid Hydrocarbon Products.
+
+7.2 Price of Residue Gas for Settlement. The sales price per MMBtu of the 
+Residue Gas shall be the weighted average sales price received by Processor 
+for all Residue Gas in a given accounting period at the Plant(s) to which 
+Suppliers gas is delivered.
+
+
+ARTICLE VIII
+TERM
+
+8.1 Term. The Original Agreement as Amended shall continue in full force 
+until the Effective Date. This Agreement shall become effective as of the 
+Effective Date and shall remain in full force and effect until November 1, 
+2017 (the Primary Term) and thereafter, this Agreement shall continue in 
+full force and effect for successive periods of one (1) year each until 
+terminated by either Party upon the giving of written notice at least 
+forty-five (45) days prior to the end of the Primary Term or any successive 
+one year term. This Agreement shall be deemed an obligation that runs with 
+the land and shall be binding upon any and all subsequent transferees
+ 
+10
+
+------------------------------------------------------------------------
+of the Suppliers interests hereunder. Supplier agrees that Processor may 
+file a mutually agreed to form of memorandum in the applicable land records 
+acknowledging this Agreement The provisions of Section 1.3 will survive the 
+termination of this Agreement. Supplier will remain responsible for all 
+charges incurred by it while this Agreement was in effect.
+
+8.2 Termination or Suspension Because of Uneconomical Operations. If at any 
+time the Gas volumes or Liquid Hydrocarbons content of the Committed Gas or 
+any other cause shall render the processing of the Plant Inlet Volume, or 
+the operation of a Plant uneconomic in the sole discretion of Processor (or 
+Processors processor), Processor may (a) terminate this Agreement on 
+thirty (30) days prior written notice to Supplier, or (b) temporarily 
+suspend operation of this Agreement for increments of one calendar month 
+upon giving five (5) days prior written notice to Supplier before the end 
+of the calendar month which precedes the calendar month that the suspension 
+will begin and such suspension shall remain in effect until the last day of 
+the calendar month in which such uneconomical situation no longer exists 
+(as determined in Processors sole discretion); provided, however, that if 
+such suspension extends for three (3) consecutive calendar months or more, 
+Supplier shall have the right, in Suppliers sole discretion, to terminate 
+this Agreement upon thirty (30) days written notice. In the event Processor 
+elects to so suspend operation of this Agreement, the Committed Gas shall 
+be released during the period of suspension. Processor may resume 
+processing the Committed Gas on the first day of any calendar month, 
+provided that Processor has provided Supplier with 30 days prior written 
+notice of the end of the suspension. If at any time the volume or Liquid 
+Hydrocarbons content of the Gas or any other cause shall render the 
+operation of a Plant to be uneconomical, in the commercially reasonable 
+discretion of Processor, Processor may either temporarily or permanently 
+cease operations at such Plant, or process the Gas at a third party plant 
+or plants. In the event of suspension due to uneconomical operations the 
+Parties will negotiate in good faith for the transportation of Suppliers 
+gas to a market outlet.
+
+
+ARTICLE IX
+REPRESENTATIONS AND WARRANTIES
+
+9.1 Representation and Warranties of Supplier. Supplier represents and 
+warrants that:
+
+(a) it has title to all of the Liquid Hydrocarbons contained in the 
+Committed Gas delivered hereunder (to the extent Supplier owns or controls 
+such Liquid Hydrocarbons), that it has good right to convey and does hereby 
+convey to Processor, free from all liens and adverse claims, Processors 
+share of all Liquid Hydrocarbon Products and Residue Gas, all Plant Fuel 
+Gas and all Shrinkage and title thereto, applicable to the Committed Gas, 
+any and all line and incidental losses between the Receipt Point(s) and the 
+Delivery Point(s) and that it has the right to deliver all Committed Gas 
+during the term of this Agreement;
+
+(b) all royalties, taxes, license fees or other charges on the Committed 
+Gas and Residue Gas available for delivery at the Delivery Point(s), and 
+Liquid Hydrocarbon Products have been or shall be paid when due;
+ 
+11
+
+------------------------------------------------------------------------
+(c) it has the right to deliver the Committed Gas to the Receipt Point(s) 
+as provided in this Agreement and that it will not transfer or assign any 
+of the interests it has in the leases or land in the Committed Area to any 
+third party without obtaining the agreement of such third party to be bound 
+by the terms of this Agreement, as such may be amended from time to time by 
+agreement of the Parties;
+
+(d) it has all requisite authority to enter into this Agreement and to 
+perform its obligations under this Agreement, that this Agreement shall not 
+violate, nor be in conflict with, any provision of its charter or by-laws, 
+and that the execution, delivery, and performance of this Agreement have 
+been duly and validly authorized by all requisite corporate action on its 
+part; and
+
+(e) this Agreement has been duly executed and delivered by Supplier, 
+constitutes a valid and binding obligation of Supplier, and no consent or 
+approval of any third party or other person or entity is necessary with 
+respect to such execution and delivery, or to make this Agreement fully 
+effective and binding upon Supplier.
+
+9.2 Representations and Warranties of Processor. Processor represents and 
+warrants that:
+
+(a) it has all requisite company authority to enter into this Agreement and 
+to perform its obligations under this Agreement, that this Agreement shall 
+not violate, nor be in conflict with, any provision of its charter or 
+by-laws, and that the execution, delivery and performance of this Agreement 
+has been duly and validly, authorized by all requisite corporate action on 
+its part; and
+
+(b) this Agreement has been duly executed and delivered by Processor, 
+constitutes a valid and binding obligation of Processor, and no consent or 
+approval of any third party or other person or entity is necessary with 
+respect to such execution and delivery, or to make this Agreement fully 
+effective and binding upon Processor.
+
+9.3 Indemnification. Each Party shall indemnify (the Indemnifying Party) 
+and hold the other Party harmless from all suits, actions, debts, accounts, 
+damages, costs, losses, and expenses (including reasonable attorneys fees) 
+arising from, or out of any misrepresentations made by the Indemnifying 
+Party contained in Paragraphs 9.1 or 9.2 of this Agreement, as applicable, 
+or the breach of any warranty given in Paragraphs 9.1 or 9.2 of this 
+Agreement, as applicable. The Party seeking indemnification shall promptly 
+notify the Indemnifying Party of any such suits, actions, debts, accounts, 
+damages, costs, losses or expenses for which this indemnity shall apply.
+
+
+ARTICLE X
+FORCE MAJEURE
+
+10.1 Force Majeure. In the event either Party is rendered unable, in whole 
+or in part, by reason of Force Majeure to carry out its obligations under 
+this Agreement (other than the obligation to make payment of amounts due 
+hereunder), it is agreed that such Party shall give notice and reasonably 
+full particulars of such Force Majeure, in writing or by electronic media,
+ 
+12
+
+------------------------------------------------------------------------
+to the other Party within a reasonable time after the occurrence of the 
+cause relied on, and the obligations of the Party giving such notice, so 
+far as they are affected by such Force Majeure, shall be suspended during 
+the period of any inability so caused, but for no longer period, and such 
+cause shall, as far as possible, be remedied using commercially reasonable 
+efforts.
+
+10.2 Definition of Force Majeure. The term Force Majeure as employed 
+herein shall mean acts of God; strikes, lockouts, or other industrial 
+disturbances; conditions arising from a change in governmental laws, 
+orders, rules, or regulations; acts of public enemy; wars; blockades; 
+insurrections; riots; epidemics; landslides; lightning; earthquakes; fires; 
+storms; floods; washouts; arrests and restraints of governments and people; 
+civil disturbances; explosions; breakage or accident to machinery or lines 
+of pipe; the necessity for making repairs, tests or alterations to 
+machinery or lines of pipe; freezing of wells or lines of pipe; partial or 
+entire failure of wells, processing, or gasification and gas manufacturing 
+facilities; failure of transporter to accept delivery of Liquid 
+Hydrocarbons or Residue Gas; and any other causes, whether of the kind 
+herein enumerated or otherwise, not within the control of the Party 
+claiming suspension and which by the exercise of due diligence such Party 
+is unable to prevent or overcome, including any claim of Force Majeure by 
+any third party processor. Such term shall likewise include (a) in those 
+instances where either Party is required to obtain servitudes, 
+rights-of-way, grants, permits or licenses to enable such Party to fulfill 
+its obligations under this Agreement, the inability of such Party to 
+acquire or the delays on the part of such Party in acquiring, at reasonable 
+costs, and after the exercise of reasonable diligence, such servitudes, 
+rights-of-way, grants, permits, or licenses and (b) in those instances 
+where either Party is required to furnish materials and supplies for the 
+purpose of constructing or maintaining facilities or is required to secure 
+permits or permissions from any governmental agency to enable such Party to 
+fulfill its obligations under this Agreement, the inability of such Party 
+to acquire, or the delays on the part of such Party in acquiring, at 
+reasonable costs, and after the exercise of reasonable diligence, such 
+material and supplies, permits and permissions. It is understood and agreed 
+that the settlement of strikes or lockouts shall be entirely within the 
+discretion of the Party having the difficulty, and that the above 
+requirement that any Force Majeure shall be remedied with all reasonable 
+dispatch shall not require the settlement of strikes or lockouts by 
+acceding to the demands of the opposing Party when such course is 
+inadvisable in the commercially reasonable discretion of the Party having 
+the difficulty.
+
+
+ARTICLE XI
+NOTICES
+
+11.1 Notices. All notice, demands and other communications required or 
+permitted under this Agreement shall be in writing, shall be properly 
+addressed to the appropriate Party named below, shall be delivered at the 
+expense of the Party giving notice and shall be deemed to have been 
+delivered when personally delivered to the individual indicated below, or 
+if sent by mail three business days after being sent to the Party charged 
+with such notice:
+ 
+ IF TO PROCESSOR
+   	
+ IF TO SUPPLIER
+ SemGas, L.P.
+   	
+ ARP Oklahoma, LLC
+ 6120 S. Yale Ave., Suite 700
+   	
+ Park Place Corp Center One
+ 
+13
+
+------------------------------------------------------------------------
+ Tulsa, OK 74136
+   	1000 Commerce Drive, Suite 400
+ Attn: Commercial Manager
+   	Pittsburgh, PA 15275
+ Phone: 316.315.0204
+   	
+ Fax: 316.315.0244
+   	
+ Or
+   	
+ Attn: Contract Administration
+   	Attn: Energy Marketing
+ Phone: 918.524.8110
+   	Phone: 412.489.0309
+ Fax:     918.524.8210
+   	Fax:     412.774.2431
+
+Notwithstanding the above, the Parties may agree to use email, facsimiles 
+or Electronic Data Interchange (EDI) for notices, requests, demands, 
+statements, or bills provided for herein. In such event, they shall be 
+deemed delivered when sent to the Party charged with such notice. Any Party 
+shall change its address by appropriate written notice to the other Party 
+hereto.
+
+ARTICLE XII
+GENERAL PROVISIONS
+
+12.1 Compliance with Laws. This Agreement and all operations to be 
+conducted hereunder and in connection herewith are and shall be subject to 
+all applicable laws, rules, orders and regulations now or hereafter 
+promulgated by governmental agencies or bodies, State or Federal, having 
+any jurisdiction over the gathering, transportation, processing and 
+handling of the Committed Gas or of any operation conducted or to be 
+conducted hereunder.
+
+12.2 Taxes. Processor or its representative shall, from the proceeds 
+otherwise owing to Supplier hereunder, timely remit any present, new or 
+increased production, severance, or other taxes or assessments of a similar 
+nature, imposed or levied by the state or any other governmental or duly 
+constituted authority having jurisdiction upon the Committed Gas.
+
+12.3 Revenue Distribution. Processor shall process the required division 
+orders based on title opinions provided by Supplier and shall make basic 
+revenue distribution of the proceeds owing hereunder to Supplier and other 
+relevant entities defined by Supplier in the title opinions. Supplier shall 
+be solely responsible for providing accurate title information to 
+Processor, and Processor shall be able to rely on such information without 
+liability regarding its accuracy.
+
+12.4 Relationship of Parties. Processor shall be regarded as an independent 
+contractor free from any control or direction by Supplier. Further, the 
+rights and obligation of the Parties hereto shall be defined solely by the 
+terms hereof and nothing herein shall be construed as creating a 
+partnership of any kind, joint venture, association or trust, nor shall any 
+Party be considered the agent for the other Party for any purpose 
+whatsoever.
+
+12.5 Exclusion from Subchapter K. If, for Federal income tax purposes, 
+this Agreement and the operations hereunder are regarded as creating a 
+partnership, each Party hereby affected elects to be excluded from the 
+application of all of the provisions of Subchapter K, Chapter 1, Subtitle 
+A, of the Internal Revenue Code of 1986, as amended, as permitted and 
+authorized by Section 761 of the Code and the regulations promulgated 
+thereunder. Processor is
+ 
+14
+
+------------------------------------------------------------------------
+authorized and directed to execute on behalf of Supplier such evidence of 
+this election as may be required by the Secretary of the Treasury of the 
+United States or the Federal Internal Revenue Service, including all of the 
+returns, statements and data required by Federal Regulations or other law 
+or regulation. Should there be any requirement that each Party hereby 
+affected give further evidence of this election, each Party shall execute 
+such documents and furnish such other evidence as may be required by the 
+Federal Internal Revenue Service or as may be necessary to evidence this 
+election. No such Party shall give any notices or take any other action 
+inconsistent with the election made hereby. The Parties shall make similar 
+elections as may be permitted or required by state laws.
+
+12.6 Operations by Supplier. Supplier hereby expressly reserves the right 
+to conduct its operations free from all control by Processor, in such a 
+manner as Supplier, in its commercially reasonable discretion, deems 
+advisable, subject to the terms of this Agreement.
+
+12.7 Exhibits. All exhibits referred to in this Agreement are hereby 
+incorporated by reference. In the event of a conflict between any of the 
+exhibits referred to in this Agreement and this Agreement, the terms and 
+provisions of this Agreement shall control.
+
+12.8 Entire Agreement. This Agreement sets forth the entire agreement and 
+understanding between the Parties respecting the subject matter hereof, 
+there being no oral agreements, promises or representations which are or 
+may be incidental or supplementary to the provisions here. This Agreement 
+was prepared jointly by the Parties and not by one Party to the exclusion 
+of the other Party. This Agreement may only be modified or altered by a 
+document in writing and executed subsequent to the date hereof by the 
+Parties.
+
+12.9 Waiver. The failure of either Party to this Agreement to insist upon 
+the strict performance of any provision of this Agreement or to exercise 
+any right, power, or remedy upon a breach thereof, shall not constitute a 
+waiver by said Party for any such provision, breach, or subsequent breach, 
+whether of the same or of any other provision hereof.
+
+12.10 Governing Law. The Parties agree that the Agreement shall be governed 
+by and construed in accordance with the laws of the State of Oklahoma, 
+excluding any conflicts of law, rule or principle that might refer such 
+construction of the laws of another state and that venue shall be in either 
+state or federal court sitting in Tulsa County, Oklahoma, with respect to 
+any cause of action brought under or with respect to this Agreement.
+
+12.11 Assignment. The terms and conditions of this Agreement shall be 
+binding upon and shall accrue to the benefit of the Parties hereto and 
+their successors and assigns. Neither Party may assign this Agreement 
+without the prior written consent of the other Party, which consent shall 
+not be unreasonably withheld. Any assignment of any of the rights or 
+obligations of either Party, in whole or in part, shall be made subject to 
+the terms of this Agreement. Nothing in this Agreement shall prevent either 
+Party from pledging or mortgaging its rights hereunder as security for its 
+indebtedness. A merger, recapitalization, or change of ownership or control 
+of either corporate entity which is a Party hereto shall not be considered 
+an assignment.
+
+12.12 Limitation of Liability. NOTWITHSTANDING ANYTHING TO THE CONTRARY 
+CONTAINED IN THIS AGREEMENT EXCEPT FOR CIRCUMSTANCES INVOLVING FRAUD BY A 
+PARTY, NEITHER PARTY SHALL BE LIABLE OR
+ 
+15
+
+------------------------------------------------------------------------
+OTHERWISE RESPONSIBLE TO THE OTHER PARTY FOR PUNITIVE, SPECIAL, 
+CONSEQUENTIAL, OR INCIDENTAL DAMAGES OR FOR LOST PROFITS WHICH ARISE OUT OF 
+OR RELATE TO THIS AGREEMENT.
+
+12.13 Severability. The invalidity or unenforceability of any article, 
+paragraph, subparagraph, provision or term of this Agreement shall not 
+affect any other article, paragraph, subparagraph, provision or term of 
+this Agreement.
+
+12.14 Headings for Convenience. Headings used herein are for convenience 
+only and do not constitute part of this Agreement.
+
+12.15 Binding Effect. The terms and conditions of this Agreement shall be 
+binding upon and shall inure to the benefit of the Parties hereto, and 
+their respective successors and assigns.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the day 
+and year first above written.
+ 
+ Processor:
+   	 	  	Supplier:
+ SemGas, L.P.
+   	 	  	ARP Oklahoma, LLC
+ By: SemOperating G.P., L.L.C.,
+ General Partner
+   	 	  	
+ [LOGO]
+   	 	  	 [LOGO]
+         
+   	 	  	
+         
+ Name: Norman J. Szydlowski
+   	 	  	Name: Matthew Jones
+ Title: Chief Executive Officer
+   	 	  	Title:
+ 
+16
+
+------------------------------------------------------------------------
+EXHIBIT A
+
+Attached to and made a part of that certain Gas Purchase, Gathering and
+Processing Agreement effective August 1, 2013, by and between
+SemGas, L.P. and ARP Oklahoma, LLC
+
+ACCOUNTING PROCEDURE
+ 
+I. 	General Provisions
+
+A. Gas Purchase. Gathering and Processing Agreement. All reference to the 
+Agreement shall mean the Gas Purchase, Gathering and Processing Agreement 
+to which this Exhibit A is attached.
+
+B. Definitions. Terms used in this Exhibit A shall have the same meanings 
+as defined in the Agreement. The following additional term shall have the 
+meaning set forth below:
+
+Btu/Gallon Liquid Ratio Factor shall mean the number of Btus contained 
+in 1 gallon of any component of the Liquid Hydrocarbon Products measured at 
+60° Fahrenheit. The Gross Heating Value in Btus per gallon shall be the 
+values stated as ideal Gas Law. The numerical values of such ratio for each 
+component shall be the numerical values shown in the Gas Processors 
+Association Standard 2145-2000, as amended from time to time.
+
+C. Standard Reporting. All volumes and Btu measurements shall be reported 
+at 14.73 psia and 60° Fahrenheit. For purpose of this Exhibit A, all 
+references to volumes shall mean volumes in Mcf.
+
+D. The Liquid Hydrocarbons components of ethane, propane, iso-butane, 
+normal butane and natural gasoline (sometimes known as Pentane plus (+) 
+will be allocated to Supplier from the Liquid Hydrocarbon Products produced 
+hereunder. For brevity purposes, iso-butane and normal butane will both be 
+referred to as just butane in this Exhibit A.
+ 
+II. 	Basis for Allocations
+
+A. Sampling and Analysis of Inlet Streams and Commingled Residue Gas. 
+Processor shall determine the analysis of the Plant Inlet Volume by taking 
+spot sample(s) at the Receipt Point(s) as frequently as deemed necessary, 
+but not less frequently than once each three (3) months. Processor shall 
+provide Supplier at least seven (7) business days prior notice so that 
+Suppliers personnel can witness such sampling. Processor may, at its sole 
+option, install, maintain, and operate a continuous gas sampler to sample 
+the Gas at
+ 
+17
+
+------------------------------------------------------------------------
+the Receipt Point(s). Determination by a continuous gas sampler shall 
+become effective the first day of the month in which the gas sample was 
+collected. Spot sample determinations shall become effective the first day 
+of the month following the determination and shall remain effective until 
+the next subsequent determination. Processor shall cause the Gas sample to 
+be analyzed at a reputable third party commercial laboratory using a 
+chromatograph. The resulting component analyses shall indicate the gross 
+heating value, saturated, at 14.73 psia and 60° Fahrenheit for each sample 
+of the Gas at the Receipt Point(s) and it shall further indicate the 
+gallons of ethane, propane, butane and natural gasoline per thousand cubic 
+feet (GPM) contained in such samples.
+
+B. Calculation of Theoretical Gallons of Ethane, Propane, Butane and 
+Natural Gasoline. The Plant Inlet Volume during an Accounting Period shall 
+be multiplied by the (GPM) of ethane, propane, butane, and natural gasoline 
+contained therein (determined as provided in Paragraph II.A of this Exhibit 
+A) to determine the total theoretical gallons of ethane, propane, butane, 
+and natural gasoline, respectively, contained in such volumes. In the event 
+that any Gas is bypassed around the Plant without processing, all 
+references to the Plant Inlet Volume for purpose of calculating theoretical 
+gallons of ethane, propane, butane and natural gasoline shall mean the 
+calculated volume of Committed Gas at the Receipt Point(s) less the Field 
+Fuel Gas and less any amounts of Gas that are bypassed.
+
+C. Calculation of Theoretical MMBtus in the Plant Inlet Volume. The Plant 
+Inlet Volume during an Accounting Period shall be multiplied by the Gross 
+Heating Value of such Plant Inlet Volume, determined from the sampling and 
+analysis as provided in Paragraph II.A of this Exhibit A to arrive at the 
+total theoretical MMBtus contained in the Plant Inlet Volume. In the event 
+that any Gas is bypassed around the Plant without processing, all 
+references to the Plant Inlet Volume for purpose of calculating theoretical 
+MMBtus shall mean the volume of Committed Gas received and/or calculated 
+at the Receipt Point(s) less the Field Fuel Gas and less any amounts of Gas 
+that are bypassed.
+ 
+III. 	Product Recovery Percentages for Receipt Points
+
+The Product Recovery Percentage of each Liquid Hydrocarbon Product used to 
+determine the gross allocation of ethane, propane, butane and natural 
+gasoline (as provided in Paragraph IV.A of this Exhibit A) from Plant Inlet 
+Volume shall be as follows:
+ 
+ Ethane
+   	  	50 	% 
+ Propane
+   	  	90 	% 
+ Iso-Butane
+   	  	93 	% 
+ Normal Butane
+   	  	93 	% 
+ Natural Gasoline
+   	  	95 	% 
+ 
+18
+
+------------------------------------------------------------------------
+IV. Determination of Ethane, Propane, Butane and Natural Gasoline
+
+A. Gross Allocation. The total theoretical gallons of ethane, propane, 
+butane and natural gasoline contained in the Plant Inlet Volume (determined 
+as provided in Paragraph II.B of this Exhibit A) shall be multiplied by the 
+Product Recovery Percentage provided above with respect to each product to 
+determine the gross allocation of ethane, propane, butane and natural 
+gasoline to the Committed Gas.
+
+B. Net Allocation. The net number of gallons of ethane, propane, butane and 
+natural gasoline allocable to the Plant Inlet Volume shall be determined by 
+multiplying the percentage of to the Liquid Hydrocarbon Products Supplier 
+is to receive (determined as provided in Section 5.1 of the Agreement) by 
+the gross allocation of gallons of ethane, propane, butane and natural 
+gasoline to the Plant Inlet Volume (determined as provided in Paragraph 
+IV.A of this Exhibit A).
+
+
+V. Determination of Shrinkage
+
+A. MMBtu Content of the Ethane, Propane, Butane, and Natural Gasoline. The 
+MMBtus removed from the Plant Inlet Volume as separate Liquid Hydrocarbon 
+Products (i.e., ethane, propane, butane and natural gasoline) during each 
+Accounting Period shall be determined by multiplying the number of gallons 
+of the ethane, propane, butane and natural gasoline, respectively, produced 
+during such Accounting Period from the Plant Inlet Volume, determined as 
+provided in Paragraph IV.A of this Exhibit A, by the Btu/Gallon Liquid 
+Ratio Factor (determined as provided in Paragraph I.B of this Exhibit A), 
+as applicable for each component, in effect for such Accounting Period.
+
+B. Total MMBtus Removed from the Plant Inlet Volume. The total MMBtus 
+removed from the Plant Inlet Volume as Liquid Hydrocarbon Products during 
+each Accounting Period shall equal the sum of the MMBtus removed from the 
+Plant Inlet Volume as ethane, propane, butane and natural gasoline, 
+determined as provided in Paragraph V.A of this Exhibit A.
+ 
+VI. 	Determination of Residue Gas
+
+A. Basis for Determination and Gross Allocation. The theoretical MMBtus 
+allocable to Supplier from the Commingled Residue Gas shall be determined 
+by subtracting the sum of 1) the MMBtus removed from the Plant Inlet 
+Volume as Liquid Hydrocarbon Products (determined as provided Paragraph V 
+of this Exhibit A) and 2) the MMBtus allocable to the Plant Inlet Volume 
+as Plant Fuel Gas from the theoretical MMBtus delivered to the Receipt 
+Points in the Committed Gas (determined as provided in Paragraph II.C of 
+this Exhibit A) during the Accounting Period.
+
+B. Net Allocation. The net Commingled Residue Gas allocable to the Plant 
+Inlet Volume shall be determined by multiplying the percentage of MMBtus 
+of Residue Gas Supplier is to receive (determined as provided in Section 5 
+of the Agreement) by the gross allocation of MMBtus allocable to the Plant 
+Inlet Volume(determined as provided in Paragraph VI.A of this Exhibit A.
+ 
+19
+
+------------------------------------------------------------------------
+VII. 	Audit Rights
+
+A. Examination of Books. Records and Charts. Each Party shall have the 
+right during reasonable working hours to examine the books, records and 
+charts of the other Party to the extent necessary to verify the accuracy of 
+any statement, payment calculations or determinations made pursuant to the 
+provisions contained herein. The accuracy of any statement, payment 
+calculation or determination made pursuant to the provisions contained 
+herein shall be conclusively presumed to be correct twenty-four (24) months 
+after the charts and records were generated or prepared if not challenged 
+in writing prior thereto. If any such examination shall reveal, or if 
+either Party shall discover, any error in its own or the other Parts 
+statements, payment calculations or determinations, then proper adjustment 
+and correction thereof shall be made as promptly as practicable thereafter.
+ 
+20
+
+------------------------------------------------------------------------
+EXHIBIT B
+
+Attached to and made a part of that certain Gas Purchase, Gathering and
+Processing Agreement effective August 1, 2013, by and between
+SemGas, L.P. and ARP Oklahoma, LLC
+
+GAS QUALITY AND GAS MEASUREMENT
+
+The commingled stream of Committed Gas delivered to Processors Gathering 
+Facilities shall:
+
+A. Be measured at a pressure base of fourteen and seventy-three hundredths 
+(14.73) pounds per square inch and at a temperature of sixty degrees (60°) 
+Fahrenheit. The Committed Gas may be saturated with water vapor, but shall 
+not contain any free water.
+
+B. Not contain more than four parts per million of hydrogen sulfide as 
+determined by quantitative methods in general use in the industry and 
+mutually acceptable to both Parties.
+
+C. Not contain any diluents, impurities, non-hydrocarbon components or 
+other substances which would render the gas incapable of meeting the 
+quality specifications of the Downstream Pipeline(s) receiving Residue Gas 
+at the Delivery Point(s) at each Plant.
+
+D. Not contain in excess of six (6) percent nitrogen.
+
+E. Not contain less than 1,000 Btu per cubic foot. In the event that the 
+Gross Heating Value of the Committed Gas falls below 1,000 Btu per cubic 
+foot, Processor shall have the option to refuse to accept Committed Gas so 
+long as the Gross Heating Value remains below 1,000 Btu per cubic foot 
+(even though Processor or its designee may accept such deliveries for 
+gathering and/or transportation).
+
+F. Meet the above specifications, and be commercially free from dust, gum, 
+gum-forming constituents, or other liquid or solid matter which might 
+become separated from the Committed Gas in the course of gathering and/or 
+transportation through Processors or its designees system.
+
+G. Have a maximum temperature of one hundred twenty degrees Fahrenheit 
+(120°F) and a minimum temperature of forty degrees Fahrenheit (40°F).
+
+H. Not contain in excess of two (2%) percent of carbon dioxide (by volume).
+
+I. Not contain in excess of 50 parts per million of oxygen.
+
+The Residue Gas delivered to the Delivery Point(s) shall meet the 
+specifications designated by the applicable third party processor or 
+transporter. Supplier and Processor agree that in the event
+ 
+21
+
+------------------------------------------------------------------------
+such processor or transporter refuses to accept Residue Gas because it does 
+not meet applicable specifications, Processor will make a commercially 
+reasonable effort to process any such Residue Gas at Processors Plant or 
+at a third party processing plant, on the terms and conditions of 
+Processors contract with the relevant processor or transporter.
+
+
+MEASURING EQUIPMENT AND TESTING
+
+A. Installation and Operation. Processor or its designee shall construct, 
+own, operate, and maintain, all measuring facilities necessary to 
+accomplish the receipt of Committed Gas Processor for the account of 
+Supplier at the Receipt Point(s) herein. Each Party shall, at all 
+reasonable times, have access to the premises of the other for inspections, 
+insofar as such premises are connected with any matter or thing covered 
+hereby. The operation of measuring equipment, changing of charts and/or 
+obtaining electronic data shall be done only by the employees or agents of 
+Processor or its designee at the Receipt Point(s).
+
+
+B. Testing and Repair of Equipment.
+
+1. Processor and Supplier shall each maintain their own measuring equipment 
+to be accurate and in good repair, making such periodic tests as necessary 
+to verify the condition of meter tubes, orifice plate, and the flow 
+recorder or flow computer. Both Parties agree to give each other seven (7) 
+business days notice prior to such tests of the measuring equipment so that 
+if desired, either Party may have its representative present. Either Party 
+shall have the right to challenge the accuracy of the other Partys 
+equipment, and when challenged, the equipment shall be tested, calibrated 
+and, if required, repaired by the challenged Party; the cost of such 
+special test to be borne by the challenged Party if the percentage of the 
+total metering inaccuracy is found to be more than two percent (2%), but if 
+the percentage of the total metering inaccuracy is found to be two percent 
+(2%) or less, the cost of such special test shall be borne by the 
+challenging Party. If upon any test, the percentage of the total metering 
+inaccuracy is found to be in excess of two percent (2% ), registrations 
+therefore shall be corrected for a period extending back to the time such 
+inaccuracy occurred if such time is ascertainable, and if not 
+ascertainable, then back one-half (1/2) of the time elapsed since the last 
+date of calibration, but not to exceed 90 days. Any measuring equipment 
+determined to be measuring inaccurately in any percentage shall be adjusted 
+at once to read accurately.
+
+2. If, for any reason, the meter(s) are out of service or out of repair so 
+that the amount of Committed Gas received cannot be ascertained or computed 
+from the readings thereof, the Committed Gas received during the period 
+such meter(s) are out of service or out of repair shall be estimated and 
+agreed upon by the Parties hereto by the use of the first applicable of the 
+following methods:
+
+a. By comparative utilization of any like check measuring equipment 
+installed by Supplier or Suppliers Designee if such check measuring 
+equipment can be proven and verified to be measuring accurately subject to 
+the check meter provisions in Paragraph E of this Section, or
+ 
+22
+
+------------------------------------------------------------------------
+b. By computing the error if the percentage of error is ascertainable by 
+calibration test or mathematical calculations, or
+
+c. By estimating the quantity of Committed Gas received by reference to 
+actual receipts of Committed Gas during preceding periods under similar 
+conditions when Processors measuring equipment was registering accurately.
+
+C. Inspection of Charts and Records. The charts and records from the 
+measuring equipment shall remain the property of Processor and shall be 
+kept on file for a period of time not less than twenty-four (24) months 
+after the charts and records were generated or prepared. At any time within 
+such period, upon written request by Supplier, records and/or charts from 
+the measuring equipment, together with calculations there from, will be 
+submitted for Suppliers inspection and verification, subject to return to 
+Processor within thirty (30) days from receipt thereof. Supplier or 
+Suppliers Designee shall retain its charts and records for the same period 
+of time as Processors obligation under this Paragraph.
+
+D. Telemetering. Processor and Supplier shall each have the right, but not 
+the obligation, to install and operate telemetering equipment it deems 
+necessary to carry out Supervisory Control and Data Acquisition (SCADA) or 
+other operational needs at any Receipt Point(s) contemplated hereunder, 
+provided Processors normal operations are not materially impeded.
+
+E. Check Meter. Supplier or Suppliers Designee shall have the right to 
+install, maintain as described in Paragraph A of this section, and operate 
+such check measurement equipment as it may desire, but same shall not 
+materially interfere with or impede in any way the operation of Processors 
+measurement or other equipment hereunder, and all calibrating and adjusting 
+of check meters and changing of charts shall be done by Supplier or its 
+designees. Such check meters may be installed at the Receipt Point(s) only. 
+Furthermore, Processor must be notified seven (7) calendar days prior to 
+all testing and calibration in order to have a representative present. In 
+the event Processor proves the inaccuracy of Suppliers check meter or all 
+applicable check meter maintenance records are not available, both Parties 
+agree to incorporate the next applicable alternate method detailed in 
+Paragraph B.2 of this Section to resolve the discrepancy.
+ 
+23
+
+------------------------------------------------------------------------
+EXHIBIT C
+
+Attached to and made a part of that certain Gas Purchase, Gathering and
+Processing Agreement effective August 1, 2013, by and between
+SemGas, L.P. and ARP Oklahoma, LLC
+
+DESCRIPTION OF GAS PROCESSING PLANT(S)
+
+Nash cryogenic plant located in Section 28, T25N, R8W in Grant County, 
+Oklahoma
+
+Hopeton cryogenic plant located in Section 31, T26N, R13W in Woods County, 
+Oklahoma
+
+Rose Valley I and II plants located in Section 6, T25N, R14W in Woods 
+County, Oklahoma
+ 
+24
+
+------------------------------------------------------------------------
+EXHIBIT D
+
+Attached to and made a part of that certain Gas Purchase, Gathering and
+Processing Agreement effective August 1, 2013, by and between
+SemGas, L.P. and ARP Oklahoma, LLC
+
+DESCRIPTION OF COMMITTED GAS
+
+Subject to Paragraph 1.1 and 3.3 of this Agreement, Suppliers share of all 
+Gas now or hereafter produced from all leases either currently owned or 
+acquired during the term of this Agreement located in the following 
+townships and ranges in Oklahoma:
+ 
+Township
+  	
+Range
+  	
+County
+23N 	  	7W, 8W 	  	Garfield
+23N 	  	9W 	  	Garfield, Major
+24N 	  	7W, 8W 	  	Garfield
+25N 	  	7W, 8W 	  	Grant
+24N 	  	9W, 10W, 11W, 12W 	  	Alfalfa
+25N 	  	9W, 10W, 11W, 12W 	  	Alfalfa
+26N 	  	9W, 10W, 11W, 12W 	  	Alfalfa
+24N 	  	13W, 14W, 15W 	  	Woods
+25N 	  	13W, 14W, 15W 	  	Woods
+26N 	  	13W, 14W, 15W 	  	Woods
+27N 	  	14W, 15W 	  	Woods
+ 
+25
