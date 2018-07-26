@@ -1,0 +1,687 @@
+ EX-10.1 2 d536234dex101.htm EX-10.1
+Exhibit 10.1
+
+EXECUTION COPY
+
+FIRST AMENDMENT
+
+TO
+
+FOURTH AMENDED AND RESTATED
+
+CREDIT AGREEMENT
+
+DATED AS OF FEBRUARY 5, 2018
+
+AMONG
+
+BLACK STONE MINERALS COMPANY, L.P.,
+AS BORROWER,
+
+BLACK STONE MINERALS, L.P.,
+AS PARENT MLP,
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+AS ADMINISTRATIVE AGENT,
+
+AND
+
+THE LENDERS PARTY HERETO
+
+SOLE BOOK RUNNER AND SOLE LEAD ARRANGER
+
+WELLS FARGO SECURITIES, LLC
+
+------------------------------------------------------------------------
+FIRST AMENDMENT TO FOURTH AMENDED
+AND RESTATED CREDIT AGREEMENT
+
+THIS FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT (this 
+First Amendment) dated as of February 5, 2018, is among: BLACK STONE 
+MINERALS COMPANY, L.P., a Delaware limited partnership (the Borrower); 
+BLACK STONE MINERALS, L.P., a Delaware limited partnership (the Parent MLP
+); each of the lenders party to the Credit Agreement referred to below 
+(collectively, the Lenders); and WELLS FARGO BANK, NATIONAL ASSOCIATION, 
+as administrative agent for the Lenders (in such capacity, together with 
+its successors in such capacity, the Administrative Agent).
+
+
+R E C I T A L S
+
+A. The Borrower, the Parent MLP, the Administrative Agent and the Lenders 
+are parties to that certain Fourth Amended and Restated Credit Agreement 
+dated as of November 1, 2017 (as amended, modified or supplemented to date, 
+the Credit Agreement), pursuant to which the Lenders have made certain 
+credit available to and on behalf of the Borrower.
+
+B. The Borrower, the Parent MLP, the Administrative Agent and the Lenders 
+desire to amend the Credit Agreement in connection with Parent MLPs 
+issuance of Series B Preferred Stock as provided herein.
+
+C. Now, therefore, to induce the Administrative Agent and the Lenders to 
+enter into this First Amendment and in consideration of the premises and 
+the mutual covenants herein contained, for good and valuable consideration, 
+the receipt and sufficiency of which are hereby acknowledged, the parties 
+hereto agree as follows:
+
+Section 1. Defined Terms. Each capitalized term used herein but not 
+otherwise defined herein has the meaning given such term in the Credit 
+Agreement, as amended by this First Amendment. Unless otherwise indicated, 
+all section references in this First Amendment refer to sections of the 
+Credit Agreement.
+
+
+Section 2. Amendments to Credit Agreement.
+
+2.1 Amendments to Section 1.02. Section 1.02 is hereby amended by deleting 
+the following definitions in their entirety and replacing them with the 
+following:
+
+Agreement means this Fourth Amended and Restated Credit Agreement, as 
+amended by the First Amendment to Fourth Amended and Restated Credit 
+Agreement dated as of February 5, 2018, as the same may be amended or 
+supplemented from time to time.
+
+Change of Control means:
+
+(i) the Parent MLP shall cease to own, directly or indirectly, all of the 
+outstanding equity interests of (a) the Borrower and (b) the General 
+Partner; (ii) any Person or two or more Persons acting as a group (as 
+defined in Section
+ 
+1
+
+------------------------------------------------------------------------
+13(d)(3) of the Securities Exchange Act of 1934), other than the Parent MLP 
+or any Wholly-Owned Subsidiary of the Parent MLP, shall have acquired 
+beneficial ownership (within the meaning of Rule 13d-3 of the SEC under the 
+Securities Exchange Act of 1934) of 35% or more of the outstanding 
+membership interests of the Parent MLP GP; (iii) individuals who, as of the 
+Closing Date, constitute the board of directors of the Parent MLP GP (the 
+Parent MLP GP Incumbent Board) cease for any reason to constitute at least 
+a majority of the board of directors of the Parent MLP GP; provided, 
+however, that any individual becoming a director of the Parent MLP GP 
+subsequent to such date whose election, or nomination for election by the 
+Parent MLP GPs board of directors or committee thereof, was approved by a 
+vote of at least a majority of the directors then comprising the Parent MLP 
+GP Incumbent Board, shall be considered as though such individual were a 
+member of the Parent MLP GP Incumbent Board; or (iv) a Series B Change of 
+Control occurs pursuant to the terms of the Series B Preferred Stock.
+
+Section 1.02 is hereby amended by adding the following definitions where 
+alphabetically appropriate to read as follows:
+
+Parent MLP LPA shall mean that certain First Amended and Restated 
+Agreement of Limited Partnership Agreement, dated as of May 6, 2015, as 
+amended by Amendment No. 1 thereto, effective as of May 6, 2015, and by 
+Amendment No. 2 thereto, effective November 28, 2017, and as may be further 
+amended, restated, amended and restated, supplemented or otherwise modified 
+from time to time.
+
+Series B Change of Control Cash Redemption Election shall mean a notice 
+issued in connection with a Series B Change of Control by a holder of 
+Series B Preferred Stock to Parent MLP pursuant to paragraph 11(b) of Annex 
+B of the Parent MLP LPA electing to require Parent MLP to redeem such 
+holders Series B Preferred Stock for cash pursuant to paragraph 11(b)(iv) 
+of such Annex B of the Parent MLP LPA.
+
+Series B Change of Control shall have the meaning assigned such term in 
+the Parent MLP LPA.
+
+Series B Change of Control Notice shall mean a notice issued by Parent 
+MLP to the holders of Series B Preferred Stock pursuant to paragraph 11(b) 
+of Annex B of the Parent MLP LPA) of a Series B Change of Control.
+
+Series B Preferred Stock shall mean (i) (x) $300,000,000 of Parent MLPs 
+Series B Cumulative Convertible Preferred Units (as defined in the Parent 
+MLP LPA) issued pursuant to Amendment No. 2 to the Parent MLP LPA and (y) 
+any Series B PIK Units (as defined in the Parent MLP LPA) issued in 
+connection with the same and (ii) (x) up to $200,000,000 of Series B Parity 
+Securities (as defined in the Parent MLP LPA) and (y) any equity interests 
+of the same type as the Series B Parity Securities issued as 
+payment-in-kind with respect to such Series B Parity Securities.
+ 
+2
+
+------------------------------------------------------------------------
+2.2 Amendment to Section 8.01(i). Section 8.01(i) is hereby amended to read 
+as follows:
+
+(i) Series B Preferred Stock. (i) contemporaneous with the issuance thereof 
+by Parent MLP (and in any event not less than ten (10) Business Days prior 
+to any Series B Change of Control), any Series B Change of Control Notice 
+and (ii) promptly upon receipt thereof by Parent MLP, a copy of any Series 
+B Change of Control Cash Redemption Election.
+
+2.3 Amendment to Section 9.01(a). The parenthetical in Section 9.01(a) is 
+hereby amended to read as follows:
+
+(excluding the Preferred Stock and the Series B Preferred Stock)
+
+2.4 Amendment to Section 9.02(m). Section 9.02(m) is hereby amended to read 
+as follows:
+ 
+  	(m) 	the Preferred Stock and the Series B Preferred Stock.
+
+2.5 Amendments to Section 9.04. Section 9.04 is hereby amended to read as 
+follows:
+
+Section 9.04. Dividends, Distributions and Redemptions. The Parent MLP and 
+the Borrower will not, and will not permit any Restricted Subsidiary to, 
+declare or pay any dividend, purchase, redeem or otherwise acquire for 
+value any of its capital or partnership interests now or hereafter 
+outstanding, return any capital to its Partners or make any distribution of 
+its assets to its Partners, except for any such dividend, distribution or 
+redemption (collectively, Distributions)
+
+(a) by any Restricted Subsidiary to the Parent MLP or to any other 
+Restricted Subsidiary;
+
+(b) by the Parent MLP, other than a redemption of the Preferred Stock or 
+the Series B Preferred Stock, so long as no Default, Event of Default or 
+Deficiency has occurred and is continuing or would result therefrom;
+
+(c) by the Parent MLP of a redemption of the Preferred Stock, so long as 
+(i) no Default, Event of Default or Deficiency has occurred and is 
+continuing or would result therefrom, (ii) after giving effect to such 
+redemption of Preferred Stock on a pro forma basis, the Parent MLP shall be 
+in compliance with the covenants set forth in Section 9.01 as of the last 
+day of the applicable period covered by the certificate most recently 
+delivered pursuant to Section 8.01(f) (for purposes of Section 9.01, as if 
+such redemption of the Preferred Stock, and all other redemption of 
+Preferred Stock and Series B Preferred Stock since the first day of such 
+applicable period, had been redeemed on the first day of such applicable 
+period), and (iii) after giving effect to such redemption of Preferred 
+Stock, the Parent MLP shall have demonstrated that it will have 
+unrestricted cash
+ 
+3
+
+------------------------------------------------------------------------
+liquidity (including, for purposes of this computation, the Unused Amount 
+that is then available for borrowing) in an amount not less than 10% of the 
+Aggregate Elected Revolving Commitment Amount;
+
+(d) by the Parent MLP of a redemption of the Series B Preferred Stock in 
+connection with a mandatory redemption upon a Series B Change of Control, 
+so long as all Loans, all interest thereon and all other amounts payable by 
+the Borrower hereunder and under the other Loan Documents that have become 
+due and payable as a result of such Series B Change of Control have first 
+been paid in full or such required payments have been waived in accordance 
+with Section 12.04; and
+
+(e) by the Parent MLP of a redemption of the Series B Preferred Stock 
+(other than a redemption described in clause (d) above), so long as (i) no 
+Default, Event of Default or Deficiency has occurred and is continuing or 
+would result therefrom, (ii) after giving effect to such redemption of 
+Series B Preferred Stock on a pro forma basis (x) the Parent MLP shall be 
+in compliance with the covenant set forth in Section 9.01(b) and (y) the 
+ratio of Total Debt (excluding the Preferred Stock and the Series B 
+Preferred Stock) as of such time to EBITDAX for the four fiscal quarters 
+ending on the last day of the fiscal quarter immediately preceding the date 
+of determination for which financial statements are available shall be less 
+than or equal to 2.5 to 1.0, in each case as of the last day of the 
+applicable period covered by the certificate most recently delivered 
+pursuant to Section 8.01(f) (for purposes hereof, as if such redemption of 
+the Series B Preferred Stock, and all other redemption of Preferred Stock 
+and Series B Preferred Stock since the first day of such applicable period, 
+had been redeemed on the first day of such applicable period), and (iii) 
+after giving effect to such redemption of Series B Preferred Stock, the 
+Parent MLP shall have demonstrated that it will have unrestricted cash 
+liquidity (including, for purposes of this computation, the Unused Amount 
+that is then available for borrowing) in an amount not less than 20% of the 
+Aggregate Elected Revolving Commitment Amount.
+
+Parent MLP shall not amend or modify the terms of Annex B of the Parent MLP 
+LPA, if such amendment or modification would (x) amend or modify the 
+requirement set forth in paragraph 11(b)(iv) of such Annex B such that any 
+redemption payable in cash pursuant thereto shall be subject to the prior 
+payment of any Indebtedness then due as a result of the event resulting in 
+the Series B Change of Control triggering such redemption or (y) provide 
+for the mandatory redemption of the Series B Preferred Stock for any 
+consideration other than capital stock or other equity interests upon the 
+happening of any event other than a Series B Change of Control.
+
+2.6 Amendments to Section 10.02. Section 10.02(a) is hereby amended to read 
+as follows:
+
+(a) In the case of an Event of Default other than one referred to in 
+Section 10.01 (e), (f) or (g) (or in Section 10.01(j) that is a Series B 
+Change of Control pursuant to which a holder of Series B Preferred Stock 
+has issued a Series B Change of Control Cash Redemption Notice), the 
+Administrative Agent shall, upon request of the Majority Lenders, by notice 
+to the Borrower, cancel the Revolving Commitments and/or declare the 
+principal amount then outstanding of, and the accrued interest on, the 
+Loans and all
+ 
+4
+
+------------------------------------------------------------------------
+other amounts payable by the Borrower hereunder and under the Notes 
+(including, without limitation, the payment of cash collateral to secure 
+the LC Exposure as provided in Section 2.10(b)) to be forthwith due and 
+payable, whereupon such amounts shall be immediately due and payable 
+without presentment, demand, protest, notice of intent to accelerate, 
+notice of acceleration or other formalities of any kind, all of which are 
+hereby expressly waived by the Borrower.
+
+Section 10.02(b) is hereby amended by adding a new sentence at the end 
+thereof, to read as follows:
+
+In the case of an Event of Default referred to in Section 10.01(j) that is 
+a Series B Change of Control pursuant to which a holder of Series B 
+Preferred Stock has issued a Series B Change of Control Cash Redemption 
+Notice, the principal amount then outstanding of, and the accrued interest 
+on, the Loans and all other amounts payable by the Borrower hereunder and 
+under the Notes (including, without limitation, the payment of cash 
+collateral to secure the LC Exposure as provided in Section 2.10(b)) shall 
+become automatically immediately due and payable upon the consummation of 
+such Series B Change of Control, without presentment, demand, protest, 
+notice of intent to accelerate, notice of acceleration or other formalities 
+of any kind, all of which are hereby expressly waived by the Borrower; 
+provided, such acceleration may at any time prior to the payment in full of 
+such amounts by the Borrower be rescinded by Majority Lenders.
+
+2.7 Amendments to Section 12.04. Section 12.04(a) is hereby amended by 
+adding the following at the end thereof:
+
+; provided, the rescission of any acceleration of the Loans and other 
+amounts payable by the Borrower hereunder and under the Notes pursuant to 
+the last sentence of Section 10.02(b) shall as provided therein be 
+effective upon consent of Majority Lenders:
+
+Section 3. Conditions Precedent. This First Amendment shall become 
+effective on the date (such date, the First Amendment Effective Date), 
+when each of the following conditions is satisfied (or waived in accordance 
+with Section 12.04):
+
+3.1 The Administrative Agent shall have received from the Majority Lenders, 
+the Parent MLP, and the Borrower, counterparts (in such number as may be 
+requested by the Administrative Agent) of this First Amendment signed on 
+behalf of such Person.
+
+3.2 The Administrative Agent shall have received the Consent and Agreement 
+attached to this First Amendment executed by the Guarantors (in such 
+numbers as may be requested by the Administrative Agent).
+
+3.3 The Administrative Agent and the Lenders shall have received all fees 
+and other amounts due and payable on or prior to the date hereof, 
+including, to the extent invoiced, reimbursement or payment of all 
+documented out-of-pocket expenses required to be reimbursed or paid by the 
+Borrower under the Credit Agreement.
+
+3.4 No Default or Event of Default shall have occurred and be continuing as 
+of the date hereof, immediately after giving effect to the terms of this 
+First Amendment.
+ 
+5
+
+------------------------------------------------------------------------
+The Administrative Agent is hereby authorized and directed to declare this 
+First Amendment to be effective when it has received documents confirming 
+or certifying, to the satisfaction of the Administrative Agent, compliance 
+with the conditions set forth in this Section 3 of this Amendment or the 
+waiver of such conditions as permitted in Section 12.04. Such declaration 
+shall be final, conclusive and binding upon all parties to the Credit 
+Agreement for all purposes.
+
+Section 4. Miscellaneous.
+
+4.1 Confirmation. The provisions of the Credit Agreement, as amended and 
+waived by this First Amendment, shall remain in full force and effect 
+following the effectiveness of this First Amendment.
+
+4.2 Ratification and Affirmation; Representations and Warranties. Each of 
+the Borrower and the Parent MLP hereby (a) ratifies and affirms its 
+obligations under, and acknowledges its continued liability under, each 
+Loan Document to which it is a party and agrees that each Loan Document to 
+which it is a party remains in full force and effect as expressly amended 
+or waived hereby and (b) represents and warrants to the Lenders that as of 
+the date hereof, after giving effect to the terms of this First Amendment:
+
+(i) all of the representations and warranties contained in each Loan 
+Document to which it is a party are true and correct in all material 
+respects, except to the extent any such representations and warranties are 
+expressly limited to an earlier date, in which case, such representations 
+and warranties shall continue to be true and correct as of such specified 
+earlier date,
+
+(ii) no Default or Event of Default has occurred and is continuing, and
+
+(iii) no event or events have occurred which individually or in the 
+aggregate could reasonably be expected to have a Material Adverse Effect.
+
+4.3 Counterparts. This First Amendment may be executed by one or more of 
+the parties hereto in any number of separate counterparts, and all of such 
+counterparts taken together shall be deemed to constitute one and the same 
+instrument. Delivery of this First Amendment by facsimile transmission 
+shall be effective as delivery of a manually executed counterpart hereof.
+
+4.4 NO ORAL AGREEMENT. THIS FIRST AMENDMENT, THE CREDIT AGREEMENT AND THE 
+OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH 
+REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE 
+CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT UNWRITTEN 
+ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS 
+BETWEEN THE PARTIES.
+
+4.5 GOVERNING LAW. THIS FIRST AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED 
+IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+ 
+6
+
+------------------------------------------------------------------------
+4.6 Payment of Expenses. In accordance with Section 12.03, the Borrower 
+agrees to pay or reimburse the Administrative Agent for all of its 
+reasonable out-of-pocket expenses incurred in connection with this First 
+Amendment, any other documents prepared in connection herewith and the 
+transactions contemplated hereby, including, without limitation, the 
+reasonable fees, charges and disbursements of counsel to the Administrative 
+Agent.
+
+4.7 Severability. Any provision of this First Amendment which is prohibited 
+or unenforceable in any jurisdiction shall, as to such jurisdiction, be 
+ineffective to the extent of such prohibition or unenforceability without 
+invalidating the remaining provisions hereof, and any such prohibition or 
+unenforceability in any jurisdiction shall not invalidate or render 
+unenforceable such provision in any other jurisdiction.
+
+4.8 Successors and Assigns. This First Amendment shall be binding upon and 
+inure to the benefit of the parties hereto and their respective successors 
+and assigns.
+
+4.9 Loan Document. This First Amendment is a Loan Document.
+
+[SIGNATURES BEGIN NEXT PAGE]
+ 
+7
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties hereto have caused this First Amendment to 
+be duly executed as of the date first written above.
+ 
+BLACK STONE MINERALS COMPANY, L.P., as Borrower
+By: 	  	
+BSMC GP, L.L.C.,
+its General Partner
+By: 	  	
+Black Stone Minerals, L.P.,
+its Sole Member
+By: 	  	
+Black Stone Minerals GP, L.L.C.,
+its General Partner
+By: 	  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	
+Senior Vice President and
+Chief Financial Officer
+BLACK STONE MINERALS, L.P., as Parent MLP
+By: 	  	
+Black Stone Minerals GP, L.L.C.,
+its General Partner
+By: 	  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President
+and Chief Financial Officer
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent, Issuing Bank and a Lender
+By: 	  	
+/s/ Lila Jordan
+Name: 	  	Lila Jordan
+Title: 	  	Managing Director
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+BANK OF AMERICA, N.A.,
+as a Lender
+By: 	  	
+/s/ Alia Qaddumi
+Name: 	  	Alia Qaddumi
+Title: 	  	Director
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+COMPASS BANK,
+as a Lender
+By: 	  	
+/s/ Gabriela Azcarate
+Name: 	  	Gabriela Azcarate
+Title: 	  	Vice President
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+JPMORGAN CHASE BANK N.A.,
+as a Lender
+By: 	  	
+/s/ Theresa M. Benson
+Name: 	  	Theresa M. Benson
+Title: 	  	Authorized Officer
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+NATIXIS, NEW YORK BRANCH,
+as a Lender
+By: 	  	
+/s/ Brice Le Foyer
+Name: 	  	Brice Le Foyer
+Title: 	  	Director
+By: 	  	
+/s/ Ajay Prakash
+Name: 	  	Ajay Prakash
+Title: 	  	Vice President
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+ZB, N.A. DBA AMEGY BANK,
+as a Lender
+By: 	  	
+/s/ Sam Trail
+Name: 	  	Sam Trail
+Title: 	  	Senior Vice President
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+THE BANK OF NOVA SCOTIA, HOUSTON BRANCH, as a Lender
+By: 	  	
+/s/ Alan Dawson
+Name: 	  	Alan Dawson
+Title: 	  	Director
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+IBERIABANK,
+as a Lender
+By: 	  	
+/s/ Blake Norris
+Name: 	  	Blake Norris
+Title: 	  	Vice President
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+ABN AMRO CAPITAL USA LLC,
+as a Lender
+By: 	  	
+/s/ Darrell Holley
+Name: 	  	Darrell Holley
+Title: 	  	Managing Director
+By: 	  	
+/s/ Michaela Braun
+Name: 	  	Michaela Braun
+Title: 	  	Director
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+KEYBANK, NATIONAL ASSOCIATION,
+as a Lender
+By: 	  	
+/s/ George E. McKean
+Name: 	  	George E. McKean
+Title: 	  	Senior Vice President
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+TEXAS CAPITAL BANK, N.A.,
+as a Lender
+By: 	  	
+/s/ James E. Hibbert, Jr.
+Name: 	  	James E. Hibbert, Jr.
+Title: 	  	Assistant Vice President
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+BOKF, N.A. DBA BANK OF TEXAS.,
+as a Lender
+By: 	  	
+/s/ Marisol Salazar
+Name: 	  	Marisol Salazar
+Title: 	  	SVP
+ 
+SIGNATURE PAGE
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+[First Amendment]
+
+CONSENT AND AGREEMENT
+
+Each of the undersigned hereby (i) consents to the provisions of this First 
+Amendment and the transactions contemplated herein, (ii) ratifies and 
+confirms the Fifth Amended and Restated Guaranty and Collateral Agreement 
+dated as of November 1, 2017, as amended, modified or supplemented to date, 
+made by it for the benefit of Administrative Agent and Lenders executed 
+pursuant to the Credit Agreement and the other Loan Documents, (iii) 
+ratifies and confirms all other Loan Documents made by it for the benefit 
+of Administrative Agent and Lenders, (iv) agrees that all of its respective 
+obligations and covenants thereunder, except as may be amended or modified 
+hereby, shall remain unimpaired by the execution and delivery of this First 
+Amendment and the other documents and instruments executed in connection 
+herewith, and (v) agrees that such Fifth Amended and Restated Guaranty and 
+such other Loan Documents shall remain in full force and effect.
+
+[SIGNATURES BEGIN NEXT PAGE]
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties hereto have caused this Consent and 
+Agreement to be duly executed as of the date first written above.
+ 
+BLACK STONE ENERGY COMPANY, L.L.C.
+ By:
+  	Black Stone Minerals Company, L.P.,
+  	its Sole Member
+ By:
+  	BSMC GP, L.L.C.,
+  	its General Partner
+ By:
+  	Black Stone Minerals, L.P.,
+  	its Sole Member
+ By:
+  	Black Stone Minerals GP, L.L.C.,
+  	its General Partner
+ By:
+  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President and Chief Financial Officer
+BLACK STONE NATURAL RESOURCES, L.L.C.
+ By:
+  	Black Stone Minerals Company, L.P.,
+  	its Sole Member
+ By:
+  	BSMC GP, L.L.C.,
+  	its General Partner
+ By:
+  	Black Stone Minerals, L.P.,
+  	its Sole Member
+ By:
+  	Black Stone Minerals GP, L.L.C.,
+  	its General Partner
+ By:
+  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President and Chief Financial Officer
+ 
+SIGNATURE PAGE
+CONSENT TO FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+TLW INVESTMENTS, L.L.C.
+By: 	  	Black Stone Energy Company, L.L.C.,
+  	its Manager
+By: 	  	Black Stone Minerals Company, L.P.,
+  	its Sole Member
+By: 	  	BSMC GP, L.L.C.,
+  	its General Partner
+By: 	  	Black Stone Minerals, L.P.,
+  	its Sole Member
+By: 	  	Black Stone Minerals GP, L.L.C.,
+  	its General Partner
+By: 	  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President and Chief Financial Officer
+BSAP II GP, L.L.C.
+By: 	  	Black Stone Minerals Company, L.P.,
+  	its Sole Member
+By: 	  	BSMC GP, L.L.C.,
+  	its General Partner
+By: 	  	Black Stone Minerals, L.P.,
+  	its Sole Member
+By: 	  	Black Stone Minerals GP, L.L.C.,
+  	its General Partner
+By: 	  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President and Chief Financial Officer
+ 
+SIGNATURE PAGE
+CONSENT TO FIRST AMENDMENT TO CREDIT AGREEMENT
+
+------------------------------------------------------------------------
+BLACK STONE MINERALS, L.P.
+By: 	  	Black Stone Minerals GP, L.L.C.,
+  	its General Partner
+By: 	  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President and Chief Financial Officer
+BSMC GP, L.L.C.
+By: 	  	Black Stone Minerals, L.P.,
+  	its Sole Member
+By: 	  	Black Stone Minerals GP, L.L.C.,
+  	its General Partner
+By: 	  	
+/s/ Jeffrey P. Wood
+  	Jeffrey P. Wood
+  	Senior Vice President and Chief Financial Officer
+ 
+SIGNATURE PAGE
+CONSENT TO FIRST AMENDMENT TO CREDIT AGREEMENT
