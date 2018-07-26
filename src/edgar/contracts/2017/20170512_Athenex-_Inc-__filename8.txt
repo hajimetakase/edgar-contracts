@@ -1,56 +1,1525 @@
  EX-10 8 filename8.htm
-Exhibit 10.7.2
+Exhibit 10.17
 
-SECOND AMENDMENT TO LICENSE AGREEMENT
+FOIA CONFIDENTIAL TREATMENT REQUESTED
+Confidential Materials omitted and filed separate with the Securities and 
+Exchange Commission
+Triple asterisks denote omissions
 
-THIS SECOND AMENDMENT TO LICENSE AGREEMENT (this Second Amendment) is 
-made and entered into as of October 21, 2013 (Effective Date), by and 
-between KINEX PHARMACEUTICALS, INC. (formerly Kinex Pharmaceuticals, LLC), 
-a corporation organized and existing under the laws of the State of 
-Delaware and having its principal office at 701 Ellicott Street, Buffalo, 
-New York 14203, United States (Kinex) and HANMI PHARMACEUTICAL LTD., a 
-publicly traded company existing under the laws of South Korea and having 
-its principal office at 14, Wiryeseong-daero, Songpa-gu, Seoul, 138-724 
-South Korea (Hanmi).
+CLINICAL TRIAL COLLABORATION AND SUPPLY AGREEMENT
+
+This CLINICAL TRIAL COLLABORATION AND SUPPLY AGREEMENT (this Agreement), 
+made as of October 24, 2016 (the Effective Date), is by and between 
+Athenex, Inc., also known as Kinex Pharmaceuticals, Inc. (Athenex), a 
+Delaware corporation having a place of business at 1001 Main Street, Suite 
+600 Buffalo, New York, and Eli Lilly and Company, having a place of 
+business at Lilly Corporate Center, Indianapolis, Indiana 46285 (Lilly 
+Parent) and ImClone LLC, having a place of business at 450 East 29th 
+Street 12th Floor, New York, NY 10016 (ImClone, and together with Lilly 
+Parent, Lilly. Athenex and Lilly are each referred to herein individually 
+as Party and collectively Parties.
 
 
-WITNESSTH:
+RECITALS
 
-WHEREAS, Hanmi and Kinex entered into a License Agreement on December 16, 
-2011 for the license by Hanmi to Kinex of rights in the Hanmi Orascovery 
-Program which was amended by First Amendment dated November 9, 2012 (the 
-License); and
+A. Athenex is developing the Athenex Compound (as defined below) for the 
+treatment of certain tumor types.
 
-WHEREAS, Hanmi and Kinex now wish to further amend the License to amend the 
-definition of Territory to add Malaysia, Thailand, Vietnam, Philippines 
-and Indonesia.
+B. Lilly is developing the Lilly Compound (as defined below) for the 
+treatment of certain tumor types.
 
-NOW, THEREFORE, the Parties hereby agree as follows:
+C. Athenex desires to sponsor a clinical trial in which the Lilly Compound 
+and the Athenex Compound would be dosed concurrently or in combination.
 
-1. All capitalized terms used in this Second Amendment and not defined 
-herein shall have the meaning given to them in the License. Except as 
-amended by this Second Amendment, the License shall continue in full force 
-and effect.
+D. Athenex and Lilly, consistent with the terms of this Agreement, desire 
+to collaborate as more fully described herein, including by providing the 
+Athenex Compound and the Lilly Compound for the Study (as defined below).
 
-2. Section 1.66 of the License is amended and restated in its entirety to 
-read as follows:
-
-Territory means the following designated countries and all countries 
-within the following designated continents or economic union only: North 
-America, South America, European Union, Australia, New Zealand, Russia, 
-Eastern Europe, Taiwan, Hong Kong, Macau, Singapore, Malaysia, Thailand, 
-Vietnam, Philippines and Indonesia. All other countries are expressly 
-excluded including, but not limited to, the Asian countries of Japan, 
-Mainland China, Korea, and India; provided, however, that Mainland China 
-was licensed to Kinex under a separate license agreement dated June 28, 
-2013.
-
-IN WITNESS WHEREOF, the Parties have executed this Second Amendment as of 
-the date first set forth above.
+NOW, THEREFORE, in consideration of the premises and of the following 
+mutual promises, covenants and conditions, the Parties, intending to be 
+legally bound, mutually agree as follows:
  
-KINEX PHARMACEUTICALS, LLC 	   	 	   	HANMI PHARMACEUTICAL LTD.
-By: 	   	
-/s/ Johnson Lau
-   	 	   	By: 	   	
-/s/ Gwan-Sun Lee
-   	Johnson Lau, CEO 	   	 	   	 	   	Gwan-Sun Lee, President and CEO
+1. 	Definitions.
+
+For all purposes of this Agreement, the capitalized terms defined in this 
+Article 1 and throughout this Agreement shall have the meanings herein 
+specified.
+
+1.1 Adverse Event (AE) means any untoward medical occurrence in a patient 
+or clinical investigation subject administered a pharmaceutical product and 
+which does not necessarily have to have a causal relationship with this 
+treatment. Also known as an Adverse Experience.
+
+1.2 Affiliate means, with respect to either Party, a firm, corporation or 
+other entity which directly or indirectly owns or controls said Party, or 
+is owned or controlled by said Party, or is under common ownership or 
+control with said Party. The word control means (i) the direct or 
+indirect ownership of fifty percent (50%) or more of the outstanding voting 
+securities of a legal entity, or (ii) possession, directly or indirectly, 
+of the power to direct the management or
+ 
+1
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+policies of a legal entity, whether through the ownership of voting 
+securities, contract rights, voting rights, corporate governance or 
+otherwise.
+
+1.3 Agreement means this agreement, as amended by the Parties from time 
+to time, and as set forth in the preamble.
+
+1.4 Applicable Law means all federal, state, local, national and regional 
+statutes, laws, rules, regulations and directives applicable to a 
+particular activity hereunder, including performance of clinical trials, 
+medical treatment and the processing and protection of personal and medical 
+data, that may be in effect from time to time, including those promulgated 
+by the United States Food and Drug Administration (FDA), national 
+regulatory authorities, the European Medicines Agency (EMA) and any 
+successor agency to the FDA or EMA or any agency or authority performing 
+some or all of the functions of the FDA or EMA in any jurisdiction outside 
+the United States or the European Union (each a Regulatory Authority and 
+collectively, Regulatory Authorities), and including without limitation 
+cGMP and GCP (each as defined below); all data protection laws, 
+regulations, and requirements, such as those specified in the EU Data 
+Protection Directive and the General Data Protection Regulation, and the 
+United States Health Insurance Portability and Accountability Act of 1996, 
+as amended, and its associated regulations (HIPAA); export control and 
+economic sanctions regulations which prohibit the shipment of United 
+States-origin products and technology to certain restricted countries, 
+entities and individuals; anti-bribery and anti-corruption laws pertaining 
+to interactions with government agents, officials and representatives; laws 
+and regulations governing payments to healthcare providers; and any United 
+States or other countrys or jurisdictions successor or replacement 
+statutes, laws, rules, regulations and directives relating to the 
+foregoing.
+
+1.5 Athenex has the meaning set forth in the preamble.
+
+1.6 Athenex Compound means oraxol, a small molecule oral formulation of a 
+taxane, paclitaxel, excluding however, any generic version of oraxol other 
+than a generic version owned or controlled by Athenex or its Affiliate.
+
+1.7 Business Day means any day other than a Saturday, Sunday or any 
+public holiday in the country where the applicable obligations are to be 
+performed.
+
+1.8 Calendar Quarter means a three-month period beginning on January, 
+April, July or October 1st.
+
+1.9 Calendar Year means a one-year period beginning on January 1st and 
+ending on December 31st.
+
+1.10 cGMP means the current Good Manufacturing Practices officially 
+published and interpreted by EMA, FDA, WHO and other applicable Regulatory 
+Authorities that may be in effect from time to time and are applicable to 
+the Manufacture of the Compounds.
+
+1.11 Clinical Data means all data (including raw data) and results 
+generated under the Study and includes Sample Testing Results.
+ 
+2
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+1.12 Quality Agreement means a written agreement that documents the 
+responsibilities and quality expectations between Lilly and any internal or 
+external collaboration partner, supplier, contract manufacturer or service.
+
+1.13 CMC means Chemistry Manufacturing and Controls.
+
+1.14 Compounds means the Athenex Compound and the Lilly Compound. A 
+Compound means either the Athenex Compound or the Lilly Compound, as 
+applicable.
+
+1.15 Combination means the use or method of using the Athenex Compound 
+and the Lilly Compound in concomitant or sequential administration.
+
+1.16 Confidential Information means any information, Know-How or other 
+proprietary information or materials furnished to one Party by the other 
+Party pursuant to this Agreement, except to the extent that such 
+information or materials: (a) was already known to the receiving Party, 
+other than under an obligation of confidentiality, at the time of 
+disclosure by the other Party, as demonstrated by competent evidence; (b) 
+was generally available to the public or otherwise part of the public 
+domain at the time of its disclosure to the receiving Party; (c) became 
+generally available to the public or otherwise part of the public domain 
+after its disclosure and other than through any act or omission of the 
+receiving Party in breach of this Agreement; (d) was disclosed to the 
+receiving Party by a Third Party who had no obligation to the disclosing 
+Party not to disclose such information to others; or (e) was subsequently 
+developed by the receiving Party without use of the Confidential 
+Information, as demonstrated by competent evidence.
+
+1.17 CTA means Clinical Trial Application means a document used to 
+request authorization from a Regulatory Authority to begin testing an 
+experimental compound/drug in patients.
+
+1.18 Disposition Package has the meaning set forth in Section 8.7.1.
+
+1.19 Dispute has the meaning set forth in Section 21.1.
+
+1.20 Effective Date has the meaning set forth in the preamble.
+
+1.21 EMA has the meaning set forth in the definition of Applicable Law.
+
+1.22 FDA has the meaning set forth in the definition of Applicable Law.
+
+1.23 cGCP means the current Good Clinical Practices officially published 
+by EMA, FDA and the International Conference on Harmonisation of Technical 
+Requirements for Registration of Pharmaceuticals for Human Use (ICH) that 
+may be in effect from time to time and are applicable to the testing of the 
+Compounds.
+
+1.24 Government Official means: (i) any officer or employee of: (a) a 
+government, or any department or agency thereof; (b) a government-owned or 
+controlled company, institution, or other entity, including a 
+government-owned hospital or university; or
+ 
+3
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+(c) a public international organization (such as the United Nations, the 
+International Monetary Fund, the International Committee of the Red Cross, 
+and the World Health Organization), or any department or agency thereof; 
+(ii) any political party or party official or candidate for public or 
+political party office; and (iii) any person acting in an official capacity 
+on behalf of any of the foregoing.
+
+1.25 HIPAA has the meaning set forth in the definition of Applicable Law.
+
+1.26 IND means the Investigational New Drug Application filed or to be 
+filed with the FDA as described in Title 21 of the U.S. Code of Federal 
+Regulations, Part 312, and the equivalent application in the jurisdictions 
+outside the United States, including an Investigational Medicinal Product 
+Dossier filed or to be filed with the Regulatory Authorities in the 
+European Union.
+
+1.27 Inventions means all inventions and discoveries which are made or 
+conceived in the performance of the Study and/or which are made or 
+conceived by a Party through use of the Clinical Data.
+
+1.28 Internal Compliance Codes shall mean a Partys internal policies and 
+procedures intended to ensure that a Party complies with Applicable Laws, 
+Party Specific Regulations, and such Partys internal ethical, medical and 
+similar standards.
+
+1.29 Compliance shall mean the adherence by the Parties in all material 
+respects to all Applicable Laws and Party Specific Regulations, in each 
+case with respect to the activities to be conducted under this Agreement.
+
+1.30 Party Specific Regulations shall mean all judgments, decrees, orders 
+or similar decisions issued by any Governmental Authority specific to a 
+Party, and all consent decrees, corporate integrity agreements, or other 
+agreements or undertakings of any kind by a Party with any Governmental 
+Authority, in each case as the same may be in effect from time to time and 
+applicable to a Partys activities contemplated by this Agreement.
+
+1.31 Jointly Owned Invention has the meaning set forth in Section 10.1.1.
+
+1.32 Joint Patent Application has the meaning set forth in Section 
+10.1.2.
+
+1.33 Joint Patent means a patent that issues from a Joint Patent 
+Application.
+
+1.34 Know-How means any proprietary invention, innovation, improvement, 
+development, discovery, computer program, device, trade secret, method, 
+know-how, process, technique or the like, including manufacturing, use, 
+process, structural, operational and other data and information, whether or 
+not written or otherwise fixed in any form or medium, regardless of the 
+media on which contained and whether or not patentable or copyrightable, 
+that is not generally known or otherwise in the public domain.
+
+1.35 Liability has the meaning set forth in Section 14.2.1.
+ 
+4
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+1.36 Lilly has the meaning set forth in the preamble.
+
+1.37 Lilly Compound means ramucirumab, excluding, however, any generic 
+version of ramucirumab other than a generic version owned or controlled by 
+Lilly or its Affiliate.
+
+1.38 Manufacture, Manufactured, or Manufacturing means all stages of 
+the manufacture of a Compound, including planning, purchasing, manufacture, 
+processing, compounding, storage, filling, packaging, waste disposal, 
+labeling, leafleting, testing, quality assurance, sample retention, 
+stability testing, release, dispatch and supply, as applicable.
+
+1.39 Manufacturers Release or Release has the meaning ascribed to such 
+term in the Quality Agreement.
+
+1.40 Manufacturing Site means the facilities where a Compound is 
+Manufactured.
+
+1.41 Party has the meaning set forth in the preamble.
+
+1.42 Protocol means the written documentation that describes the Study 
+and sets forth specific activities to be performed as part of the Study 
+conduct, a summary of which is attached hereto as Appendix A.
+
+1.43 Regulatory Approvals means any and all permissions (other than the 
+Manufacturing approvals) required to be obtained from Regulatory 
+Authorities and any other competent authority for the development, 
+registration, importation, use (including in clinical trials), 
+distribution, sale and marketing of a Compound in the United States, Europe 
+or other applicable jurisdictions for use in humans, including any pricing 
+or reimbursement approvals.
+
+1.44 Regulatory Authorities has the meaning set forth in the definition 
+of Applicable Law.
+
+1.45 Related Agreements means the Pharmacovigilance Agreement and the 
+Clinical Quality Agreement.
+
+1.46 Specifications means, with respect to a given Compound, the set of 
+requirements for such Compound as set forth in the Clinical Quality 
+Agreement.
+
+1.47 Study means the study entitled A Phase Ib study of Oraxol in 
+combination with Ramucirumab in patients with Gastric, Gastro-esophageal, 
+or Esophageal Cancers.
+
+1.48 Study Completion has the meaning set forth in Section 3.5.
+
+1.49 Territory means worldwide.
+
+1.50 Third Party means any person or entity other than Lilly, Athenex or 
+their respective Affiliates.
+ 
+5
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+2. 	Scope of the Agreement.
+
+2.1 Each Party shall contribute to the Study such resources as are 
+necessary to fulfill its obligations set forth in this Agreement.
+
+2.2 Each Party agrees to act in good faith in performing its obligations 
+under this Agreement and each Related Agreement, and shall notify the other 
+Party as promptly as possible in the event of any Manufacturing delay that 
+is likely to adversely affect supply of its Compound as contemplated by 
+this Agreement.
+
+2.3 Representations and Warranties.
+
+2.3.1 Lilly agrees to Manufacture and supply the Lilly Compound for 
+purposes of the Study as set forth in Article 8, and Lilly hereby 
+represents and warrants to Athenex that, at the time of Delivery of the 
+Lilly Compound, such Lilly Compound shall have been Manufactured and 
+supplied in compliance with: (i) the Specifications for the Lilly Compound; 
+and (ii) all Applicable Law, including cGMP and health, safety and 
+environmental protections.
+
+2.3.2 Without limiting the foregoing, each Party is responsible for 
+obtaining all regulatory approvals (including facility licenses) that are 
+required to Manufacture its Compound in accordance with Applicable Law 
+(provided that for clarity, Athenex shall be responsible for obtaining 
+Regulatory Approvals for the Study as set forth in Section 3.3).
+
+2.4 Each Party shall have the right to subcontract any portion of its 
+obligations hereunder: (i) to its own Affiliates, without the other Partys 
+written consent; or (ii) to third parties, provided that with respect to 
+third parties that are directly involved in the conduct of the clinical 
+trial that is subject of the Study, the Parties have approved (in a written 
+document) the use of such third parties in the performance of such 
+activities, and provided further that no consent shall be necessary for 
+either Partys delegation to or use of contract research organizations or 
+other third parties that are already conducting clinical trials of such 
+Partys Compound and are set forth in the Protocol as performing such Study 
+activities. In any event, each Party shall remain solely and fully liable 
+for the performance of its subcontractors. Each Party shall ensure that 
+each of its subcontractors performs its obligations pursuant to the terms 
+of this Agreement, including the Appendices attached hereto. Each Party 
+shall use reasonable efforts to obtain and maintain copies of documents 
+relating to the obligations performed by such subcontractors that are held 
+by or under the control of such subcontractors and that are required to be 
+provided to the other Party under this Agreement.
+
+2.5 This Agreement does not create any obligation on the part of Athenex to 
+provide the Athenex Compound for any activities other than the Study, nor 
+does it create any obligation on the part of Lilly to provide the Lilly 
+Compound for any activities other than the Study.
+
+2.6 Nothing in this Agreement shall (i) prohibit either Party from 
+performing clinical studies other than the Study relating to its own 
+Compound, either individually or in combination with any other compound or 
+product, in any therapeutic area, or (ii) create an exclusive relationship 
+between the Parties with respect to any Compound.
+ 
+6
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+3. 	Conduct of the Study.
+
+3.1 Athenex shall act as the sponsor of the Study and shall hold the 
+IND/CTA relating to the Study; provided, however, that in no event shall 
+Athenex file a separate IND/CTA for the Study unless required by Regulatory 
+Authorities to do so. If a Regulatory Authority requests a separate IND/CTA 
+for the Study the Parties will meet and mutually agree on an approach to 
+address such requirement.
+
+3.2 Athenex shall ensure that the Study is performed in accordance with 
+this Agreement, the Protocol and all Applicable Law, including GCP.
+
+3.3 Athenex shall ensure that all directions from any Regulatory Authority 
+and/or ethics committee with jurisdiction over the Study are followed. 
+Further, Athenex shall ensure that all Regulatory Approvals from any 
+Regulatory Authority and/or ethics committee with jurisdiction over the 
+Study are obtained prior to initiating performance of the Study. Athenex 
+shall participate in and lead all discussions with any Regulatory Authority 
+regarding the Study, provided, however, that Lilly shall have the right 
+(but no obligation) to participate in any discussions with a Regulatory 
+Authority, and prior review and approval of any written communications with 
+a Regulatory Authorty, regarding matters related to the Lilly Compound.
+
+3.4 Athenex shall maintain reports and all related documentation (paper or 
+electronic versions as applicable) in good scientific manner and in 
+compliance with Applicable Law. Athenex shall provide any Study information 
+and documentation reasonably requested to enable Lilly to (i) comply with 
+any of its legal and regulatory obligations, or any request by any 
+Regulatory Authority, in each case, to the extent related to the Study or 
+such the Lilly Compound, (ii) satisfy any contractual obligation to a 
+subcontractor engaged pursuant to Section 2.4 hereof, and (iii) to 
+determine whether the Study has been performed by Athenex in accordance 
+with this Agreement.
+
+3.5 Athenex shall ensure that all patient authorizations and consents, and 
+all consents from other data subjects, for the processing, use and 
+disclosure of their data and the Clinical Data, required under HIPAA, the 
+EU Data Protection Directive, EU General Data Protection Regulation, and 
+any other similar Applicable Law in connection with the Study, permit the 
+use and sharing of the Clinical Data as set forth in this Agreement, 
+including the sharing of Clinical Data with Lilly.
+
+3.6 All Clinical Data, including raw data and results, generated under this 
+Agreement, as well as the protocol(s), analyses, plans and any other 
+documentation prepared by one or more of the Parties under this Agreement 
+specifically for use in connection with the Study and related to the Lilly 
+Compound, shall be jointly owned by Lilly and Athenex.
+
+3.7 Project Managers. Each Party shall designate a project manager (the 
+Project Manager) who shall be responsible for implementing and 
+coordinating activities, and facilitating the exchange of scientific 
+information between the Parties with respect to the Study. The Athenex 
+Project Manager shall provide regular updates in writing to the Lilly 
+Project Manager, no less frequently than twice yearly, which update shall 
+contain information about
+ 
+7
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+overall Study progress, recruitment status, interim analysis (if results 
+are available), final analysis and other information relevant to the 
+conduct of the Study.
+
+3.7.1 Each Party shall appoint a supply chain representative to hold 
+telephone discussions at a mutually agreed-upon frequency to review the 
+quantities of Lilly Compound needed for the Study (in accordance with 
+Appendix B) and any other supply chain issues that may arise during the 
+Study.
+
+3.8 Athenex shall provide Lilly with (i) an electronic draft of the final 
+study report for Lilly to provide comments to Athenex within thirty (30) 
+days of receipt of such draft final study report and (ii) the final version 
+of the final study report promptly following Study Completion. Athenex 
+shall consider in good faith any comments provided by Lilly on the draft of 
+the final study report. Study Completion shall be deemed to occur upon 
+lock of the Study database.
+
+3.9 Notwithstanding anything in this Agreement to the contrary, each Party 
+acknowledges and agrees that the other Party may have present or future 
+business activities or opportunities, including business activities or 
+opportunities with Third Parties, involving similar products, programs, 
+technologies or processes. Accordingly, each Party acknowledges and agrees 
+that nothing in this Agreement shall be construed as a representation or 
+inference that the other Party will not develop for itself, or enter into 
+business relationships with other Third Parties regarding, any products, 
+programs, studies (including combination studies), technologies or 
+processes that are similar to or that may compete with the Combination or 
+any other product, program, technology or process provided that the 
+Clinical Data, Jointly Owned Inventions, and Confidential Information are 
+used or disclosed in connection therewith consistent with and not in 
+violation of Sections 3.3, 9.1 or 10 of this Agreement.
+
+3.10 Nothing in this Agreement shall prohibit or restrict a Party from 
+licensing, assigning or otherwise transferring to an Affiliate or Third 
+Party its Compound and the related Clinical Data, Confidential Information, 
+Sample Testing Results or Jointly Owned Inventions; provided, however, that 
+in the case of any such license, assignment or transfer, the licensee, 
+assignee or transferee shall agree in writing to be bound by the terms of 
+this Agreement.
+ 
+4. 	Protocol and Related Documents.
+
+4.1 A summary of the initial Protocol, entitled A phase Ib study of Oraxol 
+in combination with Ramucirumab in patients with Gastric, 
+Gastro-esophageal, or Esophageal Cancers has been agreed to by the Parties 
+as of the Effective Date, and is attached as Appendix A. The final Protocol 
+must be accepted by both Parties. Athenex shall have the final decision 
+regarding the contents of the Protocol; provided, however, that any 
+material changes to the Protocol (other than relating solely to the Athenex 
+Compound), and any changes (whether or not material) relating to the Lilly 
+Compound, shall require Lillys prior written consent. Any such proposed 
+changes will be sent in writing to Lillys Project Manager. Lilly will 
+provide such consent, or a written explanation for why such consent is 
+being withheld, within fifteen (15) Business Days of receiving a copy of 
+Athenexs requested changes; provided that if Lilly fails to provide such 
+written explanation within such 15 Business Day period, then Lilly shall be 
+deemed to have consented to such change or changes. Athenex will provide a 
+copy of the final approved protocol and any subsequent protocol amendments.
+ 
+8
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+5. 	Safety and Regulatory Reporting.
+
+Athenex will be solely responsible for compliance with all Applicable Law 
+pertaining to safety reporting for the Study and related activities. The 
+Parties will execute a Pharmacovigilance Agreement within ninety (90) days 
+following the Effective Date of this Agreement or prior to the initiation 
+of the Trial. The Pharmacovigilance Agreement will ensure the exchange of 
+relevant safety data and Adverse Event reporting within appropriate 
+timeframes and in appropriate format to enable the Parties to fulfill local 
+and international regulatory reporting obligations and to facilitate 
+appropriate safety reviews. Each Partys right to audit the other Party as 
+it relates to pharmacovigilance activities shall be set forth in the 
+Pharmacovigilance Agreement.
+
+In the event of a conflict between this Agreement and the Pharmacovigilance 
+Agreement, where the conflict relates to a term governing the exchange of 
+safety data or Adverse Event reporting, the terms of the Pharmacovigilance 
+Agreement shall control.
+ 
+6. 	Term and Termination.
+
+6.1 The term of this Agreement shall commence on the Effective Date and 
+shall continue in full force and effect until completion of all of the 
+obligations of the Parties hereunder or until terminated by either Party 
+pursuant to this Article 6.
+
+6.2 In the event that Lilly reasonably and in good faith believes that the 
+Lilly Compound is being used in the Study in an unsafe manner and notifies 
+Athenex in writing of the grounds for such belief, and Athenex fails to 
+promptly incorporate (subject to approval by applicable Regulatory 
+Authorities or Institutional Review Boards) changes into the Protocol 
+reasonably requested by Lilly to address such issue or to otherwise 
+reasonably and in good faith address such issue, Lilly may terminate this 
+Agreement and the supply of the Lilly Compound effective upon written 
+notice to Athenex.
+
+6.3 Either Party may terminate this Agreement if the other Party commits a 
+material breach of this Agreement, and such material breach continues for 
+thirty (30) days after receipt of written notice thereof from the 
+non-breaching Party; provided that if such material breach cannot 
+reasonably be cured within thirty (30) days, the breaching Party shall be 
+given a reasonable period of time to cure such breach.
+
+6.4 If either Party determines in good faith, based on a review of the 
+Clinical Data or other Study-related Know-How or other information, that 
+the Study may unreasonably affect patient safety, such Party shall promptly 
+notify the other Party of such determination. The Party receiving such 
+notice may propose modifications to the Study to address the safety issue 
+identified by the other Party and, if the notifying Party agrees, shall act 
+to immediately implement such modifications; provided, however, that if the 
+notifying Party, in its sole discretion, believes that there is imminent 
+danger to patients, such Party need not wait for the other Party to propose 
+modifications and may instead terminate this Agreement immediately upon 
+written notice to such other Party. Furthermore, if the notifying Party, in 
+its sole discretion, believes that any modifications proposed by the other 
+Party will not resolve the patient safety issue; such Party may terminate 
+this Agreement effective upon written notice to such other Party.
+ 
+9
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+6.5 Either Party may terminate this Agreement immediately upon written 
+notice to the other Party in the event that any Regulatory Authority takes 
+any action, or raises any objection, that prevents the terminating Party 
+from supplying its Compound for purposes of the Study. Additionally, either 
+Party shall have the right to terminate this Agreement immediately upon 
+written notice to the other Party in the event that it determines in its 
+sole discretion to discontinue development of its Compound, for medical, 
+scientific, legal or other reasons.
+
+6.6 In the event that this Agreement is terminated, Athenex shall, at 
+Lillys sole discretion, promptly either return or destroy all unused Lilly 
+Compound pursuant to Lillys instructions. If Lilly requests that Athenex 
+destroy the unused Lilly Compound, Athenex shall provide written 
+certification of such destruction.
+
+6.7 Either Party shall be entitled to terminate this Agreement immediately 
+upon written notice to the other Party, if such other Party fails to 
+perform any of its obligations under Section 13.3 or breaches any 
+representation or warranty contained in Section 13.3. Subject to Section 
+6.11, the non-terminating Party shall have no claim against the terminating 
+Party for compensation for any loss of whatever nature by virtue of the 
+termination of this Agreement in accordance with this Section 6.7.
+
+6.8 The provisions of this Section 6.8 and Sections 3.6 (other than the 
+first sentence thereof), 3.7, 3.9, 6.6, 6.7 (other than the first sentence 
+thereof), 6.9, 6.10, 6.11, 12.2, 12.3, 12.4, 12.5, 14.2 (Indemnification), 
+14.3 (Limitation of Liability), and Articles 1 (Definitions), 5 (Safety and 
+Regulatory Reporting), 7 (Costs of Study), 9 (Confidentiality), 10 
+(Intellectual Property), 11 (Reprints; Rights of Cross-Reference), 12 
+(Press Releases and Publications), 20 (No Additional Obligations), 21 
+(Dispute Resolution and Jurisdiction), 22 (Notices), 23 (Relationship of 
+the Parties) and 25 (Construction) shall survive the expiration or 
+termination of this Agreement.
+
+6.9 Termination of this Agreement shall be without prejudice to any claim 
+or right of action of either Party against the other Party for any prior 
+breach of this Agreement.
+
+6.10 Upon termination of this Agreement, each Party and its Affiliates 
+shall promptly return to the other Party or destroy any Confidential 
+Information of the other Party (other than Clinical Data, Sample Testing 
+Results and Inventions) furnished to the receiving Party by the other 
+Party, except that the receiving Party shall have the right to retain one 
+copy for record-keeping purposes.
+ 
+7. 	Costs of the Study.
+
+The Parties agree that (i) Lilly shall provide the Lilly Compound for use 
+in the Study, as described in Article 8 below, at no cost to Athenex; and 
+(ii) Athenex shall bear all other costs associated with the conduct of the 
+Study. Anydoses of Lilly Compound provided under this Agreement constitute 
+free goods not contingent upon any purchase requirement(s). For the 
+avoidance of doubt, Athenex will not be required to reimburse Lilly for any 
+costs or expenses incurred by Lilly or its Affiliates in connection with 
+the Study and Lilly will not be required to reimburse Athenex for any costs 
+or expenses incurred by Athenex or its Affiliates in connection with the 
+Study.
+ 
+10
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+8. 	Supply and Use of the Compounds.
+
+8.1 Lilly will supply, or cause to be supplied, the Lilly Compound as set 
+forth in Appendix B. The Parties shall enter into a Quality Agreement 
+that shall address and govern issues related to labeling, packaging and the 
+quality of clinical drug supply to be supplied by the Parties for use in 
+the Study prior to shipping material.
+
+8.2 Athenex shall (i) use the Lilly Compound solely for purposes of 
+performing the Study; (ii) not use the Lilly Compound in any manner 
+inconsistent with this Agreement or for any commercial purpose; and (iii) 
+use, store, transport, handle and dispose of the Lilly Compound in 
+compliance with Applicable Law and the Clinical Quality Agreement. Athenex 
+shall not reverse engineer, reverse compile, disassemble or otherwise 
+attempt to derive the composition or underlying information, structure or 
+ideas of the Lilly Compound, and in particular shall not analyze the Lilly 
+Compound by physical, chemical or biochemical means except as necessary to 
+perform its obligations under the Quality Agreement.
+
+8.3 Lilly may make changes from time to time to its Compound or the 
+manufacturing thereof.
+ 
+9. 	Confidentiality.
+
+9.1 Lilly and Athenex agree to hold in confidence any Confidential 
+Information of the other Party, and neither Party shall use Confidential 
+Information of the other Party except for the performance of the Study and 
+for permitted uses otherwise stated in this Agreement. Neither Party shall, 
+without the prior written permission of the other Party, disclose any 
+Confidential Information of the other Party to any Third Party except to 
+the extent disclosure (i) is required by Applicable Law; (ii) is pursuant 
+to the terms of this Agreement; or (iii) is necessary for the conduct of 
+the Study, and in each case ((i) through (iii)) provided that the 
+disclosing Party shall provide reasonable advance notice to the other Party 
+before making such disclosure. For the avoidance of doubt, Athenex may, 
+without Lillys consent, disclose Confidential Information to clinical 
+trial sites and clinical trial investigators performing the Study, the data 
+safety monitoring and advisory board relating to the Study, and Regulatory 
+Authorities working with Athenex on the Study, in each case to the extent 
+necessary for the performance of the Study and provided that such persons 
+(other than governmental entities) are bound by an obligation of 
+confidentiality at least as stringent as the obligations contained herein.
+
+9.2 Notwithstanding the foregoing, Inventions and Clinical Data that 
+constitute Confidential Information and are jointly owned by the Parties 
+shall constitute the Confidential Information of both Parties and
+
+(a) Lilly shall have the right to (i) use jointly owned Confidential 
+Information in connection with its independent development, 
+commercialization or other exploitation of any proprietary Lilly compound 
+including the Lilly Compound (alone or in combination with the Athenex 
+Compound and/or any other pharmaceutical agent) without the consent of, or 
+any obligation to account to, Athenex; and (ii) disclose such Confidential 
+Information to Third Parties consistent with Articles 10, 11 and 12. For 
+clarity, Lilly retains the right to conduct additional studies and clinical 
+trials (i.e., studies other than the Study) involving the Lilly
+ 
+11
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+Compound, either alone or with a Third Party, and such additional studies 
+or clinical trials shall not be subject to the terms and conditions of this 
+Agreement.
+
+(b) Athenex shall have the right to (i) use jointly owned Confidential 
+Information in connection with its independent development, 
+commercialization or other exploitation of any proprietary Athenex compound 
+including the Athenex Compound (alone or in combination with the Lilly 
+Compound and/or any other pharmaceutical agent) without the consent of, or 
+any obligation to account to, Lilly; and (ii) disclose such Confidential 
+Information to Third Parties consistent with Articles 10, 11 and 12. For 
+clarity, Athenex retains the right to conduct additional studies and 
+clinical trials (i.e., studies other than the Study) involving the Athenex 
+Compound, either alone or with a Third Party, and such additional studies 
+or clinical trials shall not be subject to the terms and conditions of this 
+Agreement.
+
+9.3 Athenex may use and disclose to Third Parties any Athenex solely owned 
+Confidential Information for any purpose without obligation or accounting 
+to Lilly. Lilly may use and disclose to Third Parties any Lilly solely 
+owned Confidential Information for any purpose without obligation or 
+accounting to Athenex.
+
+9.4 Each party agrees that with respect to its performance of all 
+activities under this Agreement, it shall undertake appropriate physical, 
+technical and administrative controls in order to protect personally 
+identifiable data and prevent the unauthorized access to or disclosure of 
+such personally identifiable data and that its processing of all personally 
+identifiable data, including the Clinical Data, shall be in accordance with 
+all data protection and privacy laws, rules and regulations and Applicable 
+Law.
+ 
+10. 	Intellectual Property.
+
+10.1 Joint Ownership and Prosecution.
+
+10.1.1 Subject to Sections 10.2 and 10.3, all rights to all Inventions 
+relating to or covering the combined use of the Lilly Compound and the 
+Athenex Compound (each a Jointly Owned Invention) shall belong jointly to 
+Lilly and Athenex. For those countries where a specific license is required 
+for a joint owner of a Jointly Owned Invention to practice such Jointly 
+Owned Invention in such countries, (i) Athenex hereby grants to Lilly a 
+perpetual, irrevocable, non-exclusive, worldwide, royalty-free, fully 
+paid-up license, transferable and sublicensable, under Athenexs right, 
+title and interest in and to all Jointly Owned Inventions to use such 
+Inventions and (ii) Lilly hereby grants to Athenex a perpetual, 
+irrevocable, non-exclusive, worldwide, royalty-free, fully paid-up license, 
+transferable and sublicensable, under Lillys right, title and interest in 
+and to all Jointly Owned Inventions to use such Inventions. For clarity, 
+the terms of this Agreement do not provide Lilly or Athenex with any 
+rights, title or interest or any license to the other Partys background 
+intellectual property except as necessary to conduct the Study and as 
+expressly set forth in Section 10.4. Each Party shall have the right to 
+freely exploit each Jointly Owned Invention, both within and outside the 
+scope of the Study, without accounting to or any other obligation to the 
+other Party, and each Party may grant licenses (with a right to sublicense) 
+to Third Parties under such Partys interest in each Jointly Owned 
+Invention.
+ 
+12
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+10.1.2 As needed following the Effective Date, patent representatives of 
+each of the Parties shall meet (in person or by telephone) to discuss the 
+patenting strategy for any Jointly Owned Inventions which may arise. In 
+particular, the Parties shall discuss which Party will file a patent 
+application (including any provisional, substitution, divisional, 
+continuation, continuation in part, reissue, renewal, reexamination, 
+extension, supplementary protection certificate and the like) in respect of 
+any Jointly Owned Invention (each, a Joint Patent Application) and 
+whether the Parties wish to appoint Joint Patent Counsel. In any event, the 
+Parties shall consult and reasonably cooperate with one another in the 
+preparation, filing, prosecution (including prosecution strategy) and 
+maintenance of such patent application and shall equally share the expenses 
+associated with the Joint Patent Applications. In the event that one Party 
+(the Filing Party) wishes to file a patent application for a Jointly 
+Owned Invention and the other Party (the Non-filing Party) does not want 
+to file any patent application for such Jointly Owned Invention or does not 
+want to file in a particular country, the Non-filing Party shall execute 
+such documents and perform such acts at the Filing Partys expense as may 
+be reasonably necessary to effect an assignment of such Jointly Owned 
+Invention to the Filing Party (in such country or all countries, as 
+applicable) in a timely manner to allow the Filing Party to prosecute such 
+patent application. Likewise, if a Party (the Opting-out Party) wishes to 
+discontinue the prosecution and maintenance of a Joint Patent Application, 
+the other Party, at its sole option (the Continuing Party), may continue 
+such prosecution and maintenance. In such event, the Opting-out Party shall 
+execute such documents and perform such acts at the Continuing Partys 
+expense as may be reasonably necessary to effect an assignment of such 
+Joint Patent Application to the Continuing Party (in such country or all 
+countries, as applicable) in a timely manner to allow the Continuing Party 
+to prosecute and maintain such patent application. Any Joint Patent 
+Application or Jointly Owned Invention so assigned shall thereafter be 
+owned solely by the Continuing Party or Filing Party (as applicable), and 
+any patent claiming such Jointly Owned Invention in the applicable country 
+or countries any such patent, when issued, shall not be a Joint Patent. The 
+Filing Party or Continuing Party (as applicable) hereby grants to the 
+Opting-out Party or Non-Filing Party (as applicable) a perpetual, 
+irrevocable, non-exclusive, royalty-free fully paid-up license under such 
+solely owned patent applications and patents to practice any Invention 
+claimed therein solely for the purposes of developing and commercializing 
+its respective Compound for use in the Combination, which license shall not 
+be transferable or sublicensable to any Third Party except to (A) 
+Affiliates of the Opting-out Party or Non-Filing Party (as applicable) and 
+(B) Third Parties engaged in developing, manufacturing or marketing that 
+Partys Compound for or on behalf of that Party or its Affiliates.
+
+10.1.3 Except as expressly provided in Section 10.1.2 and in furtherance 
+and not in limitation of Section 9.1, each Party agrees to make no patent 
+application based on the other Partys Confidential Information, and to 
+give no assistance to any Third Party for such application, without the 
+other Partys prior written authorization.
+
+10.1.4 Lilly shall have the first right to initiate and control legal 
+action to enforce all Joint Patents against infringement, and to protect 
+all Jointly Owned Inventions from misappropriation, by any Third Party 
+where such infringement or misappropriation results from the development or 
+sale of a molecule that is a biosimilar or interchangeable version of the 
+Lilly Compound (i.e., where a Third Party has filed for marketing approval 
+pursuant to 42 U.S.C. §262(k) or any comparable Applicable Law in other 
+jurisdictions using the Lilly
+ 
+13
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+Compound as the reference drug), or to defend any declaratory judgment 
+action relating thereto, at its sole expense (subject to Section 10.1.5). 
+In the event that Lilly fails to initiate or defend such action within 
+thirty (30) days after being first notified of such infringement or 
+misappropriation, Athenex shall have the right to do so at its sole expense 
+(subject to Section 10.1.5). Similarly, Athenex shall have the first right 
+to initiate and control legal action to enforce all Joint Patents against 
+infringement and to protect all Jointly Owned Inventions from 
+misappropriation, by any Third Party where such infringement or 
+misappropriation results from the development or sale of a molecule that is 
+a biosimilar or interchangeable version of the Athenex Compound (i.e., 
+where a Third Party has filed for marketing approval pursuant to 42 U.S.C. 
+§262(k) or any comparable Applicable Law in other jurisdictions using the 
+Athenex Compound as the reference drug), or to defend any declaratory 
+judgment action relating thereto, at its sole expense (subject to Section 
+10.1.5). In the event that Athenex fails to initiate or defend such action 
+within thirty (30) days after being first notified of such infringement, 
+Lilly shall have the right to do so at its sole expense (subject to Section 
+10.1.5). In the event that legal action to enforce Joint Patents will 
+involve infringement or misappropriation resulting from the development or 
+sale of a molecule or molecules that is or includes both the Lilly Compound 
+and the Athenex Compound, the Parties shall work together to coordinate 
+such action and shall share the costs and expenses of such litigation 
+equally. For clarity, if the alleged infringer is selling or intending to 
+sell only one biosimilar or interchangeable version of either the Lilly 
+Compound or the Athenex Compound, then the Parties obligation to share the 
+costs and expenses of such litigation shall not apply.
+
+10.1.5 If one Party brings any prosecution or enforcement action or 
+proceeding against a Third Party with respect to any Joint Patent, the 
+second Party agrees to be joined as a party plaintiff where necessary and 
+to give the first Party reasonable assistance and authority to file and 
+prosecute the suit. In such case, the costs and expenses of such second 
+Party shall be borne by such second Party, but all other costs and expenses 
+of the litigation shall be borne by the Party bringing or defending such 
+suit. Any damages or other monetary awards recovered shall be shared by the 
+Parties in proportion based on their relative contributions to the total 
+costs and expenses of the litigation. A settlement or consent judgment or 
+other voluntary final disposition of a suit under this Section 10.1.5 may 
+not be entered into without the consent of the Party not bringing the suit.
+
+10.2 Inventions Owned by Lilly. Notwithstanding Section 10.1, the Parties 
+agree that all rights to Inventions relating solely to the Lilly Compound 
+are the exclusive property of Lilly. Lilly shall be entitled to file in its 
+own name relevant patent applications and to own resultant patent rights 
+for any such Invention. For the avoidance of doubt, any Invention 
+generically encompassing the Lilly Compound (and not any Athenex 
+proprietary compound including the Athenex Compound) within its scope, even 
+where the Lilly Compound is not disclosed per se, is the exclusive property 
+of Lilly.
+
+10.3 Inventions Owned by Athenex. Notwithstanding Section 10.1, the Parties 
+agree that all rights to Inventions relating solely to the Athenex Compound 
+are the exclusive property of Athenex. Athenex shall be entitled to file in 
+its own name relevant patent applications and to own resultant patent 
+rights for any such Invention. For the avoidance of doubt, any Invention 
+generically encompassing the Athenex Compound (and not any Lilly 
+proprietary compound
+ 
+14
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+including the Lilly Compound) within its scope, even where the Athenex 
+Compound is not disclosed per se, is the exclusive property of Athenex.
+
+10.4 Mutual Freedom to Operate for Combination Inventions.
+ 
+  	(i) 	Lilly hereby grants to Athenex a non-exclusive, worldwide, 
+royalty-free, fully paid-up license, transferable and sublicensable, to any 
+patent owned or controlled by Lilly which (a) has a priority claim that is 
+earlier than the initiation of the Study (i.e., first dosing of the first 
+patient in the Study) and (b) claims the Combination, in order to practice 
+such Combination for all purposes.
+ 
+  	(ii) 	Athenex hereby grants to Lilly a non-exclusive, worldwide, 
+royalty-free, fully paid-up license, transferable and sublicensable, to any 
+patent owned or controlled by Athenex which (a) has a priority claim that 
+is earlier than the initiation of the Study (i.e., first dosing of the 
+first patient in the Study) and (b) claims the Combination, in order to 
+practice such Combination for all purposes.
+ 
+  	(iii) 	For clarity, the terms of this Section 10.4 do not provide 
+Athenex or Lilly with any rights, title or interest or any license to the 
+other Partys background intellectual property which does not claim the 
+Combination (i.e., intellectual property owned or licensed by either Party 
+which does not constitute an Invention and does not claim the Combination) 
+except as necessary to conduct the Study.
+ 
+  	(iv) 	Notwithstanding the foregoing, any and all licenses granted under 
+this Section shall terminate upon termination of this Agreement and any 
+future agreement(s) the Parties may enter into related to the Combination.
+ 
+11. 	Reprints.
+
+Consistent with applicable copyright and other laws, each Party may use, 
+refer to, and disseminate reprints of scientific, medical and other 
+published articles and materials from journals, conferences and/or symposia 
+relating to the Study which disclose the name of a Party, provided such use 
+does not constitute an endorsement of any commercial product or service by 
+the other Party.
+ 
+12. 	Press Releases and Publications.
+
+12.1 ***
+
+12.2 To the extent required by Applicable Law or Lillys policies, Athenex 
+will register the Study with the Clinical Trials Registry located at 
+www.clinicaltrials.gov. Athenex is committed to timely publication of the 
+results following Study Completion, after taking appropriate action to 
+secure intellectual property rights (if any) arising from the Study. The 
+publication of the results of the Study will be in accordance with the 
+Protocol. Lilly agrees not to publish any results of the Study involving 
+the Athenex Compound prior to the timely publication of such Study results 
+by Athenex.
+ 
+15
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+12.3 Each Party shall use reasonable efforts to publish or present 
+scientific papers dealing with the Study in accordance with accepted 
+scientific practice. Each Party may issue a press release related to any 
+scientific presentation or publication regarding the Study in a form 
+mutually agreed to by the Parties.
+
+12.4 The Parties agree that prior to submission of the results of the Study 
+for publication or presentation or any other dissemination of results 
+including oral dissemination, the publishing Party shall invite the other 
+to comment on the content of the material to be published or presented 
+according to the following procedure:
+ 
+  	(i) 	At least *** days prior to submission for publication of any paper, 
+letter or any other publication, or *** days prior to submission for 
+presentation of any abstract, poster, talk or any other presentation, the 
+publishing Party shall provide to the other Party the full details of the 
+proposed publication or presentation in an electronic version (secure file 
+transfer). Upon written request from the other Party, the publishing Party 
+agrees not to submit data for publication/presentation for an additional 
+*** days in order to allow for actions to be taken to preserve rights for 
+patent protection.
+ 
+  	(ii) 	The publishing Party shall give reasonable consideration to any 
+request by the other Party made within the periods mentioned in clause (i) 
+above to modify the publication and the Parties shall work in good faith 
+and in a timely manner to resolve any issue regarding the content for 
+publication.
+ 
+  	(iii) 	The publishing Party shall remove all Confidential Information of 
+the other Party before finalizing the publication.
+
+12.5 Notwitstanding the foreging, that in the event Lilly has notified 
+Athenex in writing that Lilly reasonably believes that prior to such 
+publication or presentation it must take action to protect its intellectual 
+property interests, such as the filing of a patent application claiming an 
+invention or a trademark registration application, Athenex shall either (1) 
+delay such publication or presentation for an additional *** days or until 
+the foregoing action(s) have been taken, whichever shall first occur; or 
+(2) if Athenex is unwilling to delay the publication or presentation, 
+Athenex will remove from the publication or presentation the information 
+which Lilly has specified it reasonably believes would jeopardize its 
+intellectual property interests. Under certain circumstances, a shorter 
+review period may be granted in writing by Lilly. Athenex will assist Lilly 
+in obtaining reprints of the publication(s) resulting from the Study.
+
+12.6 Each Party agrees to identify and acknowledge the other Partys 
+support in any press release and any other publication or presentation of 
+the results of the Study, provided any such release, publication, 
+presentation or other disclosure is reviewed and approved by the other 
+Party.
+ 
+13. 	Representations and Warranties; Disclaimers.
+
+13.1 Each of Lilly and Athenex represents and warrants to the other that it 
+has the full right and authority to enter into this Agreement.
+ 
+16
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+13.2 Neither Party undertakes that the Study shall lead to any particular 
+result and both Parties agree and understand that the success of the Study 
+is not guaranteed. Neither Party accepts any responsibility for any use 
+that the other Party may make of the Clinical Data nor for advice or 
+information given in connection therewith.
+
+13.3 Anti-Corruption and Compliance.
+
+13.3.1 In performing their respective obligations hereunder, the Parties 
+acknowledge that the corporate policies of Lilly and Athenex and their 
+respective Affiliates require that each Partys business be conducted 
+within the letter and spirit of the law. By signing this Agreement, each 
+Party agrees to conduct the business contemplated herein in a manner which 
+is consistent with all Applicable Law, including the U.S. Foreign Corrupt 
+Practices Act, good business ethics, and its ethics and other corporate 
+policies, and to abide by the spirit of the other Partys applicable ethics 
+and compliance guidelines which may be provided by such other Party from 
+time to time. Specifically, each Party agrees that it has not, and 
+covenants that it, its Affiliates, and its and its Affiliates directors, 
+employees, officers, and anyone acting on its behalf, will not, in 
+connection with the performance of this Agreement, directly or indirectly, 
+make, promise, authorize, ratify or offer to make, or take any action in 
+furtherance of, any payment or transfer of anything of value for the 
+purpose of influencing, inducing or rewarding any act, omission or decision 
+to secure an improper advantage; or improperly assisting it in obtaining or 
+retaining business for it or the other Party, or in any way with the 
+purpose or effect of public or commercial bribery.
+
+13.3.2 Each Party shall not contact, or otherwise knowingly meet with, any 
+Government Official for the purpose of discussing activities arising out of 
+or in connection with this Agreement, without the prior written approval of 
+the other Party, except where such meeting is consistent with the purpose 
+and terms of this Agreement and in compliance with Applicable Law.
+
+13.3.3 Each Party represents that: (i) it has no impediment to enter into 
+the transaction contemplated in this Agreement; and (ii) it is not (and 
+Athenex represents and covenants that no third party engaged to perform 
+services for the Study will be) excluded, debarred, suspended, proposed for 
+suspension or debarment, or otherwise ineligible for government programs.
+
+13.3.4 Each Party represents and warrants that except as disclosed to the 
+other in writing prior to the commencement of this Agreement: (1) it does 
+not have any interest which directly or indirectly conflicts with its 
+proper and ethical performance of this Agreement; (2) it shall maintain 
+arms length relations with all Third Parties with which it deals for or on 
+behalf of the other in performance of this Agreement; and (3) it has 
+provided complete and accurate information to the other Party in the course 
+of negotiating this Agreement, including disclosure of any officers, 
+employees, owners or persons directly or indirectly retained by such Party, 
+if any, in relation to the performance of this Agreement who are Government 
+Officials or relatives of Government Officials. Each Party shall make all 
+further disclosures as necessary to the other Party to ensure the 
+information provided remains complete and accurate throughout the term of 
+this Agreement. Subject to the foregoing, each Party agrees that it shall 
+not hire or retain any
+ 
+17
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+Government Official to assist in its performance of this Agreement, with 
+the sole exception of conduct of or participation in clinical trials under 
+this Agreement, provided that such hiring or retention shall be subject to 
+the completion by the hiring or retaining Party of a satisfactory 
+anti-corruption and bribery (e.g., FCPA) due diligence review of such 
+Government Official. Each Party further covenants that any future 
+information and documentation submitted to the other Party as part of 
+further due diligence or a certification shall be complete and accurate.
+
+13.3.5 Each Party shall have the right during the term of this Agreement, 
+and for a period of two (2) years following termination of this Agreement, 
+to conduct an investigation and audit of the other Partys activities, 
+books and records, to the extent they relate to that other Partys 
+performance under this Agreement, to verify compliance with the terms of 
+this Section 13.3. Such other Party shall cooperate fully with such 
+investigation or audit, the scope, method, nature and duration of which 
+shall be at the sole reasonable discretion of the Party requesting such 
+audit.
+
+13.3.6 Each Party shall ensure that all transactions under the Agreement 
+are properly and accurately recorded in all material respects on its books 
+and records and that each document upon which entries in such books and 
+records are based is complete and accurate in all material respects. Each 
+Party further represents, warrants and covenants that all books, records, 
+invoices and other documents relating to payments and expenses under this 
+Agreement are and shall be complete and accurate and reflect in reasonable 
+detail the character and amount of transactions and expenditures. Each 
+Party must maintain a system of internal accounting controls reasonably 
+designed to ensure that no off-the-books or similar funds or accounts will 
+be maintained or used in connection with this Agreement.
+
+13.3.7 Each Party agrees that in the event that the other Party believes in 
+good faith that there has been a possible violation of any provision of 
+Section 14.3, such other Party may make full disclosure of such belief and 
+related information needed to support such belief at any time and for any 
+reason to any competent government bodies and its agencies, and to whoever 
+such Party determines in good faith has a legitimate need to know.
+
+13.3.8 Each Party agrees to ensure that all employees performing its 
+obligations under this Agreement are provided ethics and compliance 
+training in accordance with such Partys corporate policies and procedures. 
+All Internal Compliance Codes shall apply only to the Party to which they 
+relate. The Parties agree to cooperate with each other to insure that each 
+Party is able to comply with the substance of its respective Internal 
+Compliance Codes and Party Specific Regulations and, to the extent 
+practicable, to operate in a manner consist with its usual Compliance 
+related processes. Neither Party shall be obligated to pursue any course of 
+conduct that would result in such Party being in material breach of any 
+Party Specific Regulation applicable to it. All Party Specific Regulations 
+are binding only in accordance with their terms and only upon the Party to 
+which they relate.
+
+13.4 EXCEPT AS EXPRESSLY PROVIDED HEREIN, ATHENEX MAKES NO WARRANTIES, 
+EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS 
+FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE ATHENEX COMPOUND, AND LILLY 
+MAKES NO WARRANTIES, EXPRESS OR
+ 
+18
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A 
+PARTICULAR PURPOSE, WITH RESPECT TO THE LILLY COMPOUND.
+ 
+14. 	Insurance; Indemnification; Limitation of Liability.
+
+14.1 Insurance. Each Party warrants that it maintains a policy or program 
+of insurance or self-insurance at levels sufficient to support the 
+indemnification obligations assumed herein. Upon request, a Party shall 
+provide evidence of such insurance.
+
+14.2 Indemnification.
+
+14.2.1 Indemnification by Athenex. Athenex agrees to defend, indemnify and 
+hold harmless Lilly, its Affiliates, and its and their employees, 
+directors, subcontractors and agents from and against any loss, damage, 
+reasonable costs and expenses (including reasonable attorneys fees and 
+expenses) incurred in connection with any claim, proceeding, or 
+investigation by a Third Party arising out of this Agreement or the Study 
+(a Liability), except to the extent that such Liability (A) was directly 
+caused by (i) ***; (ii) ***; or (iii) ***; or (B) is determined to be 
+attributable to ***.
+
+14.2.2 Indemnification by Lilly. Lilly agrees to defend, indemnify and hold 
+harmless Athenex, its Affiliates, and its and their employees, directors, 
+subcontractors and agents from and against any Liability to the extent that 
+such Liability (A) was directly caused by (i) ***; (ii) ***; or (iii) ***; 
+or (B) is determined to be attributable to ***.
+
+14.2.3 Procedure. The obligations of Athenex and Lilly under this Section 
+14.2 are conditioned upon the delivery of written notice to Athenex or 
+Lilly, as the case might be, of any potential Liability within a reasonable 
+time after a Party becomes aware of such potential Liability. A Party will 
+have the right to assume the defense of any suit or claim related to the 
+Liability (using counsel reasonably satisfactory to the other Party) if it 
+has assumed responsibility for the suit or claim in writing. The other 
+Party may participate in (but not control) the defense thereof at its sole 
+cost and expense. The Party controlling such defense (the Defending Party
+) shall keep the other Party (the Other Party) advised of the status of 
+such action, suit, proceeding or claim and the defense thereof and shall 
+consider recommendations made by the Other Party with respect thereto. The 
+Defending Party shall not agree to any settlement of such action, suit, 
+proceeding or claim without the prior written consent of the Other Party, 
+which shall not be unreasonably withheld. The Defending Party shall not 
+agree to any settlement of such action, suit, proceeding or claim or 
+consent to any judgment in respect thereof that does not include a complete 
+and unconditional release of the Other Party from all liability with 
+respect thereto or that imposes any liability or obligation on the Other 
+Party without the prior written consent of the Other Party.
+
+14.2.4 Study Subjects. Lilly shall not offer compensation on behalf of 
+Athenex to any Study subject or bind Athenex to any indemnification 
+obligations in favor of any Study subject. Likewise, Athenex shall not 
+offer compensation on behalf of Lilly to any Study subject or bind Lilly to 
+any indemnification obligations in favor of any Study subject.
+ 
+19
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+14.3 LIMITATION OF LIABILITY. OTHER THAN WITH RESPECT TO DAMAGES ARISING 
+OUT OF OR RELATED TO A PARTYS BREACH OF ITS OBLIGATIONS UNDER THIS 
+AGREEMENT TO USE, DISCLOSE, LICENSE, ASSIGN OR OTHERWISE TRANSFER SAMPLE 
+TESTING RESULTS, CLINICAL DATA, CONFIDENTIAL INFORMATION AND JOINTLY-OWNED 
+INVENTIONS ONLY FOR THE PERMITTED USE, IN NO EVENT SHALL EITHER PARTY (OR 
+ANY OF ITS AFFILIATES OR SUBCONTRACTORS) BE LIABLE TO THE OTHER PARTY FOR, 
+NOR SHALL ANY INDEMNIFIED PARTY HAVE THE RIGHT TO RECOVER, ANY SPECIAL, 
+INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOST 
+PROFITS OR DAMAGES FOR LOST OPPORTUNITIES), WHETHER IN CONTRACT, WARRANTY, 
+NEGLIGENCE, TORT, STRICT LIABILITY OR OTHERWISE, ARISING OUT OF (x) THE 
+MANUFACTURE OR USE OF ANY COMPOUND SUPPLIED HEREUNDER OR (y) ANY BREACH OF 
+OR FAILURE TO PERFORM ANY OF THE PROVISIONS OF THIS AGREEMENT OR ANY 
+REPRESENTATION, WARRANTY OR COVENANT CONTAINED IN OR MADE PURSUANT TO THIS 
+AGREEMENT, EXCEPT THAT SUCH LIMITATION SHALL NOT APPLY TO DAMAGES PAID OR 
+PAYABLE TO A THIRD PARTY BY AN INDEMNIFIED PARTY FOR WHICH THE INDEMNIFIED 
+PARTY IS ENTITLED TO INDEMNIFICATION HEREUNDER.
+ 
+15. 	Use of Name.
+
+Except as expressly provided herein, neither Party shall have any right, 
+express or implied, to use in any manner the name or other designation of 
+the other Party or any other trade name, trademark or logo of the other 
+Party for any purpose in connection with the performance of this Agreement.
+ 
+16. 	Force Majeure.
+
+If in the performance of this Agreement, one of the Parties is prevented, 
+hindered or delayed by reason of any cause beyond such Partys reasonable 
+control (e.g., war, riots, fire, strike, governmental laws), such Party 
+shall be excused from performance to the extent that it is necessarily 
+prevented, hindered or delayed (Force Majeure). The non-performing Party 
+will notify the other Party of such Force Majeure within ten (10) days 
+after such occurrence by giving written notice to the other Party stating 
+the nature of the event, its anticipated duration, and any action being 
+taken to avoid or minimize its effect. The suspension of performance will 
+be of no greater scope and no longer duration than is necessary and the 
+non-performing Party will use commercially reasonable efforts to remedy its 
+inability to perform.
+ 
+17. 	Entire Agreement; Modification.
+
+The Parties agree to the full and complete performance of the mutual 
+covenants contained in this Agreement. This Agreement, together with the 
+Related Agreements, constitutes the sole, full and complete agreement by 
+and between the Parties with respect to the subject matter of this 
+Agreement, and all prior agreements, understandings, promises and 
+representations, whether written or oral, with respect thereto are 
+superseded by this Agreement. No amendments, changes, additions, deletions 
+or modifications to or of this Agreement shall be valid unless reduced to 
+writing and signed by the Parties hereto.
+ 
+20
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+18. 	Assignment and Sub-Contracting.
+
+Neither Party shall assign or transfer this Agreement without the prior 
+written consent of the other Party; provided, however, that either Party 
+may assign all or any part of this Agreement to one or more of its 
+Affiliates without the other Partys consent, and any and all rights and 
+obligations of either Party may be exercised or performed by its 
+Affiliates, provided that such Affiliates agree to be bound by this 
+Agreement.
+ 
+19. 	Invalid Provision.
+
+If any provision of this Agreement is held to be illegal, invalid or 
+unenforceable, the remaining provisions shall remain in full force and 
+effect and will not be affected by the illegal, invalid or unenforceable 
+provision. In lieu of the illegal, invalid or unenforceable provision, the 
+Parties shall negotiate in good faith to agree upon a reasonable provision 
+that is legal, valid and enforceable to carry out as nearly as practicable 
+the original intention of the entire Agreement.
+ 
+20. 	No Additional Obligations.
+
+Lilly and Athenex have no obligation to renew this Agreement or apply this 
+Agreement to any clinical trial other than the Study. Neither Party is 
+under any obligation to enter into another type of agreement at this time 
+or in the future.
+ 
+21. 	Dispute Resolution and Jurisdiction.
+
+21.1 The Parties shall attempt in good faith to settle all disputes arising 
+out of or in connection with this Agreement in an amicable manner. Any 
+claim, dispute or controversy arising out of or relating to this Agreement, 
+including the breach, termination or validity hereof or thereof (each, a 
+Dispute), shall be governed by and construed in accordance with the 
+substantive laws of the State of New York, without giving effect to its 
+choice of law principles.
+
+21.2 Nothing contained in this Agreement shall deny either Party the right 
+to seek injunctive or other equitable relief from a court of competent 
+jurisdiction in the context of a bona fide emergency or prospective 
+irreparable harm, and such an action may be filed or maintained 
+notwithstanding any ongoing discussions between the Parties.
+ 
+22. 	Notices.
+
+All notices or other communications that are required or permitted 
+hereunder shall be in writing and delivered personally, sent by facsimile 
+(and promptly confirmed by personal delivery or overnight courier), or sent 
+by internationally-recognized overnight courier addressed as follows:
+
+If to Athenex, to:
+
+Athenex, Inc.
+Conventus Building
+1001 Main Street, Suite 600
+ 
+21
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+Buffalo, New York 14203
+Attn: Teresa Bair, Esq., Legal Affairs
+Fascimile No: 866-895-1793
+
+
+With a copy to:
+
+Athenex, Inc.
+Conventus Building
+1001 Main Street, Suite 600
+Buffalo, New York 14203
+Attn: Robert Keem, Operations
+Fascimile No: 866-895-1793
+
+
+If to Lilly, to:
+
+Eli Lilly and Company
+Lilly Corporate Center
+893 S Delaware
+Indianapolis, IN, USA 46285
+Attention: Sr VP of Clinical Development and Medical Affairs, Oncology
+Business Unit
+Facsimile No: (317) 277-3652
+
+
+With a copy to:
+
+Eli Lilly and Company
+Lilly Corporate Center
+893 S Delaware
+Indianapolis, IN, USA 46285
+Attention: General Counsel
+Facsimile No: (317) 433-3000
+ 
+23. 	Relationship of the Parties.
+
+The relationship between the Parties is and shall be that of independent 
+contractors, and does not and shall not constitute a partnership, joint 
+venture, agency or fiduciary relationship. Neither Party shall have the 
+authority to make any statements, representations or commitments of any 
+kind, or take any actions, which are binding on the other Party, except 
+with the prior written consent of the other Party to do so. All persons 
+employed by a Party will be the employees of such Party and not of the 
+other Party and all costs and obligations incurred by reason of any such 
+employment shall be for the account and expense of such Party.
+ 
+24. 	Counterparts and Due Execution.
+
+This Agreement, any amendment and Related Agreements may be executed in two 
+(2) or more counterparts (including by way of facsimile or electronic 
+transmission), each of which shall be deemed an original, but all of which 
+together shall constitute one and the same instrument,
+ 
+22
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+notwithstanding any electronic transmission, storage and printing of copies 
+of this Agreement from computers or printers. When executed by the Parties, 
+this Agreement shall constitute an original instrument, notwithstanding any 
+electronic transmission, storage and printing of copies of this Agreement 
+from computers or printers. For clarity, facsimile signatures and 
+signatures transmitted via PDF shall be treated as original signatures.
+ 
+25. 	Construction.
+
+Except where the context otherwise requires, wherever used, the singular 
+will include the plural, the plural the singular, the use of any gender 
+will be applicable to all genders, and the word or is used in the 
+inclusive sense (and/or). Whenever this Agreement refers to a number of 
+days, unless otherwise specified, such number refers to calendar days. The 
+captions of this Agreement are for convenience of reference only and in no 
+way define, describe, extend or limit the scope or intent of this Agreement 
+or the intent of any provision contained in this Agreement. The term 
+including as used herein shall be deemed to be followed by the phrase 
+without limitation or like expression. The term will as used herein 
+means shall. References to Article, Section or Appendix are 
+references to the numbered sections of this Agreement and the appendices 
+attached to this Agreement, unless expressly stated otherwise. Except where 
+the context otherwise requires, references to this Agreement shall 
+include the appendices attached to this Agreement. The language of this 
+Agreement shall be deemed to be the language mutually chosen by the Parties 
+and no rule of strict construction will be applied against either Party 
+hereto.
+
+[Remainder of page intentionally left blank.]
+ 
+23
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+FOIA CONFIDENTIAL TREATMENT REQUESTED
+Confidential Materials omitted and filed separate with the Securities and 
+Exchange Commission
+Triple asterisks denote omissions
+
+IN WITNESS WHEREOF, the respective representatives of the Parties have 
+executed this Agreement as of the Effective Date.
+
+Athenex, Inc.
+By: 	  	 
+
+Name: (Type or Print) Simon Pedder, PhD
+
+Title: Vice President of Corporate Strategy and Business Development
+Date: 	  	 
+
+Eli Lilly and Company
+By: 	  	 
+
+Name: Richard Gaynor
+
+Title: Sr VP of Clinical Development and Medical Affairs, Oncology
+Date: 	  	 
+
+Eli Lilly and Company
+By: 	  	 
+
+Name: Michael Franklin
+
+Title: Sr. Advisor Commercial Product/Collaborations
+Date: 	  	 
+
+ImClone LLC
+By: 	  	 
+
+Name (Type or Print):
+
+Title: Member
+Date: 	  	 
+ 
+ 
+24
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+FOIA CONFIDENTIAL TREATMENT REQUESTED
+Confidential Materials omitted and filed separate with the Securities and 
+Exchange Commission
+Triple asterisks denote omissions
+
+Appendix A
+
+PROTOCOL SUMMARY
+ 
+25
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+***
+
+A total 77 pages of Protocol summary redacted.
+ 
+26
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+Appendix B
+
+LILLY PRODUCT Supply Agreement
+ 
+27
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
+
+------------------------------------------------------------------------
+***
+
+A total 4 pages of Supply Agreement redacted.
+ 
+28
+
+*** = Portions of this exhibit have been omitted pursuant to a request for 
+confidential treatment. An unredacted version of this exhibit has been 
+filed separately with the Commission.
