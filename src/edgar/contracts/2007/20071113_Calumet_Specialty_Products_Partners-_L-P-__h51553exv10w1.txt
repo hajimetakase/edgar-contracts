@@ -1,0 +1,699 @@
+ EX-10.1 2 h51553exv10w1.htm FIFTH AMENDMENT TO REVOLVING CREDIT AGREEMENT
+
+
+ 
+
+Exhibit 10.1
+
+
+FIFTH AMENDMENT
+TO CREDIT AGREEMENT
+
+     THIS FIFTH AMENDMENT TO CREDIT AGREEMENT (this Amendment), dated as 
+of November 6, 2007, is by and among CALUMET LUBRICANTS CO., LIMITED 
+PARTNERSHIP, an Indiana limited partnership (the Company), CALUMET 
+SHREVEPORT, LLC, an Indiana limited liability company (Calumet Shreveport
+), CALUMET SHREVEPORT LUBRICANTS & WAXES, LLC, an Indiana limited 
+liability company (CSLW), CALUMET SHREVEPORT FUELS, LLC, an Indiana 
+limited liability company (CSF), CALUMET SPECIALTY PRODUCTS PARTNERS, 
+L.P., a Delaware limited partnership (CSPP), CALUMET LP GP, LLC, a 
+Delaware limited liability company (CLPGP), CALUMET OPERATING, LLC, a 
+Delaware limited liability company (Operating) and CALUMET SALES COMPANY 
+INCORPORATED, a Delaware corporation (Calumet Sales and together with the 
+Company, Calumet Shreveport, CSLW, CSF, CSPP, CLPGP and Operating, 
+collectively, the Borrowers and each individually a Borrower), the 
+financial institutions identified on the signature pages hereto as lenders 
+(collectively, Lenders), and BANK OF AMERICA, N.A., as agent for the 
+Lenders (the Agent).
+
+
+W I T N E S S E T H:
+
+     WHEREAS, pursuant to that certain Credit Agreement dated as of 
+December 9, 2005 among the Borrowers, the Lenders and the Agent (as 
+previously amended, the Existing Credit Agreement), the Lenders have 
+extended commitments to make certain credit facilities available to the 
+Borrowers;
+
+     WHEREAS, the Company has requested that the Lenders agree to amend 
+certain provisions of the Existing Credit Agreement; and
+
+     WHEREAS, the Agent and the Lenders are willing to make such amendments 
+upon the terms and conditions contained in this Amendment;
+
+     NOW, THEREFORE, for good and valuable consideration, the receipt and 
+sufficiency of which are hereby acknowledged, and in consideration of the 
+agreements herein contained, the parties hereby agree as follows:
+
+
+PART I
+DEFINITIONS
+
+     SUBPART 1.1. Certain Definitions. Unless otherwise defined herein or 
+the context otherwise requires, the following terms used in this Amendment, 
+including its preamble and recitals, have the following meanings:
+
+     Amended Credit Agreement means the Existing Credit Agreement as 
+amended hereby.
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Amendment No. 5 Effective Date is defined in Subpart 3.1.
+
+     SUBPART 1.2. Other Definitions. Unless otherwise defined herein or the 
+context otherwise requires, terms used in this Amendment, including its 
+preamble and recitals, have the meanings provided in the Amended Credit 
+Agreement.
+
+
+PART II
+AMENDMENTS TO EXISTING CREDIT AGREEMENT
+
+     Effective on (and subject to the occurrence of) the Amendment No. 5 
+Effective Date, the Existing Credit Agreement is hereby amended in 
+accordance with this Part II. Except as so amended, the Existing Credit 
+Agreement shall continue in full force and effect.
+
+     SUBPART 2.1. Amendment to Section 1.1. Section 1.1 of the Existing 
+Credit Agreement is hereby amended as follows:
+
+     (A) The definitions of Borrowing Base, General Revolver Loan 
+Committed Amount, Reporting Trigger Event and Revolver Commitment are 
+hereby deleted in their entirety and replaced with the following:
+
+     Borrowing Base  on any date of determination, an amount equal to 
+the lesser of (a) the aggregate amount of Revolver Commitments, minus the 
+Availability Reserve; or (b) the sum of the Accounts Formula Amount, plus 
+the Inventory Formula Amount, minus the Availability Reserve, plus, during 
+the Bridge Period only, the Incremental Borrowing Availability.
+
+     General Revolver Loan Committed Amount  at all times other than 
+during the Bridge Period, $175,000,000, and during the Bridge Period, 
+$210,000,000.
+
+     Reporting Trigger Event  the occurrence of any of the following: (a) 
+Availability falls below (i) at all times other than during the Bridge 
+Period, $50,000,000 and (ii) during the Bridge Period, $0 or (b) a Default 
+or Event of Default.
+
+     Revolver Commitment  for any Lender, its obligation to make Revolver 
+Loans and to participate in LC Obligations up to the maximum principal 
+amount shown on Schedule 1.1, or as specified hereafter in the most recent 
+Assignment and Acceptance to which it is a party. Revolver Commitments 
+means the aggregate amount of such commitments of all Lenders. The Revolver 
+Commitments as of the Closing Date total $225,000,000. The Revolver 
+Commitments during the Bridge Period will total $260,000,000.
+
+- 2 -
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (B) The following definitions are herby added in appropriate 
+alphabetical order:
+
+     Amendment No. 5 Effective Date  November 12, 2007.
+
+     Bridge Period  the period beginning on November 15, 2007 and ending 
+on the earliest of (i) January 15, 2008, (ii) the date of the PP&E 
+Refinancing and (iii) the first Business Day immediately following the 
+closing date of the first Equity Issuance by Calumet Specialty Products 
+Partners, L.P. to Persons that are not its Affiliates following the 
+Amendment No. 5 Effective Date.
+
+     Incremental Accounts Formula Amount  5% of the net amount of 
+Eligible Accounts. Net amount has the meaning provided in the definition 
+of Accounts Formula Amount.
+
+     Incremental Borrowing Availability  the lesser of (a) the sum of 
+(i) the Incremental Accounts Formula Amount plus (ii) the Incremental 
+Inventory Formula Amount or (b) $35,000,000.
+
+     Incremental Inventory Formula Amount  the lesser of (a) the sum of 
+(i) 15% of the Value of Eligible Category A Inventory plus (ii) 15% of the 
+Value of Eligible Category B Inventory; or (b) 15% of the NOLV Percentage 
+of the Value of Eligible Category A Inventory and Eligible Category B 
+Inventory; provided, however, that Agent, subject to Section 14.1.1(a)(ii)
+(C), may adjust such advance percentages from time to time in its 
+reasonable discretion exercised in good faith.
+
+     PP&E Refinancing  the repayment or refinancing of the PP&E 
+Obligations.
+
+     SUBPART 2.2 Amendment to Section 2.1.1. Section 2.1.1 of the Existing 
+Credit Agreement is hereby deleted in its entirety and replaced with the 
+following:
+
+     2.1.1. Revolver Loans. Each Lender agrees, severally on a Pro Rata 
+basis up to its Revolver Commitment, on the terms set forth herein, to make 
+Revolver Loans to Borrowers from time to time through the Commitment 
+Termination Date. In no event shall Lenders have any obligation to honor a 
+request for a Revolver Loan if the unpaid balance of Revolver Loans 
+outstanding at such time (including the requested Loan) would exceed the 
+Borrowing Base. Each Lender agrees, severally on a Pro Rata basis, on the 
+terms set forth herein, to make certain Revolver Loans (the General 
+Revolver Loans) to Borrowers from time to time through the Commitment 
+Termination Date for the purposes set forth in Section 2.1.3. In no event 
+shall Lenders have any obligation to honor a request for a General Revolver 
+Loan if the unpaid balance of General Revolver Loans outstanding at such 
+time (including the requested Loan) plus total LC Obligations would exceed 
+the General Revolver Loan Committed Amount. Each
+
+- 3 -
+
+------------------------------------------------------------------------
+
+
+ 
+
+Lender agrees, severally on a Pro Rata basis, on the terms set forth 
+herein, to make certain Revolver Loans (the Distribution Revolver Loans) 
+to Borrowers from time to time through the Commitment Termination Date for 
+the purposes set forth in Section 2.1.3. In no event shall Lenders have any 
+obligation to honor a request for a Distribution Revolver Loan if the 
+unpaid balance of Distribution Revolver Loans outstanding at such time 
+(including the requested Loan) would exceed the difference of (a) the 
+Distribution Revolver Loan Committed Amount minus (b) the amount by which 
+the sum of (1) the outstanding principal balance of General Revolver Loans 
+and (2) the amount available for drawing under Letters of Credit hereunder, 
+exceeds (A) at all times other than during the Bridge Period, $175,000,000 
+and (B) during the Bridge Period, $210,000,000. The Revolver Loans may be 
+repaid and reborrowed as provided herein.
+
+     SUBPART 2.3 Amendment to Section 3.2. Section 3.2 of the Existing 
+Credit Agreement is hereby amended by adding the following new section to 
+the end thereof:
+
+     3.2.5 Bridge Period Fee. Borrowers shall pay to Agent, for the Pro 
+Rata benefit of the Lenders, a fee in an amount equal to $1,000 per day for 
+each day during the Bridge Period.
+
+     SUBPART 2.4 Amendment to Section 10.3. Section 10.3.1 is here by 
+amended by adding the following sentence to the end thereof:
+
+     Notwithstanding the foregoing, the Fixed Charge Coverage Ratio shall 
+not be tested during the Bridge Period.
+
+     SUBPART 2.5 Amendment to Schedule 1.1. Schedule 1.1 of the Existing 
+Credit Agreement is hereby deleted in its entirety and replaced with the 
+Schedule attached hereto as Exhibit A.
+
+
+PART III
+CONDITIONS TO EFFECTIVENESS
+
+     SUBPART 3.1. Amendment No. 5 Effective Date. This Amendment shall be 
+and become effective as of the date hereof (the Amendment No. 5 Effective 
+Date) when all of the conditions set forth in this Part III shall have 
+been satisfied, and thereafter this Amendment shall be known, and may be 
+referred to, as the Fifth Amendment.
+
+     SUBPART 3.2. Execution of Counterparts of Amendment. The Agent shall 
+have received counterparts (or other evidence of execution, including 
+telephonic message, satisfactory to the Agent) of this Amendment, which 
+collectively shall have been duly executed on behalf of each of the 
+Borrowers and each of the Lenders.
+
+     SUBPART 3.3 Legal Opinion. The Agent shall have received, dated as of 
+the Amendment No. 5 Effective Date and in form and substance reasonably 
+satisfactory to the Agent, one or more legal opinions from counsel to the 
+Borrowers.
+
+- 4 -
+
+------------------------------------------------------------------------
+
+
+ 
+
+     SUBPART 3.4 Resolutions; Good Standings. The Agent shall have received 
+the following, each of which shall be properly executed by a Senior Officer 
+of the signing Obligor or the General Partner, each dated as of the 
+Amendment No. 5 Effective Date (or, in the case of certificates of 
+governmental officials, a recent date before the Amendment No. 5 Effective 
+Date) and each in form and substance satisfactory to the Agent and each of 
+the Lenders:
+
+     (a) such certificates of resolutions or other action and/or other 
+certificates of Senior Officers of each Obligor or the General Partner as 
+Agent may require evidencing each Obligors authority to enter into this 
+Amendment; and
+
+     (b) such documents and certifications as the Agent may reasonably 
+require to evidence that each Obligor is duly organized or formed, and is 
+validly existing, in good standing and qualified to engage in business in 
+(A) the jurisdiction of its incorporation or organization and (B) each 
+jurisdiction where its ownership, lease or operation of Properties or the 
+conduct of its business requires such qualification, except to the extent 
+that failure to do so could not reasonably be expected to have a Material 
+Adverse Effect.
+
+     SUBPART 3.5 Amendment Fee. The Borrowers shall have paid or caused to 
+be paid an amendment fee to the Agent in connection with this Amendment for 
+the pro rata account of each Lender that shall have returned executed 
+signature pages to this Amendment no later than 3:00 p.m. on November 6, 
+2007, as directed by the Agent, in an aggregate amount equal to $120,000 
+for such Lenders as a group.
+
+
+PART IV
+MISCELLANEOUS
+
+     SUBPART 4.1 Cross-References. References in this Amendment to any Part 
+or Subpart are, unless otherwise specified, to such Part or Subpart of this 
+Amendment.
+
+     SUBPART 4.2. Instrument Pursuant to Existing Credit Agreement. This 
+Amendment is an Other Agreement executed pursuant to the Existing Credit 
+Agreement and shall (unless otherwise expressly indicated therein) be 
+construed, administered and applied in accordance with the terms and 
+provisions of the Existing Credit Agreement.
+
+     SUBPART 4.3. References in Other Agreements. At such time as this 
+Amendment shall become effective pursuant to the terms of Subpart 3.1, all 
+references in the Other Agreements to the Credit Agreement shall be 
+deemed to refer to the Existing Credit Agreement as amended by this 
+Amendment.
+
+     SUBPART 4.4. Representations and Warranties of the Borrowers. Each 
+Borrower hereby represents and warrants that (a) it has the requisite power 
+and authority to execute, deliver and perform this Amendment, (b) it is 
+duly authorized to, and has been
+
+- 5 -
+
+------------------------------------------------------------------------
+
+
+ 
+
+authorized by all necessary action, to execute, deliver and perform this 
+Amendment, (c) the representations and warranties contained in Section 9 
+of the Existing Credit Agreement (as amended by this Amendment) are true 
+and correct in all material respects on and as of the date hereof as though 
+made on and as of such date and after giving effect to the amendments 
+contained herein (except for those which expressly relate to an earlier 
+date) and (d) no Default or Event of Default exists under the Existing 
+Credit Agreement on and as of the date hereof both before and after giving 
+effect to the amendments contained herein.
+
+     SUBPART 5.5. Counterparts. This Amendment may be executed by the 
+parties hereto in several counterparts, each of which shall be deemed to be 
+an original and all of which shall constitute together but one and the same 
+agreement. Delivery of executed counterparts of this Amendment by telecopy 
+shall be effective as an original and shall constitute a representation 
+that an original will be delivered.
+
+     SUBPART 5.6. Governing Law. THIS AMENDMENT SHALL BE DEEMED TO BE A 
+CONTRACT MADE UNDER AND GOVERNED BY THE INTERNAL LAWS OF THE STATE OF NEW 
+YORK WITHOUT GIVING EFFECT TO THE CONFLICT OF LAW PRINCIPLES THEREOF.
+
+     SUBPART 5.7. Successors and Assigns. This Amendment shall be binding 
+upon and inure to the benefit of the parties hereto and their respective 
+successors and assigns.
+
+     SUBPART 5.8. Costs and Expenses. The Borrowers agree to pay all 
+reasonable out of pocket costs and expenses of the Agent in connection with 
+the preparation, execution and delivery of this Amendment, including 
+without limitation the reasonable fees and expenses of Moore & Van Allen, 
+PLLC.
+
+     SUBPART 5.9. No Other Modification. Except to the extent specifically 
+provided to the contrary in this Amendment, all terms and conditions of the 
+Existing Credit Agreement and the Other Agreements shall remain in full 
+force and effect, without modification or limitation.
+
+
+[remainder of page intentionally left blank]
+
+- 6 -
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Each of the parties hereto has caused a counterpart of this Amendment 
+to be duly executed and delivered as of the date first above written.
+  	  	  	  	  	  	  	  	  	  	 
+BORROWERS: 	  	CALUMET LUBRICANTS CO., LIMITED PARTNERSHIP
+ 
+  	  	  	  	  	  	  	  	  	 
+  	  	By: 	  	Calumet LP GP, LLC, its general partner
+ 
+  	  	  	  	  	  	  	  	  	 
+  	  	  	  	By: 	  	Calumet Operating, LLC, its sole member
+ 
+  	  	  	  	  	  	  	  	  	 
+  	  	  	  	  	  	By: 	  	Calumet Specialty Products Partners, L.P., its 
+sole member
+ 
+  	  	  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	  	  	By: 	  	Calumet GP, LLC, its general partner
+ 
+  	  	  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	  	  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	  	  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	  	  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	  	  	  	  	  	  	 
+  	  	  	  	 
+  	  	CALUMET SHREVEPORT, LLC
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	 
+ 
+  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	CALUMET SHREVEPORT LUBRICANTS & WAXES, LLC
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	 
+ 
+  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	CALUMET SHREVEPORT FUELS, LLC
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	 
+ 
+  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	 
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+  	  	CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.
+ 
+  	  	  	 
+ 
+  	By: 	  	Calumet GP, LLC, its general partner
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	 
+ 
+  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	 
+  	  	  	  	  	  	  	  	 
+  	  	CALUMET LP GP, LLC
+ 
+  	  	  	  	  	  	  	 
+  	  	By: 	  	Calumet Operating, LLC, its sole member
+ 
+  	  	  	  	  	  	  	 
+  	  	  	  	By: 	  	Calumet Specialty Products Partners, L.P., its sole 
+member
+ 
+  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	By: 	  	Calumet GP, LLC, its general partner
+ 
+  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	  	  	  	  	 
+ 
+  	  	  	  	  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	  	  	  	  	 
+  	  	  	  	  	  	 
+  	  	CALUMET OPERATING, LLC
+ 
+  	  	  	  	  	 
+  	  	By: 	  	Calumet Specialty Products Partners, L.P., its sole member
+ 
+  	  	  	  	  	 
+ 
+  	  	  	By: 	  	Calumet GP, LLC, its general partner
+ 
+  	  	  	  	  	 
+ 
+  	  	  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	  	  	 
+ 
+  	  	  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	  	  	 
+ 
+  	  	  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	  	  	 
+  	  	  	  	 
+  	  	CALUMET SALES COMPANY INCORPORATED
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ R. PATRICK MURRAY, II
+ 
+  	  	  	 
+ 
+  	Name: 	  	R. Patrick Murray, II
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President and Chief Financial Officer
+ 
+  	  	  	 
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+AGENT AND LENDERS: 	  	BANK OF AMERICA, N.A.,
+  	  	as Agent and a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ HANCE VAN BEBER
+ 
+  	  	  	 
+ 
+  	Name: 	  	Hance Van Beber
+ 
+  	  	  	 
+ 
+  	Title: 	  	Sr. Vice President
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	JPMORGAN CHASE BANK, N.A.,
+  	  	as Co-Syndication Agent and a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ SANTIAGO GIRALDO
+ 
+  	  	  	 
+ 
+  	Name: 	  	Santiago Giraldo
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice-President
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	LASALLE BANK NATIONAL ASSOCIATION,
+  	  	as Co-Syndication Agent and a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ HANCE VAN BEBER
+ 
+  	  	  	 
+ 
+  	Name: 	  	Hance Van Beber
+ 
+  	  	  	 
+ 
+  	Title: 	  	Sr. Vice President
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	WELLS FARGO FOOTHILL, LLC,
+  	  	as a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ JENNIFER FONG
+ 
+  	  	  	 
+ 
+  	Name: 	  	Jennifer Fong
+ 
+  	  	  	 
+ 
+  	Title: 	  	Assistant Vice President
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	WACHOVIA BANK, NATIONAL ASSOCIATION,
+  	  	as a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ JOE CURDY
+ 
+  	  	  	 
+ 
+  	Name: 	  	Joe Curdy
+ 
+  	  	  	 
+ 
+  	Title: 	  	Director
+ 
+  	  	  	 
+ 
+  	  	  	 
+  	  	NATIONAL CITY BUSINESS CREDIT, INC.,
+  	  	as a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ TOM BUDA
+ 
+  	  	  	 
+ 
+  	Name: 	  	Tom Buda
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President
+ 
+  	  	  	 
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+  	  	SIEMENS FINANCIAL SERVICES, INC.,
+  	  	as a Lender
+ 
+  	  	  	 
+ 
+  	By: 	  	/s/ MARK PICILLO
+ 
+  	  	  	 
+ 
+  	Name: 	  	Mark Picillo
+ 
+  	  	  	 
+ 
+  	Title: 	  	Vice President
+ 
+  	  	  	 
+
+
+[END OF SIGNATURE PAGES]
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+Exhibit A
+
+Schedule 1.1
+
+Revolver Commitments
+  	  	  	  	  	  	  	  	  	  	  	  	 
+Lender 	  	Revolver 	  	Revolver 	  	Commitment
+  	  	Commitment 	  	Commitment 	  	Percentage
+  	  	(Outside Bridge 	  	(During Bridge 	  	 
+  	  	Period) 	  	Period) 	  	 
+ 
+  Bank of America, N.A.
+  	$ 	50,000,000 	  	  	$ 	57,777,777.79 	  	  	  	22.222222222 	%
+  JPMorgan Chase Bank, N.A.
+  	$ 	37,500,000 	  	  	$ 	43,333,333.34 	  	  	  	16.666666667 	%
+  LaSalle Bank National Association
+  	$ 	37,500,000 	  	  	$ 	43,333,333.34 	  	  	  	16.666666667 	%
+  Wells Fargo Foothill, LLC
+  	$ 	27,500,000 	  	  	$ 	31,777,777.77 	  	  	  	12.222222222 	%
+  Wachovia Bank, National Association
+  	$ 	27,500,000 	  	  	$ 	31,777,777.77 	  	  	  	12.222222222 	%
+  National City Business Credit, Inc.
+  	$ 	25,000,000 	  	  	$ 	28,888,888.88 	  	  	  	11.111111111 	%
+  Siemens Financial Services, Inc.
+  	$ 	20,000,000 	  	  	  	23,111,111.11 	  	  	  	8.888888889 	%
+    Total:
+  	$ 	225,000,000 	  	  	$ 	260,000,000 	  	  	  	100.000000000 	%
+
+ 
