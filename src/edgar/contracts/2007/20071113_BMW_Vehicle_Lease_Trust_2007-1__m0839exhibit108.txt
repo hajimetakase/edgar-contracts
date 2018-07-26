@@ -1,0 +1,2599 @@
+ EX-10.8 11 m0839exhibit108.htm SCHEDULE TO THE MASTER AGREEMENT
+
+SCHEDULE
+to the
+Master Agreement
+
+
+dated as of November 2, 2007
+
+
+between
+
+
+JPMorgan Chase Bank, N.A.
+(Morgan)
+and
+BMW Vehicle Lease Trust 2007-1
+(Counterparty)
+
+Part 1
+
+Termination Provisions
+
+
+In this Agreement:
+
+
+      (1)
+      Specified Entity shall not apply.
+
+
+      (2)
+      The Breach of Agreement provisions of Section 5(a)(ii) will apply
+      to Morgan and will not apply to the Counterparty.
+
+
+      (3)
+      The Credit Support Default provisions of Section 5(a)(iii) will
+      apply to Morgan and will not apply to the Counterparty, except that
+      Section 5(a)(iii)(1) will apply to Counterparty in respect of
+      Counterpartys obligations under Paragraph 3(b) of the Approved
+      Credit Support Document.
+
+
+      (4)
+      The Misrepresentation provisions of Section 5(a)(iv) will apply to
+      Morgan and will not apply to the Counterparty.
+
+
+      (5)
+      The Default Under Specified Transaction provisions of Section
+      5(a)(v) will apply to Morgan and will not apply to the Counterparty.
+
+
+      (6)
+      The Cross Default provisions of Section 5(a)(vi) will not apply to
+      the Counterparty.  The Cross Default provisions of Section 5(a)(vi)
+      will apply to Morgan and for such purpose:
+
+
+            (a)
+            Specified Indebtedness will have the meaning specified in
+            Section 14, except that such term shall not include obligations
+            in respect of deposits received in the ordinary course of such
+            partys banking business.
+
+
+            (b)
+            Threshold Amount means, with respect to Morgan, an amount
+            equal to three percent of the shareholders equity of the
+            applicable Relevant Entity (as defined below in Part 6).
+
+
+      (7)
+      The Bankruptcy provisions of Section 5(a)(vii) shall apply to
+      Morgan and the Counterparty provided that:
+
+
+            (a)
+            Section 5(a)(vii)(2), (7) and (9) will not apply to the
+            Counterparty;
+
+
+            (b)
+            Section 5(a)(vii)(4) will not apply to the Counterparty to the
+            extent that it refers to proceedings or petitions instituted or
+            presented by Morgan or any of Morgans Affiliates;
+
+
+            (c)
+            Section 5(a)(vii)(6) will not apply to the Counterparty to the
+            extent that it refers to (i) any appointment that is
+            contemplated or effected by any document to which the
+            Counterparty is, as of the date of this Agreement, a party in
+            connection with the transactions contemplated by the Indenture
+            and the other agreements related thereto or (ii) any such
+            appointment to which the Counterparty has not yet become
+            subject to; and
+
+
+            (d)
+            Section 5(a)(vii)(8) will apply to the Counterparty but only to
+            the extent that it applies to Sections 5(a)(vii)(2), (4), (6)
+            and (7) as they apply with respect to the Counterparty).
+
+
+      (8)
+      The Merger Without Assumption provisions of Section 5(a)(viii) will
+      apply to Morgan and will not apply to the Counterparty.
+
+
+      (9)
+      The Tax Event provisions of Section 5(b)(ii) will apply to Morgan
+      and to the Counterparty, provided that the words (x) any action
+      taking by a taxing authority, or brought in a court of competent
+      jurisdiction, on or after the date on which a Transaction is entered
+      into (regardless of whether such action is taken or brought with
+      respect to a party to this Agreement) or (y) shall be deleted.
+
+
+      (10)
+      The Tax Event Upon Merger provisions of Section 5(b)(iii) will
+      apply, provided that Morgan shall not be entitled to designate an
+      Early termination Date by reason of a Tax event Upon Merger in
+      respect of which it is the Affected Party.
+
+
+      (11)
+      The Credit Event Upon Merger provisions of Section 5(b)(iv) will
+      not apply to Morgan and will not apply to the Counterparty.
+
+
+      (12)
+      The Automatic Early Termination provisions of Section 6(a) will not
+      apply to Morgan and will not apply to the Counterparty.
+
+
+      (13)
+      The Transfer to Avoid Termination Event provisions of 6(b)(ii) will
+      apply to Morgan and the Counterparty, provided that the words or if
+      a Tax Event Upon Merger occurs and the Burdened Party is the Affected
+      Party shall be deleted.
+
+
+      (14)
+      Termination Currency means United States Dollars.
+
+
+      (15)
+      For purposes of computing amounts payable on early termination:
+
+
+            (a)
+            Market Quotation will apply to this Agreement; and
+
+
+            (b)
+            The Second Method will apply to this Agreement.
+
+
+      (16)
+      The occurrence of any of the following events shall constitute an
+      Additional Termination Event for purposes of Section 5(b)(v):
+
+
+            (a) a notice of optional redemption of the Trust pursuant to
+            Section 10.01 of the Indenture is issued and is no longer
+            capable of being rescinded.  If this Additional Termination
+            Event occurs, the Counterparty shall be the sole Affected Party
+            and this Transaction shall be the sole Affected Transaction;
+            provided, however, that notwithstanding Section 6(b)(iv),
+            either party may designate an Early Termination Date in respect
+            of this Additional Termination Event; provided, further, that
+            such Early Termination Date shall not be prior to ten Business
+            Days prior to the final Distribution Date; or
+
+
+            (b) the occurrence of an Additional Termination Event as set
+            forth in Part 6 hereof.  If this Additional Termination Event
+            occurs, Morgan shall be the sole Affected Party and all
+            Transactions then outstanding between the parties shall be
+            Affected Transactions.
+
+
+Part 2
+
+Tax Representations
+
+
+      (1)
+      Payer Tax Representation:
+
+
+For the purpose of Section 3(e) of this Agreement, Morgan makes the 
+following representation:
+
+
+      It is not required by any applicable law, as modified by the practice
+      of any relevant governmental revenue authority, of any Relevant
+      Jurisdiction to make any deduction or withholding for or on account
+      of any Tax from any payment (other than interest under Section 2(e),
+      6(d)(ii) or 6(e) of this Agreement) to be made by it to the other
+      party under this Agreement.  In making this representation, it may
+      rely on:
+
+
+            (i)
+            the accuracy of any representations made by the other party
+            pursuant to Section 3(f) of this Agreement;
+
+
+            (ii)
+            the satisfaction of the agreement of the other party contained
+            in Section 4(a)(i) or 4(a)(iii) of this Agreement and the
+            accuracy and effectiveness of any document provided by the
+            other party pursuant to Section 4(a)(i) or 4(a)(iii) of this
+            Agreement; and
+
+
+            (iii)
+            the satisfaction of the agreement of the other party contained
+            in Section 4(d) of this Agreement,
+
+
+      provided that it shall not be a breach of this representation where
+      reliance is placed on clause (ii) and the other party does not
+      deliver a form or document under Section 4(a)(iii) of this Agreement
+      by reason of material prejudice to its legal or commercial position.
+
+
+      (2)
+      Payee Tax Representation:
+
+
+      For the purpose of Section 3(f), Morgan and Counterparty each
+      represent that it is a United States Person.
+
+
+Part 3
+
+Agreement to Deliver Documents
+
+
+For the purpose of Sections 4(a)(i) and (ii), each party agrees to deliver 
+the following documents, as applicable:
+
+
+      (1)
+      For the purpose of Sections 4(a)(i) and (ii) of this Agreement,
+      Counterparty agrees to deliver complete and accurate United States
+      Internal Revenue Service Forms W-9 (or any applicable successor
+      form), in the name of BMW Vehicle Lease Trust 2007-1, in a manner
+      reasonably satisfactory to Morgan, (I) upon execution of this
+      Agreement; (II) promptly upon reasonable demand of Morgan, and (III)
+      promptly upon learning that any such form previously filed by
+      Counterparty has become obsolete or incorrect.
+
+
+      (2)
+      Morgan will, on demand, deliver a certificate specifying the name(s),
+      title(s) and specimen signature(s) of the person(s) executing this
+      Agreement and each Confirmation on its behalf.
+
+
+      (3)
+      The Counterparty will, on demand, deliver a certificate (or, if
+      available, the current authorized signature book of the Counterparty)
+      specifying the names, title and specimen signatures of the persons
+      authorized to execute this Agreement and each Confirmation on its
+      behalf.
+
+
+      (4)
+      The Counterparty will, upon execution of this Agreement, deliver a
+      conformed copy of the Indenture.
+
+
+      (5)
+      Each party will, upon execution of this Agreement, deliver a legal
+      opinion of counsel in form and substance satisfactory to the other
+      party regarding this Agreement and any other matters as such other
+      party may reasonably request.
+
+
+      (6)
+      The Counterparty shall supply Morgan with copies of all accountings
+      and reports required to be supplied to a party that is a Noteholder
+      (as defined in the Indenture).  Copies of such accountings and/or
+      reports shall be delivered to Morgan at the following address:
+
+
+            JPMorgan Chase Bank, National Association
+            c/o John Coffey
+            270 Park Avenue
+            New York, New York 10017
+            e-mail address:  john.j.coffey@jpmorgan.com
+
+
+Each of the foregoing documents (other than the legal opinions described in 
+(6) above) is covered by the representation contained in Section 3(d) of 
+this Agreement.
+
+
+Part 4
+
+Miscellaneous
+
+
+      (1)
+      Governing Law.  This Agreement will be governed by and construed in
+      accordance with the laws of the State of New York without reference
+      to choice of law doctrine.
+
+
+      (2)
+      Notices.
+
+
+            (a)
+            In connection with Section 12(a), all notices to Morgan shall,
+            with respect to any particular Transaction, be sent to the
+            address, telex number or facsimile number specified in the
+            relevant Confirmation and any notice for purposes of Sections 5
+            or 6 of the Agreement shall be sent to the address or telex
+            number specified below:
+
+
+            JPMorgan Chase Bank, N.A.
+            Attention:  Legal Department-Derivatives Practice Group
+            270 Park Avenue, 41st Floor
+            New York, New York  10017-2070
+            Telex No.: 232337; Answerback:  CBC UR
+            Facsimile No.:  (212) 270-3620
+
+
+            (b)
+            In connection with Section 12(a), all notices to the
+            Counterparty shall, with respect to any particular 
+            Transaction, be sent to the address, telex number or facsimile
+            number specified in the relevant Confirmation and any notice
+            for purposes of Sections 5 or 6 of the Agreement shall be sent
+            to the address or telex number specified below:
+
+
+            BMW Vehicle Lease Trust 2007-1
+            c/o Wilmington Trust Company, as the Owner Trustee
+            Rodney Square North
+            1100 North Market Street
+            Wilmington, Delaware 19890-1600
+
+
+            With a copy to:
+
+
+            BMW Financial Services NA, LLC
+            300 Chestnut Ridge Road
+            Woodcliff Lake, New Jersey 07677
+            Attention:  General Counsel
+
+
+      (3)
+      Netting of Payments.  Section 2(c)(ii) of this Agreement will apply,
+      with the effect that payment netting will not take place with respect
+      to amounts due and owing in respect of more than one Transaction.
+
+
+      (4)
+      Offices; Multibranch Party.  For purposes of Section 10:
+
+
+            (a)
+            Section 10(a) will apply; and
+
+
+            (b)
+            For the purpose of Section 10(c):
+
+
+                  (i)
+                  Morgan is a Multibranch Party and may act through its
+                  London and New York Offices.
+
+
+                  (ii)
+                  The Counterparty is not a Multibranch Party.
+
+
+      (5)
+      Credit Support Documents.
+
+
+      With respect to Morgan, if applicable, any Eligible Guarantee
+      delivered by Morgan shall constitute a Credit Support Document.
+
+
+      With respect to Morgan and the Counterparty, the Approved Credit
+      Support Document (as defined herein) entered into between Morgan and
+      the Counterparty shall constitute a Credit Support Document. An
+      Approved Credit Support Document shall be executed and delivered
+      contemporaneously with this Agreement.
+
+
+      (6)
+      Credit Support Provider.
+
+
+      With respect to Morgan, the party guaranteeing Morgans obligations
+      pursuant to an Eligible Guarantee, if any, shall be a Credit Support
+      Provider.
+
+
+      (7)
+      Process Agents.  The Counterparty appoints as its Process Agent for
+      the purpose of Section 13(c): Not Applicable
+
+
+Part 5
+
+Other Provisions
+
+
+      (1)
+      ISDA Definitions.  Reference is hereby made to the 2000 ISDA
+      Definitions (the ISDA Definitions) each as published by the
+      International Swaps and Derivatives Association, Inc., which are
+      hereby incorporated by reference herein.  Any terms used and not
+      otherwise defined herein, which are contained in the ISDA
+      Definitions, shall have the meaning set forth therein, except that
+      any references in the ISDA Definitions to a Swap Transaction shall
+      be deemed references to a Transaction for purposes of this
+      Agreement, and references to a Transaction in this Agreement shall
+      be deemed references to a Swap Transaction for purposes of the ISDA
+      Definitions.
+
+
+      (2)
+      Scope of Agreement.  The parties hereto agree that the sole
+      Confirmation shall govern this Transaction.
+
+
+      (3)
+      Inconsistency.  In the event of any inconsistency between any of the
+      following documents, the relevant document first listed below shall
+      govern:  (i) a Confirmation; (ii) the Schedule; (iii) the ISDA
+      Definitions; and (iv) the printed form of ISDA Master Agreement,
+      dated as of the date hereof between Morgan and the Counterparty.
+
+
+      (4)
+      Calculation Agent.  The Calculation Agent will be Morgan; provided,
+      however, that if an Event of Default shall have occurred with respect
+      to which Morgan is the Defaulting Party, Counterparty shall have the
+      right to designate as Calculation Agent an independent party,
+      reasonably acceptable to Morgan, the cost of which shall be borne by
+      Morgan.
+
+
+      (5)
+      Waiver of Jury Trial.  Each party waives, to the fullest extent
+      permitted by applicable law, any right it may have to a trial by jury
+      in respect of any suit, action or proceeding relating to this
+      Agreement or any Credit Support Document.  Each party (i) certifies
+      that no representative, agent or attorney of the other party or any
+      Credit Support Provider has represented, expressly or otherwise, that
+      such other party would not, in the event of such a suit, action or
+      proceeding, seek to enforce the foregoing waiver and (ii)
+      acknowledges that it and the other party have been induced to enter
+      into this Agreement and provide for any Credit Support Document, as
+      applicable, by, among other things, the mutual waivers and
+      certifications in this Section.
+
+
+      (6)
+      No Petition; Limited Recourse.  Morgan hereby agrees that it shall
+      not until a period of one year and one day (or if longer, the
+      applicable preference period) after all rated liabilities of the
+      Counterparty have been indefeasibly paid in full institute against,
+      or join any other person in instituting against the Counterparty any
+      bankruptcy, reorganization, arrangement, insolvency, moratorium or
+      liquidation proceedings or other proceedings under U.S. federal or
+      state or other bankruptcy or similar laws.  Notwithstanding the
+      foregoing, nothing herein shall prevent Morgan from participating in
+      any such proceeding once commenced.  This provision shall survive
+      termination of this Agreement.
+
+
+      Morgan hereby acknowledges and agrees that the Counterpartys
+      obligations hereunder will be solely the limited recourse obligations
+      of the Counterparty payable solely in accordance with the priority of
+      payments set out in the Indenture, and that Morgan will not have any
+      recourse to any of the directors, officers, employees, shareholders
+      or affiliates of the Counterparty with respect to any claims, losses,
+      damages, liabilities, indemnities or other obligations in connection
+      with any transactions contemplated hereby.  Notwithstanding any other
+      provisions hereof, recourse in respect of any obligations of the
+      Counterparty to Morgan hereunder or thereunder will be limited to the
+      Counterparty and on the exhaustion thereof all claims against the
+      Counterparty arising from this Confirmation or any other transactions
+      contemplated hereby or thereby shall be extinguished.
+
+
+      (7)
+      Limitation of Liability.  It is expressly understood and agreed by
+      the parties that (a) this document is executed and delivered by
+      Wilmington Trust Company, not individually or personally, but solely
+      as Owner Trustee, in the exercise of the powers and authority
+      conferred and vested in it, pursuant to the Trust Agreement, (b) each
+      of the representations, undertakings and agreements herein made on
+      the part of the Counterparty is made and intended not as personal
+      representations, undertakings and agreements by Wilmington Trust
+      Company but is made and intended for the purpose for binding only the
+      Counterparty, (c) nothing herein contained shall be construed as
+      creating any liability on Wilmington Trust Company, individually or
+      personally, to perform any covenant either expressed or implied
+      contained herein, all such liability, if any, being expressly waived
+      by the parties hereto and by any person claiming by, through or under
+      the parties hereto, and (d) under no circumstances shall Wilmington
+      Trust Company be personally liable for the payment of any
+      indebtedness or expenses of the Counterparty or be liable for the
+      breach or failure of any obligation, representation, warranty or
+      covenant made or undertaken by the Counterparty under this Agreement
+      or any other related documents.
+
+
+      (8)
+      Additional Representations.
+
+
+            (a)
+            Section 3 is hereby amended by adding at the end thereof the
+            following paragraphs:
+
+
+      (g) It is an eligible contract participant under, and as defined
+      in, Section 1a(12) of the Commodity Exchange Act, as amended.
+
+
+      (h) Each party will be deemed to represent to the other party on the
+      date on which it enters into a Transaction that (absent a written
+      agreement between the parties that expressly imposes affirmative
+      obligations to the contrary for that Transaction):
+
+
+                  (i)
+                  Non-Reliance.  It is acting for its own account, and it
+                  has made its own independent decisions to enter into that
+                  Transaction and as to whether that Transaction is
+                  appropriate or proper for it based upon its own judgment
+                  and upon advice from such advisers as it has deemed
+                  necessary.  It is not relying on any communication
+                  (written or oral) of the other party as investment advice
+                  or as a recommendation to enter into that Transaction; it
+                  being understood that information and explanations
+                  related to the terms and conditions of a Transaction
+                  shall not be considered investment advice or a
+                  recommendation to enter into that Transaction.  No
+                  communication (written or oral) received from the other
+                  party shall be deemed to be an assurance or guarantee as
+                  to the expected results of that Transaction.
+
+
+                  (ii)
+                  Assessment and Understanding.  It is capable of assessing
+                  the merits of and understanding (on its own behalf or
+                  through independent professional advice), and understands
+                  and accepts, the terms, conditions and risks of that
+                  Transaction.  It is also capable of assuming, and
+                  assumes, the risks of that Transaction.
+
+
+                  (iii)
+                  Status of Parties.  The other party is not acting as a
+                  fiduciary for or an adviser to it in respect of that
+                  Transaction.
+
+
+            (b)
+            The additional representation shall be given by Morgan only:
+
+
+      (i)
+      Pari Passu. Its obligations under this Agreement rank equal and
+      ratably with all of its other unsecured, unsubordinated obligations
+      except those obligations preferred by operation of law.
+
+
+      (9)
+      Amendment to Section 9(b) of the Agreement.  Section 9(b) of the
+      Agreement is amended by adding the following sentence immediately
+      following the end of the first sentence thereof:
+
+
+            In addition, no amendment modification or waiver in respect of
+            this Agreement will be effective unless the Rating Agency
+            Condition is satisfied.
+
+
+      (10)
+      Set-off.  Notwithstanding any provision of this Agreement or any
+      other existing or future agreement, but subject to Section 2(c),
+      Section 6 and Part 6(3)(viii) of this Schedule a, each party
+      irrevocably waives any and all rights it may have to set off, net,
+      recoup or otherwise withhold or suspend or condition payment or
+      performance of any obligation between it and the other party
+      hereunder against any obligation between it and the other party under
+      any other agreements.  The provisions for Set-off set forth in
+      Section 6(e) of the Agreement shall not apply to this Agreement.
+
+
+      (11)
+      Amendment to Section 6(e) of the Agreement.  Section 6(e) of the
+      Agreement is amended by deleting the last sentence of the
+      introductory paragraph thereof.
+
+
+      (12)
+      Modification to Definition of Indemnifiable Tax. Notwithstanding the
+      definition of Indemnifiable Tax in Section 14, in relation to
+      payments by Morgan, any Tax shall be an Indemnifiable Tax, and in
+      relations to payments by the Counterparty, no Tax shall be an
+      Indemnifiable Tax. For the avoidance of doubt, the foregoing sentence
+      shall not by itself modify either party's right to terminate a
+      Transaction based on the occurrence of a Tax Event or a Tax Event
+      Upon Merger.
+
+
+      (13)
+      Waiver of Tax Confidentiality.  Notwithstanding anything herein to
+      the contrary, any party subject to confidentiality obligations
+      hereunder or under any other related document (and any employee,
+      representative or other agent of such party) may disclose to any and
+      all persons, without limitation of any kind, the U.S. federal income
+      tax treatment and the U.S. federal income tax structure of the
+      transactions contemplated hereby and all materials of any kind
+      (including opinions or other tax analyses) that are provided to it
+      relating to such tax treatment and tax structure.  However, no such
+      party shall disclose any information relating to such tax treatment
+      or tax structure to the extent nondisclosure is reasonably necessary
+      in order to comply with applicable securities laws.
+
+
+      (14)
+      Rating Agency Notifications. Notwithstanding any other provision of
+      this Agreement, this Agreement shall not be amended, no Early
+      Termination Date shall be effectively designated by the Counterparty,
+      and no transfer of any rights or obligations under this Agreement
+      shall be made (other than a transfer of all of Morgans rights and
+      obligations with respect to this Agreement in accordance with Part
+      6(2)(A) below) unless Moodys and S&P have each been given prior
+      written notice of such amendment, designation or transfer.
+
+
+Part 6
+
+Downgrade Provisions; Transfer; Payments on Early Termination;
+
+
+      (1)
+      Ratings Downgrade Provisions.
+
+
+Following the occurrence of a Ratings Event I and/or a Ratings Event II, 
+for as long as such Ratings Event I or Ratings Event II is continuing, the 
+parties shall comply with the following provisions, as applicable.
+
+
+            I.
+            Ratings Event I:
+
+
+            A.
+            Actions upon Ratings Event 1:  Not later than:
+
+
+                  (i)
+                  30 calendar days in the case of a Ratings Event I with
+                  respect to Moodys only; and
+
+
+                  (ii)
+                  ten Business Days in the case of a Ratings Event I with
+                  respect to S&P:
+
+
+      after a Ratings Event I has occurred and is continuing, Morgan shall,
+      at its own expense deliver Eligible Collateral to Counterparty in
+      accordance with the terms of the Approved Credit Support Document
+      and, following such delivery, maintain Eligible Collateral as
+      required under the Approved Credit Support Document;
+
+
+      Morgans obligations under this Part 6(1)(I) shall cease, solely with
+      respect to such occurrence, if (A) there is no Ratings Event I or (B)
+      Morgan has, at its own expense, either provided an Eligible Guarantee
+      in respect of all Morgans present and future obligations under this
+      Agreement or transferred its rights and obligations pursuant to a
+      Qualifying Novation in accordance with the terms of this Schedule.
+
+
+            B.
+            Eligible Guarantee or Eligible Replacement below Ratings Event
+            I Levels
+
+
+      If a Qualifying Novation is made to an Eligible Replacement or an
+      Eligible Guarantee is provided and, immediately after the execution
+      of such Qualifying Novation or Eligible Guarantee (as applicable),
+      there is a Ratings Event I, then (so long as such Ratings Event I is
+      continuing) Part 6(1)(I.A.) above shall apply without regard to the
+      30 calendar day time (or 10 Business Day) period referred to therein.
+
+
+            II.
+            Ratings Event II
+
+
+            A.
+            Actions upon Ratings Event II
+
+
+If a Ratings Event II has occurred and is continuing, the following shall 
+occur.
+
+
+      Morgan shall, at its own expense, use commercially reasonable efforts
+      to, as soon as reasonably practicable (and, in the case of a Ratings
+      Event II with respect to S&P only, within 60 calendar days):
+
+
+            (A) provide, or cause to be provided, an Eligible Guarantee to
+            Counterparty in respect of all Morgans present and future
+            obligations under this Agreement;
+
+
+            or
+
+
+            (B) transfer Morgans rights and obligations under the
+            Agreement and all Confirmations pursuant to a Qualifying
+            Novation.
+
+
+      If, immediately prior to such Ratings Event II, Morgan is required to
+      deliver and maintain Eligible Collateral following a Ratings Event I,
+      Morgan shall continue to maintain Eligible Collateral under the
+      Approved Credit Support Document.
+
+
+            If, immediately prior to such Ratings Event II, Morgan is not
+            required to deliver and maintain Eligible Collateral following
+            a Ratings Event I, then Morgan shall post Eligible Collateral,
+            within ten Business Days following a Ratings Event II with
+            respect to S&P, in accordance with the terms of the Approved
+            Credit Support Document until Morgan has provided an Eligible
+            Guarantee in respect of all Morgans present and future
+            obligations under this Agreement or transferred its rights and
+            obligations pursuant to a Qualifying Novation in accordance
+            with terms of this Schedule. In addition, Morgan shall continue
+            to use commercially reasonable efforts to either transfer its
+            rights and obligations pursuant to a Qualifying Novation or to
+            provide an Eligible Guarantee in accordance with terms of this
+            Schedule.
+
+
+      Morgans obligations under this Part 6(1)II shall cease, solely with
+      respect to such occurrence, if (A) there is no Rating Events II or
+      (B) Morgan has either provided an Eligible Guarantee in respect of
+      all Morgans present and future obligations under this Agreement or
+      transferred its rights and obligations pursuant to a Qualifying
+      Novation, in either case in accordance with the terms of this
+      Schedule.
+
+
+            B.
+            Ratings Event II Event of Default/Additional Termination Event
+
+
+      Failure by Morgan to comply with the requirement of this Part 6(1)II
+      to use commercially reasonable efforts to obtain an Eligible
+      Guarantee in respect of all Morgans present and future obligations
+      under this Agreement or Qualifying Novation shall constitute an Event
+      of Default with respect to Morgan.
+
+
+      If Morgan has not, within 10 Business Days of the occurrence of a
+      Ratings Event II (or 60 calendar days in the case of a Ratings Event
+      II with respect to S&P only), obtained an Eligible Guarantee in
+      respect of all Morgans present and future obligations under this
+      Agreement or effected a Qualifying Novation, and such Ratings Event
+      II is continuing, it shall constitute an Additional Termination Event
+      in respect of which Morgan is the sole Affected Party and all
+      Transactions are Affected Transactions; provided that where there is
+      a Ratings Event II with respect to Moodys only, it will only
+      constitute an Additional Termination Event if one or more Eligible
+      Replacements has made a Firm Offer (in response to solicitation
+      either by Morgan or the Counterparty) to be the transferee of a
+      transfer pursuant to a Qualifying Novation and/or (b) at least one
+      entity has made a Firm Offer to provide an Eligible Guarantee in
+      respect of all Morgans present and future obligations under this
+      Agreement.
+
+
+      Failure by Morgan to post or maintain Eligible Collateral in
+      accordance with the Approved Credit Support Document shall be an
+      Event of Default under Section 5(a)(iii).
+
+
+            III.
+            Definitions
+
+
+      As used herein:
+
+
+       Approved Credit Support Document means the 1994 ISDA Credit
+      Support Annex (ISDA Agreements Subject to New York Law Only), as
+      modified by the Paragraph 13 thereto, in the form annexed hereto. An
+      Approved Credit Support Document will be executed and delivered
+      contemporaneously with this Agreement.
+
+
+      Business Day shall have the meaning given to this term in the
+      Confirmation.
+
+
+      Eligible Guarantee means an unconditional and irrevocable guarantee
+      that is provided by a guarantor as principal debtor rather than as
+      surety and directly enforceable by the Counterparty and that meets
+      the following conditions:
+
+
+                  1.
+                  either (A) a law firm has given a legal opinion
+                  confirming that none of the guarantors payments to the
+                  Counterparty will be subject to withholding tax or (B)
+                  such guarantee provides that, in the event that any of
+                  such guarantors payments to the Counterparty are subject
+                  to withholding for tax, such guarantor is required to pay
+                  such additional amount as is necessary to ensure that the
+                  net amount actually received by the Counterparty will
+                  equal the full amount the Counterparty would have
+                  received had no such withholding been required; and
+
+
+                  2.
+                  the guarantor must meet the Ratings Event I Required
+                  Ratings and/or Ratings Event II Required Ratings in each
+                  case certified by such guarantor to Counterparty,
+                  provided that if such guarantor does not meet the Ratings
+                  Event I Required Ratings, such guarantee shall not be an
+                  Eligible Guarantee unless either the guarantor or Morgan
+                  delivers Eligible Collateral in accordance with the
+                  Approved Credit Support Document at the time such
+                  Eligible Guarantee is provided; and
+
+
+                  3.
+                  the Rating Agency Condition has been met with respect to
+                  S&P.
+
+
+      Eligible Replacement means (i) an entity that satisfies the Ratings
+      Event I Required Ratings and/or the Ratings Event II Required Ratings
+      in each case certified by Morgan to Counterparty or (ii) an entity
+      whose present and future obligations owing to the Counterparty are
+      guaranteed pursuant to an Eligible Guarantee by a guarantor that
+      satisfies the Ratings Event I Required Ratings and/or Ratings Event
+      II Required Ratings in each case certified by such guarantor to
+      Counterparty.
+
+
+      Financial Institution means a bank, broker-dealer, insurance
+      company, structured investment company, or derivatives product
+      company.
+
+
+      Firm Offer means an offer which, when made, was capable of becoming
+      legally binding upon acceptance.
+
+
+      Indenture means the Indenture dated as of the date hereof, between
+      Counterparty, as issuer and Citibank, N.A., as indenture trustee.
+
+
+      Moodys means Moodys Investors Service, Inc. or any successor
+      thereto.
+
+
+      Qualifying Novation means a transfer of all rights and obligations
+      of Morgan under all Transactions that are the subject of this
+      Agreement (which may include a transfer of this Agreement) to an
+      Eligible Replacement that is party to a Replacement Agreement with
+      the Counterparty that meets the following conditions:
+
+
+                  1.
+                  if the Eligible Replacement does not meet the Ratings
+                  Event I Required Ratings, such Eligible Replacement
+                  delivers Eligible Collateral in accordance with the
+                  Approved Credit Support Document at the time of such
+                  Qualifying Novation; and
+
+
+                  2.
+                  if the Replacement Agreement is this Agreement, prior
+                  notice is given to S&P; and
+
+
+                  3.
+                  if the Replacement Agreement is not this Agreement, the
+                  Rating Agency Condition is met with respect to S&P.
+
+
+      Rating Agencies means S&P and Moodys.
+
+
+      Rating Agency Condition means, with respect to any particular
+      proposed act or omission to act hereunder that the party acting or
+      failing to act must consult with each of the Rating Agencies (unless
+      otherwise specified) then providing a rating of the Certificates and
+      receive from each Rating Agency a prior written confirmation that the
+      proposed action or inaction would not cause a downgrade or withdrawal
+      of the then-current rating of the Certificates.
+
+
+      Ratings Event I shall occur with respect to S&P or Moodys if no
+      Relevant Entity has the Ratings Event I Required Ratings as specified
+      under paragraph (a), (b) or (c) thereof, as applicable.
+
+
+      An entity will have Ratings Event I Required Ratings (a) with
+      respect to Moodys, (i) if such entity is the subject of Moodys
+      Short-term Rating, such rating is  Prime-1 and its long-term,
+      unsecured and unsubordinated debt obligations are rated A2 or above
+      by Moodys and (ii) if such entity is not the subject of a Moodys
+      Short-term Rating, its long-term, unsecured and unsubordinated debt
+      obligations are rated A1 or above by Moodys and (b) with respect
+      to S&P, applying only if an entity is a Financial Institution, (i) if
+      the S&P short-term senior unsecured debt rating of such entity is A-1
+      or above or (ii) if such entity is not the subject of an S&P
+      short-term rating, if its long-term senior unsecured debt rating is
+      A+ or above.
+
+
+      Ratings Event II shall occur with respect to S&P or Moodys if no
+      Relevant Entity has the Ratings Event II Required Ratings under
+      paragraph (a) or (b) thereof, as applicable.
+
+
+      An entity will have Ratings Event II Required Ratings (a) with
+      respect to Moodys, (i) if such entity is the subject of a Moodys
+      Short-term Rating, if such rating is Prime-2 or above and its
+      long-term, unsecured and unsubordinated debt obligations are rated
+      A3 or above by Moodys and (ii) if such entity is not the subject a
+      Moodys Short-term Rating, if its long-term, unsecured and
+      unsubordinated debt obligations are rated A3 by Moodys or (b) with
+      respect to S&P, (i) in respect of an entity that is a Financial
+      Institution, if the S&P short-term senior unsecured debt rating of
+      such entity is A-2 or above, or, in case such entity is not the
+      subject of an S&P short-term rating, if its long-term senior
+      unsecured S&P debt rating is BBB+ or above, or (ii) in respect of an
+      entity that is not a Financial Institution, if the S&P short-term
+      senior unsecured debt rating of such entity is A-1 or above, or, in
+      case such entity is not the subject of an S&P short-term rating, if
+      its long-term senior unsecured S&P debt rating is A+ or above.
+
+
+      Relevant Entity means Morgan or any guarantor, or a counterparty
+      that replaces Morgan or such counterpartys guarantor under an
+      Eligible Guarantee in respect of all Morgan's present and future
+      obligations under this Agreement.
+
+
+      Replacement Agreement means either (i) this Agreement, if this
+      Agreement is transferred to an Eligible Replacement in the course of
+      a Qualifying Novation or (ii) an agreement on substantially the same
+      terms as this Agreement, including ratings triggers, credit support
+      documentation and other provisions of this Agreement.
+
+
+      S&P means by Standard & Poors Ratings Service or any successor
+      thereto.
+
+
+      (2)
+      Amendment to Section 7 of the Agreement.
+
+
+      The following provisions shall be added to the end of Section 7:
+
+
+      A.
+      Qualifying Novations
+
+
+            I.  The Counterparty shall determine whether or not a transfer
+            is a Qualifying Novation which shall be deemed upon receipt of
+            evidence that the Rating Agency Condition has been met.
+
+
+            II.  If an entity has made a Firm Offer (which remains capable
+            of becoming legally binding upon acceptance) to be the
+            transferee of a Qualifying Novation, the Counterparty shall at
+            Morgans written request and cost execute any documentation
+            Morgan deems necessary to effect such transfer and take such
+            action as required pursuant to this Agreement.
+
+
+            III.  No consent from the Counterparty is required for a
+            transfer that is a Qualifying Novation and is required pursuant
+            to Part 6(1) above.
+
+
+      B.
+      Other Transfers
+
+
+      Transfers other than Qualifying Novations or transfers under Section
+      7(a) of this Agreement shall be effective only if Rating Agency
+      Condition has been met.
+
+
+      (3)
+      Termination Amounts
+
+
+      Notwithstanding Section 6 of this Agreement, so long as Morgan is (A)
+      the Affected Party in respect of a Termination Event or (B) the
+      Defaulting Party in respect of any Event of Default, paragraphs (i)
+      to (viii) below shall apply:
+
+
+            (i)
+            The Counterparty shall not designate as an Early Termination
+            Date a date earlier than 10 Business Days after the notice
+            designating such Early Termination Date becomes effective.
+
+
+            (ii)
+            The definition of Market Quotation shall be deleted in its
+            entirety and replaced with the following:
+
+
+            Market Quotation means, with respect to one or more
+            Terminated Transactions, a Firm Offer (which may be solicited
+            by either the Counterparty or Morgan) which is (1) made by a
+            Reference Market-maker that is an Eligible Replacement, (2) for
+            an amount that would be paid to the Counterparty (expressed as
+            a negative number) or by the Counterparty (expressed as a
+            positive number) in consideration of an agreement between
+            Counterparty and such Reference Market-maker to enter into a
+            transaction (the Replacement Transaction) that would have the
+            effect of preserving for such party the economic equivalent of
+            any payment or delivery (whether the underlying obligation was
+            absolute or contingent and assuming the satisfaction of each
+            applicable condition precedent) by the parties under Section
+            2(a)(i) in respect of such Terminated Transactions that would,
+            but for the occurrence of the relevant Early Termination Date,
+            have been required after that date, (3) made on the basis that
+            Unpaid Amounts in respect of the Terminated Transactions are to
+            be excluded but, without limitation, any payment or delivery
+            that would, but for the relevant Early Termination Date, have
+            been required (assuming satisfaction of each applicable
+            condition precedent) after that Early Termination Date is to be
+            included and (4) made in respect of a Replacement Transaction
+            with terms substantially the same as those of this Agreement
+            (save for the exclusion of provisions relating to Transactions
+            that are not Terminated Transactions).
+
+
+            (iii)
+            The definition of Settlement Amount shall be deleted in its
+            entirety and replaced with the following:
+
+
+            Settlement Amount means, with respect to any Early
+            Termination Date, an amount (as determined by the Counterparty)
+            equal to the Termination Currency Equivalent of the amount
+            (whether positive or negative) of any Market Quotation for the
+            relevant Terminated Transaction or group of Terminated
+            Transactions that is accepted by the Counterparty so as to
+            become legally binding, provided that:
+
+
+                  (a)
+                  If, on or before the day falling ten Local Business Days
+                  after the day on which the Early Termination Date is
+                  designated or such later day as Counterparty may specify
+                  in writing to Morgan, (but in either case no later than
+                  the Early Termination Date) (such day, the Latest
+                  Settlement Amount Determination Date), no Market
+                  Quotation for the relevant Terminated Transaction or
+                  group of Terminated Transactions has been accepted by
+                  Counterparty so as to become legally binding and one or
+                  more Market Quotations have been made and remain capable
+                  of becoming legally binding upon acceptance, the
+                  Settlement Amount shall equal the Termination Currency
+                  Equivalent of the amount (whether positive or negative)
+                  of the lowest of such Market Quotation; or
+
+
+                  (b)
+                  If on the Latest Settlement Amount Determination Date no
+                  Market Quotation for the relevant Terminated Transaction
+                  or group of Terminated Transactions is accepted by the
+                  Counterparty so as to become legally binding and no
+                  Market Quotations have been made and remain capable of
+                  becoming legally binding upon acceptance, the Settlement
+                  Amount shall equal the Counterpartys Loss (whether
+                  positive or negative and without reference to any Unpaid
+                  Amounts) for the relevant Terminated Transaction or group
+                  of Terminated Transactions.
+
+
+            (iv)
+            For the purpose of paragraph (4) of the definition of Market
+            Quotation, the Counterparty shall determine whether a Firm
+            Offer is made in respect of a Replacement Transaction with
+            commercial terms substantially the same as those of this
+            Agreement which shall be deemed upon receipt of evidence that
+            the Rating Agency Condition has been met (save for the
+            exclusion of provisions relating to Transactions that are not
+            Terminated Transactions).
+
+
+            (v)
+            At any time on or before the Latest Settlement Amount
+            Determination Day at which two or more Market Quotations remain
+            capable of becoming legally binding upon acceptance, the
+            Counterparty shall be entitled to accept only the lowest of
+            such Market Quotations.
+
+
+            (vi)
+            If the Counterparty requests Morgan in writing to obtain Market
+            Quotations, Morgan shall use its reasonable efforts to do so on
+            or before the Latest Settlement Amount Determination Day.
+
+
+            (vii)
+            Morgan may also elect to obtain Market Quotations without a
+            request from the Counterparty.
+
+
+            (viii)
+            If the Settlement Amount is a negative number, Section
+            6(e)(i)(3) of this Agreement shall be deleted in its entirety
+            and replaced with the following:
+
+
+            Second Method and Market Quotation. If Second Method and
+            Market Quotation apply, (1) the Counterparty shall pay to
+            Morgan an amount equal to the absolute value of the Settlement
+            Amount in respect of the Terminated Transactions, (2) the
+            Counterparty shall pay to Morgan the Termination Currency
+            Equivalent of the Unpaid Amounts owing to Morgan and (3) Morgan
+            shall pay to the Counterparty the Termination Currency
+            Equivalent of the Unpaid Amounts owing to the Counterparty,
+            provided that, (i) the amounts payable under (2) and (3) shall
+            be subject to netting in accordance with Section 2(c) of this
+            Agreement and (ii) notwithstanding any other provision of this
+            Agreement, any amount payable by Morgan under (3) shall not be
+            netted-off against any amount payable by the Counterparty under
+            (1).
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+Please confirm your agreement to the terms of the foregoing Schedule by 
+signing below.
+
+
+JPMORGAN CHASE BANK, N.A.
+
+
+
+
+By:_____/s/ Dmitry V. Yakimchuk_______
+Name: Dmitry V. Yakimchuk
+Title:    Vice President
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+Please confirm your agreement to the terms of the foregoing Schedule by 
+signing below.
+
+
+BMW VEHICLE LEASE TRUST 2007-1
+
+
+                                          By:
+                                          Wilmington Trust Company,
+                                          not in its individual capacity
+                                          but solely as Owner Trustee
+
+
+By:_____/s/ Erik E. Overcash_______
+Name: Erik E. Overcash
+                                       Title:   Financial Services Officer
+
+
+
+------------------------------------------------------------------------
+
+
+ANNEX A
+
+
+
+
+PARAGRAPH 13 TO
+CREDIT SUPPORT ANNEX
+
+
+to the Schedule to the
+Master Agreement
+
+
+dated as of November 2, 2007
+
+
+between
+
+
+JPMorgan Chase Bank, N.A.
+(Morgan)
+and
+BMW Vehicle Lease Trust 2007-1
+(Counterparty)
+
+Paragraph 13. Elections and Variables
+
+
+(a)
+Security Interest for Obligations.  The term Obligations as used in 
+this Annex includes no additional obligations with respect to either party.
+
+
+(b)
+Credit Support Obligations.
+
+
+            (i)
+            Delivery Amount, Return Amount and Credit Support Amount.
+
+
+                  (A)
+                  Delivery Amount shall mean the greater of (i) the
+                  amount by which the S&P Independent Amount exceeds the
+                  Value as of that Valuation Date of all Posted Credit
+                  Support held by the Secured Party using the S&P Valuation
+                  Percentage and (ii) the amount by which the Moody's
+                  Independent Amount exceeds the Value as of that Valuation
+                  Date of all Posted Credit Support held by the Secured
+                  Party using the Moody's Valuation Percentage.  The words
+                  in paragraph 3(a) upon a demand made by the Transferee
+                  on or promptly following a Valuation Date shall be
+                  deleted and replaced by the words on each Valuation
+                  Date.
+
+
+                  (B)
+                  Return Amount shall mean the lesser of (i) the amount
+                  by which the Value as of that Valuation Date of all
+                  Posted Credit Support held by the Secured Party using the
+                  S&P Valuation Percentage exceeds the S&P Independent
+                  Amount  and  (ii) the amount by which the Value as of
+                  that Valuation Date of all Posted Credit Support held by
+                  the Secured Party using the Moodys Valuation Percentage
+                  exceeds the Moodys Independent Amount.
+
+
+                  (C)
+                  Credit Support Amount shall mean the Independent
+                  Amount.
+
+
+            (ii)
+            Eligible Collateral.  With respect to Moodys, the items
+            specified on Appendix A attached hereto will qualify as
+            Eligible Collateral with the lower of the specified Valuation
+            Percentages to apply.  With respect to S&P, the items specified
+            on Appendix D attached hereto will qualify as Eligible
+            Collateral.
+
+
+            Any asset that is not identified herein as being Eligible
+            Collateral with respect to a Rating Agency will, with respect
+            to that Rating Agency, have a Valuation Percentage of zero.
+
+
+            (iii)
+            Other Eligible Support.  There shall be no Other Eligible
+            Support for purposes of this Annex, unless agreed in writing
+            between the parties.
+
+
+            (iv)
+            Thresholds.
+
+
+                  (A)
+                  Independent Amount shall mean the greater of (i) the
+                  S&P Independent Amount and (ii) the Moodys Independent
+                  Amount.
+
+
+                  (B)
+                  Threshold means with respect to Morgan: infinity, 
+                  provided that if delivery of Eligible Collateral is
+                  required following a Ratings Event I or a Ratings Event
+                  II pursuant to the Schedule, the Threshold shall be zero.
+
+
+                  Threshold means with respect to Counterparty: 
+                  infinity.
+
+
+                  (C)
+                  Minimum Transfer Amount, with respect to a party on any
+                  Valuation Date, means U.S. $100,000 (unless the notional
+                  amount is less than U.S. $50,000,000, in which case  the
+                  Minimum Transfer Amount shall be U.S.$50,000).
+
+
+                  (D)
+                  Rounding.  The Delivery Amount, rounded up, and with
+                  respect to the Return Amount, rounded down, to the
+                  nearest integral multiple of $1,000 respectively.
+
+
+                  (E)
+                  Exposure has the meaning specified in Paragraph 12,
+                  except that after the word Agreement the words
+                  (assuming , for this purpose only, that Part 6(3) of the
+                  Schedule is deleted) shall be inserted and (2) on the
+                  last line of the definition of Exposure, the words with
+                  terms substantially the same as those of this Agreement
+                  after the words Replacement Transaction.
+
+
+(c)
+Valuation and Timing.
+
+
+            (i)
+            Valuation Agent means Morgan; provided, however, that if an
+            Event of Default shall have occurred with respect to which
+            Morgan is the Defaulting Party, Counterparty shall have the
+            right to designate as Valuation Agent an independent party,
+            reasonably acceptable to Morgan, the cost of which shall be
+            borne by Morgan.  The Valuation Agents calculations shall be
+            made in accordance with standard market practices using
+            commonly accepted third party sources such as Bloomberg or
+            Reuters.
+
+
+            (ii)
+            Valuation Date means weekly on the last Local Business Day of
+            each week.
+
+
+            (iii)
+            Valuation Time means the close of business in the city of the
+            Valuation Agent on the Valuation Date or date of calculation,
+            as applicable.
+
+
+            (iv)
+            Notification Time means 12:00 p.m., New York time, on a Local
+            Business Day.
+
+
+(d)
+Conditions Precedent.  Not applicable.
+
+
+(e)
+Substitution.
+
+
+            (i)
+            Substitution Date has the meaning specified in Paragraph
+            4(d)(ii).
+
+
+            (ii)
+            Consent.  Inapplicable.
+
+
+(f)
+Dispute Resolution.
+
+
+            (i)
+            Resolution Time means 1:00 p.m., New York time, on the Local
+            Business Day following the date on which the notice is given
+            that gives rise to a dispute under Paragraph 5.
+
+
+            (ii)
+            Value.  For the purposes of Paragraphs 5(i)(C) and 5(ii), the
+            Value of Posted Credit Support other than Cash will be
+            calculated as follows:
+
+
+                  (A)
+                  with respect to any Eligible Collateral except Cash, the
+                  sum of (I) (x) the mean of the high bid and low asked
+                  prices quoted on such date by any principal market maker
+                  for such Eligible Collateral chosen by the Disputing
+                  Party, or (y) if no quotations are available from a
+                  principal market maker for such date, the mean of such
+                  high bid and low asked prices as of the first day prior
+                  to such date on which such quotations were available,
+                  plus (II) the accrued interest on such Eligible
+                  Collateral (except to the extent Transferred to a party
+                  pursuant to any applicable provision of this Agreement or
+                  included in the applicable price referred to in (I) of
+                  this clause (A)) as of such date; multiplied by the
+                  applicable Valuation Percentage.
+
+
+            (iii)
+            Alternative.  The provisions of Paragraph 5 will apply.
+
+
+(g)
+Holding and Using Posted Collateral.
+
+
+            (i)
+            Eligibility to Hold Posted Collateral; Custodians. 
+            Counterparty and its Custodian will be entitled to hold Posted
+            Collateral pursuant to Paragraph 6(b); provided that the
+            following conditions applicable to it are satisfied:
+
+
+                  (1)
+                  Counterparty is not a Defaulting Party; and
+
+
+                  (2)
+                  Posted Collateral may be held only in the following
+                  jurisdictions:
+
+
+                  New York State or such other state in the United States
+                  in which the Counterparty is located; and
+
+
+                  (3)
+                  the account is segregated from all other accounts held by
+                  the Counterparty and its Custodian.
+
+
+                  (4)
+                  Counterparty may appoint as Custodian (A) the entity then
+                  serving as indenture trustee under the Indenture or (B)
+                  any other entity if such entity (or, to the extent
+                  applicable, the parent company or credit support
+                  provider) shall have a long-term senior unsecured debt
+                  rating by S&P of at least A or a short-term senior
+                  unsecured debt rating of at least A-1 by S&P.  If a
+                  Custodian ceases to have the required ratings then a
+                  replacement Custodian satisfying the ratings requirements
+                  must be in place within 60 calendar days of the date on
+                  which the original Custodian ceased to satisfy the
+                  ratings requirements.
+
+
+            Initially, the Custodian for Counterparty is: None
+
+
+            (ii)
+            Use of Posted Collateral.  The provisions of Paragraph 6(c)(i)
+            will not apply to Counterparty but the provisions of Paragraph
+            6(c)(ii) will apply to the Counterparty.
+
+
+(h)
+Distributions and Interest Amount.
+
+
+            (i)
+            Interest Rate.  Interest Rate will be the annualized rate of
+            return actually achieved on the Posted Collateral in the form
+            of Cash during the related posting period.
+
+
+            (ii)
+            Transfer of Interest Amount.  The Transfer of the Interest
+            Amount will be made monthly on the second Local Business Day of
+            each calendar month;  provided that the Counterparty shall not
+            be obliged to so transfer any Interest Amount unless and until
+            it has earned and received such interest.
+
+
+            (iii)
+            Alternative to Interest Amount.  The provisions of Paragraph
+            6(d)(ii) will apply.
+
+
+(i)
+Additional Representation(s).  Not Applicable.
+
+
+(j)
+Other Eligible Support and Other Posted Support.
+
+
+            (i)
+            Value with respect to Other Eligible Support and Other Posted
+            Support means: Not Applicable.
+
+
+            (ii)
+            Transfer with respect to Other Eligible Support and Other
+            Posted Support means: Not Applicable
+
+
+(k)
+Demands and Notices.
+
+
+All demands, specifications and notices under this Annex will be made 
+pursuant to the Notices Section of this Agreement, unless otherwise 
+specified here:
+
+
+      Counterparty:
+
+
+      BMW Vehicle Lease Trust 2007-1
+      c/o Wilmington Trust Company, as the Owner Trustee
+      Rodney Square North
+      1100 North Market Street
+      Wilmington, Delaware 19890-1600
+
+
+With a copy to:
+
+
+      BMW Financial Services NA, LLC
+      300 Chestnut Ridge Road
+      Woodcliff Lake, New Jersey 07677
+      Attention:  General Counsel
+
+
+Morgan:
+
+
+      JPMorgan Chase Bank, N.A.
+      Attention:  Legal Department-Derivatives Practice Group
+      270 Park Avenue, 41st Floor
+      New York, New York  10017-2070
+      Telex No.: 232337; Answerback:  CBC UR
+
+
+(l)
+Addresses for Transfers.
+
+
+Counterparty: as set forth in notices to Morgan from time to time
+
+
+Morgan:
+
+
+      JPMorgan Chase Bank, N.A.
+      Attention:  Legal Department-Derivatives Practice Group
+      270 Park Avenue, 41st Floor
+      New York, New York  10017-2070
+      Telex No.: 232337; Answerback:  CBC UR
+
+
+(m)
+Morgan as Pledgor and Counterparty as Secured Party.
+
+
+            (i)
+            Modification to Paragraph 1: The following subparagraph (b) is
+            substituted for subparagraph (b) of this Annex:
+
+
+            (b)  Secured Party and Pledgor.  All references in this Annex
+            to the Secured Party will be to Counterparty and all
+            corresponding references to the Pledgor will be to Morgan.
+
+
+            (ii)
+            Modification to Paragraph 2:  The following Paragraph 2 is
+            substituted for Paragraph 2 of this Annex:
+
+
+            Paragraph 2.  Security Interest.  The Pledgor hereby pledges to
+            the Secured Party, as security for its Obligations, and grants
+            to the Secured Party a first priority continuing security
+            interest in, lien on and right of Set-Off against all Posted
+            Collateral Transferred to or received by the Secured Party
+            hereunder.  Upon the Transfer by the Secured Party to the
+            Pledgor of Posted Collateral, the security interest and lien
+            granted hereunder on that Posted Collateral will be released
+            immediately and, to the extent possible, without any further
+            action by either party.
+
+
+            (iii)
+            Modification to Paragraph 9:  The following first clause of
+            Paragraph 9 is substituted for the first clause of Paragraph 9
+            of this Annex:
+
+
+            Paragraph 9.  Representations.  The Pledgor represents to the
+            Secured Party (which representations will be deemed to be
+            repeated as of each date on which it Transfers Eligible
+            Collateral) that:
+
+
+            (iv)
+            Modification to Paragraph 10:  Clauses 10(a) and 10(b) are
+            amended by adding the following sentence to the end of that
+            paragraph:
+
+
+                  Notwithstanding the preceding sentence, the Pledgor
+                  shall pay all reasonable costs incurred by the Secured
+                  Party in connection with any exchange pursuant to this
+                  Credit Support Annex.
+
+
+            (v)
+            Modifications to Paragraph 12:  The following definitions of
+            Pledgor and Secured Party are substituted for the
+            definitions of those terms contained in Paragraph 12 of this
+            Annex:
+
+
+            Pledgor means Morgan.
+
+
+            Secured Party means Counterparty.
+
+
+(n)
+Independent Amounts
+
+
+            (i)
+            Addition to Paragraph 12: The S&P Independent Amount means,
+            for any Valuation Date, the greater of (a) zero and (b) the
+            product of (x) Exposure times (y) the Collateralization Factor 
+            times (z) the applicable Overcollateralization Rate or weighted
+            average Overcollateralization Rate if there are more than one
+            item of Eligible Collateral to be Transferred.
+
+
+            For purposes of the foregoing:
+
+
+                  Collateralization Factor means (i)  if a Ratings Event
+                  I with respect to S&P has occurred and is continuing, but
+                  a Ratings Event II with respect to S&P has not occurred
+                  (or is no longer continuing), 100% and (ii) if a Ratings
+                  Event II with respect to S&P has occurred and has been
+                  continuing for ten Business Days 125%; and
+
+
+                  Overcollateralization Rate means, with respect to an
+                  item of Eligible Collateral to be Transferred (i)  if a
+                  Ratings Event I with respect to S&P has occurred and is
+                  continuing, but a Ratings Event II with respect to S&P
+                  has not occurred (or is no longer continuing), the Base
+                  Overcollateralization Rate specified opposite the name of
+                  that item of Eligible Collateral in Appendix D and (ii)
+                  if a Ratings Event II with respect to S&P has occurred
+                  and has been continuing for ten Business Days, the
+                  product of the Base Overcollateralization Rate specified
+                  opposite the name of that item of Eligible Collateral in
+                  Appendix D times 125%.  If more than one item of Eligible
+                  Collateral is to be transferred then the
+                  Overcollateralization Rate will be determined on a
+                  weighted average basis using the Overcollateralization
+                  Rate applicable to each item of Eligible Collateral that
+                  is to be Transferred.
+
+
+            (ii)
+            Addition to Paragraph 12: The Moodys Independent Amount
+            means,
+
+
+                  (i) for so long as the no Ratings Event I has occurred
+                  and is continuing, zero;
+
+
+                  (ii) If a Ratings Event I with respect to Moodys has
+                  been continuing for at least 30 Business Days and either:
+
+
+                        (a)
+                        no Ratings Downgrade Event II with respect to
+                        Moodys has occurred and is continuing; or
+
+
+                        (b)
+                        a Ratings Downgrade Event II with respect to
+                        Moodys has been continuing for less than 30
+                        Business Days, the Ratings Event I Collateral
+                        Amount specified in Appendix B hereto; and
+
+
+                  (iii) If neither (i) nor (ii) is applicable, the Ratings
+                  Event II Collateral Amount specified in Appendix C
+                  hereto.
+
+
+(o)
+Other Provisions
+
+
+            (i)
+            Modification to Paragraph 7: Clause (iii) of Paragraph 7
+            shall be deleted in its entirety.
+
+
+            (ii)
+            Modification to Paragraph 10: Clauses 10(a) and 10(b) are
+            amended by adding the following sentence to the end of that
+            paragraph:
+
+
+                  Notwithstanding the preceding sentence, the Pledgor
+                  shall pay all reasonable costs incurred by the Secured
+                  Party in connection with any exchange pursuant to this
+                  Credit Support Annex.
+
+
+            (iii)
+            Modification to Paragraph 12:  Clause (B) of the definition
+            of Value will be substituted to read in its entirety as
+            follows:
+
+
+                  (B) a security, the bid price obtained by the Valuation
+                  Agent from one of the Pricing Sources multiplied by the
+                  applicable Valuation Percentage, if any;
+
+
+            (iv)
+            Addition to Paragraph 12:  The following definition of Pricing
+            Sources shall be added immediately after the definition of the
+            term Posted Credit Support and immediately prior to the
+            definition of the term Recalculation Date in Paragraph 12 of
+            this Annex:
+
+
+            Pricing Sources means the sources of financial information
+            commonly known as Bloomberg, Bridge Information Services, Data
+            Resources Inc., Interactive Data Services, International
+            Securities Market Association, Merrill Lynch Securities Pricing
+            Service, Muller Data Corporation, Reuters, Wood Gundy, Trepp
+            Pricing, JJ Kenny, S&P and Telerate.
+
+
+            (v)
+            Morgan and Counterparty agree that the text of the body of this
+            Annex is intended to be the exact printed form of ISDA Credit
+            Support Annex (Bilateral Form-ISDA Agreements Subject to New
+            York Law Only) as published and Copyrighted by the
+            International Swaps and Derivatives Association, Inc.
+
+
+            (vi)
+            Notional Amount means, with regard to an interest rate swap,
+            the notional amount set forth in the confirmation thereof, and,
+            with respect to a currency swap, including a cross-currency
+            interest rate swap, the notional amount, as set forth in the
+            confirmation, of that leg of the transaction that is
+            denominated in the same currency as the relevant rated
+            Certificates.
+
+
+            (vii)
+            Transaction-Specific Hedge means (A) any Transaction that is
+            a cap, floor or swaption, or (B) any Swap Transaction in which
+            (x) the Notional Amount of the Transaction is balance
+            guaranteed or (y) the Notional Amount for any Calculation
+            Period otherwise is not a specific dollar amount that is fixed
+            at the inception of the Transaction.
+
+
+[Remainder of Page Intentionally Blank]
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+Accepted and Agreed:
+
+
+JPMORGAN CHASE BANK, N. A.
+
+
+
+
+
+
+By:_____/s/ Dmitry V. Yakimchuk_______
+Name: Dmitry V. Yakimchuk
+Title:    Vice President
+
+
+
+------------------------------------------------------------------------
+
+
+Accepted and Agreed:
+
+
+BMW VEHICLE LEASE TRUST 2007-1
+
+
+     By:  Wilmington Trust Company,
+     not in its individual capacity
+     but solely as Owner Trustee
+
+
+By:_____/s/ Erik E. Overcash_______
+Name: Erik E. Overcash
+Title:   Financial Services Officer
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+Appendix A
+Valuation Percentages
+Applicable if the rated Certificates issued by the Counterparty are U.S.$ 
+Denominated
+
+ 
+
+MOODYS RATINGS EVENT I
+MOODYS RATINGS EVENT II
+
+ 
+
+                   
+
+ 
+
+ 
+
+ 
+
+INSTRUMENT
+
+ 
+
+ 
+
+ 
+
+U.S. Dollar Cash
+100%
+100%
+
+ 
+
+EURO Cash
+97%
+93%
+
+ 
+
+Sterling Cash
+97%
+94%
+
+ 
+
+Fixed-Rate Negotiable Treasury Debt Issued by The U.S. Treasury Department 
+with Remaining Maturity
+<1 year
+100%
+100%
+
+ 
+
+1 to 2 years
+100%
+99%
+
+ 
+
+2 to 3 years
+100%
+98%
+
+ 
+
+3 to 5 years
+100%
+97%
+
+ 
+
+5 to 7 years
+100%
+95%
+
+ 
+
+7 to 10 years
+100%
+94%
+
+ 
+
+10 to 20 years
+100%
+89%
+
+ 
+
+>20 years
+100%
+87%
+
+ 
+
+Floating-Rate Negotiable Treasury Debt Issued by The U.S. Treasury 
+Department
+All Maturities
+100%
+99%
+
+ 
+
+Fixed-Rate U.S. Agency Debentures with Remaining Maturity
+<1 year
+100%
+99%
+
+ 
+
+1 to 2 years
+100%
+98%
+
+ 
+
+2 to 3 years
+100%
+97%
+
+ 
+
+3 to 5 years
+100%
+96%
+
+ 
+
+5 to 7 years
+100%
+94%
+
+ 
+
+7 to 10 years
+100%
+93%
+
+ 
+
+10 to 20 years
+100%
+88%
+
+ 
+
+>20 years
+100%
+86%
+
+ 
+
+Floating-Rate U.S. Agency Debentures 
+All Maturities
+100%
+98%
+
+ 
+
+Floating-Rate Euro-Zone Government Bonds Rated Aa3 or Above and AAA by S&P 
+with Remaining Maturity
+<1 year
+97%
+93%
+                              
+1 to 2 years
+97%
+92%
+
+ 
+
+2 to 3 years
+97%
+91%
+
+ 
+
+3 to 5 years
+97%
+89%
+
+ 
+
+5 to 7 years
+97%
+87%
+
+ 
+
+7 to 10 years
+97%
+86%
+
+ 
+
+10 to 20 years
+97%
+82%
+
+ 
+
+>20 years
+97%
+80%
+
+ 
+
+Floating-Rate Euro-Zone Government Bonds Rated Aa3 or Above
+All Maturities
+97%
+92%
+
+ 
+
+Fixed-Rate United Kingdom Gilts with Remaining Maturity
+<1 year
+97%
+93%
+
+ 
+
+1 to 2 years
+97%
+92%
+
+ 
+
+2 to 3 years
+97%
+91%
+
+ 
+
+3 to 5 years
+97%
+90%
+
+ 
+
+5 to 7 years
+97%
+89%
+
+ 
+
+7 to 10 years
+97%
+88%
+
+ 
+
+10 to 20 years
+97%
+84%
+
+ 
+
+>20 years
+97%
+82%
+
+ 
+
+Floating-Rate United Kingdom Gilts
+All Maturities
+97%
+93%
+
+ 
+
+
+For purposes of Appendix A:
+
+
+      (a) Agency Debentures means negotiable debt obligations which are
+      fully guaranteed as to both principal and interest by the Federal
+      National Mortgage Association, the Government National Mortgage
+      Association or the Federal Home Loan Mortgage Corporation, but
+      excluding (i) interest only and principal only securities and (ii)
+      Collateralized Mortgage Obligations, Real Estate Mortgage Investment
+      Conduits and similar derivative securities.
+
+
+
+
+------------------------------------------------------------------------
+
+
+Appendix B
+Ratings Event I Collateral Amounts
+
+
+The Ratings Event I Collateral Amount will be equal to the greater of (A) 
+zero and (B) the sum of (x) the Exposure and (y) the aggregate of the 
+Additional Ratings Event I Collateral Amounts for all Transactions.
+
+
+Additional Ratings Event I Collateral Amount means, for each Transaction, 
+the Notional Amount for such Transaction multiplied by the applicable 
+percentage as specified below.
+
+
+
+Potential Increase of Mid-Market Valuation of Swaps, Caps, Floors & 
+Transaction Specific Hedges
+
+
+Weighted Average
+Interest Rate Hedges
+Currency Hedges
+Life of Hedge
+in Years
+
+ 
+
+ 
+
+1 or less
+0.25%
+2.20%
+2  or more but less than 3
+0.50%
+2.40%
+3 or more but less than 4
+0.70%
+2.60%
+4 or more but less than 5
+1.00%
+2.80%
+5 or more but less than 6
+1.20%
+2.90%
+6 or more but less than 7
+1.40%
+3.10%
+7 or more but less than 8
+1.60%
+3.30%
+8 or more but less than 9
+1.80%
+3.40%
+9 or more but less than 10
+2.00%
+3.60%
+10 or more but less than 11
+2.20%
+3.80%
+11 or more but less than  12
+2.30%
+3.90%
+12 or more but less than 13
+2.50%
+4.00%
+13 or more but less than 14
+2.70%
+4.10%
+14 or more but less than 15
+2.80%
+4.30%
+15 or more but less than 16
+3.00%
+4.40%
+16 or more but less than 17
+3.20%
+4.50%
+17 or more but less than 18
+3.30%
+4.60%
+18 or more but less than 19
+3.50%
+4.80%
+19 or more but less than 20
+3.60%
+4.905
+20 or more but less than 21
+3.70%
+5.00%
+21 or more but less than 22
+3.90%
+5.00%
+22 or more but less than 23
+4.00%
+5.00%
+23 or more but less than 24
+4.00%
+5.00%
+24 or more but less than 25
+4.00%
+5.00%
+25 or more but less than 26
+4.00%
+5.00%
+26 or more but less than 27
+4.00%
+5.00%
+27 or more but less than 28
+4.00%
+5.00%
+28 or more but less than 29
+4.00%
+5.00%
+29 or more but less than 30
+4.00%
+5.00%
+30 or more
+4.00%
+5.00%
+
+
+
+
+------------------------------------------------------------------------
+
+Appendix C
+Ratings Event II Collateral Amount
+
+
+The Ratings Event II Collateral Amount will be equal to the greater of (A) 
+zero, (B) the sum, for all Transaction, of the next payment owed by Morgan 
+under each Transaction or (C) the sum of  (x) the Exposure and (y) the 
+aggregate of the Additional Ratings Event II Collateral Amounts for all 
+Transactions.
+
+
+Additional Ratings Event II Collateral Amount means, for each 
+Transaction, the Notional Amount for such Transaction multiplied by the 
+applicable percentage as specified below.
+
+
+
+            Swaps Only
+
+
+Transaction Specific Hedges
+
+
+Weighted Average
+Interest Rate Swap
+Currency Swap
+Interest Rate Swap
+Currency Swap
+Life of Hedge
+in Years
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 or less
+0.60%
+7.25%
+0.75%
+7.40%
+2  or more but less than 3
+1.20%
+7.50%
+1.50%
+7.80%
+3 or more but less than 4
+1.70%
+7.70%
+2.20%
+8.20%
+4 or more but less than 5
+2.30%
+8.00%
+2.90%
+8.50%
+5 or more but less than 6
+2.80%
+8.20%
+3.60%
+8.90%
+6 or more but less than 7
+3.30%
+8.40%
+4.20%
+9.20%
+7 or more but less than 8
+3.80%
+8.60%
+4.80%
+9.60%
+8 or more but less than 9
+4.30%
+8.80%
+5.40%
+9.90%
+9 or more but less than 10
+4.80%
+9.00%
+6.00%
+10.20%
+10 or more but less than 11
+5.30%
+9.20%
+6.60%
+10.50%
+11 or more but less than  12
+5.60%
+9.30%
+7.00%
+10.70%
+12 or more but less than 13
+6.00%
+9.50%
+7.50%
+11.00%
+13 or more but less than 14
+6.40%
+9.70%
+8.00%
+11.30%
+14 or more but less than 15
+6.80%
+9.80%
+8.50%
+11.50%
+15 or more but less than 16
+7.20%
+10.00%
+9.00%
+11.80%
+16 or more but less than 17
+7.60%
+10.00%
+9.50%
+12.00%
+17 or more but less than 18
+7.90%
+10.00%
+9.90%
+12.00%
+18 or more but less than 19
+8.30%
+10.00%
+10.40%
+12.00%
+19 or more but less than 20
+8.60%
+10.00%
+10.80%
+12.00%
+20 or more but less than 21
+9.00%
+10.00%
+11.00%
+12.00%
+21 or more but less than 22
+9.00%
+10.00%
+11.00%
+12.00%
+22 or more but less than 23
+9.00%
+10.00%
+11.00%
+12.00%
+23 or more but less than 24
+9.00%
+10.00%
+11.00%
+12.00%
+24 or more but less than 25
+9.00%
+10.00%
+11.00%
+12.00%
+25 or more but less than 26
+9.00%
+10.00%
+11.00%
+12.00%
+26 or more but less than 27
+9.00%
+10.00%
+11.00%
+12.00%
+27 or more but less than 28
+9.00%
+10.00%
+11.00%
+12.00%
+28 or more but less than 29
+9.00%
+10.00%
+11.00%
+12.00%
+29 or more but less than 30
+9.00%
+10.00%
+11.00%
+12.00%
+30 or more
+9.00%
+10.00%
+11.00%
+12.00%
+
+
+
+
+------------------------------------------------------------------------
+
+
+Appendix D
+S&P Overcollateralization Rate & Valuation Percentage
+
+
+
+Category Description
+Eligible Securities
+WAL
+Base Overcollateralization Rate
+S&P Valuation Percentage
+Cash
+Cash
+N/A
+100%
+100%
+              
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category 1
+U.S. treasuries (current coupon, constant maturity), 'AAA' U.S. agencies, 
+'AAA' covered bonds (floating), 'AAA' sovereign bonds (floating), 'AAA', 
+'AA' credit card ABS (floating), 'AAA', 'AA' auto ABS (floating), and 'AAA' 
+U.S. student loan ABS (floating)
+Less than five years
+102%
+100%
+            
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U.S. treasuries (current coupon, constant maturity), 'AAA' U.S. agencies, 
+'AAA' covered bonds (floating), 'AAA' sovereign bonds (floating), 'AAA', 
+'AA' credit card ABS (floating), 'AAA', 'AA' auto ABS (floating), and 'AAA' 
+U.S. student loan ABS (floating)
+Greater than or equal to five years and less than or equal to 10 years
+108%
+100%
+            
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category 2
+'AAA' covered bonds (fixed), 'AAA' sovereign bonds (fixed), 'A' credit card 
+ABS (floating), 'A' auto ABS (floating), 'AAA' CMBS (floating), 'AAA' CDO 
+(floating) 'AA', 'A' U.S. student loan ABS (floating), and 'AAA, 'AA' 
+corporate bonds (fixed or floating)
+Less than five years
+105%
+100%
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'AAA' covered bonds (fixed), 'AAA' sovereign bonds (fixed), 'A' credit card 
+ABS (floating), 'A' auto ABS (floating), 'AAA' CMBS (floating), 'AAA' CDO 
+(floating), 'AA', 'A' U.S. student loan ABS (floating), and 'AAA', 'AA' 
+U.S. and European corporate bonds (fixed or floating)
+Greater than or equal to five years and less than or equal to 10 years
+115%
+100%
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category 3
+'BBB' credit card ABS (floating), 'BBB' auto ABS (floating), AA', 'A' CDO 
+(floating), 'BBB' U.S. student loan ABS (floating), and 'A' corporate bonds 
+(fixed or floating)
+Less than five years
+125%
+100%
+              
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'BBB' credit card ABS (floating), 'BBB' auto ABS (floating), 'AA', 'A' CDO 
+(floating), 'BBB' U.S. student loan ABS (floating), and 'A' corporate bonds 
+(fixed or floating)
+Greater than or equal to five years and less than or equal to 10 years
+140%
+100%
+
+
+
