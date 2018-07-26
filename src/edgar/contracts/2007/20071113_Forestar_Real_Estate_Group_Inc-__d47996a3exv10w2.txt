@@ -1,0 +1,2283 @@
+ EX-10.2 4 d47996a3exv10w2.htm FORM OF EMPLOYEE MATTERS AGREEMENT
+
+
+ 
+
+Exhibit 10.2
+
+
+FORM OF
+EMPLOYEE MATTERS AGREEMENT
+
+by and among
+
+TEMPLE-INLAND INC.,
+
+GUARANTY FINANCIAL GROUP INC.
+
+and
+
+FORESTAR REAL ESTATE GROUP INC.
+
+Dated as of [DATE], 2007
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+INDEX OF DEFINED TERMS
+  	  	 
+TERM 	  	SECTION IN WHICH DEFINED
+  Agreement
+  	Preamble
+  Forestar
+  	Preamble
+  Forestar 401(k) Plan
+  	4.1(a)
+  Forestar Option Conversion Value
+  	7.1(b)(ii)
+  Forestar Ratio
+  	7.1(b)(ii)
+  Forestar Stock Plan
+  	2.4
+  Forestar Welfare Plans
+  	5.1(a)
+  Guaranty
+  	Preamble
+  Guaranty Option Conversion Value
+  	7.1(a)(ii)
+  Guaranty Ratio
+  	7.1(a)(ii)
+  Guaranty Savings Plan
+  	4.1(b)
+  Guaranty Stock Plan
+  	2.4
+  Guaranty Welfare Plans
+  	5.1(a)
+  Parties
+  	Preamble
+  Post-Forestar Temple-Inland Option
+  	7.1(b)(i)
+  Post-Guaranty Temple-Inland Option
+  	7.1(a)(i)
+  Pre-Forestar Temple-Inland Option Price
+  	7.1(b)(ii)
+  Pre-Guaranty Temple-Inland Option Price
+  	7.1(a)(ii)
+  Separation Agreement
+  	Recitals
+  Service Crediting Date
+  	2.3(b)(i)
+  Temple-Inland
+  	Preamble
+  Temple-Inland Welfare Plans
+  	5.1(a)
+  Texas Courts
+  	11.11
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+EMPLOYEE MATTERS AGREEMENT
+
+     EMPLOYEE MATTERS AGREEMENT (this Agreement), dated as of [DATE], 
+2007, by and among Temple-Inland Inc., a Delaware corporation (
+Temple-Inland), Forestar Real Estate Group Inc., a Delaware corporation (
+Forestar), and Guaranty Financial Group Inc., a Delaware corporation (
+Guaranty). Each of Temple-Inland, Forestar and Guaranty is herein referred 
+to as a Party and collectively, as the Parties.
+
+R E C I T A L S:
+
+     WHEREAS, Temple-Inland, acting through its direct and indirect 
+Subsidiaries, currently conducts a number of businesses, including (i) the 
+Real Estate Business, (ii) the Financial Services Business and (iii) the 
+Retained Business;
+
+     WHEREAS, the Board of Directors of Temple-Inland has determined that 
+it is appropriate, desirable and in the best interests of Temple-Inland and 
+its stockholders to separate Temple-Inland into three independent companies 
+(the Separation), one for each of: (i) the Real Estate Business, which 
+shall be owned and conducted, directly or indirectly, by Forestar, (ii) the 
+Financial Services Business, which shall be owned and conducted, directly 
+or indirectly, by Guaranty, and (iii) the Retained Business which shall 
+continue to be owned and conducted, directly or indirectly, by 
+Temple-Inland;
+
+     WHEREAS, to effect this Separation the Parties entered into that 
+certain Separation and Distribution Agreement dated as of even date hereof 
+(as amended or otherwise modified from time to time, the Separation 
+Agreement); and
+
+     WHEREAS, pursuant to the Separation Agreement, Temple-Inland, Forestar 
+and Guaranty have agreed to enter into this Agreement for the purpose of 
+allocating Assets, Liabilities and responsibilities with respect to certain 
+employee compensation and benefit plans and programs between and among 
+them.
+
+     NOW, THEREFORE, in consideration of the foregoing premises, the mutual 
+promises and covenants hereinafter set forth, and other good and valuable 
+consideration, the receipt and sufficiency of which are hereby 
+acknowledged, the Parties, intending to be legally bound, agree as follows:
+
+ARTICLE I
+
+DEFINITIONS AND INTERPRETATION
+
+     Section 1.1 Definitions. Capitalized terms used but not defined herein 
+shall have the meanings assigned to such terms in the Separation Agreement 
+and the following terms shall have the following meanings:
+
+     Benefit Plan shall mean, with respect to an entity, each plan, 
+program, arrangement, agreement or commitment that is an employment, change 
+in control/severance, consulting,
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+non-competition or deferred compensation agreement, or an executive 
+compensation, incentive bonus or other bonus, employee pension, 
+profit-sharing, savings, retirement, supplemental retirement, stock option, 
+stock purchase, stock appreciation rights, restricted stock, other 
+equity-based compensation, severance pay, salary continuation, life, 
+health, hospitalization, sick leave, vacation pay, disability or accident 
+insurance plan, corporate-owned or key-man life insurance or other employee 
+benefit plan, program, arrangement, agreement or commitment, including any 
+employee benefit plan (as defined in Section 3(3) of ERISA), sponsored or 
+maintained by such entity (or to which such entity contributes or is 
+required to contribute).
+
+     COBRA shall mean the continuation coverage requirements for group 
+health plans under Title X of the Consolidated Omnibus Budget 
+Reconciliation Act of 1985, as amended, and as codified in Code Section 
+4980B and Sections 601 through 608 of ERISA, together with all regulations 
+and proposed regulations promulgated thereunder.
+
+     ERISA shall mean the Employee Retirement Income Security Act of 
+1974, as amended.
+
+     ERISA Affiliate shall mean with respect to any Person, each business 
+or entity which is a member of a controlled group of corporations, under 
+common control or a member of an affiliated service group with such 
+Person within the meaning of Sections 414(b), (c) or (m) of the Code, or 
+required to be aggregated with such Person under Section 414(o) of the 
+Code, or under common control with such Person within the meaning of 
+Section 4001(a)(14) of ERISA.
+
+     Forestar Benefit Plan shall mean any Benefit Plan sponsored, 
+maintained or contributed to by any member of the Forestar Group or any 
+ERISA Affiliate thereof immediately following the Forestar Distribution 
+Date, including the Forestar 401(k) Plan and the Forestar Welfare Plans.
+
+     Forestar Employee shall mean an active employee or an employee on 
+vacation or on approved leave of absence (including maternity, paternity, 
+family, sick leave, salary continuation, qualified military service under 
+the Uniformed Services Employment and Reemployment Rights Act of 1994, and 
+leave under the Family Medical Leave Act and other approved leaves) who, on 
+the Forestar Distribution Date, is employed by or will be employed by 
+Forestar or any member of the Forestar Group.
+
+     Forestar Option shall mean an option to purchase shares of Forestar 
+Common Stock as of the Forestar Distribution Date, which shall be issued 
+pursuant to the Forestar Stock Plan as part of the adjustment to 
+Temple-Inland Options in connection with the Forestar Distribution.
+
+     Forestar Participant shall mean any individual who, immediately 
+following the Forestar Distribution Date, is a Forestar Employee, a Former 
+Forestar Employee, or a beneficiary, dependent or alternate payee of any of 
+the foregoing.
+
+     Forestar Performance Share shall mean a unit representing a general 
+unsecured promise to deliver the cash equivalent of a share of Forestar 
+Common Stock and dividend equivalents, if applicable, upon the satisfaction 
+of a performance or service based vesting requirement, which unit is issued 
+pursuant to a Temple-Inland Stock Plan as part of the adjustment to 
+Temple-Inland Performance Shares in connection with the Forestar 
+Distribution.
+
+2
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Forestar Restricted Share shall mean a share of Forestar Common 
+Stock that is subject to forfeiture based on the extent of attainment of a 
+vesting requirement, which share is issued as part of the adjustment to 
+Temple-Inland Restricted Shares in connection with the Forestar 
+Distribution.
+
+     Forestar Restricted Stock Unit shall mean a unit issued by Forestar 
+or one of its Affiliates representing a general unsecured promise by 
+Forestar or one of its Affiliates to deliver a share of Forestar Common 
+Stock or dividend equivalents, if applicable (or the cash equivalent of 
+either), upon the satisfaction of a service based vesting requirement, 
+which unit is issued pursuant to the Forestar Stock Plan as part of the 
+adjustment to Temple-Inland Restricted Stock Units in connection with the 
+Forestar Distribution.
+
+     Forestar Service Plans shall mean, collectively, the Forestar 401(k) 
+Plan and the severance and health and welfare plans maintained by a member 
+of the Forestar Group to the extent eligibility for or level of benefits 
+thereunder is dependent upon length of service, including the Forestar 
+vacation, health and welfare, sick leave, salary continuation and retiree 
+medical, dental and life programs, if any.
+
+     Former Forestar Employee shall mean, as of the Distribution Date, 
+any individual who, before the Forestar Distribution Date, terminated 
+employment with Forestar or its predecessors or any member of the Forestar 
+Group and did not commence employment with a member of the Guaranty Group 
+or the Temple-Inland Group.
+
+     Former Guaranty Employee shall mean, as of the Distribution Date, 
+any individual who, before the Guaranty Distribution Date, terminated 
+employment with Guaranty or its predecessors or any member of the Guaranty 
+Group and did not commence employment with a member of the Forestar Group 
+or the Temple-Inland Group.
+
+     Former Temple-Inland Employee shall mean, as of the Final 
+Distribution Date, any individual who, before the Final Distribution Date, 
+terminated employment with Temple-Inland or its predecessors or any member 
+of the Temple-Inland Group and did not commence employment with a member of 
+the Forestar Group or the Guaranty Group; provided, that, in the event that 
+Temple-Inland makes a public announcement that its Board of Directors has 
+determined that the shares of Guaranty or Forestar shall not be distributed 
+by Temple-Inland to its stockholders, Former Temple-Inland Employee shall 
+also include each individual who would have been a Former Guaranty Employee 
+or Former Forestar Employee, respectively, had such distribution occurred.
+
+     Guaranty Benefit Plan shall mean any Benefit Plan sponsored, 
+maintained or contributed to by any member of the Guaranty Group or any 
+ERISA Affiliate thereof immediately following the Guaranty Distribution 
+Date, including the Guaranty Savings Plan and the Guaranty Welfare Plans.
+
+     Guaranty Employee shall mean an active employee or an employee on 
+vacation or on approved leave of absence (including maternity, paternity, 
+family, sick leave, salary continuation, qualified military service under 
+the Uniformed Services Employment and Reemployment Rights
+
+3
+
+------------------------------------------------------------------------
+
+
+ 
+
+Act of 1994, and leave under the Family Medical Leave Act and other 
+approved leaves) who, on the Guaranty Distribution Date, is employed by or 
+will be employed by Guaranty or any member of the Guaranty Group.
+
+     Guaranty Option shall mean an option to purchase shares of Guaranty 
+Common Stock as of the Guaranty Distribution Date, which shall be issued 
+pursuant to the Guaranty Stock Plan as part of the adjustment to 
+Temple-Inland Options in connection with the Guaranty Distribution.
+
+     Guaranty Participant shall mean any individual who, immediately 
+following the Guaranty Distribution Date, is a Guaranty Employee, a Former 
+Guaranty Employee, or a beneficiary, dependent or alternate payee of any of 
+the foregoing.
+
+     Guaranty Performance Share shall mean a unit representing a general 
+unsecured promise to deliver the cash equivalent of a share of Guaranty 
+Common Stock and dividend equivalents, if applicable, upon the satisfaction 
+of a performance or service based vesting requirement, which unit is issued 
+pursuant to a Temple-Inland Stock Plan as part of the adjustment to 
+Temple-Inland Performance Shares in connection with the Guaranty 
+Distribution.
+
+     Guaranty Restricted Share shall mean a share of Guaranty Common 
+Stock that is subject to forfeiture based on the extent of attainment of a 
+vesting requirement, which share is issued as part of the adjustment to 
+Temple-Inland Restricted Shares in connection with the Guaranty 
+Distribution.
+
+     Guaranty Restricted Stock Unit shall mean a unit issued by Guaranty 
+or one of its Affiliates representing a general unsecured promise by 
+Guaranty or one of its Affiliates to deliver a share of Guaranty Common 
+Stock or dividend equivalents, if applicable (or the cash equivalent of 
+either), upon the satisfaction of a service based vesting requirement, 
+which unit is issued pursuant to the Guaranty Stock Plan as part of the 
+adjustment to Temple-Inland Restricted Stock Units in connection with the 
+Guaranty Distribution.
+
+     Guaranty Service Plans shall mean, collectively, the Guaranty 
+Savings Plan and the severance and health and welfare plans maintained by a 
+member of the Guaranty Group to the extent eligibility for or level of 
+benefits thereunder is dependent upon length of service, including the 
+Guaranty vacation, health and welfare, sick leave, salary continuation and 
+retiree medical, dental and life programs, if any.
+
+     HIPAA shall mean the Health Insurance Portability and Accountability 
+Act of 1996, as amended.
+
+     Initial Forestar Stock Price shall mean, unless otherwise determined 
+by the Management Development and Executive Compensation Committee of the 
+Temple-Inland Board of Directors in its sole discretion in order to effect 
+an equitable adjustment of a Temple-Inland Option in connection with the 
+Forestar Distribution, the closing per share trading price of Forestar 
+Common Stock on a when issued basis on the Forestar Distribution Date or, 
+if none, the opening per share trading price of Forestar Common Stock on 
+the first date following the Forestar Distribution Date on which there is 
+trading.
+
+4
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Initial Guaranty Stock Price shall mean, unless otherwise determined 
+by the Management Development and Executive Compensation Committee of the 
+Temple-Inland Board of Directors in its sole discretion in order to effect 
+an equitable adjustment of a Temple-Inland Option in connection with the 
+Guaranty Distribution, the closing per share trading price of Guaranty 
+Common Stock on a when issued basis on the Guaranty Distribution Date or, 
+if none, the opening per share trading price of Guaranty Common Stock on 
+the first date following the Guaranty Distribution Date on which there is 
+trading.
+
+     Participating Company shall mean Temple-Inland or any Person (other 
+than an individual) participating in a Temple-Inland Benefit Plan.
+
+     Post-Forestar Temple-Inland Stock Price shall mean, unless otherwise 
+determined by the Management Development and Executive Compensation 
+Committee of the Temple-Inland Board of Directors in its sole discretion in 
+order to effect an equitable adjustment of a Temple-Inland Option in 
+connection with the Forestar Distribution, the closing per share trading 
+price of Temple-Inland Common Stock on an ex-distribution basis on the 
+Forestar Distribution Date or, if none, the regular way closing per share 
+trading price of Temple-Inland Common Stock on the Forestar Distribution 
+Date (or, if there is no trading on the Forestar Distribution Date, on the 
+first following date on which there is trading) less the Initial Forestar 
+Stock Price and, if the Guaranty Distribution and Forestar Distribution 
+occur on the same date, also less the Initial Guaranty Stock Price.
+
+     Post-Guaranty Temple-Inland Stock Price shall mean, unless otherwise 
+determined by the Management Development and Executive Compensation 
+Committee of the Temple-Inland Board of Directors in its sole discretion in 
+order to effect an equitable adjustment of a Temple-Inland Option in 
+connection with the Guaranty Distribution, the closing per share trading 
+price of Temple-Inland Common Stock on an ex-distribution basis on the 
+Guaranty Distribution Date or, if none, the regular way closing per share 
+trading price of Temple-Inland Common Stock on the Guaranty Distribution 
+Date (or, if there is no trading on the Guaranty Distribution Date, on the 
+first following date on which there is trading) less the Initial Guaranty 
+Stock Price and, if the Guaranty Distribution and Forestar Distribution 
+occur on the same date, also less the Initial Forestar Stock Price.
+
+     Temple-Inland Benefit Plan shall mean any Benefit Plan sponsored, 
+maintained or contributed to by any member of the Temple-Inland Group or 
+any ERISA Affiliate thereof immediately following the Final Distribution 
+Date (and, notwithstanding any contribution requirements imposed on 
+Temple-Inland pursuant to Section 4.2, exclusive of the Guaranty Savings 
+Plan).
+
+     Temple-Inland Employee shall mean an active employee or an employee 
+on vacation or on approved leave of absence (including maternity, 
+paternity, family, sick leave, salary continuation, qualified military 
+service under the Uniformed Services Employment and Reemployment Rights Act 
+of 1994, and leave under the Family Medical Leave Act and other approved 
+leaves) who, on the Final Distribution Date, is employed by or will be 
+employed by Temple-Inland or any member of the Temple-Inland Group; 
+provided, that, in the event that
+
+5
+
+------------------------------------------------------------------------
+
+
+ 
+
+Temple-Inland makes a public announcement that its Board of Directors has 
+determined that the shares of Guaranty or Forestar shall not be distributed 
+by Temple-Inland to its stockholders, Temple-Inland Employee shall also 
+include each individual who would have been a Guaranty Employee or Forestar 
+Employee, respectively, had such distribution occurred.
+
+     Temple-Inland Option shall mean an option to purchase shares of 
+Temple-Inland Common Stock granted pursuant to one of the Temple-Inland 
+Stock Plans.
+
+     Temple-Inland Participant shall mean any individual who, immediately 
+following the Final Distribution Date, is a Temple-Inland Employee, a 
+Former Temple-Inland Employee or a beneficiary, dependent or alternate 
+payee of any of the foregoing.
+
+     Temple-Inland Performance Share shall mean a share of phantom stock 
+granted by Temple-Inland or one of its Affiliates pursuant to one of the 
+Temple-Inland Stock Plans representing a general unsecured promise by 
+Temple-Inland or one of its Affiliates to deliver a share of Temple-Inland 
+Common Stock or dividend equivalents, if applicable (or the cash equivalent 
+of either), upon the satisfaction of a performance based vesting 
+requirement and including phantom stock units and bonus phantom shares 
+granted by Temple-Inland effective August 9, 2007, in substitution for 
+phantom stock awards previously granted by Temple-Inland in 2006 or 2007.
+
+     Temple-Inland Restricted Share shall mean a share of Temple-Inland 
+Common Stock granted by Temple-Inland or one of its Affiliates pursuant to 
+one of the Temple-Inland Stock Plans that is subject to forfeiture based on 
+the extent of attainment of a vesting requirement.
+
+     Temple-Inland Restricted Stock Unit shall mean a unit granted by 
+Temple-Inland or one of its Affiliates pursuant to one of the Temple-Inland 
+Stock Plans representing a general unsecured promise by Temple-Inland or 
+one of its Affiliates to deliver a share of Temple-Inland Common Stock or 
+dividend equivalents, if applicable (or the cash equivalent of either), 
+upon the satisfaction of a vesting requirement (other than performance 
+based vesting requirements) and exclusive of restricted stock units granted 
+by Temple-Inland effective August 9, 2007, in substitution for equity 
+incentive awards previously granted by Temple-Inland in 2006 or 2007.
+
+     Temple-Inland Retirement Plan shall mean the Temple-Inland 
+Retirement Plan.
+
+     Temple-Inland Savings Plan shall mean the Temple-Inland Savings Plan 
+(formerly known as the Temple-Inland Salaried Savings Plan and/or the 
+Temple-Inland Non-Salaried Savings Plan).
+
+     Temple-Inland Service Plans shall mean, collectively, the 
+Temple-Inland Retirement Plan, the Temple-Inland Savings Plan, and the 
+severance and health and welfare benefit plans maintained by a member of 
+the Temple-Inland Group to the extent eligibility for or level of benefits 
+thereunder is dependent upon length of service, including the Temple-Inland 
+vacation, health and welfare, sick leave, salary continuation and retiree 
+medical, dental and life programs, if any.
+
+6
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Temple-Inland Stock Plans shall mean, collectively, the 
+Temple-Inland Inc. 1993 Stock Option Plan, Temple-Inland Inc. 1997 Stock 
+Option Plan, Temple-Inland Inc. 2001 Stock Incentive Plan, Temple-Inland 
+Inc. 2003 Stock Incentive Plan, Temple-Inland Inc. Stock Deferral and 
+Payment Plan and Temple-Inland Inc. Directors Fee Deferral Plan.
+
+     1.2 References; Interpretation. References in this Agreement to any 
+gender include references to all genders, and references to the singular 
+include references to the plural and vice versa. Unless the context 
+otherwise requires, the words include, includes and including when 
+used in this Agreement shall be deemed to be followed by the phrase 
+without limitation. Unless the context otherwise requires, references in 
+this Agreement to Articles, Sections, Exhibits and Schedules shall be 
+deemed references to Articles and Sections of, and Exhibits and Schedules 
+to, this Agreement. Unless the context otherwise requires, the words 
+hereof, hereby and herein and words of similar meaning when used in 
+this Agreement refer to this Agreement in its entirety and not to any 
+particular Article, Section or provision of this Agreement.
+
+ARTICLE II
+
+GENERAL PRINCIPLES
+
+     Section 2.1 Assumption and Retention of Liabilities; Related Assets.
+
+          (a) As of the Final Distribution Date, except as otherwise 
+expressly provided for in this Agreement, Temple-Inland shall, or shall 
+cause one or more members of the Temple-Inland Group to, assume or retain, 
+as applicable, and pay, perform, fulfill and discharge, in due course in 
+full (i) all Liabilities under all Temple-Inland Benefit Plans, (ii) all 
+Liabilities (excluding Liabilities incurred under a Benefit Plan except as 
+otherwise provided in this Agreement) with respect to the employment, 
+service, termination of employment or termination of service of all 
+Temple-Inland Employees, Former Temple-Inland Employees, Guaranty 
+Employees, Former Guaranty Employees, Forestar Employees and Former 
+Forestar Employees and their dependents and beneficiaries (and any 
+alternate payees in respect thereof) and other service providers (including 
+any individual who is, or was, an independent contractor, temporary 
+employee, temporary service worker, consultant, freelancer, agency 
+employee, leased employee, on-call worker, incidental worker, or 
+non-payroll worker or in any other employment, non-employment, or retainer 
+arrangement, or relationship with any member of the Temple-Inland Group, 
+Guaranty Group or Forestar Group), in each case to the extent arising in 
+connection with or as a result of employment with or the performance of 
+services for any member of the Temple-Inland Group, and (iii) any other 
+Liabilities or obligations expressly assigned to Temple-Inland or any of 
+its Affiliates under this Agreement. For purposes of clarification, the 
+Liabilities assumed or retained by the Temple-Inland Group as provided for 
+in this Section 2.1(a) are intended to be Retained Business Liabilities as 
+such term is defined in the Separation Agreement.
+
+          (b) As of the Relevant Time, except as otherwise expressly 
+provided for in this Agreement, Guaranty shall, or shall cause one or more 
+members of the Guaranty Group to, assume or retain, as applicable, and pay, 
+perform, fulfill and discharge, in due course in full (i) all Liabilities 
+under all Guaranty Benefit Plans, (ii) all Liabilities (excluding 
+Liabilities incurred
+
+7
+
+------------------------------------------------------------------------
+
+
+ 
+
+under a Benefit Plan except as otherwise provided in this Agreement) with 
+respect to the employment, service, termination of employment or 
+termination of service of all Temple-Inland Employees, Former Temple-Inland 
+Employees, Guaranty Employees, Former Guaranty Employees, Forestar 
+Employees and Former Forestar Employees and their dependents and 
+beneficiaries (and any alternate payees in respect thereof) and other 
+service providers (including any individual who is, or was, an independent 
+contractor, temporary employee, temporary service worker, consultant, 
+freelancer, agency employee, leased employee, on-call worker, incidental 
+worker, or non-payroll worker or in any other employment, non-employment, 
+or retainer arrangement, or relationship with any member of the 
+Temple-Inland Group, Guaranty Group or Forestar Group), in each case to the 
+extent arising in connection with or as a result of employment with or the 
+performance of services for any member of the Guaranty Group, and (iii) any 
+other Liabilities or obligations expressly assigned to Guaranty or any of 
+its Affiliates under this Agreement. For purposes of clarification, the 
+Liabilities assumed or retained by the Guaranty Group as provided for in 
+this Section 2.1(b) are intended to be Financial Services Liabilities as 
+such term is defined in the Separation Agreement.
+
+          (c) As of the Relevant Time, except as otherwise expressly 
+provided for in this Agreement, Forestar shall, or shall cause one or more 
+members of the Forestar Group to, assume or retain, as applicable, and pay, 
+perform, fulfill and discharge, in due course in full (i) all Liabilities 
+under all Forestar Benefit Plans, (ii) all Liabilities (excluding 
+Liabilities incurred under a Benefit Plan except as otherwise provided in 
+this Agreement) with respect to the employment, service, termination of 
+employment or termination of service of all Temple-Inland Employees, Former 
+Temple-Inland Employees, Guaranty Employees, Former Guaranty Employees, 
+Forestar Employees and Former Forestar Employees and their dependents and 
+beneficiaries (and any alternate payees in respect thereof) and other 
+service providers (including any individual who is, or was, an independent 
+contractor, temporary employee, temporary service worker, consultant, 
+freelancer, agency employee, leased employee, on-call worker, incidental 
+worker, or non-payroll worker or in any other employment, non-employment, 
+or retainer arrangement, or relationship with any member of the 
+Temple-Inland Group, Guaranty Group or Forestar Group), in each case to the 
+extent arising in connection with or as a result of employment with or the 
+performance of services for any member of the Forestar Group, and (iii) any 
+other Liabilities or obligations expressly assigned to Forestar or any of 
+its Affiliates under this Agreement. For purposes of clarification, the 
+Liabilities assumed or retained by the Forestar Group as provided for in 
+this Section 2.1(c) are intended to be Real Estate Liabilities as such term 
+is defined in the Separation Agreement.
+
+          (d) From time to time after the Relevant Time, the Parties shall 
+promptly reimburse one another, upon reasonable request of the Party 
+requesting reimbursement and the presentation by such Party of such 
+substantiating documentation as the other Party shall reasonably request, 
+for the cost of any obligations or Liabilities satisfied or assumed by the 
+Party requesting reimbursement or its Affiliates that are, or that have 
+been made pursuant to this Agreement, the responsibility of the other Party 
+or any of its Affiliates. Any such request for reimbursement must be made 
+not later than the first anniversary of the Relevant Time.
+
+          (e) Temple-Inland shall retain responsibility for all 
+employee-related regulatory filings for reporting periods ending at or 
+prior to the Relevant Time except for Equal
+
+8
+
+------------------------------------------------------------------------
+
+
+ 
+
+Employment Opportunity Commission EEO-1 reports and affirmative action 
+program (AAP) reports and responses to Office of Federal Contract 
+Compliance Programs (OFCCP) submissions, for which Temple-Inland will 
+provide data and information (to the extent permitted by applicable Laws 
+and consistent with Section 10.1) to Guaranty or Forestar, as the case may 
+be, who will be responsible for making such filings in respect of Guaranty 
+Employees and Former Guaranty Employees, on the one hand, and Forestar 
+Employees and Former Forestar Employees on the other hand, respectively.
+
+     Section 2.2 Participation in Temple-Inland Benefit Plans. Except as 
+otherwise expressly provided for in this Agreement or as otherwise 
+expressly agreed to in writing between or among the affected Parties, (i) 
+effective as of the Relevant Time, Guaranty, Forestar and each member of 
+the Guaranty Group and Forestar Group shall cease to be a Participating 
+Company in any Temple-Inland Benefit Plan, and (ii) each Guaranty 
+Participant, Forestar Participant and any other service providers 
+(including any individual who is, or was, an independent contractor, 
+temporary employee, temporary service worker, consultant, freelancer, 
+agency employee, leased employee, on-call worker, incidental worker, or 
+nonpayroll worker of any member of the Guaranty Group or Forestar Group or 
+in any other employment, non-employment, or retainer arrangement, or 
+relationship with any member of the Guaranty Group or Forestar Group), 
+effective as of the Relevant Time, shall cease to participate in, be 
+covered by, accrue benefits under, be eligible to contribute to or have any 
+rights under any Temple-Inland Benefit Plan (except to the extent of 
+obligations that accrued before the Relevant Time, including benefits 
+accrued as of the Relevant Time under the Temple-Inland Retirement Plan, 
+and that are not otherwise addressed herein), and Temple-Inland, Guaranty 
+and Forestar shall take all necessary action to effectuate each such 
+cessation.
+
+     Section 2.3 Service Recognition.
+
+          (a) Pre-Distribution Service Credit. Guaranty shall give each 
+Guaranty Participant, and Forestar shall give each Forestar Participant, 
+full credit for purposes of eligibility, vesting, determination of level of 
+benefits, and, to the extent applicable, benefit accruals under any 
+Guaranty Benefit Plan or Forestar Benefit Plan, respectively, for such 
+Guaranty Participants or Forestar Participants service, respectively, 
+with any member of the Temple-Inland Group prior to the Guaranty 
+Distribution Date or Forestar Distribution Date, respectively, to the same 
+extent such service was recognized by the applicable Temple-Inland Benefit 
+Plans immediately prior to the Guaranty Distribution Date or Forestar 
+Distribution Date; provided, that, such service shall not be recognized to 
+the extent that such recognition would result in the duplication of 
+benefits.
+
+          (b) Post-Distribution Reciprocal Service Crediting. Each of 
+Temple-Inland, Guaranty and Forestar (acting directly or through their 
+respective Affiliates) shall cause each of the Temple-Inland Service Plans, 
+Guaranty Service Plans and Forestar Service Plans, respectively, to provide 
+the following service crediting rules effective as of the Relevant Time:
+
+     (i) If a Temple-Inland Employee, Guaranty Employee or Forestar 
+Employee, respectively, who participates in any of the Temple-Inland 
+Service Plans, Guaranty Service Plans or Forestar Service Plans, 
+respectively, directly transfers employment among any of the Temple-Inland 
+Group, Guaranty Group or Forestar Group prior to the first anniversary
+
+9
+
+------------------------------------------------------------------------
+
+
+ 
+
+of the Distribution Date (the Service Crediting Date), then such 
+employees service with the group employing the employee immediately before 
+the transfer shall be recognized for purposes of eligibility, vesting and 
+level of benefits under the appropriate Temple-Inland Service Plans, 
+Guaranty Service Plans and Forestar Service Plans, in each case to the same 
+extent as such employees service was recognized under the corresponding 
+service plans immediately before the transfer; provided, that, such service 
+shall not be recognized to the extent that such recognition would result in 
+the duplication of benefits.
+
+     (ii) If a Temple-Inland Employee, Guaranty Employee or Forestar 
+Employee, respectively, who participates in any of the Temple-Inland 
+Service Plans, Guaranty Service Plans or Forestar Service Plans, 
+respectively, either transfers employment among any of the Temple-Inland 
+Group, Guaranty Group or Forestar Group on or after the Service Crediting 
+Date or does not directly transfer employment among such group members, 
+then, except to the extent required by applicable Law, such employees 
+service with the group employing the employee immediately before the 
+transfer shall not be recognized for any purpose under the service plans of 
+the post-transfer employer.
+
+     Section 2.4 Approval by Temple-Inland As Sole Stockholder. Effective 
+as of the Relevant Time, Guaranty shall have adopted the Guaranty Financial 
+Group Inc. 2007 Stock Incentive Plan (the Guaranty Stock Plan) and 
+Forestar shall have adopted the Forestar Real Estate Group Inc. 2007 Stock 
+Incentive Plan (the Forestar Stock Plan), each of which shall permit the 
+issuance of long-term incentive awards that have material terms and 
+conditions substantially similar to those long-term incentive awards issued 
+under the relevant Temple-Inland Stock Plans in respect of which Guaranty 
+long-term incentive awards and Forestar long-term incentive awards, 
+respectively, will be issued in connection with the Guaranty Distribution 
+and Forestar Distribution. The Guaranty Stock Plan and Forestar Stock Plan 
+shall be approved prior to the Relevant Time by Temple-Inland as the sole 
+stockholder of Guaranty and Forestar, respectively.
+
+ARTICLE III
+
+QUALIFIED DEFINED BENEFIT PLAN
+
+     Section 3.1 Retention of Liabilities. Following the Relevant Time, 
+Temple-Inland (acting directly or through its Affiliates) shall retain, and 
+neither Guaranty nor Forestar (nor any of their respective Affiliates) 
+shall have any obligation whatsoever with regard to, all obligations and 
+Liabilities under, or with respect to, the Temple-Inland Retirement Plan. 
+No assets shall be transferred from the Temple-Inland Retirement Plan to 
+either Forestar or Guaranty or any benefit plan maintained by either of 
+them. For purposes of clarification, the Liabilities retained by 
+Temple-Inland as provided for in this Section 3.1 are intended to be 
+Retained Business Liabilities as such term is defined in the Separation 
+Agreement.
+
+ARTICLE IV
+
+QUALIFIED DEFINED CONTRIBUTION PLAN
+
+10
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Section 4.1 Forestar 401(k) Plan.
+
+          (a) Establishment of the Forestar 401(k) Plan. Effective as of 
+the Forestar Distribution Date, Forestar shall, or shall have caused one of 
+its Affiliates to, establish a defined contribution plan and trust for the 
+benefit of Forestar Participants (the Forestar 401(k) Plan). Forestar 
+shall be responsible for taking all necessary, reasonable and appropriate 
+action to establish, maintain and administer the Forestar 401(k) Plan so 
+that it is qualified under Section 401(a) of the Code and that the related 
+trust thereunder is exempt from Federal income tax under Section 501(a) of 
+the Code. Forestar (acting directly or through its Affiliates) shall be 
+responsible for any and all Liabilities and other obligations with respect 
+to the Forestar 401(k) Plan.
+
+          (b) Transfer of Savings Plan Assets. Not later than ninety (90) 
+days following the Forestar Distribution Date (or such later time as 
+mutually agreed by Temple-Inland and Forestar), Temple-Inland shall cause 
+the accounts (including any outstanding loan balances) in the Temple-Inland 
+Savings Plan attributable to Forestar Participants and all of the Assets in 
+the Temple-Inland Savings Plan related thereto, in each case exclusive of 
+accounts and Assets attributable to Temple-Inland Common Stock, Forestar 
+Common Stock, and Guaranty Common Stock, to be transferred in-kind to the 
+Forestar 401(k) Plan, and Forestar shall cause the Forestar 401(k) Plan to 
+accept such transfer of accounts and underlying Assets and, effective as of 
+the date of such transfer, to assume and to fully perform, pay and 
+discharge, all obligations of the Temple-Inland Savings Plan relating to 
+the accounts of Forestar Participants (to the extent the Assets related to 
+those accounts are actually transferred from the Temple-Inland Savings Plan 
+to the Forestar 401(k) Plan). Not later than ninety (90) days following the 
+Forestar Distribution Date (or such later time as mutually agreed by 
+Forestar and Guaranty), Guaranty shall cause the accounts (including any 
+outstanding loan balances) in the Temple-Inland Savings and Retirement Plan 
+(to be renamed the Guaranty Financial Group Inc. Savings and Retirement 
+Plan (the Guaranty Savings Plan)) attributable to Forestar Participants 
+and all of the Assets in the Guaranty Savings Plan related thereto, in each 
+case exclusive of accounts and Assets attributable to Temple-Inland Common 
+Stock, Forestar Common Stock, and Guaranty Common Stock, to be transferred 
+in-kind to the Forestar 401(k) Plan, and Forestar shall cause the Forestar 
+401(k) Plan to accept such transfer of accounts and underlying Assets and, 
+effective as of the date of such transfer, to assume and to fully perform, 
+pay and discharge, all obligations of the Guaranty Savings Plan relating to 
+the accounts of Forestar Participants (to the extent the Assets related to 
+those accounts are actually transferred from the Guaranty Savings Plan to 
+the Forestar 401(k) Plan). Temple-Inland and Guaranty shall cause the 
+Temple-Inland Savings Plan and Guaranty Savings Plan, respectively, to 
+provide that Forestar Participants shall continue to participate in the 
+Temple-Inland Savings Plan and Guaranty Savings Plan, as the case may be, 
+in respect of their accounts thereunder attributable to investments in 
+Temple-Inland Common Stock, Forestar Common Stock, and Guaranty Common 
+Stock under such plans and that they may divest any holdings of 
+Temple-Inland Common Stock, Forestar Common Stock, and Guaranty Common 
+Stock in their respective accounts under such plans into any of the other 
+investment alternatives made available under such plans from time to time; 
+provided, that, Temple-Inland and Guaranty may in their discretion provide 
+that Forestar Participants shall not be permitted to reinvest any such 
+divested amounts in Temple-Inland Common Stock, Forestar Common Stock, or 
+Guaranty Common Stock and provide that Temple-Inland Common Stock, Forestar 
+Common Stock, and Guaranty Common Stock shall no longer be offered as an 
+investment alternative under such plans.
+
+11
+
+------------------------------------------------------------------------
+
+
+ 
+
+Subsequent to the transfer of the accounts and related Assets described in 
+the preceding provisions of this Section 4.1(b) and as soon as practicable 
+following the time when either a Forestar Participant fully divests of his 
+or her holdings of Temple-Inland Common Stock, Forestar Common Stock and 
+Guaranty Common Stock under the Temple-Inland Savings Plan or Guaranty 
+Savings Plan, respectively, or (in the case of the Temple-Inland Savings 
+Plan) Forestar Common Stock and Guaranty Common Stock or (in the case of 
+the Guaranty Savings Plan) Temple-Inland Common Stock and Forestar Common 
+Stock are no longer offered as an investment alternative under the 
+Temple-Inland Savings Plan or Guaranty Savings Plan, respectively, 
+Temple-Inland and Guaranty, as the case may be, shall cause the accounts in 
+the Temple-Inland Savings Plan or the Guaranty Savings Plan, as the case 
+may be, attributable to Forestar Participants and all of the Assets in the 
+Temple-Inland Savings Plan and Guaranty Savings Plan related thereto to be 
+transferred to the Forestar 401(k) Plan (in-kind or in the form of liquid 
+assets, as determined by Temple-Inland and Guaranty, respectively, in their 
+discretion), and Forestar shall cause the Forestar 401(k) Plan to accept 
+such transfer of accounts and underlying Assets and, effective as of the 
+date of such transfer, to assume and to fully perform, pay and discharge, 
+all obligations of the Temple-Inland Savings Plan and Guaranty Savings 
+Plan, as the case may be, relating to the accounts of Forestar Participants 
+(to the extent the Assets related to those accounts are actually 
+transferred from the Temple-Inland Savings Plan and Guaranty Savings Plan 
+to the Forestar 401(k) Plan). Any transfer of Assets pursuant to this 
+Section 4.1(b) shall be conducted in accordance with Section 414(l) of the 
+Code, Treasury Regulation Section 1.414(1)-1, and Section 208 of ERISA.
+
+          (c) Continuation of Elections. As of the Forestar Distribution 
+Date, Forestar (acting directly or through its Affiliates) shall cause the 
+Forestar 401(k) Plan to recognize and maintain all Temple-Inland Savings 
+Plan and Guaranty Savings Plan elections, including, but not limited to, 
+deferral, investment, and payment form elections, dividend elections, 
+beneficiary designations, and the rights of alternate payees under 
+qualified domestic relations orders with respect to Forestar Participants, 
+to the extent such election or designation is available under the Forestar 
+401(k) Plan.
+
+          (d) Form 5310-A. No later than thirty (30) days prior to the date 
+of any transfer of Assets and Liabilities pursuant to Section 4.1(b), 
+Temple-Inland, Guaranty and Forestar (each acting directly or through their 
+respective Affiliates) shall, to the extent necessary, file Internal 
+Revenue Service Form 5310-A regarding the transfer of Assets and 
+Liabilities from the Temple-Inland Savings Plan and Guaranty Savings Plan, 
+respectively, to the Forestar 401(k) Plan as described in this Section 4.1.
+
+          (e) Contributions as of the Distribution Date. All contributions 
+payable to the Temple-Inland Savings Plan with respect to employee 
+deferrals and contributions, matching contributions and other contributions 
+for Forestar Participants through the Forestar Distribution Date, 
+determined in accordance with the terms and provisions of the Temple-Inland 
+Savings Plan, ERISA and the Code, shall be paid by Temple-Inland to the 
+Temple-Inland Savings Plan prior to the date of the Asset transfer 
+described in subsection (b), above.
+
+     Section 4.2 Guaranty Savings Plan. Effective as of the Relevant Time, 
+Guaranty shall assume sponsorship of the Guaranty Savings Plan, adopt a 
+trust for such plan, and retain any and all Liabilities and other 
+obligations with respect to the Guaranty Savings Plan in accordance with
+
+12
+
+------------------------------------------------------------------------
+
+
+ 
+
+its terms at the Guaranty Distribution Date as they may be amended from 
+time to time. All contributions payable to the Temple-Inland Savings and 
+Retirement Plan with respect to employee deferrals and contributions, 
+matching contributions and other contributions for Guaranty Participants 
+through the Guaranty Distribution Date, determined in accordance with the 
+terms and provisions of the Temple-Inland Savings and Retirement Plan, 
+ERISA and the Code, shall be paid by Temple-Inland to the Guaranty Savings 
+Plan within two weeks or as soon as administratively practicable following 
+the Guaranty Distribution Date. Temple-Inland shall retain responsibility 
+for the preparation of all regulatory filings in respect of the Guaranty 
+Savings Plan for plan years ending prior to January 1, 2008, including 
+preparing the Form 5500 for the Temple-Inland Savings and Retirement Plan 
+for the 2007 plan year (including responsibility for causing the completion 
+of any required discrimination testing and plan audits), and Temple-Inland 
+shall cause the timely filing of an extension for filing such Form 5500 
+until October 15, 2008.
+
+     Section 4.3 Temple-Inland/Guaranty Savings Plan Transfers. 
+Temple-Inland and Guaranty will cooperate and use commercially reasonable 
+efforts to provide for transfers of accounts (and related Assets and 
+Liabilities) between the Temple-Inland Savings Plan and Guaranty Savings 
+Plan in respect of Temple-Inland Employees who transfer employment to 
+Guaranty and Guaranty Employees who transfer employment to Temple-Inland in 
+connection with the Guaranty Distribution.
+
+ARTICLE V
+
+HEALTH AND WELFARE PLANS
+
+     Section 5.1 Health And Welfare Plans Maintained By Temple-Inland Prior 
+To The Distribution Date.
+
+          (a) Establishment of Welfare Plans. Temple-Inland or one or more 
+of its Affiliates maintain health and welfare plans (the Temple-Inland 
+Welfare Plans) for the benefit of eligible Temple-Inland Participants, 
+Guaranty Participants and Forestar Participants. Effective as of the 
+Guaranty Distribution Date, Guaranty shall, or shall cause a Guaranty 
+Affiliate to, adopt, for the benefit of eligible Guaranty Participants, 
+health and welfare plans (collectively, the Guaranty Welfare Plans). 
+Effective as of the Forestar Distribution Date, Forestar shall, or shall 
+cause a Forestar Affiliate to, adopt, for the benefit of eligible Forestar 
+Participants, health and welfare plans (collectively, the Forestar Welfare 
+Plans).
+
+          (b) Terms of Participation in Guaranty/Forestar Welfare Plans. 
+Guaranty and Forestar (acting directly or through their respective 
+Affiliates) shall use commercially reasonable efforts to cause all Guaranty 
+Welfare Plans and Forestar Welfare Plans, respectively, to (i) waive all 
+limitations as to preexisting conditions, exclusions, and service 
+conditions with respect to participation and coverage requirements 
+applicable to Guaranty Participants and Forestar Participants, 
+respectively, other than limitations that were in effect with respect to 
+Guaranty Participants and Forestar Participants as of the Relevant Time 
+under the Temple-Inland Welfare Plans, and (ii) waive any waiting period 
+limitation or evidence of insurability requirement that would otherwise be 
+applicable to a Guaranty Participant or Forestar Participant, respectively, 
+following the Relevant Time to the extent such Guaranty Participant or 
+Forestar Participant had
+
+13
+
+------------------------------------------------------------------------
+
+
+ 
+
+satisfied any similar limitation under the analogous Temple-Inland Welfare 
+Plan.
+
+          (c) Reimbursement Account Plan. Temple-Inland shall retain the 
+Liability for administering and paying, under the Temple-Inland Dependent 
+Care Spending Account Plan and the Temple-Inland Health Care Spending 
+Account Plan, all reimbursement claims of Temple-Inland Participants, 
+Guaranty Participants and Forestar Participants with respect to calendar 
+year 2007, whether arising at, before or after the Relevant Time.
+
+          (d) Employees on Leave. Notwithstanding any other provision of 
+this Agreement to the contrary, Guaranty and Forestar shall assume 
+Liability for payment of any salary continuation, short term disability or 
+health and welfare coverage with respect to Guaranty Employees and Former 
+Guaranty Employees and Forestar Employees and Former Forestar Employees, 
+respectively, and Temple-Inland shall have no further responsibility for 
+such disabled employees or employees on approved leave after the Relevant 
+Time.
+
+          (e) COBRA and HIPAA. Effective as of the Guaranty Distribution 
+Date, Temple-Inland shall retain responsibility for compliance with the 
+health care continuation coverage requirements of COBRA with respect to 
+Guaranty Participants who, as of the day prior to the Guaranty Distribution 
+Date, were covered under a Temple-Inland Welfare Plan pursuant to COBRA. 
+Effective as of the Forestar Distribution Date, Temple-Inland shall retain 
+responsibility for compliance with the health care continuation coverage 
+requirements of COBRA with respect to Forestar Participants who, as of the 
+day prior to the Forestar Distribution Date, were covered under a 
+Temple-Inland Welfare Plan pursuant to COBRA. Temple-Inland (acting 
+directly or through its Affiliates) shall be responsible for administering 
+compliance with any certificate of creditable coverage requirements of 
+HIPAA or Medicare applicable to the Temple-Inland Welfare Plans with 
+respect to Guaranty Participants and Forestar Participants. The Parties 
+hereto agree that neither the Guaranty Distribution nor the Forestar 
+Distribution nor any transfers of employment that occur as of the Guaranty 
+Distribution Date or Forestar Distribution Date, respectively, shall 
+constitute a COBRA qualifying event for purposes of COBRA; provided, that, 
+in all events, Guaranty or Forestar (acting directly or through their 
+respective Affiliates) shall assume, or shall have caused the Guaranty 
+Welfare Plans or Forestar Welfare Plans, respectively, to assume, 
+responsibility for compliance with the health care continuation coverage 
+requirements of COBRA with respect to those Temple-Inland Employees whose 
+employment is transferred directly from the Temple-Inland Group to the 
+Guaranty Group or Forestar Group, respectively, as of the Guaranty 
+Distribution Date or Forestar Distribution Date, respectively, to the 
+extent such individual was, as of the day prior to such transfer of 
+employment, covered under a Temple-Inland Welfare Plan.
+
+14
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (f) Liabilities.
+
+               (i) Insured Benefits. With respect to employee welfare and 
+fringe benefits that are provided through the purchase of insurance, 
+Temple-Inland shall timely pay all premiums in respect of coverage of 
+Guaranty Participants and Forestar Participants in respect of the period 
+before the Guaranty Distribution Date and Forestar Distribution Date, 
+respectively, and Guaranty and Forestar, respectively, shall cause 
+Temple-Inland not to have any liability in respect of any and all claims of 
+Guaranty Participants and Forestar Participations that are incurred under 
+the Guaranty Welfare Plans and Forestar Welfare Plans on or after the 
+Guaranty Distribution Date and Forestar Distribution Date, respectively.
+
+               (ii) Self-Insured Benefits. With respect to employee welfare 
+and fringe benefits that are provided on a self-insured basis, (A) 
+Temple-Inland (acting directly or through its Affiliates) shall fully 
+perform, pay and discharge, under the Temple-Inland Welfare Plans, all 
+claims of Guaranty Participants and Forestar Participants that are incurred 
+but not paid prior to the Guaranty Distribution Date and Forestar 
+Distribution Date, respectively (and Temple-Inland shall retain any reserve 
+in respect of such claims that may exist as of the respective Distribution 
+Date), (B) Guaranty (acting directly or through its Affiliates) shall fully 
+perform, pay and discharge, under the Guaranty Welfare Plans, from and 
+after the Guaranty Distribution Date, all claims of Guaranty Participants 
+that are incurred on or after the Guaranty Distribution Date, and (C) 
+Forestar (acting directly or through its Affiliates) shall fully perform, 
+pay and discharge, under the Forestar Welfare Plans, from and after the 
+Forestar Distribution Date, all claims of Forestar Participants that are 
+incurred on or after the Forestar Distribution Date.
+
+               (iii) Incurred Claim Definition. For purposes of this 
+Section 5.1(f), a claim or Liability is deemed to be incurred (A) with 
+respect to medical, dental, vision and/or prescription drug benefits, upon 
+the rendering of health services giving rise to such claim or Liability; 
+(B) with respect to life insurance, accidental death and dismemberment and 
+business travel accident insurance, upon the occurrence of the event giving 
+rise to such claim or Liability; and (C) with respect to disability 
+benefits, upon the date of an individuals disability, as determined by the 
+disability benefit insurance carrier or claim administrator, giving rise to 
+such claim or Liability.
+
+               (iv) Claim Experience. Notwithstanding the foregoing, the 
+Parties (acting directly or through their Affiliates) shall take any action 
+necessary to ensure that any claims experience under the Temple-Inland 
+Welfare Plans attributable to Guaranty Participants and Forestar 
+Participants shall be available to the Guaranty Welfare Plans and Forestar 
+Welfare Plans, respectively.
+
+     Section 5.2 Time-Off Benefits. Guaranty and Forestar shall credit each 
+Guaranty Participant and Forestar Participant, respectively, with the 
+amount of accrued but unused vacation time, sick time and other time-off 
+benefits as such Guaranty Participant and Forestar Participant had with the 
+Temple-Inland Group as of the Relevant Time. Notwithstanding the above, 
+neither Guaranty nor Forestar shall be required to credit any Guaranty 
+Participant or Forestar Participant with any accrual to the extent that a 
+benefit attributable to such accrual is provided by the Temple-Inland 
+Group.
+
+15
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+ARTICLE VI
+
+NONQUALIFIED RETIREMENT PLANS
+
+     Section 6.1 Temple-Inland Retained Nonqualified Plans.
+
+          (a) In General. Except as provided in subsection (b), below, 
+Temple-Inland (acting directly or through its Affiliates) shall retain, and 
+neither Guaranty nor Forestar shall have any obligation whatsoever with 
+regard to, all obligations and Liabilities under, or with respect to, the 
+Temple-Inland Supplemental Executive Retirement Plan or the Temple-Inland 
+Inc. Stock Deferral and Payment Plan. Subject to any applicable employee 
+consents, on or about January 2, 2008 (and in any event as soon as 
+practicable following the Relevant Time but in no event before 2008), 
+Temple-Inland shall pay to any Guaranty Employee or Guaranty Former 
+Employee and to any Forestar Employee or Former Forestar Employee any 
+amounts accrued by such employees under the foregoing plans.
+
+          (b) Certain Stock Accounts. With respect to any amounts credited 
+under the Temple-Inland Inc. Stock Deferral and Payment Plan that are 
+payable in shares of Temple-Inland Common Stock, each share of 
+Temple-Inland Common Stock credited under such plan immediately before the 
+Relevant Time shall, at the Relevant Time, be treated in the same manner as 
+described in Section 7.3 in respect of Temple-Inland Restricted Stock Units 
+(such that each such credited share of Temple-Inland Common Stock shall be 
+deemed to represent Guaranty Common Stock and Forestar Common Stock as 
+well, as the case may be). Upon entitlement to payment under the plan, 
+Temple-Inland shall be solely responsible for the settlement of all shares 
+payable in the form of Temple-Inland Common Stock, Guaranty shall be solely 
+responsible for the settlement of all shares payable in the form of 
+Guaranty Common Stock, and Forestar shall be solely responsible for the 
+settlement of all shares payable in the form of Forestar Common Stock, in 
+each case regardless of the person entitled to payment.
+
+     Section 6.2 Guaranty Retained Nonqualified Plans. Following the 
+Guaranty Distribution Date, Guaranty (acting directly or through its 
+Affiliates) shall retain, and Temple-Inland shall have no obligation 
+whatsoever with regard to, all obligations and Liabilities under, or with 
+respect to, the Supplemental Benefits Plan of Temple-Inland Financial 
+Services Inc. and the Excess Benefits Plan of Temple-Inland Financial 
+Services Inc. Subject to any applicable employee consents, on or before 
+February 29, 2008 (and in any event as soon as practicable following the 
+Relevant Time but in no event before 2008), Guaranty shall pay to any 
+Temple-Inland Employee or Temple-Inland Former Employee and to any Forestar 
+Employee or Former Forestar Employee any amounts accrued by such employees 
+under the foregoing plans.
+
+
+ARTICLE VII
+
+LONG-TERM INCENTIVE AWARDS
+
+     Section 7.1 Treatment of Outstanding Temple-Inland Options.
+
+16
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (a) Guaranty Distribution.
+
+               (i) Each Temple-Inland Option that is outstanding 
+immediately prior to the Guaranty Distribution Date shall, as of the 
+Guaranty Distribution Date, be converted into a Guaranty Option and an 
+adjusted Temple-Inland Option (a Post-Guaranty Temple-Inland Option) in 
+accordance with the succeeding paragraphs of this Section 7.1(a).
+
+               (ii) The number of shares subject to the Guaranty Option 
+shall be equal to the number of shares of Guaranty Common Stock to which 
+the option holder would be entitled in the Guaranty Distribution had the 
+shares subject to the Temple-Inland Option represented outstanding shares 
+of Temple-Inland Common Stock as of the Guaranty Distribution Record Date, 
+the resulting number of shares subject to the Guaranty Option being rounded 
+down to the nearest whole share. The number of shares subject to the 
+Temple-Inland Option shall not change. The per share exercise price of the 
+Post-Guaranty Temple-Inland Option shall be equal to the product of (1) the 
+per share exercise price of the Temple-Inland Option immediately prior to 
+the Guaranty Distribution Date (the Pre-Guaranty Temple-Inland Option 
+Price) multiplied by (2) a fraction, the numerator of which shall be the 
+Post-Guaranty Temple-Inland Stock Price and the denominator of which shall 
+be the sum of (i) the Post-Guaranty Temple-Inland Stock Price, (ii) the 
+quotient determined by dividing the Initial Guaranty Stock Price by the 
+Guaranty Ratio (as defined below) (such quotient, the Guaranty Option 
+Conversion Value), and (iii) if the Guaranty Distribution and Forestar 
+Distribution occur on the same date, the Forestar Option Conversion Value 
+(as defined below), which product shall be rounded up to the nearest whole 
+cent. The per share exercise price of the Guaranty Option shall be equal to 
+the product of (1) the Pre-Guaranty Temple-Inland Option Price multiplied 
+by (2) a fraction, the numerator of which shall be the Initial Guaranty 
+Stock Price and the denominator of which shall be the sum of (i) the 
+Post-Guaranty Temple-Inland Stock Price, (ii) the Guaranty Option 
+Conversion Value, and (iii) if the Guaranty Distribution and Forestar 
+Distribution occur on the same date, the Forestar Option Conversion Value, 
+which product shall be rounded up to the nearest whole cent. For purposes 
+of this paragraph (b), Guaranty Ratio shall mean the amount determined by 
+dividing (x) the number one (1) by (y) the number of shares of Guaranty 
+Common Stock distributed in respect of each share of Temple-Inland Common 
+Stock in the Guaranty Distribution.
+
+               (iii) Prior to the Guaranty Distribution Date, Temple-Inland 
+shall take all actions necessary to provide that, effective as of the 
+Guaranty Distribution Date, for purposes of the Post-Guaranty Temple-Inland 
+Options (including in determining exercisability and the post-termination 
+exercise period), a Guaranty Employees continuous service with the 
+Guaranty Group or Forestar Group following the Guaranty Distribution Date 
+shall be deemed continued service with Temple-Inland. Guaranty shall issue 
+each Guaranty Option under the Guaranty Stock Plan with terms such that, 
+except as otherwise provided herein, the terms and conditions applicable to 
+the Guaranty Options shall be substantially similar to the terms and 
+conditions applicable to the corresponding Temple-Inland Option, including 
+the terms and conditions relating to vesting and the post-termination 
+exercise period and including a provision to the effect that, for purposes 
+of the Guaranty Options, continuous service with the Temple-Inland Group, 
+Guaranty Group or Forestar Group from and after the Relevant Time shall be 
+deemed to constitute service with Guaranty.
+
+17
+
+------------------------------------------------------------------------
+
+
+ 
+
+               (iv) Except as otherwise provided herein, the Guaranty 
+Options and the Post-Guaranty Temple-Inland Options shall remain subject to 
+the terms and conditions of the underlying Temple-Inland Option as in 
+effect immediately prior to the Guaranty Distribution Date (taking into 
+account changes in the identity of the employer, including for purposes of 
+determining whether a change in control has occurred).
+
+               (v) Upon the exercise of a Guaranty Option, regardless of 
+the holder thereof, the exercise price shall be paid to (or otherwise 
+satisfied to the satisfaction of) Guaranty in accordance with the terms of 
+the Guaranty Option, and Guaranty shall be solely responsible for the 
+issuance of Guaranty Common Stock, for ensuring the collection of the 
+employee portion of all applicable withholding tax on behalf of the 
+employing entity of such holder, and for ensuring the remittance of such 
+withholding taxes to the employing entity of such holder. Upon the exercise 
+of a Post-Guaranty Temple-Inland Option, regardless of the holder thereof, 
+the exercise price shall be paid to (or otherwise satisfied to the 
+satisfaction of) Temple-Inland in accordance with the terms of the 
+Post-Guaranty Temple-Inland Option, and Temple-Inland shall be solely 
+responsible for the issuance of Temple-Inland Common Stock, for ensuring 
+the collection of the employee portion of all applicable withholding tax on 
+behalf of the employing entity of such holder and for ensuring the 
+remittance of such withholding taxes to the employing entity of such 
+holder. Upon the exercise of a Guaranty Option or Post-Guaranty 
+Temple-Inland Option, regardless of the holder thereof, the most recent 
+employer of the holder of the option at the time of exercise (or his 
+decedent, as applicable) shall be responsible for the satisfaction of all 
+tax reporting requirements in respect of such exercise, shall be 
+responsible for remitting the appropriate withholding amounts to the 
+appropriate taxing authorities, and shall be entitled to the benefit of any 
+tax deduction in respect of the exercise of all such options (regardless of 
+whether they are Guaranty Options or Post-Guaranty Temple-Inland Options).
+
+          (b) Forestar Distribution.
+
+               (i) Each Temple-Inland Option that is outstanding 
+immediately prior to the Forestar Distribution Date shall, as of the 
+Forestar Distribution Date, be converted into a Forestar Option and an 
+adjusted Post-Guaranty Temple-Inland Option (a Post-Forestar Temple-Inland 
+Option) in accordance with the succeeding paragraphs of this Section 
+7.1(b).
+
+               (ii) The number of shares subject to the Forestar Option 
+shall be equal to the number of shares of Forestar Common Stock to which 
+the option holder would be entitled in the Forestar Distribution had the 
+shares subject to the Post-Guaranty Temple-Inland Option represented 
+outstanding shares of Temple-Inland Common Stock as of the Forestar 
+Distribution Record Date, the resulting number of shares subject to the 
+Forestar Option being rounded down to the nearest whole share. The number 
+of shares subject to the Temple-Inland Option shall not change. The per 
+share exercise price of the Post-Forestar Temple-Inland Option shall be 
+equal to the product of (1) the per share exercise price of the 
+Post-Guaranty Temple-Inland Option immediately prior to the Forestar 
+Distribution Date (the Pre-Forestar Temple-Inland Option Price, which 
+shall be deemed to equal the Pre-Guaranty Temple-Inland Option Price if the 
+Forestar Distribution and the Guaranty Distribution occur on the same date) 
+multiplied by (2) a fraction, the numerator of which shall be the 
+Post-Forestar Temple-Inland Stock Price and the denominator of which shall 
+be the sum of (i) the Post-Forestar Temple-Inland Stock Price, (ii) the
+
+18
+
+------------------------------------------------------------------------
+
+
+ 
+
+quotient determined by dividing the Initial Forestar Stock Price by the 
+Forestar Ratio (as defined below) (such quotient, the Forestar Option 
+Conversion Value), and (iii) if the Forestar Distribution and Guaranty 
+Distribution occur on the same date, the Guaranty Option Conversion Value, 
+which product shall be rounded up to the nearest whole cent. The per share 
+exercise price of the Forestar Option shall be equal to the product of (1) 
+the Pre-Forestar Temple-Inland Option Price multiplied by (2) a fraction, 
+the numerator of which shall be the Initial Forestar Stock Price and the 
+denominator of which shall be the sum of (i) the Post-Forestar 
+Temple-Inland Stock Price, (ii) Forestar Option Conversion Value, and (iii) 
+if the Forestar Distribution and Guaranty Distribution occur on the same 
+date, the Guaranty Option Conversion Value, which product shall be rounded 
+up to the nearest whole cent. For purposes of this paragraph (b), 
+Forestar Ratio shall mean the amount determined by dividing (x) the number 
+one (1) by (y) the number of shares of Forestar Common Stock distributed in 
+respect of each share of Temple-Inland Common Stock in the Forestar 
+Distribution.
+
+               (iii) Prior to the Forestar Distribution Date, Temple-Inland 
+shall take all actions necessary to provide that, effective as of the 
+Forestar Distribution Date, for purposes of the Post-Forestar Temple-Inland 
+Options (including in determining exercisability and the post-termination 
+exercise period), a Forestar Employees continuous service with the 
+Forestar Group or Guaranty Group following the Forestar Distribution Date 
+shall be deemed continued service with Temple-Inland. Forestar shall issue 
+each Forestar Option under the Forestar Stock Plan with terms such that, 
+except as otherwise provided herein, the terms and conditions applicable to 
+the Forestar Options shall be substantially similar to the terms and 
+conditions applicable to the corresponding Temple-Inland Option, including 
+the terms and conditions relating to vesting and the post-termination 
+exercise period and including a provision to the effect that, for purposes 
+of the Forestar Options, continuous service with the Temple-Inland Group, 
+Guaranty Group or Forestar Group from and after the Relevant Time shall be 
+deemed to constitute service with Forestar.
+
+               (iv) Except as otherwise provided herein, the Forestar 
+Options and the Post-Forestar Temple-Inland Options shall remain subject to 
+the terms and conditions of the underlying Temple-Inland Option as in 
+effect immediately prior to the Forestar Distribution Date (taking into 
+account changes in the identity of the employer, including for purposes of 
+determining whether a change in control has occurred).
+
+               (v) Upon the exercise of a Forestar Option, regardless of 
+the holder thereof, the exercise price shall be paid to (or otherwise 
+satisfied to the satisfaction of) Forestar in accordance with the terms of 
+the Forestar Option, and Forestar shall be solely responsible for the 
+issuance of Forestar Common Stock, for ensuring the collection of the 
+employee portion of all applicable withholding tax on behalf of the 
+employing entity of such holder, and for ensuring the remittance of such 
+withholding taxes to the employing entity of such holder. Upon the exercise 
+of a Post-Forestar Temple-Inland Option, regardless of the holder thereof, 
+the exercise price shall be paid to (or otherwise satisfied to the 
+satisfaction of) Temple-Inland in accordance with the terms of the 
+Post-Forestar Temple-Inland Option, and Temple-Inland shall be solely 
+responsible for the issuance of Temple-Inland Common Stock, for ensuring 
+the collection of the employee portion of all applicable withholding tax on 
+behalf of the employing entity of such holder and for ensuring the 
+remittance of such withholding taxes to the employing entity of such 
+holder. Upon the exercise of a Forestar Option or Post-Forestar 
+Temple-Inland Option, regardless of the holder thereof, the
+
+19
+
+------------------------------------------------------------------------
+
+
+ 
+
+most recent employer of the holder of the option at the time of exercise 
+(or his decedent, as applicable) shall be responsible for the satisfaction 
+of all tax reporting requirements in respect of such exercise, shall be 
+responsible for remitting the appropriate withholding amounts to the 
+appropriate taxing authorities, and shall be entitled to the benefit of any 
+tax deduction in respect of the exercise of all such options (regardless of 
+whether they are Forestar Options or Post-Forestar Temple-Inland Options).
+
+          (c) Special Ordering Rule. To the extent that the Forestar 
+Distribution Date occurs before the Guaranty Distribution Date, all 
+references to Guaranty in subsections (a) and (b), above, shall be deemed 
+to be references to Forestar, and all references to Forestar in subsections 
+(a) and (b), above, shall be deemed to be references to Guaranty.
+
+     Section 7.2 Treatment of Outstanding Temple-Inland Restricted Shares.
+
+          (a) Each holder as of the Guaranty Distribution Record Date of 
+Temple-Inland Restricted Shares that remain outstanding immediately prior 
+to the Guaranty Distribution Date shall receive, upon the Guaranty 
+Distribution being made, such number of Guaranty Restricted Shares as 
+equals the number of shares of Guaranty Common Stock to which all other 
+holders of shares of Temple-Inland Common Stock shall be entitled to 
+receive upon the Guaranty Distribution being made. Each holder as of the 
+Forestar Distribution Record Date of Temple-Inland Restricted Shares that 
+remain outstanding immediately prior to the Forestar Distribution Date 
+shall receive, upon the Forestar Distribution being made, such number of 
+Forestar Restricted Shares as equals the number of shares of Forestar 
+Common Stock to which all other holders of shares of Temple-Inland Common 
+Stock shall be entitled to receive upon the Forestar Distribution being 
+made.  The Temple-Inland Restricted Shares outstanding following the 
+Guaranty Distribution or Forestar Distribution or both having been made are 
+hereinafter referred to as adjusted Temple-Inland Restricted Shares. The 
+Guaranty Restricted Shares, Forestar Restricted Shares and the adjusted 
+Temple-Inland Restricted Shares shall be subject to the succeeding 
+paragraphs of this Section 7.2.
+
+          (b) All Guaranty Restricted Shares, Forestar Restricted Shares 
+and adjusted Temple-Inland Restricted Shares shall become vested upon the 
+date the Temple-Inland Restricted Shares would have otherwise vested in 
+accordance with the existing vesting schedule.
+
+          (c) Prior to the Guaranty Distribution Date and Forestar 
+Distribution Date, respectively, Temple-Inland shall take all steps 
+necessary to provide that, effective as of the Guaranty Distribution Date 
+and Forestar Distribution Date, respectively, for purposes of continued 
+vesting of the adjusted Temple-Inland Restricted Shares, a Guaranty 
+Employees continuous service with the Guaranty Group or Forestar Group 
+following the Guaranty Distribution Date shall be deemed continued service 
+with Temple-Inland and a Forestar Employees continuous service with the 
+Forestar Group or Guaranty Group following the Forestar Distribution Date 
+shall be deemed continued service with Temple-Inland. Except as otherwise 
+provided herein, the terms and conditions applicable to the Guaranty 
+Restricted Shares and Forestar Restricted Shares, respectively, shall be 
+substantially similar to the terms and conditions applicable to the 
+corresponding Temple-Inland Restricted Shares (taking into account changes 
+in the identity of the employer, including for purposes of determining 
+whether a change in control has occurred),
+
+20
+
+------------------------------------------------------------------------
+
+
+ 
+
+including a provision to the effect that, for purposes of the Guaranty 
+Restricted Shares and Forestar Restricted Shares, continuous service of a 
+Temple-Inland Employee, Guaranty Employee or Forestar Employee with any 
+member of the Temple-Inland Group, Guaranty Group or Forestar Group shall 
+be deemed to constitute service with Guaranty and Forestar, respectively; 
+provided, that, nothing in this Section 7.2(c) shall require the payment or 
+crediting of dividends to holders of Temple-Inland Common Stock, Guaranty 
+Common Stock or Forestar Common Stock.
+
+          (d) Upon the vesting of the Guaranty Restricted Shares, Guaranty 
+shall be solely responsible for the settlement of all Guaranty Restricted 
+Shares, regardless of the holder thereof, and for ensuring the satisfaction 
+of the employee portion of all applicable tax withholding requirements on 
+behalf of the employing entity of such holder and for ensuring the 
+remittance of such withholding taxes to the employing entity of such 
+holder. Upon the vesting of the Forestar Restricted Shares, Forestar shall 
+be solely responsible for the settlement of all Forestar Restricted Shares, 
+regardless of the holder thereof, and for ensuring the satisfaction of the 
+employee portion of all applicable tax withholding requirements on behalf 
+of the employing entity of such holder and for ensuring the remittance of 
+such withholding taxes to the employing entity of such holder. Upon the 
+vesting of the Temple-Inland Restricted Shares, Temple-Inland shall be 
+solely responsible for the settlement of all Temple-Inland Restricted 
+Shares, regardless of the holder thereof, and for ensuring the satisfaction 
+of the employee portion of all applicable tax withholding requirements on 
+behalf of the employing entity of such holder and for ensuring the 
+remittance of such withholding taxes to the employing entity of such 
+holder. Upon the vesting of Temple-Inland Restricted Shares, Guaranty 
+Restricted Shares or Forestar Restricted Shares, the employer of the holder 
+of the respective shares (or, in the case of vesting upon death, the 
+employer of the decedent at the time of death) shall be responsible for the 
+satisfaction of all tax reporting requirements in respect of such vesting, 
+shall be responsible for remitting the appropriate withholding amounts to 
+the appropriate taxing authorities and shall be entitled to the benefit of 
+any tax deduction in respect of the vesting of all such restricted shares 
+(regardless of whether the restricted share is a Temple-Inland Restricted 
+Share, Guaranty Restricted Share or Forestar Restricted Share).
+
+     Section 7.3 Treatment of Outstanding Temple-Inland Restricted Stock 
+Units.
+
+          (a) Each Temple-Inland Restricted Stock Unit that is outstanding 
+immediately prior to the Guaranty Distribution Date shall be converted, as 
+of the Guaranty Distribution Date, into a Guaranty Restricted Stock Unit 
+and an adjusted Temple-Inland Restricted Stock Unit (including a ratable 
+portion of any accumulated dividend equivalents) in accordance with the 
+succeeding paragraphs of this Section 7.3. Each Temple-Inland Restricted 
+Stock Unit that is outstanding immediately prior to the Forestar 
+Distribution Date shall be converted, as of the Forestar Distribution Date, 
+into a Forestar Restricted Stock Unit and an adjusted Temple-Inland 
+Restricted Stock Unit (including a ratable portion of any accumulated 
+dividend equivalents) in accordance with the succeeding paragraphs of this 
+Section 7.3.
+
+          (b) The number of Guaranty Restricted Stock Units and Forestar 
+Restricted Stock Units shall be equal, respectively, to the number of 
+shares of Guaranty Common Stock and Forestar Common Stock to which the 
+holder of Temple-Inland Restricted Stock Units would be entitled in the 
+Guaranty Distribution and Forestar Distribution had the Temple-Inland 
+Restricted Stock Units represented actual shares of Temple-Inland Common 
+Stock as of the Guaranty
+
+21
+
+------------------------------------------------------------------------
+
+
+ 
+
+Distribution Record Date and Forestar Distribution Record Date, 
+respectively, the resulting number of Guaranty Restricted Stock Units and 
+Forestar Restricted Stock Units, respectively, being rounded down to the 
+nearest whole unit. All Guaranty Restricted Stock Units, Forestar 
+Restricted Stock Units and adjusted Temple-Inland Restricted Stock Units 
+shall become vested upon the date the Temple-Inland Restricted Stock Units 
+would have otherwise vested in accordance with the existing vesting 
+schedule.
+
+          (c) Prior to the Guaranty Distribution Date and Forestar 
+Distribution Date, respectively, Temple-Inland take all actions necessary 
+to provide that, effective as of the respective Distribution Date, for 
+purposes of continued vesting of the adjusted Temple-Inland Restricted 
+Stock Units, a Guaranty Employees continuous service with the Guaranty 
+Group or Forestar Group following the Guaranty Distribution Date shall be 
+deemed continued service with Temple-Inland, and a Forestar Employees 
+continuous service with the Forestar Group or Guaranty Group following the 
+Forestar Distribution Date shall be deemed continued service with 
+Temple-Inland. Except as otherwise provided herein, the terms and 
+conditions applicable to the Guaranty Restricted Stock Units and Forestar 
+Restricted Stock Units, respectively, shall be substantially similar to the 
+terms and conditions applicable to the corresponding Temple-Inland 
+Restricted Stock Unit (taking into account changes in the identity of the 
+employer, including for purposes of determining whether a change in control 
+has occurred), including a provision to the effect that, for purposes of 
+the Guaranty Restricted Stock Units and Forestar Restricted Stock Units, 
+continuous service of a Temple-Inland Employee, Guaranty Employee or 
+Forestar Employee with any member of the Temple-Inland Group, Guaranty 
+Group or Forestar Group shall be deemed to constitute service with Guaranty 
+and Forestar, respectively; provided, that, nothing in this Section 7.3(c) 
+shall require the payment or crediting of dividends to holders of 
+Temple-Inland Common Stock, Guaranty Common Stock or Forestar Common Stock.
+
+          (d) Upon the vesting of the Temple-Inland Restricted Stock Units, 
+Guaranty Restricted Stock Units or Forestar Restricted Stock Units that are 
+to be settled in cash, the employer of the holder of the respective unit 
+(or, in the case of vesting upon death, the employer of the decedent at the 
+time of death) shall be solely responsible for the settlement of the unit 
+(including any attributable dividend equivalents), regardless of whether 
+the unit is a Temple-Inland Restricted Stock Unit, Guaranty Restricted 
+Stock Unit, or Forestar Restricted Stock Unit, and for ensuring the 
+satisfaction of all applicable tax reporting and withholding requirements 
+in respect of such settlement and for ensuring the remittance of such 
+withholding taxes, and the employer of the holder of the respective unit 
+(or, in the case of vesting upon death, the employer of the decedent at the 
+time of death) shall be entitled to the benefit of any tax deduction in 
+respect of the settlement of all such restricted stock units (regardless of 
+whether the restricted stock unit is a Temple-Inland Restricted Stock Unit, 
+Guaranty Restricted Stock Unit or Forestar Restricted Stock Unit). Upon the 
+vesting of the Temple-Inland Restricted Stock Units that are settled in 
+shares of Temple-Inland Common Stock, Temple-Inland shall be solely 
+responsible for the settlement of all Temple-Inland Restricted Stock Units, 
+regardless of the holder thereof, and for ensuring the satisfaction of the 
+employee portion of all applicable tax withholding requirements on behalf 
+of the employing entity of such holder and for ensuring the remittance of 
+such withholding taxes to the employing entity of such holder. Upon the 
+vesting of the Guaranty Restricted Stock Units that are settled in shares 
+of Guaranty Common Stock, Guaranty shall be solely responsible for the 
+settlement of all Guaranty Restricted Stock Units, regardless of the
+
+22
+
+------------------------------------------------------------------------
+
+
+ 
+
+holder thereof, and for ensuring the satisfaction of the employee portion 
+of all applicable tax withholding requirements on behalf of the employing 
+entity of such holder and for ensuring the remittance of such withholding 
+taxes to the employing entity of such holder. Upon the vesting of the 
+Forestar Restricted Stock Units that are settled in shares of Forestar 
+Common Stock, Forestar shall be solely responsible for the settlement of 
+all Forestar Restricted Stock Units, regardless of the holder thereof, and 
+for ensuring the satisfaction of the employee portion of all applicable tax 
+withholding requirements on behalf of the employing entity of such holder 
+and for ensuring the remittance of such withholding taxes to the employing 
+entity of such holder. Upon the vesting of Temple-Inland Restricted Stock 
+Units, Guaranty Restricted Stock Units or Forestar Restricted Stock Units 
+that are settled in shares of Temple-Inland Common Stock, Guaranty Common 
+Stock, or Forestar Common Stock, as the case may be, the employer of the 
+holder of the respective unit (or, in the case of vesting upon death, the 
+employer of the decedent at the time of death) shall be responsible for the 
+satisfaction of all tax reporting requirements in respect of such 
+settlement, shall be responsible for remitting the appropriate withholding 
+amounts to the appropriate taxing authorities and shall be entitled to the 
+benefit of any tax deduction in respect of the settlement of all such 
+restricted stock units (regardless of whether the restricted stock unit is 
+a Temple-Inland Restricted Stock Unit, Guaranty Restricted Stock Unit, or 
+Forestar Restricted Stock Unit).
+
+     Section 7.4 Treatment of Outstanding Temple-Inland Performance Shares
+.
+
+          (a) Each Temple-Inland Performance Share that is outstanding 
+immediately prior to the Guaranty Distribution Date shall represent, as of 
+the Guaranty Distribution Date, a Guaranty Performance Share and an 
+adjusted Temple-Inland Performance Share (including a ratable portion of 
+any accumulated dividend equivalents) in accordance with the succeeding 
+paragraphs of this Section 7.4. Each Temple-Inland Performance Share that 
+is outstanding immediately prior to the Forestar Distribution Date shall 
+represent, as of the Forestar Distribution Date, a Forestar Performance 
+Share and an adjusted Temple-Inland Performance Share (including a ratable 
+portion of any accumulated dividend equivalents) in accordance with the 
+succeeding paragraphs of this Section 7.4.
+
+          (b) The number of Guaranty Performance Shares and Forestar 
+Performance Shares shall be equal, respectively, to the number of shares of 
+Guaranty Common Stock and Forestar Common Stock to which the holder of 
+Temple-Inland Performance Shares would be entitled in the Guaranty 
+Distribution and Forestar Distribution had the Temple-Inland Performance 
+Shares represented actual shares of Temple-Inland Common Stock as of the 
+Guaranty Distribution Record Date and Forestar Distribution Record Date, 
+respectively, the resulting number of Guaranty Performance Shares and 
+Forestar Performance Shares being rounded down to the nearest whole unit.
+
+          (c) Prior to the Guaranty Distribution Date and Forestar 
+Distribution Date, respectively, Temple-Inland shall take all steps 
+necessary to provide that, for purposes of continued vesting of the 
+adjusted Temple-Inland Performance Shares, a Guaranty Employees continuous 
+service with the Guaranty Group or Forestar Group following the Guaranty 
+Distribution Date shall be deemed continued service with Temple-Inland, and 
+a Forestar Employees continuous service with the Forestar Group or 
+Guaranty Group following the Forestar Distribution Date shall be deemed 
+continued service with Temple-Inland. For purposes of the
+
+23
+
+------------------------------------------------------------------------
+
+
+ 
+
+Guaranty Performance Shares and Forestar Performance Shares, continuous 
+service of a Temple-Inland Employee, Guaranty Employee or Forestar Employee 
+with any member of the Temple-Inland Group, Guaranty Group or Forestar 
+Group shall be deemed to constitute service with Guaranty and Forestar, 
+respectively.
+
+          (d) Upon the vesting of the Temple-Inland Performance Shares, 
+Guaranty Performance Shares or Forestar Performance Shares, Temple-Inland 
+shall be solely responsible for the settlement of all such performance 
+shares, regardless of the holder thereof, and for ensuring the satisfaction 
+of the employee portion of all applicable tax withholding requirements on 
+behalf of the employing entity of such holder and for ensuring the 
+remittance of such withholding taxes to the employing entity of such 
+holder. Guaranty and Forestar, respectively, shall promptly reimburse 
+Temple-Inland for the amount paid in respect of any Guaranty Performance 
+Share or Forestar Performance Share and the related employee portion of any 
+applicable tax withholding requirements. The employer of the holder of the 
+respective performance share shall be responsible for the satisfaction of 
+all tax reporting requirements in respect of the settlement of the 
+performance share, shall be responsible for remitting the appropriate 
+withholding amounts to the appropriate taxing authorities and shall be 
+entitled to the benefit of any tax deduction in respect of the settlement 
+of the performance share (regardless of whether the performance share is a 
+Temple-Inland Performance Share, Guaranty Performance Share, or Forestar 
+Performance Share).
+
+     Section 7.5 Cooperation and Special Award Terms. Each of the Parties 
+shall establish an appropriate administration system in order to handle in 
+an orderly manner exercises of Temple-Inland Options, Guaranty Options and 
+Forestar Options and the settlement of Temple-Inland Restricted Shares, 
+Temple-Inland Restricted Stock Units, Temple-Inland Performance Shares, 
+Guaranty Restricted Shares, Guaranty Restricted Stock Units, Guaranty 
+Performance Shares, Forestar Restricted Shares, Forestar Restricted Stock 
+Units and Forestar Performance Shares. Each of the Parties will work 
+together to unify and consolidate all indicative data and payroll and 
+employment information on regular timetables and make certain that each 
+applicable entitys data and records in respect of such awards are correct 
+and updated on a timely basis. The foregoing shall include employment 
+status and information required for tax withholding/remittance, compliance 
+with trading windows and compliance with the requirements of the Exchange 
+Act and other applicable Laws. Each of the parties shall honor the terms of 
+any agreement entered into before the Relevant Time with any employee of 
+another party insofar as such agreement provides for accelerated vesting or 
+the extension of the term of any Temple-Inland Options, Guaranty Options, 
+Forestar Options, Temple-Inland Restricted Shares, Temple-Inland Restricted 
+Stock Units, Temple-Inland Performance Shares, Guaranty Restricted Shares, 
+Guaranty Restricted Stock Units, Guaranty Performance Shares, Forestar 
+Restricted Shares, Forestar Restricted Stock Units or Forestar Performance 
+Shares.
+
+     Section 7.6 SEC Registration. The Parties mutually agree to use 
+commercially reasonable efforts to maintain effective registration 
+statements with the SEC with respect to the long-term incentive awards 
+described in this Article VII, to the extent any such registration 
+statement is required by applicable Law.
+
+     Section 7.7 Savings Clause. The Parties hereby acknowledge that the 
+provisions of this Article VII are intended to achieve certain tax, legal 
+and accounting objectives as set forth in the
+
+24
+
+------------------------------------------------------------------------
+
+
+ 
+
+Separation Agreement and, in the event such objectives are not achieved, 
+the Parties agree to negotiate in good faith regarding such other actions 
+that may be necessary or appropriate to achieve such objectives.
+
+
+ARTICLE VIII
+
+ADDITIONAL COMPENSATION MATTERS
+
+     Section 8.1 Workers Compensation Liabilities. All workers 
+compensation Liabilities relating to, arising out of, or resulting from any 
+claim by a Temple-Inland Employee, Former Temple-Inland Employee, Guaranty 
+Employee, Former Guaranty Employee, Forestar Employee or Former Forestar 
+Employee that results from an accident, incident or event occurring, or 
+from an occupational disease which becomes manifest, at, before or after 
+the Relevant Time shall be retained or assumed by Temple-Inland (in respect 
+of Temple-Inland Employees and Former Temple-Inland Employees), Guaranty 
+(in respect of Guaranty Employees or Former Guaranty Employees) or Forestar 
+(in respect of Forestar Employees or Former Forestar Employees), as the 
+case may be.
+
+     Section 8.2 Sections 162(m)/409A. Notwithstanding anything in this 
+Agreement to the contrary (including the treatment of supplemental and 
+deferred compensation plans, outstanding long-term incentive awards and 
+annual incentive awards as described herein), the Parties agree to 
+negotiate in good faith regarding the need for any treatment different from 
+that otherwise provided herein to ensure that (i) a federal income Tax 
+deduction for the payment of such supplemental or deferred compensation or 
+long-term incentive award, annual incentive award or other compensation is 
+not limited by reason of Section 162(m) of the Code, and (ii) the treatment 
+of such supplemental or deferred compensation or long-term incentive award, 
+annual incentive award or other compensation does not cause the imposition 
+of a tax under Section 409A of the Code.
+
+     Section 8.3 Director Programs.
+
+          (a) Director Fees. Except as provided in subsection (b), below, 
+Temple-Inland shall retain responsibility for the payment of any fees 
+payable in respect of service on the Temple-Inland Board of Directors that 
+are payable but not yet paid as of the Final Distribution Date, and neither 
+Guaranty nor Forestar shall have any responsibility for any such payments 
+(to an individual who is a member of the Guaranty Board of Directors or 
+Forestar Board of Directors as of the Relevant Time or otherwise).
+
+          (b) Certain Director Fees. With respect to any fees payable under 
+the Temple-Inland Directors Fee Deferral Plan that are payable in shares of 
+Temple-Inland Common Stock upon Termination of Service, as defined in such 
+plan, each share of Temple-Inland Common Stock credited under such plan 
+immediately before the Relevant Time shall, at the Relevant Time, be 
+treated in the same manner as described in Section 7.3 in respect of 
+Temple-Inland Restricted Stock Units (such that each such credited share of 
+Temple-Inland Common Stock shall be deemed to represent Guaranty Common 
+Stock and Forestar Common Stock as well, as the case may be). Upon 
+entitlement to payment under the plan, Temple-Inland shall be solely 
+responsible for the settlement of all shares payable in the form of 
+Temple-Inland Common Stock, Guaranty shall be
+
+25
+
+------------------------------------------------------------------------
+
+
+ 
+
+solely responsible for the settlement of all shares payable in the form of 
+Guaranty Common Stock, and Forestar shall be solely responsible for the 
+settlement of all shares payable in the form of Forestar Common Stock, in 
+each case regardless of the person entitled to payment.
+
+     Section 8.4 Certain Payroll, Bonus and Supplemental Plan Matters.
+
+          (a) Payroll of Transferring Employees.
+
+               (i) Temple-Inland to Guaranty/Forestar. In the case of an 
+individual who transfers employment at the Relevant Time from Temple-Inland 
+to either Guaranty or Forestar, Guaranty and Forestar, as the case may be, 
+shall be responsible for paying the entire payroll amount due such 
+individual for the first payroll cycle ending after the Relevant Time and 
+for satisfying all applicable tax reporting and withholding requirements in 
+respect of such payment; provided, that, Temple-Inland shall reimburse 
+Guaranty and Forestar for the gross amount of the payroll payment (i.e., 
+including any applicable deductions) and for all tax withholdings remitted 
+in respect of such portion of the payroll period ending before the Relevant 
+Time. Temple-Inland shall be entitled to the benefit of any tax deduction 
+in respect of its payment for the portion of the payroll period ending 
+before the Relevant Time.
+
+               (ii) Guaranty/Forestar to Temple-Inland. In the case of an 
+individual who transfers employment at the Relevant Time from Guaranty or 
+Forestar to Temple-Inland, Temple-Inland shall be responsible for paying 
+the entire payroll amount due such individual for the first payroll cycle 
+ending after the Relevant Time and for satisfying all applicable tax 
+reporting and withholding requirements in respect of such payment; 
+provided, that, Guaranty and Forestar, as the case may be, shall reimburse 
+Temple-Inland for the gross amount of the payroll payment (i.e., including 
+any applicable deductions) and for all tax withholdings remitted in respect 
+of such portion of the payroll period ending before the Relevant Time. 
+Temple-Inland shall be entitled to the benefit of any tax deduction in 
+respect of its payment for the portion of the payroll period ending before 
+the Relevant Time; provided, that, Temple-Inland shall allocate such 
+deduction to the Guaranty or Forestar segment of its operations, as the 
+case may be.
+
+          (b) Certain Bonus Payments.
+
+               (i) In General. Except to the extent otherwise provided in 
+Section 8.4(b)(ii) or 8.4(b)(iii), all bonuses in respect of 2007 shall be 
+paid to Temple-Inland Employees, Guaranty Employees and Forestar Employees 
+by each of Temple-Inland, Guaranty and Forestar, respectively, at the time 
+such bonuses are normally paid (i.e., in December 2007 in respect of 
+Guaranty Employees and in February 2008 in respect of Temple-Inland and 
+Forestar Employees) in accordance with the bonus pools determined by the 
+Management Development and Executive Compensation Committee of the 
+Temple-Inland Board of Directors in November 2007 for each of 
+Temple-Inland, Guaranty and Forestar.
+
+               (ii) Certain Bonus Amounts. Not later than February 29, 
+2008, the Management Development and Executive Compensation Committee of 
+the Temple-Inland Board of Directors shall make and communicate to Guaranty 
+and Forestar a determination of the amount of Tier I bonuses that 
+Temple-Inland would have paid in respect of 2007 to the Guaranty
+
+26
+
+------------------------------------------------------------------------
+
+
+ 
+
+Employees and Forestar Employees, respectively, but for the foregoing 
+provisions of this Section 8.4. Guaranty and Forestar, as the case may be, 
+shall be responsible for paying the entire amount of such bonuses to their 
+respective employees on or before March 15, 2008 and for satisfying all 
+applicable tax reporting and withholding requirements in respect of such 
+bonuses and shall be entitled to the benefit of any tax deduction for the 
+amount paid.
+
+               (iii) Partial Year Employees. In the case of an individual 
+who for some part of 2007 was an employee of two or more of Temple-Inland, 
+Guaranty and Forestar, the original employer who established the potential 
+2007 bonus for such individual shall inform any subsequent employer of the 
+actual amount of bonus the original employer would have paid, and the 
+employer of such individual at the Relevant Time (for purposes of this 
+Section 8.4(b)(iii), the paying employer) shall pay any bonus payable for 
+2007 in such amount as the paying employer in its discretion shall 
+determine; provided, that, (A) the prior employer or employers shall 
+reimburse the paying employer in an amount equal to the bonus amount the 
+original employer determined it would have paid for the entire year 
+(together with any applicable withholdings), (B) the prior employer or 
+employers shall be entitled to the benefit of any tax deduction in respect 
+of the amount reimbursed, and (C) the paying employer shall be entitled to 
+the benefit of any tax deduction for the amount actually paid in excess of 
+such reimbursement. The paying employer shall be responsible for satisfying 
+all applicable tax reporting and withholding requirements in respect of the 
+bonus payment.
+
+          (c) Certain Supplemental Plan Payments.
+
+               (i) TIFS SERP. Guaranty shall, in accordance with Section 
+6.2 and the terms of the Temple-Inland Financial Services Supplemental 
+Benefits Plan and Temple-Inland Financial Services Excess Benefits Plan, 
+pay to Temple-Inland Employees and Forestar Employees in 2008 all amounts 
+to be paid to such employees by Guaranty under such plans, shall be 
+responsible for satisfying all applicable tax reporting and withholding 
+requirements in respect of such payments made at any time during 2008, and 
+shall be entitled to the benefit of any tax deduction for such payments 
+made at any time during 2008.
+
+               (ii) Temple-Inland SERP. Temple-Inland shall, in accordance 
+with Section 6.1 and the terms of the Temple-Inland Inc. Supplemental 
+Executive Retirement Plan, pay to Guaranty Employees, Former Guaranty 
+Employees, Forestar Employees, and Former Forestar Employees in 2008 all 
+amounts to be paid to such employees by Temple-Inland under such plan, 
+shall be responsible for satisfying all applicable tax reporting and 
+withholding requirements in respect of such payments made at any time 
+during 2008, and shall be entitled to the benefit of any tax deduction for 
+such payments made at any time during 2008.
+
+          (d) Forms W-2. Temple-Inland shall retain Form W-2 and other 
+payroll reporting obligations for the 2007 calendar year for all Guaranty 
+Employees, Former Guaranty Employees, Forestar Employees and Former 
+Forestar Employees. Each Party shall bear the expense of, and W-2 and other 
+payroll reporting obligations for, all compensation payable to or on behalf 
+of its employees, contractors, and former employees and contractors in 
+years subsequent to 2007 (including compensation relative to relocations or 
+relocation subsidies initiated prior to 2008) except as otherwise set forth 
+herein.
+
+27
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+ARTICLE IX
+
+INDEMNIFICATION
+
+     Section 9.1 General Indemnification. Any claim for indemnification 
+under this Agreement shall be governed by, and be subject to, the 
+provisions of Article VII of the Separation Agreement, which provisions are 
+hereby incorporated by reference into this Agreement and any references to 
+Agreement in such Article VII as incorporated herein shall be deemed to 
+be references to this Agreement.
+
+
+ARTICLE X
+
+GENERAL AND ADMINISTRATIVE
+
+     Section 10.1 Sharing Of Information. Temple-Inland, Guaranty and 
+Forestar (acting directly or through their respective Affiliates) shall 
+provide to each other and their respective agents and vendors all 
+Information as the other may reasonably request to enable the requesting 
+Party to administer efficiently and accurately each of its Benefit Plans, 
+to timely and accurately comply with and report under Section 14 of the 
+Exchange Act, and to determine the scope of, as well as fulfill, its 
+obligations under this Agreement. Such information shall, to the extent 
+reasonably practicable, be provided in the format and at the times and 
+places requested, but in no event shall the Party providing such 
+information be obligated to incur any out-of-pocket expenses not reimbursed 
+by the Party making such request or make such information available outside 
+of its normal business hours and premises. Any information shared or 
+exchanged pursuant to this Agreement shall be subject to the 
+confidentiality requirements set forth in the Separation Agreement. The 
+Parties also hereby agree to enter into any business associate agreements 
+that may be required for the sharing of any Information pursuant to this 
+Agreement to comply with the requirements of HIPAA.
+
+     Section 10.2 Reasonable Efforts/Cooperation. Each of the Parties 
+hereto will use its commercially reasonable efforts to promptly take, or 
+cause to be taken, all actions and to do, or cause to be done, all things 
+necessary, proper or advisable under applicable Laws and regulations to 
+consummate the transactions contemplated by this Agreement, including 
+adopting plans or plan amendments. Each of the Parties hereto shall 
+cooperate fully on any issue relating to the transactions contemplated by 
+this Agreement for which the other Party seeks a determination letter or 
+private letter ruling from the Internal Revenue Service, an advisory 
+opinion from the Department of Labor or any other filing, consent or 
+approval with respect to or by a Governmental Entity.
+
+     Section 10.3 Employer Rights. Nothing in this Agreement shall prohibit 
+any Party or any of their respective Affiliates from amending, modifying or 
+terminating any of their respective Benefit Plans at any time within their 
+sole discretion.
+
+     Section 10.4 Effect on Employment. Except as expressly provided in 
+this Agreement, the occurrence of neither the Guaranty Distribution nor the 
+Forestar Distribution alone shall cause
+
+28
+
+------------------------------------------------------------------------
+
+
+ 
+
+any employee to be deemed to have incurred a termination of employment 
+which entitles such individual to the commencement of benefits under any of 
+the Temple-Inland Benefit Plans (provided that Guaranty Participants and 
+Forestar Participants may become eligible for a distribution from the 
+Temple-Inland Retirement Plan in accordance with the terms of such plan). 
+Furthermore, nothing in this Agreement is intended to confer upon any 
+employee or former employee of Temple-Inland, Guaranty, Forestar or any of 
+their respective Affiliates any right to continued employment, or any 
+recall or similar rights to an individual on layoff or any type of approved 
+leave.
+
+     Section 10.5 Consent Of Third Parties. If any provision of this 
+Agreement is dependent on the Consent of any third party and such consent 
+is withheld, the Parties hereto shall use their reasonable best efforts to 
+implement the applicable provisions of this Agreement to the fullest extent 
+practicable. If any provision of this Agreement cannot be implemented due 
+to the failure of such third party to consent, the Parties hereto shall 
+negotiate in good faith to implement the provision (as applicable) in a 
+mutually satisfactory manner.
+
+     Section 10.6 Access To Employees. Following the Effective Time, 
+Temple-Inland, Guaranty and Forestar shall, or shall cause each of their 
+respective Affiliates to, make available to each other those of their 
+employees who may reasonably be needed in order to defend or prosecute any 
+legal or administrative action (other than a legal action between or among 
+any of the Parties) to which any employee, director or Benefit Plan of the 
+Temple-Inland Group, Guaranty Group or Forestar Group is a party and which 
+relates to their respective Benefit Plans prior to the Relevant Time. The 
+Party to whom an employee is made available in accordance with this Section 
+10.6 shall pay or reimburse the other Party for all reasonable expenses 
+which may be incurred by such employee in connection therewith, including 
+all reasonable travel, lodging, and meal expenses, but excluding any amount 
+for such employees time spent in connection herewith.
+
+     Section 10.7 Beneficiary Designation/Release Of Information/Right To 
+Reimbursement. To the extent permitted by applicable Law and except as 
+otherwise provided for in this Agreement, all beneficiary designations, 
+authorizations for the release of Information and rights to reimbursement 
+made by or relating to Guaranty Participants or Forestar Participants under 
+Temple-Inland Benefit Plans shall be transferred to and be in full force 
+and effect under the corresponding Guaranty Benefit Plans and Forestar 
+Benefit Plans until such beneficiary designations, authorizations or rights 
+are replaced or revoked by, or no longer apply, to the relevant Guaranty 
+Participant or Forestar Participant.
+
+
+ARTICLE XI
+
+MISCELLANEOUS
+
+     Section 11.1 Effect If Certain Events Do Not Occur. Notwithstanding 
+anything in this Agreement to the contrary, if the Separation Agreement is 
+terminated prior to the Effective Time, then all actions and events that 
+are, under this Agreement, to be taken or occur effective prior to, as of 
+or following the Effective Time, or otherwise in connection with the 
+Separation, shall not be taken or occur except to the extent specifically 
+agreed to in writing by Temple-Inland on the one hand and Guaranty or 
+Forestar on the other hand and no Party shall have any Liability or further
+
+29
+
+------------------------------------------------------------------------
+
+
+ 
+
+obligation to any other Party under this Agreement.
+
+     Section 11.2 Relationship Of Parties. Nothing in this Agreement shall 
+be deemed or construed by the Parties or any third party as creating the 
+relationship of principal and agent, partnership or joint venture between 
+or among the Parties, it being understood and agreed that no provision 
+contained herein, and no act of the Parties, shall be deemed to create any 
+relationship between or among the Parties other than the relationship set 
+forth herein.
+
+     Section 11.3 Subsidiaries. Each of the Parties shall cause to be 
+performed all actions, agreements and obligations set forth herein to be 
+performed by any Subsidiary or Affiliate of such Party or by any entity 
+that becomes a Subsidiary or Affiliate of such Party on and after the 
+Relevant Time. The Parties acknowledge that certain actions, agreements and 
+obligations that certain of their Affiliates and Subsidiaries may be 
+required to perform in connection with the performance of the Parties 
+obligations under this Agreement may require Governmental Approval by 
+Governmental Entities under applicable Law, and therefore agree that 
+performance of such actions, agreements and obligations is subject to the 
+receipt of all such necessary Governmental Approvals, which approvals each 
+Party shall, and shall cause the members of its respective Group to, use 
+its commercially reasonable efforts to obtain.
+
+     Section 11.4 Notices. All notices, requests, claims, demands and other 
+communications under this Agreement shall be in writing and shall be given 
+or made (and shall be deemed to have been duly given or made upon receipt 
+unless the day of receipt is not a Business Day, in which case it shall be 
+deemed to have been given on the next Business Day) by delivery in person, 
+by overnight courier service, by facsimile with receipt confirmed (followed 
+by delivery of an original via overnight courier service) or by registered 
+or certified mail (postage prepaid, return receipt requested) to the 
+respective Party or Parties at the following addresses (or at such other 
+address for a Party as shall be specified in a notice given in accordance 
+with this Section 11.4):
+
+To Temple-Inland:
+
+Temple-Inland Inc.
+1300 MoPac Expressway South
+Austin, Texas 78746
+Attn: General Counsel
+Facsimile: (512) 434-8051
+
+To Forestar:
+
+Forestar Real Estate Group Inc.
+1300 MoPac Expressway South
+Austin, Texas 78746
+Attn: General Counsel
+Facsimile: (512) 434-5780
+
+To Guaranty:
+
+30
+
+------------------------------------------------------------------------
+
+
+ 
+
+Guaranty Financial Group Inc.
+8333 Douglas Avenue
+Dallas, Texas 75225
+Attn: General Counsel
+Facsimile: (214) 360-1908
+
+     Section 11.5 Entire Agreement. This Agreement, the Separation 
+Agreement, and each other Ancillary Agreement, including any annexes, 
+schedules and exhibits thereto, as well as any other agreements and 
+documents referred to herein and therein, shall constitute the entire 
+agreement between the Parties with respect to the subject matter hereof and 
+shall supersede all previous negotiations, commitments and writings with 
+respect to such subject matter.
+
+     Section 11.6 Waivers. The failure of any Party to require strict 
+performance by any other Party of any provision in this Agreement will not 
+waive or diminish that Partys right to demand strict performance 
+thereafter of that or any other provision hereof.
+
+     Section 11.7 Amendments. Subject to the terms of Section 11.8 of this 
+Agreement, this Agreement may not be modified or amended except by an 
+agreement in writing signed by each of the Parties.
+
+     Section 11.8 Termination. This Agreement (including Article IX 
+(Indemnification) hereof) may be terminated and each Distribution may be 
+amended, modified or abandoned at any time prior to the Forestar 
+Distribution Date or the Guaranty Distribution Date by and in the sole 
+discretion of Temple-Inland without the approval of Forestar or Guaranty or 
+the stockholders of Temple-Inland and it shall be deemed terminated if and 
+when the Separation Agreement is terminated. In the event of such 
+termination, no Party shall have any Liability of any kind to any other 
+Party or any other Person. After the earlier of the Forestar Distribution 
+Date and Guaranty Distribution Date, this Agreement may not be terminated 
+except by an agreement in writing signed by Temple-Inland, Forestar and 
+Guaranty. Notwithstanding the foregoing, this Agreement may be terminated 
+or amended as among any Parties that remain Affiliates, so long as such 
+amendment does not adversely affect any Party that is no longer an 
+Affiliate, in which case, only with the Consent of such Party.
+
+     Section 11.9 Governing Law. This Agreement shall be governed by and 
+construed in accordance with the internal Laws, and not the Laws governing 
+conflicts of Laws, of the State of Texas.
+
+     Section 11.10 Dispute Resolution. Any controversy, dispute or claim 
+arising out of, in connection with, or in relation to the interpretation, 
+performance, nonperformance, validity, termination or breach of this 
+Agreement or otherwise arising out of, or in any way related to this 
+Agreement or the transactions contemplated hereby, including any claim 
+based on contract, tort, statute or constitution (but excluding any 
+controversy, dispute or claim arising out of any Contract relating to the 
+use or lease of real property if any third party is a necessary party to 
+such controversy, dispute or claim) (collectively, Agreement Dispute), 
+shall be governed by, and be subject to, the provisions of Article IX of 
+the Separation Agreement, which provisions (and related defined terms) are 
+hereby incorporated by reference into this Agreement and any references to 
+Agreement in such Article IX as incorporated herein shall be deemed to be 
+references to this
+
+31
+
+------------------------------------------------------------------------
+
+
+ 
+
+Agreement; provided, however, any references to Agreement or Agreement 
+Disputes in such Article IX as incorporated herein shall be deemed to be 
+references to this Agreement and Agreement Disputes as defined in this 
+Agreement.
+
+     Section 11.11 Consent to Jurisdiction. Subject to the provisions of 
+Article IX of the Separation Agreement, each of the Parties irrevocably 
+submits to the exclusive jurisdiction of (a) the District Court of the 
+State of Texas for Travis County, and (b) the United States District Court 
+for the Western District of Texas (the Texas Courts), for the purposes of 
+any suit, action or other proceeding to compel arbitration or for 
+provisional relief in aid of arbitration in accordance with Article IX of 
+the Separation Agreement or for provisional relief to prevent irreparable 
+harm, and to the non-exclusive jurisdiction of the Texas Courts for the 
+enforcement of any award issued thereunder. Each of the Parties further 
+agrees that service of any process, summons, notice or document by United 
+States registered mail or receipted courier service to such Partys 
+respective address set forth in Section 11.4 of this Agreement shall be 
+effective service of process for any action, suit or proceeding in the 
+Texas Courts with respect to any matters to which it has submitted to 
+jurisdiction in this Section 11.11. Each of the Parties irrevocably and 
+unconditionally waives any objection to the laying of venue of any such 
+action, suit or proceeding in the Texas Courts, and hereby further 
+irrevocably and unconditionally waives and agrees not to plead or claim in 
+any such court that any such action, suit or proceeding brought in any such 
+court has been brought in an inconvenient forum.
+
+     Section 11.12 Titles and Headings. Titles and headings to Sections and 
+Articles herein are inserted for the convenience of reference only and are 
+not intended to be a part of or to affect the meaning or interpretation of 
+this Agreement.
+
+     Section 11.13 Counterparts. This Agreement may be executed in more 
+than one counterparts, all of which shall be considered one and the same 
+agreement, and shall become effective when one or more such counterparts 
+have been signed by each of the Parties and delivered to the other Parties. 
+Execution of this Agreement or any other documents pursuant to this 
+Agreement by facsimile or other electronic copy of a signature shall be 
+deemed to be, and shall have the same effect as, executed by an original 
+signature.
+
+     Section 11.14 Assignment. Except as otherwise expressly provided for 
+in this Agreement, this Agreement shall not be assignable, in whole or in 
+part, directly or indirectly, by any Party without the prior written 
+consent of the other Parties, and any attempt to assign any rights or 
+obligations arising under this Agreement without such consent shall be null 
+and void; provided, that, a Party may assign this Agreement in connection 
+with a merger transaction in which such Party is not the surviving entity 
+or the sale by such Party of all or substantially all of its Assets, and 
+upon the effectiveness of such assignment the assigning Party shall be 
+released from all of its obligations under this Agreement provided that the 
+surviving entity of such merger or the transferee of such Assets shall 
+agree in writing, reasonably satisfactory to the other Parties, to be bound 
+by the terms of this Agreement as if named as a Party hereto.
+
+     Section 11.15 Severability. In the event any one or more of the 
+provisions contained in this Agreement should be held invalid, illegal or 
+unenforceable in any respect, the validity, legality and enforceability of 
+the remaining provisions contained herein and therein shall not in any way 
+be
+
+32
+
+------------------------------------------------------------------------
+
+
+ 
+
+affected or impaired thereby. The Parties shall endeavor in good-faith 
+negotiations to replace the invalid, illegal or unenforceable provisions 
+with valid provisions, the economic effect of which comes as close as 
+possible to that of the invalid, illegal or unenforceable provisions.
+
+     Section 11.16 Successors and Assigns. The provisions of this Agreement 
+and the obligations and rights hereunder shall be binding upon, inure to 
+the benefit of and be enforceable by (and against) the Parties and their 
+respective successors and permitted transferees and assigns.
+
+     Section 11.17 Specific Performance. The Parties agree that irreparable 
+damage would occur in the event that the provisions of this Agreement were 
+not performed in accordance with their specific terms. Accordingly, it is 
+hereby agreed that the Parties shall be entitled to (i) an injunction or 
+injunctions to enforce specifically the terms and provisions hereof in any 
+arbitration in accordance with Section 11.10 of this Agreement, (ii) 
+provisional or temporary injunctive relief in accordance therewith in any 
+Texas Court, and (iii) enforcement of any such award of an arbitral 
+tribunal or a Texas Court in any court of the United States, or any other 
+any court or tribunal sitting in any state of the United States or in any 
+foreign country that has jurisdiction, this being in addition to any other 
+remedy or relief to which they may be entitled.
+
+     Section 11.18 Waiver of Jury Trial. Subject to Sections 11.9, 11.10 
+and 11.11 of this Agreement, each of the Parties hereby waives to the 
+fullest extent permitted by applicable Law any right it may have to a trial 
+by jury with respect to any court proceeding contemplated by Section 11.11 
+of this Agreement. Each of the Parties hereby (a) certifies that no 
+representative, agent or attorney of the other Party has represented, 
+expressly or otherwise, that such other party would not, in the event of 
+litigation, seek to enforce the foregoing waiver and (b) acknowledges that 
+it has been induced to enter into this Agreement and the transactions 
+contemplated by this Agreement, as applicable, by, among other things, the 
+mutual waivers and certifications in this Section 11.18.
+
+     Section 11.19 Force Majeure. No Party (or any Person acting on its 
+behalf) shall have any liability or responsibility for failure to fulfill 
+any obligation (other than a payment obligation) under this Agreement so 
+long as and to the extent to which the fulfillment of such obligation is 
+prevented, frustrated, hindered or delayed as a consequence of 
+circumstances of Force Majeure. A Party claiming the benefit of this 
+provision shall, as soon as reasonably practicable after the occurrence of 
+any such event: (a) notify the other Party of the nature and extent of any 
+such Force Majeure condition and (b) use due diligence to remove any such 
+causes and resume performance under this Agreement as soon as reasonably 
+practicable.
+
+     Section 11.20 Authorization. Each of the Parties hereby represents and 
+warrants that it has the power and authority to execute, deliver and 
+perform this Agreement, that this Agreement has been duly authorized by all 
+necessary corporate action on the part of such Party, that this Agreement 
+constitutes a legal, valid and binding obligation of each such Party and 
+that the execution, delivery and performance of this Agreement by such 
+Party does not contravene or conflict with any provision of law or of its 
+charter or bylaws or any material agreement, instrument or order binding on 
+such Party.
+
+     Section 11.21 No Third-Party Beneficiaries. Except as otherwise 
+expressly provided in
+
+33
+
+------------------------------------------------------------------------
+
+
+ 
+
+this Agreement, this Agreement is solely for the benefit of the Parties and 
+should not be deemed to confer upon third parties any remedy, claim, 
+liability, reimbursement, cause of action or other right in excess of those 
+existing without reference to this Agreement.
+
+     Section 11.22 Construction. The Parties have participated jointly in 
+the negotiation and drafting of this Agreement. This Agreement shall be 
+construed without regard to any presumption or rule requiring construction 
+or interpretation against the party drafting or causing any instrument to 
+be drafted.
+
+
+[Remainder of this page intentionally left blank.]
+
+34
+
+------------------------------------------------------------------------
+
+
+ 
+
+          IN WITNESS WHEREOF, the Parties have caused this Agreement to be 
+duly executed as of the day and year first above written.
+  	  	  	  	  	  	 
+  	  	TEMPLE-INLAND INC. 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	Name: 	  	 
+  	  	Title: 	  	 
+ 
+  	  	  	  	  	 
+  	  	GUARANTY FINANCIAL GROUP INC. 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	Name: 	  	 
+  	  	Title: 	  	 
+ 
+  	  	  	  	  	 
+  	  	FORESTAR REAL ESTATE GROUP INC. 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	Name: 	  	 
+  	  	Title: 	  	 
+
+35
