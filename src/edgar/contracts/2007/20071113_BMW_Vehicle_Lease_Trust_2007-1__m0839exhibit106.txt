@@ -1,0 +1,1187 @@
+ EX-10.6 9 m0839exhibit106.htm ISSUER ADMINISTRATION AGREEMENT
+EXECUTION COPY
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMW VEHICLE LEASE TRUST 2007-1,
+as Issuer,
+
+
+BMW FINANCIAL SERVICES NA, LLC,
+as Administrator,
+
+
+BMW AUTO LEASING LLC,
+as Transferor,
+
+
+and
+
+
+Citibank, N.A.,
+
+
+
+
+ISSUER ADMINISTRATION AGREEMENT
+
+
+Dated as of November 2, 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+TABLE OF CONTENTS
+
+Page
+
+1.1.
+Capitalized Terms; Interpretive Provisions.
+1
+
+1.2.
+Duties of the Administrator.
+2
+
+1.3.
+Records
+8
+
+1.4.
+Compensation
+8
+
+1.5.
+Additional Information to be Furnished to the Issuer
+8
+
+1.6.
+Independence of the Administrator
+8
+
+1.7.
+No Joint Venture
+8
+
+1.8.
+Other Activities of Administrator
+8
+
+1.9.
+Term of Agreement; Resignation and Removal of Administrator
+8
+
+1.10.
+Action Upon Termination, Resignation or Removal
+10
+
+1.11.
+Notices
+10
+
+1.12.
+Amendments
+10
+
+1.13.
+Successors and Assigns
+11
+
+1.14.
+Governing Law
+11
+
+1.15.
+Headings
+11
+
+1.16.
+Counterparts
+11
+
+1.17.
+Severability
+11
+
+1.18.
+Limitation of Liability of Owner Trustee and Indenture Trustee.
+12
+
+1.19.
+Third-Party Beneficiary
+12
+
+1.20.
+Additional Requirements of the Administrator.
+12
+
+1.21.
+Nonpetition Covenants
+14
+
+
+EXHIBITS
+
+
+EXHIBIT A  FORM OF ANNUAL CERTIFICATION
+
+
+EXHIBIT B - SERVICING CRITERIA TO BE ADDRESSED IN ASSESSMENT OF COMPLIANCE
+
+
+
+
+
+------------------------------------------------------------------------
+
+This Issuer Administration Agreement, dated as of November 2, 2007 (the 
+Agreement), is among BMW Vehicle Lease Trust 2007-1, a Delaware statutory 
+trust, as issuer (the Issuer), BMW Financial Services NA, LLC a Delaware 
+limited liability company (BMW FS), as administrator (in such capacity, 
+the Administrator), BMW Auto Leasing LLC, a Delaware limited liability 
+company, as transferor (the Transferor), and Citbank, N.A., a national 
+banking association (the Indenture Trustee).
+
+
+RECITALS
+
+
+WHEREAS, BMW Auto Leasing LLC, as transferor, and Wilmington Trust Company, 
+as trustee (the Owner Trustee), are entering into that certain trust 
+agreement, dated as of October 15, 2007 and amended and restated as of 
+November 2, 2007 (the Trust Agreement), pursuant to which, among other 
+things, the Issuer will be created; and
+
+
+WHEREAS, the parties desire to enter into this Agreement to provide for, 
+among other things, the Administrators provision of certain services to 
+the Issuer and the Owner Trustee.
+
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained, 
+and of other good and valuable consideration, the receipt and adequacy of 
+which are hereby acknowledged, the parties hereto agree as follows:
+
+
+1.1.
+Capitalized Terms; Interpretive Provisions.
+
+
+(a)
+Capitalized terms used herein that are not otherwise defined shall have the 
+meanings ascribed thereto in the SUBI Trust Agreement, the Servicing 
+Agreement, the Trust Agreement or the Indenture, as the case may be.  
+Whenever used herein, unless the context otherwise requires, the following 
+words and phrases shall have the following meanings:
+
+
+Accountants means a firm of independent public accountants acceptable to 
+the Owner Trustee.
+
+
+Agreement means this Issuer Administration Agreement, as amended, 
+supplemented or modified from time to time.
+
+
+Basic Servicing Agreement means that certain servicing agreement, dated 
+as of August 30, 1995, among BMW Manufacturing L.P., as UTI Beneficiary, 
+Financial Services Vehicle Trust, as trustee and BMW FS, as servicer.
+
+
+Indenture means that certain indenture, dated as of November 2, 2007, 
+between the Issuer and the Indenture Trustee, as amended or supplemented 
+from time to time.
+
+
+Majority Interest means, with respect to the holders of Notes, the 
+holders of a majority of the aggregate principal balance of such Notes.
+
+
+Servicing Agreement means the Basic Servicing Agreement, as amended and 
+supplemented by that certain supplement dated as of November 2, 2007 among 
+the parties to the Basic Servicing Agreement, as amended or supplemented 
+from time to time.
+
+
+SUBI Trust Agreement means the Vehicle Trust Agreement, as supplemented 
+by that certain 2007-1 supplement thereto, dated as of November 2, 2007, 
+among the parties to the Vehicle Trust Agreement, as amended or 
+supplemented from time to time.
+
+
+Related Documents means all of the Basic Documents to which the Issuer or 
+the Owner Trustee is a party, as the same shall be amended from time to 
+time.
+
+
+Vehicle Trust Agreement means that certain amended and restated trust 
+agreement, dated as of September 27, 1996, as further amended as of May 25, 
+2000 and December 1, 2006 between BMW Manufacturing L.P., as grantor and 
+initial beneficiary, and The Bank of New York (Delaware), as trustee.
+
+
+(b)
+For all purposes of this Agreement, except as otherwise expressly provided 
+or unless the context otherwise requires, (i) terms used in this Agreement 
+include, as appropriate, all genders and the plural as well as the 
+singular, (ii) references to words such as herein, hereof and the like 
+shall refer to this Agreement as a whole and not to any particular part, 
+Article or Section within this Agreement and (iii) the term include and 
+all variations thereof shall mean include without limitation.
+
+
+1.2.
+Duties of the Administrator.
+
+
+(a)
+The Administrator agrees to perform all its duties as Administrator and the 
+duties (other than payment obligations) of the Issuer and the Owner Trustee 
+(other than as required under Article Thirteen of the Trust Agreement) 
+under the Related Documents.  In addition, the Administrator shall consult 
+with the Owner Trustee regarding the duties of the Issuer or the Owner 
+Trustee under the Related Documents.  The Administrator shall monitor the 
+performance of the Issuer and shall notify the Owner Trustee in writing 
+when action is necessary to comply with the respective duties (other than 
+payment obligations) of the Issuer and the Owner Trustee under the Related 
+Documents.  The Administrator shall prepare for execution by the Issuer, or 
+shall cause the preparation by other appropriate persons of, all such 
+documents, reports, notices, filings, instruments, certificates and 
+opinions that it shall be the duty of the Issuer or the Owner Trustee to 
+prepare, file or deliver pursuant to the Related Documents.  In furtherance 
+of the foregoing, the Administrator shall take (or, in the case of the 
+immediately preceding sentence, cause to be taken) all appropriate action 
+that the Issuer or the Owner Trustee is required to take pursuant to the 
+Indenture including, without limitation, such of the foregoing as are 
+required with respect to the following matters under the Indenture 
+(references are to Sections of the Indenture):
+
+
+(i)
+the duty to cause the Note Register to be kept and to give the Indenture 
+Trustee notice of any appointment of a new Note Registrar and the location, 
+or change in location, of the Note Register (Section 2.04);
+
+
+(ii)
+the preparation of or obtaining of the documents and instruments required 
+for execution and authentication of the Notes and delivery of the same to 
+the Indenture Trustee (Section 2.02);
+
+
+(iii)
+the maintenance of an office in the Borough of Manhattan, The City of New 
+York, for registration of transfer or exchange of Notes (Section 3.02);
+
+
+(iv)
+the duty to cause newly appointed Paying Agents, if any, to deliver to the 
+Indenture Trustee the instrument specified in the Indenture regarding funds 
+held in trust (Section 3.03);
+
+
+(v)
+the direction to the Indenture Trustee to deposit monies with Paying 
+Agents, if any, other than the Indenture Trustee (Section 3.03);
+
+
+(vi)
+the obtaining and preservation of the Issuers qualifications to do 
+business pursuant to Section 3.04 of the Indenture (Section 3.04);
+
+
+(vii)
+the preparation of all supplements and amendments to the Indenture and all 
+financing statements, continuation statements, instruments of further 
+assurance and other instruments and the taking of such other actions as are 
+necessary or advisable to protect the Trust Estate (Section 3.05);
+
+
+(viii)
+the delivery of the Opinion of Counsel on the Closing Date and the annual 
+delivery of Opinions of Counsel as to the Trust Estate, and the annual 
+delivery of the Officers Certificate and certain other statements as to 
+compliance with the Indenture (Sections 3.06 and 3.09);
+
+
+(ix)
+the identification to the Indenture Trustee in an Officers Certificate of 
+a Person with whom the Issuer has contracted to perform its duties under 
+the Indenture (Section 3.07(b));
+
+
+(x)
+the notification of the Indenture Trustee and each Rating Agency of a 
+Servicer Default under the Servicing Agreement and, if such Servicer 
+Default arises from the failure of the Servicer to perform any of its 
+duties or obligations under the Servicing Agreement with respect to the 
+2007-1 SUBI Assets, the taking of all reasonable steps available to remedy 
+such failure (Section 3.07(d));
+
+
+(xi)
+the delivery of written notice to the Indenture Trustee and each Rating 
+Agency of each Indenture Default and each Servicer Default (Section 3.11);
+
+
+(xii)
+the preparation and obtaining of documents and instruments required for the 
+release of the Issuer from its obligations under the Indenture (Section 
+4.01);
+
+
+(xiii)
+the monitoring of the Issuers obligations as to the satisfaction and 
+discharge of the Indenture and the preparation of an Officers Certificate 
+and the obtaining of the Opinion of Counsel and the Independent Certificate 
+relating thereto (Section 4.01);
+
+
+(xiv)
+the compliance with Section 5.02 of the Indenture with respect to the sale 
+of the Trust Estate in a commercially reasonable manner if an Indenture 
+Default shall have occurred and be continuing (Sections 5.02 and 5.04);
+
+
+(xv)
+the preparation and delivery of notice to Noteholders and the Cap 
+Counterparty of the removal of the Indenture Trustee and the appointment of 
+a successor Indenture Trustee (Section 6.08);
+
+
+(xvi)
+the preparation of any written instruments required to confirm more fully 
+the authority of any co-trustee or separate trustee and any written 
+instruments necessary in connection with the resignation or removal of the 
+Indenture Trustee or any co-trustee or separate trustee (Sections 6.08 and 
+6.10);
+
+
+(xvii)
+the furnishing of the Indenture Trustee with the names and addresses of 
+Noteholders during any period when the Indenture Trustee is not the Note 
+Registrar (Section 7.01) and the Notes are not held through the Depository 
+Trust Company;
+
+
+(xviii)
+the preparation and filing of any documents required to be filed pursuant 
+to Section 7.03 of the Indenture (Section 7.03);
+
+
+(xix)
+the opening of the Note Distribution Account and the taking of all other 
+actions necessary with respect to the investment of funds therein (Sections 
+8.02 and 8.05);
+
+
+(xx)
+the preparation of an Issuer Request for the release of the Trust Estate 
+(Section 8.06);
+
+
+(xxi)
+the preparation of Issuer Requests and the obtaining of Opinions of 
+Counsel, if required with respect to the execution of supplemental 
+indentures and the mailing to the Noteholders and the Cap Counterparty of 
+notices with respect to such supplemental indentures (Sections 9.01, 9.02 
+and 9.03);
+
+
+(xxii)
+the execution, authentication and delivery of new Notes conforming to any 
+supplemental indenture, if required (Section 9.05);
+
+
+(xxiii)
+the duty to notify Noteholders, the Cap Counterparty and each Rating Agency 
+of redemption of the Notes or to cause the Indenture Trustee to provide 
+such notification (Section 10.02);
+
+
+(xxiv)
+the preparation and delivery of all Officers Certificates, Opinions of 
+Counsel and Independent Certificates with respect to any requests by the 
+Issuer to the Indenture Trustee to take any action under the Indenture 
+(Section 11.01(a));
+
+
+(xxv)
+the preparation and delivery of Officers Certificates and the obtaining of 
+Independent Certificates, if necessary, for the release of property from 
+the Lien of the Indenture (Section 11.01(b));
+
+
+(xxvi)
+the notification of each Rating Agency, upon the failure of the Issuer, the 
+Owner Trustee or the Indenture Trustee to give such notification, of the 
+information required pursuant to Section 11.04 of the Indenture (Section 
+11.04); and
+
+
+(xxvii)
+the preparation of Definitive Notes in accordance with the instructions of 
+the Clearing Agency (Section 2.11).
+
+
+(b)
+The Administrator shall:
+
+
+(i)
+pay the Indenture Trustee from time to time reasonable compensation for all 
+services rendered by the Indenture Trustee under the Indenture (which 
+compensation shall not be limited by any provision of law in regard to the 
+compensation of a trustee of an express trust);
+
+
+(ii)
+except as otherwise expressly provided in the Indenture, reimburse the 
+Indenture Trustee upon its request for all reasonable expenses, 
+disbursements and advances incurred or made by the Indenture Trustee in 
+accordance with any provision of the Indenture (including the reasonable 
+compensation, expenses and disbursements of its agents and counsel) other 
+than overhead, except any such expense, disbursement or advance as may be 
+attributable to its negligence or bad faith;
+
+
+(iii)
+pay any indemnity owing by the Issuer to the Indenture Trustee under the 
+Indenture;
+
+
+(iv)
+pay any indemnity owing by the Transferor to the Owner Trustee under the 
+Trust Agreement;
+
+
+(v)
+pay the Owner Trustee from time to time reasonable compensation for all 
+services rendered by the Owner Trustee under the Trust Agreement (which 
+compensation shall not be limited by any provision of law in regard to the 
+compensation for a trustee of an express trust);
+
+
+(vi)
+except as otherwise expressly provided in the Trust Agreement, reimburse 
+the Owner Trustee upon its request for all reasonable expenses, 
+disbursements and advances incurred or made by the Owner Trustee in 
+accordance with any provision of the Trust Agreement (including reasonable 
+compensation, expenses and disbursements of its agents and counsel) other 
+than overhead, except any such expense, disbursement or advance as may be 
+attributable to its gross negligence or bad faith; and
+
+
+(vii)
+take all steps necessary to enforce the Issuers rights under the Interest 
+Rate Cap Agreement, including receiving payments from the Cap Counterparty 
+when due and exercising the Issuer's rights under the Interest Rate Cap 
+Agreement including if either the long-term senior unsecured debt rating of 
+the Cap Counterparty is downgraded below A3 by Moodys or A+ by 
+Standard & Poor's or the short-term debt rating of the Cap Counterparty is 
+reduced below P-1 by Moody's or below A-1 by Standard & Poor's, the 
+right to require the Cap Counterparty to obtain a guarantee of its 
+obligations or to substitute a replacement cap provider (subject to the 
+assumption by the replacement cap provider of the Cap Counterpartys 
+obligations under the Interest Rate Cap Agreement) within 30 days of the 
+occurrence of such reduction, or in certain circumstances, post collateral, 
+in each case in accordance with the terms of the Interest Rate Cap 
+Agreement.
+
+
+(c)
+In addition to the duties set forth in Sections 1.2(a) and (b), the 
+Administrator shall perform such calculations and shall prepare or shall 
+cause the preparation by other appropriate Persons of, and shall execute on 
+behalf of the Issuer or the Owner Trustee, all such documents, notices, 
+reports, filings, instruments, certificates and opinions that the Issuer or 
+the Owner Trustee are required to prepare, file or deliver pursuant to the 
+Related Documents, and shall take all appropriate action that the Issuer or 
+the Owner Trustee are required to take pursuant to the Related Documents.  
+Subject to Section 1.6, the Administrator shall administer, perform or 
+supervise the performance of such other activities in connection with the 
+Collateral (including the Related Documents) as are not covered by any of 
+the foregoing provisions and as are expressly requested by the Owner 
+Trustee, are reasonably within the capability of the Administrator and 
+necessary to effect the transactions contemplated by the Related Documents.
+
+
+(d)
+Notwithstanding anything in this Agreement or the Related Documents to the 
+contrary, the Administrator shall be responsible for promptly notifying the 
+Owner Trustee in the event that any withholding tax is imposed on the 
+Issuers payments (or allocations of income) to a Trust Certificateholder 
+as contemplated in Section 5.02(d) of the Trust Agreement.  Any such notice 
+shall specify the amount of any withholding tax required to be withheld by 
+the Owner Trustee pursuant to such provision.
+
+
+(e)
+Notwithstanding anything in this Agreement or the Related Documents to the 
+contrary, the Administrator shall be responsible for performance of the 
+duties of the Owner Trustee set forth in Section 5.03 of the Trust 
+Agreement and Section 2.19 of the Servicing Agreement with respect to 
+notifying the Trust Certificateholders of the Payment Date on which their 
+Trust Certificates will be repaid or redeemed, as the case may be, and 
+Section 5.04(a) of the Trust Agreement with respect to accounting and 
+reports to Trust Certificateholders; provided, however, that the Owner 
+Trustee shall retain responsibility for the distribution of the 
+documentation necessary to enable each Trust Certificateholder to prepare 
+its federal and state income tax returns.
+
+
+(f)
+The Administrator shall perform any duties expressly required to be 
+performed by the Administrator under the Trust Agreement and the Indenture.
+
+
+(g)
+In carrying out the foregoing duties or any of its other obligations under 
+this Agreement, the Administrator may enter into transactions or otherwise 
+deal with any of its Affiliates; provided, however, that the terms of any 
+such transactions or dealings shall be in accordance with any directions 
+received from the Issuer and shall be, in the Administrators opinion, no 
+less favorable to the Issuer than would be available from unaffiliated 
+parties.
+
+
+(h)
+With respect to matters that in the reasonable judgment of the 
+Administrator are non-ministerial, the Administrator shall not take any 
+action unless within a reasonable time before the taking of such action, 
+the Administrator shall have notified the Owner Trustee of the proposed 
+action and the Owner Trustee shall not have withheld consent or provided an 
+alternative direction.  For the purpose of the preceding sentence, 
+non-ministerial matters shall include:
+
+
+(i)
+amendment of or any supplement to the Indenture;
+
+
+(i)
+the initiation of any claim or lawsuit by the Issuer and the compromise of 
+any action, claim or lawsuit brought by or against the Issuer (other than 
+in connection with the collection of the Leases);
+
+
+(ii)
+the amendment, change or modification of the Related Documents;
+
+
+(iii)
+the appointment of successor Note Registrars, successor Paying Agents and 
+successor Indenture Trustees pursuant to the Indenture or the appointment 
+of successor Administrators or successor Servicers, or the consent to the 
+assignment by the Note Registrar, any Paying Agent or Indenture Trustee of 
+its obligations under the Indenture;
+
+
+(iv)
+the removal of the Indenture Trustee;
+
+
+(v)
+the provision of copies of any amendment or supplement to the Interest Rate 
+Cap Agreement to the Rating Agencies; and
+
+
+(vi)
+the notification to the Cap Counterparty of any proposed amendment or 
+supplement to any of the Transaction Documents.
+
+
+(vii)
+Notwithstanding anything to the contrary in this Agreement, the 
+Administrator shall not be obligated to, and shall not, (i) make any 
+payments to the Noteholders under the Related Documents, (ii) sell the 
+Trust Estate pursuant to Section 5.02 of the Indenture, (iii) take any 
+other action that the Issuer directs the Administrator not to take on its 
+behalf or (iv) take any other action which may be construed as having the 
+effect of varying the investment of the Trust Certificateholders.
+
+
+1.3.
+Records.  The Administrator shall maintain appropriate books of account and 
+records relating to services performed hereunder, which books of account 
+and records shall be accessible for inspection by the Issuer and the 
+Transferor at any time during normal business hours.
+
+
+1.4.
+Compensation.  As compensation for the performance of the Administrators 
+obligations under this Agreement and as reimbursement for its expenses 
+related thereto, the Administrator shall be paid a fee by the Servicer.
+
+
+1.5.
+Additional Information to be Furnished to the Issuer.  The Administrator 
+shall furnish to the Issuer from time to time such additional information 
+regarding the Collateral as the Issuer shall reasonably request.
+
+
+1.6.
+Independence of the Administrator.  For all purposes of this Agreement, the 
+Administrator shall be an independent contractor and shall not be subject 
+to the supervision of the Issuer or the Owner Trustee with respect to the 
+manner in which it accomplishes the performance of its obligations 
+hereunder.  Unless expressly authorized by the Issuer, the Administrator 
+shall have no authority to act for or represent the Issuer or the Owner 
+Trustee in any way and shall not otherwise be deemed an agent of the Issuer 
+or the Owner Trustee.
+
+
+1.7.
+No Joint Venture.  Nothing contained in this Agreement (i) shall constitute 
+the Administrator and either of the Issuer or the Owner Trustee as members 
+of any partnership, joint venture, association, syndicate, unincorporated 
+business or other separate entity, (ii) shall be construed to impose any 
+liability as such on any of them or (iii) shall be deemed to confer on any 
+of them any express, implied or apparent authority to incur any obligation 
+or liability on behalf of the others.
+
+
+1.8.
+Other Activities of Administrator.  Nothing herein shall prevent the 
+Administrator or its Affiliates from engaging in other businesses or, in 
+its sole discretion, from acting in a similar capacity as an administrator 
+for any other Person or entity, even though such person or entity may 
+engage in business activities similar to those of the Issuer, the Owner 
+Trustee or the Indenture Trustee.
+
+
+1.9.
+Term of Agreement; Resignation and Removal of Administrator.  This 
+Agreement shall continue in force until the dissolution of the Issuer, upon 
+which event this Agreement shall automatically terminate.
+
+
+(a)
+Subject to Sections 1.9(d) and (e), the Administrator may resign its duties 
+hereunder by providing the Issuer with at least 60 days prior written 
+notice.
+
+
+(b)
+Subject to Sections 1.9(d) and (e), the Issuer may remove the Administrator 
+without cause by providing the Administrator with at least 60 days prior 
+written notice.
+
+
+(c)
+Subject to Sections 1.9(d) and (e), at the sole option of the Issuer, the 
+Administrator may be removed immediately upon written notice of termination 
+from the Issuer to the Administrator if any of the following events shall 
+occur:
+
+
+(i)
+the Administrator shall default in the performance of any of its duties 
+under this Agreement and, after notice of such default, shall not cure such 
+default within ten days (or, if such default cannot be cured in such time, 
+shall not give within ten days such assurance of cure as shall be 
+reasonably satisfactory to the Issuer);
+
+
+(ii)
+the existence of any proceeding or action, or the entry of a decree or 
+order for relief by a court or regulatory authority having jurisdiction 
+over the Administrator in an involuntary case under the federal bankruptcy 
+laws, as now or hereafter in effect, or appointing a receiver, liquidator, 
+assignee, trustee, custodian, sequestrator or other similar official of the 
+Administrator or of any substantial part of its property, or ordering the 
+winding up or liquidation of the affairs of the Administrator and the 
+continuance of any such action, proceeding, decree or order unstayed and, 
+in the case of any such order or decree, in effect for a period of 90 
+consecutive days;
+
+
+(iii)
+the commencement by the Administrator of a voluntary case under the federal 
+bankruptcy laws, as now or hereafter in effect, or the consent by the 
+Administrator to the appointment of or taking of possession by a receiver, 
+liquidator, assignee, trustee, custodian, sequestrator or other similar 
+official of the Administrator or of any substantial part of its property or 
+the making by the Administrator of an assignment for the benefit of 
+creditors or the failure by the Administrator generally to pay its debts as 
+such debts become due or the taking of corporate action by the 
+Administrator in furtherance of any of the foregoing; or
+
+
+(iv)
+any failure by the Administrator to deliver any information, report, 
+certification, attestation or accountants letter when and as required 
+under Section 1.20 which continues unremedied for fifteen (15) calendar 
+days after the date on which such information, report, certification, 
+attestation or accountants letter was required to be delivered.
+
+
+The Administrator agrees that if any of the events specified in clauses 
+(ii) or (iii) above shall occur, it shall give written notice thereof to 
+the Issuer and the Indenture Trustee within seven days after the occurrence 
+of such event.
+
+
+(d)
+No resignation or removal of the Administrator pursuant to this Section 
+shall be effective until (i) a successor Administrator shall have been 
+appointed by the Issuer and (ii) such successor Administrator shall have 
+agreed in writing to be bound by the terms of this Agreement in the same 
+manner as the Administrator is bound hereunder.
+
+
+(e)
+The appointment of any successor Administrator shall be effective only 
+after satisfaction of the Rating Agency Condition with respect to the 
+proposed appointment.
+
+
+(f)
+Subject to Section 1.9(d) and 1.9(e), the Administrator acknowledges that 
+upon the appointment of a successor Servicer pursuant to the Servicing 
+Agreement, the Administrator shall immediately resign and such successor 
+Servicer shall automatically become the Administrator under this Agreement; 
+provided, however, that this paragraph shall not apply at such times as the 
+Vehicle Trustee shall be the successor Servicer.
+
+
+1.10.
+Action Upon Termination, Resignation or Removal.  Promptly upon the 
+effective date of termination of this Agreement pursuant to the first 
+sentence of Section 1.9 or the resignation or removal of the Administrator 
+pursuant to Section 1.9(a), (b) or (c), respectively, the Administrator 
+shall be entitled to be paid all fees and reimbursable expenses accruing to 
+it to the date of such termination, resignation or removal.  The 
+Administrator shall forthwith upon such termination pursuant to the first 
+sentence of Section 1.9 deliver to the Issuer all property and documents of 
+or relating to the Collateral then in the custody of the Administrator.  In 
+the event of the resignation or removal of the Administrator pursuant to 
+Section 1.9(a), (b) or (c), respectively, the Administrator shall cooperate 
+with the Issuer and take all reasonable steps requested to assist the 
+Issuer in making an orderly transfer of the duties of the Administrator.
+
+
+1.11.
+Notices.  All demands, notices and communications hereunder shall be in 
+writing and shall be delivered or mailed by registered or certified 
+first-class United States mail, postage prepaid, hand delivery, prepaid 
+courier service, or by telecopier, and addressed in each case as follows:  
+(i) if to the Issuer or the Administrator, at 300 Chestnut Ridge Road, 
+Woodcliff Lake, NJ 07677, (telecopier no. (201) 307-9286), Attention: 
+General Counsel, with a copy (which shall not constitute notice) to Reed 
+Auerbach, Esq., McKee Nelson LLP, One Battery Park Plaza, 34th Floor, New 
+York, New York 10004; (ii) if to the Owner Trustee, at Rodney Square North, 
+1100 North Market Street, Wilmington, Delaware 19890-1600; (iii) if to the 
+Indenture Trustee, at 388 Greenwich Street, 14th Floor, New York, NY 10013; 
+(iv) if to Moodys, to ABS/RMBS Monitoring Department, 25th Floor, 7 World 
+Trade Center, 250 Greenwich Street, New York, NY 10007, Email: , Fax: 
+212-298-7139; (v) if to S&P, to   or to Standard & Poors Ratings Services, 
+55 Water Street, 42nd Floor, New York, New York 10041 (telecopier no. (212) 
+438-2654), Attention: Asset Backed Surveillance Group; or (v) at such other 
+address as shall be designated by any of the foregoing in a written notice 
+to the other parties hereto.  Delivery shall occur only upon receipt or 
+reported tender of such communication by an officer of the recipient 
+entitled to receive such notices located at the address of such recipient 
+for notices hereunder.
+
+
+1.12.
+Amendments.  This Agreement may be amended from time to time by a written 
+amendment duly executed and delivered by the parties hereto, with the 
+written consent of the Owner Trustee but without the consent of the 
+Securityholders, for the purpose of adding any provisions to or changing in 
+any manner or eliminating any of the provisions of this Agreement or of 
+modifying in any manner the rights of the Securityholders; provided, that 
+such amendment will not materially and adversely affect the interest of any 
+Noteholder or Trust Certificateholder.  This Agreement may also be amended 
+by the parties hereto with the written consent of the Owner Trustee and the 
+holders of Notes evidencing at least a Majority Interest and the holders of 
+Trust Certificates evidencing at least a majority of the Certificate 
+Percentage Interest for the purpose of adding any provisions to or changing 
+in any manner or eliminating any of the provisions of this Agreement or of 
+modifying in any manner the rights of Securityholders; provided, however, 
+that no such amendment may (i) increase or reduce in any manner the amount 
+of, or accelerate or delay the timing of, collections of payments on the 
+2007-1 Leases or distributions that are required to be made for the benefit 
+of the Securityholders or (ii) reduce the aforesaid percentage of the 
+holders of Notes and Trust Certificates which are required to consent to 
+any such amendment, without the consent of the holders of all outstanding 
+Notes and Trust Certificates.  Notwithstanding the foregoing, the 
+Administrator may not amend this Agreement without the permission of the 
+Transferor, which permission shall not be unreasonably withheld.
+
+
+1.13.
+Successors and Assigns.  This Agreement may not be assigned by the 
+Administrator unless such assignment is previously consented to in writing 
+by the Issuer and the Owner Trustee and subject to the confirmation from 
+each Rating Agency that such amendment will not result in a Rating Event.  
+An assignment with such consent and satisfaction, if accepted by the 
+assignee, shall bind the assignee hereunder in the same manner as the 
+Administrator is bound hereunder.  Notwithstanding the foregoing, this 
+Agreement may be assigned by the Administrator without the consent of the 
+Issuer or the Owner Trustee to a corporation or other organization that is 
+a successor (by merger, consolidation or purchase of assets) to the 
+Administrator; provided, that such successor organization executes and 
+delivers to the Issuer, the Owner Trustee and the Indenture Trustee an 
+agreement, in form and substance reasonably satisfactory to the Owner 
+Trustee and the Indenture Trustee, in which such corporation or other 
+organization agrees to be bound hereunder by the terms of said assignment 
+in the same manner as the Administrator is bound hereunder.  Subject to the 
+foregoing, this Agreement shall bind any successors or assigns of the 
+parties hereto.
+
+
+1.14.
+Governing Law.  This Agreement shall be construed in accordance with the 
+laws of the State of New York.
+
+
+1.15.
+Headings.  The headings of the various Sections herein are for convenience 
+of reference only and shall not define or limit any of the terms or 
+provisions hereof.
+
+
+1.16.
+Counterparts.  This Agreement may be executed by the parties hereto in 
+separate counterparts, each of which when so executed and delivered shall 
+be an original, but all such counterparts shall together constitute but one 
+and the same instrument.
+
+
+1.17.
+Severability.  Any provision of this Agreement that is prohibited or 
+unenforceable in any jurisdiction shall, as to such jurisdiction, be 
+ineffective to the extent of such prohibition or unenforceability without 
+invalidating the remaining provisions hereof, and any such prohibition or 
+unenforceability in any jurisdiction shall not invalidate or render 
+unenforceable such provision in any other jurisdiction.
+
+
+1.18.
+Limitation of Liability of Owner Trustee and Indenture Trustee.
+
+
+(a)
+Notwithstanding anything contained herein to the contrary, this instrument 
+has been countersigned by Wilmington Trust Company not in its individual 
+capacity but solely in its capacity as Owner Trustee of the Issuer and in 
+no event shall Wilmington Trust Company in its individual capacity or, 
+except as expressly provided in the Trust Agreement, as Owner Trustee of 
+the Issuer have any liability for the representations, warranties, 
+covenants, agreements or other obligations of the Issuer hereunder or in 
+any of the certificates, notices or agreements delivered pursuant hereto, 
+as to all of which recourse shall be had solely to the assets of the Issuer 
+in accordance with the priorities set forth herein.  For all purposes of 
+this Agreement, in the performance of any duties or obligations of the 
+Issuer hereunder, the Owner Trustee shall be subject to, and entitled to 
+the benefits of, the terms and provisions of Articles Six, Seven and Eight 
+of the Trust Agreement.
+
+
+(b)
+Notwithstanding anything contained herein to the contrary, in no event 
+shall Citibank, N.A. have any liability for the representations, 
+warranties, covenants, agreements or other obligations of the Issuer 
+hereunder or in any of the certificates, notices or agreements delivered 
+pursuant hereto, as to all of which recourse shall be had solely to the 
+assets of the Issuer.
+
+
+1.19.
+Third-Party Beneficiary.  The Owner Trustee is a third-party beneficiary to 
+this Agreement and is entitled to the rights and benefits hereunder and may 
+enforce the provisions hereof as if it were a party hereto.
+
+
+1.20.
+Additional Requirements of the Administrator.  
+
+
+(a)
+Reporting Requirements.
+
+
+(i)
+If so requested by the Issuer for the purpose of satisfying its reporting 
+obligation under the Exchange Act with respect to any class of asset-backed 
+securities, the Administrator  shall  (i) notify the Issuer in writing of 
+any material litigation or governmental proceedings pending against the 
+Administrator and (ii) provide to the Issuer a description of such 
+proceedings.
+
+
+(ii)
+As a condition to the succession to the Administrator by any Person as 
+permitted by Section 1.9 hereof the Administrator shall provide to the 
+Issuer, at least 10 Business Days prior to the effective date of such 
+succession or appointment, (x) written notice to the Issuer, of such 
+succession or appointment and (y) in writing all information in order to 
+comply with its reporting obligation under Item 6.02 of Form 8-K with 
+respect to any class of asset-backed securities.
+
+
+(iii)
+In addition to such information as the Administrator, as administrator, is 
+obligated to provide pursuant to other provisions of this Agreement, if so 
+requested by the Issuer, the Administrator shall provide such information 
+regarding the performance or servicing of the 2007-1 Leases and 2007-1 
+Vehicles as is reasonably required to facilitate preparation of 
+distribution reports in accordance with Item 1121 of Regulation AB.   
+
+
+(b)
+Administrator Compliance Statement.  On or before March 1st of each 
+calendar year, commencing in 2008, the Administrator shall deliver to the 
+Issuer a statement of compliance addressed to the Issuer and signed by an 
+authorized officer of the Administrator to the effect that (i) a review of 
+the Administrators activities during the immediately preceding calendar 
+year (or applicable portion thereof) and of its performance under this 
+Agreement during such period has been made under such officers 
+supervision, and (ii) to the best of such officers knowledge, based on 
+such review, the Administrator has fulfilled all of its obligations under 
+this Agreement in all material respects throughout such calendar year (or 
+applicable portion thereof) or, if there has been a failure to fulfill any 
+such obligation in any material respect, specifically identifying each such 
+failure known to such officer and the nature and the status thereof.
+
+
+(c)
+Report on Assessment of Compliance and Attestation.  On or before 90 days 
+after the end of each fiscal year, commencing with the fiscal year ended 
+December 31, 2007, the Administrator shall:
+
+
+(i)
+deliver to the Issuer a report (in form and substance reasonably 
+satisfactory to the Issuer) regarding the Administrators assessment of 
+compliance with the Servicing Criteria during the immediately preceding 
+calendar year, as required under Rules 13a-18 and 15d-18 of the Exchange 
+Act and Item 1122 of Regulation AB.  Such report shall be addressed to the 
+Issuer and signed by an authorized officer of the Administrator, and shall 
+address each of the Servicing Criteria specified on a certification 
+substantially in the form of Exhibit B hereto delivered to the Issuer 
+concurrently with the execution of this Agreement;
+
+
+(ii)
+deliver to the Issuer a report of a registered public accounting firm 
+reasonably acceptable to the Issuer that attests to, and reports on, the 
+assessment of compliance made by the Administrator and delivered pursuant 
+to the preceding paragraph.  Such attestation shall be in accordance with 
+Rules 1-02(a)(3) and 2-02(g) of Regulation S-X under the Securities Act and 
+the Exchange Act; and
+
+
+(iii)
+if requested by the Issuer not later than March 1 of the calendar year in 
+which such certification is to be delivered, deliver to the Issuer and any 
+other Person that will be responsible for signing the certification a 
+Sarbanes Certification on behalf of an asset-backed issuer with respect to 
+a securitization transaction a certification in the form attached hereto as 
+Exhibit A.
+
+
+The Administrator acknowledges that the parties identified in clause 
+(c)(iii) above may rely on the certification provided by the Administrator 
+pursuant to such clause in signing a Sarbanes Certification and filing such 
+with the Commission.  The Issuer will not request delivery of a 
+certification under clause (c)(iii) above unless the Depositor is required 
+under the Exchange Act to file an annual report on Form 10-K with respect 
+to an issuing entity whose asset pool includes the 2007-1 Leases and 2007-1 
+Vehicles.
+
+
+(d)
+Intent of the Parties; Reasonableness. The Issuer and the Administrator  
+acknowledge and agree that the purpose of Section 1.20 of this Agreement is 
+to facilitate compliance by the Issuer with the provisions of Regulation AB 
+and related rules and regulations of the Commission.
+
+
+Neither the Issuer nor the Administrator shall exercise its right to 
+request delivery of information or other performance under these provisions 
+other than in good faith, or for purposes other than compliance with the 
+Securities Act, the Exchange Act and the rules and regulations of the 
+Commission thereunder (or the provision in a private offering of disclosure 
+comparable to that required under the Securities Act).  The Administrator 
+acknowledges that interpretations of the requirements of Regulation AB may 
+change over time, whether due to interpretive guidance provided by the 
+Commission or its staff, consensus among participants in the asset-backed 
+securities markets, advice of counsel, or otherwise, and agrees to comply 
+with requests made by the Indenture Trustee, the Servicer or any other 
+party to the Transaction Documents in good faith for delivery of 
+information under these provisions on the basis of evolving interpretations 
+of Regulation AB.  In connection therewith, the Administrator shall 
+cooperate fully with the Issuer to deliver to the Issuer (including any of 
+its assignees or designees), any and all statements, reports, 
+certifications, records and any other information necessary in the good 
+faith determination of the Issuer, to permit the Issuer to comply with the 
+provisions of Regulation AB.
+
+
+The Issuer (including any of its assignees or designees) shall cooperate 
+with the Administrator by providing timely notice of requests for 
+information under these provisions and by reasonably limiting such requests 
+to information required, in the Administrators, on behalf of the Issuer, 
+reasonable judgment, to comply with Regulation AB.
+
+
+1.21.
+Nonpetition Covenants.  Notwithstanding any prior termination of this 
+Agreement, the Administrator and the Indenture Trustee shall not, prior to 
+the date which is one year and one day after the termination of this 
+Agreement with respect to the Issuer or the Transferor, acquiesce, petition 
+or otherwise invoke or cause the Issuer or the Transferor to invoke the 
+process of any court of government authority for the purpose of commencing 
+or sustaining a case against the Issuer or the Transferor under any United 
+States federal or state bankruptcy, insolvency or similar law or appointing 
+a receiver, liquidator, assignee, trustee, custodian, sequestrator or other 
+similar official of the Issuer or the Transferor or any substantial part of 
+its property, or ordering the winding up or liquidation of the affairs of 
+the Issuer or the Transferor.
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+
+
+------------------------------------------------------------------------
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+duly executed and delivered as of the day and year first above written.
+
+
+                                    BMW VEHICLE LEASE TRUST 2007-1,
+                                    as Issuer
+
+
+                                          By:
+                                          Wilmington Trust Company,
+                                          not in its individual capacity
+                                          but solely as
+                                          as Owner Trustee
+
+
+
+
+
+
+                                          By:
+                                                         /s/ James P.
+                                          Lawler             
+                                          Name:    James P. Lawler
+                                          Title:      Vice President
+
+
+
+
+
+
+                                          BMW AUTO LEASING LLC,
+                                          as Transferor
+
+
+
+
+
+
+                                          By:
+                                                         /s/ Kerstin Zerbst
+                                                          
+                                          Name:    Kerstin Zerbst
+                                          Title:      Vice
+                                          President-Finance
+
+
+
+
+
+
+                                          By:
+                                                         /s/ Joachim Herr  
+                                                         
+                                          Name:    Joachim Herr
+                                          Title:      Treasurer
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+                                          CITIBANK, N.A.
+
+
+
+
+
+
+                                          By:
+                                                         /s/ Louis
+                                          Piscitelli                
+                                          Name:    Louis Piscitelli
+                                          Title:      Vice President
+
+
+
+
+
+
+                                          BMW FINANCIAL SERVICES NA, LLC,
+                                          as Administrator
+
+
+
+
+
+
+                                          By:
+                                                         /s/ Kerstin Zerbst
+                                                          
+                                          Name:    Kerstin Zerbst
+                                          Title:      Vice
+                                          President-Finance & CFO
+
+
+
+
+
+
+                                          By:
+                                                         /s/ Joachim Herr  
+                                                         
+                                          Name:    Joachim Herr
+                                          Title:      Treasurer
+
+
+
