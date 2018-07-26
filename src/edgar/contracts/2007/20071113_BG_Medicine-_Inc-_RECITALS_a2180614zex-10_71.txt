@@ -1,0 +1,791 @@
+ EX-10.7.1 11 a2180614zex-10_71.htm EXHIBIT 10.7.1
+Exhibit 10.7.1
+
+INTELLECTUAL PROPERTY SECURITY AGREEMENT
+
+This Intellectual Property Security Agreement (this IP Agreement) is made 
+as of the 9th day of November, 2007, by and between BG MEDICINE, INC., a 
+Delaware corporation with its principal place of business at 610 Lincoln 
+Street, North Waltham, Massachusetts 02451 (Grantor), and SILICON VALLEY 
+BANK, a California-chartered bank, with its principal place of business at 
+3003 Tasman Drive, Santa Clara, California 95054 and with a loan production 
+office located at One Newton Executive Park, Suite 200, 2221 Washington 
+Street, Newton, Massachusetts 02462 (Lender).
+
+RECITALS
+
+A.            Lender has agreed to make advances of money and to extend 
+certain financial accommodations to Grantor (the Loan), pursuant to a 
+certain Loan and Security Agreement dated as of November 9, 2007, between 
+Grantor and Lender, as amended from time to time (as amended, the Loan 
+Agreement).  The Loan is secured pursuant to the terms of the Loan 
+Agreement.  Lender is willing to enter into certain financial 
+accommodations with Grantor, but only upon the condition, among others, 
+that Grantor shall grant to Lender a security interest in certain 
+Copyrights, Trademarks, Patents, and Mask Works, and other assets, to 
+secure the obligations of Grantor under the Loan Agreement.  Defined terms 
+used but not defined herein shall have the same meanings as in the Loan 
+Agreement.
+
+B.            Pursuant to the terms of the Loan Agreement, Grantor has 
+granted to Lender a security interest in all of Grantors right title and 
+interest, whether presently existing or hereafter acquired in, to and under 
+all of the Collateral (as defined therein).
+
+NOW, THEREFORE, for good and valuable consideration, receipt of which is 
+hereby acknowledged and intending to be legally bound, as collateral 
+security for the prompt and complete payment when due of Grantors 
+Indebtedness (as defined below), Grantor hereby represents, warrants, 
+covenants and agrees as follows:
+
+1.             Grant of Security Interest. As collateral security for the 
+prompt and complete payment and performance of the Obligations 
+(hereinafter, the Indebtedness), Grantor hereby grants a security 
+interest in all of Grantors right, title and interest in, to and under its 
+registered and unregistered intellectual property collateral (all of which 
+shall collectively be called the Intellectual Property Collateral), 
+including, without limitation, the following:
+
+    (a)           Any and all copyright rights, copyright applications,
+    copyright registrations and like protections in each work or authorship
+    and derivative work thereof, whether published or unpublished,
+    registered or unregistered, and whether or not the same also
+    constitutes a trade secret, now or hereafter existing, created,
+    acquired or held, including without limitation those set forth on 
+    EXHIBIT A attached hereto (collectively, the Copyrights);
+
+    (b)           Any and all trade secret rights, including any rights to
+    unpatented inventions, know-how, operating  manuals, license rights and
+    agreements, and confidential information, and any and all intellectual
+    property rights in computer software and computer software products now
+    or hereafter existing, created, acquired or held;
+
+    (c)           Any and all design rights which may be available to
+    Grantor now or hereafter existing, created, acquired or held;
+
+    (d)           All patents, patent applications and like protections
+    including, without limitation, improvements, divisions, continuations,
+    renewals, reissues, extensions and continuations-in-part of the same,
+    including without limitation the patents and patent applications set
+    forth on EXHIBIT B attached hereto (collectively, the Patents);
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+1
+------------------------------------------------------------------------
+
+ 
+    (e)           Any trademark and service mark rights, slogans, trade
+    dress, and tradenames, trade styles,  whether registered or not,
+    applications to register and registrations of the same and like
+    protections, and the entire goodwill of the business of Grantor
+    connected with and symbolized by such trademarks, including without
+    limitation those set forth on EXHIBIT C attached hereto (collectively,
+    the Trademarks);
+
+    (f)            All mask works or similar rights available for the
+    protection of semiconductor chips, now owned or hereafter acquired,
+    including, without limitation those set forth on EXHIBIT D attached
+    hereto (collectively, the  Mask Works);
+
+    (g)           Any and all claims for damages by way of past, present
+    and future infringements of any of the rights included above, with the
+    right, but not the obligation, to sue for and collect such damages for
+    said use or infringement of the intellectual property rights identified
+    above;
+
+    (h)           All material licenses or other rights to use any of the
+    Copyrights, Patents, Trademarks, or Mask Works (excluding over the
+    counter software that is commercially available to the public) and all
+    license fees and royalties arising from such use to the extent
+    permitted by such license or rights, including, without limitation
+    those set forth on EXHIBIT E attached hereto (collectively, the
+    Licenses); and
+
+    (i)            All amendments, extensions, renewals and extensions of
+    any of the Copyrights, Trademarks, Patents, or Mask Works; and
+
+    (j)            All proceeds and products of the foregoing, including
+    without limitation all payments under insurance or any indemnity or
+    warranty payable in respect of any of the foregoing.
+
+2.             Authorization and Request.  Grantor authorizes and requests 
+that the Register of Copyrights and the Commissioner of Patents and 
+Trademarks record this IP Agreement, and any amendments thereto, or copies 
+thereof.
+
+3.             Covenants and Warranties.  Grantor represents, warrants, 
+covenants and agrees as follows:
+
+    (a)           Grantor is now the sole owner of the Intellectual
+    Property Collateral, except for non-exclusive licenses granted by
+    Grantor to its customers in the ordinary course of business.
+
+    (b)           Performance of this IP Agreement does not conflict with
+    or result in a breach of any material agreement to which Grantor is
+    bound.
+
+    (c)           During the term of this IP Agreement, Grantor will not
+    transfer or otherwise encumber any interest in the Intellectual
+    Property Collateral, except for (i) non-exclusive licenses granted by
+    Grantor in the ordinary course of business, (ii) as set forth in this
+    IP Agreement, and (ii) Permitted Liens;
+
+    (d)           To its knowledge, each of the Patents is valid and
+    enforceable, and no part of the Intellectual Property Collateral has
+    been judged invalid or unenforceable, in whole or in part, and no claim
+    has been made that any part of the Intellectual Property Collateral
+    violates the rights of any third party;
+
+    (e)           Grantor shall promptly advise Lender of any material
+    adverse change in the composition of the Intellectual Property
+    Collateral, including but not limited to any subsequent ownership right
+    of the Grantor in or to any Trademark, Patent, Copyright, or Mask Work
+    specified in this IP Agreement;
+
+    (f)            Grantor shall (i) protect, defend and maintain the
+    validity and enforceability of the Trademarks, Patents, Copyrights, and
+    Mask Works, (ii) use all commercially reasonable efforts to detect
+    infringements of the Trademarks, Patents, Copyrights, and Mask Works
+    and promptly advise Lender in writing of material infringements
+    detected and (iii) not allow any Trademarks, Patents, Copyrights, or
+    Mask Works to be abandoned, forfeited or dedicated to the public
+    without the written consent of Lender, which
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+2
+------------------------------------------------------------------------
+
+ 
+    shall not be unreasonably withheld, unless Grantor determines that
+    reasonable business practices suggest that abandonment is appropriate.
+
+    (g)           Grantor shall take such further actions as Lender may
+    reasonably request from time to time to perfect or continue the
+    perfection of Lenders interest in the Intellectual Property
+    Collateral;
+
+    (h)           This IP Agreement creates, and in the case of after
+    acquired Intellectual Property Collateral this IP Agreement will
+    create, at the time Grantor first has rights in such after acquired
+    Intellectual Property Collateral, in favor of Lender a valid and
+    perfected first priority security interest and collateral assignment in
+    the Intellectual Property Collateral in the United States securing the
+    payment and performance of the Obligations;
+
+    (i)            To its knowledge, except for, and upon, the filing of
+    UCC financing statements, or other notice filings or notations in
+    appropriate filing offices, if necessary to perfect the security
+    interests created hereunder, no authorization, approval or other action
+    by, and no notice to or filing with, any U.S. governmental authority or
+    U.S. regulatory body is required either (a) for the grant by Grantor of
+    the security interest granted hereby, or for the execution, delivery or
+    performance of this IP Agreement by Grantor in the U.S. or (b) for the
+    perfection in the United States or the exercise by Lender of its rights
+    and remedies thereunder;
+
+    (j)            All information heretofore, herein or hereafter supplied
+    to Lender by or on behalf of Grantor with respect to the Intellectual
+    Property Collateral is accurate and complete in all material respects.
+
+    (k)           Grantor shall not enter into any material agreement that
+    would materially impair or conflict with Grantors obligations
+    hereunder without Lenders prior written consent, which consent shall
+    not be unreasonably withheld.  Grantor shall not permit the inclusion
+    in any material contract to which it becomes a party of any provisions
+    that could or might in any way prevent the creation of a security
+    interest in Grantors rights and interest in any property included
+    within the definition of the Intellectual Property Collateral acquired
+    under such material contracts.
+
+    (l)            Upon any executive officer of Grantor obtaining actual
+    knowledge thereof, Grantor will promptly notify Lender in writing of
+    any event that materially adversely affects the value of any material
+    Intellectual Property Collateral as a whole, the ability of Grantor to
+    dispose of any material Intellectual Property Collateral or the rights
+    and remedies of Lender in relation thereto, including the levy of any
+    legal process against any of the Intellectual Property Collateral.
+
+4.             Lenders Rights.  Lender shall have the right, but not the 
+obligation, to take, at Grantors sole expense, any actions that Grantor is 
+required under this IP Agreement to take but which Grantor fails to take, 
+after fifteen (15) days notice to Grantor.  Grantor shall reimburse and 
+indemnify Lender for all reasonable costs and reasonable expenses incurred 
+in the reasonable exercise of its rights under this section 4.
+
+5.             Inspection Rights.  Grantor hereby grants to Lender and its 
+employees, representatives and agents the right to visit, during reasonable 
+hours upon prior reasonable written notice to Grantor, any of Grantors 
+plants and facilities that manufacture, install or store products (or that 
+have done so during the prior six-month period) that are sold utilizing any 
+of the Intellectual Property Collateral, and to inspect the products and 
+quality control records relating thereto upon reasonable written notice to 
+Grantor and as often as may be reasonably requested, but not more than once 
+in every six (6) months; provided, however, nothing herein shall entitle 
+Lender access to Grantors trade secrets and other proprietary information.
+
+6.             Further Assurances; Attorney in Fact.
+
+(a)           On a continuing basis, Grantor will, following request by 
+Lender, subject to any prior licenses, encumbrances and restrictions and 
+prospective licenses, make, execute, acknowledge and deliver, and file
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+and record in the proper filing and recording places in the United States, 
+all such instruments, including appropriate financing and continuation 
+statements and collateral agreements and filings with the United States 
+Patent and Trademarks Office and the Register of Copyrights, and take all 
+such action as may reasonably be deemed necessary or advisable, or as 
+requested by Lender, to perfect Lenders security interest in all 
+Copyrights, Patents, Trademarks, and Mask Works and otherwise to carry out 
+the intent and purposes of this IP Agreement, or for assuring and 
+confirming to Lender the grant or perfection of a security interest in all 
+Intellectual Property Collateral.
+
+(b)           In addition to section 6(a) above, Grantor shall not register 
+any Copyrights or Mask Works in the United States Copyright Office unless 
+it: (i) has given at least fifteen (15) days prior written notice to 
+Lender of its intent to register such Copyrights or Mask Works and has 
+provided Lender with a copy of the application it intends to file with the 
+United States Copyright Office (excluding exhibits thereto); (ii) executes 
+a security agreement or such other documents as Lender may reasonably 
+request in order to maintain the perfection and priority of Lenders 
+security interest in the Copyrights proposed to be registered with the 
+United States Copyright Office; and (iii) records such security documents 
+with the United States Copyright Office contemporaneously with filing the 
+Copyright application(s) with the United States Copyright Office.  Grantor 
+shall promptly provide to Lender a copy of the Copyright application(s) 
+filed with the United States Copyright Office, together with evidence of 
+the recording of the security documents necessary for Lender to maintain 
+the perfection and priority of its security interest in such Copyrights or 
+Mask Works.  Grantor shall provide written notice to Lender of any 
+application filed by Grantor in the United States Patent Trademark Office 
+for a patent or to register a trademark or service mark within 30 days of 
+any such filing.
+
+(c)           Grantor hereby irrevocably appoints Lender as Grantors 
+attorney-in-fact, with full authority in the place and stead of Grantor and 
+in the name of Grantor, Lender or otherwise, from time to time in Lenders 
+discretion, upon Grantors failure or inability to do so, to take any 
+action and to execute any instrument which Lender may deem necessary or 
+advisable to accomplish the purposes of this IP Agreement, including:
+
+    (i)            To modify, in its sole discretion, this IP Agreement
+    without first obtaining Grantors approval of or signature to such
+    modification by amending Exhibit A, Exhibit B, Exhibit C, and Exhibit D
+    hereof, as appropriate, to include reference to any right, title or
+    interest in any Copyrights, Patents, Trademarks or Mask Works acquired
+    by Grantor after the execution hereof or to delete any reference to any
+    right, title or interest in any Copyrights, Patents, Trademarks, or
+    Mask Works in which Grantor no longer has or claims any right, title or
+    interest; and
+
+    (ii)           To file, in its sole discretion, one or more financing
+    or continuation statements and amendments thereto, or other notice
+    filings or notations in appropriate filing offices, relative to any of
+    the Intellectual Property Collateral, without  notice to Grantor, with
+    all appropriate jurisdictions, as Lender deems appropriate, in order to
+    further perfect or protect Lenders interest in the Intellectual
+    Property Collateral.
+
+7.             Events of Default.  The occurrence of any of the following 
+shall constitute an Event of Default under this IP Agreement:
+
+    (a)           An Event of Default occurs under the Loan Agreement; or
+
+    (b)           Grantor breaches any warranty or agreement made by
+    Grantor in this IP Agreement.
+
+8.             Remedies.  Upon the occurrence and continuance of an Event 
+of Default, Lender shall have the right to exercise all the remedies of a 
+secured party under the Massachusetts Uniform Commercial Code, including 
+without limitation the right to require Grantor to assemble the 
+Intellectual Property Collateral and any tangible property in which Lender 
+has a security interest and to make it available to Lender at a place 
+designated by Lender.  Lender shall have a nonexclusive, royalty free 
+license to use the Copyrights, Patents, Trademarks, and Mask Works to the 
+extent reasonably necessary to permit Lender to exercise its rights and 
+remedies upon the occurrence of an Event of Default.  Grantor will pay any 
+expenses (including reasonable attorneys fees) incurred by Lender in
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+4
+------------------------------------------------------------------------
+
+ 
+connection with the exercise of any of Lenders rights hereunder, including 
+without limitation any expense incurred in disposing of the Intellectual 
+Property Collateral.  All of Lenders rights and remedies with respect to 
+the Intellectual Property Collateral shall be cumulative.
+
+9.             Indemnity.  Grantor agrees to defend, indemnify and hold 
+harmless Lender and its officers, employees, and agents against:  (a) all 
+obligations, demands, claims, and liabilities claimed or asserted by any 
+other party in connection with the transactions contemplated by this IP 
+Agreement, and (b) all losses or expenses in any way suffered, incurred, or 
+paid by Lender as a result of or in any way arising out of, following or 
+consequential to transactions between Lender and Grantor, whether under 
+this IP Agreement or otherwise (including without limitation, reasonable 
+attorneys fees and reasonable expenses), except for losses arising from or 
+out of Lenders gross negligence or willful misconduct.
+
+10.           Termination.  At such time as the Obligations shall be paid 
+in full and the Loan Agreement is terminated, Lender shall execute and 
+deliver to Grantor all releases, terminations, and other instruments as may 
+be necessary or proper to release the security interest hereunder.
+
+11.           Reassignment.  At such time as Grantor shall completely 
+satisfy all of the obligations secured hereunder, Lender shall execute and 
+deliver to Grantor all deeds, assignments, and other instruments as may be 
+necessary or proper to reinvest in Grantor full title to the property 
+assigned hereunder, subject to any disposition thereof which may have been 
+made by Lender pursuant hereto.
+
+12.           Course of Dealing.  No course of dealing, nor any failure to 
+exercise, nor any delay in exercising any right, power or privilege 
+hereunder shall operate as a waiver thereof.
+
+13.           Amendments.  This IP Agreement may be amended only by a 
+written instrument signed by both parties hereto.
+
+14.           Counterparts.  This IP Agreement may be executed in two or 
+more counterparts, each of which shall be deemed an original but all of 
+which together shall constitute the same instrument.
+
+15.           Law and Jurisdiction.  This IP Agreement shall be governed by 
+and construed in accordance with the laws of the Commonwealth of 
+Massachusetts.  GRANTOR ACCEPTS FOR ITSELF AND IN CONNECTION WITH ITS 
+PROPERTIES, UNCONDITIONALLY, THE NON-EXCLUSIVE JURISDICTION OF ANY STATE OR 
+FEDERAL COURT OF COMPETENT JURISDICTION IN THE COMMONWEALTH OF 
+MASSACHUSETTS IN ANY ACTION, SUIT, OR PROCEEDING OF ANY KIND, AGAINST IT 
+WHICH ARISES OUT OF OR BY REASON OF THIS AGREEMENT; PROVIDED, HOWEVER, THAT 
+IF FOR ANY REASON LENDER CANNOT AVAIL ITSELF OF THE COURTS OF THE 
+COMMONWEALTH OF MASSACHUSETTS, GRANTOR ACCEPTS JURISDICTION OF THE COURTS 
+AND VENUE IN SANTA CLARA COUNTY, CALIFORNIA.  NOTWITHSTANDING THE 
+FOREGOING,  THE LENDER SHALL HAVE THE RIGHT TO BRING ANY ACTION OR 
+PROCEEDING AGAINST THE GRANTOR OR ITS PROPERTY IN THE COURTS OF ANY OTHER 
+JURISDICTION WHICH THE LENDER DEEMS NECESSARY OR APPROPRIATE IN ORDER TO 
+REALIZE ON THE COLLATERAL OR TO OTHERWISE ENFORCE THE LENDERS RIGHTS 
+AGAINST THE GRANTOR OR ITS PROPERTY.
+
+GRANTOR AND LENDER EACH HEREBY WAIVE THEIR RESPECTIVE RIGHTS TO A JURY 
+TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF ANY OF 
+THE LOAN DOCUMENTS OR ANY OF THE TRANSACTIONS CONTEMPLATED THEREIN, 
+INCLUDING CONTRACT CLAIMS, TORT CLAIMS, BREACH OF DUTY CLAIMS, AND ALL 
+OTHER COMMON LAW OR STATUTORY CLAIMS.  EACH PARTY RECOGNIZES AND AGREES 
+THAT THE FOREGOING WAIVER CONSTITUTES A MATERIAL INDUCEMENT FOR IT TO ENTER 
+INTO THIS AGREEMENT.  EACH PARTY REPRESENTS AND WARRANTS THAT IT HAS 
+REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL AND THAT IT KNOWINGLY AND 
+VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL 
+COUNSEL.
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+5
+------------------------------------------------------------------------
+
+ 
+16.           Confidentiality.  In handling any confidential information, 
+Lender shall exercise the same degree of care that it exercises for its own 
+proprietary information, but disclosure of information may be made: (i) to 
+Lenders subsidiaries or affiliates in connection with their present or 
+prospective business relations with Grantor; (ii) to prospective 
+transferees or purchasers of any interest in the Loans; (iii) as required 
+by law, regulation, subpoena, or other order, (iv) as required in 
+connection with Lenders examination or audit; and (v) as Lender considers 
+appropriate in exercising remedies under this Agreement.  Confidential 
+information does not include information that either: (a) is in the public 
+domain or in Lenders possession when disclosed to Lender, or becomes part 
+of the public domain after disclosure to Lender; or (b) is disclosed to 
+Lender by a third party, if Lender reasonably does not know that the third 
+party is prohibited from disclosing the information.
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+6
+------------------------------------------------------------------------
+
+ 
+ 
+
+EXECUTED as a sealed instrument under the laws of the Commonwealth of 
+Massachusetts on the day and year first written above.
+
+Address of Grantor:
+ 
+GRANTOR:
+ 
+ 
+ 
+ 
+610 Lincoln Street North
+ 
+BG MEDICINE, INC.
+Waltham, MA 02451
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Mark D. Shooman
+ 
+ 
+Name:
+Mark D. Shooman
+ 
+ 
+Title:
+CFO
+ 
+ 
+ 
+ 
+ 
+ 
+SILICON VALLEY BANK
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+/s/ Naomi Herman
+ 
+ 
+Name:
+Naomi Herman
+ 
+ 
+Title:
+Vice President
+ 
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+7
+------------------------------------------------------------------------
+
+ 
+Exhibit A attached to that certain Intellectual Property Security 
+Agreement dated November 9, 2007.
+
+EXHIBIT A
+
+COPYRIGHTS
+
+SCHEDULE A - ISSUED COPYRIGHTS
+
+COPYRIGHT
+ 
+REGISTRATION
+ 
+DATE OF
+DESCRIPTION
+ 
+NUMBER
+ 
+ISSUANCE
+ 
+SCHEDULE B - PENDING COPYRIGHT APPLICATIONS
+
+ 
+FIRST DATE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COPYRIGHT
+ 
+APPLICATION
+ 
+DATE OF
+ 
+DATE OF
+ 
+OF PUBLIC
+DESCRIPTION
+ 
+NUMBER
+ 
+FILING
+ 
+CREATION
+ 
+DISTRIBUTION
+ 
+SCHEDULE C - UNREGISTERED COPYRIGHTS (Where No Copyright Application is 
+Pending)
+
+ 
+ 
+ 
+ 
+ 
+ 
+DATE AND
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECORDATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NUMBER OF IP
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AGREEMENT WITH
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OWNER OR ORIGINAL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GRANTOR IF
+ 
+ORIGINAL AUTHOR
+ 
+ 
+ 
+ 
+ 
+ 
+AUTHOR OR OWNER
+ 
+OR OWNER OF
+ 
+ 
+ 
+ 
+FIRST DATE
+ 
+OF COPYRIGHT
+ 
+COPYRIGHT IS
+COPYRIGHT
+ 
+DATE OF
+ 
+OF
+ 
+IS DIFFERENT
+ 
+DIFFERENT FROM
+DESCRIPTION
+ 
+CREATION
+ 
+DISTRIBUTION
+ 
+FROM GRANTOR
+ 
+GRANTOR
+ 
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+8
+------------------------------------------------------------------------
+
+ 
+Exhibit B attached to that certain Intellectual Property Security 
+Agreement dated November 9, 2007.
+
+EXHIBIT B
+
+PATENTS
+
+PATENT
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESCRIPTION
+ 
+DOCKET NO.
+ 
+COUNTRY
+ 
+SERIAL NO.
+ 
+FILING DATE
+ 
+STATUS
+ 
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+9
+------------------------------------------------------------------------
+
+ 
+Exhibit C attached to that certain Intellectual Property Security 
+Agreement dated November 9, 2007.
+
+EXHIBIT C
+
+TRADEMARKS
+
+TRADEMARK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESCRIPTION
+ 
+COUNTRY
+ 
+SERIAL NO.
+ 
+REG. NO.
+ 
+STATUS
+ 
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+10
+------------------------------------------------------------------------
+
+ 
+Exhibit D attached to that certain Intellectual Property Security 
+Agreement dated November 9, 2007.
+
+EXHIBIT D
+
+MASK WORKS
+
+MASK WORK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DESCRIPTION
+ 
+COUNTRY
+ 
+SERIAL NO.
+ 
+REG. NO.
+ 
+STATUS
+ 
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+11
+------------------------------------------------------------------------
+
+ 
+Exhibit E attached to that certain Intellectual Property Security 
+Agreement dated November 9, 2007.
+
+EXHIBIT E
+
+LICENSES
+
+ 
+Portions of this Exhibit were omitted and have been filed separately with 
+the Secretary of the Commission pursuant to the Company's application 
+requesting confidential treatment under Rule 406 of the Securities Act of 
+1933, as amended.
+ 
+12
+------------------------------------------------------------------------
+
