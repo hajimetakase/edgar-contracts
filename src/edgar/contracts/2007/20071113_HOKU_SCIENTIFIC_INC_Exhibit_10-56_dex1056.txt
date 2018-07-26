@@ -1,0 +1,2863 @@
+ EX-10.56 6 dex1056.htm AMENDED AND RESTATED CONTRACT
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Exhibit 10.56
+
+
+Amended & Restated Contract
+
+
+Contract No.: GEC/MSA 200701.1
+Date of Signature: October 15, 2007
+
+
+The Contract is made and entered into through friendly negotiation by and 
+between
+
+
+Hoku Materials, Inc. a corporation organized and existing under the laws of 
+Delaware (hereinafter referred to as the Purchaser) having its principal 
+office at 1 Hoku Way, Pocatello, Idaho, 83204 USA as one party and
+
+
+MSA Apparatus Construction for Chemical Equipment Ltd., a company organized 
+and existing under the laws of the United Kingdom, having its registered 
+office at 88a Tooley Street, London Bridge, London, UK, in corporation with 
+GEC Graeber Engineering Consultants GmbH Germany a corporation organized 
+and existing under the laws of Federal Republic of Germany having its 
+registered office at Haydnstrasse 12, 85521 Ottobrunn, Germany, 
+(hereinafter collectively referred to as the Supplier) as the other 
+party, under the following terms and conditions:
+
+
+RECITALS
+
+
+Whereas, the Supplier and the Purchaser are parties to Contract No. 
+GEC/MSA200701, dated January 21, 2007 (as amended, restated, supplemented 
+or otherwise modified from time to time, the Prior Agreement), by and 
+between the Supplier and Hoku Scientific, Inc. (Hoku).
+
+
+Whereas, on September 6, 2007, all of Hokus rights and obligations under 
+the Prior Agreement were assigned by Hoku to (and assumed by) the Purchaser 
+pursuant to the terms of that certain Assignment and Assumption Agreement 
+(the Assignment and Assumption).
+
+
+Whereas, the Supplier and the Purchaser desire to amend and restate, in its 
+entirety, the Prior Agreement, as hereinafter set forth
+
+
+AGREEMENT
+
+
+Now, therefore, for good and valuable consideration, the receipt and 
+sufficiency of which are hereby acknowledged, the Purchaser and the 
+Supplier hereby agree to the following:
+ 
+Chapter 1 	Definitions
+
+In the Contract unless the context otherwise defines, the meanings herein 
+assigned to them:
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+1.1 	Equipment means the group of components comprising of the group of 
+items listed in the Technical Annexes, and if the Option Price is paid, 
+includes the Option Deliverables. These include the following sets:
+
+
+Set Hydrogen Reduction Reactors [*] (the Reactor Set), comprising of:
+  	Ø 	  	
+
+[*]
+
+  	Ø 	  	
+
+[*]
+
+  	Ø 	  	
+
+[*]
+
+  	Ø 	  	
+
+[*]
+
+  	Ø 	  	
+
+[*]
+
+
+Set Hydrogenation Reactor Set (the Hydrogenation Set), comprising of:
+  	Ø 	  	
+
+[*]
+
+  	Ø 	  	
+
+[*]
+
+  	Ø 	  	
+
+[*]
+
+ 
+1.2 	Contract Price means the sum payable to the Supplier under the 
+contract for full and proper performance of its contractual obligations 
+(including equipment and technical services) as set forth in Section 3.1.
+ 
+1.3 	Contract Currency means, the currency in which the payment is made 
+under the contract. The currency is EURO.
+ 
+1.4 	Attendance of Erection and Commissioning refers to the attendance and 
+guidance at the time of equipment erection including placement and to the 
+attendance and guidance at the time of the Commissioning Test (meaning the 
+mechanical and electrical functionality) of the equipment at the Work Site.
+ 
+1.5 	Reactor Demonstration refers to the erection and demonstration of at 
+least one reactor set and at least one hydrogenator set producing at least 
+75 Kg of polysilicon from operation.
+ 
+1.6 	Performance Test Runs of the equipment refers to the test conducted at 
+the Work Site in order to check the actual performance of the equipment 
+meets the performance and product specifications as described in Annex 7.
+ 
+1.7 	Certificate of Commissioning refers to the certificate signed by an 
+officer of Purchaser after the successful completion of the Commissioning 
+Test for each piece of equipment before start-up.
+ 
+1.8 	Port of Shipment: Hamburg, Germany. Port of Unloading: USA (exact 
+location to be determined).
+ 
+1.9 	Work Site refers to Polysilicon Plant build in Pocatello, Idaho, USA.
+ 
+1.10 	Technical Documentation refers to the documentation that includes the 
+technical data, specifications, drawings (accord. to ASME requirements),
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	
+
+inspection, erection, commissioning, performance testing, operating and 
+maintenance of the equipment.
+
+
+Scope of technical documentation is specified in Annex 5.
+ 
+1.11 	Technical Service means the technical information, provided by the 
+Supplier to the Purchaser with respect to EPCM design input and erection, 
+commissioning, performance test, instruction for operation and maintenance 
+of the equipment. Scope of technical service is defined in Annexes 1, 2, 3, 
+4, 5 and 6.
+ 
+1.12 	Warranty Period: The warranty shall remain valid for 18 (eighteen) 
+months from the date on which the Certificate of Commissioning for 
+equipment had been issued by the purchaser. During warranty period, the 
+Supplier guarantees the proper and stable quality of the Equipment and is 
+responsible for repair or replacing any defective parts of the Equipment.
+ 
+1.13 	Inspection authorities refers to the local inspection branch of state 
+administration for entry-exit located at/ or near the port of unloading 
+and/or the work site.
+ 
+1.14 	Option Deliverables has the meaning set forth in Section 3.1.1 below.
+ 
+1.15 	Option Price has the meaning set forth in Section 3.1.1 below.
+ 
+Chapter 2 	Scope of Contract
+ 
+2.1 	The Purchaser agrees to buy from the Supplier and the Supplier agrees 
+to sell to the Purchaser as stipulated under Chapter 1 Equipment Technical 
+Documentation and Technical Services including design input with the EPCM, 
+verification of design, supervision of erection and commissioning (detailed 
+scope of supply and detailed technical conditions as stipulated in the 
+Technical Annexes 1 through 7 to this contract).
+ 
+2.2 	The Supplier guarantees the performance of the Equipment at the Work 
+Site as specified in Annexes 1 and 7.
+ 
+2.3 	The Supplier agrees to take part in a Reactor Demonstration at the 
+earliest possible time at the Work Site. The Purchaser agrees to pay the 
+Supplier for the Equipment and Costs needed to conduct the test at that 
+time.
+ 
+2.4 	The Supplier shall dispatch experienced and competent persons to the 
+Work Site and other locations as needed in order to provide the purchaser 
+with Technical Services as specified in Annexes 3-5.
+ 
+2.5 	The Technical Documentation specified in Annexes 2, 4, and 5 will be 
+reviewed and approved by the Purchaser. If there are reasonable requests
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+from the Purchaser including clarification or guidance, the Supplier will 
+cooperate with the Purchaser in good faith.
+ 
+2.6 	The Purchaser agrees to conduct Performance Tests and prove that the 
+Equipment meet and adhere to the parameters specified in Annex 7.
+ 
+2.7 	The Supplier agrees to pay for shipping and insurance of the equipment 
+from Ex Works to Hamburg, Germany.
+ 
+2.8 	The Purchaser agrees to pay for shipping and insurance of the 
+equipment from Hamburg Germany to the Work Site.
+ 
+Chapter 3 	Price
+ 
+3.1 	The total contract price for the Equipment, Technical Documentation 
+and Technical Services under the contract for 2,000 metric tons is 
+20,900,000 Euro.
+ 
+3.1.1 	At any time within six (6) months after the date first set forth 
+above in this Contract, Purchaser may elect to increase the capacity of the 
+Equipment from 2,000 metric tons per year up to 2,500 metric tons per year, 
+in which case the additional contract price for the additional Equipment, 
+Technical Documentation and Technical Services to achieve up to 2,500 
+metric tons per year of production capacity (collectively, the Option 
+Deliverables), under the contract shall be up to 6,725,000 Euro (the 
+Option Price). The Purchaser may exercise this option by paying to the 
+Supplier the Initial Option Price pursuant to Section 4.2.4(A) below.
+ 
+3.1.2 	[Reserved]
+ 
+3.2 	The Contract Price and the Option Price, as specified in Chapter 3.1 
+and 3.1.1, respectively, are fixed prices and include all Equipment, 
+Technical Documentation and Technical Services provided hereunder.
+ 
+Chapter 4 	Terms of payment
+ 
+4.1 	All payments to be made by the Purchaser to the Supplier shall be 
+affected through the Purchaser bank and the Supplier bank in EURO. The 
+Purchasers bank and the Supplier bank shall be international A rated 
+banks.
+ 
+4.2 	The Supplier acknowledges that it has received payment of 15% of the 
+Contract Price (the Initial Payment) to the Supplier, which started the 
+equipment delivery process. Estimated delivery time for all the Equipment 
+is 18 months for 2,000 metric tons from the date when such Initial Payment 
+was received on May 29, 2007. If the Supplier fails to fulfill his contract 
+obligations, such documentation shall be released from escrow to Purchaser. 
+Payment of the remaining 85% of the contract price shall be paid as 
+follows:
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+4.2.1 	Milestone Payments
+A. Forty-five percent (45%) of the Contract Price shall be paid in equal 
+increments of 1,567,500 EURO (Say: One Million Three Hundred Forty-three 
+Thousand Five Hundred Seventy-one EURO) via telegraphic transfer (T/T) on 
+the last day of each month (or if such day is not a weekend or holiday, 
+then on the next business day) beginning with the first such payment on 
+October 31, 2007, and the second such payment on November 30, 2007, until 
+an aggregate of 9,405,000 EURO (Say: Nine Million Four Hundred Five 
+Thousand EURO) has been paid to the Supplier; provided, however, that prior 
+to any such payment being due, the Supplier shall provide the Purchaser 
+with a written report describing the progress that is being made in the 
+manufacture of the Equipment, and provided, further, that the Supplier 
+shall arrange for a monthly inspection by the Purchaser to monitor and 
+inspect such progress.
+
+
+B. Twenty percent (20%) of the Contract Price shall be paid in equal 
+increments of 1,045,000 EURO (Say: One Million Forty-five Thousand EURO) 
+via telegraphic transfer (T/T) within two (2) weeks after each set of four 
+(4) Reactor Sets and related Hydrogenation Sets have been shipped and the 
+following documents have been received by the Purchaser:
+  	a. 	Three (3) originals and three (3) duplicate copies of clean on board 
+ocean bill of lading made out to order, blank endorsed, notifying the 
+Purchaser and marked FREIGHT PREPAID.
+  	b. 	Five (5) copies of commercial invoice indicating the amount to be 
+paid and the itemized price.
+  	c. 	One (1) original and five (5) duplicate copies of detailed packing 
+list, indicting the shipping weight, number and the date of the 
+corresponding invoice.
+  	d. 	One (1) original and five (5) duplicate copies of ex-works quality 
+certificate, issued by the manufacturer.
+  	e. 	Three (3) originals and three (3) copies of Certificate of 
+Conformity according TÜV Certificate.
+  	f. 	One (1) original and five (5) duplicate copies of certificate of 
+origin, issued by relevant authorities of the manufacturers country.
+  	g. 	One (1) copy of fax advising the purchaser of the shipment, 
+immediately after it is made.
+ 
+4.2.2 	Reactor Demonstration
+Within four weeks after the successful completion of the Reactor 
+Demonstration, the Purchaser shall effect the payment of ten percent (10%) 
+of the contract price by Telegraphic Transfer (T/T).
+ 
+4.2.3 	Retention Money
+Within four weeks after the earlier of (i) expiration of the warranty 
+period; and (ii) thirty (30) months from the date of delivery as stipulated 
+in the contract,
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+the Purchaser shall effect the payment of ten percent (10%) of the Contract 
+Price by Telegraphic Transfer (T/T).
+ 
+4.2.4 	Payment of Option Price.
+  	A. 	Payment of 15% of the Option Price (the Initial Option Payment) to 
+the Supplier will start the delivery process for the Option Deliverables. 
+The delivery time for the Option Deliverables is 12 months from the date 
+when the Initial Option Payment is received.
+ 
+  	B. 	Forty-five percent (45%) of the Option Price shall be paid in equal 
+increments via telegraphic transfer (T/T) on the last day of each month (or 
+if such day is not a weekend or holiday, then on the next business day) 
+beginning with the first such payment on the last day of the first full 
+month after the month in which the Initial Option Payment is made (e.g., if 
+the Initial Option Payment is made on October 15, then the next payment 
+shall be due on the last day of November), until an aggregate of forty-five 
+percent (45%) of the Option Price has been paid to the Supplier; provided, 
+however, that prior to any such payment being due, the Supplier shall 
+provide the Purchaser with a written report describing the progress that is 
+being made in the manufacture of the Option Deliverables, and provided, 
+further, that the Supplier shall arrange for a monthly inspection by the 
+Purchaser to monitor and inspect such progress.
+ 
+  	C. 	Twenty percent (20%) of the Option Price shall be paid in two equal 
+increments of ten percent (10%) each via telegraphic transfer (T/T) within 
+two (2) weeks after each set Reactor Set and related Hydrogenation Sets 
+have been shipped and the following documents have been received by the 
+Purchaser:
+
+a. Three (3) originals and three (3) duplicate copies of clean on board 
+ocean bill of lading made out to order, blank endorsed, notifying the 
+Purchaser and marked FREIGHT PREPAID.
+b. Five (5) copies of commercial invoice indicating the amount to be paid 
+and the itemized price.
+c. One (1) original and five (5) duplicate copies of detailed packing list, 
+indicting the shipping weight, number and the date of the corresponding 
+invoice.
+d. One (1) original and five (5) duplicate copies of ex-works quality 
+certificate, issued by the manufacturer.
+e. Three (3) originals and three (3) copies of Certificate of Conformity 
+according TÜV Certificate.
+f. One (1) original and five (5) duplicate copies of certificate of origin, 
+issued by relevant authorities of the manufacturers country.
+g. One (1) copy of fax advising the purchaser of the shipment, immediately 
+after it is made.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	D. 	Reactor Demonstration. Within four weeks after the successful 
+completion of the Reactor Demonstration for the Option Deliverables, the 
+Purchaser shall effect the payment of ten percent (10%) of the Option Price 
+by Telegraphic Transfer (T/T).
+ 
+  	E. 	Retention Money. Within four weeks after the earlier of (i) 
+expiration of the warranty period for the Option Deliverables; and (ii) 
+thirty (30) months from the date of delivery as stipulated above, the 
+Purchaser shall effect the payment of [ten percent (10%)] of the Option 
+Price by Telegraphic Transfer (T/T).
+ 
+4.5 	All payments to Supplier pursuant to this Contract shall be sent via 
+Telegraphic Transfer (T/T) to the following account:
+
+
+[*]
+Acct N. [*]
+[*]
+IBAN: [*]
+BIC (SWIFT CODE): [*]
+Account Name: [*]
+ 
+Chapter 5 	Delivery
+ 
+5.1 	The Supplier shall complete the delivery of Equipment at Port of 
+Hamburg Germany within 18 months after the date the Supplier received the 
+Initial Payment.
+ 
+5.1.1 	If the Purchaser elects to increase the capacity of the Equipment 
+from 2,000 metric tons per year to 2,500 metric tons per year, the Supplier 
+shall complete the delivery of the additional Equipment for the additional 
+500 metric tons of capacity at Port of Hamburg, Germany within 12 months 
+after receipt of the Initial Option Payment pursuant to Section 4.2.4 
+above.
+ 
+5.2 	Not fewer than 14 days before the readiness for the shipment, the 
+Supplier shall notify the purchaser by Fax of the following information:
+ 
+  	a) 	Contract Number
+  	b) 	Total volume
+  	c) 	Total gross weight of packages
+  	d) 	Total number of packages
+  	e) 	Port of shipment
+  	f) 	Name, total gross weight and measurement of each piece exceeding 
+nine (9) metric tons in weight or over 3,400 mm in width, or over 2,350 mm 
+on both sides in height
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	g) 	Name, weight, IMCO No. (as per International Maritime Dangerous 
+Goods Code) of the dangerous and/or inflammable goods
+ 
+5.3 	In the meantime the Supplier shall airmail the following documents in 
+six (6) copies to the Purchaser:
+ 
+  	a) 	The details list of the shipment, covering contract No., the 
+contract equipment , specification, type, quantity, unit/total price, unit 
+weight, unit/total volume, the overall dimensions of each package (length x 
+width x height), total number of packages
+  	b) 	Overall packing sketch for each large piece exceeding nine (9) 
+metric tons in weight or over 2,400 mm in width or over 2,350 mm on both 
+sides in height
+  	c) 	Description of any dangerous and/or inflammable goods indicating 
+names, properties, special protective measures and handling methods in case 
+of accident
+  	d) 	Description of the special precautions for the contract Equipment 
+that requires special storage and transportation.
+ 
+5.4 	Unless or otherwise agreed by the Purchaser, shipment on deck or 
+transshipment is not acceptable.
+ 
+5.5 	Ten (10) calendar days before the expected departure date of the 
+carrying vessel from the port of shipment, the Supplier shall notify the 
+Purchaser the nationality of the carrying vessel, estimated date of 
+shipment, estimated date of arrival at the port of destination, contract 
+No., name of the contract equipment, contract equipment item no., quantity, 
+weight and volume and other relevant matters.
+
+
+Within two (2) days after the loading the equipment, the Supplier shall 
+airmail one (1) duplicate copy of the Bill of Lading, signed commercial 
+invoice, ex-work quality certificate of origin and packing list to the 
+Purchaser.
+
+
+In case the goods are not insured in time by the purchaser owing to the 
+Supplier having failed to give timely advices, any and all consequent 
+losses shall be born by the Supplier.
+ 
+5.6 	The third (3) party Ocean Bill of Lading is not acceptable.
+ 
+5.7 	In case the Supplier fails to make complete delivery within 15 months 
+from the date of the Initial Payment for 1,500 metric tons per year or 
+within the next 3 months after such delivery date for the additional 500 
+metric tons per year (if applicable), the Supplier shall pay the liquidated 
+damages for late delivery at the following rates:
+ 
+  	a) 	From the first to the fourth week, the liquidated damages shall be 
+[*] [*] of the value of the delivered equipment per week
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	b) 	From the fifth week on, the liquidated damages shall be [*] [*] of 
+the value of the delivered equipment per week
+  	c) 	Less than one week shall not be counted as a complete week for 
+calculation of the liquidated damages.
+  	d) 	The total amount of the liquidated damages shall not exceed [*] [*] 
+of the price of the delivered equipment
+
+
+The payment of liquidated damages shall not release the Supplier from their 
+obligation to deliver the delayed equipment.
+ 
+5.8 	In case the equipment is lost or damaged during the ocean 
+transportation, the Supplier shall upon the request and on payment of the 
+Purchaser, supplementary supply of the same at the original contract price 
+and pursuant to the same terms and conditions described herein.
+ 
+Chapter 6 	Packing and Marking
+ 
+6.1 	Unless otherwise specified in the contract, the equipment shall be 
+packed by the Supplier in new wooden cases, and all packing expenses shall 
+be for the Suppliers account. Necessary measures shall be taken to protect 
+the equipment from damages caused by moisture, rain rust, corrosion, shock 
+and to ensure the equipment to withstand numerous handling, loading and 
+unloading as well as long distance ocean and inland transportation for the 
+safe arrival of the equipment at the work-site.
+ 
+6.2 	The loose accessories in package or bundle shall be labeled by the 
+Supplier indicating contract No., name of equipment, name of accessories 
+and their position number, and accessory number marked on assembly 
+drawings. Spare parts and tools shall be marked with the word Spare parts 
+or tools besides the above mentioned particular.
+ 
+6.3 	The Supplier shall on four (4) adjacent sides of each package mark 
+conspicuous the following information in English with indelible paint:
+ 
+  	a) 	Contract No.:
+  	b) 	Shipping mark:
+  	c) 	Destination:
+  	d) 	Consignee:
+  	e) 	Name of contract equipment and item No.:
+  	f) 	Case/bale No.:
+  	g) 	Gross/net weight
+  	h) 	Measurement
+ 
+6.4 	Should the equipment weigh more than 2 metric tons, the weight, 
+gravity and hoisting positions shall be marked in English with 
+international trade transportation marks on the four adjacent sides on each 
+case so as to facilitate unloading and handling.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+In accordance with different requirements in loading, unloading and 
+shipping, the package shall be conspicuously marked with Handle with care, 
+right side up, keep dry in English and with appropriate international 
+trade marks.
+ 
+6.5 	The following documents shall be enclosed in each package of the 
+equipment:
+ 
+  	a) 	Two (2) duplicate copies of detailed packing list
+  	b) 	Two (2) duplicate copies of quality certificate
+  	c) 	Two duplicate copies of technical documentation for relevant 
+contract equipment
+ 
+6.6 	In case of container transportation, the Supplier shall examine the 
+condition of the containers, so that only those in good condition shall be 
+used for delivery of the equipment.
+
+
+Sufficient shores or chocks shall be provided in order to prevent the 
+equipment from moving inside the containers. The Supplier shall be liable 
+for any damage to the equipment thus incurred due to the negligence of the 
+Supplier.
+ 
+6.7 	If the equipment is damaged or lost due to improper packing or 
+inadequate protective measure, the Supplier shall be responsible for 
+repair, replacement or compensation in accordance with the contract. If the 
+equipment is mis-transported due to mistake or ambiguousness in package or 
+shipping marks, the Supplier shall bear additional expenses thus incurred.
+ 
+6.8 	The Supplier shall use wooden packages free from any insect 
+infestation. Should insect infestation be found in quarantine inspection, 
+the Supplier shall bear the cost incurred in fumigation or replacement of 
+the packages at the port of unloading, and the liquidated damages provision 
+of Chapter 5.7 above shall apply to any delay in shipment caused by such 
+quarantine inspection.
+ 
+Chapter 7 	Standards and Inspections
+ 
+7.1 	The Supplier shall carry out design and inspection of the equipment 
+according to the Technical Annexes.
+ 
+7.2 	The Supplier shall inspect the equipment and issue the ex-works 
+quality certificate. All expenses involved shall be for the Suppliers 
+account. The ex-works quality certificate shall be submitted to the 
+Purchaser.
+ 
+7.3 	The Purchaser will send its inspectors (for one week) to the Supplier 
+country to inspect the quality of the equipment together with the Supplier 
+inspectors. In addition to Purchasers inspectors, Purchasers lenders and 
+shareholders may also send their inspectors. The expenses of sending 
+Purchasers
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+inspectors, or the inspectors of Purchasers lenders and shareholders, 
+shall be for the Purchasers account.
+ 
+7.4 	The Supplier shall notify the Purchaser of the inspection date four 
+(4) weeks in advance. The letter of invitation shall be submitted by the 
+Supplier.
+ 
+7.5 	The equipment shall be examined in the presence of the Purchasers 
+inspectors and both parties shall sign an inspection certificate, 
+provided however, that if Purchasers inspectors do not attend the 
+inspection after notice having been duly provided pursuant to 7.4, then it 
+shall be deemed signed by Purchaser. Purchasers inspector may not refuse 
+to sign the inspection certificate if the equipment is in conformity with 
+the Technical Annexes, as determined by TÜV. Afterwards the equipment shall 
+be shipped.
+ 
+7.6 	In addition to the foregoing, Purchaser, its authorized 
+representatives and its lenders, shareholders and their respective 
+authorized representatives, may inspect the equipment at any time prior to 
+shipment. The expenses of any such inspection shall be for the Purchasers 
+account.
+ 
+7.7 	The Supplier shall take into consideration the opinions of the 
+Purchasers inspectors and shall take necessary measures to eliminate the 
+defect or discrepancy, if any, for its own account.
+ 
+7.8 	The pre-delivery inspection shall not be a substitute for the 
+inspection of the equipment at the port of unloading or the work site of 
+the Purchaser and shall not release the Supplier from its guarantee 
+obligations as further specified in the contract.
+ 
+7.9 	The open package inspection on the equipment shall be performed by the 
+inspection authorities at the work site of the Purchaser.
+ 
+7.10 	In case of container transportation the opening and return of the 
+containers shall not be regarded as open-package inspection.
+ 
+7.11 	Should the equipment be found defective before the expiration of 
+warranty period for any reason, including but not limited to latent defect 
+or the use of unsuitable materials the Purchaser has the right to apply to 
+the inspection authorities for inspection and lodge claims against the 
+Supplier on the strength of the inspection certificate.
+ 
+7.12 	The technical documentation will be carried out in English.
+ 
+Chapter 8 	Attendance of Erection and Commissioning and Performance Test
+ 
+8.1 	Erection and commissioning of the equipment shall be carried out by 
+the Purchaser under the supervision of the Supplier. The Supplier shall 
+provide
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+technical instruction for the Purchaser as well. The scope of the technical 
+services is specified in Technical Annexes. The price for attendance of 
+erection shall be for the Supplier account. The price for attendance of 
+commissioning by the Suppliers experts shall be for the Supplier account.
+ 
+8.2 	The Purchaser and Supplier shall carry out the Commissioning Test to 
+check the mechanical and electrical operation of the equipment. In case all 
+the requirements specified in the Technical Annexes have been fulfilled, a 
+test certificate for the equipment shall be signed by the two parties on 
+the date when the test is successfully done.
+ 
+8.3 	The Reactor Demonstration, Performance Test Run and Commissioning Test 
+Certificate of the equipment shall not release the Supplier from his 
+warranty for the equipment.
+ 
+Chapter 9 	Warranty
+ 
+9.1 	The Supplier guarantees that the contract equipment shall be 
+completely brand new and complies in materials, workmanship in all respects 
+with the quality and specifications stipulated in this contract.
+ 
+9.2 	The Supplier guarantees that the use of contract equipment is free of 
+any infringement claim raised by a third party. In case the Purchaser is 
+accused of illegal exploitation or infringement of any know-how and/or 
+patent and/or other intellectual property rights arising from the use of 
+contract equipment, the Purchaser shall give the Supplier a notice and the 
+Supplier shall take up the matter with third party at its own cost in the 
+Purchasers name and with Purchasers assistance and indemnify the Purchaser 
+for any cost, compensations or damages arising there from. In no event 
+shall Supplier settle or compromise any third party claim without the prior 
+written consent of Purchaser.
+ 
+9.3 	The Supplier guarantees that the technical documentation shall be 
+complete, clear and correct so as to meet the requirements of design, 
+inspection, erection, commissioning, performance test, operation and 
+maintenance of the equipment.
+ 
+9.4 	The Supplier guarantees that qualified technical persons shall be 
+dispatched within [*] hours after notification from the Purchaser and 
+confirmation from the Supplier of an equipment defect to provide 
+professional and technical service. If the Supplier does not arrive at the 
+Purchasers facility within [*] hours after confirmation from the Supplier 
+of such a notification, then the Supplier shall pay the Purchaser [*] per 
+day for each day that the equipment is not operational due to the defect.
+ 
+9.5 	Within the Warranty Period, in case of any defects caused by the 
+reasons of inferior quality, bad workmanship and use of inferior materials, 
+the Supplier
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+shall dispatch engineers to the Purchaser site and remove the said 
+defection at the Suppliers expenses.
+ 
+9.6 	Should the defection be due to the fact that the goods were delivered 
+not in accordance with the attached technical specifications the Supplier 
+shall be liable to repair at Suppliers cost and/or devalue the defected 
+goods.
+ 
+9.7 	The Supplier represents and warrants that the Supplier is not subject 
+to any contract or duty that would be breached by the Supplier entering 
+into or performing the Suppliers obligations under this contract or that 
+is otherwise inconsistent with this contract. Supplier will not disclose to 
+Purchaser, will not bring into Purchasers facilities, including the Work 
+Site, and will not induce Purchaser to use any confidential or proprietary 
+information of any third party.
+ 
+Chapter 10 	Confidentiality
+
+Either party shall keep confidential the trade secrets that may be obtained 
+during the course of performing the contract. After signing the contract 
+and defining technical specifications, the Supplier shall not disclose 
+information out of the said. Either party shall not make use of or disclose 
+confidential information without prior written consent of the other party. 
+Notwithstanding the foregoing, the Purchaser may disclose the material 
+terms of this agreement, including the aggregate contract amount, and may 
+provide a copy of this agreement to the public, if the Purchasers 
+attorneys determine that it is required to do so pursuant to applicable 
+public company disclosure laws or regulations. Notwithstanding the 
+foregoing, the Purchaser shall use commercially reasonable efforts to 
+redact all of the Suppliers trade secrets from any such public disclosure 
+or filing.
+ 
+Chapter 11 	Claim
+ 
+11.1 	In case the Supplier fails to perform any of its obligations under 
+the contract during the design, manufacture, inspection, erection, 
+Performance Test Run, Reactor Demonstration, Commissioning Test and 
+Warranty Period the Purchaser shall have the right to lodge claims against 
+the Supplier for the following remedy:
+
+
+Repair the defective equipment at the Suppliers expenses. In case the 
+Supplier fails to dispatch his personnel to the work site, the purchaser 
+has the right to eliminate the defects by itself for the Suppliers 
+account.
+ 
+11.2 	The claim notice shall be effective if it is issued not later than 
+thirty (30) days from the expiration of the warranty period.
+ 
+11.3 	In case the Supplier fails to reply within fourteen (14) days upon 
+the receipt of the Purchasers claim, the claim shall be regarded as been 
+accepted by the Supplier.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+11.4 	Notwithstanding anything to the contrary in this contract, Suppliers 
+maximum liability to the Purchaser shall not exceed amounts paid to 
+Purchaser plus liquidated damages assessed pursuant to this contract.
+ 
+11.5 	UNDER NO CIRCUMSTANCES SHALL EITHER PARTY BE LIABLE TO THE OTHER 
+PARTY FOR CONSEQUENTIAL OR SPECIAL DAMAGES; INCLUDING LOST PROFITS OR LOST 
+BUSINESS OPPORTUNITY. EACH PARTY MAY ONLY CLAIM ITS ACTUAL DAMAGES PLUS ANY 
+LIQUIDATED DAMAGES PURSUANT TO THIS AGREEMENT.
+ 
+Chapter 12 	Cancellation
+ 
+12.1 	The Purchaser may, without prejudice to any other remedy for the 
+Suppliers following breach of contract, by written notice send to the 
+Supplier, cancel the contract in whole or in part if the Supplier fails to 
+deliver the equipment within 140 days after the scheduled delivery time. 
+Upon such cancellation, Supplier shall refund to Purchaser all amounts 
+already paid to Supplier.
+ 
+12.2 	If at any time prior to shipment of the Equipment, the Purchaser has 
+a justifiable reason to believe that the Supplier will be more than 140 
+days late in the delivery of the equipment, the Purchaser may immediately 
+cancel this agreement and shall be entitled to the maximum amount of 
+liquidated damages payable pursuant to Section 5.7 above. Upon such 
+cancellation, and after payment in full to the Purchaser of the amounts 
+already paid to the supplier and liquidated damages, neither party shall 
+have any further obligation or liability to the other party.
+ 
+12.3 	Either party may cancel the contract at any time, by giving written 
+notice to the other party in case the other party becomes bankrupt or 
+insolvent. Such cancellation shall not prejudice or affect any other 
+available remedy.
+ 
+12.4 	If the Purchaser fails to effect the payments according to Chapter 4 
+of this contract, after receipt of written notice from the Supplier, and 30 
+days to cure the payment default, the Supplier is entitled to cancel the 
+contract, by giving written notice to the other Party.
+ 
+12.5 	[Reserved]
+ 
+12.6 	[Reserved]
+ 
+12.7 	The following Chapters of this Agreement shall survive the 
+cancellation or expiration of this Agreement: Chapter 1 (Definitions); 
+Chapter 9 (Warranty); Chapter 10 (Confidentiality); Chapter 11 (Claim); 
+Chapter 15 (Arbitration); Chapter 16 (Construction of Contract); and 
+Chapter 17 (Effectiveness and Miscellaneous).
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Chapter 13 	Force Majeure
+ 
+13.1 	Should either party be prevented from performing any of its 
+obligations under the contract due to event of Force Majeure such as war, 
+serious fire, typhoon, earthquake, flood and any other events which could 
+not be expected, avoided and overcome, the affected party shall notify the 
+other party of its occurrence by fax and send by registered air mail a 
+certificate issued by competent authorities confirming the event of the 
+Force Majeure within fourteen (14) days following its occurrence. In 
+Germany, the competent authority for issuing the certificate is The 
+Ministry of Internal Affairs of Germany.
+ 
+13.2 	The affected party shall not be liable for any delay or failure in 
+performing any or all of its obligations due to the event of Force Majeure. 
+However, the affected party shall inform the other party by fax the 
+termination or elimination of the event of Force Majeure as soon as 
+possible.
+ 
+13.3 	Both parties shall proceed with their obligations immediately upon 
+the cease of the event of Force Majeure or removal of all the effects. The 
+term of the contract shall be extended correspondingly.
+ 
+Chapter 14 	Taxes and Duties
+ 
+14.1 	All taxes and duties in connection with and in the performance of the 
+contract levied by the United States government on the Purchaser in 
+accordance with the tax laws of the United States shall be borne by the 
+Purchaser.
+ 
+14.2 	All taxes and duties levied by the German government on the Supplier, 
+in connection with and in the performance of the contract, according to 
+German tax laws and the agreement between the government of the United 
+States and the government of Germany for the reciprocal avoidance of double 
+taxation and the prevention of fiscal evasion with respect to taxes on 
+income, shall be borne by the Supplier.
+ 
+14.3 	All taxes and duties arising within Germany in connection with and in 
+performance with the contract shall be borne by the Supplier.
+ 
+Chapter 15 	Arbitration
+ 
+15.1 	Any dispute arising from or in connection with this contract shall be 
+submitted to International Economic and Trade Arbitration Commission for 
+arbitration. The location of arbitration shall be London, England. The 
+substantive law to be applied in any such arbitration shall be English 
+common law.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+15.2 	Notwithstanding any reference to arbitration, both parties shall 
+continue to perform their respective obligations under the contract unless 
+otherwise agreed.
+ 
+Chapter 16 	Construction of Contract
+ 
+16.1 	The construction, validity, interpretation, performance, 
+implementation and all matters relating to this contract and any amendment 
+thereto shall be governed by the United Nation Convention for International 
+Sales of goods.
+ 
+Chapter 17 	Effectiveness and Miscellaneous
+ 
+17.1 	After contract is signed by the authorized representatives, each 
+party shall apply to its respective representatives of their companies for 
+ratification, if required to do so.
+ 
+17.2 	Each party shall power a person (s) for signature of contractual 
+documents. For MSA/GEC Manfred Schirsner and Heinz Graeber are powered and 
+required to sign. For Hoku Scientific Dustin Shindo and Darryl Nakamoto are 
+powered to sign.
+ 
+17.3 	The contract becomes effective upon signing.
+ 
+17.4 	After the fulfillment of the contract, the contract will remain valid 
+beyond one (1) month after the expiry date of the warranty period. Any 
+unsettled credit and debt under the contract shall not be affected by the 
+expiration of the contract. The debtor shall effect its obligation of 
+reimbursement to the creditor.
+ 
+17.5 	The contract is made in English. The contract is in four (4) 
+originals, two (2) for the Purchaser and two (2) for the Supplier.
+ 
+17.6 	Annexes to the contract are integral parts to the contract and have 
+the same legal force as the text of the contract itself.
+ 
+17.7 	All amendments, supplements and alternations to the terms and 
+conditions of the contract shall be made in written form and signed by the 
+authorized representatives according to paragraph 17.2. These documents 
+shall be integral parts of the contract.
+ 
+17.8 	This contract may be assigned in its entirety by the Purchaser to any 
+third party that is not a direct competitor of the Supplier upon written 
+notice to the Supplier, and provided that any such assignee agrees to be 
+bound to the terms hereof. No assignment of any right or obligation under 
+the contract shall be made by the Supplier to a third party without prior 
+written consent of the Purchaser.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+17.9 	The communication between the two parties shall be conducted in 
+written form. Faxes concerning important matters shall be confirmed in due 
+time by express mail.
+
+
+Purchaser: Hoku Materials, Inc.
+Attention: Karl M. Taft III
+Address: One Hoku Way, Pocatello, Idaho USA
+Post Code: 83204
+Telephone: +1-808-682-7800
+Fax: +1-808-682-7807
+E-mail: [*]
+
+
+Seller: Apparatus Construction for Chemical Equipment Ltd. and GEC Graeber 
+Engineering Consultants GmbH
+
+
+Attention: Heinz Graeber
+Address: Haydn-Strasse 12, 85521 Ottobrunn, Germany
+Telephone: [*]
+Fax: [*]
+E-mail: [*]
+ 
+17.10 	The Supplier hereby acknowledges and consents to the Assignment and 
+Assumption.
+ 
+17.11. 	This Contract constitutes the entire agreement between the 
+Purchaser and the Supplier and supersedes all prior proposal(s) and 
+discussions, relative to the subject matter of this Contract and neither of 
+the Parties shall be bound by any conditions, definitions, warranties, 
+understandings or representations with respect to such subject matter other 
+than as expressly provided herein or in the Technical Annexes. No oral 
+explanation or oral information by either party hereto shall alter the 
+meaning or interpretation of this Contract.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Authorized Signature:
+ 
+Buyer: 	   	Hoku Materials, Inc.
+Address: 	   	
+One Hoku Way
+Pocatello, Idaho 83204 USA
+Telephone: 	   	+1-808-682-7800
+Fax: 	   	+1-808-682-7807
+E-mail: 	   	[*]
+ 
+  	 	  	
+/s/ Dustin M. Shindo 	  	 	  	/s/ Darryl Nakamoto
+Dustin M. Shindo
+Chairman & CEO
+  	 	  	
+Darryl Nakamoto
+Chief Financial Officer
+
+
+Signing Date:
+ 
+  	 	  	
+Supplier: 	   	
+MSA Apparatus Construction
+for Chemical Equipment Ltd.
+  	 	  	 	  	
+GEC
+Graeber Engineering Consultants
+GmbH
+Address: 	   	Isartalstrasse 50 	  	 	  	 	  	Haydn-Strasse 12
+Post Code: 	   	82008 Unterhaching 	  	 	  	 	  	85521 Ottobrunn, Germany
+Telephone: 	   	[*] 	  	 	  	 	  	[*]
+Fax: 	   	[*] 	  	 	  	 	  	[*]
+E-mail: 	   	[*] 	  	 	  	 	  	[*]
+ 
+  	 	  	
+/s/ Manfred Schirsner 	  	 	  	/s/ Heinz Graeber
+Manfred Schirsner
+Signing Date:
+  	 	  	Heinz Graeber
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Amended & Restated Technical Annexes for Purchasing Contract
+
+
+between Hoku Materials, Inc. and MSA/GEC
+
+
+Contract No. GEC/MSA 200701.1
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Index
+
+
+Annex 1: Technical Specifications
+
+Annex 2: Design Interface
+
+Annex 3: Scope of Supply
+
+Annex 4: Technical Documents
+
+Annex 5: Technical Service and Design Liaison meeting
+
+Annex 6: Quality Control
+
+Annex 7: Performance Data and Guarantee Value
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Annex 1: Technical Specifications
+ 
+1.1 	General
+ 
+1.1.1 	This contract is used for purchasing equipments for 2,000 metric 
+tons/year production Polysilicon. In accordance with the terms of the 
+contract, this appendix may be updated to provide for total production 
+capacity of 2,500 metric tons per year of Polysilicon. It defines 
+specifications of design, structure, performance, installation and tests of 
+the equipments etc.
+ 
+1.1.2 	Purchaser means Hoku Materials, Inc.
+     	Supplier means MSA/GEC.
+ 
+1.1.3 	Purchaser specializes the technical demands in the contract. 
+Supplier shall provide a complete set of services and technology to meet 
+the demands of Purchaser. Technical specifications of equipment provided by 
+Supplier should be in accordance with demands in this contract.
+ 
+1.1.4 	If contradictory or inconsistence happens in carrying out the 
+contract, both parties should execute the highest rules in the relative 
+standards or the standards agreed by both parties
+ 
+1.1.5 	If Supplier agrees with all the terms of the contract, the 
+equipments provided by Supplier should completely conform to the technical 
+agreements and the standards specified in the contract.
+ 
+1.1.6 	The Equipment Specification shall be ASME, unless otherwise 
+specified by Purchaser within two weeks after contract signing.
+ 
+1.1.7 	Both parties will continue the discussions about the unclear issues 
+in design liaison meetings.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+1.2 	Project Overall
+ 
+1.2.1 	Location
+
+The factory for the production of Polysilicon is located in Pocatello, 
+Idaho, United States.
+ 
+1.2.2 	Scale
+
+The first target for the Polysilicon Project is to build a factory with the 
+annual through -put of 2,000 metric tons per year of polysilicon with solar 
+grade or electronic grade. The Purchaser may elect to increase the capacity 
+to 2,500 metric tons per year in accordance with the terms of the contract. 
+The plant annual operation is continuous except the scheduled maintenance 
+and others unforeseen. The global efficiency is expected at [*] of the 
+operation hours [*]
+ 
+1.3 	Application of Equipment
+
+Purchaser will purchase equipments from Supplier for utilizing 
+trichlorosilane (TCS) to produce polysilicon and converting silicon 
+tetrachloride (STC) to TCS. The products will be used in solar industry and 
+electronic industry.
+ 
+1.4 	Equipment Description
+
+Equipments consist of Deposition-Reactor Set and Hydrogenation-Reactors Set 
+and Necessary Accessories.
+
+
+Deposition-Reactors Set and its accessories include:
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	 	  	
+
+[*]
+
+
+Hydrogenation-Reactors Set and its accessories include:
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+
+Necessary Accessories include:
+ 
+  	 	  	
+
+Spare parts
+
+ 
+  	 	  	
+
+Special tools
+
+ 
+  	 	  	
+
+Others
+
+ 
+1.5 	Descriptions and Specifications of Equipments
+ 
+1.5.1 	Deposition-Reactors
+ 
+1.5.1.1 	System Description
+
+[*]
+
+
+For solar grade:
+ 
+Capacity 	   	
+
+ Number of Filament Doubles
+
+   	[*]
+
+ Lengths of Filament Doubles
+
+   	[*]
+
+ Deposition rate Average (diameter)
+
+   	[*]
+
+ Deposition diameter approx.
+
+   	[*]
+
+ Cycle of 1 operation
+
+   	[*]
+
+ Loading time
+
+   	[*]
+
+ Unloading time
+
+   	[*]
+
+ Deposition time
+
+   	[*]
+
+ Operating time
+
+   	[*]
+
+ Operating cycles
+
+   	[*]
+
+ Up-time
+
+   	[*]
+
+ Polysilicon per cycle (100 mm)
+
+   	[*]
+
+ Polysilicon per year per Reactor min.
+
+   	[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+
+ Polysilicon per cycle (150 mm)
+
+   	[*]
+
+ Polysilicon per year per Reactor max.
+
+   	[*]
+
+ For electronic grade:
+
+   	
+Capacity 	   	
+
+ Number of Filament Doubles
+
+   	
+
+ [*]
+
+ Lengths of Filament Doubles
+
+   	[*]
+
+ Deposition rate Average (diameter)
+
+   	[*]
+
+ Deposition diameter approx.
+
+   	[*]
+
+ Cycle of 1 operation
+
+   	[*]
+
+ Loading time
+
+   	[*]
+
+ Unloading time
+
+   	[*]
+
+ Deposition time
+
+   	[*]
+
+ Operating time
+
+   	[*]
+
+ Operating cycles
+
+   	[*]
+
+ Up-time
+
+   	[*]
+
+ Polysilicon per cycle (100 mm)
+
+   	[*]
+
+ Polysilicon per year per Reactor min.
+
+   	[*]
+
+ Polysilicon per cycle (150 mm)
+
+   	[*]
+
+ Polysilicon per year per Reactor max.
+
+   	[*]
+
+
+The conditions to achieve above mentioned production capacities are:
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+
+Reactor Dimensions (for both Solar and Electronic Grade)
+ 
+
+ Diameter outside Reactor Cylinder
+
+   	[*]
+
+ Diameter outside Cooling cabinet
+
+   	[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+
+ Height including top-flange
+
+   	
+
+ [*]
+
+ Material of Reactor-body
+
+   	[*]
+
+ Material cooling case
+
+   	[*]
+Design Data 	   	
+
+ Design interior pressure
+
+   	[*]
+
+ Design interior wall temperature
+
+   	[*]
+
+ Design pressure in the cooling cabinet
+
+   	[*]
+
+ Design temp. in the cooling cabinet
+
+   	[*]
+
+ Design, calculation and testing accord. to
+
+   	[*]
+Numbers of power supply connections 	   	[*]
+
+ Numbers of Material-gas inlet jets
+
+   	[*]
+
+ Numbers of show glasses
+
+   	[*]
+
+ Weight approx.
+
+   	[*]
+
+ Volume approx.
+
+   	[*]
+
+ Volume of cooling cabinet cylinder
+
+   	[*]
+
+
+1.5.1.2 [*]
+
+[*]
+
+
+[*]
+
+
+1.5.1.3 [*]
+
+[*]
+
+
+1.5.1.4 [*]
+
+[*]
+
+
+1.5.1.5 [*]
+
+[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+1.5.1.6 [*]
+
+
+[*]
+
+
+1.5.1.7 [*]
+
+
+[*]
+
+
+1.5.1.8 [*]
+
+
+[*]
+
+
+1.5.1.9 [*]
+
+
+[*]
+
+
+1.5.1.10 [*]
+
+
+[*]
+
+
+1.5.2 [*]
+
+
+1.5.2.1 [*]
+
+[*]
+
+
+[*]
+
+
+[*]
+
+
+[*]
+
+
+1.5.2.2 [*]
+
+[*]                                                                         
+          [*]
+
+[*]                                                                         
+         [*]
+
+[*]                                                                         
+         [*]
+
+
+[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+1.5.3 [*]
+
+
+1.5.3.1 [*]
+
+
+[*]
+ 
+
+1.5.3.2 [*]
+  	 	  	
+
+[*]
+
+ 
+  	 	  	
+
+[*]
+
+
+1.5.3.3 [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+[*]                                                                         
+                                  [*]
+
+
+1.5.4 [*]
+
+
+1.5.4.1 [*]
+
+
+[*]
+
+
+1.5.4.2 [*]
+
+
+1.5.5 [*]
+
+
+1.5.4.1 [*]
+
+
+[*]
+
+
+[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+1.5.5.2 [*]
+
+
+1.5.5.3 [*]
+
+
+[*]
+
+
+1.5.6 [*]
+
+
+1.5.6.1 [*]
+
+
+[*]
+
+
+[*]
+
+
+1.5.7 [*]
+
+
+1.5.7.1 [*]
+
+
+[*]
+
+
+[*]
+
+
+[*]
+
+
+1.5.8 [*]
+
+
+1.5.8.1 [*]
+
+
+[*]
+
+
+1.5.9 [*]
+
+
+1.5.9.1 [*]
+
+
+[*]
+
+
+[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+[*]
+
+
+[*]
+
+
+1.6 [*]
+
+[*]
+
+
+1. 7 [*]
+
+[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Annex 2: Design Interface and Deliverables
+ 
+2.1 	Process
+
+Supplier will provide the following documents:
+ 
+2.1.1 	Equipment specification, design capacity (including normal and max 
+capacity) and operating period, construction material etc.
+ 
+2.1.2 	Equipment weight, operation loads, test loads and the max weight of 
+single-parts.
+ 
+2.1.3 	Operating temperature, operating pressure, design temperature and 
+design pressure.
+ 
+2.1.4 	Equipment power consumption, electric specification and blast 
+section.
+ 
+2.1.5 	The nozzle specification of the equipment, the nozzle position and 
+flow specification (including flux, composition, temperature, pressure, 
+etc).
+ 
+2.1.6 	Chemical reaction details in the equipment.
+ 
+2.1.7 	Material balance, material balance requirements and heat balance of 
+the equipment.
+ 
+2.1.8 	Anti-corrosive requirements and heat insulation requirements.
+ 
+2.1.9 	Equipment operating manuals (including safety manual, testing 
+manuals, etc.).
+
+
+2.2 Instruments
+ 
+2.2.1 	All of instruments (hardware and software) for equipments will be 
+supplied by Supplier.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+2.2.2 	Supplier will provide proposal layout of the local panel.
+ 
+2.2.3 	Supplier shall supply these documents and Drawings as following:
+ 
+     	Field Instruments Specifications (including operation condition, 
+instrument type, measuring range¨explosion proof class¨instrument material) 
+I/O cards and Interface to the PCS system.
+ 
+2.3 	Electrical
+ 
+2.3.1 	Supplier will provide electrical parameters about radiation heating 
+rods: voltage and current.
+ 
+2.3.2 	Supplier will provide the installation drawings defining insulation 
+joining of electrodes.
+ 
+2.3.3 	Supplier will provide the specification of external power 
+connections.
+ 
+2.3.4 	Supplier will provide specification of electrode (including voltage, 
+current etc.)
+ 
+2.3.5 	Supplier is engaged to provide the necessary information to power 
+supply systems company to perform the designing and manufacturing the power 
+supply system suitable for the operation of reactors
+ 
+2.3.6 	Supplier will assist the Purchaser in negotiating with power supply 
+systems companies for power supply systems about other necessary interface 
+issues.
+ 
+2.4 	Piping
+ 
+2.4.1 	Supplier will provide Equipment Assemble Drawing, show Nozzle 
+Orientation, dimension of Equipment Center to Flange Face, Nozzle 
+Elevation.
+ 
+2.4.2 	Supplier will provide Equipment Nozzle Size, Pressure, Flange joint 
+Form, Standard and Nozzle Name.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+2.4.3 	Supplier will provide Equipment Weight, Operating Weight, Test 
+Weight and Hoisting Machinery Weight.
+ 
+2.4.5 	Supplier will provide Specification for Maintenance and Setting.
+ 
+2.4.6 	Supplier will provide Torsion of Foundation Bolt and Permissibility 
+Stress of Equipment Nozzle.
+ 
+2.4.7 	Supplier will provide Specification for Equipment Insulation and 
+Fixing (Including Insulation Materials).
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Annex 3: Scope of Supply
+ 
+3.1 	General
+ 
+3.1.1 	Annex 3 has stipulated the scope of supply, the Supplier guarantees 
+to provide brand-new, advanced, mature, and quality reliable equipments.
+ 
+3.1.2 	Supplier will provide a detailed list of equipments and accessories. 
+The detailed list stipulates type, quantity, manufacturer etc. Supplier 
+should provide the necessary parts for installation, testing and 
+commissioning, even not stipulated in the contact.
+ 
+3.1.3 	The Supplier will provide a detailed list of the special tools and 
+the consumption materials which will be used in installation.
+ 
+3.2 	Scope of Supply
+ 
+3.2.1 	Complete scope of supply for 2,000 metric tons per year consists of 
+Deposition Reactor set, comprising:
+ 
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+ 
+     	Hydrogenation Reactor set, comprising:
+ 
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+
+Complete scope of supply for 2,500 metric tons consists of Deposition 
+Reactor set, comprising:
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+
+Hydrogenation Reactor set, comprising:
+ 
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+ [*]
+
+   	[*]
+
+
+Supplier will provide detailed information of all equipments, including 
+manufacturer for main parts, manufacture area, material, approx. weight 
+etc. within [*] months after receipt of the Initial Payment. Supplier can 
+also, at its own discretion, provide the Purchaser with this material 
+before this date.
+ 
+3.2.2 	Origin of the products
+
+The origin of all the products above is from Germany.
+ 
+3.2.3 	Transportation
+
+The covers will be used for openings during transportation. These will be 
+provided by Supplier.
+ 
+3.2.4 	Spare Parts
+
+Each reactor or converter should be equipped with one complete set of the 
+following spare parts:
+ 
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+ ·    [*]
+
+   	[*]
+
+
+The spare parts mentioned above will be provided by Supplier and are only 
+for testing and commissioning. The Supplier will provide the detailed 
+information about the spare parts, such as vendors, types, and estimated 
+price in the first design meeting.
+
+
+The Supplier will provide a purchasing list of the Spare Parts for 1 year 
+of normal operation three months before delivery of the Equipment. The list 
+should comprise spare parts and consumption parts, the vendors, types, 
+estimated price etc.
+
+
+The Supplier will also provide a purchasing list to the Purchaser of the 
+anticipated parts after 10 years of operation and an estimated cost for 
+these parts.
+ 
+3.2 	.5 Special tools
+
+[*]
+ 
+3.3 	Test Reactor
+
+[*]
+
+
+3.4 Other
+
+Other deliverables from the Supplier not mentioned in Annex 3 are still the 
+responsibility of the Supplier as stipulated in Contract # GEC/MSA 200701.1 
+and the other Annex sections in this document.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Annex 	4: Technical Documents
+
+4.1 General
+ 
+4.1.1 	The documents provided by Supplier will use metric system. The 
+language is English. If other units are required this will be discussed at 
+the first design meeting.
+ 
+4.1.2 	The documents provided by Supplier should be prompt, complete and 
+meet the project progress.
+ 
+4.1.3 	For some other documents not stipulated in the contract but is 
+actually the necessities for the project, Supplier should provide free of 
+charge.
+ 
+4.1.4 	Supplier will provide related documents describing the requirements 
+for the building constructions. The documents about the Crane, loading and 
+unloading requirements will be provided by Supplier.
+ 
+4.1.5 	Supplier will provide the documents to identify the possible 
+supplier for the production of filaments, equipment to unload the rods, 
+reactor cleaning and polysilicon processing.
+ 
+4.1.6 	All the documents will be prepared by either Auto-CAD (*.dxf and 
+*.dwg) or Acrobat (*.pdf).
+ 
+4.1.7 	All the documents will be provided in five hard copies and two 
+electronic versions
+
+
+4.2 Document lists
+ 
+     	Supplier will provide documents related to the deposition reactors 
+and the hydrogenation converters and the accessories as followings:
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+1) 	Technical documentation to the equipment and its operation
+ 
+2) 	System description including working principle, technological process, 
+control parameters, main equipment description, and utility supply 
+requirements.
+ 
+3) 	PFD for Equipment
+ 
+4) 	Rated consumption of specifications of utilities
+ 
+5) 	Equipment table
+ 
+6) 	Equipment layout
+ 
+7) 	Foundation load chart (device load, including net weight, operation 
+weight, maintenance weight and civil engineering conditions drawing)
+ 
+8) 	Anchor bolt chart
+ 
+9) 	Material supply data sheet or curve at different period of time, as 
+reference values
+ 
+10) 	Installation, operation, and maintenance manuals
+ 
+11) 	Special tools list for Equipment
+ 
+12) 	Pipe naming table for Equipment
+ 
+13) 	Pipe layout plan
+ 
+14) 	Pipe materials grade table for Reactor
+ 
+15) 	Heat insulation table of equipment and pipe
+ 
+16) 	Layout plan of connecting points
+ 
+17) 	General drawing of equipment
+ 
+18) 	Final as-built manufacturing drawing of the whole equipment set
+ 
+19) 	Assembly drawing of equipment
+ 
+20) 	Equipment accessories drawing
+ 
+21) 	Orientation diagram of equipment orifices (the Supplier shall provide 
+requirement of orientation diagram of equipment orifices; the Purchaser 
+will propose revision advices. Final orientation diagram of equipment 
+orifices shall be provided by the Supplier after confirmation by both 
+parties)
+ 
+22) 	Drawing and list of weary parts (replacement cycle)
+ 
+23) 	Equipment materials quality certificates
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	24) 	Product quality certificate
+ 
+  	25) 	Safety and Quality certificate of pressure vessels
+ 
+  	26) 	Lifetime of equipment (indicating main equipment separately)
+ 
+  	28) 	Drawings for the special spare parts.
+ 
+  	29) 	List for the standard spare parts.
+ 
+  	30) 	Packing list
+ 
+  	31) 	All the documents mentioned in this document, including the ones 
+mentioned in Annex 3
+
+
+4.3 Document Delivery Schedule
+
+[*]
+
+
+Annex 5: Technical Service ad Design Meeting
+
+5.1 General
+ 
+     	The supplier will provide the necessary documents for equipment 
+installation, commissioning, performance test, operation and maintenance 
+etc. Supplier will assist the Purchaser to solve problems during testing 
+and commissioning by the Purchasers requests.
+
+
+5.1 Factory Acceptance test (FAT)
+ 
+     	A month before delivery of each deposition and hydrogenation reactor 
+set, Supplier should inform Purchaser to do factory acceptance test. 
+Several FAT checks will be available by Purchasers requests but not exceed 
+more than four.
+ 
+     	Acceptance test cost will be paid by Supplier. Purchaser pays for 
+their own cost of traveling, boarding and lodging, and Supplier provides 
+convenience. Supplier should inform Purchaser in written form 4 weeks 
+before test. If Purchaser does not attend, Supplier may complete the 
+acceptance test without Purchaser. Supplier has the right to do acceptance 
+tests and arrange the equipment delivery according to the delivery 
+schedule. The FAT results will not be exempt from the Suppliers 
+responsibilities.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+5.2 	Site opening package inspection
+ 
+     	Supplier will send staffs to the site to attend site open package 
+inspection to check the number, appearance, damages etc. together with 
+Suppliers inspectors. Purchaser should inform Supplier 2 weeks before 
+package opening inspection. Suppliers inspectors pay for their own cost 
+and Purchaser provides convenience.
+ 
+5.3 	Installation supervision
+ 
+     	Purchaser should inform Supplier 2 weeks before installations. Then 
+Supplier will send experts to the site for installation supervision. 
+Supplier pays for their own cost, and Purchaser provides convenience.
+ 
+5.4 	Testing and Commissioning
+ 
+     	Purchaser should inform Supplier 2 weeks before commissioning. 
+Supplier will send experts to the site for guidance. Supplier pays for 
+their own cost, and Purchaser provides convenience. The complete 
+supervision on site provided by Supplier starts from the first received 
+products and ends by last products commissioning. The duration will last 
+approximately 6 months, provided that Supplier is not expected to be 
+on-site for a continuous 6 months period.
+ 
+5.5 	Start-up and Reactor Demonstration
+ 
+     	Purchaser should inform Supplier 2 weeks before start-up and two 
+weeks before Reactor Demonstration. Supplier will send experts to the site 
+to guide start-up and Reactor Demonstration. Supplier pays for their own 
+cost and Purchaser provides convenience. This service is included in 6 
+months period, provided that Supplier is not expected to be on-site for a 
+continuous 6 months period.
+ 
+5.6 	Performance Test
+ 
+     	After testing, commissioning and reactor demonstration are finished, 
+Supplier will send relative experts to the site to do performance test. 
+Supplier experts shall carry on performance test until it is completely 
+successful and accepted by
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	
+
+Purchaser. Supplier pays for their own cost and Purchaser provides 
+convenience. The performance tests will be done twice and in accordance 
+with Annex 7.
+
+ 
+5.7 	Training
+ 
+     	Supplier shall carry training on Purchasers staffs in technology, 
+operation and maintenance etc. The draft training plan is prepared as 
+following:
+ 
+     	At the Purchasers site. Supplier will train Purchaser staffs about 
+installation, maintenance, operation, start-up, testing and commissioning 
+etc. The training duration will be approximate 2 weeks. The actual training 
+schedule will be agreed during the first design meeting.
+ 
+     	Supplier pays for their own cost, and Purchaser provides convenience.
+ 
+5.8 	Changing Damaged parts
+ 
+     	Within the guarantee period, in case of any defects caused by the 
+reason of inferior quality, or due to the Suppliers faults, the Supplier 
+shall dispatch engineers to Purchaser site to solve the defects at the 
+Suppliers expenses. Supplier pays for their own cost, and Purchaser 
+provides convenience.
+ 
+5.9 	Technical Service requirements
+ 
+5.9.1 	The Supplier representatives at the Work Site must:
+ 
+  	 	  	
+
+Obey the law, rules and regulations at the Work Site
+
+ 
+  	 	  	
+
+Have the higher responsibilities and the dedication to work. Arrives on 
+time
+
+ 
+  	 	  	
+
+Be familiar with its structure of its Equipment, and have the similar work 
+experience, and can carry on on-site supervisions correctly;
+
+ 
+  	 	  	
+
+Be strong enough to adapt to site work conditions.
+
+ 
+5.9.2 	Suppliers responsibility
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+     	The responsibilities of Supplier at the Work Site are package opening 
+and examination, dealing with quality problems, installation and 
+supervision, commissioning supervision, reactor demonstration and 
+performance test.
+ 
+     	Before installation and testing and commissioning, experts from both 
+parties shall discuss the relative procedures. Both parties shall confirm 
+the important issues.
+ 
+     	If issues arise that are the Suppliers responsibilities, the 
+Supplier representatives shall deal with them in a timely manner as defined 
+by the Purchaser. If Supplier authorizes Purchaser to solve the problems 
+due to Suppliers mistakes, Supplier will provide the guarantee letter and 
+undertake all the expenses. Supplier is responsible for all actions carried 
+by its representatives. Purchaser should be informed and confirmed if the 
+Supplier representatives wish to leave the Work Site.
+ 
+5.9.3 	Purchaser Responsibility
+ 
+     	Purchaser will provide convenience for Suppliers Representatives at 
+the Work Site.
+ 
+5.10 	Design meeting
+ 
+5.10.1 	Description
+ 
+     	The purpose of the design meetings is to make sure the successful 
+design of the contract equipment and plant; to solve the technical 
+problems; to coordinate the Supplier and Purchaser. Such meetings shall be 
+held several times by Purchasers requests. The first meeting could be held 
+in USA, at a location to be specified, the second will be decided later. 
+Meeting costs of each party will be taken by themselves, and the company 
+located in the meeting place shall provide convenience for transportation, 
+accommodation, etc.
+ 
+5.10.2 	Topics for engineering design meetings
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+  	 	  	
+
+To discuss the general design of the preliminary solution provided by 
+Supplier (including general arrangement and system), technical document and 
+standard coordination.
+
+ 
+  	 	  	
+
+Detailed engineering specifics including those as stipulated in Technical 
+Annexes 1-5.
+
+ 
+  	 	  	
+
+To coordinate the arrangement and connections of the Equipment and flows of 
+utilities and materials.
+
+ 
+  	 	  	
+
+The Purchaser review and confirm the auxiliary equipment company provided 
+by Supplier.
+
+ 
+  	 	  	
+
+To discuss the solution for construction and delivery.
+
+ 
+  	 	  	
+
+To discuss the check and acceptance of the equipment.
+
+ 
+  	 	  	
+
+To deal with and overcome other unclear issues.
+
+
+The frequency and amount of design meetings will be determined on an as 
+needed basis but both parties agree to pay their own expenses for these 
+meetings. Location of the design meetings will be held in the United 
+States.
+
+
+Annex 6: Quality control
+
+Because Supplier has some subcontractors and the detailed quality control 
+procedure will be provided by Supplier during the first design meeting.
+
+
+If Supplier finds any defects of design or manufacturing after the goods 
+have been delivered, Supplier should inform Purchaser immediately and 
+repair them or provide new products free of charge.
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Annex 7: Performance data and guarantee value
+
+
+7.1 Capability
+
+Supplier guarantees the performance of the delivered equipment. Considering 
+of the term in clause 1.5 of Annex 1, Supplier guarantees the capability of 
+the reactor shall in the range of:
+
+[*]
+
+[*]
+
+[*]
+
+
+The Supplier is not responsible for any interruption or delay, caused by 
+Force Majeure as defined in Contract. The Supplier is also not responsible 
+for any non-performance interruption or delay, caused by the followings:
+ 
+  	(1) 	Sufficient supply and qualified mixed-gas for the deposition 
+process at the Work Site; and
+ 
+  	(2) 	Sufficient and qualified utilities at the Work Site, such as 
+power-supply, thyristor power, process control, cooling-water, process 
+exhaust-gas discharge.
+ 
+  	(3) 	Well trained and experienced staff (engineers and operators)
+
+
+Additional costs and expenses born by the Supplier by aforesaid will be 
+reimbursed by the Purchaser.
+
+
+7.2 Product warranty
+
+[*]
+
+
+Purchaser expects that the purity of the trichlorosilane shall meet the 
+following specifications:
+ 
+Type
+   	
+Bulk elements
+   	            Value             	   	            Unit            
+
+ Acceptors
+
+   	[*] 	   	[*] 	   	[*]
+
+ Donors
+
+   	[*] 	   	[*] 	   	[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+ 
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+CONFIDENTIAL
+
+
+[LOGO]
+ 
+Purchaser: Hoku Materials, Inc.
+Address: One Hoku Way, Pocatello, Idaho USA
+Post Code: 83204
+Telephone: +1-808-682-7800
+Fax: +1-808-682-7807
+E-mail: [*]
+ 
+Authorized Signature: 	  	
+
+ /s/ Dustin M. Shindo
+  	
+
+/s/ Darryl Nakamoto
+
+ Dustin M. Shindo
+
+  	Darryl Nakamoto
+
+ Chairman & CEO
+
+  	Chief Financial Officer
+
+ Signing Date:
+
+  	
+ 
+
+ Supplier:
+
+   	MSA Apparatus Construction 	   	GEC
+   	for Chemical Equipment Ltd. 	   	Graeber Engineering Consultants
+
+ Address:
+
+   	Isartalstrasse 50 	   	Haydn-Strasse 12
+
+ Post Code:
+
+   	82008 Unterhaching 	   	85521 Ottobrunn, Germany
+
+ Telephone:
+
+   	[*] 	   	[*]
+
+ Fax:
+
+   	[*] 	   	[*]
+
+ E-mail:
+
+   	[*] 	   	[*]
+ 
+Authorized Signature: 	  	
+
+ /s/ Manfred Schirsner
+  	
+
+/s/ Heinz Graeber
+
+ Manfred Schirsner
+
+  	Heinz Graeber
+
+ Signing Date:
+
+  	
+SUPPLIER Initials /s/HG_MS 	   	 	   	PURCHASER Initials         /s/SP      
+  
