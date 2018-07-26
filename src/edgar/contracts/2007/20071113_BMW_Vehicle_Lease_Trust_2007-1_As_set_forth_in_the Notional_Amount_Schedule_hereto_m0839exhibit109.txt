@@ -1,0 +1,483 @@
+ EX-10.9 12 m0839exhibit109.htm CONFIRMATION
+
+Cap Transaction
+
+
+The purpose of this letter agreement is to confirm the terms and conditions 
+of the Transaction entered into between:
+
+
+JPMORGAN CHASE BANK, N.A.
+(JPMorgan)
+
+
+and
+
+
+BMW VEHICLE LEASE TRUST 2007-1
+(the Counterparty)
+
+
+on the Trade Date and identified by the JPMorgan Deal Number specified 
+below (the Transaction). This letter agreement constitutes a 
+Confirmation as referred to in the Master Agreement specified below, and 
+supersedes any previous confirmation or other writing with respect to the 
+transaction described below.
+
+
+The definitions and provisions contained in the 2000 ISDA Definitions (the 
+Definitions), as published by the International Swaps and Derivatives 
+Association, Inc. are incorporated into this Confirmation. In the event of 
+any inconsistency between those definitions and provisions and this 
+Confirmation, this Confirmation will govern.
+
+
+This Confirmation supplements, forms part of, and is subject to, the ISDA 
+Master Agreement dated as of November 2, 2007, as amended and supplemented 
+from time to time (the Agreement), between JPMORGAN CHASE BANK N.A. 
+(JPMorgan) and BMW Vehicle Lease Trust 2007-1 (the Counterparty). All 
+provisions contained in the Agreement govern this Confirmation except as 
+expressly modified below.
+
+
+The terms of the particular Cap Transaction to which this Confirmation 
+relates are as follows:
+
+
+A.  TRANSACTION DETAILS
+
+
+ 
+
+ 
+
+JPMorgan Deal Number(s):
+      2000005099481
+
+ 
+
+ 
+
+Notional Amount:
+      As set forth in the Notional Amount Schedule hereto
+
+ 
+
+ 
+
+Trade Date:
+      24 October 2007
+
+ 
+
+ 
+
+Effective Date:
+      02 November 2007  
+
+ 
+
+ 
+
+Termination Date:
+      15 August 2010 subject to adjustment in accordance with the Modified
+      Following Business Day Convention.
+
+Fixed Amount:
+
+Fixed Rate Payer:
+Fixed Amount:
+Fixed Rate Payer Payment Date:
+
+
+
+
+Counterparty
+USD 3,670,000.00
+02 November 2007
+
+Floating Amounts:
+
+ 
+
+ 
+
+ 
+
+Floating Rate Payer:
+      JPMorgan
+
+ 
+
+ 
+
+Cap Rate:
+      4.30000 percent
+
+ 
+
+ 
+
+Floating Rate Payer Payment Dates:
+      The 15 November, 15 December, 15 January, 15 February, 15 March, 15
+      April, 15 May, 15 June, 15 July, 15 August, 15 September and 15
+      October in each year, from and including 15 November 2007 to and
+      including the Termination Date, subject to adjustment in accordance
+      with the Modified Following Business Day Convention and there will be
+      an adjustment to the Calculation Period.
+
+ 
+
+ 
+
+Floating Rate Option:
+      USD-LIBOR-BBA
+
+ 
+
+ 
+
+Designated Maturity:
+      1 Month
+
+ 
+
+ 
+
+Spread:
+      None
+
+ 
+
+ 
+
+Floating Rate Day Count Fraction:
+      Actual/360
+
+ 
+
+ 
+
+Reset Dates:
+      The first day of each Calculation Period.
+
+ 
+
+ 
+
+Compounding:
+      Inapplicable
+
+ 
+
+ 
+
+Business Days:
+      New York, London
+
+ 
+
+ 
+
+Calculation Agent:
+      JPMorgan, unless otherwise stated in the Agreement.
+
+ 
+
+ 
+
+Notional Amount Schedule:
+
+ 
+
+Effective From:
+   Notional Amount:
+02 November 2007
+15 November 2007
+17 December 2007
+15 January 2008
+15 February 2008
+17 March 2008
+15 April 2008
+15 May 2008
+16 June 2008
+15 July 2008
+15 August 2008
+15 September 2008
+15 October 2008
+17 November 2008
+15 December 2008
+15 January 2009
+17 February 2009
+16 March 2009
+15 April 2009
+15 May 2009
+15 June 2009
+15 July 2009
+17 August 2009
+15 September 2009
+15 October 2009
+16 November 2009
+15 December 2009
+15 January 2010
+16 February 2010
+15 March 2010
+15 April 2010
+17 May 2010
+15 June 2010
+15 July 2010
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 665,000,000.00
+   USD 659,633,738.53
+   USD 646,317,805.53
+   USD 633,359,685.30
+   USD 614,508,824.62
+   USD 556,537,361.13
+   USD 512,639,178.94
+   USD 441,037,788.99
+   USD 373,385,875.93
+   USD 317,713,670.47
+   USD 265,692,207.39
+   USD 209,526,401.17
+   USD 151,635,470.48
+   USD 95,631,991.86
+   USD 60,076,186.52
+   USD 45,192,747.57
+   USD 36,036,845.23
+   USD 29,604,085.45
+   USD 27,084,402.20
+   USD 24,328,955.73
+   USD 21,595,497.20
+   USD 18,981,726.52
+   USD 16,985,948.28
+
+ 
+
+ 
+
+ 
+
+ 
+
+B.  ACCOUNT DETAILS
+
+
+ 
+
+Payments to JPMorgan in USD:
+      JPMORGAN CHASE BANK, N.A.
+
+ 
+
+      JPMORGAN CHASE BANK, NATIONAL ASSOCIATION
+
+ 
+
+      BIC: CHASUS33XXX
+
+ 
+
+      AC No: 099997979
+
+ 
+
+ 
+
+Payments to Counterparty in USD:
+      As per your standard settlement instructions.
+
+ 
+
+ 
+
+C.  OFFICES
+
+
+ 
+
+JPMorgan:
+      NEW YORK
+
+ 
+
+ 
+
+Counterparty:
+      WILMINGTON
+
+ 
+
+ 
+
+ 
+
+ 
+
+D.  DOCUMENTS TO BE DELIVERED
+
+
+Each party shall deliver to the other, at the time of its execution of this 
+Confirmation, evidence of the incumbency and specimen signature of the 
+person(s) executing this Confirmation, unless such evidence has been 
+previously supplied and remains true and in effect.
+
+
+E.  RELATIONSHIP BETWEEN PARTIES
+
+
+Each party will be deemed to represent to the other party on the date on 
+which it enters into a Transaction that (absent a written agreement between 
+the parties that expressly imposes affirmative obligations to the contrary 
+for that Transaction):
+
+
+(a)
+Non-Reliance.  It is acting for its own account, and it has made its own 
+independent decisions to enter into that Transaction and as to whether that 
+Transaction is appropriate or proper for it based upon its own judgment and 
+upon advice from such advisers as it has deemed necessary. It is not 
+relying on any communication (written or oral) of the other party as 
+investment advice or as a recommendation to enter into that Transaction; it 
+being understood that information and explanations related to the terms and 
+conditions of a Transaction shall not be considered investment advice or a 
+recommendation to enter into that Transaction. No communication (written or 
+oral) received from the other party shall be deemed to be an assurance or 
+guarantee as to the expected results of that Transaction.
+
+
+(b)
+Assessment and Understanding.  It is capable of assessing the merits of and 
+understanding (on its own behalf or through independent professional 
+advice), and understands and accepts, the terms, conditions and risks of 
+that Transaction. It is capable of assuming, and assumes the risks of that 
+Transaction.
+
+
+(c)
+Status of Parties.  The other party is not acting as a fiduciary for or an 
+adviser to it in respect of that Transaction.
+
+
+(d)
+Limitation of Liability.  It is expressly understood and agreed by the 
+parties that (a) this document is executed and delivered by Wilmington 
+Trust Company, not individually or personally, but solely as Owner Trustee, 
+in the exercise of the powers and authority conferred and vested in it, 
+pursuant to the Trust Agreement, (b) each of the representations, 
+undertakings and agreements herein made on the part of the Counterparty is 
+made and intended not as personal representations, undertakings and 
+agreements by Wilmington Trust Company but is made and intended for the 
+purpose for binding only the Counterparty, (c) nothing herein contained 
+shall be construed as creating any liability on Wilmington Trust Company, 
+individually or personally, to perform any covenant either expressed or 
+implied contained herein, all such liability, if any, being expressly 
+waived by the parties hereto and by any person claiming by, through or 
+under the parties hereto, and (d) under no circumstances shall Wilmington 
+Trust Company be personally liable for the payment of any indebtedness or 
+expenses of the Counterparty or be liable for the breach or failure of any 
+obligation, representation, warranty or covenant made or undertaken by the 
+Counterparty under this Agreement or any other related documents.
+
+
+Please confirm that the foregoing correctly sets forth the terms of our 
+agreement by executing a copy of this Confirmation and returning it to us 
+or by sending to us a letter, telex or facsimile substantially similar to 
+this letter, which letter, telex or facsimile sets forth the material terms 
+of the Transaction to which this Confirmation relates and indicates 
+agreement to those terms. When referring to this Confirmation, please 
+indicate: JPMorgan Deal Number(s): 2000005099481
+
+
+
+
+
+JPMorgan Chase Bank, N.A.
+
+
+_____/s/ Edward R. Robinson_____
+
+Name: Edward R. Robinson
+
+Title:   Associate
+
+
+
+
+------------------------------------------------------------------------
+
+
+Accepted and confirmed as of the date
+first written:
+
+
+BMW VEHICLE LEASE TRUST 2007-1
+
+By:
+Wilmington Trust Company,
+not in its individual capacity
+but solely as Owner Trustee
+
+
+
+   By:_______/s/ J. Christopher Murphy_______
+   Name: J. Christopher Murphy
+   Title: Financial Services Officer
+
+
+Your reference number:  ___________________
+
+
+
+
+Client Service Group
+All queries regarding confirmations should be sent to:
+
+
+JPMorgan Chase Bank, N.A.
+
+
+Contacts
+
+ 
+
+JPMorgan Contact
+
+
+Telephone Number
+
+
+Client Service Group
+(001 ) 3026344960
+Group E-mail address:
+
+ 
+
+Facsimile:
+(001 ) 8888033606
+Telex:
+
+ 
+
+Cable:
+
+
+ 
+
+
+Please quote the JPMorgan deal number(s): 2000005099481.
+
+
+
+ 
+
+
