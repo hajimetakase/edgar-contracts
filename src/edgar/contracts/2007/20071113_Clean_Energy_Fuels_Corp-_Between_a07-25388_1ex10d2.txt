@@ -1,0 +1,2005 @@
+ EX-10.2 3 a07-25388_1ex10d2.htm EX-10.2
+Exhibit 10.2
+
+LNG SALES AGREEMENT
+
+ 
+
+Between
+
+SPECTRUM ENERGY SERVICES, LLC
+
+An Alaska Limited Liability Company with offices at
+8505 South Elwood Avenue, Building #123
+Tulsa, OK 74132
+Telephone: 918-298-6660
+Fax: 918-298-6662
+
+SELLER
+
+ 
+
+and
+
+ 
+
+CLEAN ENERGY
+
+A California Corporation, with offices at
+3020 Old Ranch Parkway, Suite 200
+Seal Beach, CA 90740
+Telephone: 562-493-2804
+Fax: 562-546-0097
+
+BUYER
+
+ 
+
+ 
+
+Dated as of October 17th, 2007
+
+Sales Agreement No: 100-07
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+TABLE OF CONTENTS
+
+PREAMBLE
+2
+ 
+ 
+ARTICLE 1 DEFINITIONS
+2
+ 
+ 
+ARTICLE 2 TERM OF SALES AGREEMENT
+3
+ 
+ 
+ARTICLE 3 REPRESENTATIONS AND COVENANTS REGARDING LNG FACILITIES
+3
+ 
+ 
+ARTICLE 4 CONSTRUCTION OF FACILITIES
+4
+ 
+ 
+ARTICLE 5 LNG PLANT CAPACITY AND HOURS OF OPERATION
+4
+ 
+ 
+ARTICLE 6 QUALITY OF LNG
+5
+ 
+ 
+ARTICLE 7 DELIVERY POINT
+5
+ 
+ 
+ARTICLE 8 MEASUREMENT
+5
+ 
+ 
+ARTICLE 9 SELLERS SHUT DOWN
+6
+ 
+ 
+ARTICLE 10 BUYERS SHUT DOWN
+6
+ 
+ 
+ARTICLE 11 PRICE
+6
+ 
+ 
+ARTICLE 12 MONTHLY LIQUEFACTION CHARGE
+6
+ 
+ 
+ARTICLE 13 GAS COST
+7
+ 
+ 
+ARTICLE 14 ENERGY CHARGE
+8
+ 
+ 
+ARTICLE 15 BILLING AND PAYMENT
+8
+ 
+ 
+ARTICLE 16 TAKE OR PAY
+9
+ 
+ 
+ARTICLE 17 EXCLUSIVITY
+10
+ 
+ 
+ARTICLE 18 DEFAULT
+10
+ 
+ 
+ARTICLE 19 LAWS
+11
+ 
+ 
+ARTICLE 20 LIABILITY AND WARRANTIES
+11
+ 
+ 
+ARTICLE 21 TAXES
+12
+ 
+ 
+ARTICLE 22 FORCE MAJEURE
+13
+ 
+ 
+ARTICLE 23 ASSIGNMENT
+13
+ 
+ 
+ARTICLE 24 SEVERABILITY
+14
+ 
+ 
+ARTICLE 25 NOTICES
+14
+ 
+ 
+ARTICLE 26 MODIFICATIONS AND AMENDMENTS
+15
+ 
+ 
+ARTICLE 27 CONFIDENTIALITY
+15
+ 
+ 
+ARTICLE 28 WAIVER
+15
+ 
+ 
+ARTICLE 29 MISCELLANEOUS
+16
+ 
+ 
+ARTICLE 30 INTERPRETATION
+19
+ 
+ 
+ARTICLE 31 PRIOR AGREEMENTS
+19
+ 
+ 
+ARTICLE 32 TERMINATION
+19
+ 
+ 
+ARTICLE 33 DAMAGES, FEES AND COSTS
+20
+ 
+ 
+ARTICLE 34 MUTUAL WAIVER OF CERTAIN REMEDIES
+20
+ 
+ 
+ARTICLE 35 RELATIONSHIP OF THE PARTIES
+21
+ 
+ 
+ARTICLE 36 EXECUTION REQUIRED
+21
+ 
+ 
+ARTICLE 37 WAIVER OF RIGHT TO TRIAL BY JURY
+21
+ 
+ 
+SIGNATURE PAGE
+22
+ 
+ 
+EXHIBIT A WAIVER OF SOVEREIGN IMMUNITY DEFENSE; CONSENT TO JURISDICTION
+23
+ 
+1
+------------------------------------------------------------------------
+
+ 
+LNG SALES AGREEMENT
+(Sales Agreement No. 100-07)
+ 
+THIS LNG SALES AGREEMENT (this Sales Agreement) is entered into as of the 
+17th day of October 2007 (the Effective Date) by and between CLEAN ENERGY
+, a California corporation, hereinafter referred to as Buyer, and 
+SPECTRUM ENERGY SERVICES, LLC, an Alaska limited liability company, 
+hereafter referred to as Seller. Buyer and Seller are sometimes 
+hereinafter referred to, individually, as Party and collectively, as 
+Parties.
+
+W I T N E S S E T H:
+
+WHEREAS, Buyer is in the business of marketing liquefied natural gas and 
+needs additional liquefied natural gas supplies in Arizona and California 
+in order to meet customer demand;
+
+WHEREAS, Seller is in the business of processing natural gas and developing 
+plants and projects that produce liquefied natural gas;
+
+WHEREAS, Seller is the owner of certain liquefied natural gas production 
+facilities, which when installed at or near Ehrenberg, Arizona as provided 
+below, will have the capacity to produce a certain amount of liquefied 
+natural gas for sale to Buyer on the terms and conditions set forth in this 
+Sales Agreement; and
+
+WHEREAS, Buyer desires to purchase liquefied natural gas from Seller on the 
+terms and conditions set forth in this Sales Agreement,
+
+NOW THEREFORE, in consideration of the covenants and provisions herein 
+contained, Buyer and Seller do mutually agree as follows:
+
+ARTICLE 1 DEFINITIONS
+    1.1                                 Adjustment Date shall be as
+    defined in Article 12.2
+
+    1.2                                 Allowed Power shall be as defined
+    in Article 14.
+
+    1.3                                 BTU shall mean British Thermal
+    Unit and shall have the meaning as defined in the American Gas
+    Association Report No. 3 as revised from time to time.
+
+    1.4                                 Business Day shall mean a day
+    other than Saturday, Sunday or any other day when commercial banks in
+    New York, New York are authorized or required to close.
+
+    1.5                                 Buyers Shut Down shall mean any
+    period during which the LNG Plant is able to produce LNG, but Buyer is
+    unable or elects not to purchase and receive LNG from the LNG Plant.
+
+    1.6                                 Capacity, or Plant Capacity, or
+    LNG Plant Capacity shall mean the GPD that the LNG Plant can produce
+    in a Day as described in Article 5.4.
+
+    1.7                                 Day means a period of time from
+    12:01 a.m. to Midnight.
+
+    1.8                                 Delivery or Delivered shall
+    mean the transfer of LNG from the LNG Plant into Buyers LNG trailers
+    at the Delivery Point.
+
+    1.9                                 Delivery Point shall mean the
+    connection located on the discharge side of the loading hose at the
+    truck loading facility at the LNG Plant.
+
+    1.10                           Energy Charge shall be as defined in
+    Article 14.3.
+
+    1.11                           Feedstock Gas shall mean the Natural
+    Gas delivered to the LNG Plant less any gas returned to the gas
+    supplier.
+
+ 
+    [***]                   Confidential portions of this document have
+    been redacted and filed separately with the Commission.
+
+ 
+2
+------------------------------------------------------------------------
+
+ 
+    1.12                           Gallon or US Gallon shall be a
+    measure of LNG that weighs 3.55 pounds until as determined in Article
+    8.1.
+
+    1.13                           Gas or Natural Gas shall mean
+    natural gas delivered by or for Seller to the LNG Plant.
+
+    1.14                           GPD means Gallons per Day.
+
+    1.15                           Liquefaction Fee shall have the
+    definition set forth in Article 12.1.
+
+    1.16                           LNG shall mean liquefied natural gas,
+    largely made up of methane in a cryogenic liquid state.
+
+    1.17                           LNG Plant or Plant shall mean the
+    components required to produce LNG at the Plant Capacity required
+    pursuant to this Sales Agreement at the LNG Plant Site.
+
+    1.18                           LNG Plant Site shall mean the location
+    of the LNG Plant as defined in Article 4.1.
+
+    1.19                           Market Risk shall mean Buyers risk of
+    not being able to successfully sell LNG to end users or others at all
+    or at a particular price.
+
+    1.20                           MCF shall mean one thousand (1,000)
+    cubic feet.
+
+    1.21                           MMBTU shall mean one million
+    (1,000,000) British Thermal Units.
+
+    1.22                           MMCF shall mean one million
+    (1,000,000) cubic feet.
+
+    1.23                           Month shall mean a calendar month.
+
+    1.24                           Monthly Liquefaction Charge shall have
+    the definition set forth in Article 12.1 below.
+
+    1.25                           Natural Gas Provider shall mean the
+    vendor of Natural Gas which supplies the Feedstock Gas.
+
+    1.26                           Sales Agreement Year shall mean a
+    period of twelve (12) consecutive Months commencing on the first day of
+    the first Month following the initial delivery of LNG from Seller to
+    Buyer, except that the period from the initial delivery of LNG to the
+    first day of the following Month shall be included in the first Sales
+    Agreement Year.
+
+    1.27                           Sellers Shut Down shall mean any
+    period in excess of four (4) hours in duration during which Seller is
+    unable to produce LNG at the LNG Plant.
+
+    1.28                           Take or Pay shall have the definition
+    set forth in Article 16.1 below.
+
+ARTICLE 2 TERM OF SALES AGREEMENT
+     2.1                                 This Sales Agreement shall be
+     deemed operative and in full force and effect from and after the
+     Effective Date and shall remain operative and in full force and effect
+     for a primary term of ten (10) Sales Agreement Years, unless earlier
+     terminated pursuant to the terms of this Sales Agreement (the Primary
+     Term).  Upon expiration of the Primary Term, this Sales Agreement
+     shall automatically renew on a year-to-year basis (each year, a
+     Renewal Term) until terminated by either Party at the end of the
+     Primary Term or any subsequent Renewal Term upon at least one hundred
+     and eighty (180) days prior written notice to the other Party.  The
+     Primary Term and all Renewal Terms are collectively referred to herein
+     as the Term.
+
+ARTICLE 3 REPRESENTATIONS AND COVENANTS REGARDING LNG FACILITIES
+     3.1                                 Seller represents and warrants
+     that it is the owner of certain LNG Plant equipment. Seller agrees to
+     install, maintain, and operate the LNG Plant in good safe operating
+     condition, in accordance with generally accepted industry practices
+     and the terms of Article 4 below.
+
+      
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+     3.2                                 Buyer represents that it currently
+     has LNG trailers, LNG storage facilities and marketing and
+     distribution systems in place and available for the receipt,
+     collection, distribution and marketing of LNG at and from the Delivery
+     Point at Sellers LNG Plant to Buyers customers or marketing
+     distribution points (the Buyer System).
+
+     3.3                                 Other representations or
+     warranties are set forth elsewhere in this Sales Agreement.
+
+ARTICLE 4 CONSTRUCTION OF FACILITIES
+     4.1                                 Upon execution of this Sales
+     Agreement, Seller shall commence and complete with due diligence the
+     construction and installation of the LNG Plant at or within fifteen
+     miles of Ehrenberg, Arizona  (the LNG Plant Site).
+
+     4.2                                 Within 30 days following execution
+     of this Sales Agreement, Seller shall deliver to Buyer a construction
+     schedule with a start-up date for the LNG Plant of July 1, 2008 (the
+     Start-up Date).
+
+     4.3                                 Seller will promptly notify Buyer
+     upon reaching certain milestones to be set forth in the construction
+     schedule.  These milestones shall include the following:  1) Execution
+     of a ground lease between Seller and the land owner; 2) Application
+     for construction permits and other authorizations from governmental
+     authorities required for construction and operation of the LNG Plant
+     (collectively, Permits); 3) Receipt of construction Permits from
+     governmental authorities for the LNG Plant; 4) Installation of LNG
+     Plant foundations; 5) Installation of electrical power to the LNG
+     Plant; 6) Setting of key LNG Plant components; 7) Installation of LNG
+     storage tanks; 8) Completion of interconnecting piping; 9) Completion
+     of electrical and instrumentation systems; 10) Completion of integrity
+     testing; 11) Completion of Gas supply interconnecting piping with the
+     Gas Supplier; 12) Functional check out of LNG Plant operation; and 13)
+     Issuance of Certificate of Occupancy or the equivalent thereof
+     authorizing commencement of operation of the LNG Plant.
+
+ARTICLE 5 LNG PLANT CAPACITY AND HOURS OF OPERATION
+     5.1                                 The LNG Plant will be designed to
+     have and will have the Capacity to produce a minimum of 50,000 GPD.
+     However, initially, the LNG Plant may produce fewer than 50,000 GPD
+     due to insufficient electrical power being available from Arizona
+     Public Service Co. (APS), the electricity provider to the LNG Plant.
+      Seller will make commercially reasonable efforts to cause the LNG
+     Plant to produce 50,000 GPD beginning on July 1, 2008, although it
+     shall not be in default of this Sales Agreement if its failure or
+     inability to do so is due to a lack of electrical power from APS.  In
+     no event, however, shall the LNG Plant produce fewer than 20,000 GPD
+     during the period from July 1, 2008 to June 30, 2009.
+
+     5.2                                 On and after July 1, 2009,
+     regardless of available electric power supplied by APS, the LNG Plant
+     will produce a minimum of 50,000 GPD.
+
+     5.3                                 Prior to the Start-Up Date, Seller
+     will provide prompt written notice to Buyer of anticipated changes in
+     Plant Capacity and keep Buyer promptly apprised of issues it is
+     dealing with regarding Plant Capacity and power availability. After
+     the Start Up Date of the LNG Plant, Plant Capacity will be determined
+     by demonstration over a 24-hour period pursuant to the procedure
+     described in Article 5.4 below. Prior to Start Up Date, Plant Capacity
+     will be determined by thermodynamic modeling.
+
+     5.4                                 Seller will arrange for a Plant
+     Capacity test and provide Buyer five (5) Business Days prior written
+     notice of the test to enable Buyer to be present, the first of which
+     shall occur within three (3) months after Plant startup.  Subsequent
+     tests can be requested by Buyer and will be performed within 10 days
+     of the request.  To administer the test, Seller will operate the Plant
+     in a normal mode over a seventy-two (72) hour period during which
+     Plant production will be recorded every twelve (12) hours. The Plant
+     Capacity will be determined by taking the average hourly production
+     over the 72-hour period and multiplying the hourly average by 24.
+
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+4
+------------------------------------------------------------------------
+
+ 
+                                                     Subsequent changes in
+     Plant Capacity will be calculated the same way as the initial Plant
+     Capacity test.
+
+     5.5                                 Buyer and Seller shall use
+     commercially reasonable efforts to regulate the Delivery in
+     quantities, at times and in a manner that prevents LNG stored at the
+     LNG Plant from exceeding 100,000 Gallons at any time.
+
+     5.6                                 Seller will use commercially
+     reasonable efforts to regulate its production schedule so that LNG
+     produced by the LNG Plant will be available for Delivery at as much of
+     a uniform rate of flow as is practicable.
+
+     5.7                                 Subject to Seller Shut Downs, the
+     LNG Plant shall be operational 24 hours per Day and Buyer may take
+     Delivery at any time during the time the LNG Plant is operating.
+
+ARTICLE 6 QUALITY OF LNG
+     6.1                                 The LNG Delivered at the Delivery
+     Point hereunder, shall:
+
+        (a)                                  be free of solids, sand, salt,
+        dust, gums, crude oil, and other objectionable substances which may
+        be injurious to facilities and systems designed for LNG use;
+
+        (b)                                 contain not more than one mole
+        percent (1%) of ethane;
+
+        (c)                                  contain at least ninety-seven
+        mole percent (97%) of methane;
+
+        (d)                                 contain not more than three
+        mole percent (3%) of nitrogen;
+
+        (e)                                  when delivered to the loading
+        pumps, the LNG will have a saturation pressure not to exceed 15
+        PSIG; and
+
+        (f)                                    be free of odor.
+
+ARTICLE 7 DELIVERY POINT
+     7.1                                 Delivery of LNG purchased by Buyer
+     hereunder from Seller shall be made at the Delivery Point.  As part of
+     Sellers obligation to construct the LNG Plant, Seller, at its cost,
+     will install facilities sufficient to enable Buyers personnel to
+     operate and pump LNG into Buyers LNG trailers.
+
+ARTICLE 8 MEASUREMENT
+     8.1                                 The unit of measurement for LNG
+     delivered under this Sales Agreement shall be one Gallon of LNG.
+     Unless otherwise stated, all quantities given herein are in terms of
+     such unit. For the purposes of this Sales Agreement, each such Gallon
+     shall weigh 3.55 Pounds until actual LNG produced from the Plant is
+     analyzed to determine the composition and the weight of one US Gallon.
+     The computations used to determine the actual weight in Pounds per
+     Gallon and Gallons per MMBTU will be performed by CHI Engineering Co.
+     or another third party engineering firm mutually agreed upon using Gas
+     Processors and Suppliers Association (GPSA) standards.
+
+     8.2                                 Seller shall calibrate its truck
+     scale on an annual basis. If either Party, at any time, desires a
+     special test of the scale, it will promptly notify the other Party,
+     and the Parties will then cooperate to secure a calibration test and a
+     joint observation of any adjustments, if such adjustments are
+     necessary. If the scale is accurate upon calibration to within 2%, the
+     Party who requested the test will pay for the calibration test. If,
+     upon calibration, the scale equipment is found to be inaccurate by two
+     percent (2%) or more, Seller shall pay the cost of the test and
+     registrations thereof shall be corrected at the rate of such
+     inaccuracy for any period which is definitely known and agreed upon,
+     but in the case the period is not definitely known and agreed upon,
+     then for a period extending back one half (1/2) of the time elapsed
+     since the last date of
+
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+5
+------------------------------------------------------------------------
+
+ 
+                                                     calibration or 3
+     months whichever is shorter. The amount of inaccuracy, if over 2%,
+     will be invoiced or credited to the appropriate Party within 10 days.
+     Following any test, scale equipment found inaccurate shall immediately
+     be restored as closely as possible to a condition of accuracy. If, for
+     any reason, the scale is out of service or out of repair so that the
+     amount of LNG delivered cannot be ascertained or computed from the
+     reading thereof, the LNG delivered during the period such scales are
+     out of service, or out of repair, shall be transported to an agreed
+     upon alternative truck scale.
+
+     8.3                                 Sellers scale shall be of
+     sufficient quality to be approved and certified by the local
+     governmental agency having jurisdiction over weights and measures. 
+     Seller will provide detailed information to Buyer about the scale
+     prior to acquiring the scale for installation into the LNG Plant and
+     provide Buyer with the option of paying Seller to upgrade the scale to
+     a model preferred by Buyer that can weigh individual truck axle
+     groupings as well as total truck weights.  Seller will provide Buyer
+     seven (7) days to determine if it wishes to pay for such an upgrade. 
+     In the event Buyer elects to pay for said upgrade, it will become the
+     property of Seller.
+
+     8.4                                 Buyer anticipates that it will be
+     able to recover LNG vapors from its LNG trailers upon their arrival at
+     the LNG Plant for delivery.  Buyer and Seller will cooperate in
+     developing a method of transferring such vapor to the LNG Plant and
+     measuring the volume of LNG derived from such vapor recovery, for
+     which volume Buyer shall receive a credit against Buyers payments to
+     Seller under Article 15.1.
+
+ARTICLE 9 SELLERS SHUT DOWN
+     9.1                                 The LNG Plant is engineered to
+     operate 345 Days per year. Seller will provide Buyer with at least one
+     Month advance notice in writing of any planned Sellers Shut Down in
+     any Month.  Buyer will provide Seller with its preferred schedule for
+     Delivery at the Delivery Point.  Buyer acknowledges that there will
+     only be one (1) loading rack and scale at the LNG Plant and that it
+     will thus not be possible to load multiple trucks simultaneously and
+     agrees to take such fact into account in developing its LNG Delivery
+     schedules. The Parties will cooperate to make the scheduled Sellers
+     Shut Downs coincide with times that are as convenient as practicable
+     for Buyer.
+
+     9.2                                 In the event of an unscheduled
+     Sellers Shut Down due to mechanical problems, interruption in
+     electricity supply or Natural Gas supply or any Force Majeure
+     condition, Seller will immediately notify Buyer of the circumstances,
+     and provide sufficient details to Buyer. Seller will keep Buyer
+     promptly apprised of any change in status of Sellers Shut Down.
+
+     9.3                                 In the event that for any reason,
+     other than a Default by Buyer or Sellers Shut Down not exceeding ten
+     (10) Days, Seller is unable or unwilling to operate the LNG Plant,
+     Buyer shall have the right, but not the obligation, to operate the LNG
+     Plant as an independent contractor, until such time as Seller is able
+     or willing, as the case may be, to operate the LNG Plant.  In such
+     event, Buyer shall be entitled to reimbursement of its reasonable
+     costs of operating the LNG Plant, which reimbursement shall be by way
+     of offset against Buyers payments to Seller under Article 15.
+
+ARTICLE 10 BUYERS SHUT DOWN
+     10.1                           In the event that Buyer, for whatever
+     reason(s), other than Force Majeure, elects not to take LNG from the
+     Plant or to take less than Plant Capacity for a prolonged period,
+     Buyer will give as much advance written notice to Seller as reasonably
+     possible under the circumstances of its intention to discontinue
+     taking LNG from the Plant or to take less than Plant Capacity, and the
+     anticipated duration of discontinuance or reduction.  Buyer will be
+     responsible for taking away any remaining LNG product stored at the
+     Plant.  Under these circumstances Buyer shall be subject to its Take
+     or Pay Monthly Quantity pursuant to Article 16 below.
+
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+6
+------------------------------------------------------------------------
+
+ 
+ARTICLE 11 PRICE
+     11.1                           Subject to all of the terms and
+     conditions of this Sales Agreement, Buyer shall pay Seller the sum of
+     (1) the Monthly Liquefaction Charge, (2) the Gas Cost of the natural
+     gas purchased in accordance with Article 13, and (3) the Energy Charge
+     to produce the LNG, as defined in Article 14.
+
+ARTICLE 12 MONTHLY LIQUEFACTION CHARGE
+     12.1                           The initial liquefaction fee is [***]
+     per Gallon of LNG Delivered to Buyer (the Liquefaction Fee).  The
+     Monthly Liquefaction Charge shall mean the Liquefaction Fee times
+     the number of Gallons delivered to Buyer during a Month.
+
+     12.2                           On January 1, 2009 and on January 1st
+     of each subsequent year during the Term of this Sales Agreement (each,
+     an Adjustment Date), the Liquefaction Fee shall be subject to an
+     annual adjustment. The annual adjustment shall be equal to the
+     percentage change, upward or downward, in [***] (the Index), during
+     the one-year period ending on the applicable Adjustment Date;
+     provided, however, in no event shall any such annual adjustment exceed
+     [***] and in no event shall the Liquefaction Fee be less than the
+     amount specified in Article 12.1. For example, the first such
+     adjustment shall be effective as of January 1, 2009 based on the
+     change in the Index from January 1, 2008 through January 1, 2009 as
+     described above and subject to the foregoing limitations.
+
+ARTICLE 13 GAS COST
+     13.1                           Seller shall make arrangements for the
+     purchase of Feedstock Gas for the Plant. Seller will propose its
+     preferred method of purchasing the Feedstock Gas to Buyer including,
+     without limitation, how it will be priced and any other terms
+     associated with acquiring the Feedstock Gas.  Buyer will be provided
+     with a thirty (30) day period within which to object to the purchase
+     method and propose an alternative.  In such event, the Parties shall
+     negotiate in good faith to agree upon the Feedstock Gas purchase
+     method to be implemented and used by Buyer that will provide the
+     quantities of Feedstock Gas needed by Seller to satisfy its
+     obligations under this Sales Agreement at the lowest total cost
+     practicable.  In the absence of any objection and proposed alternative
+     by Buyer within such 30-day period, Seller will execute the purchase
+     arrangements proposed as Sellers preferred method and Buyer will
+     reimburse Seller for the cost of purchased Feedstock Gas.  In the
+     event the parties cannot agree upon the purchase method, Buyer shall
+     be responsible for obtaining at its sole cost and expense Feedstock
+     Gas for the LNG Plant and for delivering the same thereto in
+     sufficient quantities to allow Seller to satisfy its obligations under
+     this Sales Agreement in accordance with and subject to Article 13.2
+     below.  Unless Buyer pays the supplier of the Feedstock Gas, the
+     quantity of purchased Feedstock Gas for which Seller will be
+     reimbursed will be determined by the weights from the scale readings
+     used to calculate the LNG sales volume and shall exclude any Feedstock
+     Gas that is lost or combusted in the LNG production process. The costs
+     to be reimbursed shall include not only the cost for the volume of
+     Feedstock Gas converted to LNG as described above, but also the
+     transportation costs, metering and blending charges and all other
+     costs associated with purchasing the Feedstock Gas and having it
+     delivered to the LNG Plant (said cost of Feedstock Gas and such other
+     costs collectively, the Gas Cost).  In the event of a Take or Pay
+     situation based on a Buyers Shut Down, the Gas Cost will also include
+     any penalty, take or pay charges, transportation charges and/or other
+     fees or charges Seller has to pay for not taking the Feedstock Gas.
+
+     13.2                           In the event Buyer wishes to make its
+     own arrangements for Natural Gas deliveries to the LNG Plant and pay
+     directly for this Natural Gas supply, it shall provide Seller with no
+     less than sixty (60) days prior written notice of its intent to do so.
+      As part of such notice, Buyer will propose to Seller its preferred
+     method of purchasing the Gas, how it will be priced and delivered to
+     the Plant, and any other terms associated with acquiring the Gas. 
+     Seller will have a thirty (30) day period to object to the purchase
+     method if it believes that the proposed arrangement will adversely
+     affect its ability to perform its obligations under this Sales
+     Agreement.  In such event,
+
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+7
+------------------------------------------------------------------------
+
+ 
+                                                     the Parties shall
+     negotiate in good faith to agree upon the Natural Gas purchase
+     arrangement to be entered into by Buyer that will provide the
+     quantities of Natural Gas needed by Seller to satisfy its obligations
+     under this Sales Agreement.  In the absence of any objection by Seller
+     within such 30-day period, Buyer shall execute the purchase
+     arrangements proposed and give written notice to Seller of the date on
+     which the new arrangement will be implemented so that Seller may
+     cancel Sellers existing purchase agreements.  Seller shall reimburse
+     Buyer for any gas consumed in the LNG production process at a price
+     not to exceed Buyers supply Gas Cost.  Any early termination
+     penalties or other costs that Seller may incur due to its cancellation
+     of gas purchase agreements or other arrangements and substitution of
+     Buyers new arrangement will be reimbursed by Buyer within thirty (30)
+     calendar days after Sellers invoice(s) therefore. If Buyer elects to
+     supply Natural Gas pursuant to this Article, Buyer will arrange for
+     and pay directly for all transportation, metering and blending charges
+     and other gas acquisition costs associated with said volume of Natural
+     Gas, and Buyer will indemnify and hold Seller harmless from any and
+     all claims, losses, liability, costs or expenses associated with the
+     supply of Gas to the Plant unless attributed to the Seller or to a
+     Force Majeure.  In the event of a Sellers Shut Down, Seller will
+     indemnify and hold Buyer harmless from any and all claims, losses,
+     liability, costs or expenses associated with the supply of Gas to the
+     Plant including any penalty, take or pay charges, transportation
+     charges and/or other fees or charges Buyer has to pay for not taking
+     the Natural Gas unless due to a Force Majeure event.
+
+ARTICLE 14 ENERGY CHARGE
+     14.1                           In addition to the other charges
+     payable by Buyer to Seller under this Sales Agreement, Buyer shall pay
+     to Seller an Energy Charge on a monthly basis.  The method used to
+     calculate the amount of the Energy Charge will be identical to the
+     method used by Arizona Public Service Company (APS) as if APS had
+     delivered the Allowed Power during the subject month.
+
+     14.2                           The Allowed Power has two components:
+     (1) the quantity of power delivered measured in kilowatt hours (kwh),
+     which will be calculated by multiplying the Gallons delivered in the
+     subject month by [***] and (2) the monthly power demand as measured in
+     kilowatts (kw), which shall be determined by multiplying [***] for the
+     subject month by [***].  For the purposes of calculating the monthly
+     power demand, Plant Capacity will not exceed 50,000 Gallons per day
+     without Buyers prior written approval.
+
+     14.3                           The Energy Charge will be calculated by
+     multiplying each of the respective Allowed Power components, as
+     calculated in accordance with Article 14.2, by the applicable rates
+     for Transmission Service contained in Arizona Public Service Companys
+     (APS) Rate Schedule [***], or as amended from time to time and
+     approved by the Arizona Corporation Commission or its successor, and
+     the Energy Charge will also include all other adjustments,
+     assessments, charges and taxes that APS is required to charge its
+     customers under the Transmission Service contained in its Rate
+     Schedule [***] or, as amended from time to time and approved by the
+     Arizona Corporation Commission or its successor..
+
+     14.4                           If APS changes its demand charge
+     structures, then both Parties will negotiate a new Energy Charge in a
+     manner that is consistent with Article 14.1.
+
+ARTICLE 15 BILLING AND PAYMENT
+     15.1                           On or before the 15th day of each
+     Month, Seller shall render to Buyer an invoice showing the number of
+     Gallons of LNG delivered to Buyer at the Delivery Point during the
+     preceding calendar Month and the amount due to Seller according to the
+     measurement, terms, conditions and price herein provided. The invoice
+     will separately identify and include the number of delivered Gallons,
+     Take or Pay Gallons, if any, Monthly Liquefaction Charge, Gas Cost,
+     Energy Charge for the previous Month, and Conditioning Fees, if any.
+     In the case of the Energy Charge, information in the invoice will
+     include the current published APS rates applicable to the respective
+     month.  Buyer will provide Seller with the form Buyer desires Seller
+     to use in generating the invoice prior to the start up of the LNG
+     Plant.
+
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+8
+------------------------------------------------------------------------
+
+ 
+     15.2                           In the event Buyer supplies the Natural
+     Gas to the Plant in accordance with Article 13.2, Buyer  shall invoice
+     Seller for the difference between what Buyer was charged for the
+     Natural Gas and the quantity of Natural Gas condensed into LNG and
+     Delivered for the subject month.  Seller shall pay the invoice in
+     accordance with Article 15.4.
+
+     15.3                           Seller will install an enclosed, air
+     conditioned room that will be close to the truck loading facility so
+     that Buyer can install point of sale systems that will produce a bill
+     of lading for each load of LNG Delivered.  Seller will provide scale
+     weight indicators and data so Buyer may interface it with Buyers
+     systems.  Seller will provide composition of the LNG to be loaded so
+     Buyers system can also utilize this data.  Seller shall provide Buyer
+     with loading controls such that Buyers system will have to authorize
+     any and all Deliveries.  Buyers system will produce a duplicate bill
+     of lading for each Delivery that will be kept by Seller at the LNG
+     Plant for a period of 24 months.
+
+     15.4                           All invoices will be paid within thirty
+     (30) calendar days of the invoice date by electronic funds transfer to
+     invoicing Partys bank account the amount as shown on the above
+     mentioned invoice. In the event either Party disputes any portion of
+     the amount on the invoice, said Party shall pay those amounts not in
+     dispute and notify the other Party in writing of the details
+     associated with the disputed amount no later than fifteen (15) days
+     after the invoice date.
+
+     15.5                           In the event an error is discovered in
+     the amount shown to be due in any invoice such error shall be adjusted
+     without interest or penalty as soon as reasonably possible; provided,
+     however, any invoice shall be final as to both Parties unless written
+     notice of an error in such invoice is given by a Party to the other
+     Party within one (1) year after payment therefore has been made. Such
+     notice shall be effective when received by the Party to which such
+     notice is sent.
+
+     15.6                           In the event a Party fails to pay all
+     of the amount of any invoice, as set forth in Articles 15.1, 15.2, and
+     15.4 above, upon written notice from the invoicing Party to the other
+     Party, the other Party shall have ten (10) days to cure the Default
+     condition.  Upon the other Partys failure to cure the Default
+     condition, the invoicing Party shall have the right to (a) require
+     payment in advance of each Delivery, or (b) withhold and set off
+     payment of any amounts of monies due or owing by Seller to Buyer,
+     whether in conjunction with this Sales Agreement or otherwise, against
+     any and all amounts due or owing by Buyer to Seller under this Sales
+     Agreement, or (c) suspend or discontinue services until such amount is
+     paid, or (d) terminate this Sales Agreement. In addition, in the event
+     an invoice is not paid within the time set forth in Article 15.4, the
+     undisputed invoice balance will accrue a late fee of one percent (1%)
+     of the undisputed balance for each month payment is late. The exercise
+     by the invoicing Party of any of these options shall not preclude the
+     invoicing Party from pursuing any other available remedy in equity or
+     at law. The prevailing Party shall be entitled to claim recovery
+     pursuant to Article 33.2.
+
+     15.7                           Seller and Buyer shall each preserve
+     all records pertaining to this Sales Agreement, including all test and
+     measurement data and charts, and all test equipment calibration
+     records for a period of at least two (2) years, or longer as shall be
+     required under law or regulation.  Each Party, or its designated
+     representative shall have access to the books and records of the other
+     Party upon reasonable notice during regular business hours to the
+     extent such records are applicable to the quality, measurement,
+     billing, pricing and quantities of LNG delivered hereunder.
+
+ARTICLE 16 TAKE OR PAY
+     16.1                           It is recognized that (a) Seller is
+     making a considerable financial investment in the capital cost of the
+     LNG Plant and a financial return is required and Seller is relying
+     solely on Buyers commitments and obligations under this Sales
+     Agreement for such return and that Seller is granting an exclusive
+     marketing arrangement to Buyer pursuant to this Sales Agreement; (b)
+
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+9
+------------------------------------------------------------------------
+ 
+ 
+
+      
+
+                                                     Seller would not
+     undertake the cost of building the LNG Plant were it not for Buyers
+     agreement as set forth herein to agree to purchase the entire Plant
+     Capacity.  Therefore, Buyer agrees to pay Seller for the Take or Pay
+     Monthly Quantity regardless of Buyers ability to take Delivery of the
+     Take or Pay Monthly Quantity of LNG and thus, the Market Risk is fully
+     assumed by Buyer by its execution of this Sales Agreement.  In the
+     event Buyer for any reason, other than Force Majeure, fails to take
+     delivery of the Take or Pay Monthly Quantity of LNG from Seller, where
+     the Plant Capacity was available to be taken, Buyer will pay Seller an
+     amount equal to (1) the Liquefaction Fee multiplied by the Take or Pay
+     Monthly Quantity, (2) the actual demand charge and other fixed,
+     monthly charges from APS, and (3) any unavoidable Gas Costs related to
+     the shortfall of LNG gallons taken below the Take or Pay Monthly
+     Quantity.  Buyer agrees that the Take or Pay Monthly Quantity for each
+     Month shall be equal to the number of days in such Month multiplied by
+     45,000 GPD (the Take or Pay Monthly Quantity).  By way of example,
+     if a particular Month contains thirty (30) days, the Take or Pay
+     Monthly Quantity for such Month would be (30 days X 45,000 GPD) or
+     1,350,000 Gallons.  Take or Pay shall apply when the LNG Plant is not
+     experiencing a Sellers Shut Down, and the Plant Capacity is available
+     to produce LNG and Buyer does not take Delivery of its Take or Pay
+     Monthly Quantity for reasons other than a Force Majeure, Buyer must
+     pay Seller as if Buyer had taken Delivery of the Take or Pay Monthly
+     Quantity of LNG, subject to the provisions of this Article 16.
+
+     16.2                           Notwithstanding Article 16.1 above, at
+     times when the quality of LNG delivered by Seller does not meet the
+     specifications set forth in Article 6, Buyer shall only be required to
+     purchase and take delivery of fifty percent (50%) of the Take or Pay
+     Monthly Quantity during such period, but in no case shall Buyer be
+     required to take Delivery of LNG that is less than 92 mole percent
+     methane and not more than 4 mole percent ethane but otherwise meets
+     the specifications listed in Article 6.  In such event, Seller shall
+     have the right to sell the quantities of the off specification LNG not
+     purchased by Buyer to others. Buyer agrees to use its commercially
+     reasonable efforts to market all of the Plant Capacity during such
+     upset periods and Seller agrees to use  commercially reasonable
+     efforts to resolve the composition issue and deliver LNG meeting the
+     specifications set forth in Article 6.1 as soon as practicable.  Both
+     Parties recognize that the composition of the Feedstock Gas might vary
+     from time to time and there is a remote chance that the Feedstock Gas
+     may be too ethane rich for the Plant to remove it to less than the one
+     mole percent (1%) level.
+
+     16.3                           Notwithstanding Article 16.1 above, in
+     the event of a Sellers Shut Down, Buyer is relieved from any Take or
+     Pay liability during the actual period of the Sellers Shut Down or a
+     Force Majeure event and during the first twenty-four (24) hours after
+     the LNG Plant is restarted.
+
+     16.4                           In the event that the Plant Capacity is
+     less than 50,000 GPD as determined in accordance with Article 5.4 or
+     as agreed to by the Parties, the Take or Pay Quantity of 45,000 GPD in
+     Article 16.1 will be reduced on a pro rata basis.
+
+ARTICLE 17 EXCLUSIVITY
+     17.1                           Seller is constructing the LNG Plant
+     for the purpose of dedicating to Buyer all of the Plants Capacity for
+     the term of the Sales Agreement and, subject to exceptions set forth
+     in this Sales Agreement, that it will sell all LNG produced at the
+     Plant to Buyer pursuant and subject to the terms and conditions of
+     this Sales Agreement. Buyer agrees to purchase all of the Plants LNG
+     production, not to exceed 45,000 GPD. As such, it is agreed that no
+     LNG will be marketed from this Plant to other parties without the
+     express written permission of Buyer, except as otherwise provided in
+     this Sales Agreement and unless Buyer is in Default. In the event of a
+     Default, as defined in Article 18, by Buyer, Seller shall use
+     commercially reasonable efforts to sell LNG to others.
+
+     17.2                           Upon execution of this Sales Agreement,
+     Seller will advise other entities with which it has communicated
+     within the ninety (90) days preceding the Effective Date regarding the
+     sale of LNG by the LNG Plant, that Seller has entered into an
+     exclusive arrangement for the sale of
+
+      
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+      
+ 
+
+10
+
+------------------------------------------------------------------------
+
+
+ 
+
+                                                     LNG to Buyer and at
+     Buyers option, will advise those entities of Buyers identity so they
+     may contact Buyer if interested in purchasing LNG. Except as otherwise
+     permitted pursuant to the terms of this Sales Agreement, Seller will
+     make no further marketing efforts other than during the 180 day period
+     prior to the expiration of this Sales Agreement, in the event notice
+     is given by either Party not to extend the term of this Sales
+     Agreement as provided in Article 2.1 above.
+
+ARTICLE 18 DEFAULT
+     18.1                           Sellers rights upon a payment default
+     by Buyer are set forth in Article 15 above.  Subject to Article 15 and
+     notwithstanding any other provision herein, a Party to this Sales
+     Agreement (the Defaulting Party) shall be in default of this Sales
+     Agreement if the Defaulting Party shall (a) default in the payment or
+     performance of any material obligation to the Party not in default
+     (the Non-defaulting Party) under this Sales Agreement, and such
+     default shall continue for thirty (30) days after notice of such
+     default from the Non-defaulting Party to the Defaulting Party (or such
+     longer period if such default cannot be cured within such 30-day
+     period provided that the Defaulting Party promptly commences curing
+     within such 30-day period and thereafter pursues the same with due
+     diligence until completion); (b) file a petition or otherwise commence
+     or authorize the commencement of a proceeding or case under any
+     bankruptcy, reorganization, or similar law for the protection of
+     creditors or have any such petition filed or proceeding commenced
+     against it; (c) otherwise become bankrupt or insolvent (however
+     evidenced); (d) be unable to pay its debts as they fall due by
+     acceleration or otherwise; or (e) fails to give adequate security for,
+     or assurance of, its ability to perform its obligations hereunder
+     within ten (10) days of a reasonable request therefore from the
+     Non-defaulting Party (each a Default).
+
+     18.2                           Upon the occurrence of a Default
+     described above, and for so long as such Default is continuing, the
+     Non-defaulting Party shall, in addition to all other rights and
+     remedies available to the Non-defaulting Party set forth elsewhere in
+     this Sales Agreement, shall have the right to exercise any and all
+     rights and remedies available under applicable law.
+
+     18.3                           This Article 18 shall be without
+     prejudice and in addition to any right of termination, setoff,
+     combination of accounts, lien, or other right to which  the
+     Non-defaulting Party is at any time otherwise entitled (whether by
+     operation of law, contract, or otherwise).
+
+ARTICLE 19 LAWS
+     19.1                           This Sales Agreement shall be subject
+     to, and each Party shall perform its obligations hereunder in
+     compliance with, all valid and applicable laws, orders, rules and
+     regulations made by duly constituted governmental authorities. The
+     interpretation and performance of this Sales Agreement shall be
+     governed and construed in accordance with the laws of the State of
+     Texas, excluding any conflict of law principles which may apply to the
+     laws of another jurisdiction.
+
+ARTICLE 20 LIABILITY AND WARRANTIES
+     20.1                           Buyers Liability for Possession and
+     Control of LNG. As between Buyer and Seller hereto, Buyer shall be
+     deemed to have title to and be in control and possession of all LNG
+     delivered by Seller under this Sales Agreement upon Delivery thereof
+     by Seller to Buyer at the Delivery Point.  From and after such
+     delivery at the Delivery Point, Buyer will be fully responsible and
+     liable for any and all LNG loss, damages, injuries, claims, actions,
+     expenses and liabilities, including reasonable attorneys fees caused
+     or resulting from Buyers handling, transportation and sale of LNG
+     following Delivery and Buyer shall release, indemnify, defend and hold
+     Seller harmless from and against any and all claims, suits, judgments,
+     damages, losses, liability and expenses on account of the foregoing
+     matters for which Buyer is responsible.
+
+     20.2                           Sellers Liability for possession and
+     Control of Natural Gas and/or LNG. As between Seller and Buyer hereto,
+     Seller shall have title and/or custody to and be in control and
+     possession of any Natural Gas and/or LNG from and after the time such
+     Natural Gas is received at the Plant and until the LNG is Delivered to
+     Buyer at the Delivery Point.  Until Delivery at the Delivery Point,
+     Seller will be fully responsible and liable for any and all Natural
+     Gas and/or LNG loss, damages,
+
+      
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+      
+ 
+
+11
+
+------------------------------------------------------------------------
+
+
+ 
+
+                                                     injuries, claims,
+     actions, expenses and liabilities, including reasonable attorneys
+     fees caused by or resulting from the Natural Gas or LNG and Seller
+     shall release, indemnify, defend and hold Buyer harmless from and
+     against any and all claims, suits, judgments, damages, losses,
+     liability and expenses on account of the foregoing matters for which
+     Seller is responsible.
+
+     20.3                           Notwithstanding the foregoing
+     provisions of this Article 20, neither Party shall be required to
+     indemnify the other Party for the other Partys own negligence.
+
+     20.4                           Limitation of Liability. Except when
+     necessary to provide indemnity against a third party claim pursuant to
+     an indemnification obligation of a Party under this Sales Agreement
+     and subject to the Take or Pay obligations set forth in Article 16,
+     neither Party shall be liable to the other for incidental
+     consequential, special, direct, punitive, or exemplary damages.
+
+     20.5                           Warranty of Title. Seller warrants that
+     it will, at the time of Delivery of LNG hereunder, deliver said LNG
+     free and clear of all liens, encumbrances, and claims whatsoever,
+     except for Sellers rights to receive payment therefore pursuant to
+     this Sales Agreement and except to the extent caused by Buyers
+     purchases of Natural Gas for the Plant pursuant to the terms of this
+     Sales Agreement. Except as set forth in this Article, Seller shall
+     indemnify, save, and hold Buyer, its subsidiaries and/or affiliates,
+     and their directors, officers, employees, and agents, free and
+     harmless from all suits, actions, debts, accounts, damages, costs,
+     losses, and expenses, including reasonable attorneys fees, arising
+     from or out of a breach of the warranty contained in this Article
+     20.5.
+
+     20.6                           Disclaimer of Warranties. EXCEPT AS
+     SPECIFICALLY SET FORTH IN THIS SALES AGREEMENT, SELLER MAKES
+     ABSOLUTELY NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT
+     LIMITATION, THOSE OF MERCHANTABILITY AND OF FITNESS FOR A PARTICULAR
+     PURPOSE, WITH RESPECT TO THE LNG PLANT OR LNG PRODUCED AND SOLD
+     PURSUANT TO THIS SALES AGREEMENT OR AS TO ANY OTHER MATTER, ALL OF
+     WHICH ARE HEREBY DISCLAIMED.  UNDER NO CIRCUMSTANCES SHALL SELLER, ITS
+     OFFICERS, AGENTS, EMPLOYEES, PRINCIPALS, PARENT OR AFFILIATE BE LIABLE
+     FOR ANY DAMAGE TO ANY EQUIPMENT WHICH SHALL BE OPERATED USING THE LNG
+     PROVIDED HEREUNDER. THE LIABILITY OF SELLER FOR ANY BREACH OF THIS
+     ARTICLE 20.6 SHALL BE LIMITED TO THE REPLACEMENT VALUE OF ANY LNG AND
+     SUCH REASONABLE AND CUSTOMARY TRUCK TRANSPORT COSTS, AS MAY BE
+     INVOLVED IN A DISPUTE.  IN NO INSTANCE SHALL SELLERS UNINSURED
+     LIABILITY FOR THE TOTAL OF ALL SUCH AMOUNTS EXCEED $25,000.00 PER
+     DELIVERY. THE PARTIES SHALL ENDEAVOR TO MITIGATE DAMAGES HEREUNDER.
+
+     20.7                           Buyers Knowledge of Product,
+     Odorization, and Indemnity. BUYER HEREBY EXPRESSLY REPRESENTS THAT
+     BUYER IS FAMILIAR WITH THE PROPERTIES OF LNG AND NATURAL GAS, AND
+     BUYER AGREES TO INFORM BUYERS CUSTOMERS, AGENTS, EMPLOYEES, AND/OR
+     PURCHASER(S) OF THE SAME. THE LNG PROVIDED HEREUNDER WILL NOT BE
+     STENCHED AND/OR ODORIZED BY SELLER AND BUYER CERTIFIES, REPRESENTS AND
+     WARRANTS THAT ODORIZATION IS NOT REQUIRED FOR DELIVERY OF LNG TO BUYER
+     UNDER THIS SALES AGREEMENT. BUYER SHALL BE RESPONSIBLE FOR ODORlZlNG
+     THE LNG AFTER DELIVERY IN ORDER TO COMPLY WITH ANY ODOR STANDARDS
+     CONTAINED IN APPLICABLE REGULATIONS, RULES OR LAW . AS SET FORTH
+     ABOVE, BUYER SHALL BE DEEMED TO BE IN EXCLUSIVE POSSESSION AND CONTROL
+     OF THE LNG ONCE BUYER HAS TAKEN DELIVERY AND BUYER ASSUMES ALL
+     RESPONSIBILITY FOR SAFE HANDLING OF THE LNG PROVIDED HEREUNDER FROM
+     THE TIME OF SAID DELIVERY. BUYER SHALL FULLY PROTECT, INDEMNIFY, AND
+     DEFEND SELLER, AND ITS OFFICERS, AGENTS, EMPLOYEES, PRINCIPALS,
+     INSURERS AND PARENT, AND HOLD IT HARMLESS FROM ANY AND ALL CLAIMS,
+     LOSSES, DAMAGES, DEMANDS, SUITS, CAUSES OF ACTION AND LIABILITIES
+
+      
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+ 
+
+12
+
+------------------------------------------------------------------------
+
+
+ 
+
+                                                     (INCLUDING ALL
+     REASONABLE ATTORNEY FEES AND EXPENSES) INCURRED BY OR IMPOSED UPON
+     ARISING, DIRECTLY OR INDIRECTLY, FROM BUYERS FAILURE TO PROPERLY
+     ODORIZE AND/OR TO EITHER MONITOR OR MAINTAIN ODORIZATION AT OR ABOVE
+     APPLICABLE ODOR STANDARDS OR SO NOTIFY BUYERS CUSTOMERS, AGENTS,
+     AND/OR EMPLOYEES.
+
+     20.8                           Mutual Indemnity for Negligence or
+     Willful Misconduct.  Each Party (the Indemnifying Party) shall
+     release, indemnify, defend and hold the other Party and such other
+     Partys affiliates, parents and subsidiaries and their respective
+     shareholders or other equity owners, directors, managers, officers,
+     employees and agents harmless from and against any and all claims,
+     suits, judgments, damages, losses, liability and expenses arising out
+     of or resulting from the negligence or willful misconduct of the
+     Indemnifying Party or the Indemnifying Parties employees, contractors,
+     agents or invitees.
+
+ARTICLE 21 TAXES
+     21.1                           None of the fees or charges set forth
+     and described in this Sales Agreement shall be deemed to include any
+     tax. Buyer shall bear sole responsibility and liability for payment of
+     any taxes associated with the purchase, transportation, use, sale or
+     resale of LNG. If Seller is required to pay any tax (other than income
+     tax, property tax, or normal enterprise taxes), Buyer shall promptly
+     reimburse Seller for same upon Sellers demand, in addition to the
+     other fees and charges provided for in this Sales Agreement. Where
+     applicable, Seller agrees to take receipt of such tax and process same
+     with the appropriate tax authority. Buyer shall be required to provide
+     Seller with proof, satisfactory to the appropriate tax authority, of
+     any and all tax exemptions Buyer may claim, Buyer shall provide Seller
+     with all records and information, satisfactory to the appropriate tax
+     authority, regarding Buyers disposition of all LNG delivered
+     hereunder. [***].
+
+ARTICLE 22 FORCE MAJEURE
+     22.1                           Neither Seller nor Buyer shall be
+     liable to the other for failure, whether in whole or in part to
+     perform or comply with any obligation or condition of this Sales
+     Agreement caused by an event of force majeure which, for purposes of
+     this Sales Agreement shall include, without limitation blockades;
+     embargoes; insurrections; riots; epidemics; flood; washouts;
+     landslides; mudslides; earthquakes; extreme cold or freezing weather;
+     lightning, civil disturbances; failure to prevent or settle any
+     strike; fire; explosions; breakdown or failure or accident to
+     machinery, method of transport or line of pipe, or the order of any
+     court or governmental authority having jurisdiction, war; acts of the
+     public enemy; terrorism; espionage; nuclear disaster; act of God;
+     fire; severe weather; earthquakes; floods; material shortage or
+     unavailability at reasonable cost not resulting from the failing
+     Partys failure to timely place orders or take other necessary actions
+     therefore; inability or delay in obtaining governmental permits;
+     government codes, ordinances, laws, rules, regulations, or
+     restrictions; or any other cause, whether similar or dissimilar to
+     those above mentioned (excluding, however, any obligation to make
+     payments of monies due hereunder), which is beyond the reasonable
+     control of the Party claiming relief under this provision and which by
+     the exercise of due diligence such Party is unable to prevent or
+     overcome (each, a Force Majeure Event). The settlement of strikes
+     and lockouts shall be entirely within the discretion of the Party
+     experiencing the same.
+
+     22.2                           Force Majeure Events shall not relieve
+     a party of liability to the extent such causes are the result of the
+     negligence of such Party or in the event of its failure to use all
+     commercially reasonable efforts to remedy the situation, nor shall
+     such causes or contingencies affecting such performance relieve either
+     Party from its obligations to make payments of amounts then due in
+     respect of Feedstock Gas and/or LNG already delivered. For the
+     avoidance of doubt, should Sellers provision of services or supply of
+     LNG depend in whole or in part upon production from a Plant which is
+     damaged or destroyed, Seller shall not be obliged to repair or rebuild
+     such Plant in order to fulfill the terms of this Sales Agreement.
+
+      
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+
+13
+
+------------------------------------------------------------------------
+
+
+ 
+
+     22.3                           A Party claiming relief under this
+     Article 22 shall promptly notify the other Party in writing of the
+     event preventing its performance stating facts supporting such claim
+     of inability to perform.  Thereupon, the obligation to deliver or
+     receive the quantities so affected shall be suspended during the
+     continuation of an inability so caused, but for no longer period, this
+     Sales Agreement shall otherwise remain unaffected.
+
+ARTICLE 23 ASSIGNMENT
+     23.1                           Either Party may assign or otherwise
+     convey any of its rights, titles, or interests under this Sales
+     Agreement to an affiliate of such party or joint venture in which the
+     assigning Party owns a 100% equity interest, without prior approval,
+     but with notice to the other Party; provided that no such assignment
+     shall relieve the assigning Party of its obligations under this Sales
+     Agreement. Either Party may assign or otherwise convey any of its
+     rights, titles or interests to any third party provided it has
+     obtained the prior written consent of the other Party hereto, which
+     consent shall not be unreasonably withheld, conditioned or delayed,
+     however, Buyer may unreasonably withhold approval of any sale or
+     transfer to any person or business previously or currently in the
+     natural gas vehicle industry.  No assignment of this Sales Agreement
+     by Buyer shall release Buyer or any guarantor from liability under
+     this Sales Agreement unless the assignees and any replacement
+     guarantor possess creditworthiness acceptable to Seller, as determined
+     in Sellers sole and absolute discretion.  Notwithstanding the
+     foregoing, the obligations set forth in Article 29 shall run with the
+     LNG Plant and the land upon which it is situated and be the obligation
+     of the party owning the LNG Plant.
+
+     23.2                           Notwithstanding the provisions of
+     Article 23.1, any assignment to a tribe of American indians or any
+     affiliate thereof, shall be subject to and conditioned upon the
+     receipt by Buyer of a waiver of sovereign immunity substantially in
+     the form attached hereto as Exhibit A.
+
+ARTICLE 24 SEVERABILITY
+     24.1                           Should any section, paragraph,
+     subparagraph, or other portion of this Sales Agreement be found
+     invalid or be required to be modified by a court or government agency
+     having jurisdiction, then only that portion of this Sales Agreement
+     shall be invalid or modified.
+
+                                                     The remainder of this
+     Sales Agreement which is still valid and unaffected shall remain in
+     force. If the absence of the part that is held to be invalid, illegal,
+     or unenforceable, or modification of the part to be modified,
+     substantially deprives a Party of the economic benefit of this Sales
+     Agreement, the Parties shall negotiate reasonable and valid provisions
+     to restore the economic benefit to the Party deprived or to balance
+     the Parties obligations consistent with the intent reflected in this
+     Sales Agreement. If the Parties are unable to do so, either Party may
+     terminate this Sales Agreement by giving the other Party notice of
+     termination not later than sixty (60) days after the effective date of
+     the order, rule, or regulation so affecting this Sales Agreement.
+     Seller shall also have the right to terminate this Sales Agreement as
+     provided above in the event either the services performed by Seller,
+     or facilities utilized by Seller become subject to regulation which
+     substantially deprives Seller of the economic benefit of this Sales
+     Agreement.
+
+ARTICLE 25 NOTICES
+     25.1                           Any notice, request, demand, statement,
+     invoice or payment provided for in this Sales Agreement or any notice
+     which a Party may desire to give to the other shall be in writing and
+     shall be, except as otherwise specifically set forth herein,
+     considered as duly delivered (i) as of the date of transmittal if sent
+     by email to the other Partys email address as set forth below and 
+     mailed by certified mail return receipt required (postage prepaid) to
+     the other Partys address as set forth below, (ii) telecopied (with
+     answer-back confirmation of receipt to the other Partys fax address
+     as set forth below), or (iii) courier expressed to the other Party at
+     the address set forth below:
+
+      
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+
+14
+
+------------------------------------------------------------------------
+
+
+      
+
+        NOTICES TO BUYER:
+
+        CLEAN ENERGY
+        3020 Old Ranch Parkway, Suite  200
+        Seal Beach, CA 90740
+        Attention:   Chief Operating Officer and
+                             Chief Financial Officer
+        Telephone: 562-493-2804
+        Fax: 562-546-0097
+        Email: mpratt@cleanenergyfuels.com and
+        rwheeler@cleanenergyfuels.com
+
+        NOTICES TO SELLER:
+
+        SPECTRUM ENERGY SERVICES, LLC
+        8505 South Elwood Avenue, Building #123
+        Tulsa, OK 74132
+        Attention:   President-Managing Member
+        Telephone: 918-298-6660
+        Fax: 918-298-6662
+        Email: ray@latchem.com
+
+        PAYMENTS AND STATEMENTS TO SELLER:
+
+        SPECTRUM ENERGY SERVICES, LLC
+        8505 South Elwood Avenue, Building #123
+        Tulsa, OK 74132
+        Attention:   President-Managing Member
+        Telephone: 918-298-6660
+        Fax: 918-298-6662
+        Email: ray@latchem.com
+
+     25.2                           Either Party may change any of its
+     addresses shown above by notifying the other Party, in accordance with
+     the notice provisions above, of such change.
+
+ARTICLE 26 MODIFICATIONS AND AMENDMENTS
+     26.1                           Any change, modification, amendment or
+     alteration of this Sales Agreement shall be in writing, signed by the
+     Parties hereto, and no course of dealing between the Parties shall be
+     construed to alter the terms hereof, except as expressly stated
+     herein.
+
+ARTICLE 27 CONFIDENTIALITY
+     27.1                           The Parties understand and agree that
+     the terms and conditions of this Sales Agreement, all documents
+     referenced herein or exchanged between the Parties and all
+     communications between the Parties regarding this Sales Agreement are
+     considered as being confidential or proprietary (collectively,
+     Confidential Information) as between the Parties, and shall not,
+     without the other Partys prior written consent, be disclosed to any
+     third party, corporation or entity, except  (i) to Affiliates, legal,
+     accounting and other professional advisors, provided that such Party
+     shall be liable under this Article for any such Affiliates or any
+     such legal, accounting or other professional advisors failure to
+     comply with the terms hereof; (ii) as may be required by governmental
+     authority or court; (iii) as may be necessary to enforce the terms of
+     this Sales Agreement, as provided below.  As a condition of its
+     consent to disclosure of Confidential Information by the other Party
+     as required above, a Party may require redaction of portions of this
+     Sales Agreement or other document containing Confidential Information.
+      Notwithstanding the foregoing, nothing herein contained shall prevent
+     a Party or its parent or other Affiliate from complying with state and
+     federal securities laws, including without limitation, the filing of
+     this
+
+      
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+ 
+ 
+15
+
+------------------------------------------------------------------------
+
+
+ 
+
+                                                     Sales Agreement as an
+     exhibit to a filing by the parent of Buyer with the Securities and
+     Exchange Commission under the Securities Exchange Act of 1934.
+
+     27.2                           Information will not be deemed
+     Confidential Information if it (i) is or becomes publicly available
+     other than through the actions of the receiving Party; (ii) was
+     previously known to or is independently developed by the receiving
+     Party free of any obligation to keep it confidential; or (iii) was
+     previously disclosed or becomes available to the receiving Party
+     without restriction from a third party whose disclosure did not or
+     does not violate any confidentiality obligation.  Seller acknowledges
+     that Buyer owns and operates a plant that produces liquefied natural
+     gas and is familiar with all aspects of the production of LNG.  A
+     Party shall be excused from these nondisclosure provisions if the
+     disclosure is required by law, rule, regulations or governmental
+     authority or to the extent required for a Party to undertake or defend
+     an action brought by one Party in court to enforce the terms of this
+     Sales Agreement against the other Party.  In the event that a Party is
+     requested or required by law, rule, regulation or governmental
+     authority or court to disclose any Confidential Information of the
+     other Party, it is agreed that it shall provide the other Party prompt
+     notice of such request so that an appropriate protective order may be
+     sought by the affected Party. It is understood that the Party
+     requesting a protective order shall bear all costs related thereto.
+
+     27.3                           Each Party shall have the right to
+     review and approve any publicity material, press releases or other
+     public statements by the other that refer to such Party or that
+     describe any aspect of this Sales Agreement.  Each Party agrees not to
+     issue any such publicity materials, press releases, or public
+     statements without the prior written approval of the other party,
+     unless the information has already been made public by the other
+     party, except as is required by the Party or its parent or other
+     Affiliate to comply with federal or state securities laws.  Neither
+     Party shall publish or use any advertising, sales promotions or other
+     publicity materials that use the other Partys logo, trademarks or
+     service marks without the prior written approval of the other Party,
+     which may be withheld in a Partys sole discretion.
+
+ARTICLE 28 WAIVER
+     28.1                           The failure of Seller or Buyer at any
+     time to require performance by the other Party of any provision hereof
+     shall in no way affect the right of either Party to require any
+     performance which may be due thereafter pursuant to such provision,
+     nor shall the waiver by Buyer or Seller of any breach of any provision
+     hereof be taken or held to be a waiver of any subsequent breach of
+     such provision.
+
+ARTICLE 29 MISCELLANEOUS
+     29.1                           Conditioning Fee. Buyer shall pay
+     Seller a conditioning fee to take Delivery with a Warm Trailer. Such
+     fee shall be equal to [***] per Delivery into a Warm Trailer (the
+     Conditioning Fee).  As used herein, Warm Trailer means an LNG
+     trailer that is warmer than minus 230 degrees Fahrenheit (-230°F).
+
+     29.2                           Delivery into a Warm Trailer. Buyer
+     shall use its commercially reasonable efforts to bring each LNG
+     trailer to the Delivery Point with the temperature inside its LNG
+     storage tank(s) not greater than -230 degrees F.  When Buyer desires
+     to take Delivery of LNG with a Warm Trailer, Buyer shall contact
+     Seller to agree on a date and time when Buyer shall take such
+     Delivery. In the event that Buyer arrives at the Delivery Point to
+     take Delivery of LNG with a Warm Trailer without Seller having agreed
+     on a date and time for such Delivery, Seller will arrange Delivery as
+     soon as Seller determines that it can accommodate such Delivery.
+     Seller shall require Buyer to pay Seller the Conditioning Fee set
+     forth in this Sales Agreement to take Delivery with a Warm Trailer.
+     Seller shall not be liable for any damage that may occur as a result
+     of the Delivery of LNG into a Warm Trailer.
+
+     29.3                           Personal Protective Equipment. Buyer
+     shall ensure that, prior to taking Delivery, all truck operator(s)
+     shall have been provided appropriate personal protective equipment,
+     including, but
+
+      
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+
+16
+
+------------------------------------------------------------------------
+
+
+ 
+
+                                                     not limited to, flame
+     retardant clothing fully covering the arms, legs and torso, sturdy
+     leather work shoes (not athletic type), apron, hard hat, gloves,
+     splash-proof safety goggles, and facial shield. Buyer shall ensure
+     that, while inside the Plant, including the Delivery point area, the
+     truck operator(s) shall at all times, wear such personal protective
+     equipment and comply with Sellers Plant safety requirements. While
+     Seller reserves the right to deny Delivery to any person observed not
+     using all appropriate personal protective equipment, Seller has no
+     obligation to observe or ensure that all appropriate personal
+     protective equipment is used.
+
+     29.4                           Training. Buyer shall ensure that all
+     truck operator(s) have received instruction in Sellers truck loading
+     procedures prior to taking Delivery of LNG at Plant. Buyer shall
+     provide no less than one (1) Business Day notice of the arrival of any
+     truck operator(s) that shall require such instruction. Plant personnel
+     shall endeavor to provide instruction in a timely manner upon arrival
+     of the truck. Buyer will cause training to be provided to the truck
+     operator(s) regarding the hazards of handling LNG and the precautions
+     to take to safely load LNG. Buyer shall ensure that while inside the
+     Plant, including the LNG Delivery Point area, the truck operator(s)
+     shall at all times act in compliance with such training and
+     precautions. While Seller reserves the right to deny Delivery to any
+     person not using the truck loading facilities in the proper manner,
+     Seller has no obligation to observe that the truck loading facilities
+     are being used in the proper manner.  Seller acknowledges that Buyer
+     may engage an independent truck operator to haul Buyers LNG trailers.
+      Seller shall provide training to its employees and independent
+     contractors in the proper operation and maintenance of an LNG plant.
+
+     29.5                           Insurance. Buyer and Seller shall
+     maintain in force and effect throughout the term of this Sales
+     Agreement, insurance coverage of the types and in the amounts set
+     forth below, which may be under blanket policies, with insurance
+     companies reasonably acceptable to either Party whose acceptance shall
+     not be unreasonably withheld. If either Party violates this provision,
+     the other Party may, at its option and without prejudice to its other
+     legal rights, terminate this Sales Agreement upon reasonable notice. 
+     The limits set forth below are minimum limits and shall not be
+     construed to limit either Partys liability. All costs and deductible
+     amounts will be for the sole account of each Party for maintaining its
+     own coverage.
+
+        Workers Compensation Insurance, complying with the laws of any
+        state having jurisdiction over each employee, and employers
+        liability insurance with limits of $1,000,000 for each accident,
+        $1,000,000 for each disease for each employee, and a $1,000,000
+        disease policy limit.
+
+        Commercial or comprehensive general liability insurance on an
+        occurrence form with a combined single limit of $1,000,000 for each
+        occurrence, and annual aggregates of $1,000,000 for bodily injury
+        and property damage, including coverage for blanket contractual
+        liability, broad form property damage, personal injury liability,
+        independent contractors, products/completed operations, and the
+        explosion exclusion shall be deleted.
+
+        Automobile liability insurance with a combined single limit of
+        $1,000,000 for each accident for bodily injury and property damage,
+        to include coverage for all owned, non-owned, and hired vehicles.
+
+        Excess or umbrella liability insurance with a combined single limit
+        of $1,000,000 for each occurrence, and annual aggregates of
+        $1,000,000 for bodily injury and property damage covering the
+        excess of employers liability insurance and the insurance set
+        forth above.
+
+     29.5.1                  In each of the policies described above, each
+     Party agrees to waive, and will require each of its insurers to waive,
+     any rights of subrogation or recovery it may have against the other
+     Party, their parents, subsidiaries, or affiliated companies to the
+     extent of the indemnity obligations. Each Party shall name the other
+     Party as an additional insured under the policies described above to
+     the extent of the indemnity obligations.
+
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+
+17
+
+------------------------------------------------------------------------
+
+
+ 
+
+     29.5.2                  The policies described above will include the
+     following amendment. This insurance is primary insurance with respect
+     to Seller, its parents, subsidiaries and affiliated companies, and any
+     other insurance maintained by Seller, its parents, subsidiaries, or
+     affiliated companies is excess and not contributory with this
+     insurance, but only to the extent of liabilities of Buyer not
+     otherwise indemnified under this Sales Agreement and for any
+     indemnities assumed by Buyer under this Sales Agreement.
+
+     29.5.3                  Non-renewal or cancellation of policies
+     described above shall be effective only after the other Party shall
+     have received thirty (30) days prior written notice of such
+     non-renewal or cancellation. Prior to the creation of any obligation
+     on the part of Seller to Deliver any LNG hereunder, Buyer shall
+     provide Seller, and Seller shall provide Buyer, with certificates of
+     insurance on an Accord 25 or 25S form evidencing the existence of the
+     insurance coverage required.
+
+     29.5.4                  Buyer may self-insure for any of the coverage
+     requested herein provided Buyer has an investment grade credit rating.
+     In the event of self-insurance, the following conditions shall apply:
+     (1) Such self-insurance program shall provide levels of coverage that
+     are equivalent to or greater than the amounts required by this Article
+     either by itself or in combination with any insurance policies that
+     might be purchased; (2) Coverage provided by such self-insurance shall
+     be as broad as the most current ISO forms(s) issued for like or same
+     coverage; (3) Buyer can provide reasonable proof that it has made
+     adequate financial arrangements to fund such self-insurance program;
+     (4) Such self-insurance is permitted by any applicable law; and (5)
+     Such self-insurance shall comply with all the additional insured and
+     waiver of subrogation or recovery terms and conditions in this
+     Article as if insurance policies had been issued.
+
+     29.6                           Right of First Refusal.  Before the
+     Start-up Date, Seller may assign all rights and obligations of this
+     Sales Agreement to a newly created company (NEWCO) which will be
+     created to own and manage the LNG Plant and Seller shall own 100% of
+     NEWCO.  This assignment will be permitted and is not subject to a
+     Right of First Refusal (ROFR) described in this Article 29.6,
+     provided that in such event, NEWCO shall be subject to the ROFR
+     described in this Article 29.6, and all other obligations of Seller
+     under this Sales Agreement.  In the event Seller or NEWCO wishes to
+     transfer ownership or partial ownership in the Plant or an equity
+     interest in NEWCO or Seller, or the ultimate parent of Seller, if any,
+     such transaction will be subject to the ROFR.  A sale by one partner
+     of Seller or NEWCO of part or all of its ownership interest in Seller
+     or NEWCO to another partner(s) of Seller or NEWCO shall not be subject
+     to the ROFR described below.
+
+     29.6.1                  Subject to the immediately preceding
+     paragraph, in the event that Seller seeks to transfer all or part of
+     its interest in the LNG Plant, whether such transfer is structured as
+     an asset sale or a sale of a controlling equity interest in Seller
+     (whether such sale is a single sale or a series of transfers), Seller
+     shall include with the transfer notice delivered in accordance with
+     Article 25 a written right of first refusal notice (a ROFR Notice). 
+     Each ROFR Notice shall set forth the proposed transferees name and
+     shall include a summary of the terms of the proposed transfer,
+     including without limitation, the purchase price and method of
+     payment, and shall have attached to it a copy of any offer or
+     counteroffer executed or to be executed by Seller and the transferee. 
+     Seller represents and warrants that the purchase price, terms and
+     conditions referred to in the ROFR Notice shall have been arrived at
+     through arms length negotiations.  Buyer agrees that any ROFR Notice
+     and the terms therein or attached thereto shall be considered
+     Confidential Information of Seller and shall be subject to Article 26
+     above.
+
+     29.6.2                  If Buyer, within thirty (30) days after
+     receipt of a ROFR Notice, indicates in writing to Seller its agreement
+     to purchase the LNG Plant to be transferred on the terms stated in
+     such ROFR Notice, Seller shall sell and convey such property to Buyer
+     on the same terms and conditions as set forth in such ROFR Notice,. 
+     If Buyer does not notify Seller of its intent to exercise its right of
+     first refusal within such thirty (30) day period, or if Buyer gives
+     Seller written notification that it does not elect to exercise such
+     right of first refusal, then Seller may transfer the LNG Plant free of
+
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+
+18
+
+------------------------------------------------------------------------
+
+
+ 
+
+                                                     this right of first
+     refusal on the same terms and conditions offered to Buyer as set forth
+     in the ROFR Notice.
+
+     29.6.3                  If Seller does not complete the transfer of
+     the LNG Plant described within the ROFR Notice within sixty (60) days
+     of (i) the expiration of the aforementioned thirty (30) day period or
+     (ii) such earlier date on which Buyer notifies Seller that it does not
+     wish to exercise its right of first refusal, or if Seller intends to
+     transfer the LNG Plant on terms and conditions which are changed or
+     modified from those stated in the ROFR Notice, then the transaction or
+     any further transaction shall be deemed a new determination by Seller
+     to transfer the LNG Plant and the provisions of this Article 29.6
+     shall again be applicable to any proposed transfer.
+
+     29.6.4                  Buyers right of first refusal as provided
+     herein shall be extinguished if and only if Buyer fails to exercise
+     its right to purchase the LNG Plant within the thirty (30) day period
+     provided above and Seller thereafter transfers the LNG Plant to the
+     transferee and on the terms set forth in the ROFR Notice within the
+     sixty (60) day period provided above, and provided the offer from the
+     transferee presented to Buyer in the ROFR Notice was a valid, bona
+     fide and binding third party offer.  Failure by Buyer to respond to
+     any other offer shall in no way extinguish the right granted to Buyer
+     hereunder which shall in such case continue to burden the LNG Plant.
+
+     29.6.5                  As used in this Article 29.6, the term
+     transfer shall be defined to mean any transfer, sale, lease, or
+     other conveyance, whether by agreement for sale or in any other manner
+     except as otherwise provided in the first paragraph of this Article
+     29.6.  A sale of a parent company that holds an interest in NEWCO is
+     not deemed to be a transfer provided that the value of the parent
+     companys interest in NEWCO is less than 25 per cent of the value of
+     the parent company.
+
+     29.6.6                  Buyer shall have the right to record a
+     memorandum of its right of First Refusal in the records of the county
+     where the LNG Plant is located.
+
+     29.7                           Dispute Resolution Procedures.  In the
+     event a dispute arises between the Parties related to this Sales
+     Agreement, the following process shall be followed:
+
+       (a)                  Each Party will designate a senior executive
+       (Designated Representative) to represent it in connection with any
+       dispute that may arise between the Parties (a Party Dispute).  The
+       Designated Representative shall initially be the persons identified
+       in Article 25.1.  Subsequent changes in a Partys Designated
+       Representative shall be communicated according to Article 25.
+
+       (b)                 In the event that a Party Dispute should arise,
+       the Designated Representatives will meet, with their attorneys, if
+       they so agree, within five (5) Business Days after written request
+       by any Party to any other Party (the Dispute Notice) in an effort
+       to resolve the Party Dispute.
+
+       (c)                  If the Designated Representatives are unable to
+       resolve the Party Dispute within twenty (20) Business Days following
+       their first meeting, the Party Dispute will be submitted to
+       non-binding mediation in Dallas, Texas before a mediator made
+       available to the Parties through JAMS.
+
+       (d)                 In the event that the mediation process fails to
+       result in a resolution of the Party Dispute within sixty (60) days
+       following receipt of the Dispute Notice, the Parties may take any
+       action they may deem necessary to protect their interests.
+
+       (e)                  The foregoing provisions of this Article 29.7
+       shall not be construed to prohibit any Party from commencing, at any
+       time prior to the completion of the process described above,
+
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+
+19
+
+------------------------------------------------------------------------
+
+
+         
+
+                                                        any action or
+        proceeding which such Party determines is necessary to protect or
+        preserve any rights or remedies it may have in law or in equity.
+
+ARTICLE 30 INTERPRETATION
+     30.1                           The captions in this Sales Agreement
+     are for convenience of the Parties in identification of the provisions
+     hereof and shall not constitute a part of the agreement nor be
+     considered interpretive thereof. In the consideration and
+     interpretation of this Sales Agreement, the following shall apply:
+
+        (a)                                  This Sales Agreement was
+        prepared jointly by the Parties hereto and not by either Party to
+        the exclusion of the other.
+
+        (b)                                 Failure to exercise any right
+        or rights hereunder shall not be considered a waiver of such right
+        or rights in the future.
+
+ARTICLE 31 PRIOR AGREEMENTS
+     31.1                           This Sales Agreement contains the
+     entire agreement of Buyer and Seller and supersedes all prior
+     understandings or agreements whether oral or written between the
+     Parties, with respect to the matters addressed herein.  This Sales
+     Agreement shall be amended only by an instrument in writing signed by
+     both parties hereto.
+
+ARTICLE 32 TERMINATION
+     32.1                           In the event that Seller has not
+     produced and delivered to Buyer 45,000 Gallons per day for a minimum
+     of 25 consecutive days from the LNG Plant by December 1, 2009, Buyer
+     may terminate this Sales Agreement upon 60 days written notice to
+     Seller.
+
+     32.2                           In the event Seller is unable to
+     complete and start up operations of the LNG Plant by December 1, 2009
+     due to unforeseen circumstances including but not limited to any legal
+     actions, injunctions, or any governmental authorities, Seller may
+     terminate this Sales Agreement upon 60 days written notice to Buyer.
+
+     32.3                           If either Party elects to terminate
+     this Sale Agreement under Article 32.1 or 32.2, neither Party shall be
+     liable to the other Party for any further obligations under this Sales
+     Agreement.
+
+     32.4                           In the event Buyer wishes to terminate
+     this Sales Agreement any time during the Term of this Sales Agreement
+     and make a one time payment to Seller in lieu of continuing Take or
+     Pay payments, Buyer may do so according to the following payment
+     schedule. The one time payment will equal the applicable termination
+     fee set forth below at the time of Sellers receipt of Buyers written
+     notice of its exercise of its termination right pursuant to this
+     Article 32.4 in accordance with the table below.  Buyer will include
+     specific details regarding the rational for Buyers decision to
+     exercise this determination option.
+
+
+Sales Agreement Year
+
+Termination Fee
+ 
+ 
+Effective Date through end of Year 1
+[***]
+Any time during year 2
+[***]
+Any time during year 3
+[***]
+Any time during year 4
+[***]
+Any time during year 5
+[***]
+Any time during year 6
+[***]
+Any time during year 7
+[***]
+Any time during year 8
+[***]
+Any time during year 9
+[***]
+Any time during year 10
+[***]
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+20
+------------------------------------------------------------------------
+
+ 
+     32.5                           In consideration of a payment made in
+     accordance with the foregoing schedule, Seller agrees that without the
+     prior written consent of Buyer, which consent may be withheld in the
+     sole discretion of Buyer, Seller will not, prior to the tenth
+     anniversary of the Effective Date (a) operate, or cause to be
+     operated, the LNG Plant or sell, or cause to be sold, LNG produced by
+     the LNG Plant or (b) sell or lease the LNG Plant to a third party, it
+     being understood and agreed that by virtue of such payment Buyer has
+     in effect paid for the shutdown of the LNG Plant for the remaining
+     term of this Sales Agreement.  Seller may dismantle the LNG Plant and
+     dispose of the components.  Until such time as the Plant may be
+     dismantled and disposed of, Seller agrees to mothball the Plant until
+     the tenth anniversary of the Effective Date of this Agreement, in a
+     manner that it could be restarted to produce LNG in the event Buyer
+     elects at a future date to purchase LNG from the Plant.  In the event
+     Seller wishes to resume LNG production at the Ehrenberg location,
+     Seller shall refund a portion of the Termination Fee which shall be
+     calculated by multiplying the number of years remaining (including the
+     year in which Seller resumes LNG production at the Ehrenberg location)
+     before the tenth anniversary of the Effective Date by [***].  Seller
+     shall have the right to move the Plant to a new location and resume
+     LNG production.  If the LNG produced at the new location competes with
+     Buyers operations, Seller shall refund a portion of the Termination
+     Fee which shall be calculated by multiplying the number of years
+     remaining (including the year in which Seller resumes LNG production
+     at the new location) before the tenth anniversary of the Effective
+     Date by [***].
+
+ARTICLE 33 DAMAGES, FEES AND COSTS
+     33.1                           Except as otherwise expressly provided
+     in this Sales Agreement, the Parties are entitled to recover as their
+     sole and exclusive damages for breach of the price and quantity
+     obligations under this Sales Agreement their actual damages resulting
+     from such breach.
+
+     33.2                           In the event litigation is necessary to
+     resolve a dispute, the prevailing Party shall be entitled to receive
+     reimbursement by the other Party of its attorneys fees and costs of
+     investigation and defense, and shall have the right to recover those
+     fees and costs from the other Party.
+
+ARTICLE 34 MUTUAL WAIVER OF CERTAIN REMEDIES
+     34.1                           EXCEPT AS TO THE PARTIES
+     INDEMNIFICATION OBLIGATIONS WITH RESPECT TO THIRD PARTY CLAIMS SUBJECT
+     TO SUCH OBLIGATIONS AND SUBJECT TO THE TAKE OR PAY OBLIGATIONS OF
+     BUYER SET FORTH IN THIS SALES AGREEMENT, NEITHER PARTY SHALL BE LIABLE
+     OR OTHERWISE RESPONSIBLE TO THE OTHER FOR CONSEQUENTIAL OR INCIDENTAL
+     DAMAGES, FOR LOST PRODUCTION, OR FOR PUNITIVE DAMAGES AS TO ANY ACTION
+     OR OMISSION, WHETHER CHARACTERIZED AS A SALES AGREEMENT BREACH OR TORT
+     OR OTHERWISE, THAT ARISES OUT OF OR RELATES TO THIS SALES AGREEMENT OR
+     ITS PERFORMANCE OR NONPERFORMANCE HEREUNDER.
+
+ARTICLE 35 RELATIONSHIP OF THE PARTIES
+     35.1                           Seller is selling LNG to Buyer. By
+     entering into this Sales Agreement, the Parties do not intend to
+     create an agency, partnership, joint venture, or distributorship
+     relationship.
+
+ARTICLE 36 EXECUTION REQUIRED
+     36.1                           This Sales Agreement shall become
+     effective only upon execution by both Parties hereto.
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+21
+------------------------------------------------------------------------
+
+ 
+ARTICLE 37 WAIVER OF RIGHT TO TRIAL BY JURY
+    EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT
+    PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY
+    IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR
+    RELATING TO THIS SALES AGREEMENT OR ANY OTHER DOCUMENT OR THE
+    TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT,
+    TORT OR ANY OTHER THEORY).  EACH PARTY HERETO (A) CERTIFIES THAT NO
+    REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED,
+    EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT
+    OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B)
+    ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO
+    ENTER INTO THIS SALES AGREEMENT AND THE OTHER DOCUMENTS BY, AMONG OTHER
+    THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS ARTICLE.
+ 
+ 
+
+[Signature page follows.]
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+22
+------------------------------------------------------------------------
+
+ 
+IN WITNESS WHEREOF, the Parties hereto have executed this LNG Sales 
+Agreement as of the day and year first above written.
+
+BUYER:
+CLEAN ENERGY
+ 
+ 
+By:
+ 
+/s/ Mitchell W. Pratt
+Name:
+ 
+Mitchell W. Pratt
+Title:
+ 
+Senior Vice President
+Date:
+ 
+October 17, 2007
+ 
+ 
+ 
+ 
+SELLER:
+SPECTRUM ENERGY SERVICES, LLC
+ 
+ 
+By:
+ 
+/s/ Raymond R. Latchem
+Name:
+ 
+Raymond R. Latchem
+Title:
+ 
+President - Managing Member
+Date:
+ 
+October 17, 2007
+ 
+ 
+Federal I.D. #: 92-0171071
+ 
+     [***]                   Confidential portions of this document have
+     been redacted and filed separately with the Commission.
+
+ 
+23
+------------------------------------------------------------------------
+
+ 
+EXHIBIT A
+ 
+WAIVER OF SOVEREIGN IMMUNITY DEFENSE; CONSENT TO JURISDICTION
+ 
+ 
+To be completed later with the approval of Buyer.
+ 
+     [***]      Confidential portions of this document have been redacted
+     and filed separately with the Commission.
+
+ 
+24
+------------------------------------------------------------------------
+ 
+ 
