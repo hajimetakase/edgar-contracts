@@ -1,0 +1,2387 @@
+ EX-10.2 2 f35573exv10w2.htm EXHIBIT 10.2
+
+
+ 
+
+Exhibit 10.2
+
+
+AMENDED AND RESTATED
+AMB 2005
+NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+TABLE OF CONTENTS
+  	  	  	  	  	  	  	  	 
+  	  	  	  	  	  	Page 	 
+ARTICLE 1. DEFINITIONS 	  	  	1 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	1.1 	  	 Account Balance 	  	  	1 	 
+   
+  	1.2 	  	 Accounts 	  	  	2 	 
+   
+  	1.3 	  	 Administrator 	  	  	2 	 
+   
+  	1.4 	  	 Annual Bonus 	  	  	2 	 
+   
+  	1.5 	  	 Annual Company Contribution Amount 	  	  	2 	 
+   
+  	1.6 	  	 Annual Company Matching Amount 	  	  	2 	 
+   
+  	1.7 	  	 Annual Deferral Amount 	  	  	2 	 
+   
+  	1.8 	  	 Annual Installment Method 	  	  	2 	 
+   
+  	1.9 	  	 Base Annual Salary 	  	  	2 	 
+   
+  	1.10 	  	 Beneficiary 	  	  	2 	 
+   
+  	1.11 	  	 Beneficiary Designation Form 	  	  	3 	 
+   
+  	1.12 	  	 Board 	  	  	3 	 
+   
+  	1.13 	  	 Change in Control 	  	  	3 	 
+   
+  	1.14 	  	 Change in Control Benefits 	  	  	3 	 
+   
+  	1.15 	  	 Claimant 	  	  	3 	 
+   
+  	1.16 	  	 Code 	  	  	3 	 
+   
+  	1.17 	  	 Committee 	  	  	4 	 
+   
+  	1.18 	  	 Company 	  	  	4 	 
+   
+  	1.19 	  	 Company Contribution Account 	  	  	4 	 
+   
+  	1.20 	  	 Company Matching Account 	  	  	4 	 
+   
+  	1.21 	  	 Deduction Limitation 	  	  	4 	 
+   
+  	1.22 	  	 Deferral Account 	  	  	4 	 
+   
+  	1.23 	  	 Director 	  	  	4 	 
+   
+  	1.24 	  	 Directors Fees 	  	  	4 	 
+   
+  	1.25 	  	 Disability 	  	  	4 	 
+   
+  	1.27 	  	 Disability Benefits 	  	  	5 	 
+   
+  	1.28 	  	 Election Form 	  	  	5 	 
+   
+  	1.29 	  	 Employee 	  	  	5 	 
+   
+  	1.30 	  	 Employer(s) 	  	  	5 	 
+   
+  	1.31 	  	 ERISA 	  	  	5 	 
+   
+  	1.32 	  	 Equity Plan 	  	  	5 	 
+   
+  	1.33 	  	 Exchange Act 	  	  	5 	 
+   
+  	1.34 	  	 Fair Market Value 	  	  	5 	 
+   
+  	1.35 	  	 First Plan Year 	  	  	5 	 
+   
+  	1.36 	  	 Fixed Date Payout 	  	  	5 	 
+   
+  	1.37 	  	 Fixed Date Payout Account Balance 	  	  	5 	 
+   
+  	1.38 	  	 401(k) Plan 	  	  	5 	 
+   
+  	1.39 	  	 Measurement Fund 	  	  	5 	 
+   
+  	1.40 	  	 Non-Employee Director 	  	  	6 	 
+   
+  	1.41 	  	 Officer 	  	  	6 	 
+   
+  	1.42 	  	 Participant 	  	  	6 	 
+   
+  	1.43 	  	 Partnership 	  	  	6 	 
+   
+  	1.44 	  	 Plan 	  	  	6 	 
+   
+  	1.45 	  	 Plan Year 	  	  	6 	 
+   
+  	1.46 	  	 Pre-Retirement Survivor Benefits 	  	  	6 	 
+   
+  	1.47 	  	 Quarterly Installment Method 	  	  	6 	 
+   
+  	1.48 	  	 Restricted Stock 	  	  	6 	 
+   
+  	1.49 	  	 Restricted Stock Account 	  	  	6 	 
+   
+  	1.50 	  	 Restricted Stock Amount 	  	  	6 	 
+
+-i-
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	  	  	  	  	 
+   
+  	1.51 	  	Retirement, Retire(s) or Retired 	  	  	7 	 
+   
+  	1.52 	  	Retirement Benefits 	  	  	7 	 
+   
+  	1.53 	  	Rule 16b-3 	  	  	7 	 
+   
+  	1.54 	  	Securities Act 	  	  	7 	 
+   
+  	1.55 	  	Separation from Service 	  	  	7 	 
+   
+  	1.56 	  	Stock 	  	  	8 	 
+   
+  	1.57 	  	Stock Unit 	  	  	8 	 
+   
+  	1.58 	  	Termination Benefits 	  	  	8 	 
+   
+  	1.59 	  	Termination of Employment 	  	  	8 	 
+   
+  	1.60 	  	Trust 	  	  	8 	 
+   
+  	1.61 	  	Unforeseeable Financial Emergency 	  	  	8 	 
+   
+  	1.62 	  	Vesting Date 	  	  	9 	 
+   
+  	1.63 	  	Years of Service 	  	  	9 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 2. SELECTION, ENROLLMENT, ELIGIBILITY 	  	  	9 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	2.1 	  	Selection by Administrator 	  	  	9 	 
+   
+  	2.2 	  	Enrollment Requirements 	  	  	9 	 
+   
+  	2.3 	  	Eligibility Requirements; Commencement of Participation 	  	  	
+9 	 
+   
+  	2.4 	  	Termination of Participation and/or Deferrals 	  	  	9 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 3. DEFERRAL COMMITMENTS/COMPANY CONTRIBUTIONS/CREDITING/TAXES 	  	  	
+10 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	3.1 	  	Election to Defer; Effect of Election Form 	  	  	10 	 
+   
+  	3.2 	  	Redeferral 	  	  	10 	 
+   
+  	3.3 	  	Special Elections During Transition Period 	  	  	11 	 
+   
+  	3.4 	  	Annual Minimum 	  	  	12 	 
+   
+  	3.5 	  	Maximum Deferral 	  	  	12 	 
+   
+  	3.6 	  	Accounts; Crediting of Deferrals 	  	  	12 	 
+   
+  	3.7 	  	Vesting 	  	  	13 	 
+   
+  	3.8 	  	Earnings Credits or Losses 	  	  	13 	 
+   
+  	3.9 	  	Distributions 	  	  	15 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 4. FIXED DATE PAYOUTS 	  	  	15 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	4.1 	  	Fixed Date Payout 	  	  	15 	 
+   
+  	4.2 	  	Other Benefits Take Precedence Over Fixed Date 	  	  	15 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 5. DISTRIBUTIONS 	  	  	15 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	5.1 	  	Retirement Benefit 	  	  	15 	 
+   
+  	5.2 	  	Pre-Retirement Survivor Benefit 	  	  	16 	 
+   
+  	5.3 	  	Termination Benefit 	  	  	16 	 
+   
+  	5.4 	  	Change in Control Benefit 	  	  	16 	 
+   
+  	5.5 	  	Disability Benefit 	  	  	16 	 
+   
+  	5.6 	  	Stock Distributions 	  	  	17 	 
+   
+  	5.7 	  	Delayed Distributions for Employee Participants 	  	  	17 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 6. UNFORESEEABLE FINANCIAL EMERGENCIES 	  	  	17 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	6.1 	  	Withdrawal Payout/Suspensions for Unforeseeable Financial 
+Emergencies 	  	  	17 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 7. BENEFICIARY DESIGNATION 	  	  	17 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	7.1 	  	Beneficiary 	  	  	17 	 
+   
+  	7.2 	  	Beneficiary Designation; Change; Spousal Consent 	  	  	17 	 
+   
+  	7.3 	  	Acknowledgment 	  	  	18 	 
+   
+  	7.4 	  	No Beneficiary Designation 	  	  	18 	 
+   
+  	7.5 	  	Doubt as to Beneficiary 	  	  	18 	 
+
+-ii-
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	  	  	  	  	 
+   
+  	7.6 	  	Discharge of Obligations 	  	  	18 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 8. LEAVE OF ABSENCE 	  	  	18 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	8.1 	  	Paid Leave of Absence 	  	  	18 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 9. TERMINATION, AMENDMENT OR MODIFICATION 	  	  	18 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	9.1 	  	Termination With Respect to Account Balances 	  	  	18 	 
+   
+  	9.2 	  	Amendment 	  	  	18 	 
+   
+  	9.3 	  	Effect of Payment 	  	  	19 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 10. ADMINISTRATION 	  	  	19 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	10.1 	  	Administrator Duties 	  	  	19 	 
+   
+  	10.2 	  	Binding Effect of Decisions 	  	  	19 	 
+   
+  	10.3 	  	Committee 	  	  	19 	 
+   
+  	10.4 	  	Indemnification 	  	  	20 	 
+   
+  	10.5 	  	Employer Information 	  	  	20 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 11. CLAIMS PROCEDURES 	  	  	20 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	11.1 	  	Presentation of Claim 	  	  	20 	 
+   
+  	11.2 	  	Notification of Decision 	  	  	20 	 
+   
+  	11.3 	  	Review of a Denied Claim 	  	  	21 	 
+   
+  	11.4 	  	Decision on Review 	  	  	21 	 
+   
+  	11.5 	  	Designation 	  	  	21 	 
+   
+  	11.6 	  	Arbitration 	  	  	21 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 12. TRUST 	  	  	21 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	12.1 	  	Establishment of the Trust 	  	  	22 	 
+   
+  	12.2 	  	Interrelationship of the Plan and the Trust 	  	  	22 	 
+   
+  	12.3 	  	Investment of Trust Assets 	  	  	22 	 
+   
+  	12.4 	  	Distributions From the Trust 	  	  	22 	 
+   
+  	12.5 	  	Limitations on Stock Distributed from the Trust 	  	  	22 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 13. PROVISIONS RELATING TO SECURITIES LAWS 	  	  	22 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	13.1 	  	Designation of Participants 	  	  	22 	 
+   
+  	13.2 	  	Action by Committee 	  	  	22 	 
+   
+  	13.3 	  	Compliance with Section 16 	  	  	22 	 
+   
+  	13.4 	  	Committee Approval 	  	  	23 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 14. CERTAIN CORPORATE EVENTS 	  	  	23 	 
+   
+  	  	  	  	  	  	  	 
+ARTICLE 15. MISCELLANEOUS 	  	  	23 	 
+   
+  	  	  	  	  	  	  	 
+   
+  	15.1 	  	Status of Plan 	  	  	23 	 
+   
+  	15.2 	  	Unsecured General Creditor 	  	  	24 	 
+   
+  	15.3 	  	Employers Liability 	  	  	24 	 
+   
+  	15.4 	  	Nonassignability 	  	  	24 	 
+   
+  	15.5 	  	Sources of Stock 	  	  	24 	 
+   
+  	15.6 	  	Tax Withholding 	  	  	24 	 
+   
+  	15.7 	  	Coordination with Other Benefits 	  	  	25 	 
+   
+  	15.8 	  	Compliance 	  	  	25 	 
+   
+  	15.9 	  	Not a Contract of Employment 	  	  	25 	 
+   
+  	15.10 	  	Furnishing Information 	  	  	25 	 
+   
+  	15.11 	  	Governing Law 	  	  	25 	 
+   
+  	15.12 	  	Notice 	  	  	25 	 
+   
+  	15.13 	  	Successors 	  	  	26 	 
+   
+  	15.14 	  	Spouses Interest 	  	  	26 	 
+
+-iii-
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	  	  	  	  	 
+   
+  	15.15 	  	Validity 	  	  	26 	 
+   
+  	15.16 	  	Incompetent 	  	  	26 	 
+   
+  	15.17 	  	Court Order 	  	  	26 	 
+   
+  	15.18 	  	Accelerated Distributions, Trust Distributions and Plan 
+Interpretation 	  	  	26 	 
+   
+  	15.19 	  	Insurance 	  	  	27 	 
+   
+  	15.20 	  	Status of Company as a REIT 	  	  	27 	 
+
+-iv-
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+AMENDED AND RESTATED
+
+AMB 2005
+
+
+NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+Purpose
+
+     AMB Property Corporation, a Maryland corporation (the Company) 
+established the AMB Nonqualified Deferred Compensation Plan effective 
+September 1, 1999, as amended and restated September 1, 2002 (the 
+Grandfathered Plan) under which all deferred amounts were vested on or 
+before December 31, 2004 and not subject to Section 409A of the Internal 
+Revenue Code of 1986, as amended (the Code). In order to preserve the 
+exemption from Section 409A of the Code for the Grandfathered Plan, the 
+vested amounts deferred thereunder and the earnings on such vested amounts 
+so deferred, deferrals for amounts vested on or after January 1, 2005 shall 
+no longer be allowed under the Grandfathered Plan.
+
+     The Company previously adopted the AMB 2005 Nonqualified Deferred 
+Compensation Plan for the benefit of a select group of management and 
+highly compensated Employees and Directors who contribute materially to the 
+continued growth, development and future business success of AMB Property, 
+L.P., a Delaware limited partnership (the Partnership), and the Company 
+and its subsidiaries, if any, that sponsor the plan. This plan was intended 
+to comply with the provisions of and the Department of Treasury proposed 
+and final rules, regulations and other guidance promulgated under Section 
+409A of the Code and not result in a penalty tax thereunder. In April 2007, 
+the Department of Treasury issued final regulations pursuant to Section 
+409A of the Code. To conform with the final regulations, the Company hereby 
+amends and restates the AMB 2005 Nonqualified Deferred Compensation Plan 
+(as amended and restated, the Plan). Any deferred amounts under the 
+Grandfathered Plan which were not earned and vested as of December 31, 2004 
+shall automatically transfer to this Plan. This Plan shall be unfunded for 
+tax purposes and for purposes of Title I of ERISA.
+
+     This Plan shall consist of two plans, one for the benefit of a select 
+group of management and highly compensated employees of the Employers as 
+described in Sections 201(2), 301(a)(3) and 401(a)(1) of ERISA, and one for 
+the benefit of Non-Employee members of the boards of directors of any 
+Employer. To the extent required by law, the terms of this Plan applicable 
+to Directors shall also constitute a separate written plan document with 
+its terms set forth in the applicable portions of this Plan.
+
+
+ARTICLE 1.
+DEFINITIONS
+
+     As used within this document, the following words and phrases have the 
+meanings described in this Article 1 unless a different meaning is required 
+by the context. Some of the words and phrases used in the Plan are not 
+defined in this Article 1, but for convenience, are defined as they are 
+introduced into the text. Words in the masculine gender shall be deemed to 
+include the feminine gender. Any headings used are included for ease of 
+reference only and are not to be construed so as to alter any of the terms 
+of the Plan.
+
+     1.1 Account Balance shall mean, with respect to a Participant, a 
+credit on the records of the Employer equal to the sum of (i) the Deferral 
+Account balance, (ii) the vested Company Contribution Account balance, 
+(iii) the vested Company Matching Account balance, and (iv) the Restricted 
+Stock Account balance. The Account Balance, and each other specified 
+account balance, shall be a bookkeeping entry only and shall be utilized 
+solely as a device for the measurement and determination of the amounts to 
+be paid to a Participant, or his or her designated Beneficiary, pursuant to 
+this Plan.
+
+-1-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     1.2 Accounts of a Participant shall mean, as the context indicates, 
+either or all of his or her Deferral Account, Company Contribution Account, 
+Company Matching Account and Restricted Stock Account.
+
+     1.3 Administrator shall mean the Committee appointed pursuant to 
+Article 10 to administer the Plan, or such other person or persons to whom 
+the Committee has delegated its duties pursuant to Article 10.
+
+     1.4 Annual Bonus shall mean any compensation, in addition to Base 
+Annual Salary relating to services performed during any calendar year, 
+whether or not paid in such calendar year or included on the Federal Income 
+Tax Form W-2 for such calendar year, payable to a Participant as an 
+Employee under any Employers annual bonus and cash incentive plans, 
+excluding stock options and restricted stock.
+
+     1.5 Annual Company Contribution Amount shall mean, for any one Plan 
+Year, the amount determined in accordance with Section 3.6(b).
+
+     1.6 Annual Company Matching Amount for any one Plan Year shall be 
+the amount determined in accordance with Section 3.6(c).
+
+     1.7 Annual Deferral Amount shall mean that portion of a 
+Participants Base Annual Salary, Annual Bonus and Directors Fees that a 
+Participant elects to have, and is deferred, in accordance with Article 3, 
+for any one Plan Year. In the event of a Participants Retirement, 
+Disability, death or a Termination of Employment prior to the end of a Plan 
+Year, such years Annual Deferral Amount shall be the actual amount 
+withheld prior to such event.
+
+     1.8 Annual Installment Method shall be an annual installment payment 
+over the number of years selected by the Participant in accordance with 
+this Plan, calculated as follows: The Account Balance of the Participant 
+(or the Fixed Date Payout Account Balance, in the event of a Fixed Date 
+Payout) shall be calculated as of the close of business three business days 
+prior to the last business day of the fourth quarter preceding the 
+distribution. The annual installment shall be calculated by multiplying 
+this balance by a fraction, the numerator of which is one, and the 
+denominator of which is the remaining number of yearly payments due the 
+Participant. By way of example, if the Participant elects a ten year Annual 
+Installment Method, the first payment shall be 1/10 of the Account Balance 
+(or the Fixed Date Payout Account Balance, in the event of a Fixed Date 
+Payout), calculated as described in this definition. The following year, 
+the payment shall be 1/9 of the Account Balance (or the Fixed Date Payout 
+Account Balance, in the event of a Fixed Date Payout), calculated as 
+described in this definition.
+
+     1.9 Base Annual Salary shall mean the annual cash compensation 
+relating to services performed during any calendar year, whether or not 
+paid in such calendar year or included on the Federal Income Tax Form W-2 
+for such calendar year, excluding bonuses, commissions, overtime, fringe 
+benefits, stock options, relocation expenses, incentive payments, 
+non-monetary awards, directors fees and other fees, automobile and other 
+allowances paid to a Participant for employment services rendered (whether 
+or not such allowances are included in the Employees gross income). Base 
+Annual Salary shall be calculated before reduction for compensation 
+voluntarily deferred or contributed by the Participant pursuant to all 
+qualified or non-qualified plans of any Employer and shall be calculated to 
+include amounts not otherwise included in the Participants gross income 
+under Code Sections 125, 132(f), 402(e)(3), 402(h), or 403(b) pursuant to 
+plans established by any Employer; provided, however, that all such amounts 
+will be included in compensation only to the extent that, had there been no 
+such plan, the amount would have been payable in cash to the Employee.
+
+     1.10 Beneficiary shall mean one or more persons, trusts, estates or 
+other entities, designated in accordance with Article 7, that are entitled 
+to receive benefits under this Plan upon the death of a Participant.
+
+-2-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     1.11 Beneficiary Designation Form shall mean the form established 
+from time to time by the Administrator that a Participant completes, signs 
+and returns to the Administrator to designate one or more Beneficiaries.
+
+     1.12 Board shall mean the board of directors of the Company.
+
+     1.13 Change in Control shall mean any of the following events:
+
+     (a) the complete liquidation of the Company or the sale or disposition 
+by the Company of all or substantially all of the Companys assets, or the 
+disposition by the Company of more than fifty percent (50%) of its interest 
+in the Partnership;
+
+     (b) any Person (as defined below) is or becomes the Beneficial Owner 
+(as defined below), directly or indirectly, of securities of the Company 
+representing fifty percent (50%) or more of the combined voting power of 
+the Companys then outstanding securities. For purposes of this definition, 
+(i) the term Person is used as such term is used in Sections 13(d) and 
+14(d) of the Exchange Act; provided, however, that the term shall not 
+include the Company, any trustee or other fiduciary holding securities 
+under an employee benefit plan of the Company, and any corporation owned, 
+directly or indirectly, by the shareholders of the Company, in 
+substantially the same proportions as their ownership of stock of the 
+Company, and (ii) the term Beneficial Owner shall have the meaning given 
+to such term in Rule 13d-3 under the Exchange Act;
+
+     (c) during any period of twelve (12) consecutive months, individuals 
+who at the beginning of such period constitute the Board, and any new 
+director (other than a director designated by a person who has entered into 
+an agreement with the Company to effect a transaction described in clauses 
+(a), (b) or (d)) whose election by the Board or nomination for election by 
+the Companys shareholders was approved by a vote of at least two-thirds 
+(2/3) of the directors then still in office who either were directors at 
+the beginning of the period or whose election or nomination for election 
+was previously so approved, cease for any reason to constitute at least a 
+majority thereof; or
+
+     (d) the consummation of a merger or consolidation of the Company with 
+any other corporation (or other entity); provided, that, a Change in 
+Control shall not be deemed to occur (i) as the result of a merger or 
+consolidation which would result in the voting securities of the Company 
+outstanding immediately prior thereto continuing to represent (either by 
+remaining outstanding or by being converted into voting securities of the 
+surviving entity) more than fifty percent (50%) of the combined voting 
+power of the voting securities of the Company or such surviving entity 
+outstanding immediately after such merger or consolidation or (ii) where 
+more than fifty percent (50%) of the directors of the Company or the 
+surviving entity after such merger or consolidation were directors of the 
+Company immediately before such merger or consolidation.
+
+     Notwithstanding the foregoing, a Change in Control shall be limited to 
+such transactions as constitute a change in the ownership or effective 
+control of the Company or in the ownership of a substantial portion of the 
+assets of the Company within the meaning of Section 409A(a)(2)(A)(v) of the 
+Code and the proposed and final Department of Treasury rules, regulations 
+and other guidance promulgated thereunder,
+
+     1.14 Change in Control Benefits shall mean the benefits set forth in 
+Section 5.4.
+
+     1.15 Claimant shall have the meaning set forth in Section 11.1.
+
+     1.16 Code shall mean the Internal Revenue Code of 1986, as it may be 
+amended from time to time.
+
+-3-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     1.17 Committee shall mean the Compensation Committee of the Board or 
+another committee or subcommittee of the Board appointed to administer the 
+Plan pursuant to Article 10.
+
+     1.18 Company shall mean AMB Property Corporation, a Maryland 
+corporation, and any successor to all or substantially all of the Companys 
+assets or business.
+
+     1.19 Company Contribution Account shall mean (i) the sum of all of a 
+Participants Annual Company Contribution Amounts, plus (ii) amounts 
+credited in accordance with all the applicable crediting provisions of this 
+Plan that relate to the Participants Company Contribution Account, less 
+(iii) all distributions made to the Participant or his or her Beneficiary 
+pursuant to this Plan that relate to the Participants Company Contribution 
+Account.
+
+     1.20 Company Matching Account shall mean (i) the sum of all of a 
+Participants Annual Company Matching Amounts, plus (ii) amounts credited 
+in accordance with all the applicable crediting provisions of this Plan 
+that relate to the Participants Company Matching Account, less (iii) all 
+distributions made to the Participant or his or her Beneficiary pursuant to 
+this Plan that relate to the Participants Company Matching Account.
+
+     1.21 Deduction Limitation shall mean the following described 
+limitation on a benefit that may otherwise be distributable pursuant to the 
+provisions of this Plan. Except as otherwise provided, this limitation 
+shall be applied to all distributions that are subject to the Deduction 
+Limitation under this Plan. If an Employer determines in good faith prior 
+to a Change in Control that there is a reasonable likelihood that any 
+compensation paid to a Participant for a taxable year of the Employer would 
+not be deductible by the Employer solely by reason of the limitation under 
+Code Section 162(m), then to the extent deemed necessary by the Employer to 
+ensure that the entire amount of any distribution to the Participant 
+pursuant to this Plan prior to the Change in Control is deductible, the 
+Employer may defer all or any portion of a distribution under this Plan. 
+Any amounts deferred pursuant to this limitation shall continue to be 
+credited/debited with additional amounts in accordance with Section 3.8 
+below, even if such amount is being paid out in installments. The amounts 
+so deferred and amounts credited thereon shall be distributed to the 
+Participant or his or her Beneficiary (in the event of the Participants 
+death) at the earliest possible date, as determined by the Employer in good 
+faith, on which the deductibility of compensation paid or payable to the 
+Participant for the taxable year of the Employer during which the 
+distribution is made will not be limited by Section 162(m). Notwithstanding 
+anything to the contrary in this Plan, the Deduction Limitation shall not 
+apply to any distributions made after a Change in Control.
+
+     1.22 Deferral Account shall mean (i) the sum of all of a 
+Participants Annual Deferral Amounts, plus (ii) amounts credited in 
+accordance with all the applicable crediting provisions of this Plan that 
+relate to the Participants Deferral Account, less (iii) all distributions 
+made to the Participant or his or her Beneficiary pursuant to this Plan 
+that relate to his or her Deferral Account.
+
+     1.23 Director shall mean any member of the board of directors of the 
+Company.
+
+     1.24 Directors Fees shall mean the annual fees paid by the Company, 
+including retainer fees and meetings fees, as compensation for serving on 
+the board of directors.
+
+     1.25 Disability shall mean that a Participant (a) is unable to 
+engage in any substantial gainful activity by reason of any medically 
+determinable physical or mental impairment that can be expected to result 
+in death or can be expected to last for a continuous period of not less 
+than twelve (12) months, or (b) is, by reason of any medically 
+undeterminable physical or mental impairment that can be expected to result 
+in death or can be expected to result in death or can be expected to last 
+for a continuous period of not less than twelve (12) months, receiving 
+income replacement benefits for a period of not less than three (3) months 
+under an accident or health plan covering employees of such Participants 
+Employer, or (c) is determined to be totally disabled by the Social 
+Security Administration. The existence
+
+-4-
+
+------------------------------------------------------------------------
+
+
+ 
+
+of a Disability under clause (a) and (b) shall be determined by the 
+Administrator on the advice of a physician chosen by the Administrator.
+
+     1.27 Disability Benefits shall mean the benefits set forth in 
+Section 5.5.
+
+     1.28 Election Form shall mean the form established from time to time 
+by the Administrator that a Participant completes, signs and returns to the 
+Administrator to make an election under the Plan.
+
+     1.29 Employee shall mean a person who is an officer and employee of 
+any Employer.
+
+     1.30 Employer(s) shall initially mean AMB Property, L.P., but shall 
+also include the Company and/or any of its subsidiaries (now in existence 
+or hereafter formed or acquired) that have been selected by the Board to 
+participate in the Plan and have adopted the Plan as a sponsor.
+
+     1.31 ERISA shall mean the Employee Retirement Income Security Act of 
+1974, as it may be amended from time to time.
+
+     1.32 Equity Plan shall mean any stock option or other incentive 
+compensation plan which is maintained by the Company or AMB Property, L. P. 
+and which provides for grants of restricted stock.
+
+     1.33 Exchange Act shall mean the Securities Exchange Act of 1934, as 
+amended.
+
+     1.34 Fair Market Value of a share of Stock as of a given date shall 
+be (a) the closing price of a share of Stock on the principal exchange on 
+which shares of Stock are then trading, if any (or as reported on any 
+composite index which includes such principal exchange), on such date, or 
+if shares were not traded on such date, then on the next following date on 
+which a trade occurred, or (b) if Stock is not traded on an exchange but is 
+quoted on NASDAQ or a successor quotation system, the mean between the 
+closing representative bid and asked prices for the Stock on such date as 
+reported by NASDAQ or such successor quotation system; or (c) if Stock is 
+not publicly traded on an exchange and not quoted on NASDAQ or a successor 
+quotation system, the Fair Market Value of a share of Stock as established 
+by the Administrator acting in good faith. In determining the Fair Market 
+Value of the Stock, the Administrator may rely on the closing price as 
+reported in the New York Stock Exchange composite transactions published in 
+the Western Edition of the Wall Street Journal.
+
+     1.35 First Plan Year shall mean the period beginning January 1, 2005 
+and ending December 31, 2005.
+
+     1.36 Fixed Date Payout shall mean the payout set forth in Section 
+4.1.
+
+     1.37 Fixed Date Payout Account Balance shall mean, with respect to a 
+Participant, a credit on the records of the Employer equal to the sum of 
+(i) the amount deferred by the Participant pursuant to an Election Form and 
+with respect to which a Fixed Date Payout was elected, plus (ii) amounts 
+credited or debited in the manner provided in Section 3.8 on such amount. 
+The Fixed Date Payout Account Balance shall be a bookkeeping entry only and 
+shall be utilized solely as a device for the measurement and determination 
+of the amounts to be paid to a Participant, or his or her designated 
+Beneficiary, pursuant to this Plan.
+
+     1.38 401(k) Plan shall mean that certain AMB Property, L.P. Savings 
+and Retirement Plan, effective October 1, 1983, initially adopted by the 
+Companys predecessor-in-interest and as subsequently amended.
+
+     1.39 Measurement Fund shall mean the investment fund or funds 
+selected by the Administrator from time to time.
+
+-5-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     1.40 Non-Employee Director shall mean a Director who is not an 
+Employee of any Employer.
+
+     1.41 Officer shall mean a person who is an officer of the Company 
+and an employee of the Partnership or a U.S. affiliate of the Partnership, 
+as determined by the Administrator in its sole discretion.
+
+     1.42 Participant shall mean (i) an Officer or Director who is 
+subject to United States income tax or (ii) any Employee designated to 
+participate in the Plan by the Administrator and who is subject to United 
+States income tax who (A) elects to participate in the Plan, (B) signs an 
+Election Form and a Beneficiary Designation Form, (C) whose signed Election 
+Form and Beneficiary Designation Form are accepted by the Administrator, 
+and (D) who commences participation in the Plan. A spouse or former spouse 
+of a Participant shall not be treated as a Participant in the Plan or have 
+an account balance under the Plan, even if he or she has an interest in the 
+Participants benefits under the Plan as a result of applicable law or 
+property settlements resulting from legal separation or divorce.
+
+     1.43 Partnership shall mean AMB Property, L.P., a Delaware limited 
+partnership, and any successor to all or substantially all of the 
+Partnerships assets or business.
+
+     1.44 Plan shall mean the AMB 2005 Nonqualified Deferred Compensation 
+Plan, which shall be evidenced by this instrument, as amended from time to 
+time.
+
+     1.45 Plan Year shall mean a period beginning on January 1 of each 
+calendar year and continuing through December 31 of such calendar year.
+
+     1.46 Pre-Retirement Survivor Benefits shall mean the benefits set 
+forth in Sections 5.2.
+
+     1.47 Quarterly Installment Method shall be a quarterly installment 
+payment over the number of quarters selected by the Participant in 
+accordance with this Plan, calculated as follows: The Account Balance of 
+the Participant (or the Fixed Date Payout Account Balance, in the event of 
+a Fixed Date Payout) shall be calculated as of the close of business three 
+business days prior to the last business day of the quarter preceding the 
+distribution. The quarterly installment shall be calculated by multiplying 
+this balance by a fraction, the numerator of which is one, and the 
+denominator of which is the remaining number of quarterly payments due the 
+Participant. By way of example, if the Participant elects a twenty (20) 
+quarter Quarterly Installment Method, the first payment shall be 1/20 of 
+the Account Balance (or the Fixed Date Payout Account Balance, in the event 
+of a Fixed Date Payout), calculated as described in this definition. The 
+following quarter, the payment shall be 1/19 of the Account Balance (or the 
+Fixed Date Payout Account Balance, in the event of a Fixed Date Payout), 
+calculated as described in this definition.
+
+     1.48 Restricted Stock shall mean shares of restricted Stock which 
+are or have been awarded to a Participant under an Equity Plan; provided, 
+however, that Restricted Stock shall not include any restricted Stock 
+granted to a newly-hired Participant after December 15, 2005 in connection 
+with such Participants acceptance or commencement of employment with an 
+Employer.
+
+     1.49 Restricted Stock Account shall mean (i) the sum of the 
+Participants Restricted Stock Amounts, plus (ii) amounts credited/debited 
+in accordance with all the applicable crediting/debiting provisions of this 
+Plan that relate to the Participants Restricted Stock Account, less (iii) 
+all distributions made to the Participant or his or her Beneficiary 
+pursuant to this Plan that relate to the Participants Restricted Stock 
+Account. The Restricted Stock Account balance shall be denominated in Stock 
+Units.
+
+     1.50 Restricted Stock Amount shall mean, for any grant of Restricted 
+Stock, the amount of such Restricted Stock deferred in accordance with 
+Section 3.1(b) of this Plan, calculated using the Fair Market Value of a 
+share of Stock on the day on which such Restricted Stock would otherwise 
+vest, but for the election to defer.
+
+-6-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     1.51 Retirement, Retire(s) or Retired shall mean a Termination 
+of Employment from the Company and all Employers for any reason on or after 
+the earlier of the attainment of (a) age sixty-five (65) or (b) a combined 
+age and Years of Service equaling at least fifty-five (55) with a minimum 
+of ten (10) Years of Service.
+
+     1.52 Retirement Benefits shall mean the benefits set forth in 
+Section 5.1.
+
+     1.53 Rule 16b-3 shall mean that certain Rule 16b-3 under the 
+Exchange Act, as such Rule may be amended from time to time.
+
+     1.54 Securities Act shall mean the Securities Act of 1933, as 
+amended.
+
+     1.55 Separation from Service shall mean, a Participants separation 
+from service with the Company, Partnership and any Employer as a result of 
+the Participants death, Disability, Retirement or other event of 
+termination in which the facts and circumstances indicate that the Employer 
+and Participant reasonably anticipated either that no further services 
+would be performed after a certain date or that the level of bona fide 
+services the Participant would perform after such date would permanently 
+decrease to no more than twenty percent (20%) of the average level of bona 
+fide services performed over the immediately preceding 36-month period (or 
+the full period in which the Participant provided services to the Employer 
+if the Participant has been providing services for less than 36 months), as 
+determined by the Administrator in its sole discretion.
+
+     (a) Facts and circumstances which may be considered in determining 
+whether a Separation of Service occurred, include, without limitation, 
+whether the Participant continues to be treated as an employee for other 
+purposes (such as continuation of salary and participation in employee 
+benefit programs), whether similarly situated service providers have been 
+treated consistently, and whether the Participant is eligible to perform 
+services for, and realistically available to perform services for, other 
+employers in the same line of business.
+
+     (b) In addition, a Separation from Service shall be presumed to occur 
+in the following instances:
+
+  	(i) 	  	if a Participants period of leave exceeds six (6) months and 
+the Participants right to reemployment or service is not provided either 
+by statute or contract, then the Participant is deemed to have experienced 
+a Separation from Service on the first day immediately following such 
+six-month period;
+ 
+  	(ii) 	  	if a Participant continues to provide services to an Employer, 
+the facts and circumstances indicate that the Employer did not intend the 
+Participant to provide more than insignificant services to the Employer; or
+ 
+  	(iii) 	  	the Participant ceases to provide services as an Officer or 
+Employee at an annual rate that is at least equal to twenty percent (20%) 
+of the services rendered, on average, during the immediately preceding 
+three full calendar years of employment (or, if employed less than three 
+years, such lesser period).
+
+     (c) Notwithstanding the foregoing, a Separation from Service shall be 
+presumed not to occur in the following instances:
+
+-7-
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(i) 	  	the mere change in capacity in which the Participant renders 
+service to the Company, the Partnership or any other Employer from an 
+Officer or Employee to Director or vice-versa;
+ 
+  	(ii) 	  	the employment relationship is treated as continuing intact 
+while the Participant is on military leave, sick leave or other bona fide 
+leave of absence (such as temporary employment by the government) if the 
+period of such leave does not exceed six (6) months, or if longer, so long 
+as the individuals right to reemployment or service with the Company or an 
+Employer is provided by either statute or contract; provided that with 
+respect to a disability leave, the employment relationship will be treated 
+as continuing for a period of up to 29 months, unless terminated earlier by 
+the Participant or Employer, regardless of whether the Participant retains 
+a contractual right to reemployment;
+ 
+  	(iii) 	  	where an Officer or Employee continues to provide services to 
+a prior Employer in a capacity other than as an employee and such Officer 
+or Employee is providing services at an annual rate that is fifty percent 
+(50%) or more of the services rendered, on average, during the immediately 
+preceding three full calendar years of employment (or if employed less than 
+three years, such lesser period).
+
+     In determining whether a separation of service has occurred, periods 
+during which the Participant is on an unpaid bona fide leave of absence are 
+disregarded (including for purposes of determining the relevant 36-month 
+period), and periods during which the Participant is on a paid bona fide 
+leave of absence are treated as periods during which the Participant 
+provided services at the level at which the Participant would have been 
+required to perform services to receive the compensation if not on a bona 
+fide leave of absence. A leave of absence constitutes a bona fide leave of 
+absence only if there is a reasonable expectation that the Participant will 
+return to perform services for the Company or Employer.
+
+     Disability leave means leave due to the Participants inability to 
+perform the duties of his or her position or any substantially similar 
+position by reason of any medically determinable physical or mental 
+impairment that can be expected to result in death or can be expected to 
+last for a continuous period of not less than six months.
+
+     1.56 Stock shall mean AMB Property Corporation common stock, $.01 
+par value.
+
+     1.57 Stock Unit shall mean a notational unit representing the right 
+to receive a share of Stock.
+
+     1.58 Termination Benefits shall mean the benefit set forth in 
+Section 5.3.
+
+     1.59 Termination of Employment shall mean the severing of employment 
+with all Employers, or service as a Director of the Company, voluntarily or 
+involuntarily, for any reason other than Disability, death or an authorized 
+leave of absence, which constitutes a Separation from Service with respect 
+to the Company and Employer, as determined by the Administrator in its sole 
+discretion.
+
+     1.60 Trust shall mean one or more trusts established pursuant to 
+that certain Trust Agreement, dated as of May 1, 2002, between the Company 
+and the trustee named therein, as amended from time to time.
+
+     1.61 Unforeseeable Financial Emergency shall mean an unanticipated 
+emergency that is caused by an event beyond the control of the Participant 
+that would result in severe financial hardship to the Participant not 
+covered by insurance, liquidation of other assets (to the extent the 
+liquidation itself will
+
+-8-
+
+------------------------------------------------------------------------
+
+
+ 
+
+not cause severe financial hardship, or cessation of deferrals under this 
+Plan, resulting from (i) a sudden and unexpected illness or accident of the 
+Participant or a dependent (as defined in Section 152(a) of the Code) of 
+the Participant, (ii) a loss of the Participants property due to casualty, 
+or (iii) such other extraordinary and unforeseeable circumstances arising 
+as a result of events beyond the control of the Participant, all as 
+determined in the sole discretion of the Administrator and which 
+constitutes an unforeseeable emergency within the meaning of Section 
+409A(a)(2)(B)(ii) of the Code. For the avoidance of doubt, an Unforeseeable 
+Financial Emergency shall not include, among other things, sending a child 
+to college or purchasing a home.
+
+     1.62 Vesting Date shall mean, with respect to Restricted Stock 
+deferred hereunder, the date on which the last share or tranche of a 
+Restricted Stock award would vest under the terms of the Equity Plan 
+pursuant to which it was issued and the Participants Restricted Stock 
+Agreement but for the election to defer such Restricted Stock (i.e., when a 
+Restricted Stock award fully vests).
+
+     1.63 Years of Service shall mean each twelve (12) month period 
+during which a Participant is employed by an Employer, including, without 
+limitation, service as a Director, whether or not continuous, and including 
+periods commencing prior to the effective date of this Plan; provided, 
+however, that in the case of a Participant whose employment with an 
+Employer or service as a Director has been interrupted by a period of 
+twelve (12) consecutive months or more (a Break in Service), his or her 
+Years of Service prior to such Break in Service shall be disregarded for 
+any purpose under the Plan.
+
+
+ARTICLE 2.
+SELECTION, ENROLLMENT, ELIGIBILITY
+
+     2.1 Selection by Administrator. Participation in the Plan shall be 
+limited to a select group of management and highly compensated Employees 
+and Non-Employee Directors, as determined by the Administrator in its sole 
+discretion. Officers and Non-Employee Directors shall be automatically 
+eligible to participate in the Plan. Subject to the requirements of Article 
+13, from the group described in the first sentence of this Section 2.1, the 
+Administrator shall select, in its sole discretion, additional Employees to 
+participate in the Plan.
+
+     2.2 Enrollment Requirements. As a condition to participation, each 
+Officer, selected Employee or Non-Employee Director shall complete, execute 
+and return to the Administrator an Election Form and a Beneficiary 
+Designation Form. In addition, the Administrator shall establish from time 
+to time such other enrollment requirements as it determines in its sole 
+discretion are necessary.
+
+     2.3 Eligibility Requirements; Commencement of Participation.
+
+     (a) Eligibility; Commencement of Participation. Provided an Officer, 
+Non-Employee Director or Employee selected to participate in the Plan has 
+met all enrollment requirements set forth in this Plan and required by the 
+Administrator, including returning all required documents to the 
+Administrator within the specified time period, that Employee, Officer or 
+Non-Employee Director shall commence participation in the Plan on the day 
+on which his or her Election Form first becomes effective or the date on 
+which a contribution is first credited to his or her Company Contribution 
+Account or Company Matching Account.
+
+     (b) U.S. Payroll Requirement.  Compensation eligible to be deferred 
+under the Plan will only be deferred under a Participants deferral 
+election to the extent a Participant elects to defer compensation paid from 
+the U.S. payroll of the Company, the Partnership or its subsidiaries and is 
+not covered under a non-U.S. retirement plan.
+
+     2.4 Termination of Participation and/or Deferrals. If the 
+Administrator determines in good faith that a Participant no longer 
+qualifies as a member of a select group of management or highly compensated 
+employees, as membership in such group is determined in accordance with 
+Sections 201(2),
+
+-9-
+
+------------------------------------------------------------------------
+
+
+ 
+
+301(a)(3) and 401(a)(1) of ERISA, or as a Non-Employee Director, the 
+Administrator shall have the right, in its sole discretion, to (a) prevent 
+the Participant from making future deferral elections and/or (b) terminate 
+the Participants participation in the Plan.
+
+     2.5 Pre-Existing Elections. All Participant elections in effect as of 
+the effective date of the Plan shall remain in full force and effect until 
+distribution of the amounts deferred thereunder unless changed or cancelled 
+in accordance with Section 3.3 of this Plan.
+
+
+ARTICLE 3.
+DEFERRAL COMMITMENTS/COMPANY CONTRIBUTIONS/CREDITING/TAXES
+
+     3.1 Election to Defer; Effect of Election Form. Subject to the terms 
+and conditions set forth herein and such terms and conditions as the 
+Administrator may determine, Participants may elect to defer Base Annual 
+Salary, Annual Bonus, Directors Fees and Restricted Stock Amounts by timely 
+completing and delivering to the Administrator an Election Form. Subject to 
+the terms and conditions herein, after a Plan Year commences, such deferral 
+election shall be irrevocable and shall continue for the entire Plan Year 
+and subsequent years until its termination upon a Participants Termination 
+of Employment, complete distribution of benefits or amendment pursuant to 
+Section 3.2 or Section 3.3.
+
+     (a) Base Annual Salary, Annual Bonus and/or Directors Fees. Subject to 
+any terms and conditions imposed by the Administrator, Participants may 
+elect to defer, under the Plan, Base Annual Salary, Annual Bonus and/or 
+Directors Fees. For these elections to be valid with respect to deferrals 
+of Base Annual Salary, Annual Bonus and/or Directors Fees, the Election 
+Form must be completed and signed by the Participant, timely delivered to 
+the Administrator no later than December 31 of the year immediately 
+preceding the Plan Year for which the Base Annual Salary, Annual Bonus 
+and/or Director Fees are earned or such earlier date determined and set by 
+the Administrator in its sole discretion, and accepted by the 
+Administrator. If no such Election Form is timely delivered for a Plan 
+Year, the Annual Deferral Amount shall be zero for that Plan Year.
+
+     (b) Restricted Stock. Subject to any terms and conditions imposed by 
+the Administrator, Participants may elect to defer, under the Plan, 
+Restricted Stock Amounts. For an election to defer Restricted Stock Amounts 
+to be valid, the Election Form that designates such Restricted Stock must 
+cover an entire award of Restricted Stock, be completed and signed by the 
+Participant, timely delivered to the Administrator no later than December 
+31 of the year immediately preceding the Plan Year in which such Restricted 
+Stock is to be earned or such earlier date determined and set by the 
+Administrator in its sole discretion, and accepted by the Administrator.
+
+     (c) Dividends. Stock Dividends and Non-Stock Dividends (as defined in 
+Section 3.6(e) below) payable with respect to Stock Units allocated to the 
+Participants Accounts shall be deferred in accordance with the 
+Participants deferral election made in connection with the related 
+deferral of Restricted Stock Amounts.
+
+     3.2 Redeferral. A Participant may annually change his or her Fixed 
+Date Payout (as defined in Section 4.1) election to a subsequent fixed date 
+by submitting a new Election Form to the Administrator, provided, however, 
+that (a) such change (i) must occur at least twelve (12) months prior to 
+the originally elected fixed date, (ii) shall not be given any effect 
+unless a full calendar year would have passed between the date upon which 
+such Election Form is submitted and the originally elected fixed date and 
+(iii) must provide for at least five full calendar years to pass between 
+the originally elected fixed date and the subsequent fixed date designated 
+in such form occurs and (b) the Election Form is accepted by the 
+Administrator in its sole discretion. The Election Form most recently 
+accepted by the Administrator shall govern the payout of the Participants 
+benefits under the plan.
+
+-10-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     3.3 Special Elections During Transition Period.
+
+          (a) Special Elections in 2003, 2004 and 2005 regarding Deferrals
+. In accordance with Internal Revenue Service Notice 2005-1, the proposed 
+regulations under Section 409A of the Code, and in reliance, without 
+limitation, on the transition rules, performance-based compensation rule, 
+and certain forfeitable rights rule, as applicable:
+
+  	(i) 	  	on or before December 31, 2003, Employee Participants were 
+permitted to defer up to 100% of individual tranches of Restricted Stock 
+awards granted prior to December 31, 2004 and vesting January 1, 2005 with 
+a minimum deferral period of three years from the vesting date of such 
+tranche;
+ 
+  	(ii) 	  	on or before December 31, 2004, Employee Participants were 
+permitted to defer up to 100% of individual tranches of Restricted Stock 
+awards granted prior to December 31, 2005 and vesting January 1, 2006 with 
+a minimum deferral period of three years from the vesting date of such 
+tranche;
+ 
+  	(iii) 	  	on or before June 30, 2005, Employee Participants were 
+permitted to defer up to 100% of the Annual Bonus and Restricted Stock to 
+be granted in 2006 for performance in 2005 with a minimum deferral period 
+of three years from January 1, 2006 with respect to the Annual Bonus, and 
+the Vesting Date with respect to the Restricted Stock;
+ 
+  	(iv) 	  	on or before December 31, 2005, Employee Participants were 
+permitted to defer up to 100% of the tranches of Restricted Stock awards 
+granted prior to December 15, 2005 and vesting January 1, 2006 or later and 
+not previously deferred under the Plan with a minimum deferral period of 
+five years from January 1, 2006 for the entire grant;
+ 
+  	(v) 	  	on or before March 15, 2005, Non-Employee Directors were 
+permitted to defer up to 100% of Director Fees for 2005 service with a 
+minimum deferral period of three years in conjunction with transitioning to 
+a new fiscal year for the Board;
+ 
+  	(vi) 	  	on or before May 31, 2004, Non-Employee Directors were 
+permitted to defer up to 100% of the Restricted Stock granted in May 2004 
+with a minimum deferral period of three years from the Vesting Date; and
+ 
+  	(vii) 	  	on or before March 15, 2005, Non-Employee Directors were 
+permitted to defer up to 100% of the Restricted Stock granted in May 2005 
+with a minimum deferral period of 3 years from the grant date.
+
+          (b) Changes and Cancellations During Transition Period. 
+Notwithstanding anything in Sections 3.1, 3.2 or 3.3 to the contrary and 
+without being subject to the requirements in Section 3.2, during the 
+relevant transition rule period prescribed by Internal Revenue Service 
+Notice 2005-1 and the proposed regulations promulgated under Section 409A 
+of the Code:
+
+  	(i) 	  	on or prior to December 31, 2005, a Participant may cancel his 
+or her election with respect to either (x) all amounts he or she deferred 
+on or after January 1, 2005 subject to the Plan, (y) all of the amounts he 
+or she deferred in a 2005 Plan Year election or (z) all of the amounts he 
+or she
+
+-11-
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	deferred in a 2006 Plan Year election; and amounts subject to 
+cancellation are includible in income of the Participant in the calendar 
+year 2005 or, if later, in the taxable year in which the amounts are earned 
+and vested;
+ 
+  	(ii) 	  	on or prior to December 31, 2005, a Participant may change the 
+time and form of distribution of his or her election to an alternative 
+payout period, and
+ 
+  	(iii) 	  	on or prior to December 31, 2006, a Participant may change the 
+time and form of distribution of his or her election to an alternative 
+payout period; provided, however, that no change can be made in 2006 with 
+respect to payments that the Participant would otherwise receive in 2006, 
+or that would cause payments to be made in 2006 that would not otherwise be 
+payable in such year,
+
+provided further, that such Election Form is accepted by the Administrator 
+in its sole discretion.
+
+     3.4 Annual Minimum. For each Plan Year, the annual aggregate minimum 
+deferral amount for each Participant is $5,000. If an election is made for 
+less than such minimum amount, or if no election is made, the amount 
+deferred shall be zero.
+
+     3.5 Maximum Deferral.
+
+     (a) Base Annual Salary, Annual Bonus and Directors Fees. For each Plan 
+Year, a Participant may elect to defer, as his or her Annual Deferral 
+Amount, up to 100% of his or her Base Annual Salary, Annual Bonus and/or 
+Directors Fees.
+
+     (b) Restricted Stock Amounts. A Participant may elect to defer up to 
+100% of his or her Restricted Stock. Restricted Stock Amounts may also be 
+limited by other terms or conditions set forth in the plan or agreement 
+under which such Restricted Stock is granted.
+
+     3.6 Accounts; Crediting of Deferrals. Solely for record keeping 
+purposes, the Administrator shall establish a Deferral Account, a Company 
+Contribution Account, a Company Matching Account and a Restricted Stock 
+Account for each Participant. A Participants Accounts shall be credited 
+with the deferrals made by him or her or on his or her behalf by his or her 
+Employer under this Article 3 and shall be credited (or charged, as the 
+case may be) with the hypothetical or deemed investment earnings and losses 
+determined pursuant to Section 3.8, and charged with distributions made to 
+or with respect to him or her.
+
+     (a) Annual Deferral Amounts. For each Plan Year, the Base Annual 
+Salary portion of the Annual Deferral Amount shall be withheld and credited 
+to the Participants Deferral Account at the time of each regularly 
+scheduled Base Annual Salary payroll in either the percentages or dollar 
+amounts specified by the Participant in the Election Form, as adjusted from 
+time to time for increases and decreases in Base Annual Salary. The Annual 
+Bonus and/or Directors Fees portion of the Annual Deferral Amount shall be 
+withheld and credited to the Participants Deferral Account at the time the 
+Annual Bonus or Directors Fees are or otherwise would be paid to the 
+Participant, whether or not this occurs during the Plan Year itself.
+
+     (b) Annual Company Contribution Amount. For each Plan Year, an 
+Employer, in its sole discretion, may, but is not required to, credit any 
+amount it desires to any Participants Company Contribution Account under 
+this Plan, which amount shall be for that Participant the Annual Company 
+Contribution Amount for that Plan Year. The amount so credited to a
+
+-12-
+
+------------------------------------------------------------------------
+
+
+ 
+
+Participant may be smaller or larger than the amount credited to any other 
+Participant, and the amount credited to any Participant for a Plan Year may 
+be zero, even though one or more other Participants receive an Annual 
+Company Contribution Amount for that Plan Year. The Annual Company 
+Contribution Amount, if any, shall be credited to Participants Company 
+Contribution Accounts on the date declared by the Employer.
+
+     (c) Annual Company Matching Amount. For each Plan Year, an Employer, 
+in its sole discretion, may, but is not required to, credit any amount it 
+desires to any Participants Company Matching Account under this Plan, 
+which amount shall be for that Participant the Annual Company Matching 
+Amount for that Plan Year. The amount so credited to a Participant may be 
+smaller or larger than the amount credited to any other Participant, and 
+the amount credited to any Participant for a Plan Year may be zero, even 
+though one or more other Participants receive an Annual Company 
+Contribution Amount for that Plan Year. The Annual Company Contribution 
+Amount, if any, shall be credited to Participants Company Matching 
+Accounts on the date declared by the Employer.
+
+     (d) Restricted Stock Amounts. Restricted Stock Amounts shall be 
+credited/debited to the Participant on the books of the Employer in 
+connection with such an election on the vesting date of the individual 
+tranche of the award. A Participants Restricted Stock Account shall be 
+credited with that number of Stock Units equal to the quotient obtained by 
+dividing (i) the aggregate amount of the Restricted Stock Amount then 
+vesting and so deferred by (ii) the Fair Market Value of a share of Stock 
+on the vesting date. Participants who elect to defer Restricted Stock 
+Amounts will have no rights as stockholders of the Company with respect to 
+allocations made to their Restricted Stock Accounts other than the right to 
+receive dividend allocations as described in Section 3.6(e).
+
+     (e) Dividends. Stock and Non-Stock Dividends payable with respect to 
+Stock Units allocated to a Participants Accounts may be credited by the 
+Administrator to the Participants Accounts in the form of additional Stock 
+Units or fractional Stock Units as of the date upon which the Company makes 
+such a distribution to its stockholders, as follows:
+
+  	(i) 	  	Each of the Participants Accounts would be credited with an 
+additional number of Stock Units equal to the number of shares of Stock 
+distributable as a dividend with respect to Stock Units credited to such 
+Account (Stock Dividends); and
+ 
+  	(ii) 	  	In the event of a cash dividend or other non-Stock amount 
+distributable with respect to Stock (Non-Stock Dividends), each of the 
+Participants Accounts would be credited with an amount in cash equal to 
+such Non-Stock Dividend. Notwithstanding the foregoing, such cash amounts 
+shall not be credited to a Restricted Stock Account.
+
+     Alternatively, the Administrator, in its discretion, may provide for 
+Stock or Non-Stock Dividends to be credited to a Participants Accounts, 
+including a Participants Deferral Account, in a different manner.
+
+     3.7 Vesting. A Participant shall at all times be 100% vested in his or 
+her Deferral Account, Restricted Stock Account, Company Contribution 
+Account and Company Matching Account.
+
+     3.8 Earnings Credits or Losses. In accordance with, and subject to, 
+the rules and procedures that are established from time to time by the 
+Administrator, in its sole discretion, amounts shall be credited or debited 
+to a Participants Account Balance in accordance with the following rules:
+
+-13-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (a) Election of Measurement Funds. A Participant, in connection with 
+his or her initial deferral election in accordance with Section 3.1 above, 
+shall elect, on the Election Form, one or more Measurement Fund(s) (as 
+described in Section 3.8(c) below) to be used to determine the additional 
+amounts to be credited to his or her Account Balance, unless changed in 
+accordance with the next sentence. The Participant may (but is not required 
+to) elect, by submitting an Election Form to the Administrator that is 
+accepted by the Administrator, to add or delete one or more Measurement 
+Fund(s) to be used to determine the additional amounts to be credited to 
+his or her Account Balance, or to change the portion of his or her Account 
+Balance allocated to each previously or newly elected Measurement Fund. If 
+an election is made in accordance with the previous sentence, it shall 
+become effective as soon as administratively practicable and shall continue 
+thereafter until changed in accordance with the previous sentence. Changes 
+may be made to allocations at any time during the Plan Year, up to a 
+maximum of six (6) changes per Participant per Plan Year.
+
+     (b) Proportionate Allocation. In making any election described in 
+Section 3.8(a) above, the Participant shall specify on the Election Form, 
+in increments of whole percentage points (1%), the percentage of his or her 
+Account Balance to be allocated to a Measurement Fund (as if the 
+Participant was making an investment in that Measurement Fund with that 
+portion of his or her Account Balance).
+
+     (c) Measurement Funds. The Administrator shall from time to time 
+select types of Measurement Funds and specific Measurement Funds for deemed 
+investment designation by Participants for the purpose of crediting 
+additional amounts to his or her Account Balance. As necessary, the 
+Administrator may, in its sole discretion, discontinue, substitute or add a 
+Measurement Fund. The Administrator shall notify the Participants of the 
+types of Measurement Funds and the specific Measurement Funds selected from 
+time to time.
+
+     (d) Crediting or Debiting Method. The performance of each elected 
+Measurement Fund (either positive or negative) will be determined by the 
+Administrator, in its sole discretion, based on the performance of the 
+Measurement Funds themselves. A Participants Account Balance shall be 
+credited or debited as frequently as is administratively feasible, but no 
+less often than quarterly, based on the performance of each Measurement 
+Fund selected by the Participant, as determined by the Administrator in its 
+sole discretion.
+
+     (e) No Actual Investment. Notwithstanding any other provision of this 
+Plan that may be interpreted to the contrary, the Measurement Funds are to 
+be used for measurement purposes only, and a Participants election of any 
+such Measurement Fund, the allocation to his or her Account Balance 
+thereto, the calculation of additional amounts and the crediting or 
+debiting of such amounts to a Participants Account Balance shall not be 
+considered or construed in any manner as an actual investment of his or her 
+Account Balance in any such Measurement Fund. In the event that the Company 
+or the Trustee (as that term is defined in the Trust), in its own 
+discretion, decides to invest funds in any or all of the Measurement Funds, 
+no Participant shall have any rights in or to such investments themselves. 
+Without limiting the foregoing, a Participants Account Balance shall at 
+all times be a bookkeeping entry only and shall not represent any 
+investment made on his or her behalf by the Employer or the Trust; the 
+Participant shall at all times remain an unsecured creditor of the 
+Employers.
+
+     (f) Stock Accounts. Notwithstanding any other provision of this Plan 
+to the contrary Restricted Stock Amounts may not be allocated to any 
+Measurement Fund. A Participants Restricted Stock Account will be credited 
+with any Restricted Stock Amounts deferred pursuant to Section 3.6(d) and 
+any dividends deferred pursuant to Section 3.1(c).
+
+-14-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     3.9 Distributions. Any distribution with respect to a Participants 
+Account Balance shall be charged to the appropriate account as of the date 
+such payment is made by the Employer or the trustee of the Trust which may 
+be established for the Plan.
+
+
+ARTICLE 4.
+FIXED DATE PAYOUTS
+
+     4.1 Fixed Date Payout. In connection with each Election Form, a 
+Participant may irrevocably elect to receive a future Fixed Date Payout 
+from the Plan of his or her Fixed Date Payout Account Balance. Subject to 
+the Deduction Limitation and the other terms and conditions of this Plan, 
+each Fixed Date Payout elected shall be paid out no earlier than the first 
+day of any Plan Year designated by the Participant that is (i) with respect 
+to an Annual Deferral Amount, at least one (1) Plan Year after the Plan 
+Year in which the Annual Deferral Amount is actually deferred or (ii) with 
+respect to a Restricted Stock Amount, the Plan Year of the Vesting Date 
+(the Earliest Fixed Date Payout Date). By way of example, if a one (1) 
+year Fixed Date Payout is elected for Annual Deferral Amounts that are 
+deferred in the Plan Year commencing January 1, 2006, the one (1) year 
+Fixed Date Payout would become payable no earlier than January 1, 2007; 
+and, if a Fixed Date Payout is elected for a Restricted Stock Amount 
+granted on March 1, 2006 with a five (5) year vesting period on January 1 
+of each year, the Fixed Date Payout would become payable no earlier than 
+January 1, 2011. A Participant shall elect on each Election Form on which a 
+Fixed Date Payout is elected to receive the Fixed Date Payout Account 
+Balance applicable to such election in a lump sum or pursuant to a 
+Quarterly or Annual Installment Method over a period of up to ten (10) 
+years, payable in the first (1st) week of January, April, July, and 
+October, as applicable. If a Participant does not elect to have his or her 
+Fixed Date Payout Account Balance paid in accordance with the Quarterly or 
+Annual Installment Method, then such benefit shall be payable in a lump 
+sum. The lump sum payment shall be made no later than sixty (60) days after 
+the last day of any Plan Year designated by the Participant that is after 
+the Earliest Fixed Date Payout Date. Any payment made shall be subject to 
+the Deduction Limitation.
+
+     4.2 Other Benefits Take Precedence Over Fixed Date. Should an event 
+occur that triggers a benefit under Article 5 or 6, any Annual Deferral 
+Amount or Restricted Stock Amount, plus amounts credited or debited 
+thereon, that is subject to a Fixed Date Payout election under Section 4.1 
+shall not be paid in accordance with Section 4.1 but shall be paid in 
+accordance with the other applicable Article.
+
+
+ARTICLE 5.
+DISTRIBUTIONS
+
+     5.1 Retirement Benefit.
+
+     (a) Retirement Benefit. A Participant who Retires, shall receive, as a 
+Retirement Benefit, his or her vested Account Balance. A Participant, in 
+connection with his or her commencement of participation in the Plan, shall 
+elect on an Election Form to receive the Retirement Benefit in a lump sum 
+or pursuant to a Quarterly or Annual Installment Method over a period of up 
+to ten (10) years, payable in the first (1st) week of January, April, July, 
+and October, as applicable. If a Participant does not make any election 
+with respect to the payment of the Retirement Benefit, then such benefit 
+shall be payable in a lump sum. The lump sum payment shall be made, or 
+installment payments shall commence, no later than the later of (i) 
+December 31 of the calendar year during which the Participant Retires or 
+(ii) the fifteenth (15th) day of the third (3rd) month following the date 
+of such Retirement.
+
+     (b) Death Prior to Completion of Retirement Benefit or Termination 
+Benefit. If a Participant dies after Retirement but before the Retirement 
+Benefit due under this Section 5.1 is paid in full or after a Termination 
+of Employment but before the Termination Benefit under Section 5.3 is paid 
+in full, the Participants unpaid Retirement Benefit under this Section 5.1 
+or Termination Benefit under Section 5.3 shall be paid to the Participants 
+Beneficiary over the
+
+-15-
+
+------------------------------------------------------------------------
+
+
+ 
+
+remaining number of months and in the same amounts as such Retirement 
+Benefit or Termination Benefit would have been paid to the Participant had 
+the Participant survived.
+
+     5.2 Pre-Retirement Survivor Benefit. A Participants Beneficiary shall 
+receive a Pre-Retirement Survivor Benefit equal to the Participants vested 
+Account Balance if the Participant dies before he or she experiences a 
+Termination of Employment or suffers a Disability. The Pre-Retirement 
+Survivor Benefit shall be paid to the Participants Beneficiary (a) if a 
+Fixed Date Payout has not commenced prior to Participants death, 
+commencing no later than the later of (i) December 31 of the calendar year 
+during which the Participant died or (ii) the fifteenth (15th) day of the 
+third (3rd) month following the Participants death, and being paid in a 
+lump sum, if so elected by Participant, or in installment payments, if so 
+elected by Participant, over the number of months and in the same amounts 
+as that benefit would have been paid to the Participant had the Participant 
+survived, and (b) if a Fixed Date Payout has commenced prior to 
+Participants death, over the remaining number of months and in the same 
+amounts as that benefit would have been paid to the Participant had the 
+Participant survived.
+
+     5.3 Termination Benefit. A Participant shall receive a Termination 
+Benefit, which shall be equal to the Participants vested Account Balance 
+if a Participant experiences a Termination of Employment prior to his or 
+her Retirement, death or Disability. A Participants Termination Benefit 
+shall be paid in a lump sum; except that if the Participant is a 
+Non-Employee Director such Participant may elect on an Election Form 
+pursuant to Section 3.1 above to receive the Termination Benefit in a lump 
+sum or pursuant to a Quarterly or Annual Installment Method over a period 
+of up to ten (10) years, payable in the first (1st) week of January, April, 
+July and October, as applicable; however, if no such election is made with 
+respect to the payment of the Termination Benefit, then such benefit shall 
+be payable in a lump sum. The lump sum payment shall be made, or 
+installment payments shall commence, no later than the later of (i) 
+December 31 of the calendar year during which the Participants Termination 
+of Employment occurred or (ii) the fifteenth (15th) day of the third (3rd) 
+month following the Participants Termination of Employment.
+
+     5.4 Change in Control Benefit.
+
+     (a) Change in Control Benefit. A Participant shall receive a Change in 
+Control Benefit, which shall be equal to the Participants vested Account 
+Balance in the event of a Change in Control. A Participants Change in 
+Control Benefit due under this Section 5.4 shall be paid in a lump sum. The 
+lump sum payment shall be made as soon as administratively practicable upon 
+the Change in Control but in no event later than the later of (i) December 
+31 of the calendar year during which the Change in Control occurs or (ii) 
+the fifteenth (15th) day of third (3rd) month following the date of such 
+Change in Control.
+
+     (b) Change in Control Benefit to Take Precedence Over Other Benefits. 
+Should an event occur that triggers a Change in Control Benefit under this 
+Section 5.4, any Annual Deferral Amount, plus amounts credited or debited 
+thereon, that is subject to an existing payout under Section 4.1 shall not 
+be paid in accordance with such Article but shall be paid in accordance 
+with this Section 5.4.
+
+     5.5 Disability Benefit. The Participant shall receive a Disability 
+Benefit, which shall be equal to the Participants vested Account Balance 
+in the event of the Participants Disability, as determined by the 
+Administrator. Payment of a Participants Disability Benefit under this 
+Section 5.5 shall be paid in a lump sum. If a Participants Disability 
+occurs after Retirement or after a Termination of Employment but before the 
+Retirement Benefit under Section 5.1 or the Termination Benefit under 
+Section 5.3 is paid in full, the Participants unpaid Retirement Benefit 
+under Section 5.1 or Termination Benefit under Section 5.3 shall continue 
+and shall be paid to the Participant over the remaining number of
+
+-16-
+
+------------------------------------------------------------------------
+
+
+ 
+
+months and in the same amounts as such Retirement Benefit or such 
+Termination Benefit would have been paid to the Participant had the 
+Participant survived.
+
+     5.6 Stock Distributions. All Account Balance distributions from a 
+Participants Restricted Stock Account shall be in the form of whole shares 
+of Stock equivalent to the whole Stock Units credited to the Participants 
+Restricted Stock Account. Distributions in respect of fractional Stock 
+Units shall be made in cash. In the case of any Quarterly or Annual 
+Installment Method, the precise number of shares delivered in each 
+installment shall be determined in such a manner as to cause each 
+installment to be essentially equal based on the Stock Units credited to 
+the Participants accounts as of the date of the first installment, 
+including dividend equivalents credited prior to that date. Dividend 
+equivalents credited to a Participants Restricted Stock Account after the 
+date of the first installment will be distributed as part of the final 
+installment. Any fractional Stock Units remaining at the time of the final 
+installment distribution shall be payable in cash.
+
+     5.7 Delayed Distributions for Employee Participants. Notwithstanding 
+any provision of this Plan to the contrary, upon the Termination of 
+Employment or Retirement of a Participant who is an Officer or Employee for 
+any reason other than death or Disability, any Account Balance distribution 
+that otherwise would be paid to Participant during the period of time 
+beginning with such Termination of Employment or Retirement and ending six 
+months thereafter shall not be paid during such six-month period but shall 
+be delayed and instead paid in a lump sum as soon as administratively 
+practicable following such six-month delay period. There shall be no such 
+six-month delay period in the event of and any six-month delay period which 
+has already commenced shall terminate immediately upon (i) the 
+Participants death or Disability or (ii) a Change in Control. For the 
+avoidance of doubt, any Quarterly or Annual Installment Method payments due 
+to Participant after any such delay period shall not be accelerated by 
+application of this Section 5.7 and may only be accelerated to the extent 
+such acceleration is provided for in another Plan provision.
+
+
+ARTICLE 6.
+UNFORESEEABLE FINANCIAL EMERGENCIES
+
+     6.1 Withdrawal Payout/Suspensions for Unforeseeable Financial 
+Emergencies. If a Participant experiences an Unforeseeable Financial 
+Emergency, the Participant may petition the Administrator to (i) suspend 
+any deferrals required to be made by a Participant and/or (ii) receive a 
+partial or full payout from the Plan. The payout shall not exceed the 
+lesser of the Participants vested Account Balance, calculated as if such 
+Participant were receiving a Termination Benefit under Section 5.3, or the 
+amount reasonably needed to satisfy the Unforeseeable Financial Emergency. 
+If, subject to the sole discretion of the Administrator, the petition for a 
+suspension and/or payout is approved, suspension shall take effect upon the 
+date of approval and any payout shall be made within sixty (60) days of the 
+date of approval but in no event shall any payout be made following the 
+later of (a) December 31 of the calendar year during which the 
+Unforeseeable Financial Emergency occurs and (b) the fifteenth (15th) day 
+of the third (3rd) month following the date of such Unforeseeable Financial 
+Emergency. The payment of any amount under this Section 6.1 shall not be 
+subject to the Deduction Limitation.
+
+
+ARTICLE 7.
+BENEFICIARY DESIGNATION
+
+     7.1 Beneficiary. Each Participant shall have the right, at any time, 
+to designate his or her Beneficiary(ies) (both primary as well as 
+contingent) to receive any benefits payable under the Plan to a beneficiary 
+upon the death of a Participant. The Beneficiary designated under this Plan 
+may be the same as or different from the Beneficiary designation under any 
+other plan of an Employer in which the Participant participates.
+
+     7.2 Beneficiary Designation; Change; Spousal Consent. A Participant 
+shall designate his or her Beneficiary by completing and signing the 
+Beneficiary Designation Form, and returning it to the
+
+-17-
+
+------------------------------------------------------------------------
+
+
+ 
+
+Administrator or its designated agent. A Participant shall have the right 
+to change a Beneficiary by completing, signing and otherwise complying with 
+the terms of the Beneficiary Designation Form and the Administrators rules 
+and procedures, as in effect from time to time. Upon the acceptance by the 
+Administrator of a new Beneficiary Designation Form, all Beneficiary 
+designations previously filed shall be canceled. The Administrator shall be 
+entitled to rely on the last Beneficiary Designation Form filed by the 
+Participant and accepted by the Administrator prior to his or her death.
+
+     7.3 Acknowledgment. No designation or change in designation of a 
+Beneficiary shall be effective until received and acknowledged in writing 
+by the Administrator or its designated agent.
+
+     7.4 No Beneficiary Designation. If a Participant fails to designate a 
+Beneficiary as provided in Sections 7.1, 7.2 and 7.3 above or, if all 
+designated Beneficiaries predecease the Participant or die prior to 
+complete distribution of the Participants benefits, then the Participants 
+designated Beneficiary shall be deemed to be his or her surviving spouse. 
+If the Participant has no surviving spouse, the benefits remaining under 
+the Plan to be paid to a Beneficiary shall be payable to the executor or 
+personal representative of the Participants estate.
+
+     7.5 Doubt as to Beneficiary. If the Administrator has any doubt as to 
+the proper Beneficiary to receive payments pursuant to this Plan, the 
+Administrator shall have the right, exercisable in its discretion, to cause 
+the Participants Employer to withhold such payments until this matter is 
+resolved to the Administrators satisfaction.
+
+     7.6 Discharge of Obligations. The payment of benefits under the Plan 
+to a Beneficiary shall fully and completely discharge all Employers and the 
+Administrator from all further obligations under this Plan with respect to 
+the Participant, and that Participants Election Form shall terminate upon 
+such full payment of benefits.
+
+
+ARTICLE 8.
+LEAVE OF ABSENCE
+
+     8.1 Paid Leave of Absence. If a Participant is authorized by the 
+Participants Employer for any reason to take a paid leave of absence from 
+the employment of the Employer, the Participant shall continue to be 
+considered employed by the Employer and the Annual Deferral Amount shall 
+continue to be withheld during such paid leave of absence in accordance 
+with Section 3.6.
+
+
+ARTICLE 9.
+TERMINATION, AMENDMENT OR MODIFICATION
+
+     9.1 Termination With Respect to Account Balances. The Plan shall not 
+terminate with respect to Account Balances and any Employers, except in a 
+manner that complies with Section 409A of the Code and the proposed and 
+final Department of Treasury rules, regulations and other guidance 
+promulgated thereunder. Upon a termination of the Plan with respect to 
+Account Balances that complies with Section 409A of the Code, each 
+Participant shall be entitled to receive his or her Account Balance in a 
+lump sum payment as soon as practicable following the first date such 
+payment can be made in compliance with Section 409A of the Code but in no 
+event following the last date such payment can be made in compliance with 
+Section 409A of the Code. During the period of time between the date the 
+Plan is terminated with respect to Account Balances and the date of such 
+payment, Account Balance distributions, including those under a Quarterly 
+or Annual Installment Method, which otherwise would be made pursuant to the 
+Plan shall be made without regard to such termination.
+
+     9.2 Amendment. An Employer may, at any time, amend or modify the Plan 
+in whole or in part with respect to that Employer by the action of its 
+board of directors, compensation committee of its board of directors or 
+similar governing body; provided, however, that no amendment or 
+modification shall be effective to decrease or restrict the value of a 
+Participants Account Balance in existence at the time the
+
+-18-
+
+------------------------------------------------------------------------
+
+
+ 
+
+amendment or modification is made, calculated as if the Participant had 
+experienced a Termination of Employment as of the effective date of the 
+amendment or modification or, if the amendment or modification occurs after 
+the date upon which the Participant was eligible to Retire, the Participant 
+had Retired as of the effective date of the amendment or modification. The 
+amendment or modification of the Plan shall not affect any Participant or 
+Beneficiary who has become entitled to the payment of benefits under the 
+Plan as of the date of the amendment or modification.
+
+     9.3 Effect of Payment. The full payment of the applicable benefit 
+under Article 4 of the Plan or under Articles 5 and 6 of the Plan shall 
+completely discharge all obligations to a Participant and his or her 
+designated Beneficiaries under this Plan and the Participants Plan 
+Agreement shall terminate.
+
+
+ARTICLE 10.
+ADMINISTRATION
+
+     10.1 Administrator Duties. The Committee appointed pursuant to Section 
+10.3 shall be the Administrator and shall conduct the general 
+administration of the Plan in accordance with the Plan and shall have all 
+the necessary power and authority to carry out that function. Members of 
+the Administrator may be Participants under this Plan. Any individual 
+serving on the Administrator who is a Participant shall not vote or act on 
+any matter relating solely to himself or herself. Among the Committees 
+necessary powers and duties are the following:
+
+     (a) Except to the extent provided otherwise by Article 13, to delegate 
+all or part of its function as Administrator to others and to revoke any 
+such delegation.
+
+     (b) To determine questions of eligibility of Participants and their 
+entitlement to benefits, subject to the provisions of Articles 11 and 13.
+
+     (c) To select and engage attorneys, accountants, actuaries, trustees, 
+appraisers, brokers, consultants, administrators, physicians or other 
+persons to render service or advice with regard to any responsibility the 
+Administrator has under the Plan, or otherwise, to designate such persons 
+to carry out fiduciary responsibilities (other than trustee 
+responsibilities) under the Plan, and (with the Committee, the Employers 
+and their officers, directors, trustees and Employees) to rely upon the 
+advice, opinions or valuations of any such persons, to the extent permitted 
+by law, being fully protected in acting or relying thereon in good faith.
+
+     (d) To interpret the Plan for purpose of the administration and 
+application of the Plan, in a manner not inconsistent with the Plan or 
+applicable law and to amend or revoke any such interpretation.
+
+     (e) To conduct claims procedures as provided in Article 11.
+
+     10.2 Binding Effect of Decisions. The decision or action of the 
+Administrator with respect to any question arising out of or in connection 
+with the administration, interpretation and application of the Plan, 
+Section 409A of the Code and the proposed and final Department of Treasury 
+rules, regulations and other guidance promulgated thereunder shall be final 
+and conclusive and binding upon all persons having any interest in the 
+Plan.
+
+     10.3 Committee. The Committee shall consist solely of two or more 
+Non-Employee Directors appointed by and holding office at the pleasure of 
+the Board, each of whom is both a non-employee director as defined by 
+Rule 16b-3 and an outside director for purposes of Section 162(m) of the 
+Code. Appointment of Committee members shall be effective upon acceptance 
+of appointment. Committee members may resign at any time by delivering 
+written notice to the Board. Vacancies in the Committee may be filled by 
+the Board.
+
+-19-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     10.4 Indemnification. All Employers shall indemnify and hold harmless 
+any of their officers, Directors, Committee members or Employees who are 
+involved in the administration of the Plan against any and all claims, 
+losses, damages, expenses or liabilities arising out of the good faith 
+performance of their administrative functions.
+
+     10.5 Employer Information. To enable the Administrator to perform its 
+functions, each Employer shall supply full and timely information to the 
+Administrator on all matters relating to the compensation of its 
+Participants, the date and circumstances of the Retirement, Disability, 
+death or Termination of Employment of its Participants, and such other 
+pertinent information as the Administrator may reasonably require.
+
+
+ARTICLE 11.
+CLAIMS PROCEDURES
+
+     11.1 Presentation of Claim. Any Participant or Beneficiary of a 
+deceased Participant (such Participant or Beneficiary being referred to 
+below as a Claimant) may deliver to the Administrator a written claim for 
+a determination with respect to the amounts distributable to such Claimant 
+from the Plan. If such a claim relates to the contents of a notice received 
+by the Claimant, the claim must be made within sixty (60) days after such 
+notice was received by the Claimant. All other claims must be made within 
+one hundred eighty (180) days of the date on which the event that caused 
+the claim to arise occurred. The claim must state with particularity the 
+determination desired by the Claimant.
+
+     11.2 Notification of Decision. The Administrator shall consider a 
+Claimants claim within a reasonable time, and shall notify the Claimant in 
+writing:
+
+     (a) that the Claimants requested determination has been made, and 
+that the claim has been allowed in full; or
+
+     (b) that the Administrator has reached a conclusion contrary, in whole 
+or in part, to the Claimants requested determination, and such notice must 
+set forth in a manner calculated to be understood by the Claimant:
+
+  	(i) 	  	the specific reason(s) for the denial of the claim, or any part 
+of it;
+ 
+  	(ii) 	  	specific reference(s) to pertinent provisions of the Plan upon 
+which such denial was based;
+ 
+  	(iii) 	  	a description of any additional material or information 
+necessary for the Claimant to perfect the claim, and an explanation of why 
+such material or information is necessary; and
+ 
+  	(iv) 	  	appropriate information as to the steps to be taken if the 
+Claimant wishes to submit his or her claim for review pursuant to the claim 
+review procedure set forth in Section 11.3 below, including the time limits 
+applicable to such procedures, and a statement of the Claimants right to 
+bring a civil action under Section 502(a) of ERISA following an adverse 
+decision upon review.
+
+     Any notice pursuant to this Section 11.2 shall be given within a 
+reasonable period of time but no later than ninety (90) days after the 
+claim is filed, unless special circumstances require an extension of time 
+for processing the claim. If such extension is required, written notice 
+shall be furnished to the Claimant within ninety (90) days of the date the 
+claim was filed stating the special circumstances requiring an extension of 
+time and the date by which a decision on the claim can be expected, which 
+shall be no more than one hundred eighty (180) days from the date the claim 
+was filed.
+
+-20-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     11.3 Review of a Denied Claim. Within sixty (60) days after receiving 
+a notice from the Administrator that a claim has been denied, in whole or 
+in part, a Claimant (or the Claimants duly authorized representative) may 
+file with the Administrator a written request for a review of the denial of 
+the claim specifying in detail each of Claimants contentions, the grounds 
+on which each is based, all facts in support of the request, and any other 
+matters which the Claimant deems pertinent. The Claimant (or the Claimants 
+duly authorized representative):
+
+     (a) may review and/or copy free of charge pertinent documents, records 
+and other information relevant to the Claimants claim;
+
+     (b) may submit issues, written comments or other documents, records or 
+other information relating to the claim; and/or
+
+     (c) may request a hearing, which the Administrator, in its sole 
+discretion, may grant.
+
+     Any such review by the Administrator shall take into account all 
+comments, documents, records and other information submitted by the 
+Claimant relating to the claim, without regard to whether such information 
+was submitted or considered in the initial claim determination.
+
+     11.4 Decision on Review. The Administrator shall render its decision 
+on review promptly, and not later than sixty (60) days after the filing of 
+a written request for review of the denial, unless a hearing is held or 
+other special circumstances require additional time, in which case the 
+Administrators decision must be rendered within one hundred twenty (120) 
+days after such date. Such decision must be written in a manner calculated 
+to be understood by the Claimant, and it must contain:
+
+     (a) specific reasons for the decision;
+
+     (b) specific reference(s) to the pertinent Plan provisions upon which 
+the decision was based; and
+
+     (c) a statement that the Claimant is entitled to receive upon request 
+and free of charge reasonable access to and copies of all documents, 
+records and other information relevant to the Claimants claim for 
+benefits;
+
+     (d) a statement of the Claimants right to bring an action under 
+Section 502(a) of ERISA; and
+
+     (e) such other matters as the Administrator deems relevant.
+
+     11.5 Designation. The Administrator may designate any other person of 
+its choosing to make any determination otherwise required under this 
+Article.
+
+     11.6 Arbitration. A Claimant whose appeal has been denied under 
+Section 11.4 shall have the right to submit said claim to final and binding 
+arbitration in the state of California pursuant to the rules of the 
+American Arbitration Association. Any such requests for arbitration must be 
+filed by written demand to the American Arbitration Association within 
+sixty (60) days after receipt of the decision regarding the appeal. The 
+costs and expenses of arbitration, including the fees of the arbitrators, 
+shall be borne by the losing party. The prevailing party shall recover as 
+expenses all reasonable attorneys fees incurred by it in connection with 
+the arbitration proceeding or any appeals therefrom.
+
+
+ARTICLE 12.
+TRUST
+
+-21-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     12.1 Establishment of the Trust. The Company and the Partnership shall 
+establish the Trust, and each Employer shall at least annually transfer 
+over to the Trust such assets as the Employer determines, in its sole 
+discretion, are necessary to provide, on a present value basis, for its 
+respective future liabilities created with respect to the Account Balances 
+for such Employers Participants for all periods prior to the transfer, as 
+well as any debits and credits to the Participants Account Balances for 
+all periods prior to the transfer, taking into consideration the value of 
+the assets in the trust at the time of the transfer.
+
+     12.2 Interrelationship of the Plan and the Trust. The provisions of 
+the Plan shall govern the rights of a Participant to receive distributions 
+pursuant to the Plan. The provisions of the Trust shall govern the rights 
+of the Employers, Participants and the creditors of the Employers to the 
+assets transferred to the Trust. Each Employer shall at all times remain 
+liable to carry out its obligations under the Plan.
+
+     12.3 Investment of Trust Assets. The Trustee of the Trust shall be 
+authorized, upon written instructions received from the Administrator or 
+investment manager appointed by the Administrator, to invest and reinvest 
+the assets of the Trust in accordance with the applicable Trust Agreement, 
+including the disposition of Stock and reinvestment of the proceeds in one 
+or more investment vehicles designated by the Administrator.
+
+     12.4 Distributions From the Trust. Each Employers obligations under 
+the Plan may be satisfied with Trust assets distributed pursuant to the 
+terms of the Trust, and any such distribution shall reduce the Employers 
+obligations under this Plan.
+
+     12.5 Limitations on Stock Distributed from the Trust.
+
+     (a) Distribution Limit. Notwithstanding anything to the contrary in 
+this Plan, no contribution of Stock to or distribution of Stock from the 
+Trust shall be made to the extent that such contribution or distribution 
+could impair the Companys status as a real estate investment trust, within 
+the meaning of Sections 856 through 860 of the Code, as determined by the 
+Company, in its sole discretion.
+
+     (b) Reduction of Distributions. If necessary, the Administrator may 
+reduce the amount of any Stock and/or Stock Units to be distributed under 
+the Plan (in which case, such Stock and/or Stock Units will be distributed 
+to the Participant in a manner determined by the Administrator to comply 
+with the distribution limit, if any, under Section 12.5(a).
+
+
+ARTICLE 13.
+PROVISIONS RELATING TO SECURITIES LAWS
+
+     13.1 Designation of Participants. With respect to any Employee or 
+Non-Employee Director who is then subject to Section 16 of the Exchange 
+Act, only the Committee may designate such Employee or Non-Employee 
+Director as a Participant in the Plan.
+
+     13.2 Action by Committee. With respect to any Participant who is then 
+subject to Section 16 of the Exchange Act, any function of the 
+Administrator under the Plan relating to such Participant shall be 
+performed solely by the Committee, if and to the extent required to ensure 
+the availability of an exemption under Section 16 of the Exchange Act for 
+any transaction relating to such Participant under the Plan.
+
+     13.3 Compliance with Section 16. Notwithstanding any other provision 
+of the Plan or any rule, instruction, election form or other form, the Plan 
+and any such rule, instruction or form shall be subject to any additional 
+conditions or limitations set forth in any applicable exemptive rule under 
+Section 16 of the Exchange Act (including any amendment to Rule 16b-3) that 
+are requirements for the
+
+-22-
+
+------------------------------------------------------------------------
+
+
+ 
+
+application of such exemptive rule. To the extent permitted by applicable 
+law, such provision, rule, instruction or form shall be deemed amended to 
+the extent necessary to conform to such applicable exemptive rule.
+
+     13.4 Committee Approval. In order to ensure compliance with all 
+applicable laws, the Committee, in its discretion, may require that any 
+transactions by any Participant related to Stock must be pre-approved by 
+the Committee.
+
+
+ARTICLE 14.
+CERTAIN CORPORATE EVENTS
+
+     In the event that the Administrator determines that any dividend or 
+other distribution (whether in the form of cash, Stock, other securities, 
+or other property), recapitalization, reclassification, stock split, 
+reverse stock split, reorganization, merger, consolidation, split-up, 
+spin-off, combination, repurchase, liquidation, dissolution, or sale, 
+transfer, exchange or other disposition of all or substantially all of the 
+assets of the Company, or exchange of Stock or other securities of the 
+Company, issuance of warrants or other rights to purchase Stock or other 
+securities of the Company, or other similar corporate transaction or event, 
+in the Administrators sole discretion, affects the Stock such that an 
+adjustment is determined by the Administrator to be appropriate in order to 
+prevent dilution or enlargement of the benefits or potential benefits 
+intended to be made available under the Plan or with respect to any Account 
+under the Plan, then the Administrator shall, in such manner as it may deem 
+equitable, adjust the number and/or kind of shares of Stock (or other 
+securities or property) credited to Participants Accounts.
+
+     In the event of any transaction or event described in the preceding 
+paragraph or any unusual or nonrecurring transactions or events affecting 
+the Company, any affiliate of the Company, or the financial statements of 
+the Company or any affiliate, or of changes in applicable laws, 
+regulations, or accounting principles, the Administrator, in its sole and 
+absolute discretion and on such terms and conditions as it deems 
+appropriate, by action taken prior to the occurrence of such transaction or 
+event, is hereby authorized to take any one or more of the following 
+actions whenever the Administrator determines that such action is 
+appropriate in order to prevent dilution or enlargement of the benefits or 
+potential benefits intended to be made available under the Plan or with 
+respect to any Account under the Plan, to facilitate such transactions or 
+events, or to give effect to such changes in laws, regulations or 
+principles:
+
+     (a) To provide that Participants Stock Units and the Companys rights 
+and obligations with respect thereto shall be assumed by the successor or 
+survivor corporation, or a parent or subsidiary thereof;
+
+     (b) To provide that the Stock Units credited to Participants Accounts 
+shall be replaced by stock of the successor or survivor corporation, or a 
+parent or subsidiary thereof, with appropriate adjustments as to the number 
+and/or kind of shares; and
+
+     (c) To make adjustments to the number and/or kind of Stock Units (or 
+other securities or property) credited to Participants Accounts.
+
+
+ARTICLE 15.
+MISCELLANEOUS
+
+     15.1 Status of Plan. The Plan is intended to be a plan that is not 
+qualified within the meaning of Code Section 401(a) and that is unfunded 
+and is maintained by an employer primarily for the purpose of providing 
+deferred compensation for a select group of management or highly 
+compensated employees within the meaning of ERISA Sections 201(2), 
+301(a)(3) and 401(a)(1). The Plan shall be administered and interpreted to 
+the extent possible in a manner consistent with that intent.
+
+-23-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     15.2 Unsecured General Creditor. Participants and their Beneficiaries, 
+heirs, successors and assigns shall have no legal or equitable rights, 
+interests or claims in any property or assets of any Employer. For purposes 
+of the payment of benefits under this Plan, any and all of an Employers 
+assets shall be, and remain, the general, unpledged unrestricted assets of 
+the Employer. An Employers obligation under the Plan shall be merely that 
+of an unfunded and unsecured promise to pay money in the future.
+
+     15.3 Employers Liability. An Employers liability for the payment of 
+benefits shall be defined only by the Plan and the Election Form(s), as 
+entered into between the Employer and a Participant. An Employer shall have 
+no obligation to a Participant under the Plan except as expressly provided 
+in the Plan and his or her Election Form(s).
+
+     15.4 Nonassignability. Neither a Participant nor any other person 
+shall have any right to commute, sell, assign, transfer, pledge, 
+anticipate, mortgage or otherwise encumber, transfer, hypothecate, alienate 
+or convey in advance of actual receipt, the amounts, if any, payable 
+hereunder, or any part thereof, which are, and all rights to which are 
+expressly declared to be, unassignable and non-transferable. No part of the 
+amounts payable shall, prior to actual payment, be subject to seizure, 
+attachment, garnishment or sequestration for the payment of any debts, 
+judgments, alimony or separate maintenance owed by a Participant or any 
+other person, be transferable by operation of law in the event of a 
+Participants or any other persons bankruptcy or insolvency or be 
+transferable to a spouse as a result of a property settlement or otherwise.
+
+     15.5 Sources of Stock. If Stock is credited under the Plan in the 
+Trust in connection with a deferral of Restricted Stock, the shares so 
+credited shall be deemed to have originated, and shall be counted against 
+the number of shares reserved under the Equity Plan under which they were 
+granted.
+
+     15.6 Tax Withholding.
+
+     (a) Annual Deferral Amounts. For each Plan Year in which an Annual 
+Deferral Amount is being withheld from a Participant, the Participants 
+Employer(s) shall withhold from that portion of the Participants Base 
+Annual Salary and Bonus that is not being deferred, in a manner determined 
+by the Employer(s), the Participants share of FICA and other employment 
+taxes on such Annual Deferral Amount. If necessary, the Administrator may 
+reduce the Annual Deferral Amount in order to comply with this Section 
+15.6.
+
+     (b) Company Matching Amounts. When a Participant becomes vested in a 
+portion of his or her Company Matching Account, the Participants 
+Employer(s) shall withhold from the Participants Base Annual Salary and/or 
+Bonus that is not deferred, in a manner determined by the Employer(s), the 
+Participants share of FICA and other employment taxes. If necessary, the 
+Administrator may reduce the vested portion of the Participants Company 
+Matching Account in order to comply with this Section 15.6.
+
+     (c) Restricted Stock Amounts. For each Plan Year in which a Restricted 
+Stock Amount is being first credited to a Participants Account Balance, or 
+at the time any dividends are credited to the Participants Accounts, the 
+Participants Employer(s) shall withhold from that portion of the 
+Participants Base Annual Salary, Bonus and Restricted Stock that is not 
+being deferred, in a manner determined by the Employer(s), the 
+Participants share of FICA and other employment taxes on such Restricted 
+Stock Amount. If necessary, the Administrator may reduce the Restricted 
+Stock Amount in order to comply with this Section 15.6.
+
+     (d) Distributions. The Participants Employer(s), or the trustee of 
+the Trust, shall withhold from any payments made to a Participant under 
+this Plan all federal, state and local income, employment and other taxes 
+required to be withheld by the Employer(s), or the trustee of
+
+-24-
+
+------------------------------------------------------------------------
+
+
+ 
+
+the Trust, in connection with such payments, in amounts and in a manner to 
+be determined in the sole discretion of the Employer(s) and the trustee of 
+the Trust.
+
+     (e) Participant May Satisfy Tax Obligations in Cash. The 
+Administrator, in its sole discretion, may allow a Participant to pay to 
+his or her Employer, in cash, any amounts required to be withheld by the 
+Employer in connection with the Plan in lieu of having such amounts 
+withheld from his or her deferrals or distributions.
+
+     15.7 Coordination with Other Benefits. The benefits provided for a 
+Participant and Participants Beneficiary under the Plan are in addition to 
+any other benefits available to such Participant under any other plan or 
+program for employees of the Participants Employer. The Plan shall 
+supplement and shall not supersede, modify or amend any other such plan or 
+program except as may otherwise be expressly provided.
+
+     15.8 Compliance. A Participant shall have no right to receive payment 
+with respect to the Participants Account Balance until all legal and 
+contractual obligations of the Employers relating to establishment of the 
+Plan and the making of such payments shall have been complied with in full. 
+In addition, the Company shall impose such restrictions on Stock delivered 
+to a Participant hereunder and any other interest constituting a security 
+as it may deem advisable in order to comply with the Securities Act, the 
+requirements of the New York Stock Exchange or any other stock exchange or 
+automated quotation system upon which the Stock is then listed or quoted, 
+any state securities laws applicable to such a transfer, any provision of 
+the Companys Articles of Incorporation or Bylaws, or any other applicable 
+law or applicable regulation.
+
+     15.9 Not a Contract of Employment. The terms and conditions of this 
+Plan shall not be deemed to constitute a contract of employment between any 
+Employer and the Participant. Such employment is hereby acknowledged to be 
+an at will employment relationship that can be terminated at any time for 
+any reason, or no reason, with or without cause, and with or without 
+notice, unless expressly provided in a written employment agreement. 
+Nothing in this Plan shall be deemed to give a Participant the right to be 
+retained in the service of any Employer, either as an Employee or a 
+Director, or to interfere with the right of any Employer to discipline or 
+discharge the Participant at any time.
+
+     15.10 Furnishing Information. A Participant or his or her Beneficiary 
+will cooperate with the Administrator by furnishing any and all information 
+requested by the Administrator and take such other actions as may be 
+requested in order to facilitate the administration of the Plan and the 
+payments of benefits hereunder, including but not limited to taking such 
+physical examinations as the Administrator may deem necessary.
+
+     15.11 Governing Law. Subject to ERISA, the provisions of this Plan 
+shall be construed and interpreted according to the internal laws of the 
+State of California without regard to its conflicts of laws principles.
+
+     15.12 Notice. Any notice or filing required or permitted to be given 
+to the Administrator under this Plan shall be sufficient if in writing and 
+hand-delivered, or sent by registered or certified mail, to the address 
+below:
+
+General Counsel
+AMB Property Corporation
+Pier 1, Bay 1
+San Francisco, California 94111
+
+     Such notice shall be deemed given as of the date of delivery or, if 
+delivery is made by mail, as of the date shown on the postmark on the 
+receipt for registration or certification.
+
+-25-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Any notice or filing required or permitted to be given to a 
+Participant under this Plan shall be sufficient if in writing and 
+hand-delivered, or sent by mail, to the last known address of the 
+Participant.
+
+     15.13 Successors. The provisions of this Plan shall bind and inure to 
+the benefit of the Participants Employer and its successors and assigns 
+and the Participant and the Participants designated Beneficiaries.
+
+     15.14 Spouses Interest. The interest in the benefits hereunder of a 
+spouse of a Participant who has predeceased the Participant shall 
+automatically pass to the Participant and shall not be transferable by such 
+spouse in any manner, including but not limited to such spouses will, nor 
+shall such interest pass under the laws of intestate succession.
+
+     15.15 Validity. In case any provision of this Plan shall be illegal or 
+invalid for any reason, said illegality or invalidity shall not affect the 
+remaining parts hereof, but this Plan shall be construed and enforced as if 
+such illegal or invalid provision had never been inserted herein.
+
+     15.16 Incompetent. If the Administrator determines in its discretion 
+that a benefit under this Plan is to be paid to a minor, a person declared 
+incompetent or to a person incapable of handling the disposition of that 
+persons property, the Administrator may direct payment of such benefit to 
+the guardian, legal representative or person having the care and custody of 
+such minor, incompetent or incapable person. The Administrator may require 
+proof of minority, incompetence, incapacity or guardianship, as it may deem 
+appropriate prior to distribution of the benefit. Any payment of a benefit 
+shall be a payment for the account of the Participant and the Participants 
+Beneficiary, as the case may be, and shall be a complete discharge of any 
+liability under the Plan for such payment amount.
+
+     15.17 Court Order. The Administrator is authorized to make any 
+payments directed by court order in any action in which the Plan or the 
+Administrator has been named as a party. In addition, if a court determines 
+that a spouse or former spouse of a Participant has an interest in the 
+Participants benefits under the Plan in connection with a property 
+settlement or otherwise, the Administrator, in its sole discretion, shall 
+have the right, notwithstanding any election made by a Participant, to 
+immediately distribute the spouses or former spouses interest in the 
+Participants benefits under the Plan to that spouse or former spouse.
+
+     15.18 Accelerated Distributions, Trust Distributions and Plan 
+Interpretation.
+
+     (a) Accelerated Distributions. If, for any reason, all or any portion 
+of a Participants benefits under this Plan becomes subject to a penalty 
+tax amount under Section 409A and the final Department of Treasury rules, 
+regulations and other guidance promulgated thereunder, the Administrator 
+may rescind the election subject to such penalty tax and accelerate the 
+payment of such benefits at its discretion, provided that any such 
+distribution will remain subject to penalty tax to the extent required by 
+Section 409A and the final rules and regulations.
+
+     (b) Trust Distributions. If the Trust terminates in accordance with 
+the provisions of the Trust and benefits are distributed from the Trust to 
+a Participant in accordance with such provisions, the Participants 
+benefits under this Plan shall be reduced to the extent of such 
+distributions.
+
+     (c) Plan Interpretation. The Plan shall be interpreted, construed, 
+administered and operated in good faith in a manner that satisfies the 
+requirements of Section 409A of the Code, Internal Revenue Service Notice 
+2005-1 and the final and proposed Department of Treasury rules, regulations 
+and other guidance promulgated thereunder. Nothing in this Plan shall be 
+construed as an entitlement to or guarantee of any particular tax treatment 
+to a Participant.
+
+-26-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     15.19 Insurance. The Employers, on their own behalf or on behalf of 
+the trustee of the Trust, and, in their sole discretion, may apply for and 
+procure insurance on the life of the Participant, in such amounts and in 
+such forms as the Trust may choose. The Employers or the trustee of the 
+Trust, as the case may be, shall be the sole owner and beneficiary of any 
+such insurance. The Participant shall have no interest whatsoever in any 
+such policy or policies, and at the request of the Employers shall submit 
+to medical examinations and supply such information and execute such 
+documents as may be required by the insurance company or companies to whom 
+the Employers have applied for insurance.
+
+     15.20 Status of Company as a REIT. Notwithstanding any provision of 
+this Plan or any Participants election to the contrary, the Partnership, 
+the Company and the Administrator shall have the right at any time, and 
+from time to time, to amend this Plan or to take any other action which it 
+or they deem to be necessary or appropriate in order to avoid or cure any 
+impairment of the Companys status as a real estate investment trust under 
+Sections 856 et. seq. of the Code or to avoid or cure any violation of the 
+Companys Articles of Incorporation.
+
+     IN WITNESS WHEREOF, the Company and the Partnership have signed this 
+Plan document as of September 13, 2007.
+  	  	  	  	  	  	 
+  	  	AMB Property Corporation, a Maryland corporation 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	/s/ Thomas S. Olinger
+ 
+  	 
+ 
+  	  	  	  	  	 
+ 
+  	Title: 	  	Chief Financial Officer 	  	 
+  	  	  	  	  	  	 
+  	  	AMB Property, L.P.,a Delaware limited partnership 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	AMB Property Corporation, 	  	 
+ 
+  	  	  	a Maryland Corporation, its general partner 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	/s/ Thomas S. Olinger
+ 
+  	 
+ 
+  	  	  	  	  	 
+ 
+  	Title: 	  	Chief Financial Officer 	  	 
+
+-27-
