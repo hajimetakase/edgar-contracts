@@ -1,0 +1,1840 @@
+ EX-10.1 3 d47996a3exv10w1.htm FORM OF TAX MATTERS AGREEMENT
+
+
+ 
+
+Exhibit 10.1
+
+
+FORM OF
+TAX MATTERS AGREEMENT
+
+by and among
+
+TEMPLE-INLAND INC.,
+
+FORESTAR REAL ESTATE GROUP INC. ,
+
+and
+
+GUARANTY FINANCIAL GROUP INC.
+
+Dated as of
+
+[Date]
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+TAX MATTERS AGREEMENT
+
+     THIS TAX MATTERS AGREEMENT (this Agreement) is entered into as of [  
+  ], 2007 by and among Temple-Inland Inc., a Delaware corporation (
+Temple-Inland), Forestar Real Estate Group Inc., a Delaware corporation (
+Forestar), and Guaranty Financial Group Inc., a Delaware Corporation (
+Guaranty); each a Party and collectively, the Parties.
+
+
+R E C I T A L S:
+
+     WHEREAS, Temple-Inland, acting through its direct and indirect 
+subsidiaries, currently conducts a number of businesses, including (i) the 
+Retained Business, (ii) the Real Estate Business, and (iii) the Financial 
+Services Business;
+
+     WHEREAS, as of the date hereof, Temple-Inland and its direct and 
+indirect domestic subsidiaries are members of an Affiliated Group, of which 
+Temple-Inland is the common parent;
+
+     WHEREAS, the Board of Directors of Temple-Inland has determined that 
+it is appropriate, desirable and in the best interests of Temple-Inland and 
+its stockholders to separate Temple-Inland (the Separation) into three 
+separate, independent and publicly traded companies: (i) one comprising the 
+Real Estate Business, which shall be owned and conducted, directly or 
+indirectly, by Forestar, (ii) one comprising the Financial Services 
+Business, which shall be owned and conducted, directly or indirectly, by 
+Guaranty, and (iii) one comprising the Retained Business, which shall 
+continue to be owned and conducted, directly or indirectly, by 
+Temple-Inland;
+
+     WHEREAS, in order to effect the Separation, the Board of Directors of 
+Temple-Inland has determined that it is appropriate, desirable and in the 
+best interests of Temple-Inland and its stockholders for Temple-Inland and 
+certain of its subsidiaries to enter into a series of transactions whereby, 
+among other things, (i) Forestar Real Estate Group LLC will convert to a 
+corporation under state law and TIN Inc. will contribute certain assets 
+relating to the Real Estate Business to Forestar (Internal Contribution 1
+) and distribute the stock of Forestar to Temple-Inland (Internal 
+Distribution 1); (ii) Temple-Inland will distribute all of the issued and 
+outstanding shares of common stock of Forestar, on a pro rata basis to the 
+holders of the outstanding common stock of Temple-Inland (External 
+Distribution 1); (iii) TIN Inc. will contribute certain assets relating to 
+the Financial Services Business to Guaranty (Internal Contribution 2) and 
+distribute the stock of Guaranty to Temple-Inland (Internal Distribution 2
+); and (iv) Temple-Inland will contribute certain assets relating to the 
+Financial Services Business to Guaranty (Internal Contribution 3) and 
+distribute all of the issued and outstanding shares of common stock of 
+Guaranty, on a pro rata basis to the holders of the outstanding common 
+stock of Temple-Inland (External Distribution 2) (such transactions, the 
+Spin-Offs);
+
+     WHEREAS, Temple-Inland, Forestar and Guaranty have determined that it 
+is necessary and desirable, as part of the Separation, to (i) allocate, 
+transfer, retain or assign to the Forestar Group, the Real Estate Assets 
+and Real Estate Liabilities, (ii) allocate, transfer, retain or assign to 
+the Guaranty Group the Financial Services Assets and Financial Services 
+Liabilities, and (iii)
+
+1
+
+------------------------------------------------------------------------
+
+
+ 
+
+allocate, transfer, retain or assign to the Temple-Inland Group, the 
+Retained Business Assets and Retained Business Liabilities;
+
+     WHEREAS, to effect the Separation, Temple-Inland, Forestar and 
+Guaranty entered into that certain Separation and Distribution Agreement 
+dated as of even date hereof (as amended or otherwise modified from time to 
+time, the Separation Agreement);
+
+     WHEREAS, it is the intention of the Parties that Internal Contribution 
+1 and Internal Distribution 1 together qualify as a reorganization within 
+the meaning of sections 368(a)(1)(D) and 355 of the Code;
+
+     WHEREAS, it is the intention of the Parties that External Distribution 
+1 qualify as a distribution within the meaning of section 355 of the Code;
+
+     WHEREAS, it is the intention of the Parties that Internal Contribution 
+2 and Internal Distribution 2 together qualify as a reorganization within 
+the meaning of sections 368(a)(1)(D) and 355 of the Code;
+
+     WHEREAS, it is the intention of the Parties that Internal Contribution 
+3 and External Distribution 2 together qualify as a reorganization within 
+the meaning of sections 368(a)(1)(D) and 355 of the Code;
+
+     WHEREAS, in connection with the Separation, Forestar (USA) Real Estate 
+Group, Inc. shall, subject to the terms and provisions of the Separation 
+and Distribution Agreement (as defined herein), enter into a credit 
+facility for both revolving and term loan borrowings, all or a portion of 
+the proceeds of which shall be used to repay intercompany debt owed to 
+Temple-Inland;
+
+     WHEREAS, in contemplation of the Separation, pursuant to which the 
+Forestar Group and the Guaranty Group will cease to be members of the 
+Affiliated Group of which Temple-Inland is the parent, if (but only if) 
+External Distribution 1 and External Distribution 2 occur, the Parties have 
+determined to enter into this Agreement, setting forth their agreement with 
+respect to certain tax matters; and
+
+     NOW, THEREFORE, in consideration of the foregoing premises, the mutual 
+promises and covenants hereinafter set forth, and other good and valuable 
+consideration, the receipt and sufficiency of which are hereby 
+acknowledged, the Parties, intending to be legally bound, agree as follows:
+
+Section 1. Definitions.
+
+     Capitalized terms used in this Agreement and not otherwise defined in 
+this Section 1 shall have the meanings set forth in the Separation 
+Agreement. As used in this Agreement, the following capitalized terms shall 
+have the following meanings:
+
+2
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Affiliated Group means an affiliated group of corporations within 
+the meaning of section 1504(a)(1) of the Code that files a consolidated 
+return for United States federal Income Tax purposes.
+
+     After Tax Amount means any additional amount necessary to reflect 
+the hypothetical Tax consequences of the receipt or accrual of any payment 
+required to be made under this Agreement (including payment of an 
+additional amount or amounts hereunder and the effect of the deductions 
+available for interest paid or accrued and for Taxes such as state and 
+local Income Taxes), determined by using the highest applicable statutory 
+corporate Income Tax rate (or rates, in the case of an item that affects 
+more than one Tax) for the relevant taxable period (or portion thereof).
+
+     Agreement shall have the meaning set forth in the preamble hereto.
+
+     Allocated Credit Carryforwards shall have the meaning set forth in 
+Section 4.04.
+
+     Audit means any audit, assessment of Taxes, other examination by any 
+Taxing Authority, proceeding, or appeal of such a proceeding relating to 
+Taxes, whether administrative or judicial, including proceedings relating 
+to competent authority determinations.
+
+     Business Day shall have the meaning set forth in the Separation 
+Agreement.
+
+     Carryback Period shall have the meaning set forth in Section 4.02.
+
+     Code means the Internal Revenue Code of 1986, as amended.
+
+     Combined Return means any Tax Return, other than with respect to 
+United States federal Income Taxes, filed on a consolidated, combined 
+(including nexus combination, worldwide combination, domestic combination, 
+line of business combination or any other form of combination) or unitary 
+basis wherein Forestar (or one or more Forestar Affiliates) or Guaranty (or 
+one or more Guaranty Affiliates) join in the filing of such Tax Return (for 
+any taxable period or portion thereof) with Temple-Inland or one or more 
+Temple-Inland Affiliates.
+
+     Consolidated Return means any Tax Return with respect to United 
+States federal Income Taxes filed on a consolidated basis wherein Forestar 
+(or one or more Forestar Affiliates) or Guaranty (or one or more Guaranty 
+Affiliates) join in the filing of such Tax Return (for any taxable period 
+or portion thereof) with Temple-Inland or one or more Temple-Inland 
+Affiliates.
+
+     Deferred Intercompany Item shall mean any income, gain, deduction or 
+loss from transactions between members of the same Affiliated Group that is 
+deferred for U.S. federal income tax purposes under the principles in 
+Treasury Regulations section 1.1502-13, or any similar provision under 
+state, local or foreign law.
+
+     Distribution Date shall mean the Forestar Distribution Date or the 
+Guaranty Distribution Date, as applicable.
+
+3
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Distribution Taxes means any Taxes imposed on, or increase in Taxes 
+incurred by, Temple-Inland or any Temple-Inland Affiliate, and any Taxes of 
+a Temple-Inland shareholder (or former Temple-Inland shareholder) that are 
+required to be paid or reimbursed by Temple-Inland or any Temple-Inland 
+Affiliate pursuant to a Final Determination, provided that Temple-Inland 
+shall have vigorously defended itself in any legal proceeding involving 
+Taxes of a Temple-Inland shareholder, (without regard to whether such Taxes 
+are offset or reduced by any Tax Asset, Tax Item, or otherwise) resulting 
+from, or arising in connection with, the failure of Internal Contribution 
+1, Internal Distribution 1, Internal Contribution 2, Internal Distribution 
+2, Internal Contribution 3, External Distribution 1 or External 
+Distribution 2 to qualify as a transaction in which no income, gain or loss 
+is recognized pursuant to sections 355 and 368(a)(1)(D) of the Code 
+(including any Tax resulting from the application of section 355(d) or 
+section 355(e) of the Code to Internal Distribution 1, Internal 
+Distribution 2, External Distribution 1 or External Distribution 2) or 
+corresponding provisions of the laws of any other jurisdictions. Any Income 
+Tax referred to in the immediately preceding sentence shall be determined 
+using the highest applicable statutory corporate Income Tax rate (or rates, 
+in the case of an item that affects more than one Tax) for the relevant 
+taxable period (or portion thereof) taking into account deductions for 
+interest paid or accrued and other related Taxes, such as state and local 
+Taxes.
+
+     Effective Time shall have the meaning set forth in the Separation 
+Agreement.
+
+     Estimated Tax Installment Date means, with respect to United States 
+federal Income Taxes, the estimated Tax installment due dates prescribed in 
+section 6655(c) of the Code and, in the case of any other Tax, means any 
+other date on which an installment payment of an estimated amount of such 
+Tax is required to be made.
+
+     External Distribution 1 shall have the meaning set forth in the 
+recitals hereto.
+
+     External Distribution 2 shall have the meaning set forth in the 
+recitals hereto.
+
+     Filing Party shall have the meaning set forth in Section 7.01.
+
+     Final Determination means the final resolution of liability for any 
+Tax for any taxable period, by or as a result of (i) a final and 
+unappealable decision, judgment, decree or other order by any court of 
+competent jurisdiction; (ii) a final settlement with the IRS, a closing 
+agreement or accepted offer in compromise under section 7121 or section 
+7122 of the Code, or a comparable agreement under the laws of other 
+jurisdictions, which resolves the entire Tax liability for any taxable 
+period; (iii) any allowance of a refund or credit in respect of an 
+overpayment of Tax, but only after the expiration of all periods during 
+which such refund may be recovered by the jurisdiction imposing the Tax; or 
+(iv) any other final disposition, including by reason of the expiration of 
+the applicable statute of limitations.
+
+     Financial Services Business shall have the meaning set forth in the 
+Separation Agreement.
+
+     Force Majeure shall have the meaning set forth in the Separation 
+Agreement.
+
+4
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Forestar shall have the meaning set forth in the preamble hereto.
+
+     Forestar Affiliate means any Person included in the Forestar Group.
+
+     Forestar Business Records shall have the meaning set forth in 
+Section 8.01(b).
+
+     Forestar Common Stock shall have the meaning set forth in the 
+Separation Agreement.
+
+     Forestar Distribution Date shall have the meaning set forth in the 
+Separation Agreement.
+
+     Forestar Group shall have the meaning set forth in the Separation 
+Agreement.
+
+     Forestar Tax Acts shall have the meaning set forth in Section 
+4.01(b).
+
+     Guaranty shall have the meaning set forth in the preamble hereto.
+
+     Guaranty Affiliate means any Person included in the Guaranty Group.
+
+     Guaranty Business Records shall have the meaning set forth in 
+Section 8.01(b).
+
+     Guaranty Common Stock shall have the meaning set forth in the 
+Separation Agreement.
+
+     Guaranty Distribution Date shall have the meaning set forth in the 
+Separation Agreement.
+
+     Guaranty Group shall have the meaning set forth in the Separation 
+Agreement.
+
+     Guaranty Tax Acts shall have the meaning set forth in Section 
+4.01(c).
+
+     Income Tax means any federal, state, local or foreign Tax determined 
+(in whole or in part) by reference to net income, net worth, gross receipts 
+or capital, or any such Taxes imposed in lieu of such a Tax, including, 
+without limitation, any franchise Tax.
+
+     Income Tax Return means any Tax Return relating to any Income Tax.
+
+     Internal Contribution 1 shall have the meaning set forth in the 
+recitals hereto.
+
+     Internal Contribution 2 shall have the meaning set forth in the 
+recitals hereto.
+
+     Internal Contribution 3 shall have the meaning set forth in the 
+recitals hereto.
+
+     Internal Distribution 1 shall have the meaning set forth in the 
+recitals hereto.
+
+     Internal Distribution 2 shall have the meaning set forth in the 
+recitals hereto.
+
+5
+
+------------------------------------------------------------------------
+
+
+ 
+
+     IRS means the United States Internal Revenue Service or any 
+successor thereto, including its agents, representatives, and attorneys.
+
+     IRS Ruling means the private letter ruling issued by the IRS in 
+connection with the Separation, which is a condition to the Spin-Offs under 
+the Separation Agreement.
+
+     IRS Ruling Documents means the request for the IRS Ruling filed with 
+the IRS, together with all supplemental filings or other materials 
+subsequently submitted on behalf of Temple-Inland, the Temple-Inland 
+Affiliates and Temple-Inlands shareholders to the IRS, the appendices and 
+exhibits thereto, and the IRS Ruling itself.
+
+     Joint Responsibility Item means any Tax Item, including Distribution 
+Taxes, for which the non-Filing Partys responsibility under this Agreement 
+could exceed one million dollars ($1,000,000), but not a Sole 
+Responsibility Item.
+
+     Officers Certificate means a letter executed by an officer of 
+Temple-Inland, Forestar or Guaranty and provided to Spin-Off Tax Counsel or 
+Tax Counsel as a condition for the completion of the Spin-Off Tax Opinion, 
+a Supplemental Tax Spin-Off Opinion or Supplemental Tax Opinion.
+
+     Owed Party shall have the meaning set forth in Section 6.05.
+
+     Owing Party shall have the meaning set forth in Section 6.05.
+
+     Parties shall have the meaning set forth in the preamble hereto.
+
+     Payment Period shall have the meaning set forth in Section 6.05(e).
+
+     Person shall have the meaning set forth in the Separation Agreement.
+
+     Post-Distribution Period means any taxable period beginning after 
+the relevant Distribution Date.
+
+     Pre-Distribution Period means any taxable period ending on or before 
+the relevant Distribution Date.
+
+     Prime Rate shall have the meaning set forth in the Separation 
+Agreement.
+
+     Real Estate Assets shall have the meaning set forth in the 
+Separation Agreement.
+
+     Real Estate Business shall have the meaning set forth in the 
+Separation Agreement.
+
+     Real Estate Liabilities shall have the meaning set forth in the 
+Separation Agreement.
+
+     Retained Business Assets shall have the meaning set forth in the 
+Separation Agreement.
+
+6
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Retained Business shall have the meaning set forth in the Separation 
+Agreement.
+
+     Retained Business Liabilities shall have the meaning set forth in 
+the Separation Agreement.
+
+     Separation shall have the meaning set forth in the preamble hereto.
+
+     Separation Agreement shall have the meaning set forth in the 
+recitals hereto.
+
+     Sole Responsibility Item means any Tax Item for which the non-Filing 
+Party has the entire economic liability under this Agreement.
+
+     Spin-Offs shall have the meaning set forth in the recitals hereto.
+
+     Spin-Off Tax Counsel means Skadden, Arps, Slate, Meagher & Flom LLP.
+
+     Spin-Off Tax Opinion means the opinion to be issued by Spin-Off Tax 
+Counsel, as one of the conditions to completing the Spin-Offs, addressing 
+certain United States federal Income Tax consequences of the Spin-Offs 
+under section 355 of the Code.
+
+     Supplemental Ruling means any ruling (other than the IRS Ruling) 
+issued by any Taxing Authority in connection with the Spin-Offs.
+
+     Supplemental Ruling Documents means any request for a Supplemental 
+Ruling, together with any supplemental filings or other materials 
+subsequently submitted, the appendices and exhibits thereto, and any 
+Supplemental Rulings issued.
+
+     Supplemental Spin-Off Tax Opinion means any opinion (other than the 
+Spin-Off Tax Opinion) issued by any tax counsel in connection with the 
+Spin-Offs.
+
+     Supplemental Tax Opinion shall have the meaning set forth in Section 
+4.03(c).
+
+     Tax Asset means any Tax Item that has been recognized for Tax 
+purposes, but has not been realized during the taxable period, and that 
+could reduce a Tax in another taxable period, including a net operating 
+loss, net capital loss, investment tax credit, foreign tax credit, 
+charitable deduction or credit related to alternative minimum tax or any 
+other Tax credit.
+
+     Tax Benefit means a reduction in the Tax liability (or increase in 
+refund or credit or any item of deduction or expense) of a taxpayer (or of 
+the Affiliated Group, or similar group of entities as defined under 
+corresponding provisions of the laws of any other jurisdiction, of which it 
+is a member) for any taxable period. Except as otherwise provided in this 
+Agreement, a Tax Benefit shall be deemed to have been realized or received 
+from a Tax Item in a taxable period only if and to the extent that the Tax 
+liability of the taxpayer (or of the Affiliated Group, or similar group of 
+entities as defined under corresponding provisions of the laws of any other 
+jurisdiction, of which it is a member) for such period, after taking into 
+account the effect of the
+
+7
+
+------------------------------------------------------------------------
+
+
+ 
+
+Tax Item on the Tax liability of such taxpayer (or of the Affiliated Group, 
+or similar group of entities as defined under corresponding provisions of 
+the laws of any other jurisdiction, of which it is a member) in the current 
+period and all prior periods, is less than it would have been had such Tax 
+liability been determined without regard to such Tax Item.
+
+     Tax Counsel means a nationally recognized law firm mutually agreed 
+upon by Temple-Inland and Forestar or Temple-Inland and Guaranty, as 
+applicable, to provide a Supplemental Tax Opinion.
+
+     Tax Detriment means an increase in the Tax liability (or reduction 
+in refund or credit or any item of deduction or expense) of a taxpayer (or 
+of the Affiliated Group, or similar group of entities as defined under 
+corresponding provisions of the laws of any other jurisdiction, of which it 
+is a member) for any taxable period. Except as otherwise provided in this 
+Agreement, a Tax Detriment shall be deemed to have been realized or 
+incurred from a Tax Item in a taxable period only if and to the extent that 
+the Tax liability of the taxpayer (or of the Affiliated Group, or similar 
+group of entities as defined under corresponding provisions of the laws of 
+any other jurisdiction, of which it is a member) for such period, after 
+taking into account the effect of the Tax Item on the Tax liability of such 
+taxpayer (or of the Affiliated Group, or similar group of entities as 
+defined under corresponding provisions of the laws of any other 
+jurisdiction, of which it is a member) in the current period and all prior 
+periods, is more than it would have been had such Tax liability been 
+determined without regard to such Tax Item.
+
+     Tax Item means any item of income, gain, loss, deduction, expense or 
+credit, or other attribute that may have the effect of increasing or 
+decreasing any Tax.
+
+     Tax Return means any return, report, certificate, form or similar 
+statement or document (including any related or supporting information or 
+schedule attached thereto and any information return, amended tax return, 
+claim for refund or declaration of estimated Tax) required to be supplied 
+to, or filed with, a Taxing Authority in connection with the determination, 
+assessment or collection of any Tax or the administration of any laws, 
+regulations or administrative requirements relating to any Tax.
+
+     Tax Material shall have the meaning set forth in Section 8.01(a).
+
+     Taxes means all federal, state, local or foreign taxes, charges, 
+fees, duties, levies, imposts, rates or other assessments, including 
+income, gross receipts, excise, property, sales, use, license, capital 
+stock, transfer, franchise, value added or other taxes, (including any 
+interest, penalties or additions attributable thereto) and a Tax shall 
+mean any one of such Taxes.
+
+     Taxing Authority means any governmental authority or any 
+subdivision, agency, commission or authority thereof or any 
+quasi-governmental or private body having jurisdiction over the assessment, 
+determination, collection or imposition of any Tax (including the IRS).
+
+     Temple-Inland shall have the meaning set forth in the preamble 
+hereto.
+
+     Temple-Inland Affiliate means any Person included in the 
+Temple-Inland Group.
+
+8
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Temple-Inland Business Records shall have the meaning set forth in 
+Section 8.01(b).
+
+     Temple-Inland Group shall have the meaning set forth in the 
+Separation Agreement.
+
+     Temple-Inland Tax Acts shall have the meaning set forth in Section 
+4.01(a).
+
+     Temple-Inland Inc. Tax Allocation Policy means the Temple-Inland 
+Inc. Tax Allocation Policy by and between Temple-Inland Inc. and members of 
+the Temple-Inland Group effective January 1, 2003.
+
+     Unallocated Liabilities shall have the meaning set forth in the 
+Separation Agreement.
+
+Section 2. Preparation and Filing of Tax Returns.
+
+     2.01. Temple-Inlands Responsibility. Subject to the other applicable 
+provisions of this Agreement and consistent with past practices, 
+Temple-Inland shall have sole and exclusive responsibility for the 
+preparation and filing of:
+
+          (a) all Consolidated Returns and all Combined Returns for any 
+taxable period;
+
+          (b) all Tax Returns (other than Consolidated Returns and Combined 
+Returns) with respect to any Temple-Inland Affiliate for any taxable 
+period;
+
+          (c) all Tax Returns with respect to Forestar, any Forestar 
+Affiliate, or the Real Estate Business or any part thereof, that are 
+required to be filed (taking into account any extension of time which has 
+been requested or received) on or prior to the Forestar Distribution Date 
+and which have been, under past practices, prepared and filed by 
+Temple-Inland.
+
+          (d) all Tax Returns with respect to Guaranty, any Guaranty 
+Affiliate, or the Financial Services Business or any part thereof, that are 
+required to be filed (taking into account any extension of time which has 
+been requested or received) on or prior to the Guaranty Distribution Date 
+and which have been, under past practices, prepared and filed by 
+Temple-Inland.
+
+     2.02. Forestars Responsibility. Forestar shall have sole and 
+exclusive responsibility for the preparation and filing of all Tax Returns 
+(other than Consolidated Returns and Combined Returns) with respect to 
+Forestar and/or any Forestar Affiliate due after the Forestar Distribution 
+Date.
+
+     2.03. Guarantys Responsibility. Guaranty shall have sole and 
+exclusive responsibility for the preparation and filing of all Tax Returns 
+(other than Consolidated Returns and Combined Returns) with respect to 
+Guaranty and/or any Guaranty Affiliate due after the Guaranty Distribution 
+Date.
+
+9
+
+------------------------------------------------------------------------
+
+
+ 
+
+     2.04. Agent. Subject to the other applicable provisions of this 
+Agreement, (i) Forestar hereby irrevocably designates, and agrees to cause 
+each Forestar Affiliate to so designate, Temple-Inland as its sole and 
+exclusive agent and attorney-in-fact to take such action (including 
+execution of documents) as Temple-Inland, acting in good faith, may deem 
+appropriate in any and all matters (including Audits) relating to any Tax 
+Return described in Section 2.01 and (ii) Guaranty hereby irrevocably 
+designates, and agrees to cause each Guaranty Affiliate to so designate, 
+Temple-Inland as its sole and exclusive agent and attorney-in-fact to take 
+such action (including execution of documents) as Temple-Inland, acting in 
+good faith, may deem appropriate in any and all matters (including Audits) 
+relating to any Tax Return described in Section 2.01.
+
+     2.05. Manner of Tax Return Preparation.
+
+          (a) Unless otherwise required by a Taxing Authority, the Parties 
+hereby agree to prepare and file all Tax Returns, and to take all other 
+actions, in a manner consistent with (1) this Agreement, (2) the 
+Temple-Inland Inc. Tax Allocation Policy, (3) the Spin-Off Tax Opinion, (4) 
+any Supplemental Spin-Off Tax Opinion, (5) any Supplemental Tax Opinion, 
+(6) the IRS Ruling Documents, and (7) any Supplemental Ruling Documents. 
+All Tax Returns shall be filed on a timely basis (taking into account 
+applicable extensions) by the Party responsible for filing such returns 
+under this Agreement.
+
+          (b) With respect to any Consolidated Return or Combined Return: 
+(1) Forestar and Guaranty shall each provide Temple-Inland with a pro forma 
+draft of the portion of such Tax Return that reflects Forestar and/or any 
+Forestar Affiliate, and Guaranty and/or any Guaranty Affiliate, as 
+applicable, at least sixty (60) days prior to the due date (with applicable 
+extensions) for the filing of such Tax Return; (2) Within twenty (20) days 
+after receiving the pro forma draft Tax Returns, Temple-Inland shall review 
+the drafts and provide comments and questions to Forestar and Guaranty (in 
+writing if requested by Forestar and/or Guaranty); (3) Forestar and 
+Guaranty shall cooperate with Temple-Inland by responding (in writing if 
+requested) and resolving the comments and questions from Temple-Inland 
+within ten (10) days of receiving comments and questions from 
+Temple-Inland.
+
+Nothing in this Section 2.05(b) shall alter the sole and exclusive 
+responsibility for the preparation and filing of Tax Returns under Sections 
+2.01, 2.02 and 2.03. If Forestar or Guaranty, as applicable, has not 
+responded to the Temple-Inland comments and questions in a timely manner 
+pursuant to Section 2.05(b) above, or in the case of a dispute regarding 
+the reporting of any Tax Item, such dispute has not been resolved by the 
+due date (with applicable extensions) for the filing of any Tax Return, 
+Temple-Inland shall file such Tax Return reporting all Tax Items in the 
+manner as it deems appropriate, provided, however, that Temple-Inland 
+agrees that it will thereafter file an amended Tax Return, if necessary, 
+reporting any disputed Tax Item in the manner determined under Section 
+8.02, and any other Tax Item as agreed upon by Temple-Inland and Forestar 
+or Temple-Inland and Guaranty.
+
+10
+
+------------------------------------------------------------------------
+
+
+ 
+
+Section 3. Liability for Taxes.
+
+     3.01. Liability for Pre-Distribution Period Taxes. Liability for all 
+Taxes related to Pre-Distribution Periods or portions thereof, other than 
+Taxes described in Section 4, shall be allocated in a manner consistent 
+with the Temple-Inland Inc. Tax Allocation Policy and past practices.
+
+     3.02 Liability for Post-Distribution Period Taxes. With respect to 
+Post-Distribution Periods or portions thereof, Temple-Inland and any 
+Temple-Inland affiliate, Forestar and any Forestar affiliate, and Guaranty 
+and any Guaranty affiliate, shall be liable for their respective Taxes.
+
+     3.03. Joint Liability for Certain Unallocated Taxes. Any Taxes not 
+otherwise allocated by Section 3.01, Section 3.02 or Section 4 shall be 
+allocated in the manner consistent with the allocation of Unallocated 
+Liabilities described in Article VI of the Separation Agreement.
+
+     3.04. Payment of Tax Liability. If one Party is liable or responsible 
+for Taxes, under Sections 3.01 through 3.03, with respect to Tax Returns 
+for which another party is responsible for preparing and/or filing, or with 
+respect to Taxes that are paid by another Party, then the liable or 
+responsible Party shall pay the Taxes (or a reimbursement of such Taxes) to 
+the other Party pursuant to Section 6.05.
+
+     3.05. Computation. Consistent with the past application of the 
+Temple-Inland Inc. Tax Allocation Policy, Temple-Inland shall provide 
+Forestar and Guaranty, as applicable, with a written calculation in 
+reasonable detail (including copies of all work sheets and other materials 
+used in preparation thereof) setting forth the amount of any Tax liability 
+of Forestar or Guaranty, as applicable, for which Forestar or Guaranty is 
+liable under Section 3.01. Forestar and Guaranty, as applicable, shall have 
+the right to review and comment on such calculation. Any dispute with 
+respect to such calculation shall be resolved pursuant to Section 8.02; 
+provided, however, that, notwithstanding any dispute with respect to any 
+such calculation, in no event shall any payment attributable to the amount 
+of any Tax liability of Forestar or Guaranty be paid later than the date 
+provided in Section 6.
+
+Section 4. Distribution Taxes and Deconsolidation.
+
+     4.01. Distribution Taxes.
+
+          (a) Temple-Inlands Liability for Distribution Taxes. 
+Notwithstanding Sections 3.01 through 3.05, Temple-Inland shall be liable 
+for any Distribution Taxes, to the extent that such Distribution Taxes are 
+attributable to, caused by, or result from, one or more of the following 
+(collectively, Temple-Inland Tax Acts):
+
+               (i) any action or omission by Temple-Inland or any 
+Temple-Inland Affiliate, at any time, that is inconsistent with any 
+information, covenant or representation in an Officers Certificate, 
+Spin-Off Tax Opinion, Supplemental Spin-Off Tax Opinion, Supplemental Tax 
+Opinion, IRS Ruling Documents or Supplemental Ruling Documents (disclosure 
+by Temple-Inland (or any Temple-Inland Affiliate) to Forestar (or any 
+Forestar Affiliate) or
+
+11
+
+------------------------------------------------------------------------
+
+
+ 
+
+Guaranty (or any Guaranty Affiliate) of any action or fact that is 
+inconsistent with any information, covenant or representation submitted to 
+Spin-Off Tax Counsel, Tax Counsel, the IRS, or other Taxing Authority, as 
+applicable, in connection with an Officers Certificate, Spin-Off Tax 
+Opinion, Supplemental Spin-Off Tax Opinion, Supplemental Tax Opinion, IRS 
+Ruling Documents or Supplemental Ruling Documents, shall not relieve 
+Temple-Inland (or any Temple-Inland Affiliate) of liability under this 
+Agreement);
+
+               (ii) any action or omission by Temple-Inland or any 
+Temple-Inland Affiliate, after the Spin-Offs (including any act or omission 
+that is in furtherance of, connected to, or part of a plan or series of 
+related transactions (within the meaning of section 355(e) of the Code) 
+occurring on or prior to the Spin-Offs), including a cessation, transfer to 
+affiliates, or disposition of the active trades or businesses, stock 
+buyback or payment of an extraordinary dividend;
+
+               (iii) any acquisition of any stock or assets of 
+Temple-Inland or any Temple-Inland Affiliate, by one or more other Persons 
+prior to or following the Spin-Offs;
+
+               (iv) any issuance of stock by Temple-Inland or any 
+Temple-Inland Affiliate, after the Spin-Offs, including any issuance 
+pursuant to the exercise of employee stock options or other employment 
+related arrangements, or the exercise of warrants; or
+
+               (v) any change in ownership of stock in Temple-Inland or any 
+Temple-Inland Affiliate after the Spin-Offs.
+
+          (b) Forestars Liability for Distribution Taxes. Notwithstanding 
+Sections 3.01 through 3.05, Forestar, and each Forestar Affiliate shall be 
+jointly and severally liable for any Distribution Taxes, to the extent that 
+such Distribution Taxes are attributable to, caused by, or result from, one 
+or more of the following (collectively, Forestar Tax Acts):
+
+               (i) any action or omission by Forestar or any Forestar 
+Affiliate, at any time, that is inconsistent with any information, covenant 
+or representation in an Officers Certificate, Spin-Off Tax Opinion, 
+Supplemental Spin-Off Tax Opinion, Supplemental Tax Opinion, IRS Ruling 
+Documents or Supplemental Ruling Documents, (disclosure by Forestar (or any 
+Forestar Affiliate) to Temple-Inland (or any Temple-Inland Affiliate) of 
+any action or fact that is inconsistent with any information, covenant or 
+representation submitted to Spin-Off Tax Counsel, Tax Counsel, the IRS, or 
+other Taxing Authority, as applicable, in connection with an Officers 
+Certificate, Spin-Off Tax Opinion, Supplemental Spin-Off Tax Opinion, 
+Supplemental Tax Opinion, IRS Ruling Documents, Supplemental Ruling 
+Documents, shall not relieve Forestar (or any Forestar Affiliate) of 
+liability under this Agreement);
+
+               (ii) any action or omission by Forestar or any Forestar 
+Affiliate, after the Spin-Off (including any act or omission that is in 
+furtherance of, connected to, or part of a plan or series of related 
+transactions (within the meaning of section 355(e) of the Code) occurring 
+on or prior to the Distribution), including a cessation, transfer to 
+affiliates, or disposition of the active trades or businesses, stock 
+buyback or payment of an extraordinary dividend;
+
+12
+
+------------------------------------------------------------------------
+
+
+ 
+
+               (iii) any acquisition of any stock or assets of Forestar or 
+any Forestar Affiliate, by one or more other Persons (other than 
+Temple-Inland or any Temple-Inland Affiliate) prior to or following the 
+Spin-Off;
+
+               (iv) any issuance of stock by Forestar or any Forestar 
+Affiliate, after the Spin-Off, including any issuance pursuant to the 
+exercise of employee stock options or other employment related 
+arrangements, or the exercise of warrants; or
+
+               (v) any change in ownership of stock in Forestar or any 
+Forestar Affiliate after the Spin-Off.
+
+          (c) Guarantys Liability for Distribution Taxes. Notwithstanding 
+Sections 3.01 through 3.05, Guaranty, and each Guaranty Affiliate shall be 
+jointly and severally liable for any Distribution Taxes, to the extent that 
+such Distribution Taxes are attributable to, caused by, or result from, one 
+or more of the following (collectively, Guaranty Tax Acts):
+
+               (i) any action or omission by Guaranty or any Guaranty 
+Affiliate, at any time, that is inconsistent with any information, covenant 
+or representation in an Officers Certificate, Spin-Off Tax Opinion, 
+Supplemental Spin-Off Tax Opinion, Supplemental Tax Opinion, IRS Ruling 
+Documents or Supplemental Ruling Documents, (disclosure by Guaranty (or any 
+Guaranty Affiliate) to Temple-Inland (or any Temple-Inland Affiliate) of 
+any action or fact that is inconsistent with any information, covenant or 
+representation submitted to Spin-Off Tax Counsel, Tax Counsel, the IRS, or 
+other Taxing Authority, as applicable, in connection with an Officers 
+Certificate, Spin-Off Tax Opinion, Supplemental Spin-Off Tax Opinion, 
+Supplemental Tax Opinion, IRS Ruling Documents, Supplemental Ruling 
+Documents, shall not relieve Guaranty (or any Guaranty Affiliate) of 
+liability under this Agreement);
+
+               (ii) any action or omission by Guaranty or any Guaranty 
+Affiliate, after the Spin-Off (including any act or omission that is in 
+furtherance of, connected to, or part of a plan or series of related 
+transactions (within the meaning of section 355(e) of the Code) occurring 
+on or prior to the Distribution), including a cessation, transfer to 
+affiliates, or disposition of the active trades or businesses, stock 
+buyback or payment of an extraordinary dividend;
+
+               (iii) any acquisition of any stock or assets of Guaranty or 
+any Guaranty Affiliate, by one or more other Persons (other than 
+Temple-Inland or any Temple-Inland Affiliate) prior to or following the 
+Spin-Off;
+
+               (iv) any issuance of stock by Guaranty or any Guaranty 
+Affiliate, after the Spin-Off, including any issuance pursuant to the 
+exercise of employee stock options or other employment related 
+arrangements, or the exercise of warrants; or
+
+               (v) any change in ownership of stock in Guaranty or any 
+Guaranty Affiliate after the Spin-Off.
+
+13
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (d) Joint Liability for Remaining Distribution Taxes. In the 
+event that Distribution Taxes are not otherwise allocated by Sections 
+4.01(a), (b) or (c), then the liability for such Distribution Taxes shall 
+be allocated in the manner consistent with the allocation of Unallocated 
+Liabilities described in Article VI of the Separation Agreement. In the 
+event that one or more Temple-Inland Tax Acts occur simultaneously with one 
+or more Forestar Tax Acts or Guaranty Tax Acts and these result in 
+Distribution Taxes, then the allocation of the liability for such 
+Distribution Taxes shall be allocated in the manner consistent with the 
+allocation of Unallocated Liabilities described in Article VI of the 
+Separation Agreement, and, Sections 4.01(a), (b) or (c) shall not control 
+the allocation of such Distribution Taxes.
+
+          (e) Representation. Each of Temple-Inland, Forestar and Guaranty 
+represents that, as of the date of this Agreement, neither it nor its 
+Affiliates know of any fact that it reasonably believes or should believe 
+may cause Internal Contribution 1, Internal Distribution 1, External 
+Distribution 1, Internal Contribution 2, Internal Distribution 2, Internal 
+Contribution 3, or External Distribution 2 to fail to qualify for U.S. 
+federal income tax purposes as transactions in which no income, gain, or 
+loss is recognized pursuant to section 355 of the Code.
+
+     4.02. Carrybacks.
+
+          (a) In General. Temple-Inland agrees to pay to Forestar or 
+Guaranty, as applicable, the Tax Benefits from the use, in accordance with 
+applicable law, in any Pre-Distribution Period (the Carryback Period) of 
+a carryback of any Tax Asset of the Forestar Group or Guaranty Group from a 
+Post-Distribution Period (other than a carryback of any Tax Asset 
+attributable to Distribution Taxes for which the liability is borne by 
+Temple-Inland or any Temple-Inland Affiliate). In the absence of 
+controlling legal authority, if the Temple-Inland Group and either the 
+Forestar Group or Guaranty Group or both, as applicable, can carryback Tax 
+Assets from the same Post-Distribution Period to a Carryback Period, the 
+Tax Assets of the Temple-Inland Group shall be carried back and absorbed by 
+the Temple-Inland Group first. If subsequent to the payment by 
+Temple-Inland to Forestar or Guaranty of the Tax Benefit of a carryback of 
+a Tax Asset of the Forestar Group or the Guaranty Group, there shall be a 
+Final Determination which results in a (1) change to the amount of the Tax 
+Asset so carried back or (2) change to the amount of such Tax Benefit, 
+Forestar or Guaranty, as applicable, shall repay to Temple-Inland, or 
+Temple-Inland shall repay to Forestar or Guaranty, as the case may be, any 
+amount which would not have been payable to such other Party pursuant to 
+this Section 4.02(a) had the amount of the Tax Benefit been determined in 
+light of these events. Nothing in this Section 4.02(a) shall require 
+Temple-Inland to file an amended Tax Return or claim for refund of United 
+States federal Income Taxes; provided, however, that Temple-Inland shall 
+use its reasonable efforts to carryback a Tax Asset of the Forestar Group 
+or the Guaranty Group.
+
+          (b) Net Operating Losses. Notwithstanding any other provision of 
+this Agreement, Forestar and Guaranty each hereby expressly agree to elect 
+(under section 172(b)(3) of the Code and, to the extent feasible, any 
+similar provision of any state, local or foreign Tax law) to relinquish any 
+right to carryback net operating losses to any Pre-Distribution Periods of 
+Temple-Inland (in which event no payment shall be due from Temple-Inland to 
+Forestar in respect of such net operating losses).
+
+14
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (c) Computation. Consistent with the past application of the 
+Temple-Inland Inc. Tax Allocation Policy, Temple-Inland shall provide 
+Forestar and Guaranty, as applicable, with a written calculation in 
+reasonable detail (including copies of all work sheets and other materials 
+used in preparation thereof) setting forth the amount of any Tax Benefit 
+relating to such carryback of any Tax Asset of the Forestar Group or 
+Guaranty Group from a Post-Distribution Period (other than a carryback of 
+any Tax Asset attributable to Distribution Taxes for which the liability is 
+borne by Temple-Inland or any Temple-Inland Affiliate). Forestar and 
+Guaranty, as applicable, shall have the right to review and comment on such 
+calculation. Any dispute with respect to such calculation shall be resolved 
+pursuant to Section 8.02.
+
+     4.03. Continuing Covenants.
+
+          (a) In General. Each of Temple-Inland, Forestar and Guaranty 
+agrees (1) not to take any action (or cause its Affiliates to take any 
+action) reasonably expected to result in an increased Tax liability to the 
+other, a reduction in a Tax Asset of the other or an increased liability to 
+the other under this Agreement, and (2) to take any action (and cause its 
+Affiliates to take any action) reasonably requested by the other that would 
+reasonably be expected to result in a Tax Benefit or avoid a Tax Detriment 
+to the other, provided, in either such case, that the taking or refraining 
+to take such action does not result in any additional cost not fully 
+compensated for by the other Party or any other adverse effect to such 
+Party. The Parties hereby acknowledge that the preceding sentence is not 
+intended to limit, and therefore shall not apply to, the rights of the 
+Parties with respect to matters otherwise covered by this Agreement.
+
+          (b) Restrictions. Temple-Inland, Forestar, and Guaranty, 
+respectively, agree that they will not knowingly take or fail to take, or 
+permit any Temple-Inland Affiliate, any Forestar Affiliate, or any Guaranty 
+Affiliate, as applicable, to knowingly take or fail to take, any action 
+where such action or failure to act would be inconsistent with any 
+information, covenant or representation that relates to facts or matters 
+related to Temple-Inland (or any Temple-Inland Affiliate), Forestar (or any 
+Forestar Affiliate), or Guaranty (or any Guaranty Affiliate), or within the 
+control of Temple-Inland, Forestar, or Guaranty and is contained in an 
+Officers Certificate, Spin-Off Tax Opinion, Supplemental Tax Opinion, 
+Supplemental Spin-Off Tax Opinion, IRS Ruling Documents or Supplemental 
+Ruling Documents, (except where such information, covenant or 
+representation was not previously disclosed to Temple-Inland, Forestar, or 
+Guaranty) other than as permitted by this Section 4.03. For this purpose an 
+action is considered inconsistent with a representation if the 
+representation states that there is no plan or intention to take such 
+action. Temple-Inland, Forestar, and Guaranty, respectively, agree that 
+they will not take (and it will cause the Temple-Inland Affiliates, 
+Forestar Affiliates, and Guaranty Affiliates to refrain from taking) any 
+position on a Tax Return that is inconsistent with the treatment of 
+Internal Contribution 1, Internal Distribution 1, External Distribution 1, 
+Internal Contribution 2, Internal Distribution 2, Internal Contribution 3, 
+and External Distribution 2 as transactions in which no income, gain, or 
+loss is recognized pursuant to section 355 of the Code.
+
+          (c) Certain Forestar Actions Following the Spin-Off. Forestar 
+agrees that, during the two (2) year period following the Spin-Off, 
+Forestar shall not (i) sell or otherwise transfer in a single transaction 
+or series of transactions 50% or more of the gross or net assets of the 
+active trade or business (for purposes of section 355(b) of the Code) or 
+50% or more of its consolidated
+
+15
+
+------------------------------------------------------------------------
+
+
+ 
+
+gross or net assets (such percentages to be measured based on fair market 
+values as of the date of the applicable Spin-Off); (ii) merge or 
+consolidate Forestar or any Forestar Affiliate with any other entity, 
+without regard to which party is the surviving entity except for intragroup 
+mergers involving Forestar affiliates that are wholly-owned within the 
+group; (iii) transfer any assets in a transaction described in section 351 
+(other than a transfer to a corporation which files a United States federal 
+consolidated Income Tax Return with Forestar and which is wholly-owned, 
+directly or indirectly, by Forestar), section 721 (other than transfers in 
+the ordinary course of business) or subparagraph (C) or (D) of section 
+368(a)(1) of the Code (other than a 368(a)(1)(C) or (D) reorganization 
+between Forestar affiliates that are wholly-owned within the group); (iv) 
+issue stock of Forestar or any Forestar Affiliate (or any instrument that 
+is convertible or exchangeable into any such stock) in an acquisition or 
+public or private offering (excluding any issuance pursuant to the exercise 
+of employee stock options or other employment related arrangements having 
+customary terms and conditions and that satisfy the requirements of 
+Treasury Regulations section 1.355-7(d)(8), or any successor provision 
+thereto), or (v) facilitate or otherwise participate in any acquisition 
+(whether solicited or unsolicited) of stock in Forestar that would result 
+in any shareholder owning five percent (5%) or more of the outstanding 
+stock of Forestar; provided however, Forestar shall be permitted to take 
+such action or one or more actions set forth in the foregoing clauses (i) 
+through (v) if, prior to taking such action, Forestar obtains, at its own 
+expense, (A) a supplemental opinion, in form and substance reasonably 
+acceptable to Temple-Inland, from Tax Counsel that such action will not 
+result in Distribution Taxes (a Supplemental Tax Opinion), (B) a 
+Supplemental Ruling that such action will not result in Distribution Taxes, 
+or (C) a written statement from Temple-Inland waiving the requirement to 
+obtain a Supplemental Tax Opinion or Supplemental Ruling. Temple-Inland and 
+Forestar hereby agree that they will act in good faith to take all 
+reasonable steps necessary to amend this Section 4.03(c), from time to 
+time, by mutual agreement, to (i) add certain actions to the list contained 
+herein, or (ii) remove certain actions from the list contained herein, in 
+either case, in order to reflect any relevant change in law, regulation or 
+administrative interpretation occurring after the date of this Agreement.
+
+          (d) Certain Guaranty Actions Following the Spin-Off. Guaranty 
+agrees that, during the two (2) year period following the Spin-Off, 
+Guaranty shall not (i) sell or otherwise transfer in a single transaction 
+or series of transactions 50% or more of the gross or net assets of the 
+active trade or business (for purposes of section 355(b) of the Code) or 
+50% or more of its consolidated gross or net assets (such percentages to be 
+measured based on fair market values as of the date of the applicable 
+Spin-Off); (ii) merge or consolidate Guaranty or any Guaranty Affiliate 
+with any other entity, without regard to which party is the surviving 
+entity except for intragroup mergers involving Guaranty affiliates that are 
+wholly-owned within the group; (iii) transfer any assets in a transaction 
+described in section 351 (other than a transfer to a corporation which 
+files a United States federal consolidated Income Tax Return with Guaranty 
+and which is wholly-owned, directly or indirectly, by Guaranty), section 
+721 (other than transfers in the ordinary course of business) or 
+subparagraph (C) or (D) of section 368(a)(1) of the Code (other than a 
+368(a)(1)(C) or (D) reorganization between Guaranty affiliates that are 
+wholly-owned within the group); (iv) issue stock of Guaranty or any 
+Guaranty Affiliate (or any instrument that is convertible or exchangeable 
+into any such stock) in an acquisition or public or private offering 
+(excluding any issuance pursuant to the exercise of employee stock options 
+or other employment related arrangements having customary terms and 
+conditions and that satisfy the requirements of
+
+16
+
+------------------------------------------------------------------------
+
+
+ 
+
+Treasury Regulations section 1.355-7(d)(8), or any successor provision 
+thereto), or (v) facilitate or otherwise participate in any acquisition 
+(whether solicited or unsolicited) of stock in Guaranty that would result 
+in any shareholder owning five percent (5%) or more of the outstanding 
+stock of Guaranty; provided however, Guaranty shall be permitted to take 
+such action or one or more actions set forth in the foregoing clauses (i) 
+through (v) if, prior to taking such action, Guaranty obtains, at its own 
+expense, (A) a Supplemental Tax Opinion, (B) a Supplemental Ruling that 
+such action will not result in Distribution Taxes, or (C) a written 
+statement from Temple-Inland waiving the requirement to obtain a 
+Supplemental Tax Opinion or Supplemental Ruling. Temple-Inland and Guaranty 
+hereby agree that they will act in good faith to take all reasonable steps 
+necessary to amend this Section 4.03(d), from time to time, by mutual 
+agreement, to (i) add certain actions to the list contained herein, or (ii) 
+remove certain actions from the list contained herein, in either case, in 
+order to reflect any relevant change in law, regulation or administrative 
+interpretation occurring after the date of this Agreement.
+
+          (e) Cooperation. The Parties agree that, at the request of the 
+other Party, the Parties shall cooperate fully to seek to obtain, as 
+expeditiously as possible, the Spin-Off Tax Opinion, any Supplemental 
+Spin-Off Tax Opinion, any Supplemental Tax Opinion, the IRS Ruling, and/or 
+any Supplemental Ruling. Such cooperation shall include the execution of 
+any documents that may be necessary or reasonably helpful in connection 
+with obtaining the Spin-Off Tax Opinion, Supplemental Spin-Off Tax Opinion, 
+Supplemental Tax Opinion, IRS Ruling, and/or Supplemental Ruling (including 
+any power of attorney, Officers Certificate, IRS Ruling Documents, 
+Supplemental Rulings Documents, and/or reasonably requested written 
+representations confirming that (i) Temple-Inland, Forestar or Guaranty, as 
+the case may be, has read the Officers Certificate, IRS Ruling Documents, 
+and/or Supplemental Ruling Documents, and (ii) all information and 
+representations, if any, relating to Temple-Inland (or any Temple-Inland 
+Affiliate), Forestar (or any Forestar Affiliate), or Guaranty (or any 
+Guaranty Affiliate) as the case may be, contained in the Officers 
+Certificate, IRS Ruling Documents, and/or Supplemental Ruling Documents are 
+true, correct and complete in all material respects).
+
+     4.04. Allocation of Tax Assets.
+
+          (a) In General. In connection with the Spin-Off, Temple-Inland, 
+Forestar and Guaranty shall cooperate in determining the allocation of any 
+Tax Assets among Temple-Inland, each Temple-Inland Affiliate, Forestar, 
+each Forestar Affiliate, Guaranty, and each Guaranty Affiliate. The 
+allocations will be made in accordance with applicable tax laws. The 
+Parties hereby agree that in the absence of controlling legal authority or 
+unless otherwise provided under this Agreement, Tax Assets shall be 
+allocated to the legal entity that created such Tax Assets. If any federal, 
+state or other alternative minimum tax credit carryforwards attributable to 
+any Pre-Distribution Period are initially allocated or subsequently 
+reallocated, pursuant to a Final Determination (together Allocated Credit 
+Carryforwards), to Forestar, a Forestar Affiliate, Guaranty, or a Guaranty 
+Affiliate, then Forestar and Guaranty, as applicable, shall pay to 
+Temple-Inland (i) the amount of the Tax Benefit to Forestar (or any 
+Forestar Affiliate) or Guaranty (or any Guaranty Affiliate), as the case 
+may be, of such Allocated Credit Carryforwards or (ii) the amount of the 
+Tax Detriment to Temple-Inland of such Allocated Credit Carryforwards, 
+whichever occurs earlier. These payments will continue until Temple-Inland 
+fully recovers such Allocated Credit Carryforwards.
+
+17
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (b) Earnings and Profits. Temple-Inland will advise Forestar and 
+Guaranty in writing of the decrease in Temple-Inland earnings and profits 
+attributable to the Spin-Off under section 312(h) of the Code on or before 
+the first anniversary of the relevant Distribution Date; provided, however
+, that Temple-Inland shall provide Forestar and Guaranty with estimates of 
+such amounts (determined in accordance with past practice) prior to such 
+anniversary as reasonably requested by Forestar and Guaranty. Any 
+reasonable third party cost incurred after the Spin-Off in connection with 
+determining the earnings and profits attributable to the Spin-Off shall be 
+allocated among Temple-Inland, Forestar and Guaranty consistent with the 
+allocation of Unallocated Liabilities described in Article VI of the 
+Separation Agreement.
+
+Section 5. Indemnification.
+
+     5.01. Temple-Inland Indemnity. Temple-Inland shall indemnify Forestar, 
+each Forestar Affiliate, Guaranty, each Guaranty Affiliate and their 
+respective directors, officers and employees, and hold them harmless from 
+and against any and all Taxes for which Temple-Inland or any Temple-Inland 
+Affiliate is liable under this Agreement and any loss, cost, damage, fine, 
+penalty, or other expense of any kind, including reasonable attorneys fees 
+and costs, that is attributable to, or results from, the failure of 
+Temple-Inland, any Temple-Inland Affiliate or any director, officer or 
+employee to make any payment required to be made under this Agreement or 
+from the failure of Temple-Inland, any Temple-Inland Affiliate or any 
+director, officer or employee to provide complete and accurate information 
+in connection with the preparation of any tax return. Temple-Inland shall 
+further indemnify Guaranty, each Guaranty Affiliate and their respective 
+directors, officers and employees, and hold them harmless from and against 
+state Income Taxes resulting from a Final Determination that Internal 
+Distribution 2 and External Distribution 2 fail to satisfy the requirements 
+of section 355(b) of the Code as in effect on May 16, 2006, including any 
+losses, damages, or other expenses that are attributable to such failure, 
+subject to the following limitation. Guaranty, Guarantys Affiliates, and 
+the respective directors, officers and employees have made covenants, 
+provided information and made representations related to tax matters in 
+this Agreement, the Officers Certificate, Spin-Off Tax Opinion, IRS Ruling 
+Documents and other opinions as to the tax effect of an aspect of the Plan 
+of Separation. To the extent any Taxes, losses, damages, costs or expenses 
+of any kind result from an indemnified Persons breach of any of those 
+covenants or failure to provide true, correct, and complete information, 
+Temple-Inland shall not be responsible under the indemnities in this 
+Section 5.01 and shall not indemnify any Person for those Taxes, losses, 
+damages, costs or expenses, provided that for the purpose of this section 
+only, statements as to future intention shall not be the basis for a 
+failure of a representation or the basis for a claim of providing untrue, 
+incorrect or incomplete information unless the statement was intentionally 
+misleading or made in bad faith.
+
+     5.02. Forestar Indemnity. Forestar and each Forestar Affiliate shall 
+jointly and severally indemnify Temple-Inland, each Temple-Inland 
+Affiliate, Guaranty, each Guaranty Affiliate, and their respective 
+directors, officers and employees, and hold them harmless from and against 
+any and all Taxes for which Forestar or any Forestar Affiliate is liable 
+under this Agreement and any loss, cost, damage, fine, penalty, or other 
+expense of any kind, including reasonable attorneys fees and costs, that 
+is attributable to, or results from, the failure of Forestar,
+
+18
+
+------------------------------------------------------------------------
+
+
+ 
+
+any Forestar Affiliate or any director, officer or employee to make any 
+payment required to be made under this Agreement or from the failure of 
+Forestar, any Forestar Affiliate or any director, officer or employee to 
+provide complete and accurate information in connection with the 
+preparation of any tax return.
+
+     5.03 Guaranty Indemnity. Guaranty and each Guaranty Affiliate shall 
+jointly and severally indemnify Temple-Inland, each Temple-Inland 
+Affiliate, Forestar, each Forestar affiliate, and their respective 
+directors, officers and employees, and hold them harmless from and against 
+any and all Taxes for which Guaranty or any Guaranty Affiliate is liable 
+under this Agreement and any loss, cost, damage, fine, penalty, or other 
+expense of any kind, including reasonable attorneys fees and costs, that 
+is attributable to, or results from, the failure of Guaranty, any Guaranty 
+Affiliate or any director, officer or employee to make any payment required 
+to be made under this Agreement or from the failure of Guaranty, any 
+Guaranty Affiliate, or any director, officer or employee to provide 
+complete and accurate information in connection with the preparation of any 
+tax return.
+
+Section 6. Payments.
+
+     6.01. Estimated Tax Payments. Estimated tax payments attributable to 
+Pre-Distribution Periods will be made in accordance with past Temple-Inland 
+practices and the Temple-Inland Inc. Tax Allocation Policy. For 
+Post-Distribution Periods, Temple-Inland, Forestar, and Guaranty will each 
+be responsible for payment of their respective estimated tax payments.
+
+     6.02. True-Up Payments. Not later than thirty (30) Business Days after 
+the filing of a Consolidated or Combined Tax Return (i) Forestar shall pay 
+to Temple-Inland, or Temple-Inland shall pay to Forestar, as appropriate, 
+an amount equal to the difference, if any, between the Tax liability of 
+Forestar and the aggregate amount paid by Forestar with respect to such 
+period under Section 6.01 and (ii) Guaranty shall pay to Temple-Inland, or 
+Temple-Inland shall pay to Guaranty, as appropriate, an amount equal to the 
+difference, if any, between the Tax liability of Guaranty and the aggregate 
+amount paid by Guaranty with respect to such period under Section 6.01
+
+     6.03. Redetermination Amounts. In the event of a redetermination of 
+any Tax Item reflected on any Consolidated Return or Combined Return (other 
+than Tax Items relating to Distribution Taxes), as a result of a refund or 
+credit of Taxes paid, a Final Determination or any settlement or compromise 
+with any Taxing Authority which in any such case would affect the Tax 
+liability of Forestar or Tax liability of Guaranty, Temple-Inland shall 
+prepare a revised pro forma Tax Return in accordance with Section 2.01(a) 
+for the relevant taxable period reflecting the redetermination of such Tax 
+Item as a result of such refund, Final Determination, settlement or 
+compromise. Forestar and/or Guaranty shall pay to Temple-Inland, or 
+Temple-Inland shall pay to Forestar and/or Guaranty, as appropriate, an 
+amount equal to the difference, if any, between the Tax liability of 
+Forestar or Tax liability of Guaranty reflected on such revised pro forma 
+Tax Return and the Tax liability of Forestar or Tax liability of Guaranty 
+for such period as originally computed pursuant to this Agreement.
+
+19
+
+------------------------------------------------------------------------
+
+
+ 
+
+     6.04. Payments of Refunds and Credits. If one Party receives a refund 
+or credit of any Tax to which the other Party is entitled pursuant to 
+Section 3.05, the Party receiving such refund or credit shall pay to the 
+other Party the amount of such refund or credit pursuant to Section 6.05.
+
+     6.05. Payments Under This Agreement. In the event that one Party (the 
+Owing Party) is required to make a payment to another Party (the Owed 
+Party) pursuant to this Agreement, then such payments shall be made 
+according to this Section 6.05.
+
+          (a) In General. All payments shall be made to the Owed Party or 
+to the appropriate Taxing Authority as specified by the Owed Party within 
+the time prescribed for payment in this Agreement, or if no period is 
+prescribed, within twenty (20) days after delivery of written notice of 
+payment owing together with a computation of the amounts due.
+
+          (b) Treatment of Payments. Unless otherwise required by any Final 
+Determination, the Parties agree that any payments made by one Party to 
+another Party pursuant to this Agreement (other than (i) payments of After 
+Tax Amounts pursuant to Section 6.05(d), and (ii) payments of interest 
+pursuant to Section 6.05(e)) shall be treated for all Tax purposes as 
+nontaxable payments (dividend distributions or capital contributions, as 
+the case may be) made immediately prior to the Spin-Offs and, accordingly, 
+as not includible in the taxable income of the recipient or as deductible 
+by the payor.
+
+          (c) Prompt Performance. All actions required to be taken 
+(including payments) by any Party under this Agreement shall be performed 
+within the time prescribed for performance in this Agreement, or if no 
+period is prescribed, such actions shall be performed promptly.
+
+          (d) After Tax Amounts. If pursuant to a Final Determination it is 
+determined that the receipt or accrual of any payment made under this 
+Agreement (other than payments of interest pursuant to Section 6.05(e)) is 
+subject to any Tax, the Party making such payment shall be liable for (a) 
+the After Tax Amount with respect to such payment and (b) interest at the 
+rate described in Section 6.05(e) on the amount of such Tax from the date 
+such Tax accrues with respect to the receipt of such payment through the 
+date of payment of such After Tax Amount. A Party making a demand for a 
+payment pursuant to this Agreement and for a payment of an After Tax Amount 
+with respect to such payment shall separately specify and compute such 
+After Tax Amount. However, a Party may choose not to specify an After Tax 
+Amount in a demand for payment pursuant to this Agreement without thereby 
+being deemed to have waived its right subsequently to demand an After Tax 
+Amount with respect to such payment.
+
+          (e) Interest. Payments pursuant to this Agreement that are not 
+made within the period prescribed in this Agreement (the Payment Period) 
+shall bear interest for the period from and including the date immediately 
+following the last date of the Payment Period through and including the 
+date of payment at a per annum rate equal to the Prime Rate plus two 
+percent (2%) (or the maximum legal rate whichever is lower). Such interest 
+will be payable at the same time as the payment to which it relates and 
+shall be calculated on the basis of a year of three hundred sixty-five 
+(365) days and the actual number of days for which due.
+
+20
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (f) Procedures. Any claim for indemnification under this Section 
+6 shall be governed by, and be subject to, the provisions of Article VII of 
+the Separation Agreement, which provisions are hereby incorporated by 
+reference into this Agreement and any references to Agreement in such 
+Article VII as incorporated herein shall be deemed to be references to this 
+Agreement.
+
+Section 7. Tax Proceedings.
+
+     7.01. In General. Except as otherwise provided in this Agreement, the 
+Party responsible for preparing and filing a Tax Return pursuant to Section 
+2 (the Filing Party) shall have the exclusive right, in its sole 
+discretion, to control, contest, and represent the interests of 
+Temple-Inland, any Temple-Inland Affiliate, Forestar, any Forestar 
+Affiliate, Guaranty or any Guaranty Affiliate in any Audit relating to such 
+Tax Return and to resolve, settle or agree to any deficiency, claim or 
+adjustment proposed, asserted or assessed in connection with or as a result 
+of any such Audit. The Filing Partys rights shall extend to any matter 
+pertaining to the management and control of an Audit, including execution 
+of waivers, choice of forum, scheduling of conferences and the resolution 
+of any Tax Item. Any costs incurred in handling, settling, or contesting an 
+Audit shall be borne by the Filing Party.
+
+     7.02. Participation of non-Filing Party. Except as otherwise provided 
+in this Agreement, the non-Filing Party shall, if requested, be kept 
+reasonably informed on the status of any Audit involving a Sole 
+Responsibility Item or a Joint Responsibility Item. The Filing Party shall 
+not (i) settle any Audit it controls concerning any such Sole 
+Responsibility Item if such Item is more than $200,000 or (ii) settle any 
+Audit it controls concerning any such Joint Responsibility Item, in each 
+case without the prior written consent of the non-Filing Party, and such 
+consent shall not be unreasonably withheld.
+
+     7.03. Notice. Within thirty (30) days after a Party becomes aware of 
+the existence of a Tax issue that is reasonably expected to give rise to an 
+indemnification obligation under this Agreement, such Party shall give 
+notice to the other Party of such issue (such notice shall contain factual 
+information, to the extent known, describing any asserted tax liability in 
+reasonable detail), and shall forward to the other Party copies of all 
+notices and material communications with any Taxing Authority relating to 
+such issue. Notwithstanding any provision in Section 8.06 to the contrary, 
+if a Party to this Agreement fails to provide the other Party notice as 
+required by this Section 7.03, and the failure results in a detriment to 
+the other Party then any amount which the other Party is otherwise required 
+to pay pursuant to this Agreement shall be reduced by the amount of such 
+detriment.
+
+     7.04. Control of Distribution Tax Proceedings. Forestar or Guaranty 
+may assume sole control of any Audits relating to Distribution Taxes if it 
+acknowledges in writing that it has sole liability for any Distribution 
+Taxes under Section 4.01(b) or (c), as the case may be, that might arise in 
+such Audit and can demonstrate to the reasonable satisfaction of 
+Temple-Inland that it can satisfy its liability for any such Distribution 
+Taxes.
+
+21
+
+------------------------------------------------------------------------
+
+
+ 
+
+Section 8. Miscellaneous.
+
+     8.01. Cooperation and Exchange of Information.
+
+          (a) Cooperation. The Parties shall each cooperate fully (and each 
+shall cause its respective Affiliates to cooperate fully) with all 
+reasonable requests from another Party for information, data files and 
+materials not otherwise available to the requesting Party in connection 
+with the preparation and filing of Tax Returns, claims for refund, and 
+Audits concerning issues or other matters covered by this Agreement or in 
+connection with the determination of a liability for Taxes or a right to a 
+refund of Taxes. Such cooperation shall include:
+
+               (i) the retention until the expiration of the applicable 
+statute of limitations, and the provision upon request, of copies of all 
+Tax Returns, books, records (including information regarding ownership and 
+Tax basis of property), documentation and other information relating to the 
+Tax Returns, including accompanying schedules, related work papers, and 
+documents relating to rulings or other determinations by Taxing Authorities 
+(collectively, Tax Material), provided, however, that no such retention 
+obligation shall exist to the extent such Tax Material has previously been 
+provided from one Party to the other Party;
+
+               (ii) the execution of any document that may be necessary or 
+reasonably helpful in connection with any Tax Proceeding, or the filing of 
+a Tax Return or refund claim by a member of the Temple-Inland Group, the 
+Forestar Group, or the Guaranty Group including certification, to the best 
+of a Partys knowledge, of the accuracy and completeness of the information 
+it has supplied; and
+
+               (iii) the use of the Partys reasonable best efforts to 
+obtain any documentation that may be necessary or reasonably helpful in 
+connection with any of the foregoing. Each Party shall make its employees 
+and facilities available on a reasonable and mutually convenient basis in 
+connection with the foregoing matters.
+
+               (iv) the sharing of information to enable each Party to 
+timely fulfill its reporting requirements pursuant to Treasury Regulations 
+sections 1.355-5 and 1.368-3.
+
+          (b) Retention of Records.
+
+               (i) Temple-Inland, or any Temple-Inland Affiliate, that is 
+in possession of documentation relating to Forestar, or any Forestar 
+Affiliate, Guaranty, or any Guaranty Affiliate, including books, records, 
+Tax Returns and all supporting schedules and information relating thereto 
+that has not been previously provided to Forestar or Guaranty by 
+Temple-Inland (the Forestar Business Records or Guaranty Business 
+Records), and Forestar, or any Forestar Affiliate, and Guaranty, or any 
+Guaranty Affiliate, that is in possession of documentation relating to the 
+Temple-Inland, or any Temple-Inland Affiliate, including books, records, 
+Tax Returns and all supporting schedules and information relating thereto 
+that has not been previously provided to Temple-Inland by Forestar or 
+Guaranty (the Temple-Inland Business Records), shall each retain such 
+Forestar Business Records, Guaranty Business Records or Temple-Inland 
+Business Records (i) for a period of seven (7) years following the Forestar 
+and Guaranty Distribution
+
+22
+
+------------------------------------------------------------------------
+
+
+ 
+
+Dates or (ii) until the expiration of the applicable statute of 
+limitations, whichever is longer. Thereafter, (i) if Temple-Inland wishes 
+to dispose of Forestar or Guaranty Business Records in its possession, 
+Temple-Inland shall provide written notice to Forestar or Guaranty 
+describing the documentation proposed to be destroyed or disposed of sixty 
+(60) Business Days prior to taking such action, and Forestar or Guaranty 
+may arrange to take delivery of any or all of the documentation described 
+in the notice at its expense during the succeeding sixty (60) day period; 
+and (ii) if Forestar or Guaranty wishes to dispose of Temple-Inland 
+Business Records in its possession, Forestar or Guaranty shall provide 
+written notice to Temple-Inland describing the documentation proposed to be 
+destroyed or disposed of sixty (60) Business Days prior to taking such 
+action, and Temple-Inland may arrange to take delivery of any or all of the 
+documentation described in the notice at its expense during the succeeding 
+sixty (60) day period.
+
+               (ii) Forestar, or any Forestar Affiliate, that is in 
+possession of Guaranty Business Records that have not been previously 
+provided to Guaranty by Forestar, and Guaranty, or any Guaranty Affiliate, 
+that is in possession of Forestar Business Records that have not been 
+previously provided to Forestar by Guaranty shall each retain such Guaranty 
+Business Records or Forestar Business Records (i) for a period of seven (7) 
+years following the Forestar and Guaranty Distribution Dates or (ii) until 
+the expiration of the applicable statute of limitations, whichever is 
+longer. Thereafter, (i) if Forestar wishes to dispose of Guaranty Business 
+Records in its possession, Forestar shall provide written notice to 
+Guaranty describing the documentation proposed to be destroyed or disposed 
+of sixty (60) Business Days prior to taking such action, and Guaranty may 
+arrange to take delivery of any or all of the documentation described in 
+the notice at its expense during the succeeding sixty (60) day period; and 
+(ii) if Guaranty wishes to dispose of Forestar Business Records in its 
+possession, Guaranty shall provide written notice to Forestar describing 
+the documentation proposed to be destroyed or disposed of sixty (60) 
+Business Days prior to taking such action, and Forestar may arrange to take 
+delivery of any or all of the documentation described in the notice at its 
+expense during the succeeding sixty (60) day period
+
+     8.02. Dispute Resolution. In the event that any of the Parties 
+disagree as to the amount or calculation of any payment to be made under 
+this Agreement, or the interpretation or application of any provision under 
+this Agreement, the disagreement shall be resolved in accordance with 
+Article IX of the Separation Agreement provided however that the provisions 
+in section 9.12 of the Separation Agreement shall not apply. 
+Notwithstanding anything in this Agreement to the contrary, the dispute 
+resolution provisions set forth in this Section 8.02 shall not be 
+applicable to any disagreement between the Parties relating to federal 
+Distribution Taxes and any such dispute shall be settled in a court of law 
+or as otherwise agreed to by the Parties.
+
+     8.03. Complete Agreement; Construction. This Agreement, including the 
+Appendix, shall constitute the entire agreement between the Parties with 
+respect to the subject matter hereof and shall supersede all previous 
+negotiations, commitments and writings with respect to such subject matter. 
+This Agreement supersedes any prior tax matters agreements between 
+Temple-Inland (or any Temple-Inland Affiliate), Forestar (or any Forestar 
+Affiliate) and/or Guaranty (or any Guaranty Affiliate) and such prior tax 
+matters agreements shall have no further force and effect. In the event of 
+any conflict between the terms and conditions of the body of this Agreement 
+and the terms and conditions of the Appendix, the terms and conditions of 
+such Appendix shall control. In the event of any conflict between the terms 
+and conditions of this
+
+23
+
+------------------------------------------------------------------------
+
+
+ 
+
+Agreement and the terms and conditions of the Separation Agreement or any 
+other Ancillary Agreement, the terms and conditions of this Agreement shall 
+control.
+
+     8.04. Counterparts. This Agreement may be executed in more than one 
+counterparts, all of which shall be considered one and the same agreement, 
+and shall become effective when one or more such counterparts have been 
+signed by each of the Parties and delivered to the other Parties. Execution 
+of this Agreement or any other documents pursuant to this Agreement by 
+facsimile or other electronic copy of a signature shall be deemed to be, 
+and shall have the same effect as, execution by original signature.
+
+     8.05. Survival of Agreement. Except as otherwise contemplated by this 
+Agreement, all covenants and agreements of the Parties contained in this 
+Agreement shall survive the Effective Time and remain in full force and 
+effect in accordance with their applicable terms.
+
+     8.06. Notices. All notices, requests, claims, demands and other 
+communications under this Agreement, as between the Parties, shall be in 
+writing and shall be given or made (and shall be deemed to have been duly 
+given or made upon receipt unless the day of receipt is not a Business Day, 
+in which case it shall be deemed to have been duly given or made on the 
+next Business Day) by delivery in person, by overnight courier service, by 
+facsimile with receipt confirmed (followed by delivery of an original via 
+overnight courier service) or by registered or certified mail (postage 
+prepaid, return receipt requested) to the respective Parties at the 
+following addresses (or at such other address for a Party as shall be 
+specified in a notice given in accordance with this Section 8.06):
+  	  	  	  	 
+  	  	To Temple-Inland:
+ 
+  	  	  	 
+ 
+  	  	  	Temple-Inland Inc.
+ 
+  	  	  	1300 Mopac Expressway South
+ 
+  	  	  	Austin, TX 78746
+ 
+  	  	  	[Attn: Morris Davis, General Counsel]
+ 
+  	  	  	 
+ 
+  	  	  	Facsimile: ( )
+ 
+  	  	  	 
+  	  	To Forestar:
+ 
+  	  	  	 
+ 
+  	  	  	Forestar Real Estate Group Inc.
+ 
+  	  	  	[Address]
+ 
+  	  	  	Attn: [To come]
+ 
+  	  	  	Facsimile: ( )
+ 
+  	  	  	 
+  	  	To Guaranty:
+ 
+  	  	  	 
+ 
+  	  	  	Guaranty Financial Group Inc.
+
+24
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	  	  	[Address]
+ 
+  	  	  	Attn: [To come]
+ 
+  	  	  	Facsimile: ( )
+
+     8.07. Changes in Law.
+
+          (a) Any reference to a provision of the Code or a law of another 
+jurisdiction shall include a reference to any applicable successor 
+provision or law.
+
+          (b) If, due to any change in applicable law or regulations or 
+their interpretation by any court of law or other governing body having 
+jurisdiction subsequent to the date of this Agreement, performance of any 
+provision of this Agreement or any transaction contemplated thereby shall 
+become impracticable or impossible, the Parties hereto shall use their 
+commercially reasonable efforts to find and employ an alternative means to 
+achieve the same or substantially the same result as that contemplated by 
+such provision.
+
+     8.08. Waivers. The failure of any Party to require strict performance 
+by any other Party of any provision in this Agreement will not waive or 
+diminish that Partys right to demand strict performance thereafter of that 
+or any other provision hereof.
+
+     8.09. Amendments. Subject to the terms of Section 8.12, this Agreement 
+may not be modified or amended except by an agreement in writing signed by 
+each of the Parties.
+
+     8.10. Assignment. Except as otherwise expressly provided for in this 
+Agreement, this Agreement shall not be assignable, in whole or in part, by 
+any Party without the prior written consent of the other Party, and any 
+attempt to assign any rights or obligations arising under this Agreement 
+without such consent shall be null and void; provided, that a Party may 
+assign this Agreement in connection with a merger transaction in which such 
+Party is not the surviving entity or the sale by such Party of all or 
+substantially all of its Assets, and upon the effectiveness of such 
+assignment, the assigning Party shall be released from all of its 
+obligations under this Agreement, if the surviving entity of such merger or 
+the transferee of such Assets shall agree in writing in form and substance 
+reasonably satisfactory to the other Party, to be bound by the terms of 
+this Agreement as if named as a Party hereto.
+
+     8.11. Successors and Assigns. The provisions of this Agreement and the 
+obligations and rights hereunder shall be binding upon, inure to the 
+benefit of and be enforceable by (and against) the Parties and their 
+respective successors and permitted transferees and assigns.
+
+     8.12. Termination, Etc. Notwithstanding anything to the contrary 
+herein, this Agreement (including Section 5 (Indemnification) hereof) may 
+be terminated and abandoned at any time prior to the Forestar Distribution 
+Date or the Guaranty Distribution Date by and in the sole discretion of 
+Temple-Inland without the approval of Forestar, Guaranty, or the 
+stockholders of Temple-Inland. In the event of such termination, no Party 
+shall have any liability to any other Party or any other Person. After the 
+earlier of the Forestar Distribution Date or the Guaranty
+
+25
+
+------------------------------------------------------------------------
+
+
+ 
+
+Distribution Date, this Agreement may not be terminated except by an 
+agreement in writing signed by each of the Parties.
+
+     8.13. Third Party Beneficiaries. Except as otherwise expressly 
+provided in this Agreement, this Agreement is solely for the benefit of the 
+Parties and should not be deemed to confer upon third parties any remedy, 
+claim, liability, reimbursement, cause of action or other right in excess 
+of those existing without reference to this Agreement.
+
+     8.14. Interpretations. Titles and headings to sections herein are 
+inserted for the convenience of reference only and are not intended to be a 
+part of or to affect the meaning or interpretation of this Agreement.
+
+     8.15. Schedules. The Schedules attached hereto are incorporated herein 
+by reference and shall be construed with and as an integral part of this 
+Agreement to the same extent as if the same had been set forth verbatim 
+herein.
+
+     8.16. Governing Law. This Agreement shall be governed by and construed 
+in accordance with the internal laws, and not the laws governing conflicts 
+of laws, of the State of Texas.
+
+     8.17. Consent to Jurisdiction. Subject to the provisions of this 
+section 8.17, each of the Parties irrevocably submits to the exclusive 
+jurisdiction of (a) the District Court of the State of Texas for Travis 
+County, and (b) the United States District Court for the Western District 
+of Texas, Austin Division (the Texas Courts), for the purposes of any 
+suit, action or other proceeding to compel arbitration or for provisional 
+relief in aid of arbitration in accordance with Section 8.02 or for 
+provisional relief to prevent irreparable harm, and to the non-exclusive 
+jurisdiction of the Texas Courts for the enforcement of any award issued 
+thereunder. Each of the Parties further agrees that service of any process, 
+summons, notice or document by United States registered mail to such 
+Partys respective address set forth above shall be effective service of 
+process for any action, suit or proceeding in the Texas Courts with respect 
+to any matters to which it has submitted to jurisdiction in this Section 
+8.17. Each of the Parties irrevocably and unconditionally waives any 
+objection to the laying of venue of any action, suit or proceeding arising 
+out of this Agreement or the transactions contemplated hereby in the Texas 
+Courts, and hereby further irrevocably and unconditionally waives and 
+agrees not to plead or claim in any such court that any such action, suit 
+or proceeding brought in any such court has been brought in an inconvenient 
+forum.
+
+     8.18. Specific Performance. The Parties agree that irreparable damage 
+would occur in the event that the provisions of this Agreement were not 
+performed in accordance with their specific terms. Accordingly, it is 
+hereby agreed that the Parties shall be entitled to (i) an injunction or 
+injunctions to enforce specifically the terms and provisions hereof in any 
+arbitration in accordance with Section 8.02 herein, (ii) provisional or 
+temporary injunctive relief in accordance therewith in any Texas Court, and 
+(iii) enforcement of any such award of an arbitral tribunal or a Texas 
+Court in any court of the United States, or any other court or tribunal 
+sitting in any state of the United States or in any foreign country that 
+has jurisdiction, this being in addition to any other remedy or relief to 
+which they may be entitled.
+
+26
+
+------------------------------------------------------------------------
+
+
+ 
+
+     8.19. Waiver of Jury Trial. SUBJECT TO SECTIONS 8.02, 8.17 AND 8.18 
+HEREIN, EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED 
+BY APPLICABLE LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO 
+ANY COURT PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF AND PERMITTED 
+UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED 
+BY THIS AGREEMENT. EACH OF THE PARTIES HEREBY (A) CERTIFIES THAT NO 
+REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, 
+EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF 
+LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT 
+IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE TRANSACTIONS 
+CONTEMPLATED BY THIS AGREEMENT, AS APPLICABLE, BY, AMONG OTHER THINGS, THE 
+MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 8.19.
+
+     8.20. Severability. In the event any one or more of the provisions 
+contained in this Agreement should be held invalid, illegal or 
+unenforceable in any respect, the validity, legality and enforceability of 
+the remaining provisions contained herein shall not in any way be affected 
+or impaired thereby, and the Parties shall endeavor in good-faith 
+negotiations to replace the invalid, illegal or unenforceable provisions 
+with valid provisions, the economic effect of which comes as close as 
+possible to that of the invalid, illegal or unenforceable provisions.
+
+     8.21. Force Majeure. No Party (or any person acting on its behalf) 
+shall have any liability or responsibility for failure to fulfill any 
+obligation (other than a payment obligation) under this Agreement so long 
+as and to the extent to which the fulfillment of such obligation is 
+prevented, frustrated, hindered or delayed as a consequence of 
+circumstances of Force Majeure. A Party claiming the benefit of this 
+provision shall, as soon as reasonably practicable after the occurrence of 
+any such event: (a) notify the other Party of the nature and extent of any 
+such Force Majeure condition and (b) use due diligence to remove any such 
+causes and resume performance under this Agreement as soon as reasonably 
+practicable.
+
+     8.22. No Circumvention. The Parties agree not to directly or 
+indirectly take any actions, act in concert with any person who takes an 
+action, or cause or allow any member Affiliate to take any actions 
+(including the failure to take a reasonable action) such that the resulting 
+effect is to materially undermine the effectiveness of any of the 
+provisions of this Agreement (including adversely affecting the rights or 
+ability of any Party to successfully pursue indemnification, contribution 
+or payment pursuant to Sections 5 and 6).
+
+     8.23. Authorization. Each of the Parties hereby represents and 
+warrants that it has the power and authority to execute, deliver and 
+perform this Agreement, that this Agreement has been duly authorized by all 
+necessary corporate action on the part of such Party, that this Agreement 
+constitutes a legal, valid and binding obligation of each such Party and 
+that the execution, delivery and performance of this Agreement by such 
+Party does not contravene or conflict with any provision of law or of its 
+charter or bylaws or any material agreement, instrument or order binding on 
+such Party.
+
+27
+
+------------------------------------------------------------------------
+
+
+ 
+
+     8.24. Setoff. All payments to be made by any Party under this 
+Agreement may be netted against payments due to such Party under this 
+Agreement, but otherwise shall be made without setoff, counterclaim or 
+withholding, all of which are hereby expressly waived.
+
+     8.25. Confidentiality. The Parties shall comply with the 
+confidentiality provisions in Article VIII of the Separation Agreement.
+
+     8.26. Affiliates. Each of the Parties shall cause to be performed all 
+actions, agreements and obligations set forth herein to be performed by any 
+Affiliate of such Party or by any entity that becomes an Affiliate of such 
+Party on and after the relevant Distribution Date.
+
+     8.27. Construction. The Parties have participated jointly in the 
+negotiation and drafting of this Agreement. This Agreement shall be 
+construed without regard to any presumption or rule requiring construction 
+or interpretation against the party drafting or causing any instrument to 
+be drafted.
+
+     8.28. Effective Time. This Agreement shall be effective as of the 
+Effective Time.
+
+
+[Signature Pages Follow]
+
+28
+
+------------------------------------------------------------------------
+
+
+ 
+
+               IN WITNESS WHEREOF, the Parties caused this Tax Matters 
+Agreement to be duly executed as of the day and year first above written.
+  	  	  	  	  	  	 
+  	  	TEMPLE-INLAND INC.
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	Name: 	  	
+ 
+  	 
+ 
+  	Title: 	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	FORESTAR REAL ESTATE GROUP INC.
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	Name: 	  	
+ 
+  	 
+ 
+  	Title: 	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	GUARANTY FINANCIAL GROUP INC.
+ 
+  	By: 	  	  	  	 
+ 
+  	Name: 	  	
+ 
+  	 
+ 
+  	Title: 	  	  	  	 
+
+29
