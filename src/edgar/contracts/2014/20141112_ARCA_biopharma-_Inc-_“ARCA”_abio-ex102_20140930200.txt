@@ -1,0 +1,298 @@
+ EX-10.2 3 abio-ex102_20140930200.htm EX-10.2
+ 
+Exhibit 10.2
+
+[*] = Certain confidential information contained in this document, marked 
+by brackets, is filed with the Securities and Exchange Commission pursuant 
+to Rule 24b-2 of the Securities Exchange Act of 1934, as amended
+
+SECOND AMENDMENT TO CLINICAL TRIAL COLLABORATION AGREEMENT
+
+This Second Amendment to Clinical Trial Collaboration Agreement (this “
+Amendment”) is made and entered into as of August 28, 2014 (the “Amendment 
+Effective Date”) and amends the Clinical Trial Collaboration Agreement 
+dated April 18, 2013, as amended effective June 15, 2014 (“Agreement”) 
+between ARCA biopharma, Inc., a Delaware corporation (hereinafter “ARCA”), 
+and Medtronic, Inc., a Delaware corporation (hereinafter “Medtronic”) 
+(collectively, the “Parties”).
+
+INTRODUCTION
+
+ARCA is currently conducting the Phase 2B Study and has determined that 
+changes in the terms of the Agreement would improve the progress of the 
+Phase 2B Study.  To that end, the Parties have agreed to modify the 
+Agreement as provided in this Amendment.  
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual 
+covenants contained herein, and other good and valuable consideration, the 
+receipt and sufficiency of which is hereby acknowledged, the parties hereby 
+agree as follows:
+
+ARTICLE I
+
+Terms defined in the Agreement have the same meaning when used in this 
+Amendment, except to the extent a term is defined differently in this 
+Amendment.
+
+ARTICLE II
+
+Section 5.1 (a) of the Agreement is hereby deleted and replaced in its 
+entirety with the following:
+
+(a)     Medtronic will use its CareLink System and the Medtronic Devices 
+implanted in patients in the Phase 2B Study to support the collection and 
+analysis of AF burden data from up to 200 patients enrolled in the Phase 2B 
+Study.  [*] The AF Burden Substudy Protocol will require that the patients 
+in the Phase 2B Study will either have an existing implanted Medtronic 
+Device, or will have a Reveal inserted as part of enrollment in the Phase 
+2B Study; provided, that up to [*] of the patients in the Phase 2B study 
+may be enrolled without having a Medtronic Device implanted (“Non-Medtronic 
+Device Patients”).  Such non-Medtronic Device Patients may include patients 
+with no cardiac monitoring device of any kind, as well as patients 
+implanted with cardiac monitoring devices made by other manufacturers.  The 
+AF Burden Substudy Protocol will also require that all patients with 
+implanted Medtronic Devices be enrolled in CareLink.  Medtronic has no 
+obligation to provide CRMA Services in connection with Non-Medtronic Device 
+Patients.
+
+ARTICLE III
+
+Section 5.2 of the Agreement is hereby deleted and replaced in its entirety 
+with the following:
+
+5.2     The Parties shall agree on an enrollment plan for the Phase 2B 
+Study to ensure that all patients eligible for the study are actively 
+enrolled, including those with existing Medtronic Devices and those willing 
+to have a Reveal device implanted.  Eligible patients without a Medtronic 
+Device will be implanted with a Reveal without unreasonable delay.  
+Medtronic shall ensure that sufficient Reveal devices and patient monitors 
+are reasonably available to ARCA in order to avoid unreasonable delay in 
+the enrollment process, and shall be responsible for distributing Reveals 
+to the Study sites that require them based on device orders from ARCA. 
+Medtronic shall provide training and technical support for Medtronic 
+Devices, including training relating to insertion and use of Reveals, to 
+the investigators.  Medtronic will support the reimbursement process for 
+Reveals and the patient monitors, including insertion and, if necessary, 
+explantation, by providing information about reimbursement opportunities to 
+investigators.  If reimbursement for the Reveal device and patient monitor 
+is denied for a patient who receives one during enrollment in the Phase 2B 
+Study after the implanting physician has made reasonable efforts and 
+cooperated with Medtronic in pursuit of reimbursement, [*], taken in the 
+order of reimbursement denial, [*]; and b) only if required up to [*] for 
+the cost of the explant procedure, and up to [*] for explant physician fees 
+per patient.  The Parties agree that the payments made by Medtronic 
+hereunder: (a) are consistent with the fair market value of the applicable 
+services and are inclusive of any and all applicable fees, personnel costs, 
+overhead and the like; and (b) have not been determined in a manner that 
+takes into account the volume or value of any referrals or business 
+otherwise generated between the Parties and any third party.  The Parties 
+also agree that the payments made by Medtronic described in this Section 
+5.2 constitute the complete and full compensation owed by Medtronic to ARCA 
+for the work performed under this Agreement and Medtronic shall not be 
+liable to ARCA or to any third party for any other payments which may be 
+associated with this Agreement or
+
+ 
+1
+ 
+------------------------------------------------------------------------
+ 
+
+with any of the services provided hereunder. ARCA shall provide Medtronic 
+with an invoice along with accompanying documentation, in a form 
+satisfactory to Medtronic, of the contracted implant, explant and physician 
+fees for which payment is sought under this Section 5.2.  All fees ARCA 
+seeks for a given patient shall be included on a single invoice.  Medtronic 
+is not required to make any payment to ARCA for any invoice submitted 
+hereunder until it has had the required documentation for at least 30 days, 
+and ARCA shall not submit invoices to Medtronic more often than once every 
+three months.
+
+(a)     In addition to the reimbursement process provided for in Section 
+5.2, ARCA will have the right, but not the obligation, for the duration of 
+the Study, to purchase from Medtronic up to [*] of the latest version 
+(available at the time of purchase) of Reveal devices for use in the Phase 
+2B study patients, at the price of [*] per Reveal LINQ System.  The price 
+charged in this Agreement is the confidential information of Medtronic.  
+ARCA may negotiate agreements with particular Phase 2B study sites, under 
+which any such site may receive Reveal LINQ Systems purchased by ARCA.  
+ARCA shall not charge study patients or sites for any Reveal LINQ Systems 
+so purchased by ARCA, and shall obtain the site’s agreement not to seek 
+reimbursement for such Reveal LINQ Systems.  Medtronic’s obligation in 
+Section 5.2, to cover certain unreimbursed Reveal implant and explant costs 
+for up to [*] Study patients, will be reduced by 1 patient for each Reveal 
+LINQ System provided pursuant to the terms of this Section 5.3.  In 
+addition, Medtronic shall have no obligation to provide either 
+reimbursement or reimbursement assistance for any implant or explant costs 
+associated with any Reveal LINQ System purchased by ARCA pursuant to this 
+Section 5.2 (a).
+
+(b)     ARCA agrees to engage Medtronic’s [*] to assist ARCA and ARCA’s CRO 
+(the Duke Clinical Research Institute (“DCRI”) in the support of Phase 2B 
+study site identification and activation, and patient identification and 
+enrollment in the Study, pursuant to the terms attached hereto as Exhibit 
+A-1, and the invoicing provisions of Article XII.  The Parties may add 
+additional services to this Agreement by written amendment, including by 
+adding an additional Exhibit A, (e.g., Exhibit A-2) that has been signed by 
+both Parties.  The Parties understand and agree that all services provided 
+pursuant to this Section 5.2 (b) are undertaken at the express direction of 
+ARCA and DCRI, and by providing such services Medtronic does not assume any 
+obligations or liabilities of a sponsor of GENETIC-AF.  ARCA shall 
+indemnify, defend and hold harmless Medtronic, its respective trustees, 
+officers, agents and employees (collectively “Indemnitees”) against any 
+third part claims, actions, suits or judgments (“Claims”) made or 
+instituted against Indemnitees that are premised on the claim that by 
+virtue of the services provided pursuant to this section 5.2(b) Medtronic 
+is a sponsor of GENETIC-AF, except to the extent the recovery in a Claim is 
+caused by Medtronic performing services beyond the scope of the services 
+for which ARCA retains Medtronic pursuant to this section.
+
+ARTICLE IV
+
+The following is added to the Agreement as a new Article XII:
+
+ARTICLE XII
+
+REVEAL SALE AND DISTRIBUTION
+
+12.1     Reveal devices provided pursuant to this Agreement will be ordered 
+from Medtronic by ARCA on behalf of the Genetic-AF study sites in a 
+mutually agreed manner, shipped by Medtronic to the Genetic-AF study site 
+identified by ARCA in its order.  Medtronic will pay the shipping costs 
+incurred to ship to the site and risk of loss passes to ARCA upon shipment. 
+ Medtronic will provide Reveal devices solely for use under Sections 5.2, 
+5.2(a) and 5.4 of this Agreement, and ARCA shall only order such devices 
+for study sites that require them for the Genetic-AF study.  Medtronic 
+shall provide ARCA with an invoice along with accompanying documentation, 
+in a form satisfactory to ARCA, for the agreed fees for devices and 
+services provided by Medtronic pursuant to this Agreement.  Except as 
+provided otherwise in Exhibit A-1, payment is due within 30 days of the 
+invoice date.  The Parties’ obligation to pay fees due pursuant to the 
+Agreement survives termination and expiration of the Agreement.
+
+12.2     ARCA represents and warrants it will not, and will not allow sites 
+participating in the Genetic-AF study to use the Reveal devices provided by 
+Medtronic pursuant to this Agreement for any purpose other than the 
+Genetic-AF study.  ARCA is responsible for the proper care, maintenance, 
+loss, theft or mysterious disappearance of the Reveal devices provided 
+under this Agreement.  ARCA shall return to Medtronic all Reveal devices 
+unused by study sites as soon as practicable after the completion of each 
+phase of the Genetic-AF study, unless the Parties agree in writing to 
+maintain the devices at a different location for use in the Phase 3 
+Portion.
+
+12.3     ARCA represents and warrants that it will have agreements in place 
+with study sites that require study sites to use the Reveal devices only 
+for the purpose of the study, not bill health insurers for the Reveal 
+devices ARCA purchases from Medtronic, obtain review and approval of the 
+Genetic-AF study from an ethics committee, and obtain informed consent from 
+study subjects.
+
+ 
+2
+ 
+[*] = Certain confidential information contained in this document, marked 
+by brackets, is filed with the Securities and Exchange Commission pursuant 
+to Rule 24b-2 of the Securities Exchange Act of 1934, as amended
+------------------------------------------------------------------------
+ 
+
+12.4     ARCA shall not decompile, reverse engineer, disassemble or 
+otherwise analyze any portion of the Reveal devices or Reveal LINQ Systems 
+provided by Medtronic hereunder.
+
+12.5     THE REVEAL DEVICES AND REVEAL LINQ SYSTEMS PROVIDED TO ARCA BY 
+MEDTRONIC HEREUNDER ARE PROVIDED “AS-IS”, WITHOUT ANY WARRANTY OF ANY KIND, 
+INCLUDING WITHOUT LIMITATION THE WARRANTY OF MERCHANTABILITY OR FITNESS FOR 
+A PARTICULAR PURPOSE OR WARRANTY THAT THE USE OF THE MEDTRONIC MATERIALS 
+WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK OR OTHER RIGHT OF ANY 
+THIRD PARTY.
+
+12.6     ARCA shall indemnify, defend and hold harmless Medtronic, its 
+respective trustees, officers, agents and employees (collectively 
+“Indemnitees”) against any third part claims, actions, suits or judgments 
+(“Claims”) made or instituted against Indemnitees to the extent they are 
+caused by ARCA’s purchase and return of the Reveal devices and Reveal LINQ 
+Systems hereunder, except to the extent the recovery in a Claim is caused 
+by an act or omission of Medtronic.
+
+12.7     ARCA shall assist and cooperate with Medtronic with respect to 
+fulfillment of Medtronic’s legal and regulatory obligations applicable to 
+Reveal devices and Reveal LINQ systems provided hereunder, such as FDA 
+complaint reporting, device tracking and recall assistance.  Upon 
+termination or expiration of this Agreement or the Genetic-AF study, ARCA 
+shall return all unused Reveal devices and Reveal LINQ Systems to Medtronic 
+within 30 days of such termination or expiration.  ARCA is not entitled to 
+a credit for such returns.
+
+Article v
+
+MISCELLANEOUS
+
+5.1     This Amendment may be executed in two or more counterparts, each of 
+which shall be deemed an original, but all of which together shall 
+constitute one and the same instrument.
+
+5.2     Except as expressly and specifically amended herein, all other 
+provisions of the Agreement shall continue in full force and effect.
+
+5.3     The First Amendment to Clinical Trial Collaboration Agreement dated 
+effective June 15, 2014 is hereby terminated and replaced by this 
+Amendment.
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Amendment to be 
+executed by their duly authorized representatives as of the Amendment 
+Effective Date.
+ 
+ 
+MEDTRONIC, INC., a Minnesota corporation
+ 
+Date: September 9, 2014
+By:
+ 
+/s/ Richard L. Clark
+ 
+ 
+ 
+Name: Richard L. Clark
+ 
+ 
+ 
+Title: Senior Director Diagnostics
+ 
+ 
+ARCA BIOPHARMA, INC., a Delaware corporation
+ 
+Date: September 5, 2014
+By:
+ 
+/s/ Christopher Ozeroff
+ 
+ 
+ 
+Christopher Ozeroff
+ 
+ 
+ 
+SVP and General Counsel
+ 
+ 
+
+ 
+3
+ 
+[*] = Certain confidential information contained in this document, marked 
+by brackets, is filed with the Securities and Exchange Commission pursuant 
+to Rule 24b-2 of the Securities Exchange Act of 1934, as amended
+------------------------------------------------------------------------
+ 
+Exhibit A-1
+
+[*]
+
+ 
+4
+ 
+[*] = Certain confidential information contained in this document, marked 
+by brackets, is filed with the Securities and Exchange Commission pursuant 
+to Rule 24b-2 of the Securities Exchange Act of 1934, as amended
