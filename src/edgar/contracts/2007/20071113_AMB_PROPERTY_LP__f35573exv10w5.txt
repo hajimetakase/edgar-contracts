@@ -1,0 +1,3727 @@
+ EX-10.5 4 f35573exv10w5.htm EXHIBIT 10.5
+
+
+ 
+
+Exhibit 10.5
+
+
+ 
+
+RMB REVOLVING CREDIT AGREEMENT
+
+between
+
+WEALTH ZIPPER (SHANGHAI) PROPERTY DEVELOPMENT CO., LTD.,
+
+as Initial RMB Borrower(s),
+
+THE RMB LENDERS LISTED HEREIN
+
+as RMB Lenders,
+
+SUMITOMO MITSUI BANKING CORPORATION, NEW YORK BRANCH,
+
+as Administrative Agent and Sole Lead Arranger and Bookmanager
+
+and
+
+SUMITOMO MITSUI BANKING CORPORATION, SHANGHAI BRANCH,
+as RMB Settlement Agent
+
+signed on October 23, 2007
+
+JUN HE LAW OFFICES
+China Resources Building, 20th Floor,
+8 Jianguomenbei Avenue
+Beijing, 100005, P. R. China
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+CONTENTS
+  	  	  	  	 
+PART 1
+  	  	2 	 
+ 
+  	  	  	 
+DEFINITIONS, INTERPRETATION AND INCORPORATION BY REFERENCE
+  	  	2 	 
+ 
+  	  	  	 
+PART 2
+  	  	13 	 
+ 
+  	  	  	 
+THE FACILITY
+  	  	13 	 
+ 
+  	  	  	 
+PART 3
+  	  	38 	 
+ 
+  	  	  	 
+REPRESENTATIONS, WARRANTIES AND COVENANTS AND EVENTS OF DEFAULT AND 
+REMEDIES
+  	  	38 	 
+ 
+  	  	  	 
+PART 4
+  	  	48 	 
+ 
+  	  	  	 
+EXPENSES AND INDEMNITY
+  	  	48 	 
+ 
+  	  	  	 
+PART 5
+  	  	50 	 
+ 
+  	  	  	 
+PAYMENTS
+  	  	50 	 
+ 
+  	  	  	 
+PART 6
+  	  	52 	 
+ 
+  	  	  	 
+ASSIGNMENTS AND TRANSFERS
+  	  	52 	 
+ 
+  	  	  	 
+PART 10
+  	  	55 	 
+ 
+  	  	  	 
+MISCELLANEOUS
+  	  	55 	 
+ 
+  	  	  	 
+PART 11
+  	  	59 	 
+ 
+  	  	  	 
+APPOINTMENT OF RMB SETTLEMENT AGENT
+  	  	59 	 
+ 
+  	  	  	 
+THE FIRST SCHEDULE
+  	  	64 	 
+ 
+  	  	  	 
+THE RMB LENDERS AND THEIR RMB COMMITMENTS
+  	  	64 	 
+ 
+  	  	  	 
+THE SECOND SCHEDULE
+  	  	65 	 
+ 
+  	  	  	 
+CONDITIONS PRECEDENT DOCUMENTS
+  	  	65 	 
+ 
+  	  	  	 
+THE THIRD SCHEDULE
+  	  	67 	 
+
+i
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+FORM OF NOTICE OF RMB BORROWING (FORMAT)
+  	  	67 	 
+ 
+  	  	  	 
+THE FOURTH SCHEDULE
+  	  	69 	 
+ 
+  	  	  	 
+FORM OF TRANSFER AGREEMENT
+  	  	69 	 
+ 
+  	  	  	 
+THE FIFTH SCHEDULE
+  	  	75 	 
+ 
+  	  	  	 
+PAYMENT INSTRUCTIONS
+  	  	75 	 
+
+ii
+
+------------------------------------------------------------------------
+
+
+ 
+
+THE AGREEMENT is executed on October 23, 2007.
+
+BETWEEN
+
+1. 	  	WEALTH ZIPPER (SHANGHAI) PROPERTY DEVELOPMENT CO., LTD., established 
+and existing under the laws of the PRC having its registered office at [ ] 
+(the Initial RMB Borrower);
+ 
+2. 	  	THE BANKS AND OTHER FINANCIAL INSTITUTIONS whose names and addresses 
+are set out in the First Schedule hereto as RMB lenders (the RMB 
+Lenders);
+ 
+3. 	  	SUMITOMO MITSUI BANKING CORPORATION, NEW YORK BRANCH, as 
+Administrative Agent and Sole Lead Arranger and Bookmanager; and
+ 
+4. 	  	SUMITOMO MITSUI BANKING CORPORATION, SHANGHAI BRANCH, as RMB 
+settlement agent.
+
+WHEREAS:-
+
+(A) 	  	AMB JAPAN FINANCE Y.K., the QUALIFIED BORROWERS (as defined 
+therein, and together with AMB Japan Finance Y.K., collectively, the 
+Borrower), AMB PROPERTY, L.P. and AMB PROPERTY CORPORATION, as 
+guarantors, the BANKS and SUMITOMO MITSUI BANKING CORPORATION, NEW YORK 
+BRANCH, as administrative agent and sole lead arranger and bookmanager, 
+have entered into an AMENDED AND RESTATED REVOLVING CREDIT AGREEMENT dated 
+as of June 23, 2006 (as amended, the Master Agreement).
+ 
+(B) 	  	Pursuant to the Master Agreement, the Borrower shall have the right 
+to borrow an aggregate amount up to JPY45,000,000,000 which can be 
+increased up to JPY55,000,000,000 upon request of the Borrower.
+ 
+(C) 	  	Under Section 9.5(c) of the Master Agreement, the parties thereto 
+have agreed that the Master Agreement shall be modified so as to, amongst 
+other things, permit, at the option of the Borrower borrowings denominated 
+in Renminbi in amounts up to RMB500,000,000.
+ 
+(D) 	  	The parties hereto have agreed that, in order to give effect to 
+Section 9.5(c) of the Master Agreement, the PRC onshore branches of the 
+Participating Banks (as defined in the Master Agreement) shall make 
+available the said borrowings to certain PRC onshore subsidiaries of the 
+AMB Property, L.P. and AMB Property Corporation and, therefore, the parties 
+hereto have agreed to enter into this Agreement upon terms and conditions 
+as hereinafter set forth.
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+IT IS HEREBY AGREED as follows:
+
+
+PART 1
+
+DEFINITIONS, INTERPRETATION AND INCORPORATION BY REFERENCE
+
+Clause 1 Definitions, Interpretation and Incorporation by Reference
+
+1.1 	  	Definitions Except as otherwise provided herein, capitalized terms 
+used in this Agreement shall have the meanings as the follows.
+  	  	  	  	 
+ 
+  	Administrative Agent 	  	means Sumitomo Mitsui Banking Corporation, New 
+York Branch in its capacity as Administrative Agent hereunder, and its 
+permitted successors in such capacity in accordance with the terms of this 
+Agreement.
+ 
+  	  	  	 
+ 
+  	Affiliate 	  	means any other Person that directly or indirectly 
+controls, is controlled by, or is under common control with, that Person. 
+For purposes of this definition, control (including, with correlative 
+meanings, the terms controlling, controlled by and under common 
+control with), as applied to any Person, means the possession, directly or 
+indirectly, of the power to vote ten percent (10.0%) or more of the equity 
+securities or ownership interests having voting power for the election of 
+directors of such Person or otherwise to direct or cause the direction of 
+the management and policies of that Person, whether through the ownership 
+of voting equity securities or ownership interest or by contract or 
+otherwise.
+ 
+  	  	  	 
+ 
+  	Assignor 	  	has the meaning set forth in Clause 9.3 hereof.
+ 
+  	  	  	 
+ 
+  	Borrower 	  	has the meaning set forth in the recitals
+
+2
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	  	  	above.
+ 
+  	  	  	 
+ 
+  	Closing Date 	  	means the date on which the conditions set forth in 
+Clause 3.1 shall have been satisfied to the satisfaction of the 
+Administrative Agent.
+ 
+  	  	  	 
+ 
+  	Default 	  	means (i) a Guarantor Default under the Master Agreement or 
+(ii) any RMB Borrower Default.
+ 
+  	  	  	 
+ 
+  	Drawdown Date 	  	means, in relation to a RMB Advance, the proposed date 
+for the making of such RMB Advance as specified in the Notice of RMB 
+Borrowing therefor, or where such RMB Advance has been made, the date on 
+which it was made.
+ 
+  	  	  	 
+ 
+  	Event of Default 	  	means (i) a Guarantor Event of Default or (ii) a 
+RMB Borrower Event of Default.
+ 
+  	  	  	 
+ 
+  	Final Maturity 	  	means June 23, 2010, provided, however, that if AMB 
+Property, LP exercises its right to extend the Maturity Date (as defined in 
+the Master Agreement) pursuant to Section 2.10(b) of the Master Agreement, 
+then the term of this Agreement shall automatically be extended for a 
+period of one (1) year and the Final Maturity shall then mean June 23, 
+2011.
+ 
+  	  	  	 
+ 
+  	Guarantor Default 	  	has the meaning ascribed to such term in the 
+Master Agreement.
+ 
+  	  	  	 
+ 
+  	Guarantor Event of Default 	  	has the meaning ascribed to such term in 
+the Master Agreement.
+ 
+  	  	  	 
+ 
+  	Governmental Acts 	  	has the meaning set forth in Clause 2.12(viii).
+
+3
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	Interest Period 	  	means the duration of a RMB Advance, which may be 1, 
+3, 6 or 12 months, as the applicable RMB Borrower may elect in the Notice 
+of RMB Borrowing or Notice of Continuation, provided that no Interest 
+Period may end later than the Maturity Date.
+ 
+  	  	  	 
+ 
+  	Lien 	  	means, with respect to any asset, any mortgage, lien, pledge, 
+charge, security interest or encumbrance of any kind, or any other type of 
+preferential arrangement, in each case that has the effect of creating a 
+security interest, in respect of such asset.
+ 
+  	  	  	 
+ 
+  	Majority RMB Lenders 	  	at any time RMB Lenders having at least 51% of 
+the aggregate amount of RMB Commitments, or if the RMB Commitments shall 
+have been terminated, RMB Lenders having at least 51% of the aggregate 
+unpaid principal amount of the RMB Advances.
+ 
+  	  	  	 
+ 
+  	Material Adverse Effect 	  	means an effect resulting from any 
+circumstance or event or series of circumstances or events, of whatever 
+nature (but excluding general economic conditions), which does or could 
+reasonably be expected to, materially and adversely impair (i) the ability 
+of the AMB Property, L.P. and AMB Property Corporation and their respective 
+Consolidated Subsidiaries (as defined in the Master Agreement), taken as a 
+whole, to perform their respective obligations under the Loan Documents (as 
+defined in the Master Agreement) and/or under the RMB Loan Documents, or 
+(ii) the ability of Administrative Agent or the Lenders to enforce the RMB 
+Loan Documents.
+
+4
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	Notice of RMB Borrowing 	  	means the notice sent by any RMB Borrower to 
+the Administrative Agent prior to the Drawdown Date for requesting a RMB 
+Advance according to terms and conditions of Clause 2.2 substantially in 
+the form of the Third Schedule.
+ 
+  	  	  	 
+ 
+  	Payment Instructions 	  	means in relation to each of the RMB Lenders, 
+the payment instructions in the Fifth Schedule as amended from time to time 
+by written instructions to the RMB Settlement Agent by a duly authorized 
+officer of the RMB Lender provided that such written instructions are to be 
+made in accordance with Clause 10 of this Agreement.
+ 
+  	  	  	 
+ 
+  	Person 	  	has the meaning ascribed to such term in the Master 
+Agreement.
+ 
+  	  	  	 
+ 
+  	PRC 	  	means the Peoples Republic of China but for the purpose only of 
+this Agreement, excluding the Hong Kong Special Administration Region, the 
+Macao Special Administration Region and Taiwan Province.
+ 
+  	  	  	 
+ 
+  	Property 	  	means, with respect to any Person, any real or personal 
+property, building, facility, structure, equipment or unit, or other asset 
+owned by such Person.
+ 
+  	  	  	 
+ 
+  	Purchasing Lender 	  	has the meaning set forth in Clause 9.3 hereof.
+ 
+  	  	  	 
+ 
+  	Qualified RMB Borrower 	  	means (i) an equity joint venture, (ii) a 
+co-operative joint venture, or (iii) a wholly foreign-owned enterprise 
+organized under the laws of the PRC with the appropriate real estate 
+business license to undertake real estate business (or such other business 
+entities as are permitted under the laws of PRC to engage in real estate 
+business), which is at least 50% owned and controlled, directly or 
+indirectly, by AMB Property L.P. or AMB Property
+
+5
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	  	  	Corporation and which are established for the purpose of 
+facilitating real estate investments in PRC, and the indebtedness of which, 
+in all cases, can be guaranteed by AMB Property L.P. or AMB Property 
+Corporation pursuant to the provisions of the formation documents of AMB 
+Property L.P. or AMB Property Corporation and who has been added as a 
+Qualified RMB Borrower hereunder in accordance with Clause 2.15.
+ 
+  	  	  	 
+ 
+  	Qualified RMB Borrower Joinder
+Agreements 	  	means, collectively, one or more Qualified RMB Borrower 
+Joinder Agreements, among Administrative Agent (on behalf of the RMB 
+Lenders) and a Qualified RMB Borrower at any time on or after the date of 
+this Agreement, the form of which is attached hereto as Exhibit A.
+ 
+  	  	  	 
+ 
+  	Qualified RMB Borrower Joinder
+Documents 	  	means, as to any Qualified RMB Borrower Joinder Agreement, 
+collectively, all documents, instruments and certificates required by such 
+Qualified RMB Borrower Joinder Agreement to be delivered pursuant to the 
+terms hereof.
+ 
+  	  	  	 
+ 
+  	RMB Advance 	  	means save as otherwise provided herein, all or any 
+amounts advanced (as from time to time reduced by repayment pursuant to the 
+terms and conditions hereof) by the RMB Lenders or a RMB Lender hereunder.
+ 
+  	  	  	 
+ 
+  	RMB Annual Fronting Bank Fee 	  	has the meaning provided in Clause 
+2.19(iii).
+ 
+  	  	  	 
+ 
+  	RMB Borrower 	  	means collectively, Initial RMB Borrower and any 
+Qualified RMB Borrower for so long as such entity is a Qualified RMB 
+Borrower hereunder.
+ 
+  	  	  	 
+ 
+  	RMB Borrower Default 	  	means, a condition or event which with the 
+giving of notice or lapse of time or both would, unless cured or waived, 
+become a RMB Borrower Event of Default.
+
+6
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	RMB Borrower Event of Default 	  	has the meaning set forth in Clause 
+5.1.
+ 
+  	  	  	 
+ 
+  	RMB Commitment 	  	means, in relation to each RMB Lender, the amount 
+equal to the RMB Commitment Proportion for such RMB Lender multiplied by 
+the RMB Facility Amount from time to time pursuant to the terms hereof, 
+which amount shall in no event exceed the amount set opposite such RMB 
+Lenders name in the First Schedule (and for each RMB Lender that is a 
+Purchasing Lender, the percentage and amount set forth in the Transfer 
+Agreement entered into pursuant to Clause 9 hereof as the Purchasing 
+Lenders RMB Commitment), as the same may be reduced from time to time in 
+connection with an assignment to a Purchasing Lender and increased from 
+time to time in connection with an assignment from an Assignor.
+ 
+  	  	  	 
+ 
+  	RMB Commitment Proportion 	  	means, with respect to each RMB Lender, 
+the percentage as set opposite such RMB Lenders name in the First Schedule
+, reflecting the proportion of such RMB Lenders RMB Commitment to the 
+aggregate of the RMB Lenders RMB Commitments (and for each RMB Lender that 
+is a Purchasing Lender, the percentage set forth in the Transfer Agreement 
+entered into pursuant to Clause 9 hereof as the Purchasing Lenders RMB 
+Commitment Proportion), as the same may be reduced from time to time in 
+connection with an assignment to a Purchasing Lender and increased from 
+time to time in connection with an assignment from an Assignor.
+ 
+  	  	  	 
+ 
+  	RMB Facility Amount 	  	means the lesser of (i) RMB500,000,000 or (ii) 
+from time to time, the RMB equivalent of (A) the Facility Amount (as 
+defined in the Master Agreement) minus (B) the outstanding Loans (as 
+defined in the
+
+7
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	  	  	Master Agreement) under the Master Agreement minus (C) the 
+outstanding amount of the Letter of Credit Usage (as defined in the master 
+agreement) under the Master Agreement minus (D) the Yen equivalent amount 
+of outstanding Alternate Currency Advances (as defined in the Master 
+Agreement) under any other Alternate Currency Facility (as defined in the 
+Master Agreement) (excluding any RMB Advances hereunder) minus (E) the Yen 
+equivalent of the outstanding amount of Alternate Currency Letter of Credit 
+Usage (as defined in the Master Agreement) (excluding RMB Letter of Credit 
+Usage hereunder); provided, however, that in the RMB Borrowers aggregate 
+approved total investment and its approved registered capital.
+ 
+  	  	  	 
+ 
+  	RMB Facility Office 	  	means in relation to the Administrative Agent, 
+the RMB Settlement Agent or any RMB Lender, the office identified in the 
+Payment Instructions (or, in the case of a Purchasing Lender, at the end of 
+the Transfer Agreement to which it is a party) or such other office as it 
+may from time to time select (and in the case of any RMB Lender, by at 
+least 5 Business Days prior written notice to the Administrative Agent) or 
+in accordance with Clause 9 (Assignments and Transfers).
+ 
+  	  	  	 
+ 
+  	RMB Finance Parties 	  	means the Administrative Agent, the RMB 
+Settlement Agent and the RMB Lenders, and the singular term, RMB Finance 
+Party, means any of them.
+ 
+  	  	  	 
+ 
+  	RMB Fronting Bank 	  	means Sumitomo Mitsui Banking Corporation, 
+Shanghai Branch, and its successors and assigns.
+ 
+  	  	  	 
+ 
+  	RMB Fronting Bank Fee 	  	has the meaning provided in Clause 2.19(iii).
+
+8
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	RMB Lenders 	  	means any Bank (as defined in the Master Agreement) 
+named in the First Schedule (other than one which has ceased to be a party 
+hereto in accordance with the terms hereof); or any Bank which has become a 
+party hereto as a RMB Lender in accordance with the provisions of Clause 9 
+(Assignments and Transfers).
+ 
+  	  	  	 
+ 
+  	RMB Letter(s) of Credit 	  	has the meaning provided in Clause 2.2(ii).
+ 
+  	  	  	 
+ 
+  	RMB Letter of Credit Collateral 	  	has the meaning provided in Clause 
+4.2(ii).
+ 
+  	  	  	 
+ 
+  	RMB Letter of Credit Collateral Account 	  	has the meaning provided in 
+Clause 4.2(i).
+ 
+  	  	  	 
+ 
+  	RMB Letter of Credit Fee 	  	has the meaning provided in Clause 
+2.19(ii).
+ 
+  	  	  	 
+ 
+  	RMB Letter of Credit Usage 	  	means, at any time the sum of (i) the 
+aggregate maximum amount available to be drawn under the RMB Letters of 
+Credit then outstanding, assuming compliance with all requirements for 
+drawing referred to therein, and (ii) the aggregate amount of any RMB 
+Borrowers unpaid obligations under this Agreement in respect of the RMB 
+Letters of Credit.
+ 
+  	  	  	 
+ 
+  	RMB Loan Documents 	  	means this Agreement, the Qualified RMB Borrower 
+Joinder Documents and the RMB Security Documents, if any.
+ 
+  	  	  	 
+ 
+  	RMB Obligations 	  	means all obligations, liabilities, indemnity 
+obligations and indebtedness of every nature of the RMB Borrowers from time 
+to time owing to any RMB Finance Parties under or in connection with this 
+Agreement or any other RMB Loan Document.
+ 
+  	  	  	 
+ 
+  	RMB Secured Option 	  	has the meaning set forth in Clause 2.8 of this 
+Agreement.
+ 
+  	  	  	 
+ 
+  	RMB Secured Property 	  	has the meaning set forth in Clause 2.8 of this 
+Agreement.
+
+9
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	RMB Security Documents 	  	has the meaning set forth in Clause 2.8 of 
+this Agreement.
+ 
+  	  	  	 
+ 
+  	RMB Settlement Agent 	  	means Sumitomo Mitsui Banking Corporation, 
+Shanghai Branch in its capacity as RMB Settlement Agent hereunder, and its 
+permitted successors in such capacity in accordance with the terms of this 
+Agreement.
+ 
+  	  	  	 
+ 
+  	RMB Qualified Institution 	  	means a RMB Lender, or one or more banks, 
+finance companies, insurance or other financial institutions which is a 
+Bank under the Master Agreement and (A) has (or, in the case of a bank 
+which is a subsidiary, such banks parent has) a rating of its senior debt 
+obligations of not less than Baa-1 by Moodys or a comparable rating by a 
+rating agency acceptable to Administrative Agent, (B) has total assets in 
+excess of US$10,000,000,000 (or its equivalent in alternate currency), (C) 
+is a RMB Qualified Institutional Investor, and (D) is approved by China 
+Banking Regulatory Commission to make loans to RMB businesses within the 
+applicable approved territory.
+ 
+  	  	  	 
+ 
+  	RMB Qualified Institutional
+Investors 	  	has the meaning assigned thereto in Article 2, Section 3, 
+item 1 of the Securities and Exchange Law of Japan (Law No.25 of 1948, as 
+amended from time to time) and Article 4, Section 1 of the regulations 
+relating to the definitions contained in such Article 2.
+ 
+  	  	  	 
+ 
+  	Subsidiary 	  	means any corporation or other entity of which securities 
+or other ownership interests having ordinary voting power to elect a 
+majority of the board of directors or other Persons performing similar 
+functions are at the time directly or
+
+10
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	  	 
+ 
+  	  	  	indirectly owned by AMB Property L.P. or AMB Property Corporation.
+ 
+  	  	  	 
+ 
+  	Transfer Agreement 	  	means an agreement substantially in the form set 
+out in the Fourth Schedule (Form of Transfer Agreement) signed by an 
+Assignor and Purchasing Lender.
+ 
+  	  	  	 
+ 
+  	Transfer Date 	  	means, in relation to any Transfer Agreement, the date 
+for the making of the transfer as specified in the schedule to such 
+Transfer Agreement.
+
+1.2 Interpretation.
+
+(i) 	  	RMB Borrower, Administrative Agent, RMB Settlement Agent and 
+RMB Lender shall be construed so as to include their respective 
+successors and permitted assigns and where the context permits, references 
+to Agent shall include and be deemed to refer to Sumitomo Mitsui Banking 
+Corporation, New York Branch, as Administrative Agent, and Sumitomo Mitsui 
+Banking Corporation, Shanghai Branch, as RMB Settlement Agent, on a 
+collective basis,
+ 
+  	  	law or regulation includes any regulation, rule, treaty, 
+ordinance, official directive, request, approval, requirement, order or 
+guideline of any governmental or judicial body or regulatory organization;
+ 
+  	  	a Business Day shall be construed as a reference to a day (other 
+than a Saturday or Sunday) on which banks generally are open for business 
+in New York, Hong Kong and Shanghai;
+ 
+  	  	the equivalent on any date in one currency (the first currency) 
+of an amount denominated in another currency (the second currency) is a 
+reference to the amount of the first currency which could be purchased with 
+the amount of the second currency at, in the case of the purchases of RMB 
+with Japanese Yen, the applicable spot rate of exchange quoted by the 
+Peoples Bank of China at or about 11:00 a.m. Beijing time on such date for 
+the purchase of the first currency with the second currency; and in all 
+other cases, the spot rate of exchange at which in accordance with normal 
+banking procedures quoted at or about 11:00 a.m. Beijing time on the 
+relevant date for the purchase of the first currency with that second 
+currency by Administrative Agent;
+ 
+  	  	a governmental agency means an agency of a state or jurisdiction 
+and includes any agency, committee, authority, central bank and department;
+
+11
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	indebtedness means any obligation (whether incurred as principal or 
+as surety) for the payment or repayment of money, whether present or 
+future, actual or contingent, secured or unsecured;
+ 
+  	  	a month is a reference to a period starting on one day in a 
+calendar month and ending on the numerically corresponding day in the next 
+succeeding calendar month save that, where any such period would otherwise 
+end on a day which is not a Business Day, it shall end on the next 
+succeeding Business Day, unless that day falls in the calendar month 
+succeeding that in which it would otherwise have ended, in which case it 
+shall end on the immediately preceding Business Day provided that, if a 
+period starts on the last Business Day in a calendar month or if there is 
+no numerically corresponding day in the month in which that period ends, 
+that period shall end on the last Business Day in that later month (and 
+references to months shall be construed accordingly).
+ 
+(ii) 	  	Currency Symbols US$, US Dollars or Dollars denote the 
+lawful currency of the United States of America, JPY or Yen denote the 
+lawful currency of Japan and RMB or Renminbi denote the lawful currency 
+of the PRC.
+ 
+(iii) 	  	Headings Clause, Part and Schedule headings are for ease of 
+reference only.
+ 
+(iv) 	  	Miscellaneous Save where the contrary is indicated, any reference 
+in this Agreement of:
+
+  	(a) 	  	this Agreement or any other agreement or document or consent or 
+approval shall be construed as a reference to this Agreement or, as the 
+case may be, such other agreement or document or consent or approval as the 
+same may have been, or may from time to time be, amended, varied, novated 
+or supplemented;
+ 
+  	(b) 	  	the singular includes the plural (and vice versa);
+ 
+  	(c) 	  	words of any gender include each other gender; and
+ 
+  	(d) 	  	the words include and including shall be deemed to be 
+followed by without limitation or but not limited to whether or not 
+they are followed by such phrases or words of similar import.
+
+1.3 	  	Definitions in the Master Agreement
+ 
+  	  	In this Agreement, unless the context otherwise requires, terms and 
+expressions defined in or construed for the purposes of the Master 
+Agreement shall have the same meanings or be construed in the same manner 
+when used in this Agreement.
+
+12
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+PART 2
+
+THE FACILITY
+
+CLAUSE 2 The Facility
+
+2.1 	  	Commitment To Lend Upon the terms and subject to the conditions of 
+this Agreement, the RMB Lenders grant a RMB revolving credit facility up to 
+a maximum aggregate amount of RMB500,000,000 to the RMB Borrowers. Each RMB 
+Lender severally agrees, on the terms and conditions set forth in this 
+Agreement, (a) to make RMB Advances to each RMB Borrower and participate in 
+RMB Letters of Credit issued by the RMB Fronting Bank on behalf of each RMB 
+Borrower pursuant to this Clause 2 from time to time during the term hereof 
+in amounts such that the aggregate principal amount of RMB Advances by such 
+RMB Lender at any one time outstanding, together with such RMB Lenders RMB 
+Commitment Proportion of the RMB Letter of Credit Usage at such time shall 
+not exceed the amount of its RMB Commitment. Each RMB Advance outstanding 
+under this Clause 2.1 shall be in an aggregate principal amount of 
+RMB5,000,000 or in integral multiples of RMB1,000,000 in excess thereof 
+(except that any such RMB Advance may be in the aggregate amount available 
+under the RMB Facility or in any amount required to reimburse the RMB 
+Fronting Bank for any drawing under any Letter of Credit in Clause 2.12(v)) 
+and shall be made from the several RMB Lenders ratably in proportion to 
+their respective RMB Commitments. In no event shall the aggregate amount 
+outstanding at any time, plus the outstanding amount of the RMB Letter of 
+Credit Usage, exceed the RMB Facility Amount. Subject to the limitations 
+set forth herein, any amounts repaid may be reborrowed.
+
+2.2 	  	Notice of RMB Borrowing The RMB Borrower may not deliver a Notice 
+of RMB Borrowing or a request for issuance of RMB Letter of Credit before 
+the Closing Date.
+
+  	(i) 	  	With respect to each RMB Advance, the applicable RMB Borrower 
+shall deliver to the Administrative Agent a Notice of RMB Borrowing before 
+2:00 p.m. (Beijing time) (x) on the day not less than four (4) Business 
+Days before the date set forth in the applicable Notice of RMB Borrowing 
+for the making of such RMB Advance, or with respect to any secured RMB 
+Advance, the ninth (9th) Business Day prior to such secured RMB Advance, 
+specifying:
+
+13
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(a) 	  	the date of making such RMB Advance, which shall be a Business 
+Day;
+ 
+  	(b) 	  	the aggregate amount of such RMB Advance;
+ 
+  	(c) 	  	the duration of the Interest Period with respect to such RMB 
+Advance, subject to the provisions of the definition of Interest Period;
+ 
+  	(d) 	  	if such RMB Advance is secured by any RMB Secured Property or 
+RMB Share Pledge, the collateral to be granted;
+ 
+  	(e) 	  	payment instructions for delivery of such RMB Advance; and
+ 
+  	(f) 	  	certify that no Guarantor Default under the Master Agreement or 
+Guarantor Event of Default under the Master Agreement has occurred and is 
+continuing and with respect to such RMB Borrower, no RMB Borrower Default 
+or RMB Borrower Event of Default has occurred and is continuing.
+
+(ii) 	  	The applicable RMB Borrower shall give the Administrative Agent 
+(whereupon the Administrative Agent shall notify the RMB Settlement Agent) 
+and the RMB Fronting Bank written notice in the event that it desires to 
+have RMB Letters of Credit (each, a RMB Letter of Credit) issued on 
+behalf of such RMB Borrower hereunder or a Subsidiary thereof not later 
+than 1:00 P.M. (Beijing time) at least ten (10) Business Days (or if such 
+RMB Letter of Credit is to be secured, at least ten (10) Business Days) 
+prior to, but excluding, the date of such issuance. Each such notice shall 
+(i) specify the aggregate amount of the requested RMB Letters of Credit, 
+(ii) specify the individual amount of each requested RMB Letter of Credit 
+and the number of RMB Letters of Credit to be issued, (iii) specify the 
+date of such issuance (which shall be a Business Day), (iv) state the name 
+and address of the beneficiary, (v) the expiration date of the RMB Letter 
+of Credit (which in no event shall be later than twelve (12) months after 
+the Final Maturity), (vi) state the purpose and circumstances for which 
+such RMB Letter of Credit is being issued, (vii) specify the terms upon 
+which each such RMB Letter of Credit may be drawn down (which terms shall 
+not leave any discretion to RMB Fronting Bank), (viii) if such RMB Letter 
+of Credit is to be issued on behalf of a subsidiary of such RMB Borrower, 
+the identity of such Subsidiary, (ix) if such RMB Letter of Credit is to be 
+secured, identify the RMB Secured Property to be acquired and the 
+collateral to be granted, (x) include such information as is requested in 
+Clause 2.2(i) hereto relating to the project, if any, for which the RMB 
+Letter of Credit will be used and (xi) certify that no RMB Borrower Default 
+or RMB Borrower Event of Default has occurred and is continuing with 
+respect to such RMB Borrower and that no Guarantor Default or Guarantor 
+Event of Default has occurred and is continuing.
+
+14
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	Each such notice may be revoked telephonically by such RMB Borrower 
+to the RMB Fronting Bank and the Administrative Agent any time prior to the 
+issuance of the RMB Letter of Credit by the RMB Fronting Bank, provided 
+such revocation is confirmed in writing by such RMB Borrower to the RMB 
+Fronting Bank and the Administrative Agent (whereupon the Administrative 
+Agent shall notify the RMB Settlement Agent) within two (2) Business Days 
+by facsimile. Notwithstanding anything contained herein to the contrary, 
+such RMB Borrower shall complete and deliver to the RMB Fronting Bank any 
+required documentation in connection with any requested RMB Letter of 
+Credit no later than the fifth (5th) Business Day prior to the date of 
+issuance thereof. No later than 1:00 P.M. (Beijing time) on the date that 
+is six (6) Business Days prior to, but excluding, the date of issuance, 
+such RMB Borrower shall specify a precise description of the documents and 
+the verbatim text of any certificate to be presented by the beneficiary of 
+such RMB Letter of Credit, which if presented by such beneficiary prior to 
+the expiration date of the RMB Letter of Credit would require the RMB 
+Fronting Bank to make a payment under the RMB Letter of Credit; provided, 
+the RMB Fronting Bank may, in its reasonable judgment, require changes in 
+any such documents and certificates only in conformity with changes in 
+customary and commercially reasonable practice and in compliance with the 
+relevant publications in respect of letters of credit published by the 
+issues and rules of the International Standby Practices 1998 published by 
+the Institute of International Banking Law & Practice (or such later 
+version thereof as may be in effect at the time of issuance of the 
+applicable RMB Letter of Credit), and, provide further, that no RMB Letter 
+of Credit shall require payment against a conforming draft to be made 
+thereunder on the third Business Day following the date that such draft is 
+presented if such presentation is made later than 1:00 p.m. Shanghai time, 
+as applicable (except that if the beneficiary of any RMB Letter of Credit 
+requests at the time of the issuance of its RMB Letter of Credit that 
+payment be made on the same Business Day against a conforming draft, such 
+beneficiary shall be entitled to such a same day draw, provided such draft 
+is presented to the RMB Fronting Bank no later than 1:00 p.m. Shanghai time 
+and provided further such RMB Borrower shall have requested to the RMB 
+Fronting Bank and the Administrative Agent that such beneficiary shall be 
+entitled to a same day draw). In determining whether to pay on such RMB 
+Letter of Credit, the RMB Fronting Bank shall be responsible only to 
+determine that the documents and certificates required to be delivered 
+under the RMB Letter of Credit have been delivered and that they comply on 
+their face with the requirements of that RMB Letter of Credit. All RMB 
+Letters of Credit may be presented for payment in Shanghai (at the option 
+of the RMB Borrower) and, if required by the beneficiary thereunder, shall 
+be paid in Shanghai (at the option of Borrower).
+
+15
+
+------------------------------------------------------------------------
+
+
+ 
+
+2.3 Notice To RMB Lenders; Funding of Advances
+
+  	(i) 	  	Upon receipt of a Notice of RMB Borrowing from any RMB Borrower 
+in accordance with Clause 2.2 hereof, the Administrative Agent shall, on 
+the date such Notice of RMB Borrowing is received by the Administrative 
+Agent, notify the RMB Settlement Agent of the contents thereof and the 
+availability of the RMB Advance at such time and whereupon the RMB 
+Settlement Agent shall notify each RMB Lender of such RMB Lenders share of 
+such RMB Advance within the succeeding Business Day after its receipt of 
+notice from the Administrative Agent. Such Notice of RMB Borrowing shall 
+not thereafter be revocable by such RMB Borrower, unless such RMB Borrower 
+shall pay any applicable expenses of the RMB Lenders pursuant to Section 
+2.20.
+
+  	(ii) 	  	Not later than 12:00 p.m. (Beijing time) on the date of each 
+RMB Advance as indicated in the applicable Notice of RMB Borrowing, each 
+RMB Lender shall make available its share of such RMB Advance in Renminbi 
+immediately available in PRC, to the RMB Settlement Agent at its account 
+referred to in Clause 8. If any RMB Borrower has requested the issuance of 
+a RMB Letter of Credit, no later than 1:00 p.m. (Beijing time) on the date 
+of such issuance as indicated in the notice delivered pursuant to Clause 
+2.2(ii), the RMB Fronting Bank shall issue such RMB Letter of Credit in the 
+amount so requested and deliver the same to the applicable RMB Borrower, 
+with a copy thereof to the Administrative Agent (whereupon the 
+Administrative Agent shall notify the RMB Settlement Agent). Immediately 
+upon the issuance of each RMB Letter of Credit by the RMB Fronting Bank, 
+the RMB Fronting Bank shall be deemed to have sold and transferred to each 
+other RMB Lender, and each such other RMB Lender shall be deemed, and 
+hereby agrees, to have irrevocably and unconditionally purchased and 
+received from the RMB Fronting Bank, without recourse or warranty, an 
+undivided interest and a participation in such RMB Letter of Credit, any 
+drawing thereunder, and its obligation to pay its RMB Commitment Proportion 
+with respect thereto, and any security therefor or guaranty pertaining 
+thereto, in an amount equal to such RMB Lenders ratable share thereof. 
+Upon any change in any of the RMB Commitments in accordance herewith, there 
+shall be an automatic adjustment to such participations to reflect such 
+changed shares. The RMB Fronting Bank shall have the primary obligation to 
+fund any and all draws made with respect to such RMB Letter of Credit 
+notwithstanding any failure of a participating RMB Lender to fund its 
+ratable share of any such draw. The Administrative Agent will instruct the 
+RMB Fronting Bank to make such RMB Letter of Credit available to the 
+applicable RMB
+
+16
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	Borrower, and the RMB Fronting Bank shall make such RMB Letter of 
+Credit available to the applicable RMB Borrower, at its aforesaid address 
+or at such address in PRC as such RMB Borrower shall request on the date of 
+the issuance of such RMB Letter of Credit.
+
+(iii) 	  	Unless the RMB Settlement Agent shall have received notice from a 
+RMB Lender prior to the date of any RMB Advance that such RMB Lender will 
+not make available to the RMB Settlement Agent such RMB Lenders share of 
+such RMB Advance, the RMB Settlement Agent may assume that such RMB Lender 
+has made such share available to the RMB Settlement Agent on the date of 
+such RMB Advance in accordance with this Clause 2.3 and the RMB Settlement 
+Agent may, in reliance upon such assumption, but shall not be obligated to, 
+make available to the applicable RMB Borrower on such date a corresponding 
+amount on behalf of such RMB Lender. If and to the extent that such RMB 
+Lender shall not have so made such share available to the RMB Settlement 
+Agent, such RMB Lender agrees to repay to the RMB Settlement Agent 
+forthwith on demand such corresponding amount together with interest 
+thereon, for each day from the date such amount is made available to the 
+applicable RMB Borrower until the date such amount is repaid to the RMB 
+Settlement Agent. If such RMB Lender shall repay to the RMB Settlement 
+Agent such corresponding amount, such amount so repaid shall constitute 
+such RMB Lenders RMB Commitment Proportion included in such RMB Advance 
+for purposes of this Agreement. If such RMB Lender shall not pay to the RMB 
+Settlement Agent such corresponding amount after reasonable attempts are 
+made by the RMB Settlement Agent to collect such amounts from such RMB 
+Lender, the applicable RMB Borrower agrees to repay to the RMB Settlement 
+Agent forthwith on demand such corresponding amounts together with interest 
+thereto, for each day from the date such amount is made available to such 
+RMB Borrower until the date such amount is repaid to the RMB Settlement 
+Agent, one (1) Business Day after demand. Nothing contained in this Clause 
+2.3(iii) shall be deemed to reduce the RMB Commitment of any RMB Lender or 
+in any way affect the rights of such RMB Borrower with respect to any 
+defaulting RMB Lender or the RMB Settlement Agent. The failure of any RMB 
+Lender to make available to the RMB Settlement Agent such RMB Lenders 
+share of any RMB Advance in accordance with Clause 2.3(ii) hereof shall not 
+relieve any other RMB Lender of its obligations to fund its RMB Commitment, 
+in accordance with the provisions hereof.
+
+(iv) 	  	Subject to the provisions hereof, the RMB Settlement Agent shall 
+make available each RMB Advance to the applicable RMB Borrower in Renminibi 
+immediately available in accordance with, and on the date set forth in, the 
+applicable Notice of RMB Borrowing.
+ 
+(v) 	  	There shall be no more than ten (10) RMB Advances outstanding at 
+any
+
+17
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	one time with respect to each RMB Borrower.
+
+2.4 Interest Rate
+
+(i) 	  	Each RMB Advance shall bear interest on the outstanding principal 
+amount thereof, for each day from the date such RMB Advance is made until 
+the date it is repaid, at a rate per annum equal to 90% of the benchmark 
+interest rate promulgated by the Peoples Bank of China for fixed asset 
+loan facilities (middle and long term loan facility) with a term over three 
+to five years as of the first Drawdown Date (the Interest Rate). The 
+interest rate herein shall be adjusted at the time of each RMB Advance or 
+at the time of the continuance of any such RMB Advance in accordance with 
+Section 2.4(ii) pursuant to the regulations of the Peoples Bank of China 
+to a rate per annum equal to 90% of the then applicable benchmark interest 
+rate promulgated by the Peoples Bank of China for fixed asset loan 
+facilities with a term of over 3 to 5 years, and such interest rate shall 
+be applicable to such RMB Advance.
+
+(ii) 	  	Prior to the expiration of the Interest Period applicable to any 
+RMB Advance, the applicable RMB Borrower may elect to continue all or any 
+portion of such RMB Advances and, in connection therewith, elect a new 
+Interest Period for such RMB Advances. Each such election shall be made by 
+delivering a notice (a Notice of Continuance) to the Administrative Agent 
+at least four (4) Business Days prior to, but excluding, the expiration 
+date of the then current Interest Period (whereupon the Administrative 
+Agent shall notify the RMB Settlement Agent), provided no RMB Advance may 
+be continued when any Guarantor Event of Default has occurred and is 
+continuing or, with respect to the RMB Borrower delivering such Notice of, 
+a Borrower Event of Default has occurred and is continuing. A Notice of 
+Continuance may, if it so specifies, apply to only a portion of the 
+aggregate principal amount of the relevant RMB Advances, so long as the 
+portion to which such Notice of Continuance applies, and the remaining 
+portion to which it does not apply, are RMB5,000,000 or more. Each Notice 
+of Continuation shall specify: (1) the RMB Advances to which such notice 
+applies; (2) the date on which the continuation is to be effective, and (3) 
+the duration of the new Interest Period, subject to the provisions of the 
+definition of Interest Period. Upon receipt of a Notice of Continuation 
+from any RMB Borrower pursuant to this subsection, the RMB Settlement Agent 
+shall notify each RMB Lender the same day as it receives such notice of the 
+contents thereof and such notice shall not thereafter be revocable by such 
+RMB Borrower. If the applicable RMB Borrower fails to deliver a
+
+18
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	timely Notice of Continuation to the Administrative Agent for any 
+RMB Advance, such RMB Advance shall be continued with a new Interest Period 
+of one month.
+ 
+  	(iii) 	  	Under PRC law, the default rate for the overdue payment of a 
+loan is 130% to 150% and the default rate is 150% to 200% if a borrower 
+does not use the capital of the loan for the purposes as provided in the 
+relevant loan agreement. As such, in case of the occurrence of an Event of 
+Default as provided in Clause 5.1(i), the outstanding principal amount of 
+the RMB Advances, and, to the extent permitted by applicable law, overdue 
+interest in respect of all RMB Advances, shall bear interest at the annual 
+default rate of 130%, and in case of the occurrence of an Event of Default 
+as a result of any breach by any RMB Borrower of the terms and conditions 
+of Clause 2.11, the outstanding principal amount of the RMB Advances, and, 
+to the extent permitted by applicable law, overdue interest in respect of 
+all RMB Advances, shall bear interest at the annual default rate of 150%. 
+For the occurrence of any other Event of Default other than those as 
+mentioned above, the outstanding principal amount of the RMB Advances, and, 
+to the extent permitted by applicable law, overdue interest in respect of 
+all RMB Advances, shall bear interest at the annual default rate equal to 
+the Interest Rate plus two percent (2%).
+ 
+  	(iv) 	  	The RMB Settlement Agent shall determine each Interest Rate 
+applicable to the RMB Advances hereunder and shall give prompt notice to 
+the applicable RMB Borrower and the RMB Lenders of each rate of interest so 
+determined, and its determination thereof shall be conclusive in the 
+absence of demonstrable error.
+ 
+  	(v) 	  	Except as provided in Clause 2.6(i), interest on all RMB 
+Advances shall be payable on the last Business Day of the applicable 
+Interest Period, provided if the applicable Interest Period is longer than 
+3 months, interest shall be paid at least every three months.
+
+2.5 	  	Maturity Date The term (the Term) of the RMB Commitments (and 
+each RMB Lenders obligations to make RMB Advances hereunder) shall 
+terminate and expire on the Final Maturity. Upon the date of the 
+termination of the Term, any RMB Advances then outstanding (together with 
+accrued interest thereon and all other RMB Obligations) shall be due and 
+payable on such date.
+
+19
+
+------------------------------------------------------------------------
+
+
+ 
+
+2.6 	  	Optional Prepayments
+
+  	(i) 	  	Each RMB Borrower may, upon at least four (4) Business Days 
+prior written notice to the Administrative Agent by 1:00 p.m. (Beijing 
+time) (whereupon the Administrative Agent shall notify the RMB Settlement 
+Agent), prepay any RMB Advances made to such RMB Borrower, in whole or in 
+part at any time, or from time to time in part in amounts aggregating for 
+all RMB Advances of such RMB Borrower being prepaid at the same time 
+RMB5,000,000 or more by paying the principal amount to be prepaid together 
+with accrued interest thereon to the date of prepayment. Each such optional 
+prepayment shall be applied to prepay ratably the RMB Advances of the 
+several RMB Lenders.
+ 
+  	(ii) 	  	Each RMB Borrower may, upon at least four (4) Business Days 
+prior written notice to the Administrative Agent by 1:00 p.m. (Beijing 
+time) (whereupon the Administrative Agent shall notify the RMB Settlement 
+Agent), reimburse the RMB Settlement Agent for the benefit of the RMB 
+Fronting Bank for the amount of any drawing under a RMB Letter of Credit 
+issued for the account of such RMB Borrower in whole or in part in any 
+amount.
+ 
+  	(iii) 	  	Any RMB Borrower may at any time return any undrawn RMB Letter 
+of Credit issued for the account of such RMB Borrower to the RMB Fronting 
+Bank in whole, but not in part, so long as such RMB Letter of Credit is 
+authenticated as returned and cancelled by the applicable bank for the 
+beneficiary of such RMB Letter of Credit, and the RMB Fronting Bank within 
+a reasonable period of time shall give the Administrative Agent, the RMB 
+Settlement Agent and each of the RMB Lenders notice of such return.
+ 
+  	(iv) 	  	The RMB Borrowers jointly may at any time and from time to time 
+cancel all or any part of the RMB Commitments in an amount of RMB5,000,000 
+or more in multiples of RMB1,000,000 by the delivery to the Administrative 
+Agent (whereupon the Administrative Agent shall notify the RMB Settlement 
+Agent) of a notice of cancellation within the applicable time periods set 
+forth in Clause 2.6(i) if there are no RMB Advances then outstanding or, if 
+there are RMB Advances outstanding at such time as to which the RMB 
+Commitments with respect thereto are being cancelled, upon at least four 
+(4) Business Days prior written notice (by 1:00 p.m. (Beijing time)) to 
+the Administrative Agent, whereupon all or such portion of the RMB 
+Commitments, as applicable, shall terminate as to the applicable RMB 
+Lenders, pro rata on the date set forth in such
+
+20
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	notice of cancellation, and, if there are any RMB Advances then 
+outstanding, the applicable RMB Borrowers shall prepay all or such portion 
+of RMB Advances outstanding on such date in accordance with the 
+requirements of Clause 2.6(i). In no event shall any RMB Borrower be 
+permitted to cancel RMB Commitments for which a RMB Letter of Credit has 
+been issued and is outstanding unless the applicable RMB Borrower for whose 
+account such RMB Letter of Credit was issued returns (or causes to be 
+returned) such RMB Letter of Credit to the RMB Fronting Bank. The notice of 
+cancellation issued by any RMB Borrower shall be irrevocable.
+ 
+  	(v) 	  	Any amounts so prepaid pursuant to Clause 2.6(i) may be 
+reborrowed. In the event the RMB Borrowers elect to cancel all or any 
+portion of the RMB Commitments pursuant to Clause 2.6 (iv) hereof, such 
+amounts may not be reborrowed.
+
+2.7 	  	Mandatory Prepayment
+
+  	(i) 	  	If at any time the Administrative Agent determines that all 
+outstanding RMB Advances (plus the outstanding amount of RMB Letters of 
+Credit Usage) shall exceed 105% of the RMB Facility Amount, then the RMB 
+Borrower, within three (3) Business Days after notice thereof from the 
+Administrative Agent, shall repay all or a portion of the outstanding RMB 
+Advances in such amount so that the aggregate thereof shall not exceed the 
+then RMB Facility Amount.
+ 
+  	(ii) 	  	If a RMB Borrower disposes of a real estate asset (or a 
+beneficial interest therein) to a third party on an arms length basis 
+(excluding any disposition to an Affiliate of AMB LP, provided that such 
+real estate asset continues to be managed by a AMB LP or a Subsidiary of 
+AMB LP), such RMB Borrower shall within three (3) Business Days of the 
+settlement date of such disposal prepay to the Administrative Agent 
+(whereupon the Administrative Agent shall notify the RMB Settlement Agent) 
+all RMB Advances owed by it with respect to the real estate asset or 
+beneficial interest so disposed together with accrued interest on such 
+amount.
+
+2.8 	  	RMB Secured Option
+
+  	(i) 	  	Each RMB Borrower shall have the option, exercisable upon not 
+less than thirty (30) days notice to the Administrative Agent to cause any 
+one or more of the RMB Advances to be made to such RMB Borrower to be 
+secured by the RMB Secured Property (as defined below) or a pledge of
+
+21
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	the equity interests of such RMB Borrower as designated in such 
+notice (such option being the RMB Secured Option). In the event any RMB 
+Borrower elects the RMB Secured Option with respect to any RMB Advances 
+after such date, such RMB Advance shall be secured by, at such RMB 
+Borrowers option, either:
+
+  	(a) 	  	a first priority mortgage on all real estate assets purchased 
+with the proceeds of the RMB Advance (the RMB Secured Property) 
+substantially in the form of Exhibit B or otherwise reasonably acceptable 
+to the Administrative Agent (a RMB Mortgage); or
+ 
+  	(b) 	  	a first priority pledge of all of the equity interest of the RMB 
+Borrower which owns the RMB Secured Property substantially in the form of 
+Exhibit C or otherwise reasonably acceptable to the Administrative Agent (a 
+RMB Share Pledge).
+
+  	  	  	In each case, the RMB Mortgage or RMB Share Pledge, as the case 
+may be, and such other documents and filings reasonably necessary to 
+perfect and evidence the RMB Lenders first priority security interest are 
+referred to as the RMB Security Documents and such security is referred 
+to as the RMB Collateral).
+ 
+  	(ii) 	  	Each RMB Borrower shall have the option, upon ten (10) Business 
+Days prior written notice to Administrative Agent, to substitute the type 
+of RMB Security Document securing RMB Collateral (i.e., a RMB Mortgage can 
+be substituted with a RMB Share Pledge on the preferred or common stock or 
+membership interests of such RMB Borrower; a RMB Share Pledge can be 
+substituted with a RMB Mortgage; and a RMB Share Pledge on common stock can 
+be substituted with a RMB Share Pledge on preferred stock), provided (i) 
+such RMB Borrower has satisfied all the conditions to the RMB Advance as 
+set forth in Clause 2.8(i), (ii) such RMB Borrower pays all of the Agents 
+reasonable out-of-pocket expenses in connection with such substitution and 
+release, and (iii) such RMB Borrower causes the Guarantors under the Master 
+Agreement to deliver a Ratification (as defined in the Master Agreement). 
+With respect to any substitution of RMB Collateral as contemplated by this 
+Clause 2.8(ii), the original RMB Collateral shall not be released unless 
+and until the new RMB Security Document(s) with respect to the new RMB 
+Collateral is effectively registered and (ii) the RMB Borrower proposing 
+such substitution shall have the obligation to submit the new Security 
+Document(s) to the relevant governmental authority for registration and, in 
+the case of any RMB Share Pledge, the RMB Security Document(s) shall
+
+22
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	be recorded in the shareholder list maintained by the RMB 
+Borrower.
+ 
+  	(iii) 	  	Each RMB Borrower shall have the option, upon five (5) 
+Business Days prior notice to Administrative Agent, to obtain a release of 
+RMB Collateral securing an RMB Advance provided that such RMB Borrower (i) 
+prepays the RMB Advance secured thereby and (ii) pays all of the Agents 
+reasonable out-of-pocket expenses in connection with such release.
+ 
+  	(iv) 	  	Upon ten (10) Business Days notice to Administrative Agent, 
+another RMB Borrower (the Assuming RMB Borrower) may assume a RMB Advance 
+made to a RMB Borrower provided that, upon the assumption by such Assuming 
+RMB Borrower of such RMB Advance, (i) the Assuming RMB Borrower delivers 
+RMB Collateral of the type selected by the Assuming RMB Borrower under 
+Clause 2.8(i), (ii) the Assuming RMB Borrower satisfies all the conditions 
+to the original Advance as set forth in Clause 3.2, and (iii) the Assuming 
+RMB Borrower pays all of the Agents reasonable out-of-pocket expenses in 
+connection with such release. The release of the original RMB Borrower and 
+such original RMB Collateral shall occur simultaneously with the assumption 
+of the RMB Advance by the Assuming RMB Borrower and the substitution of the 
+RMB Collateral. In no event shall the Administrative Agent release any such 
+RMB Collateral unless and until substitute RMB Collateral has been 
+obtained, to the satisfaction of the Administrative Agent.
+ 
+  	(v) 	  	The Administrative Agent shall notify the RMB Settlement Agent 
+of any creation, substitution, release or assumption of security made 
+hereunder prior to the time such security is to take effect.
+
+2.9 	  	General Provisions as to Payments
+
+  	(i) 	  	Each RMB Borrower shall make each payment of the principal of 
+and interest on its RMB Advances and fees hereunder, by initiating a wire 
+transfer not later than 11:00 a.m. (Beijing time) on the date when due in 
+Renminbi immediately available in Shanghai, PRC to the RMB Settlement Agent 
+at its account referred to in Clause 8, and each RMB Borrower shall deliver 
+to the RMB Settlement Agent evidence of such wire as soon as possible 
+thereafter on the date when due. The RMB Settlement Agent will promptly 
+(and in any event within one (1) Business Day after receipt thereof) 
+distribute to each RMB Lender its ratable share of each such payment 
+received by the RMB Settlement Agent for the account of the RMB Lenders. If 
+and to the extent that the RMB Settlement Agent shall receive any such 
+payment for the account of the RMB Lenders on or before 11:00 a.m. (Beijing 
+time) on any Business Day, and RMB Settlement
+
+23
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	Agent shall not have distributed to any RMB Lender its applicable 
+share of such payment on such day, RMB Settlement Agent shall distribute 
+such amount to such RMB Lender together with interest thereon, for each day 
+from the date such amount should have been distributed to such RMB Lender 
+until the date RMB Settlement Agent distributes such amount to such RMB 
+Lender, at the Interest Rate. Whenever any payment of principal of, or 
+interest on the RMB Advances or of fees shall be due on a day which is not 
+a Business Day, the date for payment thereof shall be extended to the next 
+succeeding Business Day unless such Business Day falls in another calendar 
+month, in which case the date for payment thereof shall be the immediately 
+preceding Business Day. If the date for any payment of principal is 
+extended by operation of law or otherwise, interest thereon shall be 
+payable for such extended time.
+ 
+  	(ii) 	  	Unless the RMB Settlement Agent shall have received notice from 
+the applicable RMB Borrower prior to the date on which any payment is due 
+to the RMB Lenders hereunder that such RMB Borrower will not make such 
+payment in full, the RMB Settlement Agent may assume that such RMB Borrower 
+has made such payment in full to the RMB Settlement Agent on such date and 
+the RMB Settlement Agent may, in reliance upon such assumption, cause to be 
+distributed to each RMB Lender on such due date an amount equal to the 
+amount then due to such RMB Lender. If and to the extent that such RMB 
+Borrower shall not have so made such payment, each RMB Lender shall repay 
+to the RMB Settlement Agent forthwith on demand such amount distributed to 
+such RMB Lender together with interest thereon, for each day from the date 
+such amount is distributed to such RMB Lender until the date such RMB 
+Lender repays such amount to the RMB Settlement Agent, at the Interest 
+Rate.
+
+2.10 	  	Computation of Interest and Fees All interest and fees shall be 
+computed on the basis of a year of 360 days and paid for the actual number 
+of days elapsed (including the first day but excluding the last day). All 
+interest and fees payable or paid by the RMB Borrower under this Agreement 
+shall be denominated in RMB.
+ 
+2.11 	  	Use of Proceeds Each RMB Borrower shall use the proceeds of the 
+RMB Advances (i) to fund the acquisition and development of properties, or 
+the acquisition of beneficial interests in properties in PRC and (ii) for 
+other real estate purposes in PRC, provided that in no event shall any RMB 
+Borrower further lend the proceeds of any RMB Advances to any unrelated 
+third party. Neither the Agent nor any RMB Lenders shall have any 
+responsibility to see to the application of the proceeds by the RMB 
+Borrower as long as each complies with the mandatory banking regulations of 
+China.
+ 
+2.12 	  	RMB Letters of Credit
+
+24
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(i) 	  	Subject to the terms contained in this Agreement and the other 
+RMB Loan Documents, upon the receipt of a notice in accordance with Clause 
+2.2(ii) requesting the issuance of a RMB Letter of Credit, the RMB Fronting 
+Bank shall issue a RMB Letter of Credit or RMB Letters of Credit in such 
+form as is reasonably acceptable to the applicable RMB Borrower (subject to 
+the provisions of Clause 2.2(ii)) in an amount or amounts equal to the 
+amount or amounts requested by such RMB Borrower; provided that the RMB 
+Fronting Bank shall issue the same only in Renminbi.
+ 
+  	(ii) 	  	Each RMB Letter of Credit shall be issued in the minimum amount 
+of the RMB equivalent of JPY10,000,000 or such lesser amount as may be 
+agreed to by the RMB Fronting Bank.
+ 
+  	(iii) 	  	The Alternate Currency Letter of Credit Usage and the Letter 
+of Credit Usage, in the aggregate, shall be no more than the lesser of (i) 
+RMB100,000,000 and (ii) twenty percent (20%) of the Facility Amount at any 
+one time.
+ 
+  	(iv) 	  	There shall be no more than twenty-five (25) Letters of Credit 
+and Alternate Currency Letters of Credit outstanding at any one time, under 
+this Agreement, the Master Agreement and the other Alternate Currency Loan 
+Documents (as defined in the Master Agreement).
+ 
+  	(v) 	  	In the event of any request for a drawing under any RMB Letter 
+of Credit by the beneficiary thereunder, the RMB Fronting Bank shall notify 
+the applicable RMB Borrower and the Administrative Agent (and the 
+Administrative Agent shall notify each RMB Lender and the RMB Settlement 
+Agent thereof) at least two (2) Business Days prior to the date on which 
+the RMB Fronting Bank intends to honor such drawing, and, except as 
+provided in this subsection (v), such RMB Borrower shall reimburse the RMB 
+Fronting Bank, in immediately available funds in Renminbi, on the same day 
+on which such drawing is honored in an amount equal to the amount of such 
+drawing. Notwithstanding anything contained herein to the contrary, 
+however, unless the applicable RMB Borrower shall have notified the 
+Administrative Agent and the RMB Fronting Bank prior to 1:00 P.M. (Beijing 
+time), and the RMB Fronting Bank shall notify the RMB Lenders prior to 2:00 
+P.M. (Beijing time), not less than two (2) Business Days prior to the date 
+of such drawing that such RMB Borrower intends to reimburse the RMB 
+Fronting Bank for the amount of such drawing with funds other than the 
+proceeds of the RMB Advances, such Borrower shall be deemed to have timely 
+given a Notice
+
+25
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	of RMB Borrowing pursuant to Clause 2.2 to the Administrative 
+Agent, requesting a RMB Advance on the date on which such drawing is 
+honored and in an amount equal to the amount of such drawing. Each RMB 
+Lender (other than the RMB Fronting Bank) shall make available its pro rata 
+share of such RMB Advance to the RMB Settlement Agent, the proceeds of 
+which shall be applied directly by the RMB Settlement Agent to reimburse 
+the RMB Fronting Bank for the amount of such draw. In the event that any 
+RMB Lender fails to make available to the RMB Settlement Agent (for the 
+account of the RMB Fronting Bank) the amount of such RMB Lenders 
+participation on the date of a drawing, the RMB Fronting Bank shall be 
+entitled to recover such amount on demand from such RMB Lender together 
+with interest at the Interest Rate commencing on the date such drawing is 
+honored.
+ 
+  	(vi) 	  	If, at the time a beneficiary under any RMB Letter of Credit 
+requests a drawing thereunder, a Guarantor Event of Default as described in 
+Clause 6.3(f) or 6.3(g) of the Master Agreement shall have occurred and is 
+continuing or an RMB Borrower Event of Default as described in Clause 
+5.1(iv) or Clause 5.1(v) with respect to the RMB Borrower for whose account 
+such RMB Letter of Credit was issued shall have occurred and is continuing, 
+then on the date on which the RMB Fronting Bank shall have honored such 
+drawing, the applicable RMB Borrower shall have an unreimbursed obligation 
+(the Unreimbursed Obligation) to the RMB Fronting Bank in an amount equal 
+to the amount of such drawing, which amount shall bear interest at the 
+annual rate of the sum of the Interest Rate plus two percent (2%). Each RMB 
+Lender shall purchase an undivided participating interest in such drawing 
+in an amount equal to its pro rata share of the RMB Commitments, and upon 
+receipt thereof the RMB Fronting Bank shall deliver to such RMB Lender an 
+Unreimbursed Obligation participation certificate dated the date of the RMB 
+Fronting Banks receipt of such funds and in the amount of such RMB 
+Lenders pro rata share.
+ 
+  	(vii) 	  	If, after the date hereof, any change in any applicable law or 
+regulation or in the interpretation thereof by any court or administrative 
+or governmental authority charged with the administration thereof shall 
+either (i) impose, modify or deem applicable any reserve, special deposit 
+or similar requirement against letters of credit issued by, or assets held 
+by, or deposits in or for the account of, or participations in any letter 
+of credit, upon any RMB Lender (including any RMB Fronting Bank) or (ii) 
+impose on any RMB Lender any other condition regarding this Agreement or 
+such RMB Lender (including any RMB Fronting Bank) as it pertains to any
+
+26
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	RMB Letter of Credit or any participation therein and the result 
+of any event referred to in the preceding clause (i) or (ii) shall be to 
+increase, by an amount deemed by the RMB Fronting Bank or such RMB Lender 
+to be material, the cost to the RMB Fronting Bank or any RMB Lender of 
+issuing or maintaining such RMB Letter of Credit or participating therein, 
+then the RMB Borrower for whose account such RMB Letter of Credit was 
+issued shall pay to the RMB Fronting Bank or such RMB Lender, within 15 
+days after written demand by the RMB Fronting Bank or such RMB Lender (with 
+a copy to the Administrative Agent whereupon the Administrative Agent shall 
+notify the RMB Settlement Agent), which demand shall be accompanied by a 
+certificate showing, in reasonable detail, the calculation of such amount 
+or amounts, such additional amounts as shall be required to compensate the 
+RMB Fronting Bank or such RMB Lender for such increased costs or reduction 
+in amounts received or receivable hereunder. Each RMB Lender will promptly 
+notify each affected RMB Borrower and the Administrative Agent of any event 
+of which it has knowledge, occurring after the date hereof, which will 
+entitle such RMB Lender to compensation pursuant to this Clause 2.12 and 
+will designate a different RMB Facility Office if such designation will 
+avoid the need for, or reduce the amount of, such compensation and will 
+not, in the reasonable judgment of such RMB Lender be otherwise 
+disadvantageous to such RMB Lender. If such RMB Lender shall fail to notify 
+any affected RMB Borrower of any such event within 90 days following the 
+end of the month during which such event occurred, then such RMB Borrowers 
+liability for any amounts described in this Clause incurred by such RMB 
+Lender as a result of such event shall be limited to those attributable to 
+the period occurring subsequent to the tenth (10th) day prior to, but 
+excluding, the date upon which such RMB Lender actually notified such RMB 
+Borrower of the occurrence of such event. A certificate of the RMB Fronting 
+Bank or any RMB Lender claiming compensation under this Clause 2.12 and 
+setting forth a reasonably detailed calculation of the additional amount or 
+amounts to be paid to it hereunder shall be conclusive in the absence of 
+demonstrable error. In determining such amount, the RMB Fronting Bank or 
+such RMB Lender may use any reasonable averaging and attribution methods.
+ 
+  	(viii) 	  	Each RMB Borrower hereby agrees to protect, indemnify, pay 
+and save the RMB Fronting Bank harmless from and against any and all 
+claims, demands, liabilities, damages, losses, costs, charges and expenses 
+(including reasonable attorneys fees and disbursements) which the RMB 
+Fronting Bank may incur or be subject to as a result of (i) the issuance of 
+RMB Letters of Credit for the account of such RMB Borrower, other than
+
+27
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	to the extent of the bad faith, gross negligence or willful 
+misconduct of the RMB Fronting Bank or (ii) the failure of the RMB Fronting 
+Bank to honor a drawing under such RMB Letter of Credit as a result of any 
+act or omission, whether rightful or wrongful, of any present or future de 
+jure or de facto government or governmental authority (collectively, 
+Governmental Acts), other than to the extent of the bad faith, gross 
+negligence or willful misconduct of the RMB Fronting Bank. As between the 
+RMB Borrower for whose account the RMB Letter of Credit was issued and the 
+RMB Fronting Bank, such RMB Borrower assumes all risks of the acts and 
+omissions of any beneficiary with respect to its use, or misuses of, such 
+RMB Letter of Credit issued by the RMB Fronting Bank. In furtherance and 
+not in limitation of the foregoing, the RMB Fronting Bank shall not be 
+responsible (i) for the form, validity, sufficiency, accuracy, genuineness 
+or legal effect of any document submitted by any party in connection with 
+the application for and issuance of such RMB Letters of Credit, even if it 
+should in fact prove to be in any or all respects invalid, insufficient, 
+inaccurate, fraudulent or forged; (ii) for the validity or insufficiency of 
+any instrument transferring or assigning or purporting to transfer or 
+assign any such RMB Letter of Credit or the rights or benefits thereunder 
+or proceeds thereof, in whole or in part, which may prove to be invalid or 
+ineffective for any reason; (iii) for failure of the beneficiary of any 
+such RMB Letter of Credit to comply fully with conditions required in order 
+to draw upon such RMB Letter of Credit, other than as a result of the bad 
+faith, gross negligence or willful misconduct of the RMB Fronting Bank; 
+(iv) for errors, omissions, interruptions or delays in transmission or 
+delivery of any message, by mail, cable, telegraph, facsimile transmission, 
+or otherwise; (v) for errors in interpretation of any technical terms; (vi) 
+for any loss or delay in the transmission or otherwise of any documents 
+required in order to make a drawing under any such RMB Letter of Credit or 
+of the proceeds thereof; (vii) for the misapplication by the beneficiary of 
+any such RMB Letter of Credit of the proceeds of such RMB Letter of Credit; 
+and (viii) for any consequence arising from causes beyond the control of 
+the RMB Fronting Bank, including any Governmental Acts, in each case other 
+than to the extent of the bad faith, gross negligence or willful misconduct 
+of the RMB Fronting Bank. None of the above shall affect, impair or prevent 
+the vesting of the RMB Fronting Banks rights and powers hereunder. In 
+furtherance and extension and not in limitation of the specific provisions 
+hereinabove set forth, any action taken or omitted by the RMB Fronting Bank 
+under or in connection with the RMB Letters of Credit issued by it or the 
+related certificates, if taken or omitted in good faith, shall not put the 
+RMB Fronting Bank under any resulting liability to any RMB Borrower; 
+provided that, notwithstanding anything in
+
+28
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	the foregoing to the contrary, the RMB Fronting Bank will be 
+liable to the RMB Borrower for whose account a RMB Letter of Credit was 
+issued for any damages suffered by such RMB Borrower or its Subsidiaries as 
+a result of the RMB Fronting Banks grossly negligent or willful failure to 
+pay under such RMB Letter of Credit after the presentation to it of a sight 
+draft and certificates strictly in compliance with the terms and conditions 
+of such RMB Letter of Credit.
+ 
+  	(ix) 	  	If the RMB Fronting Bank or the RMB Settlement Agent is 
+required at any time, pursuant to any bankruptcy, insolvency, liquidation 
+or reorganization law or otherwise, to return to a RMB Borrower any 
+reimbursement by such RMB Borrower of any drawing under any RMB Letter of 
+Credit, each RMB Lender shall pay to the RMB Fronting Bank or the RMB 
+Settlement Agent, as the case may be, its pro rata share of such payment, 
+but without interest thereon unless the RMB Fronting Bank or the RMB 
+Settlement Agent is required to pay interest on such amounts to the Person 
+recovering such payment, in which case with interest thereon, computed at 
+the same rate, and on the same basis, as the interest that the RMB Fronting 
+Bank or the RMB Settlement Agent is required to pay.
+
+2.13 	  	Letter of Credit Usage Absolute The obligations of each RMB 
+Borrower under this Agreement in respect of any RMB Letter of Credit issued 
+for the account of such RMB Borrower shall be unconditional and 
+irrevocable, and shall be paid strictly in accordance with the terms of 
+this Agreement (as the same may be amended from time to time) and any RMB 
+Letter of Credit Documents (as hereinafter defined) under all 
+circumstances, including, without limitation, to the extent permitted by 
+law, the following circumstances:
+
+  	(a) 	  	any lack of validity or enforceability of any RMB Letter of 
+Credit or any other agreement or instrument relating thereto (collectively, 
+the RMB Letter of Credit Documents) or any RMB Loan Document;
+ 
+  	(b) 	  	any change in the time, manner or place of payment of, or in any 
+other term of, all or any of the obligations of any RMB Borrower in respect 
+of any other RMB Letters of Credit issued for the account of such RMB 
+Borrower or any other RMB Borrower or any other amendment or waiver of or 
+any consent by any RMB Borrower to depart from all or any of the RMB Letter 
+of Credit Documents or any RMB Loan Document; provided, that the RMB 
+Fronting Bank shall not consent to any such change or amendment unless 
+previously consented to in writing by the RMB Borrower for whose account 
+the RMB Letter of Credit was issued;
+
+29
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(c) 	  	any exchange, release or non-perfection of any collateral, or 
+any release or amendment or waiver of or consent to departure from any 
+guaranty, for all or any of the obligations of any RMB Borrower in respect 
+of any RMB Letters of Credit issued for the account of such RMB Borrower;
+ 
+  	(d) 	  	the existence of any claim, set-off, defense or other right that 
+such RMB Borrower may have at any time against any beneficiary or any 
+transferee of a RMB Letter of Credit (or any Persons for whom any such 
+beneficiary or any such transferee may be acting), the Agent, the RMB 
+Fronting Bank or any RMB Lender (other than a defense based on the bad 
+faith, gross negligence or willful misconduct of the Agent, the RMB 
+Fronting Bank or such RMB Lender) or any other Person, whether in 
+connection with the RMB Loan Documents, the transactions contemplated 
+hereby or any unrelated transaction;
+ 
+  	(e) 	  	any draft or any other document presented under or in connection 
+with any RMB Letter of Credit or other RMB Loan Document proving to be 
+forged, fraudulent, invalid or insufficient in any respect or any statement 
+therein being untrue or inaccurate in any respect; provided, that payment 
+by the RMB Fronting Bank under such RMB Letter of Credit against 
+presentation of such draft or document shall not have been the result of 
+the bad faith, gross negligence or willful misconduct of the RMB Fronting 
+Bank;
+ 
+  	(f) 	  	payment by the RMB Fronting Bank against presentation of a draft 
+or certificate that does not strictly comply with the terms of the RMB 
+Letter of Credit; provided, that such payment shall not have been the 
+result of the bad faith, gross negligence or willful misconduct of the RMB 
+Fronting Bank; and
+ 
+  	(g) 	  	any other circumstance or happening whatsoever other than the 
+payment in full of all obligations hereunder in respect of any RMB Letter 
+of Credit or any agreement or instrument relating to any RMB Letter of 
+Credit, whether or not similar to any of the foregoing, that might 
+otherwise constitute a defense available to, or a discharge of, the 
+applicable RMB Borrower; provided, that such other circumstance or 
+happening shall not have been the result of bad faith, gross negligence or 
+willful misconduct of the RMB Fronting Bank.
+
+2.14 	  	RMB Letters of Credit Maturing after Final Maturity
+
+  	(i) 	  	Notwithstanding anything contained herein to the contrary, if 
+any RMB
+
+30
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	Letters of Credit, by their terms, shall mature after Final 
+Maturity, then, on and after Final Maturity, the provisions of this 
+Agreement shall remain in full force and effect with respect to such RMB 
+Letters of Credit, and the RMB Borrower shall comply with the provisions of 
+Clause 2.14(ii). No RMB Letter of Credit shall mature on a date that is 
+more than twelve (12) months after Final Maturity then in effect.
+ 
+  	(ii) 	  	If, at any time and from time to time, any RMB Letter of Credit 
+shall have been issued hereunder and the same shall expire on a date after 
+Final Maturity, then, on the date of Final Maturity, the RMB Borrower shall 
+pay to the Administrative Agent, on behalf of the RMB Lenders, in same day 
+funds at the Administrative Agents office designated in such demand, for 
+deposit in the RMB Letter of Credit Collateral Account, RMB Letter of 
+Credit Collateral in an amount equal to the RMB Letter of Credit Usage 
+under the RMB Letter of Credit. Interest shall accrue on the RMB Letter of 
+Credit Collateral Account in accordance with the provisions of Clause 
+4.2(i).
+
+2.15 	  	Addition of Qualified RMB Borrowers; Release of Qualified RMB 
+Borrowers
+
+  	(i) 	  	If after the date hereof, AMB Property, L.P., desires to cause a 
+Subsidiary of AMB Property, L.P. which otherwise satisfies the definition 
+of a Qualified RMB Borrower hereunder to become a Qualified RMB Borrower 
+hereunder, then AMB Property, L.P., shall so notify the Administrative 
+Agent and, upon satisfaction of the following conditions, such Subsidiary 
+shall become a Qualified RMB Borrower under this Agreement:
+
+  	(a) 	  	such Subsidiary shall duly execute and deliver to the 
+Administrative Agent a Qualified RMB Borrower Joinder Agreement; and
+ 
+  	(b) 	  	such Subsidiary shall satisfy all of the conditions with respect 
+thereto set forth in the Qualified RMB Borrower Joinder Agreement.
+
+  	  	  	The Administrative Agent shall promptly notify each RMB Lender 
+upon a Subsidiarys addition as a Qualified RMB Borrower hereunder. Each 
+such Qualified RMB Borrower shall remain a Qualified RMB Borrower hereunder 
+until released as provided in Clause 2.15(ii) below.
+ 
+  	(ii) 	  	At such time as no RMB Advances are outstanding as to any RMB 
+Borrower, at the option of such RMB Borrower or AMB Property, L.P.,
+
+31
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	and upon notice to Administrative Agent, such RMB Borrower shall 
+be released as a Qualified RMB Borrower under the RMB Loan Documents, and 
+the RMB Security Documents, if any, of such Qualified RMB Borrower shall be 
+released.
+ 
+  	(iii) 	  	The Administrative Agent shall notify the RMB Settlement Agent 
+of any addition or release of Qualified RMB Borrowers made hereunder prior 
+to the time such action is to take effect.
+
+2.16 	  	RMB Lenders Rights and Obligations Several The rights and 
+obligations of each RMB Lender hereunder are several and the failure by a 
+RMB Lender to perform its obligations hereunder shall not affect the 
+obligations of the RMB Borrower towards any other party hereto nor shall 
+any other party be liable for the failure by such RMB Lender to perform its 
+obligations hereunder. The amount owing at any time to a RMB Lender shall 
+be a separate and independent debt from the amount owing to any other RMB 
+Lenders.
+
+2.17 	  	Denomination of RMB Any amount advanced by the RMB Lenders to the 
+RMB Borrower under this Agreement shall be denominated in RMB.
+
+2.18 	  	Control Accounts The RMB Settlement Agent shall record the date, 
+amount, type and maturity of each RMB Advance made by each RMB Lender and 
+the date and amount of each payment of principal made by each RMB Borrower, 
+with respect thereto; provided that the failure of the RMB Settlement Agent 
+to make any such recordation shall not affect the obligations of any RMB 
+Borrower hereunder. Each RMB Lender shall record the date, amount, type and 
+maturity of each RMB Advance made by it and the date and amount of each 
+payment of principal made by the applicable RMB Borrower, with respect 
+thereto; provided that the failure of such RMB Lender to make any such 
+recordation shall not affect the obligations of any RMB Borrower hereunder. 
+The Administrative Agent shall calculate the JPY equivalent of all 
+outstanding RMB Advances denominated in RMB monthly and at the time of each 
+RMB Advance.
+
+2.19 	  	Fees
+
+  	(i) 	  	Each RMB Borrower acknowledges that pursuant to Clause 2.9(a) of 
+the Master Agreement, the Credit Parties (as defined in the Master 
+Agreement) are obligated to pay a facility fee in accordance with the terms 
+thereof. Each RMB Borrower agrees and acknowledges that it shall be liable 
+for its pro rata share of such facility fees prorata with the other Credit 
+Parties and all other Alternate Currency Borrowers (as defined in the 
+Master Agreement) based upon its respective RMB Advances and RMB Letters of 
+Credit Usage and the Advances,
+
+32
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	Letter of Credit Usage, Alternate Currency Advances and Alternate 
+Currency Letter of Credit Usage of all other Credit Parties and other 
+Alternate Currency Credit Parties, as applicable.
+ 
+  	(ii) 	  	During the Term and thereafter for so long as any RMB Letter of 
+Credit shall be outstanding, each RMB Borrower shall pay to the RMB 
+Settlement Agent, for the account of the RMB Lenders in proportion to their 
+interests in respect of undrawn RMB Letters of Credit issued for the 
+account of such RMB Borrower, a fee (a RMB Letter of Credit Fee) in an 
+amount, provided that no Guarantor Event of Default shall have occurred and 
+be continuing and no RMB Borrower Event of Default shall have occurred and 
+be continuing with respect to such RMB Borrower, equal to a rate per annum 
+equal to the then percentage per annum of the Applicable Margin (as defined 
+in the Master Agreement) as determined by the Administrative Agent with 
+respect to TIBOR Loans (as defined in the Master Agreement), on the daily 
+average of such issued and undrawn RMB Letters of Credit, which fee shall 
+be payable, in arrears, on each January 1, April 1, July 1 and October 1 
+during the Term and for so long as any RMB Letter of Credit shall be 
+outstanding. From the occurrence, and during the continuance, of a 
+Guarantor Event of Default or a RMB Borrower Event of Default with respect 
+to such RMB Borrower, such fee shall be increased to be equal to two 
+percent (2%) per annum on the daily average of such issued and undrawn RMB 
+Letters of Credit. The RMB Letter of Credit Fee shall be payable in RMB.
+ 
+  	(iii) 	  	Each RMB Borrower shall pay the RMB Fronting Bank, for its own 
+account, a fee (a RMB Fronting Bank Fee) at a rate per annum equal to the 
+greater of (i) .125% of the undrawn amount of such RMB Letter of Credit 
+issued by such RMB Fronting Bank for the account of such RMB Borrower (the 
+RMB Annual Fronting Bank Fee) and (ii) the RMB equivalent of JPY25,000, 
+which RMB Fronting Bank Fee shall be in addition to and not in lieu of, the 
+RMB Letter of Credit Fee. The RMB Fronting Bank Fee shall be payable in 
+arrears on each January 1, April 1, July 1 and October 1 during the Term in 
+RMB.
+ 
+  	(iv) 	  	All fees set forth in this Clause 2.19 shall be deemed to have 
+been earned on the date payment is due in accordance with the provisions 
+hereof and shall be non-refundable. The obligation of any RMB Borrower to 
+pay such fees in accordance with the provisions hereof shall be binding 
+upon the RMB Borrower and shall inure to the benefit of the RMB Finance 
+Parties regardless of whether any RMB Advances are actually made.
+
+2.20 	  	Reimbursement of Costs Each RMB Borrower may prepay any RMB 
+Advance pursuant to the terms hereof, provided always that such RMB 
+Borrower shall hold harmless and indemnify the RMB Lenders against all 
+reasonable costs and
+
+33
+
+------------------------------------------------------------------------
+
+
+ 
+
+expenses incurred by or as a consequence of such prepayment, which costs 
+and expenses as reasonably determined by the RMB Lenders shall be paid 
+within 15 days after certification of such RMB Lender and calculated as 
+follows: (a) the then applicable Interest Rate minus the greater of the RMB 
+Lenders saving deposit rate or 0%, times (b) the prepaid RMB Advance 
+amount, times (c) actual number of days remaining prior to the expiration 
+of the then current Interest Period for such RMB Advance, (d) divided by 
+360. A statement in reasonable detail of the calculation of such costs and 
+expenses shall be sent to the RMB Borrower. Additionally, if any RMB 
+Borrower revokes or fails to borrow pursuant to any Notice of RMB 
+Borrowing, such RMB Borrower shall reimburse each RMB Lender within 15 days 
+after certification of such RMB Lender of such loss or expense (which shall 
+be delivered by each such RMB Lender to Administrative Agent for delivery 
+to such RMB Borrower) for any resulting loss or expense incurred by it (or 
+by an existing Participant in the related RMB Advance), including, without 
+limitation, any loss incurred in obtaining, liquidating or employing 
+deposits from third parties, but excluding loss of margin for the period 
+after any such payment or failure to borrow, provided that such RMB Lender 
+shall have delivered to Administrative Agent and Administrative Agent shall 
+have delivered to such RMB Borrower a certification as to the amount of 
+such loss or expense, which certification shall set forth in reasonable 
+detail the basis for and calculation of such loss or expense and shall be 
+conclusive in the absence of demonstrable error.
+
+CLAUSE 3 Conditions Precedent
+
+3.1 	  	Conditions Precedent to the First RMB Advance or RMB Letter of 
+Credit Issuance The closing hereunder shall occur on the date when each of 
+the following conditions is satisfied (or waived in writing by the 
+Administrative Agent and all of the RMB Lenders):
+
+  	(i) 	  	the Initial RMB Borrower, the Administrative Agent and the RMB 
+Settlement Agent and each of the RMB Lenders shall have executed and 
+delivered to the Administrative Agent a duly executed original of this 
+Agreement;
+ 
+  	(ii) 	  	each Qualified RMB Borrower, if any, shall have executed and 
+delivered to the Administrative Agent a duly executed original of a 
+Qualified RMB Borrower Joinder Agreement;
+ 
+  	(iii) 	  	the Administrative Agent shall have received an opinion of 
+Zhong Lun
+
+34
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	W&D Law Firm, PRC counsel for the RMB Borrowers, in the form 
+acceptable to the Administrative Agent, the RMB Lenders and their counsel;
+ 
+  	(iv) 	  	the Administrative Agent shall have received all documents the 
+Administrative Agent may reasonably request relating to the existence of 
+the RMB Borrowers, the authority for and the validity of this Agreement and 
+the other RMB Loan Documents, the incumbency of officers executing this 
+Agreement and the other RMB Loan Documents and any other matters relevant 
+hereto, all in form and substance satisfactory to the Administrative Agent. 
+Such documentation shall include, without limitation, the items listed in 
+Section 2 of the Second Schedule, as applicable each as amended, modified 
+or supplemented to the Closing Date, certified to be true, correct and 
+complete by a duly authorized officer of the applicable Person as of a date 
+not more than ten (10) days prior to the Closing Date;
+ 
+  	(v) 	  	each RMB Borrower as of the Closing Date shall have executed a 
+solvency certificate acceptable to the Administrative Agent;
+ 
+  	(vi) 	  	the Administrative Agent shall have received all certificates, 
+agreements and other documents and papers referred to in this Clause 3.1 
+and the Notice of RMB Borrowing referred to in Clause 3.2, if applicable, 
+unless otherwise specified, in sufficient counterparts, satisfactory in 
+form and substance to the Administrative Agent in its sole discretion;
+ 
+  	(vii) 	  	to the extent a RMB Borrower is a party to such agreement, 
+such RMB Borrower shall have taken all actions required to authorize the 
+execution and delivery of this Agreement, the Qualified RMB Borrower 
+Joinder Agreement and the other RMB Loan Documents and the performance 
+thereof;
+ 
+  	(viii) 	  	the RMB Lenders shall be satisfied that no RMB Borrower nor 
+any Consolidated Subsidiary is subject to any present or contingent 
+environmental liability which could have a Material Adverse Effect and AMB 
+Property Corporation shall have delivered a certificate so stating;
+ 
+  	(ix) 	  	the reasonable fees and expenses accrued through the Closing 
+Date of Skadden, Arps, Slate, Meagher & Flom LLP and Jun He Law Offices, if 
+required by such firm and if such firm has delivered an invoice in 
+reasonable detail of such fees and expenses in sufficient time for each RMB 
+Borrower to approve and process the same, shall have been paid to
+
+35
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	Skadden, Arps, Slate, Meagher & Flom LLP and Jun He Law Offices, 
+respectively;
+ 
+  	(x) 	  	each RMB Borrower shall have delivered copies of all consents, 
+licenses and approvals, if any, required in connection with the execution, 
+delivery and performance by such RMB Borrower of the RMB Loan Documents to 
+which such RMB Borrower is a party and the validity and enforceability of 
+the RMB Loan Documents, or in connection with any of the transactions 
+contemplated thereby, and such consents, licenses and approvals shall be in 
+full force and effect;
+ 
+  	(xi) 	  	no Default or Event of Default shall have occurred; and
+ 
+  	(xii) 	  	each of AMB Property, L.P. and AMB Property Corporation shall 
+have delivered a certificate in form acceptable to Administrative Agent 
+showing compliance with the requirements of Section 5.8 of the Master 
+Agreement as of the Closing Date.
+
+3.2 	  	Conditions Precedent to Each RMB Advance and/or Each Issuance of a 
+RMB Letter of Credit The obligation of any RMB Lender to make a RMB Advance 
+or to participate in any RMB Letter of Credit issued by the RMB Fronting 
+Bank and the obligation of the RMB Fronting Bank to issue a RMB Letter of 
+Credit on the occasion of any RMB Advance is subject to the satisfaction of 
+the following conditions:
+
+  	(i) 	  	receipt by the Administrative Agent of a Notice of RMB Borrowing 
+as required by Clause 2.2 or a request to cause a RMB Fronting Bank to 
+issue a RMB Letter of Credit pursuant to Clause 2.12;
+ 
+  	(ii) 	  	if so requested by the Administrative Agent, the RMB Borrower 
+shall furnish to the Administrative Agent an opinion of a PRC counsel for 
+the RMB Borrowers, acceptable to the Administrative Agent, the RMB Lenders 
+and their counsel, opining that the intended use of the proceeds to fund 
+the acquisition and development of properties, or the acquisition of 
+beneficial interests in properties in PRC and for other real estate 
+purposes in PRC complies in all respect with the then current requirements 
+of the PRC law and regulations;
+ 
+  	(iii) 	  	in the event that any RMB Borrower exercised the RMB Secured 
+Option, on or before the date that is five (5) Business Days prior to such 
+RMB Advance, such RMB Borrower shall deliver to the Administrative Agent 
+each of the items listed in Section 1 of the Second Schedule;
+
+36
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(iv) 	  	immediately after such RMB Advance, the aggregate outstanding 
+principal amount of the RMB Advances plus the RMB Letter of Credit Usage 
+will not exceed the aggregate amount of the RMB Commitments;
+ 
+  	(v) 	  	deliver a certified copy of the receipt evidencing payment of 
+all stamp duty payable in respect of this Agreement and the RMB Advance;
+ 
+  	(vi) 	  	immediately before and after giving effect to such RMB Advance 
+or issuance of any RMB Letter of Credit, no Guarantor Default or Guarantor 
+Event of Default, and no RMB Borrower Default or RMB Borrower Event of 
+Default with respect to such RMB Borrower, shall have occurred and be 
+continuing;
+ 
+  	(vii) 	  	the representations and warranties of such RMB Borrower 
+contained in this Agreement and the RMB Loan Documents and the 
+representations and warranties of AMB Property, L.P., and AMB Property 
+Corporation in the Master Agreement (in each case, other than 
+representations and warranties which expressly speak as of a different 
+date) shall be true and correct in all material respects on and as of the 
+date of such RMB Advance both before and after giving effect to the making 
+of such RMB Advances;
+ 
+  	(viii) 	  	no law or regulation shall have been adopted, no order, 
+judgment or decree of any governmental authority shall have been issued, 
+and no litigation shall be pending, which does or seeks to enjoin, prohibit 
+or restrain, the making or repayment of the RMB Advances (or any RMB Letter 
+of Credit, as applicable) or the consummation of the transactions 
+contemplated by this Agreement; and
+ 
+  	(ix) 	  	no event, act or condition shall have occurred after the 
+Closing Date which, in the reasonable judgment of the Administrative Agent 
+or the Majority RMB Lenders, as the case may be, has had or is likely to 
+have a Material Adverse Effect.
+
+Each RMB Advance hereunder or issuance of a RMB Letter of Credit hereunder 
+shall be deemed to be a representation and warranty by each RMB Borrower 
+receiving such RMB Advance or for whose account such RMB Letter of Credit 
+is being issued on the date of such RMB Advance as to the facts specified 
+in clauses (iv), (vi), (vii), (viii) and (ix) (to the extent that such RMB 
+Borrower is or should have been aware of any Material Adverse Effect) of 
+this Clause, except as otherwise disclosed in writing by such RMB Borrower 
+to the RMB Lenders. Notwithstanding anything to the contrary, no making of 
+a RMB Advance or
+
+37
+
+------------------------------------------------------------------------
+
+
+ 
+
+issuance of a RMB Letter of Credit shall be permitted hereunder if such RMB 
+Advance or RMB Letter of Credit would cause any RMB Borrower to fail to be 
+in compliance with any of the covenants contained in this Agreement or in 
+any of the other RMB Loan Documents or would cause any Credit Party (as 
+defined in the Master Agreement) to fail to be in compliance with any of 
+the covenants contained in the Master Agreement or in any of the other Loan 
+Documents (as defined in the Master Agreement).
+
+
+PART 3
+
+
+REPRESENTATIONS, WARRANTIES AND COVENANTS AND EVENTS OF
+DEFAULT AND REMEDIES
+
+CLAUSE 4 Representations & Warranties & Additional Covenants
+
+4.1 	  	Representations & Warranties In order to induce the Administrative 
+Agent, the RMB Fronting Bank and each of the other RMB Lenders which is or 
+may become a party to this Agreement to make the RMB Advances or issue the 
+RMB Letters of Credit, the Initial RMB Borrower makes the following 
+representations and warranties as of the Closing Date. Such representations 
+and warranties shall survive the effectiveness of this Agreement, the 
+execution and delivery of the other RMB Loan Documents and the making of 
+the RMB Advances and issuance of the Letters of Credit.
+
+  	(i) 	  	Existence and Power The Initial RMB Borrower is wholly foreign 
+owned enterprise duly organized and validly existing under the laws of PRC. 
+The Initial RMB Borrower has all powers and all material governmental 
+licenses, authorizations, consents and approvals required to own its 
+property and assets and carry on its business as now conducted or as it 
+presently proposes to conduct and has been duly qualified and is in good 
+standing in every jurisdiction in which the failure to be so qualified 
+and/or in good standing is likely to have a Material Adverse Effect. In 
+particular, the Initial RMB Borrower shall comply with the requirements set 
+out in Circular Jianzhufang [2006] No.171 (Opinions on Regulating the Entry 
+into and the Administration of Foreign Investment in Real Estate Market) 
+and such other laws and regulations as promulgated by the PRC government 
+and supervision authorities from time to time concerning the type of 
+activities carried out by the Initial RMB Borrower.
+ 
+  	(ii) 	  	Power and Authority
+
+  	(a) 	  	The Initial RMB Borrower has the requisite power and authority 
+to execute, deliver and carry out the terms and provisions of each of the
+
+38
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	RMB Loan Documents to which it is a party and has taken all 
+necessary action, if any, to authorize the execution and delivery on behalf 
+of the Initial RMB Borrower and the performance by the Initial RMB Borrower 
+of the RMB Loan Documents to which it is a party.
+ 
+  	(b) 	  	The Initial RMB Borrower has duly executed and delivered each 
+RMB Loan Document to which it is a party in accordance with the terms of 
+this Agreement, and each such RMB Loan Document constitutes the legal, 
+valid and binding obligation of the Initial RMB Borrower, enforceable in 
+accordance with its terms, except as enforceability may be limited by 
+applicable insolvency, bankruptcy or other laws affecting creditors rights 
+generally, or general principles of equity, whether such enforceability is 
+considered in a proceeding in equity or at law.
+
+  	(iii) 	  	No Violation Neither the execution, delivery or performance by 
+or on behalf of the Initial RMB Borrower of the RMB Loan Documents to which 
+it is a party, nor compliance by the Initial RMB Borrower with the terms 
+and provisions thereof nor the consummation of the transactions 
+contemplated by such RMB Loan Documents, (i) will materially contravene any 
+applicable provision of any law, statute, rule, regulation, order, writ, 
+injunction or decree of any court or governmental instrumentality, (ii) 
+will materially conflict with or result in any breach of, any of the terms, 
+covenants, conditions or provisions of, or constitute a default under, or 
+result in the creation or imposition of (or the obligation to create or 
+impose) any Lien upon any of the property or assets of the Initial RMB 
+Borrower pursuant to the terms of any indenture, mortgage, deed of trust, 
+or other agreement or other instrument to which the Initial RMB Borrower 
+(or of any partnership of which the Initial RMB Borrower is a partner) is a 
+party or by which it or any of its property or assets is bound or to which 
+it is subject (except for such breaches and defaults under loan agreements 
+which the lenders thereunder have agreed to forbear pursuant to valid 
+forbearance agreements), or (iii) will cause a material default by the 
+Initial RMB Borrower under any organizational document of any Person in 
+which the Initial RMB Borrower has an interest, or cause a material default 
+under the Initial RMB Borrowers organizational documents, the consequences 
+of which conflict, breach or default would have a Material Adverse Effect, 
+or result in or require the creation or imposition of any Lien whatsoever 
+upon any Property of such Initial RMB Borrower (except as contemplated 
+herein).
+
+39
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(iv) 	  	Litigation Except as previously disclosed by AMB Property, L.P. 
+and/or AMB Property Corporation in writing to the Administrative Agent, 
+there is no action, suit or proceeding pending against or, to the knowledge 
+of the Initial RMB Borrower, threatened against or affecting, (i) the 
+Initial RMB Borrower, (ii) the RMB Loan Documents or any of the 
+transactions contemplated by the RMB Loan Documents or (iii) any of their 
+assets, before any court or arbitrator or any governmental body, agency or 
+official in which there is a reasonable possibility of an adverse decision 
+which could, individually, or in the aggregate have a Material Adverse 
+Effect or which in any manner draws into question the validity of this 
+Agreement or the other RMB Loan Documents. As of the Closing Date, no such 
+action, suit or proceeding exists.
+ 
+  	(v) 	  	Organizational Documents The Initial RMB Borrower represents 
+that it has delivered to the Administrative Agent true, correct and 
+complete copies of its organizational documents. Attached hereto as 
+Exhibit D is a true, correct and complete (up to the tiers shown) 
+organizational and transaction structure chart for the Initial RMB Borrower 
+as of the Closing Date.
+ 
+  	(vi) 	  	Registrations, Filings and Stamp Duty All acts, conditions and 
+things required to be done, fulfilled and performed have been done, 
+fulfilled and performed in order (a) to enable the Initial RMB Borrower 
+lawfully to enter into, exercise its rights under and perform and comply 
+with the obligations expressed to be assumed by it in this Agreement, (b) 
+to ensure that the obligations expressed to be assumed by it in this 
+Agreement are legal, valid and binding and (c) to make this Agreement 
+admissible as evidence in the PRC and under the laws of the PRC in force at 
+the date hereof, and it is not necessary to file, record or enroll this 
+Agreement with any court or other authority in the PRC and no stamp, 
+registration or similar tax shall be paid on or in relation thereto, except 
+for the filings referred to in Clause 10.3 as required by law and the 
+payment of stamp duty of 0.005% as of the date of this Agreement (or such 
+higher or lower percentage as may from to time be stipulated under the PRC 
+laws and regulations) of the full amount of the RMB Advances hereunder by 
+each of the parties thereto.
+
+4.2 	  	Additional Covenants.
+
+  	(i) 	  	If, at any time and from time to time, any RMB Letter of Credit 
+shall have been issued hereunder (regardless of on whose behalf it shall 
+have been issued) and a Guarantor Event of Default shall have occurred and 
+be
+
+40
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	continuing, then, upon the occurrence and during the continuation 
+thereof, the Administrative Agent, after consultation with the RMB Lenders, 
+may, and upon the demand of the Majority RMB Lenders shall, whether in 
+addition to the taking by the Administrative Agent of any of the actions 
+described in this Clause or otherwise, make a demand upon each RMB Borrower 
+for whom a RMB Letter of Credit was issued, and forthwith upon such demand 
+(but in any event within ten (10) days after such demand), each such RMB 
+Borrower shall pay to the RMB Settlement Agent in same day funds for 
+deposit in a special cash collateral account (the RMB Letter of Credit 
+Collateral Account) to be maintained in the name of the Administrative 
+Agent (on behalf of the RMB Lenders) and under its sole dominion and 
+control at such place as shall be designated by the Administrative Agent, 
+an amount equal to the amount of the RMB Letter of Credit Usage under the 
+RMB Letters of Credit issued for the account of such RMB Borrower. If, at 
+any time and from time to time, any RMB Letter of Credit shall have been 
+issued hereunder for the account of any RMB Borrower and a RMB Borrower 
+Event of Default shall have occurred and be continuing with respect to such 
+RMB Borrower, then, upon the occurrence and during the continuation 
+thereof, the Administrative Agent, after consultation with the RMB Lenders, 
+may, and upon the demand of the Majority RMB Lenders shall, whether in 
+addition to the taking by the Administrative Agent of any of the actions 
+described in this Clause or otherwise, make a demand upon such defaulting 
+RMB Borrower for whom a RMB Letter of Credit was issued, and forthwith upon 
+such demand (but in any event within ten (10) days after such demand), such 
+defaulting RMB Borrower shall pay to the RMB Settlement Agent in same day 
+funds for deposit in the RMB Letter of Credit Collateral Account, an amount 
+equal to the amount of the RMB Letter of Credit Usage under such RMB 
+Letters of Credit issued for the account of such defaulting RMB Borrower. 
+Interest shall accrue on the RMB Letter of Credit Collateral Account at a 
+rate equal to the currently applicable RMB deposit rate published by the 
+Peoples Bank of China.
+
+  	(ii) 	  	Each RMB Borrower hereby pledges, assigns and grants to the 
+Administrative Agent, as administrative agent for its benefit and the 
+ratable benefit of the RMB Lenders a lien on and a security interest in, 
+the following collateral (the RMB Letter of Credit Collateral):
+
+  	(a) 	  	The RMB Letter of Credit Collateral Account, all cash of such 
+RMB Borrower deposited therein and all certificates and instruments, if 
+any, from time to time representing or evidencing the RMB Letter of Credit 
+Collateral Account;
+
+41
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(b) 	  	All notes, certificates of deposit and other instruments from 
+time to time hereafter delivered to or otherwise possessed by the 
+Administrative Agent for or on behalf of such RMB Borrower or substitution 
+for or in respect of any or all of the then existing RMB Letter of Credit 
+Collateral of such RMB Borrower;
+ 
+  	(c) 	  	all interest, dividends, cash, instruments and other property 
+from time to time received, receivable or otherwise distributed in respect 
+of or in exchange for any or all of the then existing RMB Letter of Credit 
+Collateral of such RMB Borrower; provided that, if no Event of Default 
+hereunder has occurred and is continuing, any interest, dividends or other 
+earnings received with respect to the RMB Letter of Credit Collateral shall 
+be distributed to RMB Borrower on a monthly basis; and
+ 
+  	(d) 	  	to the extent not covered by the above clauses, all proceeds of 
+any or all of the foregoing RMB Letter of Credit Collateral.
+
+The lien and security interest granted hereby secures the payment of all 
+obligations of such RMB Borrower now or hereafter existing hereunder and 
+under any other RMB Loan Document.
+
+  	(iii) 	  	Each RMB Borrower hereby authorizes the Administrative Agent 
+for the ratable benefit of the RMB Lenders to apply, from time to time 
+after funds of such RMB Borrower are deposited in the RMB Letter of Credit 
+Collateral Account, funds of such RMB Borrower then held in the RMB Letter 
+of Credit Collateral Account to the payment of any amounts, in such order 
+as the Administrative Agent may elect, as shall have become due and payable 
+by such RMB Borrower to the RMB Lenders in respect of the RMB Letters of 
+Credit issued for the account of such RMB Borrower.
+ 
+  	(iv) 	  	Neither an RMB Borrower nor any Person claiming or acting on 
+behalf of or through such RMB Borrower shall have any right to withdraw any 
+of the funds held in the RMB Letter of Credit Collateral Account, except as 
+provided in Clauses 4.2(ii) and 4.2(viii) hereof.
+ 
+  	(v) 	  	Each RMB Borrower agrees that it will not (i) sell or otherwise 
+dispose of any interest in the RMB Letter of Credit Collateral of such RMB 
+Borrower or (ii) create or permit to exist any lien, security interest or 
+other charge or encumbrance upon or with respect to any of the RMB Letter 
+of Credit Collateral of such RMB Borrower, except for the security interest 
+created
+
+42
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	by this Clause 4.2.
+
+  	(vi) 	  	If any Event of Default shall have occurred and be continuing:
+
+(a) With respect to any Guarantor Event of Default under the Master 
+Agreement, the Administrative Agent may, in its sole discretion, without 
+notice to the RMB Borrower except as required by law and at any time from 
+time to time, charge, set off or otherwise apply all or any part of the RMB 
+Letter of Credit Collateral of any RMB Borrower first, (x) amounts 
+previously drawn on any RMB Letter of Credit issued for the account of any 
+RMB Borrower that have not been reimbursed by the applicable RMB Borrower 
+and (y) any RMB Letter of Credit Usage of any RMB Borrower described in 
+clause (ii) of the definition thereof that are then due and payable and 
+second, any other unpaid RMB Obligations then due and payable, in such 
+order as the Administrative Agent shall elect. With respect to any RMB 
+Borrower Event of Default relating to any RMB Borrower, the Administrative 
+Agent may, in its sole discretion, without notice to the RMB Borrower 
+except as required by law and at any time from time to time, charge, set 
+off or otherwise apply all or any part of the RMB Letter of Credit 
+Collateral of such RMB Borrower first, (x) amounts previously drawn on any 
+RMB Letter of Credit issued for the account of such RMB Borrower that have 
+not been reimbursed by such RMB Borrower and (y) any RMB Letter of Credit 
+Usage of any RMB Borrower described in clause (ii) of the definition 
+thereof that are then due and payable from any RMB Borrower and second, any 
+other unpaid RMB Obligations of such RMB Borrower then due and payable, in 
+such order as the Administrative Agent shall elect. The rights of the 
+Administrative Agent under this Clause 4.2 are in addition to any rights 
+and remedies which any RMB Lender may have.
+
+(b) The Administrative Agent may also exercise, in its sole discretion, in 
+respect of the RMB Letter of Credit Collateral Account, in addition to the 
+other rights and remedies provided herein or otherwise available to it, all 
+the rights and remedies of a secured party upon default under applicable 
+law including contract law or guarantee law.
+
+  	(vii) 	  	The Administrative Agent shall be deemed to have exercised 
+reasonable care in the custody and preservation of the RMB Letter of Credit 
+Collateral if the RMB Letter of Credit Collateral is accorded treatment 
+substantially equal to that which the Administrative Agent accords its own 
+property, it being understood that, assuming such treatment, the 
+Administrative Agent shall not have any responsibility or liability with
+
+43
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	respect thereof.
+ 
+  	(viii) 	  	At such time as all Events of Default have been cured or 
+waived in writing, all amounts of any RMB Borrower remaining in the RMB 
+Letter of Credit Collateral Account shall be promptly returned to such RMB 
+Borrower and, in the case of RMB Letters of Credit maturing after the Final 
+Maturity, upon the return of any such RMB Letter of Credit, any amount of 
+any RMB Borrower attributable to such RMB Letter of Credit shall be 
+promptly returned to such RMB Borrower. Any surplus of the funds of any RMB 
+Borrower held in the RMB Letter of Credit Collateral Account remaining 
+after returning all RMB Letters of Credit maturing after Final Maturity 
+issued for the account of such RMB Borrower shall be paid to such RMB 
+Borrower.
+
+CLAUSE 5 Events of Default
+
+5.1 	  	Events of Default A RMB Borrower Event of Default as to any RMB 
+Borrower shall have occurred if one or more of the following events shall 
+have occurred and be continuing:
+
+  	(i) 	  	such RMB Borrower shall fail to (i) pay when due any principal 
+of any RMB Advance, or (ii) such RMB Borrower shall fail to pay when due 
+interest on any RMB Advance or any fees or any other amount payable to 
+Administrative Agent or the RMB Lenders hereunder and the same shall 
+continue for a period of five (5) days after the same becomes due;
+ 
+  	(ii) 	  	such RMB Borrower shall fail to observe or perform any covenant 
+or agreement contained in this Agreement (other than those referenced in 
+Clause 5.1(i) hereof) and/or the RMB Security Documents of such RMB 
+Borrower, if any, for 30 days after written notice thereof has been given 
+to such RMB Borrower by the Administrative Agent; or if such default is of 
+such a nature that it cannot with reasonable effort be completely remedied 
+within said period of thirty (30) days such additional period of time as 
+may be reasonably necessary to cure same, provided such RMB Borrower 
+commences such cure within said thirty (30) day period and diligently 
+prosecutes same, until completion, but in no event shall such extended 
+period exceed ninety (90) days; provided, further, that such RMB Borrower, 
+in lieu of such cure, may within such time periods described above, 
+exercise its right under Clause 2.8 to cause such RMB Security Documents to 
+be terminated and released or to select another RMB Secured Option under 
+Clause 2.8, in which event such failure shall be deemed cured;
+
+44
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(iii) 	  	any representation, warranty, certification or statement made 
+by such RMB Borrower in this Agreement or in any certificate, financial 
+statement or other document delivered pursuant to this Agreement shall 
+prove to have been incorrect in any material respect when made (or deemed 
+made) and, with respect to such representations, warranties, certifications 
+or statements not known by such RMB Borrower at the time made or deemed 
+made to be incorrect, the defect causing such representation or warranty to 
+be incorrect when made (or deemed made) is not removed within thirty (30) 
+days after written notice thereof from Administrative Agent to such RMB 
+Borrower;
+ 
+  	(iv) 	  	such RMB Borrower shall commence a voluntary case or other 
+proceeding seeking liquidation, reorganization or other relief with respect 
+to itself or its debts under any bankruptcy, insolvency or other similar 
+law now or hereafter in effect, including under PRC law, any corporate 
+action or proceedings are undertaken relating to bankruptcy, civil 
+rehabilitation, commencement of corporate reorganization proceedings, 
+commencement of company arrangement or commencement of special liquidation; 
+and except for any such action taken for the purposes of a reconstruction 
+or amalgamation whilst solvent on terms previously approved by the 
+Administrative Agent or for the appointment of a liquidator, receiver, 
+administrator, administrative receiver, conservator, custodian, trustee or 
+similar officer of it or of any or all of its revenues and assets or 
+seeking the appointment of a trustee, receiver, liquidate, custodian or 
+other similar official of it or any substantial part of its property, or 
+shall consent to any such relief or to the appointment of or taking 
+possession by any such official in an involuntary case or other proceeding 
+commenced against it, or shall make a general assignment for the benefit of 
+creditors, or shall fail generally to pay its debts as they become due, or 
+shall take any action to authorize any of the foregoing;
+ 
+  	(v) 	  	an involuntary case or other proceeding shall be commenced 
+against such RMB Borrower seeking liquidation, reorganization or other 
+relief with respect to it or its debts under any bankruptcy, insolvency or 
+other similar law now or hereafter in effect or seeking the appointment of 
+a trustee, receiver, liquidator, custodian or other similar official of it 
+or any substantial part of its property, and such involuntary case or other 
+proceeding shall remain undismissed and unstayed for a period of 90 days; 
+or an order for relief shall be entered against such RMB Borrower under the 
+federal or national bankruptcy laws as now or hereafter in effect;
+
+45
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(vi) 	  	at any time, for any reason, such RMB Borrower seeks to 
+repudiate its obligations under any RMB Loan Document;
+ 
+  	(vii) 	  	a default by such RMB Borrower beyond any applicable notice or 
+grace period under any of the other RMB Loan Documents to which such RMB 
+Borrower is a party;
+ 
+  	(viii) 	  	any assets of such RMB Borrower shall constitute assets 
+(within the meaning of ERISA (as defined in the Master Agreement) or 
+Section 4975 of the Code (as defined in the Master Agreement), including 
+but not limited to 29 C.F.R. § 2510.3-101 or any successor regulation 
+thereto) of an employee benefit plan within the meaning of Section 3(3) 
+of ERISA or a plan within the meaning of Section 4975(e)(1) of the Code; 
+or
+ 
+  	(ix) 	  	any RMB Advances made to such RMB Borrower, any of the RMB Loan 
+Documents to which any RMB Borrower is a party or the exercise of any of 
+the Administrative Agents or any of the RMB Lenders rights in connection 
+therewith shall constitute a prohibited transaction under ERISA and/or the 
+Code.
+
+5.2 Remedies
+
+  	(i) 	  	Rights and Remedies with Respect to RMB Borrower Event of 
+Default. Upon the occurrence of any RMB Borrower Event of Default described 
+in Clauses 5.1(iv), (v), (vi), (viii) and (ix) with respect to such RMB 
+Borrower, the unpaid principal amount of, and any and all accrued interest 
+on, the RMB Advances made to such defaulting RMB Borrower and any and all 
+accrued fees and other RMB Obligations of such defaulting RMB Borrower 
+hereunder shall automatically become immediately due and payable by such 
+defaulting RMB Borrower, with all additional interest from time to time 
+accrued thereon and without presentation, demand, or protest or other 
+requirements of any kind (including, without limitation, valuation and 
+appraisement, diligence, presentment, notice of intent to demand or 
+accelerate and notice of acceleration), all of which are hereby expressly 
+waived by such defaulting RMB Borrower; and upon the occurrence and during 
+the continuance of any other RMB Borrower Event of Default, the 
+Administrative Agent, following consultation with the RMB Lenders, may (and 
+upon the demand of the Majority RMB Lenders shall), by written notice to 
+such defaulting RMB Borrower and AMB Property, L.P., in addition to the 
+exercise of all of the rights and remedies permitted the Administrative 
+Agent and the RMB Lenders under applicable law or under any of the other 
+RMB Loan Documents to which
+
+46
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	such defaulting RMB Borrower is a party, declare that the unpaid 
+principal amount of and any and all accrued and unpaid interest on the RMB 
+Advances made to such defaulting RMB Borrower and any and all accrued fees 
+and other RMB Obligations of such defaulting RMB Borrower hereunder to be, 
+and the same shall thereupon be, immediately due and payable with all 
+additional interest from time to time accrued thereon and (except as 
+otherwise provided in the RMB Loan Documents to which such defaulting RMB 
+Borrower is a party) without presentation, demand, or protest or other 
+requirements of any kind (including, without limitation, valuation and 
+appraisement, diligence, presentment, notice of intent to demand or 
+accelerate and notice of acceleration), all of which are hereby expressly 
+waived by such defaulting RMB Borrower.
+ 
+  	(ii) 	  	Enforcement of Rights and Remedies Notwithstanding anything to 
+the contrary contained in this Agreement or in any other RMB Loan Document, 
+the Administrative Agent and the RMB Lenders each agree that any exercise 
+or enforcement of the rights and remedies granted to the Administrative 
+Agent or the RMB Lenders under this Agreement or under applicable law with 
+respect to this Agreement or any other RMB Loan Documents shall be 
+commenced and maintained by the Administrative Agent on behalf of the 
+Administrative Agent and/or the RMB Lenders. The Administrative Agent shall 
+act at the direction of the Majority RMB Lenders in connection with the 
+exercise of any and all remedies under applicable law or under any of the 
+RMB Loan Documents or, if the Majority RMB Lenders are unable to reach 
+agreement, then, from and after an RMB Borrower Event of Default, the 
+Administrative Agent may pursue such rights and remedies as it may 
+determine.
+ 
+  	(iii) 	  	Notice of Default The Administrative Agent shall give notice 
+to the RMB Borrower of a RMB Borrower Default promptly upon being requested 
+to do so by the Majority RMB Lenders and shall thereupon notify all the RMB 
+Lenders and the RMB Settlement Agent thereof. The Administrative Agent and 
+the RMB Settlement Agent shall not be deemed to have knowledge or notice of 
+the occurrence of any RMB Borrower Default or RMB Borrower Event of Default 
+(other than nonpayment of principal of or interest on the RMB Advances) 
+unless Administrative Agent or the RMB Settlement Agent has received notice 
+in writing from a RMB Lender or a RMB Borrower or AMB Property, LP 
+referring to this Agreement or the other RMB Loan Documents, describing 
+such event or condition. Should Administrative Agent receive notice of the 
+occurrence of a RMB Borrower Default or RMB
+
+47
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	  	Borrower Event of Default expressly stating that such notice is a 
+notice of a RMB Borrower Default or a RMB Borrower Event of Default, or 
+should Administrative Agent send any RMB Borrower a notice of RMB Borrower 
+Default or RMB Borrower Event of Default, Administrative Agent shall 
+promptly give notice thereof to each RMB Lender.
+ 
+  	(iv) 	  	Remedies and Waivers No failure to exercise, nor any delay in 
+exercising, on the part of the Administrative Agent, the RMB Settlement 
+Agent or any other RMB Finance Party or any of them, any right or remedy 
+hereunder shall operate as a waiver thereof, nor shall any single or 
+partial exercise of any right or remedy prevent or preclude any further or 
+other exercise thereof or the exercise of any other right or remedy. The 
+rights and remedies herein provided are cumulative and not exclusive of any 
+rights or remedies provided by law.
+ 
+  	(v) 	  	Partial Invalidity If, at any time, any provision hereof is or 
+becomes illegal, invalid or unenforceable in any respect under the law of 
+any jurisdiction, neither the legality, validity or enforceability of the 
+remaining provisions hereof nor the legality, validity or enforceability of 
+such provision under the law of any other jurisdiction shall in any way be 
+affected or impaired thereby.
+
+
+PART 4
+
+
+EXPENSES AND INDEMNITY
+
+CLAUSE 6 Expenses.
+
+6.1 	  	Expenses Each RMB Borrower (provided each RMB Borrower shall only 
+be liable for the enforcement costs incurred with respect to the RMB Loan 
+Documents to which such RMB Borrower is a party) shall pay within thirty 
+(30) days after written notice from the Administrative Agent, (i) all 
+reasonable out-of-pocket costs and expenses of the Administrative Agent 
+(including, without limitation, reasonable fees and disbursements of 
+special counsel Skadden, Arps, Slate, Meagher & Flom LLP and Jun He Law 
+Offices), in connection with the preparation of this Agreement, the other 
+RMB Loan Documents and the documents and instruments referred to therein, 
+and any waiver or consent hereunder or any amendment hereof or any Default 
+or alleged Default hereunder, (ii) all reasonable fees and disbursements of 
+special counsel in connection with the syndication of the RMB Advances, and 
+(iii) if an Event of Default occurs, all reasonable out-of-pocket expenses 
+incurred by the Administrative Agent and each RMB Lender, including, 
+without limitation, fees and disbursements of counsel for
+
+48
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	the Agent and each of the RMB Lenders, in connection with the 
+enforcement of the RMB Loan Documents including, without limitation, the 
+RMB Security Documents and any other instruments referred to therein, and 
+such Event of Default and collection, bankruptcy, insolvency and other 
+enforcement proceedings resulting therefrom; provided, however, that the 
+attorneys fees and disbursements for which any RMB Borrower is obligated 
+under this Clause 6.1 shall be limited to the reasonable non-duplicative 
+fees and disbursements of (A) counsel for Agent and (B) counsel for all of 
+the RMB Lenders as a group; and provided, further, that all other costs and 
+expenses for which any RMB Borrower is obligated under this Clause 6.1 
+shall be limited to the reasonable non-duplicative costs and expenses of 
+Agent. For purposes of this Clause 6.1, (1) counsel for Agent shall mean a 
+single outside law firm representing Agent and (2) counsel for all of the 
+RMB Lenders as a group shall mean a single outside law firm representing 
+such RMB Lenders as a group (which law firm may or may not be the same law 
+firm representing Agent).
+ 
+6.2 	  	RMB Lenders Liabilities for Costs Each RMB Lender shall, ratably 
+in accordance with its RMB Commitment, indemnify the Agent and its 
+affiliates and their respective directors, officers, agents and employees 
+(to the extent not reimbursed by the RMB Borrowers) against any cost, 
+expense (including, without limitation, counsel fees and disbursements), 
+claim, demand, action, loss or liability (except such as result from such 
+indemnitees gross negligence or willful misconduct) that such indemnitee 
+may suffer or incur in connection with its duties as Agent under this 
+Agreement, the other RMB Loan Documents or any action taken or omitted by 
+such indemnitee hereunder. In the event that Agent shall, subsequent to its 
+receipt of indemnification payment(s) from RMB Lenders in accordance with 
+this section, recoup any amount from any RMB Borrower, or any other party 
+liable therefor in connection with such indemnification, Agent shall refund 
+the indemnification payment(s) to the RMB Lenders which previously made 
+such payment(s) pro rata, based upon the actual amounts which were 
+theretofore paid by each RMB Lenders. Agent shall reimburse such RMB 
+Lenders so entitled to reimbursement within two (2) Business Days of its 
+receipt of such funds from such RMB Borrower or such other party liable 
+therefor.
+
+CLAUSE 7 Indemnity
+
+7.1 	  	Indemnity Each RMB Borrower agrees to indemnify Agent and each RMB 
+Lender, their respective affiliates and the respective directors, officers, 
+agents and employees of the foregoing (each an RMB Indemnitee) and hold 
+each RMB Indemnitee harmless from and against any and all liabilities, 
+losses, damages, costs and expenses of any kind, including, without 
+limitation, the reasonable fees and disbursements of counsel, which may be 
+incurred by such RMB Indemnitee in connection with any investigative, 
+administrative or judicial proceeding that
+
+49
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	may at any time (including, without limitation, at any time following 
+the payment of the RMB Obligations) be asserted against any RMB Indemnitee, 
+as a result of, or arising out of, or in any way related to or by reason of 
+any of the transactions contemplated by the RMB Loan Documents or the 
+execution, delivery or performance of any RMB Loan Document. In addition, 
+the indemnification set forth in this Clause 7.1 in favor of any director, 
+officer, agent or employee of Agent or any RMB Lender shall be solely in 
+their respective capacities as such director, officer, agent or employee. 
+Each RMB Borrowers obligations under this Clause shall survive the 
+termination of this Agreement, the release of a Qualified RMB Borrower 
+pursuant to Clause 2.15 and the payment of the RMB Obligations.
+
+
+PART 5
+
+
+PAYMENTS
+
+CLAUSE 8 Currency and Payments
+
+8.1 	  	Currency of Account and Payment The RMB is the currency of account 
+and payment for each and every sum at any time due from the RMB Borrower 
+hereunder.
+ 
+8.2 	  	Payments to the RMB Settlement Agent On each date on which this 
+Agreement requires an amount to be paid by any RMB Borrower or any of the 
+RMB Lenders hereunder, any RMB Borrower or, as the case may be, such RMB 
+Lender shall make the same available to the RMB Settlement Agent by payment 
+in RMB not later than 11:00 a.m. (Beijing time) on the relevant due date in 
+same day funds to the following or such other account or bank as the RMB 
+Settlement Agent may from time to time specify for this purpose.
+  	  	 
+[(CHINIES CHARACTER)]
+  	: [(CHINIES CHARACTER)]
+[(CHINIES CHARACTER)]
+  	: 563290000018
+[(CHINIES CHARACTER)]
+  	: [(CHINIES CHARACTER)]
+[(CHINIES CHARACTER)]
+  	: 563290000018
+ 
+  	 
+[(CHINIES CHARACTER)]
+  	: 
+
+8.3 	  	Alternative Payment Arrangements If, at any time, it shall become 
+impracticable (by reason of any action of any governmental agency or any 
+change in law, exchange control regulations or any similar event) for the 
+RMB Borrower to make any payments hereunder in the manner specified in 
+Clause 8.2 (Payments to the Administrative Agent), then the RMB Borrower 
+may agree with each or any of the RMB Lenders alternative arrangements for 
+the payment directly to such RMB Lender of amounts due to such RMB Lender 
+hereunder, provided that, in the absence of any such agreement with any RMB 
+Lender, the RMB Borrower
+
+50
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	shall be obliged to make all payments due to such RMB Lender in the 
+manner specified herein. Upon such agreement being reached between the RMB 
+Borrower and a RMB Lender, the RMB Borrower and such RMB Lender shall 
+immediately notify the RMB Settlement Agent thereof and shall thereafter 
+promptly notify the RMB Settlement Agent of all payments made directly to 
+such RMB Lender.
+ 
+8.4 	  	Payments by the RMB Settlement Agent Save as otherwise provided 
+herein, provided that the relevant party deposits the relevant amounts to 
+the account designated by the RMB Settlement Agent by 11:00 a.m. (Beijing 
+time) on the payment due date, each payment received by the RMB Settlement 
+Agent for the account of another Person pursuant to Clause 8.2 (Payments to 
+the RMB Settlement Agent) shall be segregated upon receipt and made 
+available by the RMB Settlement Agent to such other Person (in the case of 
+a RMB Lender, for the account of its RMB Facility Office) for value the 
+same day by transfer to such account of such Person as set out in the 
+Fifth Schedule (Payment Instructions) or in a Transfer Agreement or such 
+other account with such RMB Lender as such Person shall have previously 
+notified to the RMB Settlement Agent by ten (10) Business Days notice 
+without reduction for or on account of any set-off or counterclaim. The RMB 
+Settlement Agent will not be liable for any delay (or any related 
+consequences) in crediting an account with an amount required under the RMB 
+Loan Documents to be paid by the RMB Settlement Agent if the RMB Settlement 
+Agent has taken all necessary steps as soon as reasonably practicable to 
+comply with the regulations or operating procedures of any recognized 
+clearing or settlement system used by the RMB Settlement Agent for that 
+purpose.
+ 
+8.5 	  	No Set-off All payments required to be made by the RMB Borrower 
+hereunder shall be calculated without reference to any set-off or 
+counterclaim and shall be made free and clear of and without any deduction 
+for or on account of any set-off or counterclaim.
+ 
+8.6 	  	Order of Repayment The RMB Settlement Agent shall apply the 
+payments made by any RMB Borrower in order of expenses due and payable 
+hereunder by such RMB Borrower, any penalty interest due from such RMB 
+Borrower, any overdue interest due from such RMB Borrower, interest due 
+from such RMB Borrower, and then principal due from such RMB Borrower which 
+are then due and payable but unpaid, and in any case in accordance with the 
+Payment Instructions, repay the amount it received to the RMB Lenders.
+ 
+8.7 	  	Treatment of RMB Lenders. The Agent may treat each RMB Lender as a 
+RMB Lender, entitled to payments under this Agreement and acting through 
+its RMB Facility Office unless it has received not less than five (5) 
+Business Days prior notice from that RMB Lender to the contrary in 
+accordance with the terms of this Agreement.
+
+51
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+PART 6
+
+ASSIGNMENTS AND TRANSFERS
+
+CLAUSE 9 Successors and Assigns; Assignments and Transfers
+
+9.1 	  	The provisions of this Agreement shall be binding upon and inure to 
+the benefit of the parties hereto and their respective successors and 
+assigns, except that the RMB Borrowers may not assign or otherwise transfer 
+any of their rights under this Agreement or the other RMB Loan Documents 
+without the prior written consent of all RMB Lenders and the Administrative 
+Agent and a RMB Lender may not assign or otherwise transfer any of its 
+interest under this Agreement except as set forth in Clause 9.2 and 9.3 
+below.
+
+9.2 	  	Prior to the occurrence of an Event of Default, any RMB Lender may 
+at any time, grant to an existing RMB Lender, one or more banks, finance 
+companies, insurance companies or other financial institutions which are 
+RMB Qualified Institutional Investors (a Participant) in minimum amounts 
+of not less than the RMB equivalent of JPY350,000,000 (or any lesser amount 
+in the case of participations to an existing RMB Lender) participating 
+interests in its RMB Commitment or any or all of its portion of the RMB 
+Advances proratably. After the occurrence and during the continuance of an 
+Event of Default, any RMB Lender may at any time grant to any Person in any 
+amount (also a Participant), participating interests in its RMB 
+Commitment or any or all of its portion of the RMB Advances proratably. Any 
+participation made during the continuation of an Event of Default shall not 
+be affected by the subsequent cure of such Event of Default. In the event 
+of any such grant by a RMB Lender of a participating interest to a 
+Participant, whether or not upon notice to the RMB Borrowers and the 
+Administrative Agent, such RMB Lender shall remain responsible for the 
+performance of its obligations hereunder, and the RMB Borrowers and the 
+Administrative Agent shall continue to deal solely and directly with such 
+RMB Lender in connection with such RMB Lenders rights and obligations 
+under this Agreement. Any agreement pursuant to which any RMB Lender may 
+grant such a participating interest shall provide that such RMB Lender 
+shall retain the sole right and responsibility to enforce the obligations 
+of the RMB Borrowers hereunder including, without limitation, the right to 
+approve any amendment, modification or waiver of any provision of this 
+Agreement; provided that such participation agreement may provide that such 
+RMB Lender will not agree to any modification, amendment or waiver of this 
+Agreement described in clause (i), (ii), (iii) or (iv) of Clause 11 without 
+the consent of the Participant. No participant in any rights and 
+obligations under this Agreement shall be permitted to sell 
+subparticipations of such rights and obligations.
+
+52
+
+------------------------------------------------------------------------
+
+
+ 
+
+9.3 	  	Any RMB Lender (in such capacity, an Assignor) may at any time 
+assign to a RMB Qualified Institution (in each case, a Purchasing Lender) 
+(i) prior to the occurrence of an Event of Default, in minimum amounts of 
+not less than the RMB equivalent of JPY350,000,000 and integral multiple of 
+the RMB equivalent of JPY1,000,000 thereafter (or any lesser amount in the 
+case of assignments to an existing RMB Lender) and (ii) after the 
+occurrence and during the continuance of an Event of Default, in any 
+amount, all or a proportionate part of all, of its rights and obligations 
+under this Agreement and the other RMB Loan Documents, and, in either case, 
+such Purchasing Lender shall assume such rights and obligations, pursuant 
+to a Transfer Agreement in substantially the form of the Fourth Schedule 
+hereto executed by such Purchasing Lender and such Assignor; provided, that 
+if no Event of Default shall have occurred and be continuing, such 
+assignment shall be subject to the Administrative Agents, the RMB Fronting 
+Banks and the RMB Borrowers consent, which consent shall not be 
+unreasonably withheld or delayed; and provided further that if an 
+Purchasing Lender is an affiliate of such Assignor or was a RMB Lender 
+immediately prior to such assignment, the RMB Borrowers consent shall not 
+be required. Upon execution and delivery of such instrument and payment by 
+such Purchasing Lender to such Assignor of an amount equal to the purchase 
+price agreed between such Assignor and such Purchasing Lender, such 
+Purchasing Lender shall be a RMB Lender party to this Agreement and shall 
+have all the rights and obligations of a RMB Lender with a RMB Commitment 
+as set forth in such instrument of assumption, and no further consent or 
+action by any party shall be required and such Assignor shall be released 
+from its obligations hereunder to a corresponding extent. In connection 
+with any such assignment (other than an assignment by a RMB Lender to an 
+affiliate), the Assignor shall pay to the RMB Settlement Agent an 
+administrative fee for processing such assignment in the amount of the RMB 
+equivalent of US$3,500. Any assignment made during the continuation of an 
+Event of Default shall not be affected by any subsequent cure of such Event 
+of Default. No Purchasing Lender of any rights and obligations under this 
+Agreement shall be permitted to further assign less than all of such rights 
+and obligations.
+
+9.4 	  	Anything in this Agreement to the contrary notwithstanding, so long 
+as no Event of Default shall have occurred and be continuing, no RMB Lender 
+shall be permitted to enter into an assignment of, or sell a participation 
+interest in, its rights and obligations hereunder which would result in 
+such RMB Lender holding a RMB Commitment without participants of less than 
+the RMB equivalent of JPY350,000,000 unless as a result of a cancellation 
+or reduction of the aggregate RMB Commitments (or in the case of the 
+Administrative Agent, less than the RMB Commitment of any other RMB 
+Lender); provided, however, that no RMB Lender shall be prohibited from 
+assigning its entire RMB Commitment so long as such assignment is otherwise 
+permitted under this Clause 9.
+
+53
+
+------------------------------------------------------------------------
+
+
+ 
+
+9.5 	  	The Administrative Agent shall notify the RMB Settlement Agent of 
+any assignments or transfers made hereunder prior to the time such action 
+is to take effect.
+
+54
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+PART 10
+
+MISCELLANEOUS
+
+CLAUSE 10 Notices
+
+10.1 	  	Communication in Writing Unless otherwise provided by this 
+Agreement, all notices shall be written in English (or accompanied by a 
+certified translation thereof into the English language) and shall be 
+provided to each party in written form. All notices, requests and other 
+communications to any party hereunder shall be in writing (including bank 
+wire, telex, facsimile transmission or electronic communication) and shall 
+be given to such party in accordance with Clause 10.2 and in the case of 
+any RMB Lender, at its address, telex number, facsimile number or email 
+address as provided to the Administrative Agent and the RMB Settlement 
+Agent for this purpose. The Administrative Agent and/or the RMB Settlement 
+Agent shall provide the RMB Borrower with the address, telex number, 
+facsimile number or email address for each RMB Lender. Each such notice, 
+request or other communication shall be effective (i) if given by telex or 
+facsimile transmission, when such telex or facsimile is transmitted to the 
+telex number or facsimile number specified in this Clause 10.1 and the 
+appropriate answerback or facsimile confirmation is received, (ii) if given 
+by certified registered mail, return receipt requested, with first class 
+postage prepaid, addressed as aforesaid, upon receipt or refusal to accept 
+delivery, (iii) if given by a nationally recognized overnight carrier, 48 
+hours after such communication is deposited with such carrier with postage 
+prepaid for next day delivery, (iv) if given or made by email or any other 
+electronic communication, when received in legible form or (v) if given by 
+any other means, when delivered at the address specified in this Clause 
+10.1; provided that notices to the Administrative Agent under Clause 2 or 
+Clause 3 shall not be effective until received.
+
+55
+
+------------------------------------------------------------------------
+
+
+ 
+
+Address All notices under this Agreement shall be delivered to the 
+following designated addresses. In case there is any change, fifteen (15) 
+Business Days prior written notice should be given to each party:
+  	  	  	  	  	  	 
+  	  	The Initial RMB Borrower: [ ] 	  	 
+ 
+  	Address: 	  	  	  	 
+ 
+  	Tel : 	  	  	  	 
+ 
+  	Fax : 	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	The Administrative Agent: 	  	 
+  	  	Sumitomo Mitsui Banking Corporation, New York Branch 	  	 
+ 
+  	Address : 	  	277 Park Avenue, 6th Floor 	  	 
+ 
+  	  	  	New York, New York 10172 	  	 
+ 
+  	Tel : 	  	212-224-4178 	  	 
+ 
+  	Fax : 	  	212-224-4887 	  	 
+ 
+  	E-mail Address: 	  	csullivan@smbc-lf.com 	  	 
+ 
+  	  	  	  	  	 
+  	  	with a copy to the RMB Settlement Agent 	  	 
+ 
+  	  	  	  	  	 
+  	  	The RMB Settlement Agent: 	  	 
+  	  	Sumitomo Mitsui Banking Corporation, Shanghai Branch 	  	 
+ 
+  	Address : 	  	30th Floor, HSBC Tower 	  	 
+ 
+  	  	  	1000 Lujiazui Ring Road 	  	 
+ 
+  	  	  	Pudong New Area 	  	 
+ 
+  	  	  	Shanghai 200120, PRC 	  	 
+ 
+  	Tel : 	  	(8621) 6841-5000 x472 	  	 
+ 
+  	Fax : 	  	(8621) 6841 5111 	  	 
+ 
+  	E-mail Address: 	  	chris-xu@cn.smbc.co.jp 	  	 
+ 
+  	Attention: 	  	Chris Xu, Assistant Vice President, Business Promotion 
+Dept. IV, 	  	 
+ 
+  	  	  	Multinational Corporate Banking, China Region 	  	 
+ 
+  	  	  	  	  	 
+  	  	with a copy to: 	  	 
+  	  	Sumitomo Mitsui Banking Corporation, Debt Capital Markets Department 	
+  	 
+ 
+  	Address: 	  	7-8/F, One International Finance Centre 	  	 
+ 
+  	  	  	1 Harbour View Street 	  	 
+ 
+  	  	  	Central Hong Kong 	  	 
+ 
+  	Tel 	  	  	  	 
+ 
+  	Fax: 	  	(852) 2206 2988 	  	 
+ 
+  	Email Address: 	  	stella.fong@smbc.com.hk/jennifer.yu@smbc.com.hk 	  	 
+ 
+  	Attention: 	  	Agent Services, Debt Capital Markets Department 	  	 
+ 
+  	  	  	  	  	 
+  	  	with a copy to the Administrative Agent (unless it is otherwise 
+receiving notice) 	  	 
+
+56
+
+------------------------------------------------------------------------
+
+
+ 
+
+10.3 	  	Filing with PBOC Upon execution of this Agreement, the 
+Administrative Agent shall file the Master Agreement and this Agreement. 
+with the local branch of the Peoples Bank of China and/or the local branch 
+of the China Banking Regulatory Commission, as required by law.
+
+CLAUSE 11 Amendments
+
+11.1 	  	Amendment Except as provided in Section 9.5(b) of the Master 
+Agreement, any provision of this Agreement or the RMB Letters of Credit or 
+other RMB Loan Documents may be amended or waived if, but only if, such 
+amendment or waiver is in writing and is signed by the RMB Borrowers and 
+the Majority RMB Lenders (and, if the rights or duties of the 
+Administrative Agent, the RMB Settlement Agent or the RMB Fronting Bank in 
+their capacity as Administrative Agent, the RMB Settlement Agent or the RMB 
+Fronting Bank, as applicable, are affected thereby, by the Administrative 
+Agent, the RMB Settlement Agent or the RMB Fronting Bank, as applicable); 
+provided that no amendment or waiver with respect to this Agreement, the 
+RMB Letters of Credit or any other RMB Loan Documents shall, unless signed 
+by all the RMB Lenders, (i) increase or decrease the RMB Commitment of any 
+RMB Lender (except for a ratable decrease in the RMB Commitments of all RMB 
+Lenders) or subject any RMB Lender to any additional obligation, (ii) 
+reduce the principal of or rate of interest on any RMB Advance or any fees 
+hereunder, (iii) postpone the date fixed for any payment of principal of or 
+interest on any RMB Advance or any fees hereunder or for any reduction or 
+termination of any RMB Commitment, (iv) change the percentage of the RMB 
+Commitments, or the number of RMB Lenders, which shall be required for the 
+RMB Lenders or any of them to take any action under this Clause or any 
+other provision of this Agreement or (v) modify the provisions of this 
+Clause 11. Notwithstanding the foregoing, an amendment or waiver which 
+relates to the rights or obligations of any Agent may not be effected 
+without the consent of such Agent.
+
+CLAUSE 12 Counterparts; Integration; Effectiveness
+
+12.1 	  	Counterparts; Integration; Effectiveness and Termination This 
+Agreement may be signed in any number of counterparts, each of which shall 
+be an original, with the same effect as if the signatures thereto and 
+hereto were upon the same instrument. This Agreement constitutes the entire 
+agreement and understanding among the parties hereto and supersedes any and 
+all prior agreements and understandings, oral or written, relating to the 
+subject matter hereof. This Agreement shall become effective upon receipt 
+by the Administrative Agent, the
+
+57
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	RMB Lenders and the Initial RMB Borrowers of counterparts hereof 
+signed by each of the parties hereto (or, in the case of any party as to 
+which an executed counterpart shall not have been received, receipt by the 
+Administrative Agent in form satisfactory to it of telegraphic, telex or 
+other written confirmation from such party of execution of a counterpart 
+hereof by such party). This Agreement shall terminate when all principal, 
+interest, penalty interests and any other payable expenses for the RMB 
+Facility hereunder have been repaid in full and no RMB Commitments remain 
+outstanding.
+
+CLAUSE 13 Language and Copies
+
+13.1 	  	Language and Copies There shall be five (5) copies for each 
+original and each party shall keep one original of each version; certain 
+copies for the counterpart shall be sent to relevant parties. RMB Borrower 
+shall pay stamp duty for the RMB Borrowers copy of this Agreement. The RMB 
+Lenders shall pay stamp duty for any RMB Lenders copy(ies).
+
+CLAUSE 14 Law and Jurisdiction
+
+14.1 	  	PRC Law The execution and implementation of this Agreement and any 
+disputes relating to this Agreement shall be governed by and construed in 
+accordance with the laws of the PRC.
+ 
+14.2 	  	Dispute Resolution Any dispute arising from, out of, or in 
+connection with this Agreement shall be settled by the parties through 
+friendly consultation.
+ 
+  	  	Any dispute arising from, out of, or in connection with this 
+Agreement, which cannot be settled by the parties themselves, shall be 
+referred to China International Economic and Trade Arbitration Commission 
+Shanghai Sub-commission (the CIETAC) for arbitration which shall be 
+conducted in accordance with the CIETACs arbitration rules in effect at 
+the time of applying for arbitration.
+ 
+  	  	The arbitral tribunal shall consist of three arbitrators to be 
+appointed as follows: The Lenders shall jointly appoint one arbitrator and 
+the RMB Borrower shall jointly appoint one arbitrator. The two arbitrators 
+thereby appointed shall jointly nominate a third arbitrator, who shall be 
+the presiding arbitrator. The presiding arbitrator shall be of a 
+nationality different than those of the Parties. The arbitration shall be 
+conducted in Shanghai, Peoples Republic of China. The language of the 
+arbitration shall be English. The arbitral award rendered by the arbitral 
+tribunal shall be final and binding upon both parties.
+
+58
+
+------------------------------------------------------------------------
+
+
+ 
+
+CLAUSE 15 Taxes
+
+15.1 	  	Taxes Any taxes and duties incurred on execution and performance 
+of this Agreement shall be paid and borne respectively by the RMB Borrower 
+and the RMB Lenders in accordance with the PRC law.
+
+
+Part 11
+
+APPOINTMENT OF RMB SETTLEMENT AGENT
+
+Clause 16 RMB Settlement Agent
+
+16.1 	  	Each of the RMB Finance Parties (other than the RMB Settlement 
+Agent) hereby appoints Sumitomo Mitsui Banking Corporation, Shanghai Branch 
+as its settlement agent in relation to the RMB Loan Documents, and Sumitomo 
+Mitsui Banking Corporation, Shanghai Branch hereby accepts such appointment 
+upon the terms and conditions mutually agreed between the parties.
+
+16.2 	  	Article VII of the Master Agreement (except Sections 7.6 and 7.10) 
+shall be incorporated herein mutatis mutandis.
+
+59
+
+------------------------------------------------------------------------
+
+
+ 
+
+AS WITNESS, the hands of the duly authorized representatives of the parties 
+hereto sign this Agreement on the day and year first before written.
+
+The Initial RMB Borrower:
+
+WEALTH ZIPPER (SHANGHAI) PROPERTY DEVELOPMENT CO., LTD.
+ 
+  	  	  	  	 
+Representative:
+  	/s/ Oliver Treneman 	  	 
+ 
+  	  	  	 
+      
+  	Name: Oliver Treneman 	  	 
+ 
+  	Title: Vice President 	  	 
+
+
+[Signature Page to Credit Agreement]
+
+------------------------------------------------------------------------
+
+
+ 
+
+The Administrative Agent and Sole Lead Arranger and Bookmanager:
+
+SUMITOMO MITSUI BANKING CORPORATION, NEW YORK BRANCH
+  	  	  	  	 
+Representative:
+  	/s/ William M. Ginn 	  	 
+ 
+  	  	  	 
+ 
+  	Name: William M. Ginn Title: General Manager 	  	 
+
+[Signature Page to Credit Agreement]
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+The RMB Settlement Agent and a RMB Lender:
+
+SUMITOMO MITSUI BANKING CORPORATION, SHANGHAI BRANCH
+  	  	  	  	  	  	 
+Representative:
+  	/s/ Kan Nagahisa 	  	  	  	[(SEAL)]
+ 
+  	  	  	  	 
+ 
+  	Name: Kan Nagahisa 	  	  	 
+  	  	Title: Senior Vice President and
+          Head of Multinational Corporate Banking, China Region 	 
+  	  	  	 
+  	  	  	 
+  	  	  	 
+  	  	  	 
+
+[Signature Page to Credit Agreement]
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+A RMB LENDER:
+
+THE BANK OF NOVA SCOTIA
+  	  	  	  	 
+Representative
+  	: /s/ Judith Ki 	  	 
+ 
+  	  	  	 
+ 
+  	Name: Judith Ki
+Title: Branch Manager  Guangzhou 	  	 
+
+[Signature Page to Credit Agreement]
+
+1
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+THE FIRST SCHEDULE
+
+
+The RMB Lenders and their RMB Commitments
+  	  	  	  	  	  	  	  	 
+RMB Lender 	  	RMB Commitment 	  	Percentage
+  Sumitomo Mitsui Banking
+  	375,000,000 Chinese Renminbi 	  	  	75 	%
+  Corporation, Shanghai Branch
+  	  	  	  	  	 
+   
+  	  	  	  	  	  	  	 
+  The Bank of Nova Scotia
+  	125,000,000 Chinese Renminbi 	  	  	25 	%
+   
+  	  	  	  	  	  	  	 
+   
+  	500,000,000 Chinese Renminbi 	  	  	100 	%
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+THE SECOND SCHEDULE
+
+
+Conditions Precedent Documents
+
+1. 	  	Security Documents (if a RMB Borrower exercises RMB Secured Option 
+under Clause 9)
+
+  	(1) 	  	the relevant land use or title certificates in respect of the 
+RMB Secured Property and such other documents relating to the lawful 
+ownership of the RMB Secured Property including, without limitation, if the 
+RMB Secured Option is a RMB Mortgage, all title documents, approvals and 
+consents relating to assets mortgaged by such RMB Borrower.
+ 
+  	(2) 	  	the Security Documents (including, without limitation, the 
+Mortgages and/or Share Pledges) duly executed by the parties thereto and 
+all documents required thereunder.
+ 
+  	(3) 	  	the relevant board and/or shareholders resolutions authorising 
+the Security Documents.
+ 
+  	(4) 	  	if the RMB Secured Option is a RMB Mortgage, all the relevant 
+mortgage registration certificates in respect of the RMB Secured Property 
+issued in favour of the Administrative Agents (on behalf of the RMB 
+Lenders).
+ 
+  	(5) 	  	if the RMB Secured Option is a RMB Mortgage, the property 
+insurance naming Administrative Agent (on behalf of the RMB Lenders) as 
+additional insured.
+ 
+  	(6) 	  	evidence of due payment of all stamp duty, taxes and other fees 
+and charges payable in respect of the Security Documents.
+
+2. 	  	Corporate Documents
+
+Each RMB Borrower shall submit the true copies of the following documents 
+(the documents referred to herein and which are required to be certified 
+true copies, shall be certified a true copy of the original by a duly 
+authorized officer of the RMB Borrower):
+
+  	(1) 	  	the current Joint Venture Contract and/or Articles of 
+Association and any other related documents consisting of the Joint Venture 
+Contract and/or Articles of Association;
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	(2) 	  	the approval documents issued by Ministry of Commerce or its 
+authorized branches in respect to the Articles of Association of the RMB 
+Borrower;
+ 
+  	(3) 	  	the valid Certificate of Approval for Enterprises with Foreign 
+Investment of the RMB Borrower issued by Ministry of Commerce or its 
+authorized branches;
+ 
+  	(4) 	  	the valid Business License of the RMB Borrower issued by the 
+State Administration for Industry and Commerce or its authorized branches;
+ 
+  	(5) 	  	the Organisation and Institution Code Certificate of the RMB 
+Borrower;
+ 
+  	(6) 	  	the State and local Tax Registration Certificate of the RMB 
+Borrower;
+ 
+  	(7) 	  	the Finance Registration Certificate of the RMB Borrower;
+ 
+  	(8) 	  	the Customs Registration Certificate of the RMB Borrower;
+ 
+  	(9) 	  	a list of the directors of the RMB Borrower and the photocopies 
+of the specimen signatures of authorized representative by the board of 
+directors;
+ 
+  	(10) 	  	the verification report issued by a public accountant firm 
+verifying the shareholder of the RMB Borrower has paid in the registered 
+capital of the RMB Borrower;
+ 
+  	(11) 	  	the resolution of the board of directors of the RMB Borrower to 
+approve the drawdown of the RMB Advances according to this Agreement and to 
+authorize one or more Persons to sign this Agreement, the Notice of RMB 
+Borrowing and the request to the RMB Fronting Bank for issuance of any RMB 
+Letter of Credit and other documents relating to this Agreement, and the 
+photocopies of the specimen signatures of such authorized representative.
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+THE THIRD SCHEDULE
+
+
+Form of Notice of RMB Borrowing (format)
+  	  	 
+To:
+  	Sumitomo Mitsui Banking Corporation, Shanghai Branch
+as RMB Settlement Agent
+ 
+Dated:
+  	[       ]
+
+Dear Sirs,
+
+1. 	  	We refer to the RMB revolving credit agreement (as from time to time 
+amended, varied, novated or supplemented, the RMB Loan Agreement) dated 
+October ___, 2007 and made between, inter alia, the undersigned as RMB 
+Borrower, Sumitomo Mitsui Banking Corporation, New York Branch, as 
+Administrative Agent and Sole Lead Arranger and Bookmanager, you as RMB 
+Settlement Agent and the financial institutions named therein as RMB 
+Lenders. Terms defined in the RMB Loan Agreement shall have the same 
+meaning in this notice.
+ 
+2. 	  	We hereby give you notice that, pursuant to the RMB Loan Agreement 
+and on [insert date of proposed RMB Advance], we wish to borrow an RMB 
+Advance in an amount of RMB [insert amount] upon the terms and subject to 
+the conditions contained therein. The intended Interest Period of this 
+drawdown is                                         .
+ 
+3. 	  	The RMB Advance shall be used exclusively for the purposes specified 
+in Clause 2.11 of the RMB Loan Agreement.
+ 
+4. 	  	We hereby confirm that the representations and warranties set out in 
+the RMB Loan Agreement pursuant to Clause 4 thereof (in each case, other 
+than representations and warranties which expressly speak as of a different 
+date) are true in all material respects and shall remain true on and as of 
+the date of the RMB Advance requested in this Drawdown Notice.
+ 
+5. 	  	No Guarantor Default or Guarantor Event of Default, and no RMB 
+Borrower Default or RMB Borrower Event of Default with respect to the 
+undersigned, has occurred and is continuing or will result after giving 
+effect to the RMB Advance requested in this Notice of RMB Borrowing.
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+6. 	  	The amounts available for drawing under the following RMB Facility 
+are:
+
+  	  	RMB Advance                      RMB                    
+[insert amount]
+
+7. 	  	Please arrange for proceeds of this drawdown to be credited, to our 
+account, number [                ] with [                                 
+], for the account of [                                  ]
+
+8. 	  	Please note that the project information for this drawdown is as 
+follows:-
+
+(i) Borrower:
+(ii) Date of RMB Advance:
+(iii) Project:
+
+A. Project Name:
+B. Project Location:
+C. Land Size, if known (estimate):
+D. Building Size, if known (estimate):
+E. Estimated Substantial Completed Date:
+F. Estimated Preliminary Project Budget:
+
+Yours faithfully
+
+[signature block of applicable RMB Borrower]
+
+cc: 	  	Sumitomo Mitsui Banking Corporation, New York Branch Sumitomo 
+Mitsui Banking Corporation (Debt Capital Markets Department in Hong Kong)
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+THE FOURTH SCHEDULE
+
+Form of Transfer Agreement
+
+TRANSFER AGREEMENT
+
+Relating to the RMB Revolving Credit Agreement (as from time to time 
+amended, varied, novated or supplemented, the RMB Loan Agreement), dated 
+October ___, 2007, by and among Wealth Zipper (Shanghai) Property 
+Development Co., Ltd., as Initial RMB Borrower, Sumitomo Mitsui Banking 
+Corporation, New York Branch, as Administrative Agent and Sole Lead 
+Arranger and Bookmanager, Sumitomo Mitsui Banking Corporation, Shanghai 
+Branch, as RMB Settlement Agent and the financial institutions named 
+therein as RMB Lenders.
+
+This TRANSFER AGREEMENT (this Transfer Agreement) dated as of             
+        , 200___between                      (the Assignor) and           
+           having an address at                      (the Purchasing 
+Lender).
+
+Terms defined in the RMB Loan Agreement shall, subject to any contrary 
+indication, have the same meanings herein.
+
+1. 	  	In consideration of the amount set forth in the receipt (the 
+Receipt) given by Assignor to Purchasing Lender of even date herewith, and 
+transferred by wire to Assignor, Assignor hereby assigns and sells, without 
+recourse, representation or warranty except as specifically set forth 
+herein, to the Purchasing Lender, and the Purchasing Lender hereby 
+purchases and assumes from Assignor, a ___% interest (the Purchased 
+Interest) of the RMB Advances constituting a portion of the Assignors 
+rights and obligations under the RMB Loan Agreement as of the Effective 
+Date (as defined below) including, without limitation, such percentage 
+interest of the Assignor in any RMB Advances owing to the Assignor, any RMB 
+Commitment of Assignor and any other interest of the Assignor under any of 
+the RMB Loan Documents.
+
+2. 	  	The Assignor (i) represents and warrants that as of the date hereof 
+the aggregate outstanding principal amount of its share of the RMB Advances 
+owing to it (without giving effect to assignments thereof which have not 
+yet become effective) is $                     ; (ii) represents and 
+warrants that it is the legal and beneficial owner of the interests being 
+assigned by it hereunder and that such interests are free and clear of any 
+adverse claim; (iii) represents and warrants that it has not received any 
+notice of any Default or Event of Default from any RMB Borrower; (iv) 
+represents and warrants that is has full power and authority to execute and 
+deliver,
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	and perform under, this Transfer Agreement, and all necessary 
+corporate, partnership and/or other action has been taken to authorize, and 
+all approvals and consents have been obtained for, the execution, delivery 
+and performance thereof; (v) represents and warrants that this Transfer 
+Agreement constitutes its legal, valid and binding obligation enforceable 
+in accordance with its terms; (vi) makes no representation or warranty and 
+assumes no responsibility with respect to any statements, warranties or 
+representations (or the truthfulness or accuracy thereof) made in or in 
+connection with the RMB Loan Agreement, or the other RMB Loan Documents or 
+the execution, legality, validity, enforceability, genuineness, sufficiency 
+or value of the RMB Loan Agreement, or the other RMB Loan Documents or any 
+other instrument or document furnished pursuant thereto; and (vii) makes no 
+representation or warranty and assumes no responsibility with respect to 
+the financial condition of any RMB Borrower or the performance or 
+observance by any RMB Borrower of any of its obligations under the RMB Loan 
+Agreement or the other RMB Loan Documents or any other instrument or 
+document furnished pursuant thereto. Except as specifically set forth in 
+this Paragraph 2, this assignment shall be without recourse to Assignor.
+
+3. 	  	The Purchasing Lender (i) confirms that it has received a copy of 
+the RMB Loan Agreement, and the other RMB Loan Documents, together with 
+such financial statements and such other documents and information as it 
+has deemed appropriate to make its own credit analysis and decision to 
+enter into this Transfer Agreement and to become a party to the RMB Loan 
+Agreement, and has not relied on any statements made by Assignor; (ii) 
+agrees that it will, independently and without reliance upon any of the 
+Administrative Agent, the Assignor or any other RMB Lender and based on 
+such documents and information as it shall deem appropriate at the time, 
+continue to make its own appraisal of and investigation into the business, 
+operations, property, prospects, financial and other conditions and 
+creditworthiness of the RMB Borrowers and will make its own credit 
+analysis, appraisals and decisions in taking or not taking action under the 
+RMB Loan Agreement, and the other RMB Loan Documents; (iii) appoints and 
+authorizes the Administrative Agent to take such action as agent on its 
+behalf and to exercise such powers under the RMB Loan Agreement, and the 
+other RMB Loan Documents as are delegated to the Administrative Agent by 
+the terms thereof, together with such powers as are incidental thereto; 
+(iv) agrees that it will be bound by and perform in accordance with their 
+terms all of the obligations which by the terms of the RMB Loan Agreement 
+are required to be performed by it as a RMB Lender; (v) specifies as its 
+addresses for notices and its RMB Facility Office, the addresses and 
+offices set forth beneath its name on the signature page hereof; (vi) 
+represents and warrants that it has full power and authority to execute and 
+deliver, and perform under, this Transfer Agreement, and all necessary 
+corporate, partnership and/or other action has been taken to authorize, and 
+all approvals and consents have been obtained for, the execution, delivery 
+and performance thereof; (vii) represents and warrants that this Transfer 
+Agreement constitutes its legal, valid and binding obligation enforceable 
+in accordance with
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	its terms; (viii) represents and warrants that the interest being 
+assigned hereunder is being acquired by it for its own account, for 
+investment purposes only and not with a view to the public distribution 
+thereof and without any present intention of its resale in either case that 
+would be in violation of applicable securities laws; and represents and 
+warrants that it satisfies the requirements of a RMB Qualified Institution.
+
+4. 	  	This Transfer Agreement shall be effective on the date (the 
+Effective Date) on which all of the following have occurred (i) it shall 
+have been executed and delivered by the parties hereto, (ii) copies hereof 
+shall have been delivered to the Administrative Agent, AMB Property, L.P. 
+and the RMB Borrowers, and (iii) the Purchasing Lender shall have paid to 
+the Assignor the agreed purchase price as set forth in the Receipt.
+
+5. 	  	On and after the Effective Date, (i) the Purchasing Lender shall be 
+a party to the RMB Loan Agreement and, to the extent provided in this 
+Transfer Agreement, have the rights and obligations of a RMB Lender 
+thereunder and be entitled to the benefits and rights of the RMB Lenders 
+thereunder and (ii) the Assignor shall, to the extent provided in this 
+Transfer Agreement as to the Purchased Interest, relinquish its rights and 
+be released from its obligations under the RMB Loan Agreement.
+
+6. 	  	From and after the Effective Date, the Assignor shall cause the RMB 
+Settlement Agent to make all payments under the RMB Loan Agreement in 
+respect of the Purchased Interest assigned hereby (including, without 
+limitation, all payments of principal, fees and interest with respect 
+thereto and any amounts accrued but not paid prior to such date) to the 
+Purchasing Lender.
+
+7. 	  	This Transfer Agreement may be executed in any number of 
+counterparts which, when taken together, shall be deemed to constitute one 
+and the same instrument.
+
+8. 	  	The Assignor hereby represents and warrants to Purchasing Lender 
+that it has made all payments demanded to date by the Administrative Agent 
+or RMB Settlement Agent in connection with the Assignors RMB Commitment 
+Proportion of the obligation to reimburse the Administrative Agent or RMB 
+Settlement Agent for its expenses and made all RMB Advances required. In 
+the event the Administrative Agent or RMB Settlement Agent shall demand 
+reimbursement for fees and expenses from Purchasing Lender for any period 
+prior to the Effective Date, Assignor hereby agrees to promptly pay the 
+Administrative Agent or RMB Settlement Agent such sums directly, subject, 
+however, to Paragraph 12 hereof.
+
+9. 	  	The Assignor will, at its sole cost and expense, and without expense 
+to Purchasing Lender, do, execute, acknowledge and deliver all and every 
+such further acts, deeds, conveyances, assignments, notices of assignments, 
+transfers and assurances as Purchasing Lender shall, from time to time, 
+reasonably require, for the better
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	assuring, conveying, assigning, transferring and confirming unto 
+Purchasing Lender the property and rights hereby given, granted, bargained, 
+sold, aliened, enfeoffed, conveyed, confirmed, assigned and/or intended now 
+or hereafter so to be, on which Assignor may be or may hereafter become 
+bound to convey or assign to Purchasing Lender, or for carrying out the 
+intention or facilitating the performance of the terms of this Transfer 
+Agreement or for filing, registering or recording this Transfer Agreement.
+
+10. 	  	The parties agree that no broker or finder was instrumental in 
+bringing about this transaction. Each party shall indemnify, defend the 
+other and hold the other free and harmless from and against any damages, 
+costs or expenses (including, but not limited to, reasonable attorneys 
+fees and disbursements) suffered by such party arising from claims by any 
+broker or finder that such broker or finder has dealt with said party in 
+connection with this transaction.
+
+11. 	  	Subject to the provisions of Paragraph 12 hereof, if, with respect 
+to the Purchased Interest only, Assignor shall on or after the Effective 
+Date receive (a) any cash, note, securities, property, obligations or other 
+consideration in respect of or relating to the RMB Advances or the RMB Loan 
+Documents or issued in substitution or replacement of the RMB Advances or 
+the RMB Loan Documents, (b) any cash or non-cash consideration in any form 
+whatsoever distributed, paid or issued in any bankruptcy proceeding in 
+connection with the RMB Advances or the RMB Loan Documents or (c) any other 
+distribution (whether by means of repayment, redemption, realization of 
+security or otherwise), Assignor shall accept the same as Purchasing 
+Lenders agent and hold the same in trust on behalf of and for the benefit 
+of Purchasing Lender, and shall deliver the same forthwith to Purchasing 
+Lender in the same form received, with the endorsement (without recourse) 
+of Assignor when necessary or appropriate. If the Assignor shall fail to 
+deliver any funds received by it within the same Business Day of receipt 
+unless such funds are received after 1:00 p.m. Shanghai time, then the 
+following Business Day after receipt, said funds shall accrue interest at 
+the rate of                      and in addition to promptly remitting said 
+amount, Assignor shall remit such interest from the date received to the 
+date such amount is remitted to the Purchasing Lender.
+
+12. 	  	Assignor and Purchasing Lender each hereby agree to indemnify and 
+hold harmless the other, each of its directors and each of its officers in 
+connection with any claim or cause of action based on any matter or claim 
+based on the acts of either while acting as a RMB Lender under the RMB Loan 
+Agreement. Promptly after receipt by the indemnified party under this 
+Clause of notice of the commencement of any action, such indemnified party 
+shall notify the indemnifying party in writing of the commencement thereof. 
+If any such action is brought against any indemnified party and that party 
+notifies the indemnifying party of the commencement thereof, the 
+indemnifying party shall be entitled to participate therein, and to the 
+extent that it may elect by written notice delivered
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+  	  	to the indemnified party promptly after receiving the aforesaid 
+notice from such indemnified party, to assume the defense thereof, with 
+counsel satisfactory to such indemnified party, and after receipt of notice 
+from the indemnifying party to such indemnified party of its election so to 
+assume the defense thereof, the indemnifying party will not be liable to 
+such indemnified party under this Clause for any legal or other expenses 
+subsequently incurred by such indemnified party in connection with the 
+defense thereof. In no event shall the indemnified party settle or consent 
+to a settlement of such cause of action or claim without the consent of the 
+indemnifying party.
+
+13. 	  	THIS TRANSFER AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE 
+PARTIES HEREUNDER SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF [THE 
+STATE OF NEW YORK PURSUANT TO SECTION 5-1401 OF THE NEW YORK GENERAL 
+OBLIGATIONS LAW, WITHOUT REGARD TO CHOICE OF LAW RULES].
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+Transfer Agreement Schedule
+
+1. 	  	Assignor:
+ 
+2. 	  	Purchasing Lender:
+ 
+3. 	  	Effective Date:
+ 
+4. 	  	Amount of RMB Advances and/or RMB Commitment Transferred:
+ 
+5. 	  	Amount of Commitment Transferred:
+
+Administrative Details of Purchasing Lender
+
+Address:
+
+Contact Name:
+
+RMB Payment Instructions:
+
+Telex:
+
+Fax:
+
+Telephone:
+
+E-mail Address:
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+THE FIFTH SCHEDULE
+
+Payment Instructions
+
+RMB Lenders name [PLEASE INCLUDE NAME OF BRANCH/OFFICE]:
+Pay to:
+
+RMB Lenders name:
+Pay to:
+
+ 
