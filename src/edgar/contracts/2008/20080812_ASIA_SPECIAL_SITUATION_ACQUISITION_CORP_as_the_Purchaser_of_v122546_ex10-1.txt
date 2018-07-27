@@ -1,0 +1,2191 @@
+ EX-10.1 2 v122546_ex10-1.htm
+ 
+Amended and Restated
+ 
+STOCK PURCHASE AGREEMENT
+ 
+ASIA SPECIAL SITUATION ACQUISITION CORP.
+ 
+as the Purchaser of
+Capital Stock
+of
+ 
+CHINA TEL GROUP, INC.
+
+Dated: as of July 31, 2008
+
+------------------------------------------------------------------------
+ 
+AMENDED AND RESTATED STOCK PURCHASE AGREEMENT
+ 
+THIS AMENDED AND RESTATED STOCK PURCHASE AGREEMENT (the “Agreement”), is 
+entered into this 6th day of August, 2008, to be effective as of July 31, 
+2008 (the “Effective Date”), by and among Asia Special Situation 
+Acquisition Corp., a Cayman Islands corporation (the “Purchaser”); China 
+Tel Group, Inc., a Nevada corporation, formerly known as Mortlock Ventures, 
+Inc. (the “Company”); Trussnet USA, Inc., a Nevada corporation (“Trussnet
+”); and George Alvarez and the other Persons listed on the signature page 
+as “Company Principal Stockholders.” The Purchaser, the Company, Trussnet 
+and the Company Principal Stockholders are sometimes referred to 
+collectively herein as the “Parties”, and each individually as a “Party”.
+ 
+RECITALS
+ 
+This Agreement is being entered into by the Purchaser based, in part, upon 
+the truth and accuracy of the following factual Recitals, each of which 
+shall be deemed to be additional representations and warranties by the 
+Company and Trussnet:
+ 
+A. The Company, through Trussnet, a wholly owned subsidiary of the Company, 
+is in the business of designing, developing, operating and maintaining 
+wireless communications facilities throughout the world.
+ 
+B. CECT-Chinacomm Communications Co., Ltd., a company incorporated under 
+the laws of the People’s Republic of China (“Chinacomm”), is and on the 
+Closing Date (as hereinafter defined) shall be the holder of a basic 
+spectrum license (the “WiMAX License”) issued by the Ministry of 
+Information Industry of China (“MII”) authorizing the ChinaComm to provide 
+and deploy fixed 3.5 GHz of wireless world-wide interoperability for 
+microwave access (“WiMAX”) wireless broadband operations in 29 cities in 
+the People’s Republic of China (the “Wireless Installations”).
+ 
+C. Trussnet is an entity formed on April 4, 2008 to engage in the design, 
+engineering, manufacture and installation of space-frames, trusses 
+structures and the management of telecommunications facilities in Asia (“
+Trussnet Delaware”).
+ 
+D. Trussnet owns a 100% equity interest in Trussnet Gulfstream (Dahlian) 
+Co., Ltd. (“Trussnet Gulfstream”), a foreign investment enterprise 
+established under the laws of the Peoples Republic of China (the “PRC”). 
+Trussnet Gulfstream has entered into that certain Exclusive Technical 
+Services Agreement dated May 23, 2008 (the “Technical Agreement”) with 
+Yunji Communications Technology (China) Co. Ltd. a wholly foreign-owned 
+investment enterprise (“Yunji”). Pursuant to the terms of the Technical 
+Agreement, Trussnet Gulfstream will provide technical and professional 
+assistance to Yunji to assist Yunji in performing the services described in 
+the Management Agreement referred to in Paragraph E below. Attached as 
+Exhibit A is a fully executed copy of the Technical Agreement.
+ 
+2
+------------------------------------------------------------------------
+ 
+E. Pursuant to the terms of that certain Exclusive Technical and Management 
+Consulting Services Agreement dated May 23, 2008 (the “Management Agreement
+”), Yunji will provide technical and management services on an exclusive 
+basis to Chinacomm for the procurement, installation, operation and 
+maintenance of the Wireless Installation. Yunji has a contractual interest 
+in the revenues of Chinacomm. Attached as Exhibit B is a fully executed 
+copy of the Management Agreement.
+ 
+F. Pursuant to that certain lease agreement, dated May 23, 2008 between 
+Trussnet Gulfstream, as lessor, and Yunji, as lessee (the “Equipment Lease 
+Agreement”), Trussnet Gulfstream will lease to Yunji certain equipment 
+required for the Wireless Installations (the “Equipment”). Pursuant to that 
+certain sublease agreement dated May 23, 2008, between Yunji, as sublessor, 
+and Chinacomm, as sublessee (the Equipment Sublease Agreement”), Yunji will 
+sublease the Equipment to Chinacomm certain equipment required for the 
+Wireless Installations. Attached as Exhibit C-1 is a fully executed copy of 
+the Equipment Lease Agreement and attached hereto as Exhibit C-2 is a fully 
+executed copy of the Equipment Sublease Agreement.
+ 
+G. Pursuant to the terms of the Management Agreement and the Equipment 
+Sublease Agreement referred to above, Yunji will be entitled to receive 
+100% of the revenues realized by Chinacomm from the operation of the 
+Wireless Installations.
+ 
+H. Pursuant to the terms of that certain Subscription and Shareholders’ 
+Agreement, dated May 23, 2008 (the “Subscription Agreement”), among: (i) 
+Gulfstream Capital Partners Ltd., a Seychelles corporation, and a 100% 
+owned subsidiary of Trussnet (“Gulfstream Capital”), (ii) Chinacomm Limited
+, a Cayman Islands corporation (“Chinacomm Cayman”), (iii) Chinacomm, (iv) 
+Qui Ping (“Qui”) and Yuan Yi (“Yuan”), (v) Newtop Holdings Limited (“
+Newtop”), (vi) Thrive Century International Limited, a British Virgin 
+Islands corporation (“Thrive”), and (vii) CECT Chinacomm Shanghai Co. Ltd
+., a PRC corporation (“Chinacomm Shanghai”), Trussnet, through its wholly 
+owned subsidiary Gulfstream Capital, is to provide $196,000,000 in 
+financial assistance as a capital investment and to finance the leasing of 
+certain equipment for the benefit of Chinacomm, in exchange for 
+2,450,000,000 ordinary shares of Chinacomm Cayman, constituting the legal 
+and beneficial ownership of 49% of the equity of Chinacomm Cayman on a 
+Fully-Diluted Basis. Attached as Exhibit D is a fully executed copy of the 
+Subscription Agreement.
+ 
+I. The Technical Agreement, the Management Agreement, the Equipment Lease 
+Agreement, the Equipment Sublease Agreement and the Subscription Agreement 
+are hereinafter collectively referred to as the “Chinacomm Agreements”.
+ 
+J. To facilitate, among other things, the performance of Trussnet under the 
+Chinacomm Agreements, the Purchaser desires, in accordance with the terms 
+of this Agreement, to acquire for a maximum of $270,000,000: (a) certain 
+shares of the Class A common stock of the Company (the “Class A Common 
+Shares”), (b) certain shares of the Class B common stock of the Company, a 
+description of which is set forth as Exhibit E hereto (the “Class B Common 
+Shares”), and (c) certain shares of the Series A preferred stock of the 
+Company, a description of which is set forth in Exhibit F hereto (the “
+Series A Preferred Shares”). The acquisition of the Class A Common Shares, 
+the Class B Common Shares and the Series A Preferred Shares is sometimes 
+collectively referred to herein as the “Stock Purchase,” and the Class A 
+Common Shares and the Series A Preferred Shares that may be purchased by 
+the Purchaser on the Closing Date are hereinafter sometimes collectively 
+referred to as the “Purchased Securities.”.
+ 
+3
+------------------------------------------------------------------------
+ 
+K. On July 8, 2008, the Purchaser, the Company and Trussnet entered into a 
+stock purchase agreement (the “Prior Agreement”).
+ 
+L. The Purchaser, the Company, Trussnet and the Company Principal 
+Stockholders desire to amend and restate in its entirety the Prior 
+Agreement and enter into this Agreement in order, inter alia, to provide 
+from the “Merger” (as hereinafter defined) between the Company and the 
+Purchaser, all upon the terms and conditions hereinafter set forth. Upon 
+execution of this Agreement, the Parties agree that the Prior Agreement 
+shall no longer be of any force or effect.
+ 
+M. The Board of Directors of the Company, Trussnet and the Purchaser and 
+the Company Principal Stockholders have each deemed it advisable, and in 
+the best interests of the Company and the Purchaser respectively, to 
+consummate the Stock Purchase and the Merger, in accordance with the terms 
+of this Agreement, in order to advance the long-term strategic business 
+interests of the Company and the Purchaser.
+ 
+NOW, THEREFORE, in consideration of the promises and the mutual covenants 
+contained herein, and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the Parties, 
+intending to be legally bound, hereby agree as follows:
+ 
+ARTICLE I
+ 
+SELECTED DEFINED TERMS AND INTERPRETATION
+ 
+1.1. Definitions. In addition to the terms defined in the Recitals and 
+other terms defined herein, the following capitalized terms shall have the 
+respective meanings specified in this Article I. Other terms defined 
+elsewhere herein shall have meanings so given them.
+ 
+1.1.1. Additional Investment The term “Additional Investment” shall mean 
+the cash purchase by one or more Additional Investors on the Closing Date 
+of securities of either the Company or the Purchaser, in the aggregate 
+amount of not less than One Hundred and Five Million Dollars ($105,000,000) 
+and all upon such terms and conditions as shall be satisfactory to both the 
+Company and the Purchaser, in the exercise of their sole discretion.
+ 
+1.1.2. Additional Investors The term Additional Investor” shall mean one or 
+more strategic or institutional Persons who shall, on or before the Closing 
+Date, make the Additional Investment.
+ 
+1.1.3. Affiliate. The term “Affiliate” shall mean a Person that directly or 
+indirectly, through one or more intermediaries, controls, is controlled by, 
+or is under common control with, the first Person.
+ 
+4
+------------------------------------------------------------------------
+ 
+1.1.4. Business Day. The term “Business Day(s)” shall mean the individual 
+or collective reference to any one or more calendar days, excluding 
+Saturday or Sunday or another day in which any of the national banks 
+located in the United States or the PRC are closed for business.
+ 
+1.1.5. Class A Common Shares. The term “Class A Common Shares” shall mean 
+the 500,000,000 shares of Class A common stock authorized for issuance by 
+the Company pursuant to its certificate of incorporation.
+ 
+1.1.6. Class A Common Shares and Equivalents. The term “Class A Common 
+Shares and Equivalents” shall mean the sum of (a) the aggregate number of 
+Class A Common Shares and (b) the aggregate number of Class A Common Shares 
+issuable upon conversion of the Series A Preferred Shares, if any, that may 
+be purchased by the Purchaser under this Agreement.
+ 
+1.1.7. Class B Common Shares. The term “Class B Common Shares” shall mean 
+the 200,000,000 shares of Class B common stock authorized for issuance by 
+the Company pursuant to its certificate of incorporation.
+ 
+1.1.8. Common Stock. The term “Common Stock” shall refer to either or both 
+of the Class A Common Shares and Class B Common Shares that have been 
+authorized for issuance by the Company pursuant to its certificate of 
+incorporation.
+ 
+1.1.9. Control. The term “Control” (including the terms “controlled by” and 
+“under common control with”) shall mean the possession, directly or 
+indirectly, of the power to direct or cause the direction of the management 
+policies of a Person, whether through the ownership of voting securities, 
+by contract or otherwise.
+ 
+1.1.10. Chinacomm Parties. The term “Chinacomm Parties” shall mean the 
+collective reference to Chinacomm, Trussnet Gulfstream, Yunji, Gulfstream 
+Capital, Chinacomm Cayman, Qui, Yuan, Newtop, Thrive, and Chinacomm 
+Shanghai.
+ 
+1.1.11. Due Diligence Investigation. The term “Due Diligence Investigation” 
+shall mean consummation by the Purchaser of an investigation of the 
+business, assets and liabilities, financial condition, legal and regulatory 
+matters (including decisions and approvals of PRC Regulatory Authorities) 
+and prospects of each of the Company, Trussnet and the Chinacomm Parties, 
+including, without limitation, a review of all Financial Statements (when 
+furnished), and confirmation of the statements, warranties and satisfaction 
+of all conditions precedent contained in this Agreement and in each of the 
+Chinacomm Agreements; all of which investigation shall be satisfactory to 
+the Purchaser, in the exercise of its sole discretion.
+ 
+1.1.12. Employment Agreement. The term “Employment Agreement” shall mean 
+the five year employment agreement between the Company and George Alvarez 
+the execution of which shall be a condition precedent to the closing of the 
+Stock Purchase.
+ 
+1.1.13. Financial Statements. The term “Financial Statements” shall mean 
+the collective reference to: (a) the audited balance sheets and statement 
+of income or operations and statement of cash flows of the Company as of 
+June 30, 2006 and June 30, 2007 and for each of the two fiscal years ended 
+June 30, 2007, (b) the unaudited comparative balance sheets and statements 
+of income or operations and cash flows of the Company as at March 31, 2008 
+and for the nine months ended March 31, 2008; (c) the unaudited balance 
+sheet as at June 30, 2008 and the unaudited consolidated statements of 
+income or operations and statement of cash flows of Trussnet and its 
+consolidated Subsidiaries from inception through the period ended June 30, 
+2008; and (d) if, and only to the extent required under GAAP and 
+Regulations S-X promulgated under the Securities Act of 1933, as amended, 
+(i) the audited balance sheets and statements of income or operations and 
+cash flows of Chinacomm as at December 31, 2006, and December 31, 2007, and 
+(ii) the unaudited comparative balance sheets and statements of income or 
+operations and cash flows of Chinacomm as at June 30, 2007 and June 30, 
+2008 and for the six months ended June 30, 2007 and June 30, 2008.
+ 
+5
+------------------------------------------------------------------------
+ 
+1.1.14. Fully Diluted Basis. The term “Fully Diluted Basis” shall mean, 
+with respect to the Person in question, the sum of: (a) the aggregate 
+number of issued and outstanding shares of capital stock or other equity 
+interests of such Person at any point in time, plus (b) such additional 
+shares of capital stock or other equity interests that would be issued and 
+outstanding on a fully-diluted basis, assuming: (i) the conversion into 
+capital stock (including without limitation, Class A Common Shares, Class B 
+Common Shares and Series A Preferred Shares) of all securities issued by 
+such Person, or (ii) the exercise of all options, warrants or other rights 
+entitling any holder to purchase shares of capital stock or other equity 
+interests of such Person.
+ 
+1.1.15. GAAP. The term “GAAP” means, at any time or for any period in 
+question, United States generally acceptable accounting principles then in 
+effect.
+ 
+1.1.16. Knowledge. The term “Knowledge” shall mean actual knowledge after 
+reasonable investigation.
+ 
+1.1.17. Management Stockholders. The term “Management Stockholders” shall 
+mean the collective reference to George Alvarez and the other Persons 
+listed on Schedule 3.8(a) to this Agreement.
+ 
+1.1.18. Material Adverse Change. The term “Material Adverse Change” shall 
+mean a change which results in a Material Adverse Effect.
+ 
+1.1.19. Material Adverse Effect. The term “Material Adverse Effect” shall 
+mean: with respect to the Person in question: (i) a material adverse effect 
+(whether taken individually or in the aggregate with all other such 
+effects) on the financial condition, business, results of operations or 
+properties of such Person; or (ii) an effect which would materially impair 
+the Person’s ability to timely consummate the transactions contemplated 
+under this Agreement; or (iii) any event, circumstance or condition 
+affecting a Person which would prevent or materially delay the consummation 
+of the transactions contemplated under this Agreement.
+ 
+1.1.20. Merger. The term “Merger” shall mean the merger, to be effected 
+following the Closing of the Purchaser’s acquisition of the Purchased 
+Securities pursuant to this Agreement, all upon the terms and conditions 
+set forth in the Merger Agreement.
+ 
+6
+------------------------------------------------------------------------
+ 
+1.1.21. Merger Agreement. The term “Merger Agreement” shall mean the 
+agreement and plan of merger in substantially the form of Exhibit G 
+annexed hereto and made a part hereof, pursuant to which a wholly-owned 
+acquisition subsidiary of the Purchaser will be merged into the Company, 
+with the Company as the surviving corporation of such merger, as a result 
+of which the Company will become a wholly-owned subsidiary of the 
+Purchaser.
+ 
+1.1.22. Merger Date. The term “Merger Date” shall mean the date that the 
+certificate of merger and articles of merger with respect to the Merger 
+shall have been filed with the appropriate filing authorities in the State 
+of Nevada.
+ 
+1.1.23. MII. The term “MII” shall mean the Ministry of Information and 
+Industry of the People’s Republic of China.
+ 
+1.1.24. Preferred Stock. The term “Preferred Stock” shall refer to the 
+Series A Preferred Shares and any other shares of preferred stock of the 
+Company authorized for issuance pursuant to its certificate of 
+incorporation.
+ 
+1.1.25. Ordinary Course of Business. The term “Ordinary Course of Business” 
+shall mean the course of business procedures and practices consistent with 
+past custom and practice (including with respect to quantity and 
+frequency).
+ 
+1.1.26. PRC Regulatory Authorities. The term “PRC Regulatory Authorities” 
+shall mean the collective reference to: (a) the MII, (b) the State Agency 
+of Foreign Exchange (“SAFE”), (b) the China Securities Regulatory 
+Commission (“CSRC”), and (c) any other agency or instrumentality of the 
+central PRC government and/or any Provincial governmental agency having 
+jurisdiction over Chinacomm and the Chinacomm Parties.
+ 
+1.1.27. Person. The term “Person” means an individual, partnership, limited 
+liability company, corporation, association, joint stock company, trust, a 
+joint venture, unincorporated organization, or any other type of entity.
+ 
+1.1.28. Purchased Securities. The term “Purchased Securities” shall mean 
+the aggregate number of the Class A Common Shares and/or Series A Preferred 
+Shares that shall be purchased by the Purchaser in accordance with the 
+terms of this Agreement.
+ 
+1.1.29. Purchaser Note. The term “Purchaser Note” shall have the meaning as 
+is defined in Section 2.1.2(b) of this Agreement.
+ 
+1.1.30. Requirement of Law. The term “Requirement of Law” shall mean, with 
+respect to any Person, any judgment, statute, law, code, act, order, writ, 
+rule, ordinance, regulation, governmental consent or governmental 
+requirement, or determination or decree of any arbitrator, court, or other 
+governmental agency or administrative body, which now or at any time 
+hereafter may be applicable to and enforceable against the relevant Person, 
+work, or activity in question or any part thereof.
+ 
+1.1.31. Sale of Control. The term “Sale of Control” means, with respect to 
+any Party to this Agreement or any Trussnet Subsidiary, the sale or 
+transfer to any unaffiliated Person of securities of such Party or Trussnet 
+Subsidiary or of all or substantially all of the assets of such Party or 
+Trussnet Subsidiary, whether by merger, consolidation, combination, asset 
+sale, stock sale, tender offer or otherwise, in a transaction whereby the 
+power to elect a majority of the board of directors of such Party or 
+Trussnet Subsidiary shall be vested in such unaffiliated Person.
+ 
+7
+------------------------------------------------------------------------
+ 
+1.1.32. SEC. The term “SEC” shall mean the United States Securities and 
+Exchange Commission.
+ 
+1.1.33. Securities Act. The term “Securities Act” shall mean the Securities 
+Act of 1933, as amended.
+ 
+1.1.34. Series A Preferred Shares. The term “Series A Preferred Shares” 
+shall mean the 25,000,000 shares of Series A Preferred Shares of the 
+Company authorized for issuance pursuant to its certificate of 
+incorporation.
+ 
+1.1.35. Tax or Taxes. The term “Tax” or “Taxes” shall mean any federal, 
+state, local or foreign income, gross receipts, license, payroll, 
+employment, excise, severance, stamp, occupation, premium, windfall 
+profits, environmental, customs duties, capital stock, franchise, profits, 
+withholding, social security (or similar), unemployment, disability, real 
+property, personal property, sales, use, transfer, registration, value 
+added, alternative or add-on minimum, estimated, or other tax of any kind 
+whatsoever, including any interest, penalty, or addition thereto, whether 
+disputed or not.
+ 
+1.1.36. Tax Return. The term “Tax Return” shall mean any return, 
+declaration, report, claim for refund, or information return or statement 
+relating to Taxes, including any schedule or attachment thereto, and 
+including any amendment thereof.
+ 
+1.1.37. Transaction Expenses. The term “Transaction Expenses” shall mean 
+and include all reasonable, actual, and documented out-of-pocket expenses 
+(including, without limitation, all reasonable fees and expenses of 
+counsel, accountants, and investment bankers to a Party and its Affiliates) 
+incurred by a Party or on its behalf in connection with or related to: (i) 
+the authorization, preparation, negotiation, execution, and performance of 
+this Agreement; (ii) the preparation, printing, filing, and mailing of any 
+SEC Filings made or contemplated by that Party in connection with this 
+Agreement and the transactions envisioned hereunder, including, without 
+limitation, Purchaser’s proxy statement, the Company’s information 
+statement relating to the Merger and Purchaser’s registration statement on 
+Form S-4 or Form F-4 to be filed to register the ordinary shares of 
+Purchaser or be issued in the Merger; and (iii) all other matters related 
+to the consummation of the transactions contemplated under this Agreement.
+ 
+1.1.38. WiMAX License Renewal. The term “WiMAX License Renewal” shall have 
+the meaning set forth in Section 5.1.6 of this Agreement.
+ 
+1.1.39. WiMAX License Renewal Date. The term “WiMAX License Renewal Date” 
+shall be the date on which the MII shall have issued (by its official seal 
+or “chop”) the WiMAX License Renewal.
+ 
+8
+------------------------------------------------------------------------
+ 
+1.1.40. Accounting Terms and Determinations. All accounting terms used in 
+this Agreement and not otherwise defined shall have the meaning accorded to 
+them in accordance with GAAP and, except as expressly provided herein, all 
+accounting determinations shall be made in accordance with GAAP, 
+consistently applied. When used herein, the term “financial statements” 
+shall include the notes and schedules attached thereto. The term “GAAP” 
+means generally accepted accounting principles consistently applied as in 
+effect from time to time.
+ 
+1.2. Interpretation.
+ 
+1.2.1. Provision Not Construed Against Party Drafting Agreement. This 
+Agreement is the result of negotiations by and between the Parties, and 
+each Party has had the opportunity to be represented by independent legal 
+counsel of its choice. This Agreement is the product of the work and 
+efforts of all Parties, and shall be deemed to have been drafted by all 
+Parties. In the event of a dispute, no Party hereto shall be entitled to 
+claim that any provision should be construed against any other Party by 
+reason of the fact that it was drafted by one particular Party.
+ 
+1.2.2. Number and Gender. Wherever from the context it appears appropriate: 
+(i) each term stated either in the singular or plural shall include the 
+singular and plural; and (ii) wherever from the context it appears 
+appropriate, the masculine, feminine, or neuter gender, shall each include 
+the others.
+ 
+1.2.3. Incorporation of Exhibits and Schedules. The Exhibits and Schedules 
+identified in this Agreement are incorporated herein by reference and made 
+a part hereof as if set out in full herein.
+ 
+1.2.4. Article and Section Headings. The article and section headings used 
+in this Agreement are inserted for convenience and identification only and 
+are not to be used in any manner to interpret this Agreement.
+ 
+1.3. Severability. Each and every provision of this Agreement is severable 
+and independent of any other term or provision of this Agreement. If any 
+term or provision hereof is held void or invalid for any reason by a court 
+of competent jurisdiction, such invalidity shall not affect the remainder 
+of this Agreement.
+ 
+1.4. Entire Agreement. This Agreement, and all Exhibits hereto and all 
+references, documents, or instruments referred to herein, contains the 
+entire agreement and understanding of the Parties hereto in respect to the 
+subject matter contained herein. The Parties have expressly not relied upon 
+any promises, representations, warranties, agreements, covenants, or 
+undertakings, other than those expressly set forth or referred to in this 
+Agreement and in the Exhibits hereto. This Agreement and the Exhibits 
+hereto supersedes any and all prior written or oral agreements, 
+understandings, and negotiations between the Parties with respect to the 
+subject matter contained herein or therein.
+ 
+1.5. Additional Definitions and Interpretation Provisions. For purposes of 
+this Agreement: (i) those words, names, or terms which are specifically 
+defined herein shall have the meaning specifically ascribed to them; (ii) 
+the words “hereof”, “herein”, “hereunder”, and words of similar import, 
+when used in this Agreement, shall refer to this Agreement as a whole, and 
+not to any particular provision of this Agreement; (iii) all references to 
+designated “Articles”, “Sections”, and to other subdivisions are to the 
+designated Articles, Sections, and other subdivisions of this Agreement as 
+originally executed; (iv) all references to “Dollars” or “$” shall be 
+construed as being United States dollars; (v) the term “including” is not 
+limiting and means “including without limitation”; and (vi) all references 
+to all statutes, statutory provisions, regulations, or similar 
+administrative provisions shall be construed as a reference to such 
+statute, statutory provision, regulation, or similar administrative 
+provision as in force at the Effective Date and as may be subsequently 
+amended.
+ 
+9
+------------------------------------------------------------------------
+ 
+ARTICLE II
+ 
+THE PURCHASED SECURITIES
+ 
+2.1. The Purchased Securities, Purchase Price and Post-Closing Option.
+ 
+2.1.1 The Purchased Securities 
+ 
+(a) On the Closing Date (as hereinafter defined) and subject to the terms 
+and conditions set forth herein, the Purchaser shall purchase and acquire 
+and the Company shall sell to the Purchaser the Purchased Securities, 
+including, without limitation, an aggregate of 120,000,000 Class A Common 
+Shares and Equivalents. Such Purchased Securities shall be evidenced by the 
+Company’s delivery to the Purchaser on the Closing Date of:
+ 
+(i) that number of Class A Common Shares determined by dividing (i) the 
+Cash Payment (as defined in Section 2.1.2(a) below) paid at Closing, by 
+(ii) $2.25; and
+ 
+(ii) that number of Series A Preferred Shares of the Company determined by 
+dividing (i) the principal amount of the Purchaser Note (as defined in 
+Section 2.1.2(b) below) delivered at Closing, by (ii) $10.00.
+ 
+For the avoidance of doubt, if the Cash Payment at Closing is $105,000,000 
+and the Purchaser Note is $165,000,000, then at Closing the Purchaser shall 
+receive from the Company an aggregate of 46,666,667 Class A Common Shares 
+and an aggregate of 16,500,000 Series A Preferred Shares, convertible into 
+an additional 73,333,333 Class A Common Shares.
+ 
+(b) Notwithstanding the provisions of Section 2.1.1(a) above, prior to the 
+Closing Date, the Purchaser may elect, by written notice to the Company, to 
+receive all of the Purchased Securities in the form of 120,000,000 Class A 
+Common Shares; in which event no Series A Preferred Shares shall be issued 
+under this Agreement by the Company.
+ 
+(c) To the extent that the Company does issue Series A Preferred Shares, 
+dividends on such Purchased Securities shall only be payable, as to those 
+Series A Preferred Shares which shall have been paid for in cash (at the 
+rate of $10.00 per Series A Preferred Share) by prepayment or payment of 
+the Purchaser Note.
+ 
+2.1.2  Purchase Price. On the Closing Date, the Purchaser shall pay to the 
+Company a purchase price for the Class A Common Shares and Equivalents 
+equal to $2.25 per share, or $270,000,000 for all of the Purchased 
+Securities (the “Purchase Price”). The Purchase Price shall be paid on the 
+Closing Date, in the following manner:
+ 
+(a) by wire transfer of immediately available funds (the “Cash Payment”) to 
+an account designated by the Company and approved by Purchaser such amount, 
+net of all applicable commissions, that shall be not less than $105,000,000 
+(the “Minimum Cash Payment”) and not more than $270,000,000 (the “Maximum 
+Cash Payment”); and
+ 
+10
+------------------------------------------------------------------------
+ 
+(b) to the extent not paid in cash at Closing in accordance with Section 
+2.1.2(a), above, the balance of the Purchase Price shall be paid by the 
+Purchaser’s delivery to the Company at Closing of the Purchaser’s 
+non-interest bearing promissory note due March 31, 2009 (the “Purchaser 
+Note”); which Purchaser Note:
+ 
+(i) to the extent not previously prepaid, shall be due and payable on March 
+31, 2009 (the “Maturity Date”);
+ 
+(ii) shall be secured by a pledge to the Company of that number of shares 
+of the Purchased Securities which, when divided by the $2.25 per share 
+Purchase Price for Class A Common Shares and/or the $10.00 per share stated 
+value purchase price for Series A Preferred Shares, if any, shall equal the 
+principal amount of the Purchaser Note (the “Pledged Securities”), and held 
+by Horwitz, Cron & Jasper, P.L.C., counsel to the Company, as collateral 
+agent (the “Collateral Agent”) pursuant to the terms of the pledge 
+agreement annexed hereto as Exhibit H and made a part hereof (the “Pledge 
+Agreement”);
+ 
+(iii) except only for the Pledged Securities, shall be non-recourse to the 
+Purchaser and the assets and properties of the Purchaser;
+ 
+(iv) shall be subject to full or partial mandatory prepayment in cash, to 
+the extent of any and all cash net proceeds received by the Purchaser from 
+the issuance and sale of any of its securities at any time or from time to 
+time prior to the Maturity Date;
+ 
+(v) shall provide that on any one or more occasion that the outstanding 
+principal amount of the Purchaser Note is prepaid in part and reduced or 
+paid in full, a corresponding amount of the Purchased Securities (valued 
+(A) as to the Class A Common Shares held under the Pledge Agreement at 
+$2.25 per share, and (B) as to any shares of Series A Preferred Shares held 
+under the Pledge Agreement, at the $10.00 per share purchase price) shall 
+be released by the Collateral Agent from the Pledge Agreement and delivered 
+to the Purchaser;
+ 
+(vi) shall provide that, to the extent the Purchaser Note has not been paid 
+in full by the Maturity Date, the amount of the Purchased Securities then 
+being held under the Pledge Agreement which are not then subject to release 
+and delivery to the Purchaser pursuant to clause (v) above, shall be 
+returned to the Company for cancellation and the Purchaser Note shall be 
+returned to the Purchaser for cancellation, unless the Maturity Date shall 
+have been extended by mutual agreement of the Parties;
+ 
+11
+------------------------------------------------------------------------
+ 
+(vii) shall provide that on the Closing Date, the Purchaser shall deliver 
+to the Collateral Agent the Pledged Securities, together with not less than 
+twenty stock powers duly executed by the Purchaser in blank; and
+ 
+(viii) shall be in the form of Exhibit I annexed hereto and made a part 
+hereof.
+ 
+2.1.3  Deliveries. Against receipt of the Purchase Price, on the Closing 
+Date the Company shall deliver:
+ 
+(a) to the Purchaser, stock certificates evidencing legal and beneficial 
+ownership of such number of the Purchased Securities equal to the Purchase 
+Price that shall have been paid at the Closing by the Cash Payment 
+(calculated by dividing the Cash Payment paid at Closing by $2.25); and
+ 
+(b) to the Collateral Agent under the Pledge Agreement, the Purchaser Note 
+and stock certificates evidencing legal and beneficial ownership of such 
+number of the Pledged Securities equal to the Purchase Price that shall 
+have been paid as at the Closing by delivery of the Purchaser Note 
+(calculated by in accordance with Section 2.1.2(b)(ii) above).
+ 
+2.1.4 Per Share Price; Adjustments. It is the mutual intention of the 
+Parties hereto that the per share purchase price of each of the Class A 
+Common Shares shall be $2.25 per share (the “Per Share Price”). Such number 
+of Class A Common Shares and the Per Share Price shall be subject to 
+equitable adjustment in the event of any stock splits or recapitalizations 
+by the Company prior to the Closing Date that have been approved by the 
+Purchaser. In addition, except for the Convertible Debentures permitted to 
+be issued by the Company prior to the Closing Date in accordance with 
+Section 3.8 and Section 4.14 below, in the event that the Company shall, on 
+any one or more occasion, commencing from and after the date of this 
+Agreement and ending on a date which shall be the effective time of the 
+Merger, issue or sell for cash any of its Class A Common Shares or other 
+securities convertible into or exercisable for Class A Common Shares at a 
+price per share that shall be less than $2.25, the Per Share Price paid and 
+payable by Purchaser shall be reduced to such lower price, and the number 
+of Class A Common Shares issued and issuable to the Purchaser shall be 
+correspondingly increased. Notwithstanding the foregoing, the provisions of 
+this Section 2.1.4 shall not be applicable to, or subject to adjustment by, 
+either the transactions contemplated by the Merger Agreement or the 
+exercise of warrants outstanding as at the date of this Agreement entitling 
+the holders to purchase ordinary shares of the Purchaser
+ 
+2.1.5 Closing Payment and Class A Common Shares and Equivalents. On the 
+Closing Date, the Purchaser shall pay the $270,000,000 Purchase Price in 
+the manner set forth in Section 2.1.2 above and the Company shall deliver 
+to the Purchaser an aggregate of 120,000,000 Class A Common Shares and 
+Equivalents, after giving effect to the conversion of each Series A 
+Preferred Share purchased on the Closing Date into 4.4444 Class A Common 
+Shares, calculated by dividing (a) the $10.00 per share stated value and 
+purchase price for each Series A Preferred Share, by (b) $2.25 per share 
+(the “Series A Preferred Conversion Ratio”).
+ 
+12
+------------------------------------------------------------------------
+ 
+2.1.6 Minimum Percentage Ownership. The Parties hereto do hereby 
+acknowledge and agree that, notwithstanding anything to the contrary, 
+express or implied, contained in this Agreement, after giving effect to the 
+transactions contemplated by this Agreement, on the Closing Date the 
+Purchaser shall purchase and own of record and beneficially that number of 
+Class A Common Shares and Equivalents and that number of Class B Common 
+Shares as shall represent not less than fifty-one (51%) of the aggregate 
+voting power of all voting securities of the Company, after giving effect 
+to the acquisition of the Purchased Securities by the Purchaser.
+ 
+2.2. Composition of the Purchased Securities. Unless the Purchaser shall 
+elect, by written notice to the Company given not later than five (5) days 
+prior to the Closing Date, to purchase all of the Purchased Securities in 
+the form of 120,000,000 Class A Common Shares, the allocation of the 
+Purchased Securities among the Class A Common Shares and the Series A 
+Preferred Shares shall be as follows:
+ 
+(a) a Minimum Cash Payment of the Purchase Price of $105,000,000, in 
+exchange for an aggregate of 46,666,667 shares of Class A Common Shares at 
+the Per Share Price of $2.25 per share;
+ 
+(b) the balance of the Purchased Securities to be represented by the 
+purchase of up to 16,500,000 Series A Preferred Shares at a stated value 
+and purchase price of $10.00 per Series A Preferred Share; with (i) such 
+Series A Preferred Shares paid by issuance of the Purchaser Note, and (ii) 
+each Series A Preferred Share convertible by the holder at any time by the 
+holder into 4.4444 Class A Common Shares, based on the Series A Preferred 
+Conversion Ratio, and shall contain such other terms and conditions as are 
+set forth on Exhibit F annexed hereto and made a part hereof; and
+ 
+(c) the issuance of the number of the Class B Common Shares referred to in 
+Section 2.3 below.
+ 
+2.3. Issuance of Class B Common Shares. In consideration for its purchase 
+of the Purchased Securities, on the Closing Date, the Company shall issue 
+to the Purchaser, for $0.001 per share, that number of the Class B Common 
+Shares which, when coupled with the number of Class A Shares and any Series 
+A Preferred Shares purchased by the Purchaser on the Closing Date, shall 
+represent as of the Closing Date, not less than fifty-one percent (51%) of 
+the aggregate voting power of the Company, represented by all Class A 
+Shares, Series A Preferred Shares and Class B Common Shares of the Company, 
+that are or would be outstanding on a Fully-Diluted Basis after giving 
+effect to such issuance (the “Purchaser’s Class B Shares”).
+ 
+2.4 Failure to Consummate Purchase. If at any time prior to the Closing, 
+the Purchaser believes that it is unable to consummate the purchase of the 
+Purchased Securities, then the Purchaser shall promptly notify the Company 
+in writing of its intent to terminate this Agreement. Upon receipt of such 
+notice, this Agreement shall be null and void, and none of the Parties 
+hereto shall have any further liability to the other.
+ 
+2.5. Closing. Subject to the terms and conditions of this Agreement, the 
+closing of the Stock Purchase (the “Closing”) shall take place at the law 
+office of Hodgson Russ LLP, 1540 Broadway, 24th floor, New York, New York 
+10036, as soon as practicable after all conditions to Closing under this 
+Agreement are satisfied, but in no event later than a date which shall be 
+five (5) Business Days following the WiMAX License Renewal Date (the “
+Closing Date”), subject to extension of such Closing Date by mutual 
+agreement of both Parties. In the event the Closing has not taken place as 
+of the Closing Date, as the same may be extended, then at the option of the 
+Company, this Agreement shall terminate and shall thereafter be null and 
+void.
+ 
+13
+------------------------------------------------------------------------
+ 
+ARTICLE III
+ 
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY AND TRUSSNET
+ 
+The Company and Trussnet hereby do hereby jointly and severally represent 
+and warrant to the Purchaser that upon execution of this Agreement and at 
+Closing (each representation as to the Chinacomm Parties is made to the 
+best Knowledge of the Company and Trussnet):
+ 
+3.1. Organization and Good Standing. Each of the Company, Trussnet and the 
+Chinacomm. Parties are entities duly organized, validly existing and in 
+good standing under the laws of their respective States or countries of 
+organization, all as set forth on Schedule 3.1 to this Agreement.
+ 
+3.2. Subsidiaries. The only direct subsidiary of the Company is Trussnet. 
+Trussnet is a corporation duly organized, validly existing and in good 
+standing under the laws of the State of Nevada. Schedule 3.2 to this 
+Agreement sets forth: (a) the names, (b) the authorized, issued and 
+outstanding shares of capital stock or other equity of Trussnet and of each 
+of the direct and indirect subsidiaries of Trussnet and all Chinacomm 
+Parties, and (c) the record and beneficial owners of such capital stock or 
+other equity.
+ 
+3.3. Authorization and Approvals.
+ 
+(a) Each of the Company, Trussnet and the Chinacomm Parties have the 
+requisite corporate power and authority and have obtained all requisite 
+licenses, permits, franchises, approvals and consents necessary (i) to own 
+and operate its properties and to carry on its business as now being 
+conducted, and (ii) to enter into and carry out the terms and conditions of 
+this Agreement, as well as all transactions contemplated hereunder. All 
+corporate proceedings have been taken and all corporate authorizations have 
+been secured which are necessary to authorize the execution, delivery and 
+performance by the Company, Trussnet and the Chinacomm Parties of this 
+Agreement. This Agreement has been duly and validly executed and delivered 
+by the Company and Trussnet and constitutes the valid and binding 
+obligation of the Company and Trussnet, enforceable against each of them in 
+accordance with its terms.
+ 
+(b) On or before the Closing Date, each of the Chinacomm Parties have or 
+shall have executed an agreement in the form of Exhibit J annexed hereto 
+(the “Chinacomm Parties Consent Agreement”), pursuant to which each of the 
+Chinacomm Parties shall have approved this Agreement and shall have 
+consented all of the transactions contemplated hereby.
+ 
+3.4. Effect of Agreement. As of the Closing, the consummation by any of the 
+Company, Trussnet and the Chinacomm Parties of the transactions 
+contemplated hereby and by the Chinacomm Agreements, including the 
+execution, delivery and consummation of this Agreement, will comply with 
+all applicable law and will not:
+ 
+(a) Violate any Requirement of Law applicable to or binding upon the 
+Purchaser, the Company, Trussnet or any of the Chinacomm Parties;
+ 
+14
+------------------------------------------------------------------------
+ 
+(b) Violate: (i) the terms of the Articles of Incorporation or Bylaws of 
+the Company, Trussnet and the Chinacomm Parties; or (ii) any material 
+agreement, contract, mortgage, indenture, bond, bill, note, or other 
+material instrument or writing binding upon the Company, Trussnet and the 
+Chinacomm Parties or to which any of the Company, Trussnet and the 
+Chinacomm Parties is subject;
+ 
+(c) Accelerate or constitute an event entitling the holder of any 
+indebtedness of any of the Company, Trussnet and the Chinacomm Parties to 
+accelerate the maturity of such indebtedness or to increase the rate of 
+interest presently in effect with respect to such indebtedness; or
+ 
+(d) Result in the breach of, constitute a default under, constitute an 
+event which with notice or lapse of time, or both, would become a default 
+under, or result in the creation of any lien, security interest, charge or 
+encumbrance upon any of the assets or any other properties of any of the 
+Company, Trussnet and the Chinacomm Parties under any agreement, 
+commitment, contract (written or oral) or other instrument to which any of 
+the Company, Trussnet and the Chinacomm Parties is a party or by which it 
+is bound or affected.
+ 
+3.5. Consents and WiMAX License.
+ 
+(a) All consents, approvals or other authorizations or notices, required by 
+any state or federal regulatory authority or other Person or entity, 
+including all PRC Regulatory Authorities, in order to permit the Purchaser, 
+the Company, Trussnet and the Chinacomm Parties to consummate the 
+transactions contemplated by this Agreement and the Chinacomm Agreements 
+and to enable the Company, Trussnet and the Chinacomm Parties to operate 
+their respective businesses, including the construction, installation and 
+operation of the Wireless Installations under the WiMAX License have been 
+obtained and are in full force and effect.
+ 
+(b) On or before the Closing Date, the MII or other applicable PRC 
+Regulatory Authority shall have renewed the WiMAX license granted to 
+Chinacomm for a minimum of not less than three years, and such WiMAX 
+License, as so renewed shall be in compliance with the requirements of the 
+PRC Regulatory Authorities.
+ 
+3.6. Legal Proceedings. There are no legal, administrative, arbitral or 
+other actions, claims, suits or proceedings or investigations instituted or 
+pending or, to the Knowledge of the Company’s management, threatened 
+against any of the Company, Trussnet and the Chinacomm Parties, or against 
+any property, asset, interest or right of any of the Company, Trussnet and 
+the Chinacomm Parties, that might reasonably be expected to have a Material 
+Adverse Effect or that might reasonably be expected to threaten or impede 
+the consummation of the transactions contemplated by this Agreement.
+ 
+15
+------------------------------------------------------------------------
+ 
+3.7. Regulatory Compliance. Neither the Company, Trussnet nor, to the best 
+Knowledge of the Company and Trussnet, any of the Chinacomm Parties have 
+violated any Requirement of Law, the violation of which would be reasonably 
+likely to have a Material Adverse Effect. All filings of the Company with 
+the SEC have been filed in a timely fashion and are accurate and complete 
+in all material respects.
+ 
+3.8. Capitalization; Transactions with Trussnet Delaware.
+ 
+(a) The Company is authorized to issue 500,000,000 Class A Common Shares, 
+200,000,000 Class B Common Shares and 25,000,000 Series A Preferred Shares. 
+Immediately prior to the Closing, the Company shall have no more than 
+133,485,509 Class A Common Shares issued and outstanding on a Fully Diluted 
+Basis calculated as follows: (i) 86,117,088 Class A Common Shares issued 
+and outstanding plus, plus (ii) up to 47,368,421 Class A Common Shares, 
+issuable in the event the Company issues up to $45,000,000 in convertible 
+debentures, convertible at $.95 per share (the “Convertible Debentures”). 
+As of the date of this Agreement, the Company has issued approximately 
+$27,000,000 of such Convertible Debentures. The Company and the Purchaser 
+hereby agree that up to and including the Closing Date, the Company shall 
+have the right to issue up to $45,000,000, in the aggregate, in Convertible 
+Debentures. The Company has issued, or immediately prior to Closing the 
+Company shall issue, to George Alvarez and the other Persons listed on 
+Schedule 3.8(a) to this Agreement (the “Class B Holders”) an aggregate of 
+66,909,088 Class B Common Shares. All of the issued and outstanding Class A 
+Common Shares, Class B Common Shares and the Convertible Debentures have 
+been duly authorized and are validly issued, fully paid, and 
+non-assessable. Other than the Convertible Debentures and the transactions 
+contemplated hereby, there are no outstanding or authorized options, 
+warrants, purchase rights, subscription rights, conversion rights, exchange 
+rights, or other contracts or commitments that could require the Company to 
+issue, sell, or otherwise cause to become outstanding any of its capital 
+stock.
+ 
+(b) The capitalization of each of Trussnet and the Chinacomm Parties is set 
+forth on Schedule 3.8(b) to this Agreement. All of the issued and 
+outstanding shares of capital stock or other securities of Trussnet and, to 
+the Knowledge of the Company and Trussnet, the Chinacomm Parties have been 
+duly authorized and are validly issued, fully paid, and non-assessable. 
+Other than the transactions contemplated hereby and by the Chinacomm 
+Agreements, there are no outstanding or authorized options, warrants, 
+purchase rights, subscription rights, conversion rights, exchange rights, 
+or other contracts or commitments that could require Trussnet or any of the 
+Chinacomm Parties to issue, sell, or otherwise cause to become outstanding 
+any of its capital stock or any other equity.
+ 
+(c) Annexed hereto as Schedule 3.8(c) is a description of (i) all of the 
+assets and personnel of Trussnet Delaware that has heretofore been 
+transferred, or as at the Closing Date will have been transferred, to 
+Trussnet, (ii) all loans, services and other products heretofore provided 
+by Trussnet Delaware to Trussnet and/or the Company for or on behalf of the 
+Company or ChinaComm, and (iii) all accounts payable and other amounts 
+owing as at the date hereof and as at the Closing Date by the Company or 
+Trussnet to Trussnet Delaware; all of which amounts and obligations have 
+been incurred in the Ordinary Course of Business.
+ 
+3.9. The Purchased Securities. The Purchased Securities (including the 
+Class A Common Shares issuable upon conversion of the Series A Preferred 
+Shares) and the Class B Common Shares will, upon issuance, be duly 
+authorized, legally and validly issued, fully paid and non-assessable, and 
+free and clear of all liens, mortgages, pledges, and other encumbrances of 
+any nature, unless expressly provided herein to the contrary.
+ 
+16
+------------------------------------------------------------------------
+ 
+3.10. Employee Benefit Plans. Neither the Company nor Trussnet have any 
+labor union contract, bonus, pension, profit-sharing, retirement, deferred 
+compensation, savings, stock purchase, stock option, hospitalization, 
+insurance or other plan providing employees benefits, employment, agency, 
+consulting or similar contract (“Employee Benefit Plans”) which cannot be 
+terminated in thirty (30) days or less, without cost, other than the 
+Employment Agreement of George Alvarez. The Company and Trussnet reserve 
+the right to establish Employee Benefit Plans in the future.
+ 
+3.11. Permits and Licenses. The Company and Trussnet and to the best 
+Knowledge of the Company and Trussnet, the Chinacomm Parties have all 
+licenses and permits (federal, state and local) required by governmental 
+authorities to own, operate and carry on their respective business as now 
+being conducted, and such licenses and permits are in full force and 
+effect. No violations are or have been recorded in respect to the licenses 
+or permits, included but not limited to fire and health and safety law 
+violations, and no proceeding is pending or threatened looking toward the 
+revocation or limitation of any of them.
+ 
+3.12. Chinacomm Transaction.
+ 
+3.12.1. Controlled Entities. The Chinacomm Agreements require the formation 
+of certain entities, including Trussnet Gulfstream and Gulfstream Capital 
+and the formation of two wholly owned foreign investment enterprises or 
+WOFEs (as previously defined). Trussnet Gulfstream and Gulfstream Capital 
+are or will be 100% owned subsidiaries of Trussnet, and Chinacomm Cayman, 
+Chinacomm Shanghai and Yunji are or on the Closing Date shall be 
+partially-owned subsidiaries of Trussnet. Such Chinacomm Parties are 
+sometimes collectively referred to herein as the “Trussnet Subsidiaries”.
+ 
+3.12.2. Performance. The Company shall cause $196,000,000 of the proceeds 
+received under this Agreement to: (i) be used to discharge the obligation 
+of Gulfstream Capital that it invest $196,000,000 in Chinacomm Cayman; and 
+(ii) assure that upon completion of this investment by Gulfstream, that 
+these funds be used as contemplated by the Chinacomm Agreements. The 
+balance of the proceeds shall be used for the payment of commissions and 
+general working capital, in such amounts as are set forth on Schedule 
+3.12.2 annexed to this Agreement.
+ 
+3.13. Material Agreements. Except as otherwise disclosed herein, each of 
+the Company, Trussnet and, to the best Knowledge of the Company and 
+Trussnet, the Chinacomm Parties, is not a party to any material agreement, 
+the failure to perform of which would have a Material Adverse Effect upon 
+any of the Company, Trussnet or such Chinacomm Parties.
+ 
+3.14. Insurance Policies. All insurance policies maintained by each of the 
+Company, Trussnet and, to the best Knowledge of the Company and Trussnet, 
+the Chinacomm Parties on its assets, business, officers and personnel 
+provide adequate and sufficient liability and property damage coverage 
+commensurate with the business practices of any of the Company, Trussnet 
+and, to the best Knowledge of the Company and Trussnet, the Chinacomm 
+Parties. To the best Knowledge of the Company, each of the Company, 
+Trussnet and, to the best Knowledge of the Company and Trussnet, the 
+Chinacomm Parties does not conduct any business which would result in the 
+cancellation of, or a material increase in the premiums, for any of its 
+insurance policies.
+ 
+17
+------------------------------------------------------------------------
+ 
+3.15. Environmental Matters. With regard to matters of environmental 
+compliance: each of the Company, Trussnet and, to the best Knowledge of the 
+Company and Trussnet, the Chinacomm Parties has conducted and is conducting 
+its business, and has used and is using its properties, whether currently 
+owned, operated or leased or owned, operated or leased by the Company in 
+compliance with all applicable PRC and United States federal, and state and 
+local environmental laws and regulations, except where the failure to 
+comply with such laws and regulations, in the aggregate, has not had and 
+could not have a Material Adverse Effect on the condition (financial or 
+otherwise), business or properties of the Company, Trussnet or, to the best 
+Knowledge of the Company and Trussnet, any of the Chinacomm Parties.
+ 
+3.16. Undisclosed Liabilities. Neither the Company, Trussnet nor, to the 
+best Knowledge of the Company and Trussnet, the Chinacomm Parties have any 
+liability (whether known or unknown, whether asserted or unasserted, 
+whether absolute or contingent, whether accrued or unaccrued, whether 
+liquidated or unliquidated, and whether due or to become due), including 
+any liability for Taxes, except for: (i) liabilities set forth in the 
+Financial Statements, and (ii) liabilities which have arisen after the date 
+of the Financial Statements in the Ordinary Course of Business (none of 
+which results from, arises out of, relates to, is in the nature of, or was 
+caused by any breach of contract, breach of warranty, tort, infringement, 
+or violation of law).
+ 
+3.17. Material Defaults. Neither the Company, Trussnet nor, to the best 
+Knowledge of the Company and Trussnet, the Chinacomm Parties is in default, 
+or alleged to be in default, under any material agreement, contract, lease, 
+mortgage, commitment, instrument or obligation, and to the best Knowledge 
+of the Company and Trussnet of no other party to any agreement, contract, 
+lease, mortgage, commitment, instrument or obligation to which the Company 
+is a party is in default thereunder, which default would have a Materially 
+Adversely Effect upon the properties, assets, business or prospects of the 
+Company, Trussnet or the Chinacomm Parties.
+ 
+3.18. Tax Returns and Disputes. The Company and Trussnet, and to the best 
+Knowledge of the Company and Trussnet, each of the Chinacomm Parties, has: 
+(a) filed all Tax Returns (PRC and United States federal, state and local) 
+required to be filed by it, (b) all such Tax Returns filed are complete and 
+accurate in all material respects, and (c) the applicable taypayer has paid 
+all Taxes shown to be due and payable on the returns or any assessments or 
+penalties received by it and all other Taxes (PRC and United States 
+federal, state and local) due and payable by it. The Company and Trussnet, 
+and to the best Knowledge of the Company and Trussnet, each of the 
+Chinacomm Parties, has collected and withheld all Taxes which it has been 
+required to collect or withhold and has timely submitted all such collected 
+and withheld amounts to the appropriate authorities. The Company and 
+Trussnet, and to the best Knowledge of the Company and Trussnet, each of 
+the Chinacomm Parties, is in compliance with the back-up withholding and 
+information reporting requirements under the Code and any state, local or 
+foreign laws, and the rules and regulations thereunder.
+ 
+3.19. Financial Condition. On or before the Closing Date, the Company and 
+Trussnet shall deliver and cause to be delivered to the Purchaser all of 
+the Financial Statements. The Financial Statements of the Company and 
+Trussnet, and to the best Knowledge of the Company and Trussnet, each of 
+the Chinacomm Parties, present fairly the financial position, results of 
+operations and cash flows of the Company for the fiscal period then ended 
+and were prepared in accordance with United States generally accepted 
+accounting principles (“GAAP”), except with respect to the Financial 
+Statements of Chinacomm, the same have been prepared in accordance with 
+either GAAP or auditing standards accepted in the European Union. The 
+Purchaser acknowledges that the Company and Trussnet have changed their 
+fiscal year end from June 30th to December 31st.
+ 
+18
+------------------------------------------------------------------------
+ 
+3.20. No Adverse Change. Since December 31, 2007 there has been no Material 
+Adverse Change in the business, financial condition, results of operations, 
+assets, or liabilities of the Company, Trussnet and, to the best Knowledge 
+of the Company and Trussnet, each of the Chinacomm Parties.
+ 
+3.21. Disclosure. The representations and warranties: (a) of the Company 
+and Trussnet contained in this Agreement and in any agreement, certificate, 
+affidavit, statutory declaration or other document delivered or given by 
+the Company or Trussnet pursuant to this Agreement, and (b) to the best 
+Knowledge of the Company and Trustnet, of any of the Chinacomm Parties 
+contained in any of the Chinacomm Agreements or in any other agreement, 
+certificate, affidavit, statutory declaration or other document delivered 
+or given by any of the Chinacomm Parties pursuant to this Agreement or any 
+Chinacomm Agreements are true and correct and do not contain any untrue 
+statement of a material fact or omit to state a material fact necessary to 
+make the statements contained in such representations and warranties not 
+misleading to the Purchaser.
+ 
+3.22. Advice of Changes. Between the Effective Date and the Closing Date, 
+the Company and Trussnet shall promptly advise the Purchaser in writing of 
+any fact, the occurrence of which would render any representation or 
+warranty contained in this Agreement to be materially untrue.
+ 
+ARTICLE IV
+ 
+REPRESENTATIONS AND WARRANTIES OF THE PURCHASER
+ 
+The Purchaser hereby represents and warrants to the Company as follows 
+upon execution of this Agreement and at Closing:
+ 
+4.1. Organization and Good Standing. The Purchaser is a corporation duly 
+organized, validly existing and in good standing under the laws of the 
+Cayman Islands.
+ 
+4.2. Authorization. The Purchaser has full power and authority to execute 
+and deliver this Agreement and to perform its obligations hereunder. This 
+Agreement constitutes the valid and legally binding obligation of the 
+Purchaser, enforceable in accordance with its terms and conditions. The 
+Purchaser need not give any notice to, make any filing with, or obtain any 
+authorization, consent, or approval of any government or governmental 
+agency in order to consummate the transactions contemplated by this 
+Agreement, other than the Proxy Statement which the Purchaser shall, prior 
+to the Closing Date, distribute to its sharesholders in order to obtain the 
+consent of its shareholders to the transactions contemplated by this 
+Agreement.
+ 
+19
+------------------------------------------------------------------------
+ 
+4.3. Operation of Business. The Purchaser has the requisite corporate power 
+and authority and all requisite licenses, permits and franchises necessary 
+to own and operate its properties and to carry on its business as now being 
+conducted.
+ 
+4.4. Execution of Agreement. The Purchaser has the requisite corporate 
+power and authority and (except for approval of Purchaser’s shareholders) 
+has obtained all approvals and consents necessary to enter into and carry 
+out the terms and conditions of this Agreement, as well as all transactions 
+contemplated hereunder. All corporate proceedings have been taken and all 
+corporate authorizations have been secured which are necessary to authorize 
+the execution, delivery, and performance by the Purchaser of this 
+Agreement. This Agreement has been duly and validly executed and delivered 
+by the Purchaser and constitutes the valid and binding obligations of the 
+Purchaser, enforceable in accordance with the respective terms.
+ 
+4.5. Effect of Agreement. As of the Closing, the consummation by the 
+Purchaser of the transactions herein contemplated, including the execution, 
+delivery and consummation of this Agreement, will comply with all 
+applicable law and will not:
+ 
+(a) Violate any Requirement of Law applicable to or binding upon the 
+Purchaser;
+ 
+(b) Violate: (i) the terms of the Articles of Incorporation or Bylaws of 
+the Purchaser; or, (ii) any material agreement, contract, mortgage, 
+indenture, bond, bill, note, or other material instrument or writing 
+binding upon the Purchaser or to which the Purchaser is subject;
+ 
+(c) Result in the breach of, constitute a default under, constitute an 
+event which with notice or lapse of time, or both, would become a default 
+under, or result in the creation of any lien, security interest, charge or 
+encumbrance upon any of the assets or any other properties of the Purchaser 
+under any agreement, commitment, contract (written or oral) or other 
+instrument to which the Purchaser is a party or by which it is bound or 
+affected.
+ 
+4.6. Consents. No consents, approvals or other authorizations or notices, 
+other than those which have been obtained and are in full force and effect, 
+are required by any state or federal regulatory authority or other Person 
+or entity in connection with the execution and delivery of this Agreement 
+and the performance of any obligations contemplated hereunder.
+ 
+4.7. Legal Proceedings. There are no legal, administrative, arbitral or 
+other actions, claims, suits or proceedings or investigations instituted or 
+pending or, to the Knowledge of the Purchaser’s management, threatened 
+against the Purchaser, or against any property, asset, interest or right of 
+the Purchaser, that might reasonably be expected to have a Material Adverse 
+Effect or that might reasonably be expected to threaten or impede the 
+consummation of the transactions contemplated by this Agreement.
+ 
+4.8. Regulatory Compliance. To the best Knowledge of the Purchaser, it has 
+not violated any Requirement of Law, the violation of which would be 
+reasonably likely to have a Material Adverse Effect. Further, the Purchaser 
+is not an “investment company” or a company “controlled” by an “investment 
+company” within the meaning of the Investment Company Act of 1940.
+ 
+20
+------------------------------------------------------------------------
+ 
+4.9. Purchase for Investment. The Purchaser is not acquiring the Purchased 
+Securities with a view to or for sale in connection with any distribution 
+thereof within the meaning of the Securities Act.
+ 
+4.10. Disclosure. The representations and warranties of the Purchaser 
+contained in this Agreement and in any agreement, certificate, affidavit, 
+statutory declaration or other document delivered or given pursuant to this 
+Agreement are true and correct and do not contain any untrue statement of a 
+material fact or omit to state a material fact necessary to make the 
+statements contained in such representations and warranties not misleading 
+to the Company.
+ 
+4.11. Advice of Changes. Between the Effective Date and the Closing Date 
+the Purchaser shall promptly advise the Company in writing of any fact 
+which, if existing or known at the Effective Date, would have been required 
+to be set forth or disclosed in or pursuant to this Agreement or of any 
+fact which, if existing or known at the Effective Date, would have made any 
+of the representations untrue.
+ 
+4.12. Due Diligence. The Purchaser is an accredited investor within the 
+meaning of the Securities Act and its management is sophisticated and 
+experienced in transactions such as the Stock Purchase. The Purchaser has 
+commenced its Due Diligence Investigation and, as at the date of this 
+Agreement, but subject at all times to completion of its Due Diligence 
+Investigation in accordance with the provisions of Section 5.1.8 of this 
+Agreement, the Purchaser has no reason to believe that any of the 
+representations and warranties of the Company are misleading or inaccurate 
+in any material respect. The decision by the Purchaser to execute this 
+Agreement is based upon the representations and warranties of the Company 
+and Trussnet set forth in this Agreement being true and correct in all 
+material respects as at the date of this Agreement and as at the Closing 
+Date, and is not based upon any verbal statements or representations made 
+by any Person Affiliated with the Company or Trussnet. The obligations of 
+the Purchaser to acquire the Purchased Securities or otherwise consummate 
+the transactions contemplated by this Agreement is and shall at all times 
+be subject to completion by the Purchaser of a satisfactory Due Diligence 
+Investigation.
+ 
+4.13. Restricted Securities. The Purchaser hereby acknowledges that the 
+Purchased Securities shall constitute restricted securities within the 
+meaning of the Securities Act and that all certificates evidencing the 
+Purchased Securities shall contain a restrictive legend prohibiting 
+transfer without a legal opinion or the availability of an exemption under 
+the registration requirements of the Securities Act.
+ 
+4.14 Sale of Additional Debentures. The Purchaser acknowledges that between 
+the date of this Agreement and the Closing Date, the Company shall have the 
+right (but not the obligation) to issue and sell up to $45,000,000 of 
+Convertible Debentures (inclusive of all Convertible Debenture previously 
+issued), as contemplated by Section 3.8(a) above.
+ 
+21
+------------------------------------------------------------------------
+ 
+ARTICLE V
+ 
+CONDITIONS TO CLOSING
+ 
+5.1. The satisfaction of the following conditions shall be a condition 
+precedent to the obligation of the applicable Party to consummate the 
+transactions contemplated by this Agreement:
+ 
+5.1.1. Purchaser’s Shareholder Approval; Limited Redemptions. A condition 
+to the obligation of the Purchaser to consummate the transactions 
+contemplated by this Agreement shall be both:
+ 
+(a) the approval of this Agreement and all of the transactions contemplated 
+hereby and by the Chinacomm Agreements by the holders of a majority of the 
+issued and outstanding publicly traded ordinary or common shares of the 
+Purchaser that vote at an extraordinary general meeting of shareholders of 
+the Purchaser as required by the Purchaser’s governing documents and 
+applicable United States corporate and securities laws; and
+ 
+(b) the election by holders of not more than the holders of 5% of such 
+publicly traded ordinary or common shares of the Purchaser to seek 
+rescission or redemption of their investment in the Purchaser and a return 
+of their allocable portion of the Purchaser’s trust fund.
+ 
+The Purchaser has represented to the Company that, as a foreign private 
+issuer, it is not required to comply with the shareholder solicitation and 
+proxy requirements of Section 14 of the Securities Exchange Act of 1934 
+(the “Exchange Act”), however, the Purchaser has further represented that 
+it is the intention of the Purchaser to solicit its shareholders with proxy 
+materials in substantial compliance with Section 14 of the Exchange Act.
+ 
+5.1.2. Employment Agreement. A condition to the obligation of the Company 
+and Trussnet to consummate the transactions contemplated by this Agreement 
+shall be the execution of an Employment Agreement with George Alvarez, 
+President of the Company. Such agreement shall be in form and substance 
+acceptable to the Purchaser.
+ 
+5.1.3. Company, Trussnet and Chinacomm Parties Representations. A condition 
+to the obligation of the Purchaser to consummate the transactions 
+contemplated by this Agreement shall be that all representations and 
+warranties of the Company and Trussnet contained in this Agreement and in 
+the Chinacomm Agreements shall be or remain true and correct as of the 
+Closing Date and no Material Adverse Changes to the Company, Trussnet or 
+any of the Chinacomm Parties shall have occurred.
+ 
+5.1.4. Purchaser’s Representations. A condition to the obligation of the 
+Company and Trussnet to consummate the transactions contemplated by this 
+Agreement shall be that all representations and warranties of the Purchaser 
+contained in this Agreement shall be or remain true and correct as of the 
+Closing Date and there are no Material Adverse Changes to the Purchaser 
+occurring since the Effective Date.
+ 
+5.1.5 Consents. A condition to the obligation of the Purchaser to 
+consummate the transactions contemplated by this Agreement shall be the 
+receipt of all required third party consents and approvals, including, 
+without limitation, all consents and approvals of PRC Regulatory 
+Authorities. In addition, the Chinacomm Parties Consent Agreement shall 
+have been duly executed by all Chinacomm Parties and delivered to the 
+Purchaser.
+ 
+22
+------------------------------------------------------------------------
+ 
+5.1.6. Officers Certificate. A condition to the obligation of the Purchaser 
+to consummate the transactions contemplated by this Agreement shall be that 
+an executive officer of the Company and Trussnet shall deliver a 
+certificate at Closing to the effect, that to his Knowledge, the conditions 
+set forth in Section 5.1.3 and Section 5.1.5 have been satisfied. A 
+condition to the obligation of the Company and Trussnet to consummate the 
+transactions contemplated by this Agreement shall be that an executive 
+officer of the Purchaser shall deliver a certificate at Closing to the 
+effect, that to his Knowledge, the conditions set forth in Section 5.1.1 
+and Section 5.1.4 have been satisfied.
+ 
+5.1.6 WiMAX License Renewal. A condition to the obligation of the Purchaser 
+to consummate the transactions contemplated by this Agreement shall be that 
+on or before the Closing Date: (a) the MII or other applicable PRC 
+Regulatory Authority shall have renewed the WiMAX License previously 
+granted to Chinacomm for a minimum of not less than three (3) years, (b) 
+such WiMAX License, as so renewed shall provide, by its terms, that absent 
+a breach or default by Chinacomm which is not properly cured, the MII or 
+such other PRC Regulatory Authority shall automatically renew such WiMAX 
+License at the expiration of its term for additional successive periods of 
+not less than three years each, (c) such WiMAX License, as so renewed, 
+shall permit Chinacomm and the other Chinacomm Parties to install, operate 
+and maintain the Wireless Installations for the duration of such WiMAX 
+License and all renewal thereof, and (d) such WiMAX License, as so renewed, 
+contain such other terms and conditions as shall be acceptable to the 
+Purchaser (collectively, the “WiMAX License Renewal”).
+ 
+5.1.7 Financial Statements. A condition to the obligation of the Purchaser 
+to consummate the transactions contemplated by this Agreement shall be that 
+on or before the date of mailing its Proxy Statement to its shareholders, 
+as contemplated by Section 5.1.1 above, the Purchaser shall have received 
+all of the Financial Statements required under Regulation S-X as 
+promulgated under the Securities Act; all of which Financial Statements 
+shall be included in the Proxy Statement and all of which shall be 
+satisfactory to Purchaser in the exercise of its sole discretion.
+ 
+5.1.8 Due Diligence Investigation. A condition to the obligation of the 
+Purchaser to consummate the transactions contemplated by this Agreement 
+shall be that on or before the date of mailing its Proxy Statement to its 
+shareholders, as contemplated by Section 5.1.1 above, the Purchaser shall 
+have completed a satisfactory Due Diligence Investigation.
+ 
+5.1.9 Legal Opinions. A condition to the obligation of the Purchaser to 
+consummate the transactions contemplated by this Agreement shall be that on 
+or before the Closing Date, the Purchaser shall have received a favorable 
+legal opinion from:
+ 
+(a) Horwitz, Cron & Jasper, P.L.C., as to matters only with respect to the 
+Company, Trussnet, Gulfstream Capital, Chinacomm Cayman and Chinacomm 
+Shanghai that are set forth in Sections 3.1, 3.2, 3.3, 3.4(b), 3.6, 3.8 and 
+3.9 of this Agreement, provided, that such counsel may rely upon the 
+separate opinions of Cayman Island, Seychelles and Hong Kong legal counsel, 
+as applicable;
+ 
+23
+------------------------------------------------------------------------
+ 
+(b) Han Kun Law Offices, Beijing, PRC, counsel to Chinacomm, as to (i) 
+consummation of all of the Chinacomm transactions contemplated by the 
+Chinacomm Agreements, (ii) the obtaining by Chinacomm, Trussnet Gulfstream, 
+and Yunji of all required approvals and consents from all PRC Regulatory 
+Authorities having jurisdiction over such Chinacomm Parties; and (iii) the 
+validity and enforceability of the WiMAX License, as so renewed in 
+accordance with Section 5.1.6 above; and
+ 
+(c) Global Law Office, Beijing, PRC, counsel to Trussnet, as to the 
+validity and compliance with Applicable Laws in the PRC of the Chinacomm 
+Agreements and the VIE joint venture structure contemplated thereby, and 
+such other matters as the Purchaser may reasonably request.
+ 
+5.1.10 Purchaser Legal Opinion. A condition to the obligation of the 
+Company and Trussnet to consummate the transactions contemplated by this 
+Agreement shall be that on or before the Closing Date, the Company and 
+Trussnet shall have received a favorable legal opinion from Hodgson Russ 
+LLP, counsel to the Purchaser, with respect to the matters set forth in 
+Sections 4.1, 4.2, 4.4 and 4.5(b) of this Agreement provided, that such 
+counsel may rely upon a separate legal opinion of Maples and Calder, Cayman 
+Island counsel to the Purchaser.
+ 
+5.1.11 Purchaser Board Approval. A condition to the obligation of the 
+Company and Trussnet to consummate the transactions contemplated by this 
+Agreement shall be that on or before 5:00 P.M. (California time) on a date 
+which shall be not more than three (3) Business Days following the date of 
+execution of this Agreement by all of the Parties, the Purchaser or its 
+legal counsel shall have confirmed in writing to the Company and its 
+counsel by email or facsimile transmission that the board of directors of 
+the Purchaser shall have approved this Agreement and the transactions 
+contemplated hereby.
+ 
+5.1.12 Minimum Funding of the Company. A condition to the respective 
+obligations of each of the Purchaser and the Company to consummate the 
+transactions contemplated by this Agreement, shall be that on or before the 
+Closing Date, an aggregate of not less than $210,000,000 paid in cash or by 
+wire transfer of immediately available funds shall have been invested in 
+the Company, including, without limitation: (a) additional cash proceeds in 
+excess of the $105,000,000 Minimum Cash Purchase Price funded by the 
+Purchaser on the Closing Date as part of the aggregate Purchase Price for 
+the Purchased Securities, and/or (b) the net proceeds from the Additional 
+Investment, if funded on the Closing Date on terms and conditions that are 
+acceptable to the Parties hereto.
+ 
+5.1.13 The Merger Agreement. A condition to the obligation of the Purchaser 
+to consummate the transactions contemplated by this Agreement shall be that 
+on or before the Closing Date, each of the Company, the Purchaser and the 
+Company Principal Stockholders shall have executed and delivered the Merger 
+Agreement.
+ 
+24
+------------------------------------------------------------------------
+ 
+ARTICLE VI
+ 
+COVENANTS OF THE PARTIES
+ 
+6.1. Full Access. During the period from the Effective Date of this 
+Agreement to the Closing, the Company shall, upon reasonable notice, afford 
+to the Purchaser and its representatives (including, without limitation, 
+officers and employees of the Purchaser and counsel, accountants and other 
+professionals retained by the Purchaser), such access during normal 
+business hours to its books, records, properties and such other information 
+as the Purchaser may reasonably request for the purpose of conducting any 
+review or investigation reasonably related to the transactions contemplated 
+hereby, provided that such access shall not interfere with the normal 
+business operations of the Company.
+ 
+6.2. Disclosure Assistance. Each Party shall fully cooperate with the other 
+Party in the preparation of all documentation required to be filed with the 
+SEC (including all exhibits and amendments thereto) in connection with the 
+Stock Purchase and to provide all information requested by the SEC or any 
+other regulatory party. The Parties shall cooperate with one another in 
+making public announcements concerning the transactions contemplated 
+hereby; provided, that no such announcements shall be made by any Party 
+until the condition specified in Section 5.1.12 of this Agreement shall 
+have been satisfied.. The Purchaser hereby represents that it has commenced 
+the preparation of proxy materials to be delivered to its shareholders 
+seeking approval of the Stock Purchase.
+ 
+6.3. Confidentiality. Each Party agrees to keep in confidence any 
+confidential information learned about the other Party either in the course 
+of negotiating this Agreement or in conducting the due diligence 
+investigation contemplated hereunder, except for information which: (i) was 
+public knowledge at the time of the disclosure of such information; (ii) is 
+required to be disclosed by law; or (iii) comes into the receiving party’s 
+possession from a source which the receiving party reasonably believes owes 
+no duty of confidentiality to the disclosing party.
+ 
+6.4. Board of Directors. No later than five days prior to Closing, the 
+Purchaser and the Company shall agree upon a list of seven members to 
+comprise the Board of Directors of the Company as of the Closing Date, a 
+majority of which members of the Board of Directors shall be selected by or 
+otherwise acceptable to the Purchaser (the “Initial Board of Directors”). 
+The Purchaser and George Alvarez agree that they shall vote all Class A 
+Common Shares, Class B Common Shares and Series A Preferred Shares (if 
+any), in a manner which shall assure the continued election of each of the 
+Initial Board of Directors. In the event a member of the Initial Board of 
+Directors resigns or otherwise cannot continue to serve upon the Board of 
+Directors of the Company, then the approval of both the Purchaser and the 
+other holder(s) of the Class B Common Shares shall be required to appoint a 
+new member to the Board of Directors of the Company. The voting 
+requirements set forth in this Section 6.4 shall continue so long as the 
+Purchaser continues to own of record eighty percent (80%) of the aggregate 
+number of Class A Common Shares and Equivalents acquired under this 
+Agreement or ten (10) years, whichever occurs first. ill
+ 
+25
+------------------------------------------------------------------------
+ 
+6.5. Company Negative Covenants. So long as the Purchaser shall be the 
+beneficial owner of eighty percent (80%) of the aggregate number of Class A 
+Common Shares and Equivalents acquired by the Purchaser under this 
+Agreement, the Company shall not take any of the following actions without 
+the prior approval or consent of either (i) the Purchaser, or (ii) the 
+holders of at least 80% of the holders of the Class B Common Shares:
+ 
+6.5.1. issue, at an issuance price or conversion or exercise price per 
+Class A Share which shall be less than the $2.25 Per Share Price at which 
+the Purchaser acquired its Class A Shares (subject to adjustments for any 
+stock split or recapitalization of the Company), any Class A Common Shares, 
+Class B Common Shares, Series A Preferred Shares, or other securities of 
+the Company convertible into or exercisable for any Class A Shares;
+ 
+6.5.2. own less than 100% of the issued and outstanding equity securities 
+of Trussnet;
+ 
+6.5.3 acquire, for a total consideration in excess of $20,000,000, whether 
+through merger, stock purchase, asset purchase, tender offer or other 
+means, the stock, assets or operations of any other entity or business;
+ 
+6.5.4. cause or permit the Company, Trussnet or any of the Trussnet 
+Subsidiaries to incur any purchase money indebtedness, indebtedness for 
+borrowed money , enter into any leases that would be capital leases under 
+GAAP or guaranty the obligations of any other Person, including the 
+Chinacomm Parties (collectively, “Indebtedness”) where the aggregate of any 
+such Indebtedness shall at any time, individually or in the aggregate, 
+exceed $100 million;
+ 
+6.5.5. with the exception of the Chinacomm Agreements and the Employment 
+Agreement, enter into any agreement with an Affiliate;
+ 
+6.6.6 revise or amend any agreement with an Affiliate (including the terms 
+of the Chinacomm Agreements and the Employment Agreement; or
+ 
+6.6.7 until a date which shall be five (5) years from the Closing Date, any 
+vote or decision by the Company to effect a Sale of Control of the Company, 
+Trussnet or any Trussnet Subsidiaries.
+ 
+The negative covenants set forth in this Section 6.6 shall be of no further 
+force or effect upon the earlier to occur of (a) the consummation of the 
+Merger, or (b) in the event of a Sale of Control of the Purchaser to any 
+unaffiliated Person that is in the telecommunications industry and engaged 
+in activities that are, or could reasonably be expected to be, competitive 
+with the business of the Company, the Company Subsidiaries or Chinacomm.
+ 
+6.7. Adjustments to Purchaser’s Class B Shares. As of March 31, 2009 
+Maturity Date of the Purchaser Note, the Parties shall calculate the 
+aggregate number of Class A Common Shares and Equivalents owned by the 
+Purchaser and divide this by the aggregate number of Class A Common Shares 
+then issued and outstanding and the result thereof shall be the “
+Purchaser’s Class A Percentage Interest” as at such date (the “
+Post-Closing Class A Percentage Interest”). In the event the Purchaser’s 
+Post Closing Class A Percentage Interest shall thereafter decrease, whether 
+as a result of either (a) the issuance by the Company of additional Class A 
+Common Shares or other securities convertible into or exercisable for Class 
+A Common Shares (not subject to any anti-dilution right) or (b) the sale by 
+the Purchaser of any Class A Common Shares or Series A Preferred Shares, 
+then and in such event the Purchaser’s Post-Closing Class A Percentage 
+Interest shall be recalculated after giving effect to such issuance by the 
+Company or sale by the Purchaser and the same shall be deemed the “
+Adjusted Class A Percentage Interest”. The difference between the 
+Purchaser’s Post-Closing Class A Percentage Interest and the Adjusted Class 
+A Percentage Interest shall be referred to herein as the “Purchaser’s 
+Percentage Decrease”. Upon the occurrence of the Purchaser’s Percentage 
+Decrease, a number of Class B Common Shares held by the Purchaser as 
+determined by multiplying the aggregate number of Class B Common Shares 
+then owned by the Purchaser by the Purchaser’s Percentage Decrease shall be 
+transferred to the Class B Holders (other than the Purchaser) on a pro rata 
+basis.
+ 
+26
+------------------------------------------------------------------------
+ 
+The following is intended as an example by way of illustration only:
+ 
+    Assuming that at the expiration of the Post-Closing Option Period, the
+    Purchaser is the holder of 30,000,000 Class B Common Shares and
+    100,000,000 Class A Common Shares. Further, the aggregate issued and
+    outstanding Class A Common Shares of the Company is 220,000,000 Class A
+    Common Shares. The Purchaser’s Post-Closing Class A Percentage Interest
+    would then be 45.45% of all Class A Common Shares. The Purchaser
+    thereafter sells 20,000,000 of its Class A Common Shares, causing the
+    Purchaser’s Adjusted Class A Percentage Interest to be 36.36% (80.0
+    million divided by 220.0 million), representing a Purchaser’s
+    Percentage Decrease of 9.09%. As a result 2,727,000 of the Class B
+    Common Shares held by the Purchaser would be transferred to the other
+    Class B Holders on a pro rata basis, calculated as the 9.09%
+    Purchaser’s Percentage Decrease multiplied by 30,000,000.
+ 
+The foregoing provisions of this Section 6.7 shall terminate upon 
+consummation of the Merger.
+ 
+6.8 Conflicting Commitments.  
+ 
+(a) From the date of execution of this Agreement and through and including 
+such date which shall be the earlier to occur of (a) the five (5) Business 
+Days following the WiMAX License Renewal Date, or (b) the termination of 
+this Agreement by mutual agreement of the Parties prior to such WiMAX 
+Renewal Date, except and then only to the extent otherwise provided in 
+Section 4.14 of this Agreement, neither the Company, Trussnet, nor any 
+officer, director, shareholder, financial advisor or other Affiliate of any 
+of the Company or Trussnet, shall (i) enter into any legally binding 
+agreement, commitment, or other arrangement that would involve the issuance 
+and sale or transfer of any securities of the Company or of any of the 
+material assets or properties of the Company or Trussnet (whether by stock 
+sale, asset sale, merger, joint venture, consolidation or like 
+combination), or (ii) enter into any other legally binding arrangements or 
+agreements that could reasonably be expected to make the transactions 
+contemplated by this Agreement impossible or impracticable (each a “
+Conflicting Commitment”).
+ 
+(b) The Company shall notify the Purchaser by fax or email immediately upon 
+receipt of notice of Chinacomm having obtained the WiMAX License Renewal. 
+Notwithstanding the provisions of Section 6.8(a) above, if the Purchaser 
+then advises the Company in writing that (i) it has received a term sheet 
+or other proposals satisfactory to the Purchaser from one or more Persons 
+for a minimum amount of the additional financing contemplated by Section 
+5.1.12 of this Agreement, and (ii) it will hold its stockholders’ meeting 
+within the next five (5) Business Days, the Company will not directly or 
+indirectly enter into any such Conflicting Commitment during such five (5) 
+Business Day period. In addition, if the Purchaser shall obtain the 
+requisite shareholder approval contemplated by Section 5.1.1 of this 
+Agreement, the Company shall not thereafter enter into any Conflicting 
+Commitment.
+ 
+27
+------------------------------------------------------------------------
+ 
+6.9 Use of Proceeds. The aggregate proceeds payable by the Purchaser to the 
+Company in respect of the Purchase Price, shall be used by the Company 
+solely for the purchase of providing financing to enable ChinaComm or its 
+Affiliates to construct, install and operate the WiMAX Installations in up 
+to 29 cities in China pursuant to the WiMAX License. The application of 
+such Purchase Price shall include the purchase of equipment and other 
+capital assets being leased or subleased to China Comm. The Company shall 
+provide to the Purchaser a detailed budget as to the application of such 
+Purchase Price and shall arrange, through the Chinacomm Agreements, to 
+insure in a manner reasonably acceptable to Purchaser that such proceeds 
+are being used as intended by the Parties and the budget.
+ 
+6.10 Participation in Future Financings. 
+ 
+(a) In the event that, on any on or more occasions during the five (5) year 
+period of time following the Closing Date, the Company shall elect to issue 
+and sell for cash any additional securities of the Company (each a “
+Financing”) and shall receive any proposals for such purchases and 
+Financing(s) from any other Person (each, a “Financing Proposal”), it shall 
+promptly provide to the Purchaser a full and complete copy of each such 
+Financing Proposal and each of the amendments or modifications thereto The 
+Purchaser shall have the right, but not the obligation, upon notice to the 
+Company and such Person providing the Financing Proposal, to participate in 
+such additional Financing (a) initially, in an amount equal to up to one 
+hundred percent (100%) of the first $200.0 million dollar amount of 
+securities to be issued in any one or more of such proposed Financing(s), 
+and (b) thereafter,. in an amount equal to up to fifty percent (50%) the 
+aggregate dollar amount of securities in excess of $200.0 million that are 
+to be issued in any such proposed Financing; in each case, all upon the 
+same terms and conditions set forth in the applicable Financing Proposal 
+and/or in any definitive financing documentation relating to such 
+Financing.
+ 
+(b) To facilitate the foregoing, the Company shall provide the Purchaser or 
+its representatives with access to the Person or Person providing such 
+Financing Proposal and full and complete copies of all legal and related 
+documents issued by the Company or such other Person(s) in connection 
+therewith.
+ 
+(c) The foregoing right to participate in future financings shall not be 
+deemed to be or construed as a “right of first refusal” granted to the 
+Purchaser.
+ 
+(d) Notwithstanding the foregoing, the provisions of this Section 6.10 
+shall no longer be applicable upon consummation of the Merger.
+ 
+6.11 Lock-Up Agreements. On the Closing Date, each of the Purchaser and 
+George Alvarez shall enter into agreements with the Company (the “Lockup 
+Agreements”) pursuant to which such Person shall each agree not to effect 
+any public sale or distribution of any of their Class A Common Shares or 
+Series A Preferred Shares for a period equal to twelve (12) months 
+following the Closing Date (the “Restricted Period”).
+ 
+28
+------------------------------------------------------------------------
+
+6.12 Covenant to Vote. By their execution of this Agreement, each of the 
+Company Principal Stockholders do hereby irrevocably and unconditionally 
+agree to vote all of their shares of Company Class A Common Shares and 
+Company Class B Common Shares:
+
+(a) IN FAVOR of the consummation of all of the transactions contemplated by 
+this Agreement, subject to satisfaction of all conditions to the 
+obligations of the Company and Trussnet to consummate the transactions 
+contemplated hereby; and
+
+(b) following the acquisition of the Purchased Securities pursuant to this 
+Agreement, IN FAVOR of consummation of the Merger and all of the other 
+transactions contemplated by the Merger Agreement.
+
+6.13 Securities Filings. Each of the Parties hereto to hereby covenant and 
+agree to mutually cooperate with each other and use their individual and 
+collective best efforts to (a) expeditiously and timely file with the SEC 
+all Form 10-K Annual Reports, Form 20-F Annual Reports, Form 8-K and Form 
+6-K Interim Reports, Registration Statement on Form S-4 or F-4, and 
+amendments thereto, all Schedule 14-C and 14-F Information Statements, all 
+Schedule 13D filings, and all other documents required to be filed with the 
+SEC, and (b) to promptly respond to all comments, if any, received from the 
+SEC, in order to (i) consummate the transactions contemplated by this 
+Agreement, and (ii) consummate the Merger pursuant to the Merger Agreement.
+ 
+ARTICLE VII
+ 
+ADDITIONAL RIGHTS AND OBLIGATIONS
+ 
+7.1. Termination. This Agreement may be terminated and the transactions 
+contemplated herein may be abandoned at any time prior to the Closing:
+ 
+(a) by mutual consent of the Purchaser and the Company;
+ 
+(b) by the Purchaser or the Company, if the Purchaser board approval 
+condition specified in Section 5.1.11 hereof shall not have been satisfied 
+by 5:00 P.M. (California time) on as date which shall be three (3) Business 
+Days following the date of execution of this Agreement by all Parties 
+hereto;
+ 
+(c) by the Purchaser, in the event the results of its Due Diligence 
+Investigation shall not be satisfactory in the sole judgment and discretion 
+of the Purchaser;
+ 
+(c) by either the Purchaser or the Company, if the additional funding 
+condition specified in Section 5.1.12 hereof shall not have been satisfied 
+by the Closing Date;
+ 
+29
+------------------------------------------------------------------------
+ 
+(d) by the Purchaser, in the event of the breach of any material 
+representation and warranty of the Company and Trussnet contained herein or 
+in the Merger Agreement, or the failure of the Company or Trussnet to 
+perform all material obligations and conditions on their part to be 
+performed under this Agreement on or before the Closing Date;
+ 
+(e) by the Company, in the event of the breach of any material 
+representation and warranty of the Purchaser contained herein or in the 
+Merger Agreement, or the failure of the Purchaser to perform all material 
+obligations and conditions on its part to be performed under this Agreement 
+on or before the Closing Date;
+ 
+(f) by either the Purchaser or by the Company upon the failure of the 
+satisfaction of a condition the obligations of the other Party or Parties 
+to consummate the transactions contemplated hereby, as set forth in 
+Section 5.1 herein on or prior to the Outside Closing Date; provided, 
+however, that a Party seeking to so terminate this Agreement pursuant to 
+this Section 7.1(g) shall have made a good faith effort to satisfy any 
+condition precedent on its part to be performed;
+ 
+(g) by the Company, in the event the transactions contemplated by this 
+Agreement have not been consummated on a date which shall be five (5) 
+Business Days following the WiMAX License Renewal Date (the “Outside 
+Closing Date”); provided, however, that the Company reserves the right to 
+extend the Outside Closing Date to a date which shall be twenty (20) 
+Business Days following the WiMAX License Renewal Date, or such later date 
+as the Parties hereto may mutually agree.
+ 
+A Party terminating this Agreement pursuant to this Section shall give 
+written notice thereof to the other Party hereto, whereupon this Agreement 
+shall terminate and the transactions contemplated hereby shall be abandoned 
+without further action by any Party; provided, however, that if such 
+termination is the result of a breach of this Agreement, nothing herein 
+shall affect the non-breaching Party’s right to damages on account of such 
+other Party’s breach.
+ 
+7.2 Notwithstanding the provisions of Section 7.1 above, or any other 
+provisions contained in this Agreement, any Exhibit or schedule hereto or 
+in any of the Chinacomm Agreements, each of the Company and Trussnet, on 
+behalf of themselves and each of their Affiliates, does hereby irrevocably 
+and unconditionally covenant and agree that they shall not have any right, 
+title, interest or claim of any kind (a “Claim”) in or to any monies in the 
+$115,000,000 Trust Fund maintained by the Purchaser for the benefit of its 
+public shareholders. Accordingly, each of the Company and Trussnet, on 
+behalf of themselves and each of their Affiliates, hereby waives any Claim 
+that it or they may have in the future as a result of, or arising out of, 
+this Agreement or any of the transactions contemplated hereby, and agree 
+that none of them shall seek recourse against such trust fund for any 
+reason whatsoever.
+ 
+7.3. Expenses. Each of the Parties hereto shall pay such Party's 
+Transaction Express in connection with this Agreement, other than as a 
+result of the breach hereof by any other party hereto.
+ 
+7.4. Brokerage and Banking Commissions. The Purchaser shall be responsible 
+for any and all fees of Maxim Group LLC, Canaccord Capital Corp. and its 
+subsidiaries and Roth Capital Partners LLC arising from transactions 
+contemplated by this Agreement and the Merger. The Company acknowledges and 
+agrees that it shall be responsible for any and all fees of Knight Capital 
+Partners, Inc. arising from the transactions contemplated by this Agreement 
+and the Merger. Except for the foregoing, each of the Purchaser and the 
+Company represents that there are no brokerage or similar fees to be paid 
+in connection with the Stock Purchase and the Merger.
+ 
+30
+------------------------------------------------------------------------
+ 
+ARTICLE VIII
+ 
+ADDITIONAL MISCELLANEOUS PROVISIONS
+ 
+8.1. Executed Counterparts. This Agreement may be executed in any number of 
+original, fax, electronic, or copied counterparts, and all counterparts 
+shall be considered together as one agreement.
+ 
+8.2. Successors and Assigns. Except as expressly provided in this 
+Agreement, each and all of the covenants, terms, provisions, conditions and 
+agreements herein contained shall be binding upon and shall inure to the 
+benefit of the successors and assigns of the Parties hereto.
+ 
+8.3. Governing Law. This Agreement shall be governed by the laws of the 
+State of New York, without giving effect to any choice or conflict of law 
+provision or rule (whether of the State of New York or any other 
+jurisdiction) that would cause the application of the laws of any 
+jurisdiction other than the State of New York. In the event of a dispute 
+related to or arising from the terms of this Agreement, such dispute shall 
+be resolved before the American Arbitration Association in New York City, 
+New York.
+ 
+8.4. Amendment. This Agreement may be amended or modified only by a writing 
+signed by all Parties.
+ 
+8.5. Waiver. No failure by any Party to insist on the strict performance of 
+any covenant, duty, agreement, or condition of this Agreement or to 
+exercise any right or remedy on a breach shall constitute a waiver of any 
+such breach or of any other covenant, duty, agreement, or condition. No 
+course of dealing between the Parties, nor any failure to exercise, nor any 
+delay in exercising, any right, power or privilege of either Party shall 
+operate as a waiver thereof, nor shall any single or partial exercise of 
+any right, power, or privilege hereunder preclude any other or further 
+exercise thereof or the exercise of any other right, power or privilege.
+ 
+8.6. Assignability. This Agreement is not assignable by either Party 
+without the expressed written consent of all Parties.
+ 
+8.7. Notices. All notices, requests and demands hereunder shall be in 
+writing and delivered by hand, by facsimile transmission, by E-Mail, by 
+mail, by telegram, or by recognized commercial over-night delivery service 
+(such as Federal Express, UPS, or DHL), and shall be deemed given: (a) if 
+by hand delivery, upon such delivery; (b) if by facsimile transmission, 
+upon telephone confirmation of receipt of same; (c) if by E-Mail, upon 
+confirmation of receipt of same; (d) if by mail, forty-eight (48) hours 
+after deposit in the United States mail, first class, registered or 
+certified mail, postage prepaid; (e) if by telegram, upon telephone 
+confirmation of receipt of same; or (f) if by recognized commercial 
+over-night delivery service, upon such delivery.
+ 
+31
+------------------------------------------------------------------------
+ 
+If to the Purchaser:
+Asia Special Situation Acquisitions Corp.
+  	
+c/o M & C Corporate Services Limited
+  	
+P.O. Box 309GT, Ugland House
+  	
+South Church Street
+  	
+George Town, Grand Cayman
+  	
+Attention: Gary Hirst, Esq.
+  	
+Telephone:
+  	
+Facsimile:
+  	
+E-Mail: gary@axiat.com
+  	 
+With a copy to:
+Stephen A. Weiss, Esq.
+  	
+HodgsonRuss
+  	
+1540 Broadway, 24th Floor
+  	
+New York, New York 10036-4039
+  	
+Telephone: (646) 218-7606
+  	
+Facsimile: (212) 751-0928
+  	
+E-Mail: sweiss@hodgsonruss.com
+  	 
+If to the Company:
+China Tel Group, Inc.
+  	
+8105 Irvine Center Drive, Suite 800
+  	
+Irvine, California 92618
+  	
+Attention: George Alvarez
+  	
+Telephone: (949) 453-1775
+  	
+Facsimile: (949) 453-1822
+  	
+E-Mail: galvarez@trussnet.net
+  	 
+With a copy to:
+Lawrence W. Horwitz, Esq.
+  	
+HORWITZ, CRON & JASPER, P.L.C.
+  	
+Four Venture Plaza Suite 390
+  	
+Irvine, California 92618
+  	
+Telephone: (949) 450-4942
+  	
+Facsimile: (949) 453-8774
+  	
+E-Mail: lhorwitz@hclaw.biz
+
+8.8. Recitals. The facts recited under Recitals above, are hereby 
+conclusively presumed to be true as between and affecting the Parties.
+ 
+8.9. Consents, Approvals, and Discretion. Except as herein expressly 
+provided to the contrary, whenever this Agreement requires consent or 
+approval to be given by a Party, or a Party must or may exercise 
+discretion, the Parties agree that such consent or approval shall not be 
+unreasonably withheld, conditioned, or delayed, and such discretion shall 
+be reasonably exercised. Except as otherwise provided herein, if no 
+response to a consent or request for approval is provided within ten (10) 
+days from the receipt of the request, then the consent or approval shall be 
+presumed to have been given.
+ 
+32
+------------------------------------------------------------------------
+ 
+8.10. No Third Party Beneficiaries. This Agreement has been entered into 
+solely by and between the Parties, solely for their benefit. There is no 
+intent by either Party to create or establish a third party beneficiary to 
+this Agreement, and no such third party shall have any right to enforce any 
+right, claim, or cause of action created or established under this 
+Agreement.
+ 
+8.11. Best Efforts. The Parties shall use and exercise their best efforts, 
+taking all reasonable, ordinary and necessary measures to ensure an orderly 
+and smooth relationship under this Agreement, and further agree to work 
+together and negotiate in good faith to resolve any differences or problems 
+which may arise in the future.
+ 
+8.12 Entire Agreement. This Agreement and the Merger Agreement, together 
+with the Exhibits hereto and thereto represents the entire agreement and 
+understanding of the Parties with respect to the subject matter hereof and 
+thereof, and supercedes in their entirety all other agreements and 
+understandings, written or oral, including, without limitation, the Prior 
+Agreement which shall no longer be of any force or effect.
+ 
+[The remainder of this page intentionally left blank. Signature page to 
+follow.]
+ 
+33
+------------------------------------------------------------------------
+ 
+
+IN WITNESS WHEREOF, this Agreement has been duly executed by the Parties, 
+and shall be effective as of and on the Effective Date.
+  	  	  	 
+PURCHASER:
+  	  	
+COMPANY:
+  	  	  	 
+ASIA SPECIAL SITUATION ACQUISITION CORP., a Cayman Island corporation
+  	  	
+CHINA TEL GROUP, INC., a Nevada Company
+ 
+ 
+  	  	 
+By    /s/ Gary T. Hirst 	  	  	
+By   /s/ George Alvarez
+  ----------------------------------------------------------------------
+  Dr. Gary T. Hirst, President
+  	  	
+  ----------------------------------------------------------------------
+  George Alvarez, President
+  	  	  	 
+Dated: August 6, 2008
+  	  	
+Dated: August 6, 2008
+ 
+  	  	  	 
+TRUSSNET:
+  	  	
+ 
+  	  	  	 
+TRUSSNET USA, INC, a Nevada Company
+  	  	
+ 
+ 
+  	  	 
+By    /s/ George Alvarez
+  	  	 
+  ----------------------------------------------------------------------
+  George Alvarez, President
+  	  	
+   
+  	  	  	 
+Dated August 6, 2008
+  	  	 
+
+34
+------------------------------------------------------------------------
+ 
+ 
+COMPANY PRINCIPAL STOCKHOLDERS:
+
+With respect to the provisions of Section 6.4, Section 6.5, Section 6.12 
+and Section 7.2 only:
+  	  	  	 
+  	  	
+WESTMOORE INVESTMENTS, L.P.
+ 
+ 
+  	  	 
+/s/ Mario Alvarez
+  	  	
+By   /s/ Matthew Jennings
+------------------------------------------------------------------------
+MARIO ALVAREZ 
+  	  	
+  ----------------------------------------------------------------------
+ 
+  	  	  	 
+ALVAREZ IRR TRUST 	  	  	
+WESTMOORE MANAGEMENT, LLC
+ 
+ 
+  	  	 
+By:  /s/ Mario Alvarez
+  	  	
+By:  /s/ Matthew Jennings
+  ----------------------------------------------------------------------
+  Mario Alvarez, Trustee
+  	  	
+  ----------------------------------------------------------------------
+ 
+  	  	  	 
+WESTMOORE CAPITAL GROUP SERIES A LLC 	  	  	
+WESTMOORE CAPITAL GROUP SERIES B LLC
+ 
+ 
+  	  	 
+By:  /s/ Matthew Jennings
+  	  	
+BY:  /s/ Matthew Jennings
+  ----------------------------------------------------------------------
+   
+  	  	
+  ----------------------------------------------------------------------
+ 
+35
+------------------------------------------------------------------------
+ 
+EXHIBIT E
+
+DESCRIPTION OF CLASS B COMMON SHARES OF
+CHINA TEL GROUP INC.
+ 
+The preferences, voting powers, qualifications and special or relative 
+rights or privileges of China Tel Group, Inc. (the "Company") shares of 
+Class B Common Shares, $0.0001 par value per share (the "Class B Common"), 
+shall be as follows:
+ 
+    1. Authorized Amount.
+ 
+There are hereby authorized 200,000,000 shares of Series B Common Stock, 
+subject to this Description. The authorized shares of Class B Common Shares 
+shall not be increased unless the holders of Eighty-Five Percent (85%) of 
+the issued and outstanding shares of Class B Common Shares vote in favor of 
+increasing the number of authorized Class B Common Shares.
+ 
+    2. Voting.
+ 
+Each holder of a share of Class B Common Shares shall have the right to 
+cast ten (10) votes for each share of Class B Common Shares held by such 
+shareholder at any duly called meeting of shareholders or pursuant to a 
+written consent of shareholders
+ 
+    3. No Economic Interest or Right to Dividends.
+ 
+(a) The Class B Common Shares shall have no economic interest in the assets 
+or properties of the Company, nor shall the holders of any shares of Class 
+B Common Shares be entitled to receive any consideration, or share in the 
+receipt of any consideration, available to other holders of securities of 
+the Company in connection with (i) the sale or transfer of any securities 
+or assets of the Company (whether through stock sale, asset sale, merger, 
+tender offer, consolidation or like combination), or (ii) the transfer of 
+any shares of Class B Common Shares to any other Person.
+ 
+(b) The holders of Class B Common Shares shall not be entitled to the 
+payment of any dividends payable by the Company, in cash or in kind.
+ 
+4. No Rights on Liquidation.
+ 
+In the event of any liquidation, dissolution or winding up of the Company, 
+whether voluntary or involuntary, the holders of shares of Class B Common 
+Shares shall not be entitled to receive any cash, cash-in-kind or assets 
+whatsoever of the Company.
+ 
+5. Conversion.
+ 
+The Class B Common Shares shall have no rights to convert into any other 
+authorized shares of the Company.
+ 
+Exhibit E
+Page 1 of 2
+------------------------------------------------------------------------
+ 
+6. Transferability.
+ 
+The consent of Eighty-One Percent (81%) of the issued and outstanding 
+shares of Class B Common Shares shall be required for any holder of Class B 
+Common Shares to sell, assign, or transfer any shares of Class B Common 
+Shares to any third party, or to grant proxies or voting rights with 
+respect to any shares of Class B Common Shares, except for any proxies 
+granted to George Alvarez relating to the Class B Common Shares.
+ 
+    7. Redemption Rights.
+ 
+The Company shall redeem the Class B Common Shares on July 1, 2023 (the 
+“Redemption Date”). On the Redemption Date each share of Class B Common 
+Shares shall be redeemed by the Company at the par value ($0.0001) of the 
+shares of Class B Common Shares.
+ 
+Exhibit E
+Page 2 of 2
+------------------------------------------------------------------------
+ 
+EXHIBIT F
+ 
+DESCRIPTION OF SERIES A PREFERRED SHARES OF
+CHINA TEL GROUP INC.
+ 
+The preferences, voting powers, qualifications and special or relative 
+rights or privileges of China Tel Group, Inc. (the "Company") shares of 
+Series A Preferred Shares, $0.0001 par value per share (the "Series A 
+Preferred Shares"), shall be as follows:
+ 
+1. Authorized Amount.
+ 
+There are hereby authorized 25,000,000 shares of Series A Preferred Shares, 
+subject to this Description. The Series A Preferred shall have a $0.0001 
+par value per share and a $10.00 liquidation or stated value per share (the 
+“Stated Value”).
+ 
+    2. Voting.
+ 
+Each share of Series A Preferred Shares shall have the right to cast votes 
+at any duly called meeting of shareholders or pursuant to a written consent 
+of shareholders. Each share of Series A Preferred Shares shall be entitled 
+to vote as if the Series A Preferred Shares were converted into Class A 
+Common Shares in accordance with Section 5 herein.
+ 
+3. Dividends.
+ 
+The holders of Series A Preferred Shares shall be entitled to receive a 
+quarterly cash dividend in respect of the Stated Value of each share of 
+Series A Preferred held (payable in equal quarterly amounts) as shall be 
+equal to the same rate of any annual interest or annual dividends payable 
+by Asia Special Situation Acquisition Corp. (“ASSAC”) in connection with 
+obtaining of up to $165,000,000 of additional financing through the sale by 
+ASSAC of notes, debentures or preferred shares of ASSAC (the “ASSAC Senior 
+Securities”), as contemplated by that certain Amended and Restated Stock 
+Purchase Agreement dated August 6, 2008 among the Company, Trussnet USA, 
+Inc. and ASSAC (the “Stock Purchase Agreement”), to which this Description 
+is an exhibit. The dividend shall be paid by the Company to the holders of 
+the Series A Preferred Shares on September 30, December 31, March 31 and 
+June 30 each year. The dividend shall be cumulative in the event the 
+Company is without sufficient funds to pay the dividend when due. 
+Notwithstanding the foregoing, unless otherwise agreed to by the Company, 
+the annual dividend on the Series A Preferred Shares shall not be in excess 
+of 10% per annum.
+ 
+4. Rights on Liquidation.
+ 
+In the event of any liquidation, dissolution or winding up of the Company, 
+whether voluntary or involuntary, the holders of shares of Series A 
+Preferred Shares shall be entitled to a liquidation preference over the 
+holders of all classes or series of the common stock of the Company in the 
+sum of par value ($10.00) for each share of Series A Preferred Shares 
+issued and outstanding plus any unpaid or accrued dividends owing to the 
+holders of the Series A Preferred Shares.
+ 
+------------------------------------------------------------------------
+ 
+    5. Conversion.
+ 
+(a) The Series A Preferred Shares shall be convertible at the option of the 
+holder, unless otherwise set forth herein. In the event of a conversion, 
+each Series A Preferred Shares share shall convert into shares of Class A 
+Common Shares of the Company at the Conversion Rate. The Conversion Rate 
+per share of Series A Preferred shall be $10.00 divided by the $2.25 
+Purchase Price per share of Class A Common Shares paid by ASSAC pursuant to 
+the Stock Purchase Agreement, to which this Description is an Exhibit (the 
+"Conversion Rate").
+ 
+(b) Subject at all times to ASSAC’s right to retain shares of Series A 
+Preferred in aggregate dollar Stated Amount equal to the then aggregate 
+outstanding principal or stated amount of any ASSAC Senior Securities, all 
+or an applicable portion of the Series A Preferred Shares shares shall 
+automatically convert into shares of CHTL Class A Common Shares at the 
+Conversion Rate, in the event that:
+ 
+(i) the weighted average trading price of CHTL Class A Common Shares 
+exceeds five (5) times the per share Purchase Price of the Class A Common 
+Shares for twenty (20) consecutive trading days;
+ 
+(ii) the Class A Common Shares of the Company is traded on the NASDAQ Stock 
+Exchange, the American Stock Exchange or the New York Stock Exchange;
+ 
+(iii) the Class A Common Shares into which any shares of Series A Preferred 
+Shares shall be converted have been registered for resale under the 
+Securities Act of 1933, as amended, or may be immediately sold without 
+volume or other limitations pursuant to Rule 144, as promulgated under the 
+Securities Act; and
+ 
+(iv) the average weekly trading volume of the CHTL Class A Common Shares 
+for four consecutive weeks shall be not less than 1,000,000 shares per 
+week.
+ 
+(c) Anti-Dilution Provisions. In the event the Company shall reclassifies 
+its Class A Common Shares or effect any split of or otherwise recapitalizes 
+its Class A Common Shares, the number of shares into which the holder of 
+Series A Preferred convert shall be adjusted, so that the aggregate 
+outstanding shares before and after such transaction shall have the same 
+value as before the transaction.
+ 
+(d) Sale of Control.  In the event of a Sale of Control, as defined in the 
+Stock Purchase Agreement, each share of Series A Preferred Shares shall 
+automatically convert into shares of Class A Common Shares of the Company 
+in accordance with this Description.
+
+(e) Definition. The term "Class A Common Shares" as used in this Section 
+shall mean the shares of the Class A Common Shares of the Company, 
+authorized at the date of the initial issuance of the Series A Preferred 
+Shares or, in case of a reclassification or exchange of such Class A Common 
+Shares, shares of the stock into or for which such Class A Common Shares 
+shall be reclassified or exchanged and all provisions of this Section 5 
+shall be applied appropriately thereto and to any stock resulting from any 
+subsequent reclassification or exchange thereof.
+ 
+6. Transferability.
+ 
+The shares of Series A Preferred Shares shall not be sold, transferred or 
+encumbered unless and until converted into Class A Common Shares.
+ 
+     7. Redemption of Series A Preferred Shares.
+ 
+(a) Optional Redemption Upon not less than 90 days prior written notice to 
+the holders, the Company shall have the right (but not the obligation) to 
+redeem the Series A Preferred Shares shares on a date which shall be on or 
+after seven (7) years after the issuance of the Series A Preferred Shares 
+shares (the “Optional Redemption Date”). On the Optional Redemption Date, 
+unless previously converted by the holder into Class A Common Shares, each 
+share of Series A Preferred Shares may be redeemed by the Company at a cash 
+price of Ten Dollars ($10.00) plus any accumulated dividend owing to the 
+holders of the Series A Preferred Shares by the Company as of the Optional 
+Redemption Date.
+ 
+------------------------------------------------------------------------
+ 
+(b) Mandatory Redemption. It is understood that ASSAC shall have issued the 
+ASSAC Senior Securities in order to obtain the financing necessary to 
+acquire the Series A Preferred Shares. The terms and conditions of the 
+ASSAC Senior Securities shall have been disclosed to and approved by the 
+Company prior to the issuance of the ASSAC Senior Securities. The Company 
+shall be obligated to redeem the Series A Preferred Shares shares on the 
+date and in the amount that ASSAC is required to redeem, payoff or 
+otherwise liquidate all or a portion of the ASSAC Senior Securities. Upon a 
+determination of the exact terms of the ASSAC Senior Securities, the 
+Company shall amend this Description to the satisfaction of ASSAC in order 
+to provide assurances to ASSAC that the Company shall be obligated to 
+provide funds to ASSAC for the purpose of ASSAC discharging its obligations 
+under the ASSAC Senior Securities. 
+ 
+------------------------------------------------------------------------
+ 
