@@ -1,0 +1,2266 @@
+ EX-10 8 filename8.htm
+Exhibit 10.7
+ 
+[LOGO] 	  	
+
+BRITISH AMERICAN TOBACCO P.L.C.
+ 
+
+ 
+
+RULES
+
+of the
+
+BRITISH AMERICAN TOBACCO
+
+2016 LONG TERM INCENTIVE PLAN
+
+ 
+
+Board approval on 23 February 2016
+Shareholder approval at the 2016 AGM (27 April 2016)
+
+Herbert Smith Freehills LLP
+
+HSF Ref: 30889176
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+CONTENTS
+ 
+Clause 	  	Heading 	   	Page 	 
+ 1.
+  	INTERPRETATION AND CONSTRUCTION 	   	  	2 	 
+ 2.
+  	PLAN LIMITS 	   	  	4 	 
+ 3.
+  	AWARDS 	   	  	5 	 
+ 4.
+  	AWARDS ARE NON-TRANSFERABLE 	   	  	6 	 
+ 5.
+  	PERFORMANCE CONDITION 	   	  	7 	 
+ 6.
+  	ADDITIONAL TERMS SPECIFIC TO FORFEITABLE SHARE AWARDS 	   	  	7 	 
+ 7.
+  	VESTING 	   	  	8 	 
+ 8.
+  	CESSATION OF OFFICE OR EMPLOYMENT 	   	  	9 	 
+ 9.
+  	CORPORATE ACTIONS 	   	  	10 	 
+ 10.
+  	OPTIONS 	   	  	13 	 
+ 11.
+  	DIVIDEND EQUIVALENT 	   	  	13 	 
+ 12.
+  	CASH ALTERNATIVE  OPTIONS AND CONDITIONAL AWARDS 	   	  	14 	 
+ 13.
+  	TAX LIABILITY 	   	  	14 	 
+ 14.
+  	VESTED SHARE ACCOUNTS 	   	  	15 	 
+ 15.
+  	CLAW-BACK 	   	  	15 	 
+ 16.
+  	VARIATION OF CAPITAL 	   	  	16 	 
+ 17.
+  	ADMINISTRATION 	   	  	16 	 
+ 18.
+  	AMENDMENTS 	   	  	17 	 
+ 19.
+  	DATA PROTECTION 	   	  	17 	 
+ 20.
+  	GENERAL 	   	  	18 	 
+ APPENDIX 1 : OPERATION OF CLAW-BACK
+   	  	20 	 
+ APPENDIX 2 : AWARDS GRANTED TO US TAXPAYERS
+   	  	22 	 
+ SCHEDULE 1 : PERFORMANCE CONDITIONS
+   	  	23 	 
+ 
+1
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+RULES OF THE BRITISH AMERICAN TOBACCO P.L.C. LONG TERM INCENTIVE PLAN
+ 
+1. 	INTERPRETATION AND CONSTRUCTION
+ 
+1.1 	For the purposes of the Plan, the following terms shall have the 
+meaning indicated below unless the context clearly indicates otherwise:
+
+Award means one of a Conditional Award, a Forfeitable Share Award or an 
+Option;
+
+Board means the board of directors of the Company or committee duly 
+authorised by the board of directors or, following any Corporate Action, 
+the Board or duly authorised committee as constituted immediately prior to 
+the Corporate Action;
+
+Claw-back means a recovery of value by the Company from a Participant in 
+accordance with the provisions of Rule 15 (Claw-back) and Appendix 1 (
+Operation of Claw-back);
+
+Company means British American Tobacco p.l.c. (registered in England and 
+Wales under No. 3407696);
+
+Conditional Award means a right to receive a transfer of Shares following 
+vesting of the Award;
+
+Control has the meaning given by Section 995 of the Income Tax Act 2007;
+
+Corporate Action means any of the events referred to in:
+ 
+  	(A) 	Rules 9.1 to 9.5 (but excluding a Reorganisation as defined in Rule 
+9.8); or
+ 
+  	(B) 	if the Board determines that Awards will vest pursuant to such 
+Rule, Rule 9.6;
+
+Cross-Border Merger means a merger pursuant to the implementation in any 
+relevant jurisdiction of Directive 2005/56/EC (on cross-border mergers of 
+limited liability companies);
+
+Dealing Day means any day on which the London Stock Exchange is open for 
+trading;
+
+Dealing Restriction means any restriction on the dealing in shares, 
+whether direct or indirect, pursuant to any law, regulation, code or 
+enactment in England and Wales and/or the jurisdiction in which the 
+Participant is resident, or any share dealing code of the Company;
+
+Eligible Employee means an employee (including an executive director) of 
+any Group Company;
+
+Employees Share Scheme has the meaning given by Section 1166 of the 
+Companies Act 2006;
+
+Financial Year means the financial year of the Company within the meaning 
+of Section 390 of the Companies Act 2006;
+
+Forfeitable Share Award means a beneficial interest in Shares, legal 
+title to which is held by the Nominee subject to the restrictions set out 
+in Rule 6 (Additional terms applicable to Forfeitable Share Awards) until, 
+and which shall be transferred to the Participant following, the vesting of 
+the Award;
+
+Grant Date means the date on which a Conditional Award or Option is 
+granted, or the date on which the Board determines that a Forfeitable Share 
+Award shall be granted;
+
+Group means the Company and any company which from time to time is a 
+subsidiary of the Company, within the meaning of section 1159 of the 
+Companies Act 2006 (each a Group Company);
+
+Market Value means, in relation to a Share on any day, the mid-closing 
+price of a Share on such day (as derived from the Daily Official List of 
+the London Stock Exchange);
+
+Nominee means any person appointed by the Company from time to time to 
+hold legal title to the Shares subject to a Forfeitable Share Award on 
+behalf of the Participant in accordance with these Rules (which may be the 
+trustee of a Trust acting as a nominee);
+ 
+2
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+Normal Vesting Date means:
+ 
+  	(A)    subject 	to (B):
+ 
+  	(i) 	where the Board determines that an extended vesting period shall 
+apply, the fifth anniversary of the Grant Date, or otherwise,
+ 
+  	(ii) 	the third anniversary of the Grant Date or any later date 
+determined by the Board; or
+ 
+  	(B) 	in respect of an Award granted in respect of the recruitment of an 
+Eligible Employee, any other date (which may be prior to the third 
+anniversary of the Grant Date) as determined by the Board prior to the 
+Grant Date;
+
+Option means a right to acquire Shares, which may be exercised by the 
+Participant following the vesting of the Award during any period permitted 
+for exercise;
+
+Option Price shall be nil, or such other amount as the Board may 
+determine (provided that the Board may reduce or waive such amount at any 
+time);
+
+Participant means an Eligible Employee who has received an Award to the 
+extent it has not been released and has not lapsed (or, following his 
+death, his Personal Representatives);
+
+Performance Condition means the performance condition to which an Award 
+is subject, which may consist of one or more performance elements, being as 
+set out in an Appendix to the Plan (as substituted or amended by the Board 
+from time to time);
+
+Performance Period means the period of three Financial Years beginning 
+with the Financial Year in which the Grant Date falls, or such other period 
+as is determined by the Board prior to the Grant Date in accordance with 
+Rule 5;
+
+Personal Representatives means, following his death, the Participants 
+personal representatives, or a person fulfilling a similar function in any 
+jurisdiction;
+
+Plan means this British American Tobacco 2016 Long Term Incentive Plan, 
+as amended from time to time;
+
+Quarter Day means 31 March, 30 June, 30 September or 31 December;
+
+Rule means a rule of this Plan;
+
+Share means a fully paid ordinary share in the capital of the Company;
+
+Treasury Shares means Shares to which Sections 724 to 732 of the 
+Companies Act 2006 apply;
+
+Trust means any employee benefit trust from time to time established by 
+the Company; and
+
+vesting means:
+ 
+  	(A) 	Shares subject to a Conditional Award becoming due to be 
+transferred to the Participant;
+ 
+  	(B) 	Shares subject to a Forfeitable Share Award ceasing to be subject 
+to the restrictions set out in Rule 6 (Additional terms applicable to 
+Forfeitable Share Awards), and legal title to such Shares becoming due to 
+be transferred to the Participant; or
+ 
+  	(C) 	an Option becoming exercisable, (and vest shall be construed 
+accordingly).
+ 
+1.2 	In this Plan unless the context requires otherwise:
+ 
+  	1.2.1 	the headings are inserted for convenience only and do not affect 
+the interpretation of any Rule;
+ 
+  	1.2.2 	a reference to a statute or statutory provision includes a 
+reference:
+ 
+3
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+  	(A) 	to that statute or statutory provision as from time to time 
+consolidated, modified, re-enacted or replaced by any statute or statutory 
+provision;
+ 
+  	(B) 	to any repealed statute or statutory provision which it re-enacts 
+(with or without modification); and
+ 
+  	(C) 	to any subordinate legislation made under it;
+ 
+  	1.2.3 	words in the singular include the plural, and vice versa;
+ 
+  	1.2.4 	a reference to the masculine shall be treated as a reference to 
+the feminine and vice versa;
+ 
+  	1.2.5 	a reference to a person shall include a reference to a body 
+corporate; and
+ 
+  	1.2.6 	a reference to writing or written form shall include any legible 
+format capable of being reproduced on paper, irrespective of the medium 
+used.
+ 
+1.3 	In this Plan:
+ 
+  	1.3.1 	a reference to the transfer of Shares (or similar) shall 
+include both the issue and allotment of Shares and the transfer of Treasury 
+Shares; and
+ 
+  	1.3.2 	a provision obliging, or permitting, any company to do any thing 
+shall be read as obliging, or permitting, such company to do that thing, or 
+procure that thing to be done; and
+ 
+  	1.3.3 	the use of the word including shall mean including without 
+limitation and without prejudice to the generality of the foregoing.
+ 
+2. 	PLAN LIMITS
+ 
+2.1 	Pursuant to the Plan:
+ 
+  	2.1.1 	subject to Rule 2.2, the Board may not grant a Conditional Award 
+or Option; and
+ 
+  	2.1.2 	Shares may not be issued for the purpose of a Forfeitable Share 
+Award,
+
+if the number of Shares subject to such proposed Award (the Relevant 
+Shares) would cause either of the limits in Rules 2.3 or 2.4 to be 
+breached.
+ 
+2.2 	Rule 2.1 shall not apply in respect of a Conditional Award or Option 
+granted on terms that it shall not be capable of being satisfied by the 
+issue of Shares.
+
+
+5 per cent limit: discretionary Employees Share Scheme
+ 
+2.3 	The number of Relevant Shares, when added to the aggregate of:
+ 
+  	2.3.1 	the number of Shares subject to outstanding options or awards 
+granted within the previous 10 years under the Plan or any other 
+discretionary Employees Share Scheme adopted by the Company which may be 
+satisfied by the issue of Shares; and
+ 
+  	2.3.2 	the number of Shares actually issued within the previous 10 years 
+under the Plan, under any other discretionary Employees Share Scheme or to 
+a Trust (but excluding any of those Shares that were used to satisfy an 
+option or award granted more than 10 years previously, and without double 
+counting any Shares which the Board has determined are to be used to 
+satisfy options or awards counted under Rule 2.3.1 above),
+
+may not exceed such number as represents 5 per cent of the Companys issued 
+share capital immediately prior to such proposed grant or issue.
+ 
+4
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+10 per cent limit: Employees Share Scheme
+ 
+2.4 	The number of Relevant Shares, when added to the aggregate of:
+ 
+  	2.4.1 	the number of Shares subject to outstanding options or awards 
+granted within the previous 10 years under the Plan or any other Employees 
+Share Scheme adopted by the Company which may be satisfied by the issue of 
+Shares; and
+ 
+  	2.4.2 	the number of Shares actually issued within the previous 10 years 
+under the Plan, under any other Employees Share Scheme or to a Trust (but 
+excluding any of those Shares: that were used to satisfy an option or award 
+granted more than 10 years previously, and without double counting any 
+Shares which the Board has determined are to be used to satisfy options or 
+awards counted under Rule 2.4.1 above),
+
+may not exceed such number as represents 10 per cent of the Companys 
+issued share capital immediately prior to such proposed grant or issue.
+
+
+Treasury Shares
+ 
+2.5 	References in this Rule 2 to the issue of Shares shall include the 
+transfer of Treasury Shares, but only until such time as the guidelines 
+issued by institutional investor bodies cease to provide that they should 
+be so included.
+ 
+3. 	AWARDS
+
+Eligibility
+ 
+3.1 	Awards may be granted to Eligible Employees selected by the Board.
+
+
+Timing of grants
+ 
+3.2 	An Award may only be granted:
+ 
+  	3.2.1 	during the period of 42 days commencing on the date on which the 
+Plan is approved shareholders of the Company in general meeting;
+ 
+  	3.2.2 	during the period of 42 days commencing on the Dealing Day 
+immediately following the day on which the Company announces its results 
+for the preceding financial year, half-year or other period;
+ 
+  	3.2.3 	in respect of an Award to be granted in respect of the 
+recruitment of an Eligible Employee, as soon as reasonably practicable 
+after the Eligible Employee commences holding office or employment with any 
+Group Company; and/or
+ 
+  	3.2.4 	at such time at which the Board determines that exceptional 
+circumstances exist which justify the grant of the Award,
+
+or, in any such case, if the grant of Awards during such period or at such 
+time would be contrary to any Dealing Restriction, as soon as reasonably 
+practicable after such restriction ceases to apply.
+
+
+Individual limit
+ 
+3.3 	An Award may not be granted to an Eligible Employee where it would 
+cause the aggregate Relevant Value of the Shares subject to such Award and 
+any Award(s) granted to the Eligible Employee in the same Financial Year to 
+exceed an amount equal to 500% of the gross annual basic salary of that 
+Eligible Employee as at the first day of such Financial Year or, if later, 
+the first day of the Eligible Employees employment with the Group during 
+such Financial year.
+
+An Award granted in breach of this limit shall immediately lapse in respect 
+of the number of Shares which cause this limit to be breached. Awards which 
+have been released or have lapsed, or which are granted in connection with 
+the recruitment of an Eligible Employee in lieu of incentive awards granted 
+by the individuals former employer which are forfeited, and any right to 
+receive Shares as a dividend equivalent, shall be ignored for this purpose.
+ 
+5
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+In this Rule 3.3, the Relevant Value of a Share subject to an Award means 
+either (as determined by the Board): (i) the Market Value of a Share on the 
+Dealing Day immediately preceding the Grant Date; or (ii) the average of 
+the Market Values of a Share over such number of Dealing Days preceding the 
+Grant Date as the Board may determine (all being within the period of 30 
+days preceding the Grant Date and, where the Award is granted within the 
+period in Rule 3.2.2, being on or after the date of the results 
+announcement).
+ 
+3.4 	Where an Eligible Employees gross annual basic salary is denominated 
+in a currency other than pounds sterling, for the purposes of Rule 3.3 
+above such gross annual basic salary shall be converted into pounds 
+sterling on such basis as the Board may reasonably determine.
+
+
+Method of grant
+ 
+3.5 	An Award shall be granted by the Board.
+ 
+3.6 	A Conditional Award or an Option shall be granted by deed.
+ 
+3.7 	The Company shall procure that the Shares subject to a Forfeitable 
+Share Award shall, on or as soon as reasonably practicable following the 
+Grant Date, be issued to or acquired by a Nominee, and shall thereafter be 
+held on behalf of the Participant until the date on which the Forfeitable 
+Share Award vests or such earlier date as the Forfeitable Share Award 
+lapses.
+ 
+3.8 	No payment for the grant of an Award shall be made by the Participant.
+ 
+3.9 	A Participant may within 30 days of the Grant Date release an Award 
+(in full but not in part) by written notice to the Company. Where a 
+Participant does not release an Award within such period, the Participant 
+shall be deemed to have accepted the Award on the terms set out in the 
+Rules.
+
+
+Award notification
+ 
+3.10 	As soon as practicable following the Grant Date the Company shall 
+notify a Participant of the grant of an Award. Such notification shall 
+specify:
+ 
+  	3.10.1 	whether the Award takes the form of a Conditional Award, a 
+Forfeitable Share Award or an Option;
+ 
+  	3.10.2 	the Grant Date;
+ 
+  	3.10.3 	the Normal Vesting Date;
+ 
+  	3.10.4 	the number of Shares in respect of which the Award is granted;
+ 
+  	3.10.5 	in relation to an Option, the Option Price (if any);
+ 
+  	3.10.6 	the full terms of the Performance Condition and the Performance 
+Period;
+ 
+  	3.10.7 	if applicable, that the dividend equivalent provisions of Rule 
+11 (Dividend equivalent) shall apply; and
+ 
+  	3.10.8 	that the Award is subject to the claw-back provisions of Rule 15 
+(Claw-back) and Appendix 1 (Operation of Claw-back).
+ 
+4. 	AWARDS ARE NON-TRANSFERABLE
+ 
+4.1 	A Participant may not transfer, assign, pledge, charge or otherwise 
+dispose of, or grant any form of security or other interest over, any part 
+of his interest in an Award. An Award shall (unless the Board determines 
+otherwise) lapse on the Participant doing so (whether voluntarily or 
+involuntarily), being deprived of the beneficial ownership of an Award by 
+operation of law, or becoming bankrupt.
+ 
+6
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+4.2 	Rule 4.1 does not restrict the transmission of an Award to the 
+Participants Personal Representatives following his death.
+ 
+5. 	PERFORMANCE CONDITION
+ 
+5.1 	An Award shall be granted subject to the Performance Condition.
+ 
+5.2 	Subject to Rule 5.3, each element of the Performance Condition shall 
+be assessed over a period of not less than three years, ending no later 
+than the Normal Vesting Date.
+ 
+5.3 	An Award granted in respect of the recruitment of an Eligible Employee 
+may be granted on terms that the Performance Condition shall be assessed 
+over such shorter period as the Board may determine prior to the grant of 
+the Award.
+ 
+5.4 	If events happen following the Grant Date which cause the Board to 
+determine that any element of the Performance Condition is no longer a fair 
+measure of the Companys performance, the Board may alter the terms of such 
+element as it determines to be appropriate but not so that the revised 
+target is, in the opinion of the Board, materially less challenging than 
+was intended in setting the original Performance Condition.
+ 
+5.5 	The Performance Condition may not be retested.
+ 
+6. 	ADDITIONAL TERMS SPECIFIC TO FORFEITABLE SHARE AWARDS
+
+Restrictions applicable to Forfeitable Share Awards
+ 
+6.1 	The Participant shall be (subject to the Award lapsing) the beneficial 
+owner of the Shares subject to a Forfeitable Share Award. For the avoidance 
+of doubt, such beneficial interest shall be subject to the restriction in 
+Rule 4.1 (Awards are non-transferable).
+ 
+6.2 	Until a Forfeitable Share Award vests, the Nominee shall refuse to act 
+on any instruction from the Participant to (and, subject to Rule 6.3, shall 
+not) transfer, assign, pledge, charge or otherwise dispose of, or grant any 
+form of security or other interest over, legal title to the Shares subject 
+to the Award or any interest therein, or enter into any agreement or accept 
+any offer to do any such thing.
+ 
+6.3 	The Nominee shall take such action as is necessary to give effect to 
+Rules 9.8 (Roll-over of Award), 13.1 (Tax Liability), 14 (Claw-back), 16 (
+Variation of capital) and Appendix 1 (Operation of Claw-back) and without 
+further instruction from the Participant (and for the avoidance of doubt 
+nothing in this Rule 6 shall prevent Shares subject to a Forfeitable Share 
+Award becoming subject to a Corporate Action pursuant to Rule 9.3 (Scheme 
+of compromise or arrangement)).
+
+
+Voting rights on forfeitable Shares
+ 
+6.4 	Unless the Board determines otherwise, the Participant shall be 
+entitled to direct the Nominee to vote the Shares subject to a Forfeitable 
+Share Award, provided that the Nominee shall not be bound to seek 
+directions from the Participant to vote and in the absence of any such 
+direction shall not vote.
+
+
+Dividend rights on forfeitable Shares
+ 
+6.5 	Unless the Board determines otherwise, the Participant shall be 
+entitled to receive any dividends paid in respect of Shares subject to a 
+Forfeitable Share Award (and if the Board so determines the Nominee shall 
+waive the right to receive any dividends in respect of such Shares).
+
+
+Lapse of Forfeitable Share Award
+ 
+6.6 	Where a Forfeitable Share Award lapses, the Participant shall cease to 
+be beneficially entitled to the Shares subject to the Award, and the 
+beneficial interest in such Shares shall, unless the Board directs 
+otherwise, revert to a Trust specified by the Board for nil or nominal 
+consideration.
+ 
+7
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+7. 	VESTING
+
+Normal vesting
+ 
+7.1 	An Award shall vest on the Normal Vesting Date.
+
+
+Vesting subject to Dealing Restrictions
+ 
+7.2 	A Conditional Award or a Forfeitable Share Award shall not vest 
+unless, and vesting shall be delayed until, the Board is satisfied that at 
+that time:
+ 
+  	7.2.1 	such vesting;
+ 
+  	7.2.2 	the transfer of Shares to the Participant and the sale of Shares 
+pursuant to Rule 13; and
+ 
+  	7.2.3 	any action needed to be taken by the Company to give effect to 
+such vesting is not contrary to any Dealing Restriction.
+
+
+Extent of vesting determined by the Performance Condition
+ 
+7.3 	The extent to which an Award shall be capable of vesting (if at all) 
+shall be determined by reference to the Performance Condition. At the end 
+of the period over which the Performance Condition is assessed, the Award 
+shall lapse to the extent that the Performance Condition is not met.
+ 
+7.4 	Where an Award vests (pursuant to Rule 7.7 (International Transfers), 
+Rule 8 (Cessation of office or employment) or 9 (Corporate Actions)) prior 
+to the end of the period over which any element of the Performance 
+Condition is assessed, such element shall be assessed based on performance 
+to the last Quarter Day prior to the date on which the Award vests using 
+such information (not limited to published accounts) as the Board shall 
+determine.
+
+
+Effect of vesting
+ 
+7.5 	The effect of the vesting of an Award is that:
+ 
+  	7.5.1 	the Shares in respect of which a Conditional Award vests shall be 
+transferred to the Participant as soon as is reasonably practicable;
+ 
+  	7.5.2 	the Shares in respect of which a Forfeitable Share Award vests 
+shall cease to be subject to the restrictions set out in Rule 6 (
+Additional terms applicable to Forfeitable Share Awards), and legal title 
+to such Shares shall be transferred to the Participant as soon as is 
+reasonably practicable; and
+ 
+  	7.5.3 	an Option shall, to the extent that it vests, become exercisable 
+in accordance with Rule 10 (Options).
+
+
+Disciplinary proceedings
+ 
+7.6 	Unless the Board determines otherwise, an Award shall not vest while a 
+Participant is subject to a formal disciplinary process, and vesting shall 
+(subject to the Award lapsing to any extent as a result of the conclusion 
+of such process pursuant to Rule 8 (Cessation of office or employment) or 
+14 (Claw-back)) be delayed until the conclusion of such process.
+
+
+International transfers
+ 
+7.7 	Where a Participant, whilst continuing to hold an office or employment 
+with a Group Company, is to be transferred to work in another country, and 
+as a result the Board considers that following such transfer either he or a 
+Group Company is likely to suffer a tax disadvantage in respect of an Award 
+or, due to securities or exchange control laws, the Participant is likely 
+to be restricted in his ability to receive Shares pursuant to an Award, to 
+exercise an Option and/or to hold or deal in Shares, the Board may decide 
+that an Award shall vest on such date as it may determine, in which case:
+ 
+8
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+  	7.7.1 	the proportion of the Award which may vest shall be limited 
+(unless the Board determines otherwise) to a pro rata proportion on the 
+basis of the number of months (rounded up to the nearest whole month) which 
+have elapsed from the first day of the Performance Period to such vesting 
+date, as compared to the number of whole months within the Performance 
+Period. Any remainder of the Award shall lapse; and
+ 
+  	7.7.2 	an Option may be exercised during such period as may be 
+determined by the Board ending no later than the date on which the 
+Participants transfer takes effect.
+ 
+8. 	CESSATION OF OFFICE OR EMPLOYMENT
+
+Cessation where Awards lapse
+ 
+8.1 	An Award shall lapse:
+ 
+  	8.1.1 	on the Participant ceasing to hold office or employment with any 
+Group Company; or
+ 
+  	8.1.2 	if the Participant gives or receives notice of such cessation, on 
+such earlier date as may be determined by the Board,
+
+save in each case where Rule 8.2 or Rule 8.6 applies.
+
+
+Reasons for cessation where Awards remain capable of vesting
+ 
+8.2 	An Award shall not lapse pursuant to Rule 8.1 where the reason for the 
+cessation or notice is:
+ 
+  	8.2.1 	disability, ill-health or injury (as evidenced to the 
+satisfaction of the Board);
+ 
+  	8.2.2 	redundancy (within the meaning of the Employment Rights Act 
+1996);
+ 
+  	8.2.3 	the transfer of the Participants employment in connection with 
+the disposal of a business or undertaking, or a part- business or part- 
+undertaking;
+ 
+  	8.2.4 	the company with which the Participant holds office or employment 
+ceasing to be a Group Company; or
+ 
+  	8.2.5 	any other reason, if the Board so determines.
+
+Where the Board exercises its discretion under Rule 8.2.5 the Board may 
+impose additional conditions on the Award (including as to when the Award 
+may vest).
+
+
+Cessation prior to the Normal Vesting Date
+ 
+8.3 	Where prior to the Normal Vesting Date a Participant ceases to hold 
+office or employment with any Group Company for any of the reasons 
+specified in Rule 8.2:
+ 
+  	8.3.1 	an Award shall not vest at the date of such cessation, but shall 
+continue to be capable of vesting (in which case an Option may be exercised 
+during the period of six months, or such other period as may be determined 
+by the Board, from such date on which the Award may vest, and shall lapse 
+at the expiry of such period); or
+ 
+  	8.3.2 	the Board may determine that the Award shall instead vest on or 
+at any time following the date of cessation (in which case an Option may be 
+exercised during the period of six months, or such other period as may be 
+determined by the Board, from such vesting date, and shall lapse at the 
+expiry of such period).
+
+For the avoidance of doubt, the Board may make the determination in Rule 
+8.3.2 on a standing basis (subject to revocation of such determination at 
+any time) in respect of all Awards to be granted to a specified Eligible 
+Employee or Eligible Employees.
+ 
+9
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+8.4 	Where prior to the Normal Vesting Date a Participant ceases to hold 
+office or employment with any Group Company for any of the reasons 
+specified in Rule 8.2, unless the Board determines otherwise:
+ 
+  	8.4.1 	if the date of such cessation falls within the first six months 
+of the Performance Period, the Award shall lapse in full on the date of 
+such cessation; or
+ 
+  	8.4.2 	where Rule 8.4.1 does not apply, the proportion of the Award 
+which may vest (under any Rule) shall be limited to a pro rata proportion 
+on the basis of the number of months (rounded up to the nearest whole 
+month) which have elapsed from the first day of the Performance Period to 
+the date of cessation, as compared to the number of whole months within the 
+Performance Period. Any remainder of the Award shall lapse.
+
+
+Exercise period in the event of cessation on or after the Normal Vesting 
+Date
+ 
+8.5 	Where on or after the Normal Vesting Date a Participant ceases to hold 
+office or employment with any Group Company for any of the reasons 
+specified in Rule 8.2, an Option shall lapse at the expiry of the period of 
+six months, or such other period as may be determined by the Board, from 
+the date of cessation.
+
+
+Death
+ 
+8.6 	An Award shall vest on the Participants death. An Option may be 
+exercised (by the Participants Personal Representatives) during a period 
+of one year from the date of the Participants death and shall lapse at the 
+expiry of such period. Where a Participant dies during an exercise period 
+pursuant to either Rule 8.3 or 8.5 an Option shall not lapse as a result of 
+such Rule until the expiry of the twelve month period in this Rule 8.6.
+
+
+Cessation following a Corporate Action
+ 
+8.7 	Where a Participant ceases to hold office or employment with any Group 
+Company following a Corporate Action within the relevant exercise period 
+referred to in Rule 9 (Corporate Actions), an Option shall not lapse 
+pursuant to this Rule 8 until the expiry of the relevant exercise period in 
+Rule 9 (Corporate Actions). This Rule 8.7 shall not apply where the 
+cessation is by way of (or occurs where there are circumstances which the 
+Board determines would have justified) summary dismissal or service of 
+notice of termination of office or employment on the grounds of misconduct.
+
+
+Meaning of cessation of office or employment
+ 
+8.8 	No provision of this Rule 8 shall apply in respect of any cessation of 
+office or employment if immediately following the cessation the Participant 
+holds an office or employment with any Group Company, or in respect of any 
+notice of cessation if arrangements are in place that mean immediately 
+following the notice becoming effective the Participant will hold an office 
+or employment with any Group Company.
+ 
+9. 	CORPORATE ACTIONS
+
+General offers
+ 
+9.1 	Awards shall vest:
+ 
+  	9.1.1 	upon a person obtaining Control of the Company as a result of 
+making a general offer to acquire Shares;
+ 
+  	9.1.2 	upon a person, having obtained Control of the Company, making a 
+general offer to acquire Shares; or
+ 
+  	9.1.3 	
+if a person makes a general offer to acquire Shares that would result in 
+that person obtaining Control of the Company and the Board so determines, 
+on the
+ 
+10
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+  	 date which the Board determines to be the last practicable date prior 
+to the date on which it expects such person to obtain Control of the 
+Company,
+
+in each case being a general offer to acquire all of the Shares (other than 
+Shares held by the person making the offer and any person connected to that 
+person).
+
+Options may be exercised during the period of six months from the date of 
+any such event (but if not exercised, Options shall not lapse at the expiry 
+of such period).
+
+
+Compulsory acquisition
+ 
+9.2 	Awards shall vest upon a person becoming entitled to acquire Shares 
+under Sections 979 to 982 of the Companies Act 2006.
+
+Options may be exercised during a period of one month from the date on 
+which that person first becomes so entitled, and shall lapse at the expiry 
+of such period.
+
+
+Scheme of compromise or arrangement
+ 
+9.3 	Awards shall vest upon a Court sanctioning a compromise or arrangement 
+which, on becoming effective, would result in:
+ 
+  	9.3.1 	any person obtaining Control of the Company;
+ 
+  	9.3.2 	the undertaking, property and liabilities of the Company being 
+transferred to another existing or new company; or
+ 
+  	9.3.3 	the undertaking, property and liabilities of the Company being 
+divided among and transferred to two or more companies, whether existing or 
+new.
+
+Options may be exercised during a period of six months from the date of a 
+Court sanctioning such a compromise or arrangement (or, if earlier, to the 
+day prior to the date on which a transfer as described in Rule 9.3.2 or 
+Rule 9.3.3 is to become effective), and shall lapse at the expiry of such 
+period.
+
+
+Merger
+ 
+9.4 	Awards shall vest upon a competent authority approving a Cross-Border 
+Merger, pursuant to which the Company shall cease to exist.
+
+Options may be exercised during the period from the date of a competent 
+authority approving a Cross-Border Merger until the day prior to the date 
+on which the Cross-Border Merger is to become effective, and shall lapse at 
+the expiry of such period.
+
+
+Voluntary winding-up
+ 
+9.5 	Awards shall vest in the event of a notice being given of a resolution 
+for the voluntary winding-up of the Company.
+
+Options may be exercised during a period of two months from the date of 
+such a notice being given and shall lapse at the expiry of such period.
+
+
+Demerger or special dividend
+ 
+9.6 	If the Board so determines, Awards may vest following the announcement 
+of a demerger of a substantial part of the Groups business, a special 
+dividend or a similar event affecting the value of Shares to a material 
+extent on such date specified by the Board. Where the Board makes such 
+determination, Options may be exercised during a period of two months (or 
+such other period as the Board may determine) from the date specified by 
+the Board and, unless the Board determines otherwise, shall lapse at the 
+expiry of such period.
+ 
+11
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+Extent of vesting on a Corporate Action
+ 
+9.7 	Where an Award vests (and, in the case of an Option, is exercised) 
+pursuant to any of Rules 9.1 to 9.6, the proportion of the Award which may 
+vest shall be limited (unless the Board determines otherwise) to a pro rata 
+proportion on the basis of the number of months (rounded up to the nearest 
+whole month) which have elapsed from the first day of the Performance 
+Period to the date of the Corporate Action, as compared to the number of 
+whole months within the Performance Period. Any remainder of the Award 
+shall lapse.
+
+
+Roll-over of Award on a Reorganisation or takeover
+ 
+9.8 	Unless the Board determines otherwise, an Award shall not vest 
+pursuant to this Rule 9 if, as a result of any event that would otherwise 
+be a Corporate Action, a company will obtain Control of the Company or will 
+obtain substantially all of the assets of the Company (the Acquiring 
+Company), and either:
+ 
+  	9.8.1 	the Acquiring Company will immediately following such event have 
+(either directly or indirectly) substantially the same shareholders and 
+approximate shareholdings as those of the Company prior to such event (a 
+Reorganisation); or
+ 
+  	9.8.2 	the Board, with the agreement of the Acquiring Company, 
+determines that the Award shall not vest as a result of such event and so 
+notifies the Participant prior to the occurrence of the date on which the 
+Award would otherwise vest.
+
+In such case:
+ 
+  	9.8.3 	the existing Option or Conditional Award (the Old Award) shall 
+lapse on the occurrence of the relevant event, provided that the New Parent 
+Company shall grant a replacement right to receive shares (the New Award) 
+over such number of shares in the New Parent Company which are of 
+equivalent value to the number of Shares in respect of which the Old Award 
+was outstanding. The New Award shall be granted on the terms of the Plan, 
+but as if the New Award had been granted at the same time as the Old Award 
+and shall continue to be subject to the Performance Condition (but subject 
+to Rule 5.4 (Performance Condition));
+ 
+  	9.8.4 	where the event is an event specified in Rule 9.1.1 or Rule 9.1.2 
+(notwithstanding that the Award shall not vest pursuant to such Rule) the 
+Nominee shall action the acceptance of the general offer in respect of the 
+Shares subject to the Forfeitable Share Award; and/or
+ 
+  	9.8.5 	the proceeds from the relevant event received by the Nominee in 
+respect of the Shares subject to the Forfeitable Share Award, whether in 
+cash or securities (and the Nominee shall accept, on behalf of the 
+Participant, any offer of securities in preference to the receipt of cash), 
+shall continue to be held on behalf of the Participant subject to the terms 
+of the Plan, provided that a proportion of such proceeds as is of equal 
+value to the amount of any Tax Liability arising in respect of the Award at 
+such time shall vest and shall be dealt with in accordance with Rule 13.1.1 
+(Tax Liability) (and references in the Plan to the Shares subject to the 
+Forfeitable Share Award shall be read as being to the proceeds that 
+continue to be held on behalf of the Participant).
+
+For the purposes of this Rule 9.8:
+ 
+  	9.8.6 	the New Parent Company shall be the Acquiring Company, or, if 
+different the company that is the ultimate parent company of the Acquiring 
+Company within the meaning of section 1159 of the Companies Act 2006; and
+ 
+  	9.8.7 	the terms of the Plan shall following the date of the relevant 
+event be construed as if:
+ 
+  	(A) 	the reference to British American Tobacco p.l.c. in the 
+definition of Company in Rule 1 (Interpretation and construction) were a 
+reference to the company which is the New Parent Company, and
+ 
+12
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+  	(B) 	save where the New Parent Company is listed, Rule 18.2 (Amendments
+) were omitted.
+
+
+Compulsory winding-up
+ 
+9.9 	An Award shall lapse on the passing of an effective resolution, or the 
+making of a Court order, for the compulsory winding-up of the Company.
+
+
+Concert parties
+ 
+9.10 	For the purposes of this Rule 9, a person shall be deemed to have 
+Control of the Company where he and any others acting in concert with him 
+together have Control of the Company.
+ 
+10. 	OPTIONS
+ 
+10.1 	An Option may be exercised, in full or in any number of parts, by the 
+delivery to the Company (or such other person nominated by the Company) of 
+a valid notice of exercise in such form as the Board may prescribe together 
+with payment of the Option Price for the Shares in respect of which the 
+Option is exercised (if any).
+ 
+10.2 	An Option shall lapse on the tenth anniversary of the Grant Date (or 
+such earlier date as the Board may determine prior to the Grant Date).
+ 
+10.3 	Any Shares in respect of which the Option is exercised shall be 
+transferred to the Participant as soon as reasonably practicable.
+ 
+10.4 	An Option may not be exercised unless the Board is satisfied that at 
+such time:
+ 
+  	10.4.1 	such exercise,
+ 
+  	10.4.2 	the transfer of Shares to the Participant and the sale of Shares 
+pursuant to Rule 13; and
+ 
+  	10.4.3 	any action needed to be taken by the Company to give effect to 
+such exercise,
+
+is not contrary to any Dealing Restriction. Where the exercise, transfer or 
+dealing in Shares is contrary to any Dealing Restriction on the last 
+Dealing Day in any of the periods referred to in Rules 8.3, 8.5 or 8.6 (
+Rule 8 being in relation to cessation of office or employment) or Rules 9.1 
+to 9.3 or 9.6 (Rule 9 being in relation to Corporate Actions), such period 
+shall be extended to the end of the first Dealing Day thereafter on which 
+the Board is satisfied that the exercise, transfer and dealing in Shares is 
+not contrary to any Dealing Restriction.
+ 
+10.5 	An Option shall lapse on the earliest date provided under any Rule 
+(save only as expressly provided in Rules 8.6 (Death) and 8.7 (Cessation 
+following a Corporate Action)).
+ 
+11. 	DIVIDEND EQUIVALENT
+ 
+11.1 	If at any time prior to the Normal Vesting Date the Board so 
+determines, on or following the date on which an Award vests the Company 
+may make a cash payment to the Participant equal to the amount of any 
+dividends that the Participant would have received in respect of the number 
+of Shares in respect of which the Award vests had the Participant been the 
+full legal and beneficial owner of such Shares during the period from the 
+Grant Date to the date the Award vests.
+ 
+11.2 	A cash payment under Rule 11.1 may be made in a currency other than 
+pounds sterling, in which case the amount of such payment shall be 
+converted into such other currency on such basis as is determined by the 
+Board.
+ 
+11.3 	Rule 11.1 shall not apply in respect of a Forfeitable Share Award 
+unless the Board determines pursuant to Rule 6.5 (Dividend rights on 
+forfeitable Shares) that the Participant shall not be entitled to receive 
+dividends paid in respect of the Shares subject to the Forfeitable Share 
+Award.
+ 
+13
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+12. 	CASH ALTERNATIVE  OPTIONS AND CONDITIONAL AWARDS
+ 
+12.1 	This Rule 12 shall not apply in respect of any Award granted to a 
+Participant resident in any jurisdiction where the grant of an Award which 
+provides for a cash alternative would be unlawful, fall outside any 
+applicable exemption under securities, exchange control or similar 
+regulations, or would cause adverse tax or social security (or similar) 
+contribution consequences for the Company or the Participant (in each case 
+as determined by the Board) or where the Board determines prior to the 
+Grant Date that this Rule 12 shall not apply.
+ 
+12.2 	The Board may determine prior to the Grant Date that a Conditional 
+Award or Option shall only be satisfied in cash, in which case the Award 
+shall not be a right to acquire Shares, and the vesting of the Conditional 
+Award or exercise of the Option shall be satisfied in full by the payment 
+of a cash equivalent amount, in substitution for the transfer of Shares.
+ 
+12.3 	Where the Board has made no determination pursuant to Rule 12.1 or 
+12.2 in respect of any Conditional Award or Option, the Board may determine 
+at any time prior to the transfer of Shares pursuant to such Award that the 
+vesting of the Conditional Award or the exercise of the Option (or a part 
+thereof) shall be satisfied by the payment of a cash equivalent amount, in 
+substitution for the transfer of Shares.
+ 
+12.4 	A cash equivalent amount shall be calculated as the number of 
+Shares which would otherwise be transferred in respect of the relevant 
+vesting or exercise but which are being substituted for the cash equivalent 
+amount, multiplied by the Market Value of a Share on the vesting date (or, 
+in the case of an Option, the Market Value of a Share on the date of 
+exercise less the Option Price (if any)).
+ 
+12.5 	A cash equivalent amount shall be paid as soon as reasonably 
+practicable following the relevant vesting or exercise.
+ 
+12.6 	A cash equivalent amount may be paid in a currency other than pounds 
+sterling, in which case the cash equivalent amount shall be converted into 
+such other currency on such basis as is determined by the Board.
+ 
+13. 	TAX LIABILITY
+ 
+13.1 	When any Tax Liability arises in respect of an Award, the Participant 
+authorises any Group Company:
+ 
+  	13.1.1 	to retain and sell legal title to such number of the Shares 
+which would otherwise have been transferred to the Participant on vesting 
+or exercise of the Award, or any part thereof, (notwithstanding that 
+beneficial title shall pass) as may be sold for aggregate proceeds equal to 
+the Group Companys estimate of the amount of the Tax Liability;
+ 
+  	13.1.2 	to deduct an amount equal to the Group Companys estimate of the 
+Tax Liability from any cash payment made under the Plan; and/or
+ 
+  	13.1.3 	where the amount realised under Rule 13.1.1 or deducted under 
+Rule 13.1.2 is insufficient to cover the full amount of the Tax Liability, 
+to deduct any further amount as is necessary through payroll,
+
+and in each case to apply such amount in paying the amount of the Tax 
+Liability to the relevant revenue authority or in reimbursing the relevant 
+Group Company for any such payment, provided that, where the amount 
+realised under Rule 13.1.1 or deducted under Rule 13.1.2 is greater than 
+the actual Tax Liability, the Group Company shall repay the excess to the 
+Participant as soon as reasonably practicable.
+
+The Group Company shall be entitled to make the estimates referred to in 
+this Rule 13.1 on the basis of the highest rates of tax and/or social 
+security applicable at the relevant time in the jurisdiction in which the 
+Group Company is liable to account for the Tax Liability, notwithstanding 
+that the Tax Liability may not arise at such rates.
+ 
+13.2 	Tax Liability shall mean any amount of tax and/or social security 
+(or similar) contributions which any Group Company becomes liable to pay on 
+behalf of the Participant
+ 
+14
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+  	 to the revenue authorities in any jurisdiction, together with all or 
+such proportion (if any) of employers social security contributions which 
+would otherwise be payable by any Group Company as is determined to be 
+recoverable from the Participant (to the extent permitted by law) by the 
+Board, or which the Participant has agreed to pay or which are subject to 
+recovery pursuant to an election to which paragraph 3B of Schedule 1 to the 
+Social Security Contributions and Benefits Act 1992 applies.
+ 
+14. 	VESTED SHARE ACCOUNTS
+ 
+14.1 	Legal title to any Shares which are due to be transferred to the 
+Participant pursuant to the Plan may be transferred to a person (the 
+Vested Share Account Provider) appointed by the Company from time to time 
+to hold legal title to such Shares on behalf of the Participant.
+ 
+14.2 	The Vested Share Account Provider shall receive and hold Shares on 
+behalf of the Participant in accordance with such terms and conditions as 
+are agreed by the Company from time to time, and by participating in the 
+Plan the Participant irrevocably agrees to those terms and conditions 
+(which shall be available to the Participant on request to the Company).
+ 
+14.3 	The transfer of any Shares to the Vested Share Account Provider shall 
+satisfy any obligation of the Company under the Plan to transfer Shares to 
+the Participant (and references in the Plan to Shares (or legal title 
+thereof) having been transferred to the Participant shall be read 
+accordingly).
+ 
+15. 	CLAW-BACK
+
+Claw-back events
+ 
+15.1 	The Board may at any time prior to the fifth anniversary of the Grant 
+Date of an Award determine that a Claw-back shall apply in respect of an 
+Award, if the Board determines that:
+ 
+  	15.1.1 	there has been a material misrepresentation in relation to the 
+performance of any Group Company, relevant business unit and/or the 
+Participant on the basis of which the extent to which the Award will be 
+capable of vesting, or vested, was determined (which may include, but shall 
+not be limited to: (i) a misstatement of the financial results and/or 
+health of any Group Company; (ii) an erroneous calculation in relation to 
+any Group Companys results or other performance benchmark; (iii) errors in 
+any Group Companys financial statements; or (iv) discrepancies in the 
+financial accounts, and, for the avoidance of doubt, notwithstanding that 
+such misrepresentation may not arise from fraud or reckless behaviour); or
+ 
+  	15.1.2 	an erroneous calculation was made in assessing the extent to 
+which the Award is to be capable of vesting, or vested,
+
+and, in either case, the Award is capable of vesting, or vested, in respect 
+of a greater number of Shares than would have been the case had there not 
+been such a misrepresentation or had such error not been made.
+ 
+15.2 	The Board may at any time (whether before or after vesting) determine 
+that a Claw-back shall apply in respect of an Award where the Participant 
+is found to have committed at any time prior to the vesting of the Award, 
+including prior to grant, an act or omission which justifies, or in the 
+opinion of the Board would have justified, summary dismissal or service of 
+notice of termination of office or employment on the grounds of misconduct.
+
+
+Applying Claw-back
+ 
+15.3 	A Claw-back shall be applied in accordance with the provisions of 
+Appendix 1 (Operation of Claw-back).
+ 
+15
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+Lapse of Awards to give effect to claw-back of other awards
+ 
+15.4 	By participating in the Plan, the Participant acknowledges that the 
+Board may lapse any Award to such extent as it determines to be necessary 
+(including in full) in order to give effect to a claw-back under the terms 
+of the Plan or any other Employees Share Scheme or bonus scheme operated 
+from time to time by any Group Company.
+
+
+No Claw-back following Corporate Action
+ 
+15.5 	No Claw-back shall be capable of being applied at any time following 
+any Corporate Action, save where the determination that the Claw-back shall 
+apply was made prior to such event (and, for the avoidance of doubt, a 
+Corporate Action does not include a Reorganisation).
+ 
+16. 	VARIATION OF CAPITAL
+ 
+16.1 	If in respect of Shares subject to a Forfeitable Share Award the 
+Nominee receives on behalf of a Participant any rights to acquire 
+securities, the Nominee shall sell such rights nil paid to the extent 
+necessary to take up the remaining rights.
+ 
+16.2 	In the event of any variation of the share capital of the Company, or 
+in the event of the demerger of a substantial part of the Groups business, 
+a special dividend or similar event affecting the value of Shares to a 
+material extent (which shall not include the payment of any ordinary 
+dividend):
+ 
+  	16.2.1 	the Board may make such adjustments to Conditional Awards and 
+Options as it may determine to be appropriate; and
+ 
+  	16.2.2 	any proceeds from such an event received by a Nominee in respect 
+of any Shares subject to a Forfeitable Share Award, whether in cash or 
+securities, (including where the Nominee takes up rights pursuant to Rule 
+16.1) shall be held by the Nominee on the same terms as the Forfeitable 
+Share Award to which they relate, and references to the Shares subject to a 
+Forfeitable Share Award shall be read to include such proceeds.
+ 
+16.3 	For the avoidance of doubt Rule 16.2 shall not apply in respect of 
+any Awards pursuant to which legal title to Shares has been transferred 
+prior to the date of the relevant event (such that the recipient of such 
+legal title shall participate in such event as a holder of Shares) 
+including pursuant to the vesting of an Award under Rule 9.6 (Demerger or 
+special dividend).
+ 
+17. 	ADMINISTRATION
+ 
+17.1 	Any notice or other communication under or in connection with this 
+Plan may be given by the Company (or its agents) to a Participant 
+personally, by email or by post, or by a Participant to the Company or any 
+Group Company either personally or by post to the Secretary of the Company. 
+Items sent by post shall be pre-paid and shall be deemed to have been 
+received 48 hours after posting. Items sent by email shall be deemed to 
+have been received immediately.
+ 
+17.2 	A Participant shall not be entitled to:
+ 
+  	17.2.1 	receive copies of accounts or notices sent to holders of Shares;
+ 
+  	17.2.2 	subject to Rule 6.4 (Voting rights on forfeitable Shares) in 
+respect of a Forfeitable Share Award, exercise voting rights; or
+ 
+  	17.2.3 	subject to Rule 6.5 (Dividends rights on forfeitable Shares) in 
+respect of a Forfeitable Share Award, receive dividends,
+
+in respect of Shares subject to an Award legal title to which has not been 
+transferred to the Participant.
+ 
+17.3 	Any discretion (including the power to make any determination) of the 
+Board under or in connection with the Plan may be exercised by the Board in 
+its absolute discretion.
+ 
+16
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+17.4 	Any exercise of discretion (including the making of any 
+determination) by the Board under or in connection with the Plan shall be 
+final and binding.
+ 
+17.5 	Any disputes regarding the interpretation of the Rules or the terms 
+of any Award shall be determined by the Board (upon such advice as the 
+Board determines to be necessary) and any decision in relation thereto 
+shall be final and binding.
+ 
+18. 	AMENDMENTS
+ 
+18.1    Subject 	to Rules 18.2 and 18.4, the Board may at any time add to 
+or alter the Plan or any Award made thereunder in any respect.
+ 
+18.2 	Subject to Rule 18.3, no addition or alteration to the advantage of 
+present or future Participants relating to eligibility, the limits on 
+participation, the overall limits on the issue of Shares or the transfer of 
+Treasury Shares, the basis for determining a Participants entitlement to, 
+or the terms of, Shares or cash provided pursuant to the Plan and the 
+provisions for adjustments on a variation of share capital shall be made 
+without the prior approval by ordinary resolution of the shareholders of 
+the Company in general meeting.
+ 
+18.3 	Rule 18.2 shall not apply to any alteration to or substitution of the 
+Performance Condition or to any alteration or addition which is necessary 
+or desirable in order to comply with or take account of the provisions of 
+any proposed or existing legislation, law or other regulatory requirements 
+or to take advantage of any changes in legislation, law or other regulatory 
+requirements, or to obtain or maintain favourable taxation, exchange 
+control or regulatory treatment of any Group Company or any Participant or 
+to make minor amendments to benefit the administration of the Plan.
+ 
+18.4 	No alteration or addition shall be made under Rule 18.1 which would 
+abrogate or adversely affect the subsisting rights of a Participant unless 
+it is made:
+ 
+  	18.4.1 	with the consent in writing of the Participant;
+ 
+  	18.4.2 	with the consent in writing of such number of Participants as 
+hold Awards under the Plan in relation to 75 per cent. of the Shares 
+subject to all Awards under the Plan; or
+ 
+  	18.4.3 	by a resolution at a meeting of Participants passed by not less 
+than 75 per cent. of the Participants who attend and vote either in person 
+or by proxy,
+
+and for the purpose of Rule 18.4.2 or 18.4.3 the Participants shall be 
+treated as the holders of a separate class of share capital and the 
+provisions of the Articles of Association of the Company relating to class 
+meetings shall apply mutatis mutandis.
+ 
+18.5 	The Board may, in respect of Eligible Employees who are or who may 
+become subject to taxation outside the United Kingdom on their 
+remuneration, establish such plans or sub-plans based on the Plan but 
+subject to such modifications as the Board determines to be necessary or 
+desirable to take account of or to mitigate or to comply with relevant 
+overseas taxation, securities or exchange control laws, provided that the 
+terms of awards made under such plans or sub-plans are not overall more 
+favourable than the terms of Awards made under the Plan and provided that 
+awards made, and Shares issued, pursuant to such plans or sub-plans shall 
+count towards the limits set out in Rules 2 (Plan limits) and 3.3 (
+Individual limit).
+ 
+19. 	DATA PROTECTION
+ 
+19.1 	From time to time the Company will process personal data and 
+sensitive personal data relating to the Participant in order to fulfil the 
+obligations of the Company to the Participant under the Plan and for other 
+purposes relating to or which may become related to the Participants 
+employment, the operation of the Plan or the business of the Company. Such 
+processing will principally be for, but will not be limited to, personnel, 
+administrative, financial, regulatory or payroll purposes as well as for 
+the purposes of introducing and administering the Plan.
+ 
+19.2 	
+By participating in the Plan, the Participant consents to personal data and 
+sensitive personal data relating to him, for the purposes set out in Rule 
+19.2 and to the extent that is
+ 
+17
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+  	 reasonably necessary in connection with the Participants employment or 
+the business of the Company, being processed by the Company and being 
+disclosed or transferred to and processed by:
+ 
+  	19.2.1 	the Companys professional advisors, HM Revenue & Customs or 
+other authorities, or (subject to appropriate confidentiality undertakings) 
+prospective purchasers of the Company or of the whole or part of its 
+business;
+ 
+  	19.2.2 	a nominee, a trustee of a Trust, its registrars, brokers, other 
+third party administrator or any person who obtains control of the Company 
+or acquires the Company, undertaking or part-undertaking which employs the 
+Participant; and
+ 
+  	19.2.3 	any Group Company and the employees of such Group Company.
+ 
+19.3 	The Participants consent to the transfer and disclosure of personal 
+data and sensitive personal data shall apply regardless of the country to 
+which the data is to be transferred. Where data is transferred outside of 
+the European Economic Area, the Company shall take reasonable steps to 
+ensure an adequate level of protection for the personal data and sensitive 
+personal data concerned. Personal data, sensitive personal data and 
+processing shall have the respective meanings attributed to them by the 
+Data Protection Act 1998.
+ 
+20. 	GENERAL
+ 
+20.1 	The Plan shall terminate on the 10th anniversary of the approval of 
+the Plan by the shareholders of the Company in general meeting, or at any 
+earlier time by resolution of the Board or an ordinary resolution of the 
+shareholders in general meeting. Such termination shall be without 
+prejudice to the subsisting rights of Participants.
+ 
+20.2 	Save as otherwise provided under the Plan:
+ 
+  	20.2.1 	Shares issued and allotted pursuant to the Plan will rank pari 
+passu in all respects with the Shares then in issue at the date of such 
+allotment, except that they will not rank for any rights attaching to 
+Shares by reference to a record date preceding the date of allotment; and
+ 
+  	20.2.2 	Shares to be transferred pursuant to the Plan will be 
+transferred free of all liens, charges and encumbrances and together with 
+all rights attaching thereto, except they will not rank for any rights 
+attaching to Shares by reference to a record date preceding the date of 
+transfer.
+ 
+20.3 	If and so long as the Shares are admitted to listing and/or for 
+trading on any stock exchange or market, the Company shall apply for any 
+Shares issued and allotted pursuant to the Plan to be so admitted as soon 
+as practicable.
+ 
+20.4 	Any transfer of Shares under the Plan is subject to such consent, if 
+any, of any authorities in any jurisdiction as may be required, and the 
+Participant shall be responsible for complying with the requirements to 
+obtain or obviate the necessity for such consents.
+ 
+20.5 	The terms of any individuals office or employment with any past or 
+present Group Company, and the rights and obligations of the individual 
+thereunder, shall not be affected by his participation in the Plan and the 
+Plan shall not form part of any contract of employment between the 
+individual and any such company.
+ 
+20.6 	An Eligible Employee shall have no right to receive an Award under 
+the Plan.
+ 
+20.7 	By participating in the Plan, the Participant waives all and any 
+rights to compensation or damages in consequence of the termination of his 
+office or employment with any past or present Group Company for any reason 
+whatsoever, whether lawfully or otherwise, insofar as those rights arise or 
+may arise from his ceasing to have rights under the Plan (including ceasing 
+to be entitled to exercise any Option) as a result of such termination, or 
+from the loss or diminution in value of such rights or entitlements, 
+including by reason of the operation of the terms of the Plan, any 
+determination by the Board pursuant to a discretion contained in the Plan 
+or the provisions of any statute or law relating to taxation.
+ 
+18
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+20.8 	Benefits under the Plan shall not form part of a Participants 
+remuneration for any purpose and shall not be pensionable.
+ 
+20.9 	The invalidity or non-enforceability of any provision or Rule of the 
+Plan shall not affect the validity or enforceability of the remaining 
+provisions and Rules of the Plan which shall continue in full force and 
+effect.
+ 
+20.10 	These Rules shall be governed by and construed in accordance with 
+English Law.
+ 
+20.11 	The English courts shall have exclusive jurisdiction to determine 
+any dispute which may arise out of, or in connection with, the Plan.
+ 
+19
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+APPENDIX 1: OPERATION OF CLAW-BACK
+
+Claw-back prior to the transfer of Shares in respect of an Award (or 
+malus)
+ 
+1. 	Where the Board determines (pursuant to Rule 15.1 or 15.2 (Claw-back 
+events)) that a Claw-back shall apply in respect of an Award prior to legal 
+title to Shares having been transferred to the Participant pursuant to the 
+Award (whether before or after vesting), the Claw-back shall be applied by 
+the Board reducing the number of Shares in respect of which the Award may 
+vest or, in the case of an Option, be exercised (or after vesting by 
+reducing the number of Shares legal title to which may be transferred 
+pursuant to the Award) by up to the number of Shares determined by the 
+Board to be the excess number of Shares in respect of which the Award was 
+granted and/or is outstanding (and the Award shall lapse to the extent so 
+reduced, which may be in full).
+
+
+Claw-back following the transfer of Shares in respect of an Award
+ 
+2. 	Where the Board determines (pursuant to Rule 15.1 or 15.2 (Claw-back 
+events)) that a Claw-back shall apply in respect of an Award following 
+legal title to Shares having been transferred to the Participant pursuant 
+to the Award (a Post-Transfer Claw-back), the Board shall determine:
+ 
+  	a. 	the excess number of Shares in respect of which the Award vested 
+(the Excess Shares); and
+ 
+  	b. 	the aggregate Market Value of such Excess Shares (as determined by 
+the Board) on the date on which the Award vested or, in the case of an 
+Option, the date the Option was exercised (the Equivalent Value).
+ 
+3. 	In the case of a Post-Transfer Claw-back:
+ 
+  	a. 	any dividends received in respect of the Shares subject to a 
+Forfeitable Share Award pursuant to Rule 6.5 (Dividend rights on 
+forfeitable Shares); and/or
+ 
+  	b. 	any cash payment made or additional Shares transferred pursuant to 
+Rule 11 (Dividend equivalent) in respect of such Award shall be subject to 
+the Claw-back to the extent that the Board determines that such cash 
+payment or Shares relate to the Excess Shares.
+ 
+4. 	A Post-Transfer Claw-back may be effected in such manner as may be 
+determined by the Board, and notified to the Participant, including by any 
+one or more of the following:
+ 
+  	a. 	by reducing the number of Shares and/or amount of cash in respect of 
+which an Outstanding Award vests or may vest (or has vested, but in respect 
+of which no Shares have yet been transferred or cash payment made), whether 
+before or after the assessment of performance conditions in respect of such 
+Outstanding Award, by the number of Excess Shares and/or the Equivalent 
+Value (and such Outstanding Award shall lapse to the extent so reduced);
+ 
+  	b. 	by setting-off against any amounts payable by any Group Company to 
+the Participant an amount up to the Equivalent Value (including from any 
+bonus payment which may otherwise become payable to the Participant); 
+and/or
+ 
+  	c. 	by requiring the Participant to immediately transfer to the Company 
+a number of Shares equal to the Excess Shares or a cash amount equal to the 
+Equivalent Value (which shall be an immediately payable debt due to the 
+Company), provided that the Board may reduce the number of Excess Shares or 
+the amount of the Equivalent Value subject to the Claw-back in order to 
+take account of any Tax Liability (as defined in Rule 13 (Tax Liability)) 
+which arose on the Excess Shares (howsoever delivered to the Participant).
+ 
+5. 	For the avoidance of doubt, nothing in Rule 15 (Clawback) or this 
+Appendix shall in any way restrict a Participant from being able to 
+transfer or otherwise deal in Shares acquired on vesting or exercise of an 
+Award.
+ 
+6. 	In paragraph 4 above:
+
+Outstanding Award means any other Award under the Plan, any award or 
+option under any other Employees Share Scheme operated from time to time 
+by any Group Company (other than any award or options granted under any 
+arrangement which satisfies the
+ 
+20
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+provisions of Schedules 2 or 3, or (unless the terms of such arrangement 
+state that shares acquired thereunder are subject to claw-back) 4 or 5, of 
+the Income Tax (Earnings and Pensions) Act 2003), or any bonus award under 
+any bonus scheme operated from time to time by any Group Company, in each 
+case which is either held by the Participant at the time of a determination 
+that a Claw-back shall be applied or which are granted to the Participant 
+following such a determination; and
+
+vests shall include shares or cash subject to an award becoming due to be 
+transferred or paid, and in the case of an option, the option becoming 
+exercisable.
+ 
+21
+
+------------------------------------------------------------------------
+British American Tobacco 2016 Long Term Incentive Plan
+ 
+APPENDIX 2: AWARDS GRANTED TO US TAXPAYERS
+ 
+ 
+22
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Participants excluding Executive Directors)
+
+
+SCHEDULE 1A
+
+PERFORMANCE CONDITION APPLICABLE TO AWARDS GRANTED IN 2016
+
+TO PARTICIPANTS OTHER THAN EXECUTIVE DIRECTORS
+ 
+1. 	Subject to the Rules, the extent to which the Shares in respect of 
+which an Award is granted (the Award Shares) may vest shall be 
+determined:
+ 
+  	a. 	as to 40% of the Award Shares, by reference to the performance 
+target based on Earnings per Share specified in paragraph 3 below is 
+satisfied
+ 
+  	b. 	as to 20% of the Award Shares, by reference to the performance 
+target based on Total Shareholder Return specified in paragraph 4 below;
+ 
+  	c. 	as to 20% of the Award Shares, by reference to the performance 
+target based on the Operating Cash Flow Conversion Ratio specified in 
+paragraph 5 below;
+ 
+  	d. 	as to 20% of the Award Shares, by reference to the performance 
+target based on Net Turnover specified in paragraph 6 below; and
+ 
+2. 	The Performance Period for Awards granted in 2016 shall commence on 1 
+January 2016 and end on 31 December 2018.
+ 
+3. 	Earnings per Share
+ 
+  	a. 	The performance target in this paragraph 3 (the EPS Target) shall 
+consist of two equal, independent elements such that the number of Award 
+Shares which vest pursuant to this EPS Target shall be the aggregate of the 
+number of Award Shares which vest pursuant to each element.
+ 
+  	b. 	Each element of the EPS Target operates by calculating the compound 
+annual growth in adjusted diluted earnings per share (unless the Board 
+determines that an alternative definition of earnings per share is more 
+appropriate) for the Company, in the case of the first element measured at 
+current rates of exchange, and in the case of the second element measured 
+at constant rates of exchange.
+ 
+  	  	EPS Target: current rates of exchange
+ 
+  	c. 	The percentage of the Award Shares which may vest pursuant to this 
+element of the EPS Target depends upon the compound annual growth in 
+adjusted diluted earnings per share over the Performance Period, measured 
+at current rates of exchange, as follows:
+ 
+Compound annual growth rate in adjusted diluted EPS (measured
+at current rates of exchange) over the Performance Period
+   	
+% of the Award Shares which vest pursuant to this element
+of the EPS Target
+10% pa or greater 	   	20%
+Between 10% pa and 5% pa 	   	Pro-rata between 20% and 4%
+5% pa 	   	4%
+Less than 5% pa 	   	0%
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Participants excluding Executive Directors)
+ 
+  	  	EPS Target: constant rates of exchange
+ 
+  	d. 	The percentage of the Award Shares which may vest pursuant to this 
+element of the EPS Target depends upon the compound annual growth in 
+adjusted diluted earnings per share over the Performance Period, measured 
+at constant rates of exchange, as follows:
+ 
+Compound annual growth rate in adjusted diluted EPS (measured
+at constant rates of exchange) over the Performance Period
+   	
+% of the Award Shares which vest pursuant to this element
+of the EPS Target
+10% pa or greater 	   	20%
+Between 10% pa and 5% pa 	   	Pro-rata between 20% and 4%
+5% pa 	   	4%
+Less than 5% pa 	   	0%
+ 
+  	e. 	For the purposes of paragraphs 3.c and 3.d above, compound annual 
+growth in adjusted diluted earnings per share over the Performance Period 
+(expressed as a percentage) is calculated as follows:
+ 
+[LOGO]
+
+Where:
+ 
+  	E0 = 	adjusted diluted earnings per share of the Company in the 
+Financial Year immediately preceding the Financial Year in which the 
+Performance Period begins (being Year 0); and
+ 
+  	E3 = 	adjusted diluted earnings per share of the Company in the final 
+Financial Year of the Performance Period (being Year 3),
+
+measured at:
+ 
+  	i. 	current rates of exchange for the purposes of paragraph 3.c; and
+ 
+  	ii. 	constant rates of exchange for the purposes of paragraph 3.d, for 
+which purpose the value of E0 and E3 shall be taken as index values, with 
+the value for E0 being the base index value (representing adjusted diluted 
+earnings per share in Year 0), with the purpose of such index being to 
+reflect changes over the Performance Period in adjusted diluted earnings 
+per share of the Company as measured on a constant currency basis, and E3 
+being taken as the value of such index for Year 3,
+
+and in either case provided that if the Board determines that a measurement 
+of earnings per share other than adjusted diluted earnings per share is 
+more appropriate the calculation shall be on that other basis and this 
+paragraph 3 shall apply accordingly).
+ 
+4. 	TSR Target
+ 
+  	a. 	The percentage of the Award Shares which may vest pursuant to the 
+performance target in this paragraph 4 (the TSR Target) depends upon the 
+Companys Total Shareholder Return over the Performance Period relative to 
+the Total Shareholder Return of the Comparator Group:
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Participants excluding Executive Directors)
+ 
+Ranked position of the Companys TSR against the relevant
+comparator companies
+   	
+% of the Award Shares which vest pursuant to this TSR
+Target
+Upper quartile or above 	   	20%
+Between upper quartile and median 	   	Pro-rata between 20% and 4%
+Median 	   	4%
+Below median 	   	0%
+ 
+  	b. 	For the purpose of this TSR Target:
+ 
+  	i. 	The Comparator Group shall comprise the following companies:
+ 
+Anheuser-Busch InBev 	   	Imperial Tobacco Group 	   	PepsiCo Inc
+Campbell Soup Company 	   	Japan Tobacco 	   	Pernod Ricard
+Carlsberg A/S 	   	Johnson & Johnson 	   	Philip Morris International
+Coca Cola 	   	Kellogg 	   	Procter & Gamble
+Colgate-Palmolive 	   	Kimberley-Clark 	   	Reckitt Benckiser
+Danone 	   	LVMH 	   	SABMiller
+Diageo 	   	Mondelez International 	   	Unilever
+Heineken 	   	Nestlé 	   	
+ 
+  	ii. 	The Total Shareholder Return of the Company and each of the 
+relevant comparator companies over the relevant Performance Period 
+(expressed as a percentage) shall be computed as follows:
+ 
+ 
+[LOGO]
+
+Where:
+ 
+  	TSR0 = 	the average return index of the relevant companies as calculated 
+by Datastream (or other such data provider as determined by the Board) 
+(excluding Saturdays and Sundays) in the three months preceding the 
+beginning of the Performance Period; and
+ 
+  	TSR3 = 	the average return index (calculated in the same manner as for 
+TSR0) in the 3 months preceding the end of the Performance Period.
+ 
+  	iii. 	Unless the Board determines otherwise, the Total Shareholder 
+Return for the Company and each of the relevant comparator companies shall 
+be calculated on a local currency basis.
+ 
+  	iv. 	The Company and the companies in the Comparator Group shall be 
+ranked by the resulting Total Shareholder Return figures, with the company 
+with the highest figure having the highest ranking, and median and upper 
+quartile performance shall be determined on such basis as the Board, acting 
+reasonably, may specify from time to time.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Participants excluding Executive Directors)
+ 
+5. 	Operating Cash Flow Conversion Ratio Target
+ 
+  	a. 	The percentage of the Award Shares which may vest pursuant to the 
+performance target in this paragraph 5 (the Operating Cash Flow Conversion 
+Ratio Target) depends upon the Companys average Operating Cash Flow as a 
+percentage of Adjusted Operating Profit over the Performance Period:
+ 
+Average Operating Cash Flow Conversion Ratio over the
+Performance Period
+   	
+% of the Award Shares which vest pursuant to the Operating
+Cash Flow Conversion Ratio Target
+95% or above 	   	20%
+Between 95% and 85% 	   	Pro-rata between 20% and 4%
+85% 	   	4%
+Less than 85% of Adjusted Operating Profit 	   	0%
+ 
+  	b. 	For the purpose of this Operating Cash Flow Conversion Ratio Target:
+ 
+  	i. 	the Average Operating Cash Flow Conversion Ratio is the aggregate 
+of the Operating Cash Flow Conversion Ratios for each Financial Year in the 
+Performance Period, divided by the number of Financial Years in the 
+Performance Period; and
+ 
+  	ii. 	the Operating Cash Flow Conversion Ratio for a Financial Year 
+(expressed as a percentage) is calculated as follows:
+ 
+[LOGO]
+
+Where:
+
+Operating Cash Flow in respect of a Financial Year is the adjusted profit 
+from operations (excluding associates) plus depreciation, amortisation and 
+impairment, plus other non-cash items, less the increase / (decrease) in 
+working capital, less net capital expenditure, in each case for such 
+Financial Year. All of these items are excluding costs and movements 
+relating to restructuring and integration in the Financial Year; and
+
+Adjusted Operating Profit in respect of a Financial Year is derived by 
+excluding the adjusting items from the profit from operations for such 
+Financial Year. Adjusting items include restructuring and integration 
+costs, amortisation and impairment of trademarks and similar intangibles, a 
+gain on deemed partial disposal of a trademark and a payment and release of 
+a provision relating to non-tobacco litigation.
+
+For the purpose of this Operating Cash Flow Conversion Ratio Target, 
+Operating Cash Flow and Adjusted Operating Profit are calculated at current 
+rates of exchange, unless the Board determines otherwise.
+ 
+6. 	Net Turnover Target
+ 
+  	a. 	The performance target in this paragraph 6 (the NTO Target) 
+operates by calculating the compound annual growth in the Net Turnover of 
+the Company, measured at constant rates of exchange on an organic basis.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Participants excluding Executive Directors)
+ 
+  	b. 	The percentage of the Award Shares which may vest pursuant to this 
+NTO Target depends upon the compound annual growth in Net Turnover over the 
+Performance Period as follows:
+ 
+Compound annual growth of Net Turnover over the Performance
+Period
+   	
+% of the Award Shares which vest pursuant to this NTO
+Target
+5% pa or greater 	   	20%
+Between 5% pa and 3% pa 	   	Pro-rata between 20% and 4%
+3% pa 	   	4%
+Less than 3% pa 	   	0%
+
+provided that, notwithstanding above, but subject to the Rules, no Award 
+Shares shall vest pursuant to this NTO Target unless the three-year 
+constant currency compound annual growth rate of underlying adjusted 
+operating profit exceeds the compound annual growth rate of the threshold 
+performance level for underlying adjusted operating profit, as defined 
+annually in the International Executive Incentive Scheme (as approved by 
+the Board).
+ 
+  	c. 	For the purposes of this NTO Target, compound annual growth of Net 
+Turnover (expressed as a percentage) is calculated as follows:
+ 
+ 
+[LOGO]
+
+Where:
+ 
+  	NTO0 = 	Net Turnover in the Financial Year immediately preceding the 
+Financial Year in which the Performance Period begins (being Year 0); and
+ 
+  	NTO3 = 	Net Turnover in the final Financial Year of the Performance 
+Period (being Year 3),
+
+measured at constant rates of exchange, for which purpose the value of NTO
+0 and NTO3 shall be taken as index values, with the value for NTO0 being 
+the base index value (representing Net Turnover in Year 0), with the 
+purpose of such index being to reflect changes over the Performance Period 
+in Net Turnover of the Company as measured on a constant currency basis, 
+and NTO3 being taken as the value of such index for Year 3, and where the 
+values for NTO3 and/or NTO0 shall be adjusted in such manner as is 
+determined by the Board to exclude any Net Turnover attributable to any 
+business acquired or disposed of during the Performance Period or otherwise 
+with the intention that the growth in Net Turnover is assessed by reference 
+to organic growth.
+ 
+7. 	Exchange rates
+
+In this Schedule:
+
+current rates of exchange means exchange rates applied for each year 
+relevant to a given calculation based on the average exchange rate in that 
+year; and
+
+constant rates of exchange means exchange rates applied based on a 
+re-translation, at prior year exchange rates, of the current year 
+information, in order that the same exchange rates are applied for each 
+year relevant to a given calculation.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Participants excluding Executive Directors)
+ 
+8. 	Adjustment to vesting outcome
+ 
+  	a. 	After the performance targets in paragraphs 3 to 6 have been 
+assessed, the Board may make such adjustment to the percentage of Shares of 
+the Award Shares that vest pursuant to one or more of such performance 
+targets to ensure a fair result for both the Participants and shareholders.
+ 
+  	b. 	An adjustment pursuant to this paragraph 8 may be either positive 
+(but, for the avoidance of doubt, not so that the percentage of the Award 
+Shares which vests pursuant to any one of the performance targets in 
+paragraphs 3 to 6 exceeds the maximum percentage of the Award Shares which 
+may vest pursuant to that performance target, as set out in paragraph 1) or 
+negative (including reducing the percentage of Awards Shares which vest to 
+nil). For the avoidance of doubt, where the Board makes any adjustment 
+pursuant to this paragraph 8 the percentage of Award Shares to be 
+transferred shall be the percentage as adjusted by the Board 
+notwithstanding the outcome of the performance targets as set out in 
+paragraphs 3 to 6.
+ 
+  	c. 	For the avoidance of doubt, vesting outcomes are subject to any 
+forfeiture or reduction of Awards pursuant to Rule 15 (Claw-back).
+ 
+9. 	Adjustments to performance targets
+ 
+  	a. 	In the event of:
+ 
+  	i. 	a change to the accounting standards of the Company or similar 
+event;
+ 
+  	ii. 	any events which affect any of the companies comprised in the 
+Comparator Group (such as a merger or de-listing);
+ 
+  	iii. 	any variation of capital of the Company or a demerger, delisting, 
+special dividend, rights issue or other event which may, in the opinion of 
+the Board, affect the current or future value of the Companys shares; or
+ 
+  	iv. 	any other similar event the Board considers relevant which may 
+unduly affect the calculation of the performance targets set out in 
+paragraphs 3 to 6,
+
+the Board may make such adjustments to the terms of this Performance 
+Condition as it determines appropriate to reflect such event with the 
+intention of ensuring that this Performance Condition continues to assess 
+the performance of the Company on a consistent basis over the Performance 
+Period.
+ 
+  	b. 	This Performance Condition may be amended in accordance with Rule 
+5.4 of the Plan.
+
+General
+ 
+10. 	References in this Schedule 1A to a paragraph are to a paragraph of 
+this Schedule 1A.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Executive Directors)
+
+
+SCHEDULE 1B
+
+PERFORMANCE CONDITION APPLICABLE TO AWARDS GRANTED IN 2016
+
+FOR EXECUTIVE DIRECTORS OF THE COMPANY
+ 
+1. 	Subject to the Rules, the extent to which the Shares in respect of 
+which an Award is granted (the Award Shares) may vest shall be 
+determined:
+ 
+  	a. 	as to 40% of the Award Shares, by reference to the performance 
+target based on Earnings per Share specified in paragraph 3 below is 
+satisfied
+ 
+  	b. 	as to 20% of the Award Shares, by reference to the performance 
+target based on Total Shareholder Return specified in paragraph 4 below;
+ 
+  	c. 	as to 20% of the Award Shares, by reference to the performance 
+target based on the Operating Cash Flow Conversion Ratio specified in 
+paragraph 5 below;
+ 
+  	d. 	as to 20% of the Award Shares, by reference to the performance 
+target based on Net Turnover specified in paragraph 6 below; and
+ 
+2. 	The Performance Period for Awards granted in 2016 shall commence on 1 
+January 2016 and end on 31 December 2018.
+ 
+3. 	Earnings per Share
+ 
+  	a. 	The performance target in this paragraph 3 (the EPS Target) shall 
+consist of two equal, independent elements such that the number of Award 
+Shares which vest pursuant to this EPS Target shall be the aggregate of the 
+number of Award Shares which vest pursuant to each element.
+ 
+  	b. 	Each element of the EPS Target operates by calculating the compound 
+annual growth in adjusted diluted earnings per share for the Company, in 
+the case of the first element measured at current rates of exchange, and in 
+the case of the second element measured at constant rates of exchange.
+ 
+  	  	EPS Target: current rates of exchange
+ 
+  	c. 	The percentage of the Award Shares which may vest pursuant to this 
+element of the EPS Target depends upon the compound annual growth in 
+adjusted diluted earnings per share over the Performance Period, measured 
+at current rates of exchange, as follows:
+ 
+Compound annual growth rate in adjusted diluted EPS (measured
+at current rates of exchange) over the Performance Period
+   	
+% of the Award Shares which vest pursuant to this element
+of the EPS Target
+10% pa or greater 	   	20%
+Between 10% pa and 5% pa 	   	Pro-rata between 20% and 3%
+5% pa 	   	3%
+Less than 5% pa 	   	0%
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Executive Directors)
+ 
+  	  	EPS Target: constant rates of exchange
+ 
+  	d. 	The percentage of the Award Shares which may vest pursuant to this 
+element of the EPS Target depends upon the compound annual growth in 
+adjusted diluted earnings per share over the Performance Period, measured 
+at constant rates of exchange, as follows:
+ 
+Compound annual growth rate in adjusted diluted EPS (measured
+at constant rates of exchange) over the Performance Period
+   	
+% of the Award Shares which vest pursuant to this element
+of the EPS Target
+10% pa or greater 	   	20%
+Between 10% pa and 5% pa 	   	Pro-rata between 20% and 3%
+5% pa 	   	3%
+Less than 5% pa 	   	0%
+ 
+  	e. 	For the purposes of paragraphs 3.c and 3.d above, compound annual 
+growth in adjusted diluted earnings per share over the Performance Period 
+(expressed as a percentage) is calculated as follows:
+ 
+[LOGO]
+
+Where:
+ 
+  	E0 = 	adjusted diluted earnings per share of the Company in the 
+Financial Year immediately preceding the Financial Year in which the 
+Performance Period begins (being Year 0); and
+ 
+  	E3 = 	adjusted diluted earnings per share of the Company in the final 
+Financial Year of the Performance Period (being Year 3),
+
+measured at:
+ 
+  	i. 	current rates of exchange for the purposes of paragraph 3.c; and
+ 
+  	ii. 	constant rates of exchange for the purposes of paragraph 3.d, for 
+which purpose the value of E0 and E3 shall be taken as index values, with 
+the value for E0 being the base index value (representing adjusted diluted 
+earnings per share in Year 0), with the purpose of such index being to 
+reflect changes over the Performance Period in adjusted diluted earnings 
+per share of the Company as measured on a constant currency basis, and E3 
+being taken as the value of such index for Year 3.
+ 
+4. 	TSR Target
+ 
+  	a. 	The percentage of the Award Shares which may vest pursuant to the 
+performance target in this paragraph 4 (the TSR Target) depends upon the 
+Companys Total Shareholder Return over the Performance Period relative to 
+the Total Shareholder Return of the Comparator Group:
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Executive Directors)
+ 
+Ranked position of the Companys TSR against the relevant
+comparator companies
+   	
+% of the Award Shares which vest pursuant to this TSR
+Target
+Upper quartile or above 	   	20%
+Between upper quartile and median 	   	Pro-rata between 20% and 3%
+Median 	   	3%
+Below median 	   	0%
+ 
+  	b. 	For the purpose of this TSR Target:
+ 
+  	i. 	The Comparator Group shall comprise the following companies:
+ 
+Anheuser-Busch InBev 	   	Imperial Tobacco Group 	   	PepsiCo Inc
+Campbell Soup Company 	   	Japan Tobacco 	   	Pernod Ricard
+Carlsberg A/S 	   	Johnson & Johnson 	   	Philip Morris International
+Coca Cola 	   	Kellogg 	   	Procter & Gamble
+Colgate-Palmolive 	   	Kimberley-Clark 	   	Reckitt Benckiser
+Danone 	   	LVMH 	   	SABMiller
+Diageo 	   	Mondelez International 	   	Unilever
+Heineken 	   	Nestlé 	   	
+ 
+  	ii. 	The Total Shareholder Return of the Company and each of the 
+relevant comparator companies over the relevant Performance Period 
+(expressed as a percentage) shall be computed as follows:
+ 
+[LOGO]
+
+Where:
+ 
+  	TSR0 = 	the average return index of the relevant companies as calculated 
+by Datastream (or other such data provider as determined by the Board) 
+(excluding Saturdays and Sundays) in the three months preceding the 
+beginning of the Performance Period; and
+ 
+  	TSR3 = 	the average return index (calculated in the same manner as for 
+TSR0) in the 3 months preceding the end of the Performance Period.
+ 
+  	iii. 	The Total Shareholder Return for the Company and each of the 
+relevant comparator companies shall be calculated on a local currency 
+basis.
+ 
+  	iv. 	The Company and the companies in the Comparator Group shall be 
+ranked by the resulting Total Shareholder Return figures, with the company 
+with the highest figure having the highest ranking, and median and upper 
+quartile performance shall be determined on such basis as the Board, acting 
+reasonably, may specify from time to time.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Executive Directors)
+ 
+5. 	Operating Cash Flow Conversion Ratio Target
+ 
+  	a. 	The percentage of the Award Shares which may vest pursuant to the 
+performance target in this paragraph 5 (the Operating Cash Flow Conversion 
+Ratio Target) depends upon the Companys average Operating Cash Flow as a 
+percentage of Adjusted Operating Profit over the Performance Period:
+ 
+Average Operating Cash Flow Conversion Ratio over the
+Performance Period
+   	
+% of the Award Shares which vest pursuant to the Operating
+Cash Flow Conversion Ratio Target
+95% or above 	   	20%
+Between 95% and 85% 	   	Pro-rata between 20% and 3%
+85% 	   	3%
+Less than 85% of Adjusted Operating Profit 	   	0%
+ 
+  	b. 	For the purpose of this Operating Cash Flow Conversion Ratio Target:
+ 
+  	i. 	the Average Operating Cash Flow Conversion Ratio is the aggregate 
+of the Operating Cash Flow Conversion Ratios for each Financial Year in the 
+Performance Period, divided by the number of Financial Years in the 
+Performance Period; and
+ 
+  	ii. 	the Operating Cash Flow Conversion Ratio for a Financial Year 
+(expressed as a percentage) is calculated as follows:
+ 
+[LOGO]
+
+Where:
+
+Operating Cash Flow in respect of a Financial Year is the adjusted profit 
+from operations (excluding associates) plus depreciation, amortisation and 
+impairment, plus other non-cash items, less the increase / (decrease) in 
+working capital, less net capital expenditure, in each case for such 
+Financial Year. All of these items are excluding costs and movements 
+relating to restructuring and integration in the Financial Year; and
+
+Adjusted Operating Profit in respect of a Financial Year is derived by 
+excluding the adjusting items from the profit from operations for such 
+Financial Year. Adjusting items include restructuring and integration 
+costs, amortisation and impairment of trademarks and similar intangibles, a 
+gain on deemed partial disposal of a trademark and a payment and release of 
+a provision relating to non-tobacco litigation.
+
+For the purpose of this Operating Cash Flow Conversion Ratio Target, 
+Operating Cash Flow and Adjusted Operating Profit are calculated at current 
+rates of exchange.
+ 
+6. 	Net Turnover Target
+ 
+  	a. 	The performance target in this paragraph 6 (the NTO Target) 
+operates by calculating the compound annual growth in the Net Turnover of 
+the Company, measured at constant rates of exchange on an organic basis.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Executive Directors)
+ 
+  	b. 	The percentage of the Award Shares which may vest pursuant to this 
+NTO Target depends upon the compound annual growth in Net Turnover over the 
+Performance Period as follows:
+ 
+Compound annual growth of Net Turnover over the Performance
+Period
+   	
+% of the Award Shares which vest pursuant to this NTO
+Target
+5% pa or greater 	   	20%
+Between 5% pa and 3% pa 	   	Pro-rata between 20% and 3%
+3% pa 	   	3%
+Less than 3% pa 	   	0%
+
+provided that, notwithstanding above, but subject to the Rules, no Award 
+Shares shall vest pursuant to this NTO Target unless the three-year 
+constant currency compound annual growth rate of underlying adjusted 
+operating profit exceeds the compound annual growth rate of the threshold 
+performance level for underlying adjusted operating profit, as defined 
+annually in the International Executive Incentive Scheme (as approved by 
+the Board).
+ 
+  	c. 	For the purposes of this NTO Target, compound annual growth of Net 
+Turnover (expressed as a percentage) is calculated as follows:
+ 
+ 
+[LOGO]
+
+Where:
+ 
+  	NTO0 = 	Net Turnover in the Financial Year immediately preceding the 
+Financial Year in which the Performance Period begins (being Year 0); and
+ 
+  	NTO3 = 	Net Turnover in the final Financial Year of the Performance 
+Period (being Year 3),
+
+measured at constant rates of exchange, for which purpose the value of NTO
+0 and NTO3 shall be taken as index values, with the value for NTO0 being 
+the base index value (representing Net Turnover in Year 0), with the 
+purpose of such index being to reflect changes over the Performance Period 
+in Net Turnover of the Company as measured on a constant currency basis, 
+with NTO3 being taken as the value of such index for Year 3, and where the 
+values for NTO3 and/or NTO0 shall be adjusted in such manner as is 
+determined by the Board to exclude any Net Turnover attributable to any 
+business acquired or disposed of during the Performance Period or otherwise 
+with the intention that the growth in Net Turnover is assessed by reference 
+to organic growth.
+ 
+7. 	Exchange rates
+
+In this Schedule:
+
+current rates of exchange means exchange rates applied for each year 
+relevant to a given calculation based on the average exchange rate in that 
+year; and
+
+constant rates of exchange means exchange rates applied based on a 
+re-translation, at prior year exchange rates, of the current year 
+information, in order that the same exchange rates are applied for each 
+year relevant to a given calculation.
+
+------------------------------------------------------------------------
+Performance Condition applicable to Awards granted in 2016
+(Executive Directors)
+ 
+8. 	Adjustment to vesting outcome
+ 
+  	a. 	After the performance targets in paragraphs 3 to 6 have been 
+assessed, the Board may make such adjustment to the percentage of Shares of 
+the Award Shares that vest pursuant to one or more of such performance 
+targets to ensure a fair result for both the Participants and shareholders.
+ 
+  	b. 	An adjustment pursuant to this paragraph 8 may be either positive 
+(but, for the avoidance of doubt, not so that the percentage of the Award 
+Shares which vests pursuant to any one of the performance targets in 
+paragraphs 3 to 6 exceeds the maximum percentage of the Award Shares which 
+may vest pursuant to that performance target, as set out in paragraph 1) or 
+negative (including reducing the percentage of Awards Shares which vest to 
+nil). For the avoidance of doubt, where the Board makes any adjustment 
+pursuant to this paragraph 8 the percentage of Award Shares to be 
+transferred shall be the percentage as adjusted by the Board 
+notwithstanding the outcome of the performance targets as set out in 
+paragraphs 3 to 6.
+ 
+  	c. 	For the avoidance of doubt, vesting outcomes are subject to any 
+forfeiture or reduction of Awards pursuant to Rule 15 (Claw-back).
+ 
+9. 	Adjustments to performance targets
+ 
+  	a. 	In the event of:
+ 
+  	i. 	a change to the accounting standards of the Company or similar 
+event;
+ 
+  	ii. 	any events which affect any of the companies comprised in the 
+Comparator Group (such as a merger or de-listing);
+ 
+  	iii. 	any variation of capital of the Company or a demerger, delisting, 
+special dividend, rights issue or other event which may, in the opinion of 
+the Board, affect the current or future value of the Companys shares; or
+ 
+  	iv. 	any other similar event the Board considers relevant which may 
+unduly affect the calculation of the performance targets set out in 
+paragraphs 3 to 6,
+
+the Board may make such adjustments to the terms of this Performance 
+Condition as it determines appropriate to reflect such event with the 
+intention of ensuring that this Performance Condition continues to assess 
+the performance of the Company on a consistent basis over the Performance 
+Period.
+ 
+  	b. 	This Performance Condition may be amended in accordance with Rule 
+5.4 of the Plan.
+
+General
+ 
+10. 	References in this Schedule 1B to a paragraph are to a paragraph of 
+this Schedule 1B.

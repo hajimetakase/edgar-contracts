@@ -1,0 +1,1936 @@
+ EX-10.2 4 d101223dex102.htm EX-10.2
+Exhibit 10.2
+ 
+ 
+
+OMNIBUS AGREEMENT
+
+by and among
+
+HESS CORPORATION,
+
+HESS INFRASTRUCTURE PARTNERS LP,
+
+HESS INFRASTRUCTURE PARTNERS GP LLC,
+
+HESS MIDSTREAM PARTNERS LP,
+
+HESS TGP GP LLC,
+
+HESS TGP OPERATIONS LP,
+
+HESS NORTH DAKOTA EXPORT LOGISTICS GP LLC,
+
+HESS NORTH DAKOTA EXPORT LOGISTICS OPERATIONS LP,
+
+HESS NORTH DAKOTA PIPELINES OPERATIONS LP,
+
+HESS NORTH DAKOTA PIPELINES GP LLC,
+
+HESS MIDSTREAM PARTNERS GP LP
+
+and
+
+HESS MIDSTREAM PARTNERS GP LLC
+ 
+ 
+
+------------------------------------------------------------------------
+Contents
+ 
+ Article I. Defined Terms
+   	  	2 	  
+   Section 1.01
+  	
+   Defined Terms
+   	  	2 	  
+   Section 1.02
+  	
+   Other Defined Terms
+   	  	8 	  
+   Section 1.03
+  	
+   Terms Generally
+   	  	8 	  
+ Article II. Term
+   	  	9 	  
+   Section 2.01
+  	
+   Term and Termination
+   	  	9 	  
+   Section 2.02
+  	
+   Transition Services Upon Termination
+   	  	9 	  
+ Article III. Indemnity
+   	  	9 	  
+   Section 3.01
+  	
+   Environmental Indemnification
+   	  	9 	  
+   Section 3.02
+  	
+   Right of Way and Real Property Indemnification
+   	  	13 	  
+   Section 3.03
+  	
+   Additional Indemnification by HIP LP
+   	  	13 	  
+   Section 3.04
+  	
+   Additional Indemnification by the Public Company Group
+   	  	14 	  
+   Section 3.05
+  	
+   Additional Indemnification by HTGP Opco
+   	  	15 	  
+   Section 3.06
+  	
+   Additional Indemnification by Logistics Opco
+   	  	15 	  
+   Section 3.07
+  	
+   Additional Indemnification by Gathering Opco
+   	  	15 	  
+   Section 3.08
+  	
+   Indemnification Procedures
+   	  	15 	  
+   Section 3.09
+  	
+   Limitations on Indemnity Coverage
+   	  	17 	  
+ Article IV. Services
+   	  	18 	  
+   Section 4.01
+  	
+   General
+   	  	18 	  
+   Section 4.02
+  	
+   Reimbursement and Allocation
+   	  	18 	  
+   Section 4.03
+  	
+   Services Standard
+   	  	20 	  
+ Article V. Right of First Offer
+   	  	20 	  
+   Section 5.01
+  	
+   Right of First Offer to Purchase Certain Assets
+   	  	20 	  
+   Section 5.02
+  	
+   Procedures
+   	  	20 	  
+ Article VI. License of Name and Mark
+   	  	22 	  
+   Section 6.01
+  	
+   Grant of License
+   	  	22 	  
+   Section 6.02
+  	
+   Ownership and Quality
+   	  	22 	  
+   Section 6.03
+  	
+   Termination
+   	  	23 	  
+ Article VII. Notices
+   	  	23 	  
+   Section 7.01
+  	
+   Notices
+   	  	23 	  
+ Article VIII. Limitation of Liability
+   	  	24 	  
+   Section 8.01
+  	
+   No Liability for Consequential Damages
+   	  	24 	  
+ Article IX. Miscellaneous
+   	  	25 	  
+   Section 9.01
+  	
+   Assignment
+   	  	25 	  
+   Section 9.02
+  	
+   Modification
+   	  	25 	  
+   Section 9.03
+  	
+   Entire Agreement
+   	  	25 	  
+ 
+i
+
+------------------------------------------------------------------------
+   Section 9.04
+  	
+   Governing Law; Jurisdiction
+   	  	25 	  
+   Section 9.05
+  	
+   Severability
+   	  	25 	  
+   Section 9.06
+  	
+   No Third-Party Beneficiaries
+   	  	26 	  
+   Section 9.07
+  	
+   WAIVER OF JURY TRIAL
+   	  	26 	  
+   Section 9.08
+  	
+   Non-Waiver
+   	  	26 	  
+   Section 9.09
+  	
+   Counterparts; Multiple Originals
+   	  	26 	  
+   Section 9.10
+  	
+   Schedules
+   	  	26 	  
+   Section 9.11
+  	
+   Survival
+   	  	26 	  
+   Section 9.12
+  	
+   Table of Contents; Headings; Subheadings
+   	  	26 	  
+   Section 9.13
+  	
+   Construction
+   	  	27 	  
+   Section 9.14
+  	
+   Business Practices
+   	  	27 	  
+   Section 9.15
+  	
+   Binding Effect
+   	  	27 	  
+ 
+ Schedule I
+   	
+ Environmental Matters
+ Schedule II
+   	
+ General and Administrative Services
+ Schedule III
+   	
+ ROFO Assets
+ Schedule IV
+   	
+ Services Mark-Up Percentage
+ 
+ii
+
+------------------------------------------------------------------------
+OMNIBUS AGREEMENT
+
+This OMNIBUS AGREEMENT is entered into as of the Effective Date by and 
+among HESS CORPORATION, a Delaware corporation (Hess), on behalf of 
+itself and the other Hess Entities (as defined herein), HESS INFRASTRUCTURE 
+PARTNERS LP, a Delaware limited partnership (HIP LP), HESS INFRASTRUCTURE 
+PARTNERS GP LLC, a Delaware limited liability company (HIP GP), HESS 
+MIDSTREAM PARTNERS LP, a Delaware limited partnership (the Partnership), 
+HESS TGP GP LLC, a Delaware limited liability company, HESS TGP OPERATIONS 
+LP, a Delaware limited partnership (HTGP Opco), HESS NORTH DAKOTA EXPORT 
+LOGISTICS GP LLC, a Delaware limited liability company, HESS NORTH DAKOTA 
+EXPORT LOGISTICS OPERATIONS LP, a Delaware limited partnership (Logistics 
+Opco), HESS NORTH DAKOTA PIPELINES OPERATIONS LP, a Delaware limited 
+partnership (Gathering Opco), HESS NORTH DAKOTA PIPELINES GP LLC, a 
+Delaware limited liability company (Gathering GP), HESS MIDSTREAM 
+PARTNERS GP LP, a Delaware limited partnership and the general partner of 
+the Partnership (the MLP GP LP), and HESS MIDSTREAM PARTNERS GP LLC, a 
+Delaware limited liability company and the general partner of MLP GP LP (
+MLP GP LLC and, together with the MLP GP LP, the General Partner).
+
+
+Recitals
+
+WHEREAS, the Parties (as defined herein) desire by their execution of this 
+Agreement to evidence their understanding, as more fully set forth in 
+Article III, with respect to certain indemnification obligations of the 
+Parties to each other;
+
+WHEREAS, the Parties desire by their execution of this Agreement to 
+evidence their understanding, as more fully set forth in Article IV, with 
+respect to the amount to be paid by the Partnership for the General and 
+Administrative Services (as defined herein) to be performed by Hess for and 
+on behalf of the Public Company Group (as defined herein);
+
+WHEREAS, the Parties desire by their execution of this Agreement to 
+evidence their understanding, as more fully set forth in Article V, with 
+respect to the Public Company Groups right of first offer with respect to 
+the ROFO Assets (as defined herein); and
+
+WHEREAS, the Parties desire by their execution of this Agreement to 
+evidence their understanding, as more fully set forth in Article VI, with 
+respect to the granting of a license to the Public Company Group Members 
+(as defined herein) to use the Hess name and any other trademarks owned 
+by Hess that contain such name.
+ 
+1
+
+------------------------------------------------------------------------
+NOW, THEREFORE, for good and valuable consideration, the receipt and 
+sufficiency of which are hereby acknowledged, and intending to be legally 
+bound, the Parties agree as follows:
+
+
+ARTICLE I.    DEFINED TERMS
+
+Section 1.01    Defined Terms. The following definitions shall for all 
+purposes apply to the capitalized terms used in this Agreement:
+
+Affiliate has the meaning ascribed to that term in the Partnership 
+Agreement.
+
+Agreement means this Omnibus Agreement, together with all Schedules 
+attached hereto, as the same may be amended, supplemented or restated from 
+time to time in accordance with the provisions hereof.
+
+Applicable Law means any applicable statute, law, regulation, ordinance, 
+rule, determination, judgment, rule of law, order, decree, permit, 
+approval, concession, grant, franchise, license, requirement, or any 
+similar form of decision of, or any provision or condition of any permit, 
+license or other operating authorization issued by any Governmental 
+Authority having or asserting jurisdiction over the matter or matters in 
+question, whether now or hereafter in effect.
+
+Assets means the Facilities, including all pipelines, compression 
+equipment, storage tanks, terminal facilities, truck facilities, truck 
+racks, rail facilities, rail racks, rail cars, offices and related 
+equipment, real estate and other assets, or portions thereof, in each case, 
+indirectly conveyed, contributed or otherwise transferred, or intended to 
+be indirectly conveyed, contributed or otherwise transferred, to the 
+Partnership or any other Public Company Group Member from HIP LP or any 
+other Non-Public Company Group Member pursuant to the Contribution 
+Agreement, together with the additional conveyance documents and 
+instruments contemplated or referenced thereunder, or owned by, leased by 
+or necessary for the operation of the business, properties or assets of any 
+member of the Public Company Group prior to or as of the Effective Date.
+
+Business Day means any Day except for Saturday, Sunday or a legal holiday 
+in Texas.
+
+Contribution Agreement means that certain Contribution, Conveyance and 
+Assumption Agreement, dated as of the Effective Date, by and among HIP LP, 
+HIP GP, the General Partner, the Partnership, HTGP Opco, Gathering Opco, 
+Logistics Opco and the other parties thereto, together with the additional 
+conveyance documents and instruments contemplated or referenced thereunder, 
+as such may be amended, supplemented or restated from time to time.
+
+Control and its derivatives mean, with respect to any Person, the 
+possession, directly or indirectly, of (a) the power to direct or cause the 
+direction of the management and policies of a Person, whether by contract 
+or otherwise, (b) without limiting any other subsection of this definition, 
+if applicable to such Person (even if such Person is a corporation), where 
+such Person is a corporation, the power to exercise or determine the voting 
+of more than 50% of the voting rights in such corporation, (c) without 
+limiting any other subsection of this definition, if applicable to such 
+Person (even if such Person is a
+ 
+2
+
+------------------------------------------------------------------------
+limited partnership), where such Person is a limited partnership, ownership 
+of all of the equity of the sole general partner of such limited 
+partnership, or (d) without limiting any other subsection of this 
+definition, if applicable to such Person, in the case of a Person that is 
+any other type of entity, the right to exercise or determine the voting of 
+more than 50% of the Equity Interests in such Person having voting rights, 
+whether by contract or otherwise.
+
+Covered Environmental Losses has the meaning ascribed to that term in 
+Section 3.01(a).
+
+Covered Property Losses has the meaning ascribed to that term in Section 
+3.02.
+
+Day means the period of time commencing at 0000 hours on one calendar day 
+and running until, but not including, 0000 hours on the next calendar day, 
+according to local time in Houston, Texas.
+
+Effective Date means the date of the closing of the initial public 
+offering of common units representing limited partner interests in the 
+Partnership.
+
+Environmental Cap has the meaning ascribed to that term in Section 
+3.09(a).
+
+Environmental Deductible has the meaning ascribed to that term in 
+Section 3.09(a).
+
+Environmental Laws means all federal, state, and local laws, statutes, 
+rules, regulations, orders, judgments, ordinances, codes, injunctions, 
+decrees, Environmental Permits and other legally enforceable requirements 
+and rules of common law now or hereafter in effect, relating to (a) 
+pollution or protection of human health, natural resources, wildlife and 
+the environment including, without limitation, the federal Comprehensive 
+Environmental Response, Compensation, and Liability Act, the Superfund 
+Amendments Reauthorization Act, the Resource Conservation and Recovery Act, 
+the Clean Air Act, the Federal Water Pollution Control Act, the Toxic 
+Substances Control Act, the Oil Pollution Act, the Safe Drinking Water Act, 
+the Hazardous Materials Transportation Act, and other environmental 
+conservation and protection laws and the regulations promulgated pursuant 
+thereto, and any state or local counterparts, each as amended from time to 
+time, and (b) the generation, manufacture, processing, distribution, use, 
+treatment, storage, transport, or handling of any Hazardous Substance.
+
+Environmental Permit means any permit, approval, identification number, 
+license, registration, certification, consent, exemption, variance or other 
+authorization required under or issued pursuant to any applicable 
+Environmental Law, including applications for renewal of such permits in 
+which the application allows for continued operation under the terms of an 
+expired permit.
+
+Equity Interests means, with respect to any Person, (a) capital stock, 
+membership interests, partnership interests, other equity interests, rights 
+to profits or
+ 
+3
+
+------------------------------------------------------------------------
+revenue and any other similar interest in such Person, (b) any security or 
+other interest convertible into or exchangeable or exercisable for any of 
+the foregoing, whether at the time of issuance or upon the passage of time 
+or the occurrence of some future event, and (c) any warrant, option or 
+other right (contingent or otherwise) to acquire any of the foregoing.
+
+Facilities means the Tioga Gas Plant, the Tioga Rail Terminal, the 
+Ramberg Terminal Facility, the Gathering Assets and the Mentor Storage 
+Terminal.
+
+Gathering Assets means all Assets owned by Gathering Opco and its 
+Subsidiaries.
+
+Gathering Opco has the meaning ascribed to that term in the introductory 
+paragraph.
+
+General Partner has the meaning ascribed to that term in the introductory 
+paragraph.
+
+Governmental Authority means any federal, state, local or foreign 
+government or any provincial, departmental or other political subdivision 
+thereof, or any entity, body or authority exercising executive, 
+legislative, judicial, regulatory, administrative or other governmental 
+functions or any court, department, commission, board, bureau, agency, 
+instrumentality or administrative body of any of the foregoing.
+
+Hazardous Substance means (a) any substance, whether solid, liquid, 
+gaseous, semi-solid or any combination thereof, that is designated, defined 
+or classified as a hazardous waste, solid waste, hazardous material, 
+pollutant, contaminant or toxic or hazardous substance, or terms of similar 
+meaning, or that is otherwise regulated under any Environmental Law, 
+including, without limitation, any hazardous substance as defined under the 
+Comprehensive Environmental Response, Compensation, and Liability Act, as 
+amended, and including friable asbestos and lead containing paints or 
+coatings, radioactive materials, and polychlorinated biphenyls, and (b) 
+petroleum, oil, gasoline, natural gas, fuel oil, motor oil, waste oil, 
+diesel fuel, jet fuel, and other refined petroleum hydrocarbons.
+
+Hess has the meaning ascribed to that term in the introductory paragraph.
+
+Hess Entities means Hess and any Person Controlled, directly or 
+indirectly, by Hess, in each case, other than a Public Company Group Member 
+or a Non-Public Company Group Member, collectively; and Hess Entity means 
+any of the Hess Entities, individually.
+ 
+4
+
+------------------------------------------------------------------------
+HIP Change of Control means that the Hess Entities, collectively, cease 
+to own at least 15% of the issued and outstanding Equity Interests in HIP 
+GP.
+
+HIP GP has the meaning ascribed to that term in the introductory 
+paragraph.
+
+HIP LP has the meaning ascribed to that term in the introductory 
+paragraph.
+
+HTGP Assets means all Assets owned by HTGP Opco and its Subsidiaries.
+
+HTGP Opco has the meaning ascribed to that term in the introductory 
+paragraph.
+
+Indemnified Party means any applicable Public Company Group Member, any 
+applicable Hess Entity or any applicable Non-Public Company Group Member, 
+as the case may be, in such Persons capacity as the Person entitled to 
+indemnification in accordance with Article III.
+
+Indemnifying Party means any applicable Public Company Group Member, any 
+applicable Hess Entity or any applicable Non-Public Company Group Member, 
+as the case may be, in such Persons capacity as the Person from whom 
+indemnification may be sought in accordance with Article III.
+
+Interest Rate means the percentage rate per annum which shall be equal to 
+the Prime rate as quoted by Bloomberg which appears on the screen display 
+designated as PRIME Index (or such other screen display that may replace 
+it in the future) at or after 5:00pm EST time on the relevant Business Day 
+or, if such day is not a Business Day, on the previous Business Day, plus 
+an additional two percentage points (or if such rate is contrary to any 
+Applicable Law, the maximum rate permitted by such Applicable Law).
+
+Joint Interest Assets means the HTGP Assets, the Gathering Assets and the 
+Logistics Assets, collectively.
+
+License has the meaning ascribed to that term in Section 6.01.
+
+Limited Partner has the meaning ascribed to that term in the Partnership 
+Agreement.
+
+Logistics Assets means all Assets owned by Logistics Opco and its 
+Subsidiaries.
+
+Logistics Opco has the meaning ascribed to that term in the introductory 
+paragraph.
+
+Losses means any losses, damages, liabilities, claims, demands, causes of 
+action, judgments, settlements, fines, penalties, costs and expenses 
+(including, without limitation, court costs and reasonable attorneys and 
+experts fees) of any and every kind or character, known or unknown, fixed 
+or contingent.
+ 
+5
+
+------------------------------------------------------------------------
+Marks has the meaning ascribed to that term in Section 6.01.
+
+MLP GP LLC has the meaning ascribed to that term in the introductory 
+paragraph.
+
+Month or Monthly means a calendar month commencing at 0000 hours on the 
+first Day thereof and running until, but not including, 0000 hours on the 
+first Day of the following calendar month, according to local time in 
+Houston, Texas.
+
+Name has the meaning ascribed to that term in Section 6.01.
+
+Non-Public Company Group means, at any date of determination, HIP LP, HIP 
+GP and each of their respective Subsidiaries, collectively, but 
+specifically excluding any Public Company Group Member.
+
+Non-Public Company Group Member means any member of the Non-Public 
+Company Group.
+
+Notice has the meaning ascribed to that term in Section 7.01.
+
+Partnership has the meaning ascribed to that term in the introductory 
+paragraph.
+
+Partnership Agreement means the Second Amended and Restated Agreement of 
+Limited Partnership of the Partnership, dated as of the Effective Date, as 
+such agreement is in effect on the Effective Date, to which reference is 
+hereby made for all purposes of this Agreement.
+
+Partnership Interest has the meaning ascribed to that term in the 
+Partnership Agreement.
+
+Party means Hess, the Partnership, HIP LP, HIP GP, Hess TGP GP LLC, HTGP 
+Opco, Hess North Dakota Export Logistics GP LLC, Logistics Opco, Hess North 
+Dakota Pipelines GP LLC, Gathering Opco, the MLP GP LP or MLP GP LLC, 
+individually; and Parties means Hess, the Partnership, HIP LP, HIP GP, 
+Hess TGP GP LLC, HTGP Opco, Hess North Dakota Export Logistics GP LLC, 
+Logistics Opco, Hess North Dakota Pipelines GP LLC, Gathering Opco, the MLP 
+GP LP and MLP GP LLC, collectively.
+
+Permit means any permits, licenses, certificates of authority, 
+authorizations, registrations, identification numbers, certifications, 
+franchises, consents or approvals granted or issued by any Governmental 
+Authority.
+
+Person means, without limitation, an individual, corporation (including a 
+non-profit corporation), general or limited partnership, limited liability 
+company, joint venture, estate, trust, association, organization, labor 
+union, or other entity or Governmental Authority, and shall include any 
+successor (by merger or otherwise) of such entity.
+
+Property Deductible has the meaning ascribed to that term in Section 
+3.09(b).
+ 
+6
+
+------------------------------------------------------------------------
+Proposed Transaction has the meaning ascribed to that term in Section 
+5.02(a).
+
+Prudent Industry Practice means such practices, methods, acts, 
+techniques, and standards as are in effect at the time in question that are 
+required by and in accordance with Applicable Law and are consistent with 
+the higher of (a) the standards generally followed by reputable owners and 
+operators of crude oil, natural gas and NGL gathering systems and 
+compression equipment, natural gas processing and fractionation facilities, 
+natural gas storage and transloading facilities, crude oil and NGL 
+terminals or crude oil rail cars, as applicable, in the United States, and 
+(b) the standards applied or followed by Hess or its Affiliates as owners 
+or operators of such assets, or by the Public Company Group or its 
+Affiliates as owners or operators of such assets.
+
+Public Company Group means, at any date of determination, (a) the 
+Partnership, (b) the MLP GP LP, (c) MLP GP LLC, and (d) the respective 
+Subsidiaries of the Partnership, the MLP GP LP and/or MLP GP LLC, all of 
+the foregoing being treated as a single consolidated entity.
+
+Public Company Group Member means any member of the Public Company Group.
+
+Registration Statement means the Registration Statement on Form S-1 
+filed by the Partnership with the United States Securities and Exchange 
+Commission (Registration No. 333-198896), as amended.
+
+Retained Assets means all midstream assets, including pipelines, storage 
+tanks, terminal facilities, truck facilities, truck racks, rail facilities, 
+rail racks, rail cars, offices and related equipment, real estate and other 
+related assets, or portions thereof or interests therein, owned by any 
+Non-Public Company Group Member that were not directly or indirectly 
+conveyed, contributed or otherwise transferred to the Public Company Group 
+pursuant to the Contribution Agreement or the other documents referred to 
+in the Contribution Agreement.
+
+Rights of Way means all permits, licenses, servitudes, easements, fee 
+surface, surface leases and rights-of-way primarily used or held for use in 
+connection with the ownership or operation of the Assets, other than 
+Permits.
+
+ROFO Assets means the assets listed on Schedule III to this Agreement.
+
+ROFO Notice has the meaning ascribed to that term in Section 5.02(a).
+
+ROFO Period has the meaning ascribed to that term in Section 5.01(a).
+
+ROFO Response has the meaning ascribed to that term in Section 5.02(a).
+
+Secondment Agreement means that certain Employee Secondment Agreement, 
+dated as of the Effective Date, by and among Hess, Hess Trading 
+Corporation, the MLP GP LP and MLP GP LLC, as the same may be amended, 
+supplemented or restated from time to time.
+ 
+7
+
+------------------------------------------------------------------------
+Services has the meaning ascribed to that term in Section 4.01.
+
+Subsidiary means, with respect to any Person, any other Person in which 
+such first Person, directly or indirectly, owns an Equity Interest.
+
+Tariff Agreements means, as the context requires, any of the following 
+(in each case, as the same may be amended, modified or supplemented from 
+time to time): (a) that certain Amended and Restated Gas Gathering 
+Agreement, effective as of January 1, 2014, by and between Hess North 
+Dakota Pipelines LLC and Hess Trading Corporation; (b) that certain Amended 
+and Restated Gas Processing and Fractionation Agreement, effective as of 
+January 1, 2014, by and between Hess Tioga Gas Plant LLC and Hess Trading 
+Corporation; (c) that certain Amended and Restated Crude Oil Gathering 
+Agreement, effective as of January 1, 2014, by and between Hess North 
+Dakota Pipelines LLC and Hess Trading Corporation; (d) that certain Second 
+Amended and Restated Terminal and Export Services Agreement, effective as 
+of January 1, 2014, by and between Hess North Dakota Export Logistics LLC 
+and Hess Trading Corporation; and (e) that certain Storage Services 
+Agreement, effective as of January 1, 2014, by and between Solar Gas Inc. 
+and Hess Mentor Storage LLC.
+
+Taxes means any income, sales, use, excise, transfer, and similar taxes, 
+fees and charges (including ad valorem taxes), including any interest or 
+penalties attributable thereto, imposed by any Governmental Authority.
+
+Transfer means to, directly or indirectly, sell, assign, lease, convey, 
+contribute, transfer or otherwise dispose of, whether in one or a series of 
+transactions.
+
+Section 1.02    Other Defined Terms.    Other terms may be defined 
+elsewhere in this Agreement, and, unless otherwise indicated, shall have 
+such meanings ascribed to such terms elsewhere in this Agreement.
+
+Section 1.03    Terms Generally.    The definitions in this Agreement shall 
+apply equally to both singular and plural forms of the terms defined. 
+Whenever the context may require, any pronoun shall include the 
+corresponding masculine, feminine and neuter forms. The word include, 
+includes and including shall be deemed to be followed by the phrase 
+without limitation. The word hereunder, hereof, hereto and words of 
+similar import will be deemed references to this Agreement as a whole and 
+not to any particular Section or other provision hereof or thereof. All 
+references to Articles, Sections, subsections and other divisions and 
+Schedules shall be deemed to be references to Articles, Sections, 
+subsections and other divisions of, and Schedules to, this Agreement unless 
+the context requires otherwise.
+ 
+8
+
+------------------------------------------------------------------------
+ARTICLE II.    TERM
+
+Section 2.01    Term and Termination. This Agreement shall commence on the 
+Effective Date and shall continue in effect until the earlier of (a) the 
+date this Agreement is terminated by a written agreement executed by each 
+of the Parties, and (b) upon the delivery of written notice from either 
+Hess, HIP LP or the Partnership at any time following the occurrence of a 
+HIP Change of Control. Any termination pursuant to this Section 2.01 shall 
+be effective on the earlier of (i) 90 days following the applicable (A) 
+agreement of the Parties pursuant to Section 2.01(a), or (B) Partys 
+receipt of such written Notice pursuant to Section 2.01(b), as applicable, 
+and (ii) the Parties entering into a transition services agreement pursuant 
+to Section 2.02. Notwithstanding the foregoing, the Parties 
+indemnification obligations under Article III shall, to the fullest extent 
+permitted by Applicable Law, survive the termination of this Agreement in 
+accordance with their respective terms.
+
+Section 2.02    Transition Services Upon Termination. Should a notice of 
+termination of this Agreement be delivered pursuant to Section 2.01, then 
+the Parties shall, during the pendency of such termination, use their 
+commercially reasonable efforts to agree upon a transition services 
+agreement.
+
+
+ARTICLE III.    INDEMNITY
+
+Section 3.01    Environmental Indemnification.
+ 
+(a) 	Subject to Section 3.01(b) and Section 3.09(a), HIP LP shall 
+indemnify, defend and hold harmless the Public Company Group from and 
+against any Losses suffered or incurred by the Public Company Group, 
+directly or indirectly, or as a result of any claim by a third party, by 
+reason of or arising out of the following (collectively, Covered 
+Environmental Losses):
+ 
+  	(i) 	any violation or correction of a violation of Environmental Laws 
+associated with or arising from the ownership or operation of the Assets;
+ 
+  	(ii) 	any event, condition or matter associated with or arising from the 
+ownership or operation of the Assets (including the presence of Hazardous 
+Substances on, under, about or migrating to or from the Assets or the 
+disposal or release of Hazardous Substances generated by operation of the 
+Assets at non-Asset locations) that requires investigation, assessment, 
+evaluation, monitoring, containment, cleanup, repair, restoration, 
+remediation, or other corrective action under Environmental Laws, including 
+(A) the cost and expense of any such activity, (B) the cost or expense of 
+the preparation and implementation of any closure, remedial, corrective 
+action, or other plans required or necessary under Environmental Laws, and 
+(C) the cost and expense of any environmental or toxic tort pre-trial, 
+trial or appellate legal or litigation support work;
+ 
+9
+
+------------------------------------------------------------------------
+  	(iii) 	any environmental event, condition or matter associated with or 
+arising from the Retained Assets, whether occurring before, on or after the 
+Effective Date.
+ 
+(b) 	With respect to any discrete violation under Section 3.01(a)(i) or any 
+discrete environmental event, condition or matter included under Section 
+3.01(a)(ii), HIP LP will be obligated to indemnify the Public Company Group 
+only if and to the extent that:
+ 
+  	(i) 	such violation, event, condition or environmental matter occurred 
+before the Effective Date under then-applicable Environmental Laws; and
+ 
+  	(ii) 	either (A) such violation, event, condition or environmental 
+matter is set forth on Schedule I attached hereto or (B) HIP LP is notified 
+in writing of such violation, event, condition or environmental matter 
+prior to the fifth anniversary of the Effective Date.
+
+For the avoidance of doubt, nothing in this Section 3.01(b) shall apply to 
+HIP LPs indemnification obligations under Section 3.01(a)(iii).
+ 
+(c) 	The Partnership shall indemnify, defend and hold harmless each of the 
+Hess Entities and the Non-Public Company Group Members from and against any 
+Losses suffered or incurred by the Hess Entities or the Non-Public Company 
+Group Members, directly or indirectly, or as a result of any claim by a 
+third party, by reason of or arising out of:
+ 
+  	(i) 	any violation or correction of a violation of Environmental Laws 
+associated with or arising from the ownership or operation of the Assets 
+(other than the Joint Interest Assets); and
+ 
+  	(ii) 	any event, condition or matter associated with or arising from the 
+ownership or operation of the Assets (other than the Joint Interest Assets) 
+(including the presence of Hazardous Substances on, under, about or 
+migrating to or from the Assets or the disposal or release of Hazardous 
+Substances generated by operation of the Assets at non-Asset locations) 
+that requires investigation, assessment, evaluation, monitoring, 
+containment, cleanup, repair, restoration, remediation, or other corrective 
+action under Environmental Laws, including (A) the cost and expense of any 
+such activity, (B) the cost and expense of the preparation and 
+implementation of any closure, remedial, corrective action, or other plans 
+required or necessary under Environmental Laws, and (C) the cost and 
+expense of any environmental or toxic tort pre-trial, trial or appellate 
+legal or litigation support work;
+
+and regardless of whether such violation under Section 3.01(c)(i) or such 
+event, condition or environmental matter included under Section 3.01(c)(ii) 
+occurred
+ 
+10
+
+------------------------------------------------------------------------
+before or after the Effective Date, in each case, to the extent that any of 
+the foregoing do not constitute Covered Environmental Losses for which the 
+Public Company Group is entitled to indemnification from HIP LP under this 
+Article III.
+ 
+(d) 	HTGP Opco shall indemnify, defend and hold harmless each of the Hess 
+Entities and the Non-Public Company Group Members from and against any 
+Losses suffered or incurred by the Hess Entities or the Non-Public Company 
+Group Members, directly or indirectly, or as a result of any claim by a 
+third party, by reason of or arising out of:
+ 
+  	(i) 	any violation or correction of a violation of Environmental Laws 
+associated with or arising from the ownership or operation of the HTGP 
+Assets; and
+ 
+  	(ii) 	any event, condition or matter associated with or arising from the 
+ownership or operation of the HTGP Assets (including the presence of 
+Hazardous Substances on, under, about or migrating to or from the HTGP 
+Assets or the disposal or release of Hazardous Substances generated by 
+operation of the HTGP Assets at non-HTGP Asset locations) that requires 
+investigation, assessment, evaluation, monitoring, containment, cleanup, 
+repair, restoration, remediation, or other corrective action under 
+Environmental Laws, including (A) the cost and expense of any such 
+activity, (B) the cost and expense of the preparation and implementation of 
+any closure, remedial, corrective action, or other plans required or 
+necessary under Environmental Laws, and (C) the cost and expense of any 
+environmental or toxic tort pre-trial, trial or appellate legal or 
+litigation support work;
+
+and regardless of whether such violation under Section 3.01(d)(i) or such 
+event, condition or environmental matter included under Section 3.01(d)(ii) 
+occurred before or after the Effective Date, in each case, to the extent 
+that any of the foregoing do not constitute Covered Environmental Losses 
+for which the Public Company Group is entitled to indemnification from HIP 
+LP under this Article III.
+ 
+(e) 	Logistics Opco shall indemnify, defend and hold harmless each of the 
+Hess Entities and the Non-Public Company Group Members from and against any 
+Losses suffered or incurred by the Hess Entities or the Non-Public Company 
+Group Members, directly or indirectly, or as a result of any claim by a 
+third party, by reason of or arising out of:
+ 
+  	(i) 	any violation or correction of a violation of Environmental Laws 
+associated with or arising from the ownership or operation of the Logistics 
+Assets; and
+ 
+11
+
+------------------------------------------------------------------------
+  	(ii) 	any event, condition or matter associated with or arising from the 
+ownership or operation of the Logistics Assets (including the presence of 
+Hazardous Substances on, under, about or migrating to or from the Logistics 
+Assets or the disposal or release of Hazardous Substances generated by 
+operation of the Logistics Assets at non-Logistics Assets locations) that 
+requires investigation, assessment, evaluation, monitoring, containment, 
+cleanup, repair, restoration, remediation, or other corrective action under 
+Environmental Laws, including (A) the cost and expense of any such 
+activity, (B) the cost and expense of the preparation and implementation of 
+any closure, remedial, corrective action, or other plans required or 
+necessary under Environmental Laws, and (C) the cost and expense of any 
+environmental or toxic tort pre-trial, trial or appellate legal or 
+litigation support work;
+
+and regardless of whether such violation under Section 3.01(e)(i) or such 
+event, condition or environmental matter included under Section 3.01(e)(ii) 
+occurred before or after the Effective Date, in each case, to the extent 
+that any of the foregoing do not constitute Covered Environmental Losses 
+for which the Public Company Group is entitled to indemnification from HIP 
+LP under this Article III.
+ 
+(f) 	Gathering Opco shall indemnify, defend and hold harmless each of the 
+Hess Entities and the Non-Public Company Group Members from and against any 
+Losses suffered or incurred by the Hess Entities or the Non-Public Company 
+Group Members, directly or indirectly, or as a result of any claim by a 
+third party, by reason of or arising out of:
+ 
+  	(i) 	any violation or correction of a violation of Environmental Laws 
+associated with or arising from the ownership or operation of the Gathering 
+Assets; and
+ 
+  	(ii) 	any event, condition or matter associated with or arising from the 
+ownership or operation of the Gathering Assets (including the presence of 
+Hazardous Substances on, under, about or migrating to or from the Gathering 
+Assets or the disposal or release of Hazardous Substances generated by 
+operation of the Gathering Assets at non-Gathering Assets locations) that 
+requires investigation, assessment, evaluation, monitoring, containment, 
+cleanup, repair, restoration, remediation, or other corrective action under 
+Environmental Laws, including (A) the cost and expense of any such 
+activity, (B) the cost and expense of the preparation and implementation of 
+any closure, remedial, corrective action, or other plans required or 
+necessary under Environmental Laws, and (C) the cost and expense of any 
+environmental or toxic tort pre-trial, trial or appellate legal or 
+litigation support work;
+ 
+12
+
+------------------------------------------------------------------------
+and regardless of whether such violation under Section 3.01(f)(i) or such 
+event, condition or environmental matter included under Section 3.01(f)(ii) 
+occurred before or after the Effective Date, in each case, to the extent 
+that any of the foregoing do not constitute Covered Environmental Losses 
+for which the Public Company Group is entitled to indemnification from HIP 
+LP under this Article III.
+
+Section 3.02    Right of Way and Real Property Indemnification. HIP LP 
+shall indemnify, defend and hold harmless the Public Company Group from and 
+against any Losses suffered or incurred by the Public Company Group by 
+reason of or arising out of the following (collectively, Covered Property 
+Losses):
+ 
+(a) 	the failure of the applicable Non-Public Company Group Member to be 
+the owner of valid and indefeasible Rights-of-Way, fee ownership or 
+leasehold interests in and to the lands, in each case, on which any of the 
+Assets conveyed or contributed to the applicable Public Company Group 
+Member on the Effective Date are located as of the Effective Date, in each 
+case, to the extent and only to the extent that such failure renders the 
+Public Company Group liable to a third party or unable to use or operate 
+the Assets in substantially the same manner that the Assets were used and 
+operated by the applicable Non-Public Company Group Member immediately 
+prior to the Effective Date as described in the Registration Statement;
+ 
+(b) 	the failure of the applicable Non-Public Company Group Member to have 
+all consents, licenses and permits necessary to allow any such pipeline 
+referred to in clause (a) of this Section 3.02 to cross the roads, 
+waterways, railroads and other areas upon which any such pipeline is 
+located as of the Effective Date, in each case, to the extent and only to 
+the extent that such failure renders the Public Company Group liable to a 
+third party or unable to use or operate the Assets in substantially the 
+same manner that the Assets were used and operated by the applicable 
+Non-Public Company Group Member immediately prior to the Effective Date as 
+described in the Registration Statement; and
+ 
+(c) 	the cost of curing any condition set forth in clause (a) or (b) of 
+this Section 3.02 that does not allow any Asset to be operated in 
+accordance with Prudent Industry Practice;
+
+in each case, to the extent that Hess is notified in writing of any of the 
+foregoing prior to the fifth anniversary of the Effective Date. 
+Notwithstanding anything in this Section 3.02 to the contrary, to the 
+extent that such Right of Way, fee ownership or leasehold interest can be 
+acquired and the cost and expense of such acquisition is recovered by an 
+increase to the fees payable to the Public Company Group under the Tariff 
+Agreements, no indemnity shall be owed under this Section 3.02.
+
+Section 3.03    Additional Indemnification by HIP LP. In addition to and 
+not in limitation of the indemnification provided under Section 3.01(a) 
+and Section 3.02, HIP LP shall
+ 
+13
+
+------------------------------------------------------------------------
+indemnify, defend, and hold harmless the Public Company Group from and 
+against any Losses suffered or incurred by the Public Company Group by 
+reason of or arising out of any of the following:
+ 
+(a) 	(i) the consummation of the transactions contemplated by the 
+Contribution Agreement or (ii) events and conditions associated with the 
+ownership or operation of the Assets and occurring before the Effective 
+Date (other than Covered Environmental Losses, which are provided for under 
+Section 3.01, Covered Property Losses, which are provided for under 
+Section 3.02, and current liabilities incurred in the ordinary course of 
+business that have been accrued but not paid prior to the Effective Date), 
+to the extent that HIP LP is notified in writing of any such Loss prior to 
+the fifth anniversary of the Effective Date;
+ 
+(b) 	any litigation matters attributable to the ownership or operation of 
+the Assets prior to the Effective Date, including any currently pending 
+legal actions against any of the Hess Entities or any Non-Public Company 
+Group Member;
+ 
+(c) 	events and conditions associated with the Retained Assets and whether 
+occurring before, on or after the Effective Date;
+ 
+(d) 	events and conditions associated with any rail cars included in the 
+definition of Additional Rolling Stock in the Contribution Agreement, 
+whether occurring before, on or after the Effective Date, unless such rail 
+cars are contributed to Logistics Opco in accordance with Section 5.3 of 
+the Contribution Agreement;
+ 
+(e) 	all federal, state and local Tax liabilities attributable to the 
+ownership or operation of the Assets prior to the Effective Date, including 
+under Treasury Regulation Section 1.1502-6 (or any similar provision of 
+state or local law), and any such Tax liabilities of any of the Hess 
+Entities or Non-Public Company Group Members that may result from the 
+consummation of the formation transactions for the Public Company Group 
+occurring on or prior to the Effective Date or from the consummation of the 
+transactions contemplated by the Contribution Agreement; and
+ 
+(f) 	the failure of any Public Company Group Member to have on the 
+Effective Date any consent, license, permit or approval necessary to allow 
+such Public Company Group Member to own or operate the Assets in 
+substantially the same manner described in the Registration Statement.
+
+Section 3.04    Additional Indemnification by the Public Company Group.    
+In addition to and not in limitation of the indemnification provided under 
+Section 3.01(c) or in the Partnership Agreement, the Public Company Group 
+shall indemnify, defend, and hold harmless the Hess Entities and the 
+Non-Public Company Group Members from and against any Losses suffered or 
+incurred by the Hess Entities, the Non-Public Company Group Members or any 
+of them, by reason of or arising out of events and conditions associated 
+with the ownership or operation of the Assets (other than the Joint 
+Interest
+ 
+14
+
+------------------------------------------------------------------------
+Assets) and occurring after the Effective Date (other than Covered 
+Environmental Losses which are provided for under Section 3.01), unless 
+such indemnification would not be permitted under the Partnership Agreement 
+by reason of one of the provisos contained in Section 7.7(a) of the 
+Partnership Agreement.
+
+Section 3.05    Additional Indemnification by HTGP Opco.    In addition to 
+and not in limitation of the indemnification provided under Section 3.01(d) 
+or in the Partnership Agreement, HTGP Opco shall indemnify, defend, and 
+hold harmless the Hess Entities and the Non-Public Company Group Members 
+from and against any Losses suffered or incurred by the Hess Entities, the 
+Non-Public Company Group Members or any of them, by reason of or arising 
+out of events and conditions associated with the ownership or operation of 
+the HTGP Assets and occurring after the Effective Date (other than Covered 
+Environmental Losses which are provided for under Section 3.01), unless 
+such indemnification would not be permitted under the Partnership Agreement 
+by reason of one of the provisos contained in Section 7.7(a) of the 
+Partnership Agreement.
+
+Section 3.06    Additional Indemnification by Logistics Opco.    In 
+addition to and not in limitation of the indemnification provided under 
+Section 3.01(e) or in the Partnership Agreement, Logistics Opco shall 
+indemnify, defend, and hold harmless the Hess Entities and the Non-Public 
+Company Group Members from and against any Losses suffered or incurred by 
+the Hess Entities, the Non-Public Company Group Members or any of them, by 
+reason of or arising out of events and conditions associated with the 
+ownership or operation of the Logistics Assets and occurring after the 
+Effective Date (other than Covered Environmental Losses which are provided 
+for under Section 3.01), unless such indemnification would not be permitted 
+under the Partnership Agreement by reason of one of the provisos contained 
+in Section 7.7(a) of the Partnership Agreement.
+
+Section 3.07    Additional Indemnification by Gathering Opco.    In 
+addition to and not in limitation of the indemnification provided under 
+Section 3.01(f) or in the Partnership Agreement, Gathering Opco shall 
+indemnify, defend, and hold harmless the Hess Entities and the Non-Public 
+Company Group Members from and against any Losses suffered or incurred by 
+the Hess Entities, the Non-Public Company Group Members or any of them, by 
+reason of or arising out of events and conditions associated with the 
+ownership or operation of the Gathering Assets and occurring after the 
+Effective Date (other than Covered Environmental Losses which are provided 
+for under Section 3.01), unless such indemnification would not be permitted 
+under the Partnership Agreement by reason of one of the provisos contained 
+in Section 7.7(a) of the Partnership Agreement.
+
+
+Section 3.08    Indemnification Procedures.
+ 
+(a) 	The Indemnified Party agrees that within a reasonable period of time 
+after it becomes aware of facts giving rise to a claim for indemnification 
+under this Article III, it will provide notice thereof in writing to the 
+Indemnifying Party, specifying the nature of and specific basis for such 
+claim.
+ 
+15
+
+------------------------------------------------------------------------
+(b) 	The Indemnifying Party shall have the right to control all aspects of 
+the defense of (and any counterclaims with respect to) any claims brought 
+against the Indemnified Party that are covered by the indemnification under 
+this Article III, including the selection of counsel, determination of 
+whether to appeal any decision of any court and the settling of any such 
+claim or any matter or any issues relating thereto; provided that no such 
+settlement shall be entered into without the consent of the Indemnified 
+Party unless it includes a full and unconditional release of the 
+Indemnified Party from such claim; provided, however, that no such 
+settlement containing any form of injunctive or similar relief shall be 
+entered into without the prior written consent of the Indemnified Party, 
+which consent shall not be unreasonably delayed or withheld.
+ 
+(c) 	The Indemnified Party agrees to cooperate in good faith and in a 
+commercially reasonable manner with the Indemnifying Party with respect to 
+all aspects of the defense of, and the pursuit of any counterclaims with 
+respect to, any claims covered by the indemnification under this Article 
+III for which a request for indemnification is made, including the prompt 
+furnishing to the Indemnifying Party of any correspondence or other notice 
+relating thereto that the Indemnified Party may receive, permitting the 
+name of the Indemnified Party to be utilized in connection with such 
+defense or counterclaims, the making available to the Indemnifying Party of 
+any files, records or other information of the Indemnified Party that the 
+Indemnifying Party considers relevant to such defense or counterclaims, the 
+making available to the Indemnifying Party of any employees of the 
+Indemnified Party and the granting to the Indemnifying Party of reasonable 
+access rights to the properties and facilities of the Indemnified Party; 
+provided that in connection therewith the Indemnifying Party agrees to use 
+reasonable efforts to minimize the impact thereof on the operations of the 
+Indemnified Party and further agrees to maintain the confidentiality of all 
+files, records, and other information furnished by the Indemnified Party 
+pursuant to this Section 3.08(c). In no event shall the obligation of the 
+Indemnified Party to cooperate with the Indemnifying Party as set forth in 
+the immediately preceding sentence be construed as imposing upon the 
+Indemnified Party an obligation to hire and pay for counsel in connection 
+with the defense of, or the pursuit of any counterclaims with respect to, 
+any claims covered by the indemnification set forth in this Article III; 
+provided, however, that the Indemnified Party may, at its own option, cost 
+and expense, engage and pay for counsel in connection with any such defense 
+and counterclaims. The Indemnifying Party agrees to keep any such counsel 
+engaged by the Indemnified Party informed as to the status of any such 
+defense, but the Indemnifying Party shall have the right to retain sole 
+control over such defense and counterclaims.
+ 
+(d) 	
+In determining the amount of any loss, cost, damage or expense for which 
+the Indemnified Party is entitled to indemnification under this Agreement, 
+the gross amount of the indemnification will be reduced by (i) any 
+insurance proceeds realized by the Indemnified Party, and such correlative 
+insurance benefit shall be
+ 
+16
+
+------------------------------------------------------------------------
+  	 net of any incremental insurance premium that becomes due and payable 
+by the Indemnified Party as a result of such claim and (ii) all amounts 
+recovered by the Indemnified Party under contractual indemnities from third 
+Persons.
+ 
+(e) 	With respect to Covered Environmental Losses, HIP LP shall have the 
+sole right and authority to manage any remediation required by Applicable 
+Law, and, upon reasonable request from HIP LP, the Partnership will, and 
+will cause each other Public Company Group Member to, cooperate with HIP LP 
+and its contractors or subcontractors to facilitate such remediation.
+
+
+Section 3.09    Limitations on Indemnity Coverage.
+ 
+(a) 	With respect to Covered Environmental Losses under Section 3.01(a)(i) 
+or Section 3.01(a)(ii), HIP LP shall not be obligated to indemnify, defend 
+and hold harmless any Public Company Group Member unless the applicable 
+Covered Environmental Loss exceeds $100,000 (the Environmental Deductible
+), at which time HIP LP shall be obligated to indemnify such Public 
+Company Group Member for the amount of all Environmental Losses incurred by 
+such Public Company Group Member; provided, however, that to the extent any 
+cure or remediation of any environmental matter is required under Section 
+3.01(a)(i) or Section 3.01(a)(ii), HIP LP will be obligated to indemnify 
+the Public Company Group only to the extent of any cure or remediation that 
+is required by Applicable Law (after giving effect to the Environmental 
+Deductible); provided further, that in no event shall HIP LP be obligated 
+to indemnify the Public Company Group for any Covered Environmental Losses 
+under Section 3.01(a)(i) or Section 3.01(a)(ii) in excess of $15,000,000 in 
+the aggregate (the Environmental Cap). For the avoidance of doubt, it is 
+agreed that the Environmental Deductible shall not apply to any Covered 
+Environmental Losses incurred by any Public Company Group Member related to 
+the matters set forth on Schedule I attached hereto.
+ 
+(b) 	With respect to Covered Property Losses under Section 3.02, HIP LP 
+shall not be obligated to indemnify, defend and hold harmless any Public 
+Company Group Member unless the applicable Covered Property Loss exceeds 
+$50,000 (the Property Deductible), at which time HIP LP shall be 
+obligated to indemnify such Public Company Group Member for the amount of 
+all Covered Property Losses incurred by such Public Company Group Member; 
+provided, however, that to the extent the Public Company Group attempts to 
+cure any matter for which it is entitled to indemnification under Section 
+3.02, HIP LP will be obligated to indemnify the Public Company Group only 
+to the extent of any reasonably required cure (after giving effect to the 
+Property Deductible).
+ 
+(c) 	For the avoidance of doubt, there is no deductible with respect to the 
+indemnification owed by any Indemnifying Party under any portion of this 
+Article III other than as described in this Section 3.09, and there is no 
+monetary cap on the amount of indemnity coverage provided by any 
+Indemnifying Party under this Article III other than as described in this 
+Section 3.09.
+ 
+17
+
+------------------------------------------------------------------------
+ARTICLE IV. SERVICES
+
+Section 4.01    General. Hess agrees to provide to MLP GP LLC, for the 
+Public Company Groups benefit, the general and administrative services 
+that Hess and its Affiliates have traditionally provided in connection with 
+the ownership and operation of the Assets and any other assets held from 
+and after the Effective Date by any Public Company Group Member, which 
+include the services set forth on Schedule II (the Services). Hess may 
+subcontract with Affiliates or third parties for the provision of such 
+Services to MLP GP LLC (for and on behalf of the Public Company Group). MLP 
+GP LLC may terminate any specific General and Administrative Service upon 
+30 days prior written Notice to Hess.
+
+
+Section 4.02 Reimbursement and Allocation.
+ 
+(a) 	As consideration for Hesss provision of the Services, MLP GP LLC 
+will, or will cause another Public Company Group Member to, reimburse Hess 
+for all reasonable direct and indirect costs and expenses incurred by Hess 
+in connection with the provision of the Services, including the following:
+ 
+  	(i) 	total costs, plus the relevant percentage mark-up set forth in 
+Schedule IV, of each employee of, and each contractor, subcontractor, or 
+other outside personnel engaged by, Hess to the extent, but only to the 
+extent, such employees and outside personnel perform Services for the 
+Public Company Groups benefit;
+ 
+  	(ii) 	any expenses incurred or payments made by Hess on behalf of the 
+Public Company Group for insurance coverage with respect to the Assets or 
+the business of the Public Company Group;
+ 
+  	(iii) 	all expenses and expenditures incurred by Hess on behalf of the 
+Public Company Group as a result of the Partnership becoming and continuing 
+as a publicly traded entity, including costs associated with annual, 
+quarterly or current reports, independent auditor fees, partnership 
+governance and compliance, registrar and transfer agent fees, exchange 
+listing fees, tax return and Schedule K-1 preparation and distribution, 
+legal fees, independent director compensation and director and officer 
+liability insurance premiums; and
+ 
+  	(iv) 	any other out-of-pocket costs and expenses incurred by Hess in 
+providing the Services, as well as any other out-of-pocket costs and 
+expenses incurred on behalf of the Public Company Group. For the avoidance 
+of doubt, MLP GP LLC shall, or shall cause another Public Company Group 
+Member to, reimburse Hess for all tax costs and expenses incurred or 
+payments made by Hess on behalf of the Public Company Group, including all 
+sales, use, excise, value added, margin, franchise or similar taxes, if 
+any, that may be applicable from time to time with respect to the ownership 
+and operation of the Assets or with respect to the Services provided by 
+Hess to the Public Company Group pursuant to Section 4.01.
+ 
+18
+
+------------------------------------------------------------------------
+To the extent any of the costs and expenses identified in this Section 4.02 
+are reimbursed on an allocation basis, such allocation shall be determined 
+by Hesss then-current corporate transfer pricing practices, as generally 
+applied in a non-discriminatory manner.
+ 
+(b) 	Within 20 days following the end of each month during the term of this 
+Agreement, Hess shall send to MLP GP LLC an invoice (in a form mutually 
+agreed by the Parties) of the amounts due and payable by MLP GP LLC (for 
+and on behalf of the Public Company Group) for such month, including any 
+adjustments due pursuant to the terms of this Section 4.02(b) by MLP GP LLC 
+(for and on behalf of the Public Company Group). MLP GP LLC shall, or shall 
+cause another Public Company Group Member to, pay such invoice by the later 
+of (i) 30 days of receipt and (ii) the last Business Day of the month in 
+which MLP GP LLC received such invoice, except for any amounts that are 
+being disputed in good faith by MLP GP LLC. If Hess determines that the 
+amount reflected on any invoice previously sent to, and paid by, MLP GP LLC 
+(or another Public Company Group Member, as applicable) did not accurately 
+state the amounts owed by MLP GP LLC (for and on behalf of the Public 
+Company Group) under this Article IV, Hess shall include appropriate 
+adjustments on the next invoice; provided, however, that such adjustments 
+shall be included only to the extent they relate to a month in the same 
+calendar quarter as such invoice relates; provided further that Hess and 
+MLP GP LLC shall negotiate, in good faith, the timing of payment of any 
+such adjustments. Any such adjustments shall be separately stated on each 
+invoice and computed in such detail as is mutually agreed by Hess and MLP 
+GP LLC. For the avoidance of doubt, any adjustments that do not relate to a 
+month in the same calendar quarter as such invoice relates shall not be due 
+and payable by MLP GP LLC or any other Public Company Group Member. Any 
+amounts that MLP GP LLC has disputed in good faith and that are later 
+determined by any court or other competent authority having jurisdiction, 
+or by agreement of the Parties, to be owing from MLP GP LLC (for and on 
+behalf of the Public Company Group) to Hess shall be paid in full within 
+ten days of such determination, together with interest thereon at the 
+Interest Rate from the date due under the original invoice until the date 
+of payment. Until such time as a HIP Change of Control has occurred, MLP GP 
+LLC and Hess may settle MLP GP LLCs financial obligations to Hess 
+hereunder through Hesss normal interaffiliate settlement processes.
+ 
+(c) 	For the avoidance of doubt, the Services provided by Hess pursuant to 
+this Article IV will be in addition to, and not in duplication of, the 
+functions performed by the employees seconded to the Public Company Group 
+under the Secondment Agreement, and Hess shall not be entitled to 
+reimbursement under this Agreement for any costs or expenses for which Hess 
+is entitled to payment or reimbursements or which are intended to be 
+covered by the Secondment Fee, under the Secondment Agreement.
+ 
+19
+
+------------------------------------------------------------------------
+Section 4.03    Services Standard. Hess shall perform the Services using at 
+least the same level of care, quality, timeliness, skill and adherence to 
+applicable industry standards as Hess does in providing similar services to 
+its own Affiliates.
+
+
+ARTICLE V. RIGHT OF FIRST OFFER
+
+Section 5.01    Right of First Offer to Purchase Certain Assets.
+ 
+(a) 	HIP LP, on behalf of itself and the other Non-Public Company Group 
+Members, hereby grants to the Partnership a right of first offer, for a 
+period (the ROFO Period) beginning at the Effective Date and ending at 
+the earlier of (i) ten years from the Effective Date, and (ii) the 
+occurrence of a HIP Change of Control, on all or any part of the ROFO 
+Assets to the extent that any Non-Public Company Group Member proposes to 
+Transfer all or any part of any ROFO Asset; provided, however, that any 
+Non-Public Company Group Member may Transfer all or any part of any ROFO 
+Asset to another Non-Public Company Group Member that agrees in writing 
+that such ROFO Asset remains subject to the provisions of this Article V 
+and such Non-Public Company Group Member assumes the obligations of HIP LP 
+under this Article V with respect to such ROFO Asset.
+ 
+(b) 	The Parties acknowledge that any Transfer of all or any part of any 
+ROFO Asset pursuant to the Partnerships right of first offer is subject to 
+the terms of all existing agreements with respect to the ROFO Assets and 
+shall be subject to and conditioned on the obtaining of any and all 
+necessary consents of security holders, Governmental Authorities, lenders 
+or other third parties; provided, however, that HIP LP hereby represents 
+and warrants that, to its knowledge after reasonable investigation, there 
+are no terms in such agreements that would materially impair the rights 
+granted to the Public Company Group pursuant to this Article V with respect 
+to any ROFO Asset.
+
+
+Section 5.02    Procedures.
+ 
+(a) 	
+If any Non-Public Company Group Member proposes to Transfer all or any part 
+of any applicable ROFO Asset (other than to another Non-Public Company 
+Group Member in accordance with Section 5.01(a)) during the ROFO Period (a 
+Proposed Transaction), then HIP LP shall, prior to such Non-Public 
+Company Group Member entering into any such Proposed Transaction, first 
+give notice in writing to the Partnership (the ROFO Notice) of the 
+intention to enter into such Proposed Transaction. The ROFO Notice shall 
+include any material terms, conditions and details as would be necessary 
+for the Partnership to make a responsive offer to enter into the Proposed 
+Transaction with the applicable Non-Public Company Group Member, which 
+terms, conditions and details shall at a minimum include any terms, 
+condition or details that such Non-Public Company
+ 
+20
+
+------------------------------------------------------------------------
+  	 Group Member would propose to provide to Persons who are not 
+Non-Public Company Group Members in connection with the Proposed 
+Transaction. If the Partnership determines to purchase the ROFO Assets, the 
+Partnership shall have 60 days following receipt of the ROFO Notice to 
+submit a written offer to HIP LP to enter into the Proposed Transaction 
+with such Non-Public Company Group Member (the ROFO Response). The ROFO 
+Response shall set forth the terms and conditions (including the purchase 
+price the Partnership proposes to pay for the ROFO Asset and the other 
+terms of the purchase) pursuant to which the Partnership would be willing 
+to enter into a binding agreement for the Proposed Transaction. If no ROFO 
+Response is delivered by the Partnership within such 60-day period, then 
+the Partnership shall be deemed to have waived its right of first offer 
+with respect to such ROFO Asset, subject to Section 5.02(c).
+ 
+(b) 	Unless the ROFO Response is rejected pursuant to written notice 
+delivered by HIP LP to the Partnership within 60 days of the delivery to 
+HIP LP of the ROFO Response, such ROFO Response shall be deemed to have 
+been accepted by HIP LP, and such Non-Public Company Group Member shall 
+enter into an agreement with the Partnership providing for the consummation 
+of the Proposed Transaction upon the terms set forth in the ROFO Response. 
+Unless otherwise agreed between HIP LP, the applicable Non-Public Company 
+Group Member and the Partnership, the terms of the purchase and sale 
+agreement shall include the following:
+ 
+  	(i) 	the Partnership shall deliver the agreed purchase price (in cash, 
+Partnership Securities, an interest-bearing promissory note, or any 
+combination thereof);
+ 
+  	(ii) 	such Non-Public Company Group Member shall represent that it has 
+title to the applicable ROFO Asset that is sufficient to own and operate 
+the applicable ROFO Asset in accordance with its intended and historical 
+use, subject to all recorded matters and all physical conditions in 
+existence on the closing date for the purchase of the applicable ROFO 
+Asset, plus any other such matters as the Partnership may approve;
+ 
+  	(iii) 	the closing date for the purchase of the ROFO Asset shall occur 
+no later than 180 days following receipt by HIP LP, on behalf of the 
+applicable Non-Public Company Group Member, as applicable, of the ROFO 
+Response pursuant to Section 5.02(a);
+ 
+  	(iv) 	each of HIP LP, such other Non-Public Company Group Member and the 
+Partnership shall use commercially reasonable efforts to do or cause to be 
+done all things that may be reasonably necessary or advisable to effectuate 
+the consummation of any transactions contemplated by this Section 5.02(b), 
+including causing its respective Affiliates to execute, deliver and perform 
+all documents, notices, amendments, certificates, instruments and consents 
+required in connection therewith; and
+ 
+21
+
+------------------------------------------------------------------------
+  	(v) 	neither HIP LP, such other Non-Public Company Group Member nor the 
+Partnership shall have any obligation to sell or buy the applicable ROFO 
+Asset if any consent referred to in Section 5.01(b) has not been obtained.
+ 
+(c) 	If the Partnership does not timely deliver a ROFO Response as 
+specified above with respect to a Proposed Transaction that is subject to a 
+ROFO Notice, HIP LP or such other Non-Public Company Group Member, as 
+applicable, shall be free to enter into a Proposed Transaction with any 
+third party on terms and conditions no more favorable to such third party 
+than those set forth in the ROFO Notice. If HIP LP rejects a ROFO Response 
+with respect to any Proposed Transaction, HIP LP or such other Non-Public 
+Company Group Member, as applicable, shall be free to enter into a Proposed 
+Transaction with any third party (i) on terms and conditions (excluding 
+those relating to price) that are not more favorable in the aggregate to 
+such third party than those proposed in respect of the Public Company Group 
+in the ROFO Response and (ii) at a price equal to no less than 100% of the 
+price offered by the Partnership in the ROFO Response to HIP LP.
+ 
+(d) 	HIP LP agrees that, if requested by the Partnership, HIP LP shall use 
+its commercially reasonable efforts to provide information reasonably 
+requested by the Partnership in order for the Partnership to prepare such 
+financial statements with respect to any ROFO Assets transferred to the 
+Partnership pursuant to this Article V that meet the requirements of 
+Regulation S-X promulgated under the Securities Act of 1933, as amended, 
+and the rules and regulations of the Securities and Exchange Commission 
+promulgated thereunder.
+ 
+(e) 	The Partnership can assign its rights and obligations under this 
+Article V to any Public Company Group Member.
+
+
+ARTICLE VI.    LICENSE OF NAME AND MARK
+
+Section 6.01    Grant of License.    Upon the terms and conditions set 
+forth in this Article VI, Hess hereby grants and conveys to each of the 
+Persons currently or hereafter comprising a part of the Public Company 
+Group a nontransferable, nonexclusive, royalty-free right and license (
+License) to use the name Hess (the Name) and any other trademarks or 
+tradenames owned by Hess that contain the Name (collectively, the Marks
+).
+
+Section 6.02    Ownership and Quality.    The Partnership agrees that 
+ownership of the Name and/or the Marks and, in each case, the goodwill 
+relating thereto shall remain vested in Hess both during the term of this 
+License and thereafter, and the Partnership further agrees, and agrees to 
+cause the other Public Company Group Members, never to challenge, contest 
+or question the validity of Hesss ownership of the Name and/or the Marks 
+or any registration thereof by Hess. In connection with the use of the Name 
+and/or the Marks, the Partnership and any other Public Company Group 
+Members shall not in any manner represent that they have any ownership in 
+the Name and the Marks or registration thereof except as set forth herein, 
+and the Partnership, on behalf of itself and
+ 
+22
+
+------------------------------------------------------------------------
+the other Public Company Group Members, acknowledge that the use of the 
+Name and/or the Marks shall not create any right, title or interest in or 
+to the Name and/or the Marks, and all use of the Name and/or the Marks by 
+the Partnership or any other Public Company Group Members, shall inure to 
+the benefit of Hess. The Partnership agrees, and agrees to cause the other 
+Public Company Group Members, to use the Name and/or the Marks in 
+accordance with such quality standards established by Hess and communicated 
+to the Partnership from time to time, it being understood that the products 
+and services offered by the Public Company Group Members immediately before 
+the Effective Date are of a quality that is acceptable to Hess and 
+justifies the License.
+
+Section 6.03    Termination.    The License shall terminate upon any 
+termination of this Agreement. The License shall terminate, with respect to 
+any Person that no longer qualifies as a Public Company Group Member, as of 
+the time such Person no longer qualifies as a Public Company Group Member. 
+In the event of a termination of the License as described in this Section 
+6.03, as promptly as practicable, but in any event within 60 days after any 
+such termination, any such Person that no longer qualifies as a Public 
+Company Group Member shall eliminate the Name and the Marks, including any 
+and all variants thereof, from its assets, legal name and any of its other 
+properties and, except with respect to such grace period for eliminating 
+existing usage set forth in this Section 6.03, shall cease the use of the 
+Name and the Marks.
+
+
+ARTICLE VII.    NOTICES
+
+Section 7.01    Notices.    All written notices, requests, demands and 
+other communications required or permitted to be given under this Agreement 
+shall be considered a Notice and shall be deemed sufficient in all 
+respects (a) if given in writing and delivered personally, (b) if sent by 
+overnight courier, (c) if mailed by U.S. Express Mail or by certified or 
+registered U.S. Mail with all postage fully prepaid, (d) sent by facsimile 
+transmission (provided any such facsimile transmission is confirmed either 
+orally or by written confirmation), or (e) sent by electronic mail 
+transmission (provided any such electronic mail transmission is confirmed 
+either orally or by written confirmation, including via a reply electronic 
+mail transmission) and, in each case, addressed to the appropriate Party at 
+the address for such Party shown below:
+ 
+If to the General Partner or any other
+Public Company Group Member:
+   	
+If to Hess or any of the Hess
+Entities:
+Hess Midstream Partners GP LP
+1501 McKinney Street
+Houston, TX 77010
+Attn:
+Fax:
+Email:
+   	
+Hess Corporation
+1185 Avenue of the Americas
+New York, NY 10036
+Attn:
+Fax:
+Email:
+ 
+23
+
+------------------------------------------------------------------------
+With a copy to: 	   	With a copy to:
+Hess Midstream Partners GP LLC
+1501 McKinney Street
+Houston, TX 77010
+Attn:
+Fax:
+Email:
+   	
+Hess Corporation
+1185 Avenue of the Americas
+New York, NY 10036
+Attn:
+Fax:
+Email:
+If to HIP LP or any other Non-
+Public Company Group Member:
+   	
+Hess Infrastructure Partners LP
+1501 McKinney Street
+Houston, TX 77010
+Attn:
+Fax:
+Email:
+   	
+With a copy to: 	   	
+Hess Infrastructure Partners LP
+1501 McKinney Street
+Houston, TX 77010
+Attn:
+Fax:
+Email:
+   	
+
+Any Notice given in accordance herewith shall be deemed to have been given 
+(i) when delivered to the addressee in person, or by courier, during normal 
+business hours, or on the next Business Day if delivered after business 
+hours, (ii) when received by the addressee via facsimile or electronic 
+transmission during normal business hours, or on the next Business Day if 
+received after business hours, or (iii) upon actual receipt by the 
+addressee after such notice has either been delivered to an overnight 
+courier or deposited in the U.S. Mail, as the case may be. The Parties may 
+change the address, telephone number, facsimile number, electronic mail 
+address and individuals to which such communications to any Party are to be 
+addressed by giving written notice to the other Parties in the manner 
+provided in this Section 7.01.
+
+
+ARTICLE VIII.    LIMITATION OF LIABILITY
+
+Section 8.01    No Liability for Consequential Damages.    Except as 
+provided in Article III, in no event shall a Party be liable to another 
+Party for any punitive, special, indirect or consequential damages of any 
+kind or character resulting from or arising out of this Agreement, 
+including, without limitation, loss of profits or business interruptions, 
+however they may be caused.
+ 
+24
+
+------------------------------------------------------------------------
+ARTICLE IX.    MISCELLANEOUS
+
+Section 9.01    Assignment.    No Party may assign its rights or delegate 
+its duties under this Agreement without prior written consent of each other 
+Party. Notwithstanding the foregoing: (a) Hess may delegate any of its 
+duties and obligations hereunder to any Hess Entity; provided, however, 
+that no such delegation shall relieve Hess of any of its duties or 
+obligations under this Agreement; and (b) the Partnership may assign its 
+rights under Article V to any Public Company Group Member.
+
+Section 9.02    Modification.    This Agreement may be amended or modified 
+only by a written instrument executed by the Parties. Any of the terms and 
+conditions of this Agreement may be waived in writing at any time by the 
+Party entitled to the benefits thereof.
+
+Section 9.03    Entire Agreement.    This Agreement, together with all 
+Schedules attached hereto and the Secondment Agreement (with respect to 
+certain employee reimbursement matters), constitute the entire agreement 
+among the Parties relating to the subject matter hereof and supersede all 
+prior and contemporaneous agreements, understandings, negotiations and 
+discussions, whether oral or written, between the Parties relating to the 
+subject matter hereof, and there are no warranties, representations or 
+other agreements between the Parties in connection with the subject matter 
+hereof except as specifically set forth in, or contemplated by, this 
+Agreement and the Secondment Agreement (with respect to certain employee 
+reimbursement matters).
+
+Section 9.04    Governing Law; Jurisdiction.    This Agreement shall be 
+governed by the laws of the State of Texas without giving effect to its 
+conflict of laws principles. Each Party hereby irrevocably submits to the 
+exclusive jurisdiction of any federal court of competent jurisdiction 
+situated in the State of Texas United States District Court for the 
+Southern District of Texas, or if such federal court declines to exercise 
+or does not have jurisdiction, in the district court of Harris County, 
+Texas. The Parties expressly and irrevocably submit to the jurisdiction of 
+said courts and irrevocably waive any objection which they may now or 
+hereafter have to the laying of venue of any action, suit or proceeding 
+arising out of or relating to this Agreement brought in such courts, 
+irrevocably waive any claim that any such action, suit or proceeding 
+brought in any such court has been brought in an inconvenient forum and 
+further irrevocably waive the right to object, with respect to such claim, 
+action, suit or proceeding brought in any such court that such court does 
+not have jurisdiction over such Party. The Parties hereby irrevocably 
+consent to the service of process by registered mail, postage prepaid, or 
+by personal service within or without the State of Texas. Nothing contained 
+herein shall affect the right to serve process in any manner permitted by 
+Applicable Law.
+
+Section 9.05    Severability. Whenever possible, each provision of this 
+Agreement shall be interpreted in such manner as to be valid and effective 
+under Applicable Law, but if any provision of this Agreement or the 
+application of any such provision to any Person or circumstance shall be 
+held invalid, illegal or unenforceable in any respect by a court of 
+competent jurisdiction, such invalidity, illegality or unenforceability 
+shall not affect any
+ 
+25
+
+------------------------------------------------------------------------
+other provision hereof, and the Parties shall negotiate in good faith with 
+a view to substitute for such provision a suitable and equitable solution 
+in order to carry out, so far as may be valid and enforceable, the intent 
+and purpose of such invalid, illegal or unenforceable provision.
+
+Section 9.06    No Third-Party Beneficiaries. It is expressly understood 
+that the provisions of this Agreement do not impart enforceable rights in 
+anyone who is not a Party or the successor or permitted assignee of a 
+Party. No Limited Partner shall have any right, separate and apart from the 
+Partnership, to enforce any provision of this Agreement or to compel any 
+Party to comply with the terms of this Agreement.
+
+Section 9.07    WAIVER OF JURY TRIAL.    EACH PARTY WAIVES, TO THE FULLEST 
+EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY 
+JURY IN RESPECT OF ANY PROCEEDINGS RELATING TO THIS AGREEMENT OR ANY 
+PERFORMANCE OR FAILURE TO PERFORM OF ANY OBLIGATION HEREUNDER.
+
+Section 9.08    Non-Waiver.    The failure of any Party to enforce any 
+provision, condition, covenant or requirement of this Agreement at any time 
+shall not be construed to be a waiver of such provision, condition, 
+covenant or requirement unless the other Parties are so notified by such 
+Party in writing. Any waiver by a Party of a default by any other Party in 
+the performance of any provision, condition, covenant or requirement 
+contained in this Agreement shall not be deemed to be a waiver of such 
+provision, condition, covenant or requirement, nor shall any such waiver in 
+any manner release such other Party from the performance of any other 
+provision, condition, covenant or requirement.
+
+Section 9.09    Counterparts; Multiple Originals.    This Agreement may be 
+executed in any number of counterparts (including by facsimile or portable 
+document format (.pdf)), all of which together shall constitute one 
+agreement binding each of the Parties. Each of the Parties may sign any 
+number of copies of this Agreement. Each signed copy shall be deemed to be 
+an original, and all of them together shall represent one and the same 
+agreement.
+
+Section 9.10    Schedules.    Each of the schedules attached hereto and 
+referred to herein is hereby incorporated in and made a part of this 
+Agreement as if set forth in full herein. If there is any conflict between 
+this Agreement and any schedule, the provisions of the schedule shall 
+control.
+
+Section 9.11    Survival.    Any indemnification granted hereunder by a 
+Party to any other Party shall survive the termination of this Agreement in 
+accordance with the terms of the indemnification.
+
+Section 9.12    Table of Contents; Headings; Subheadings.    The table of 
+contents and the headings and subheadings of this Agreement have been 
+inserted only for convenience to facilitate reference and are not intended 
+to describe, interpret, define or limit the scope, extent or intent of this 
+Agreement or any provision hereof.
+ 
+26
+
+------------------------------------------------------------------------
+Section 9.13    Construction.    The Parties have participated jointly in 
+the negotiation and drafting of this Agreement. In the event an ambiguity 
+or question of intent or interpretation arises, this Agreement shall be 
+construed as if drafted jointly by the Parties and no presumption or burden 
+of proof shall arise favoring or disfavoring any Party by virtue of the 
+authorship of any of the provisions of this Agreement.
+
+Section 9.14    Business Practices.    Hess shall use its best efforts to 
+make certain that all billings, reports, and financial settlements rendered 
+to or made with the Public Company Group pursuant to this Agreement, or any 
+revision of or amendments to this Agreement, will properly reflect the 
+facts about all activities and transactions handled by authority of this 
+Agreement and that the information shown on such billings, reports and 
+settlement documents may be relied upon by the Public Company Group as 
+being complete and accurate in any further recording and reporting made by 
+the Public Company Group for whatever purposes. Hess shall notify the 
+Partnership if Hess discovers any errors in such billings, reports, or 
+settlement documents.
+
+Section 9.15    Binding Effect. This Agreement will be binding upon, and 
+will inure to the benefit of, the Parties and their respective successors 
+and permitted assigns.
+
+[Signature pages follow.]
+ 
+27
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement as 
+of the date first written above.
+ 
+HESS CORPORATION
+By: 	  	
+ 
+Name: 	  	 	  	
+Title: 	  	 	  	
+HESS MIDSTREAM PARTNERS LP
+By: 	  	
+Hess Midstream Partners GP LP,
+its general partner
+  	By: 	  	
+Hess Midstream Partners GP LLC,
+its general partner
+By: 	  	
+ 
+Name: 	  	 	  	
+Title: 	  	 	  	
+HESS TGP GP LLC
+By: 	  	
+ 
+Name: 	  	 	  	
+Title: 	  	 	  	
+HESS TGP OPERATIONS LP
+By: 	  	Hess TGP GP LLC, its general partner
+By: 	  	
+ 
+Name: 	  	 	  	
+Title: 	  	 	  	
+ 
+Signature page to HESM Omnibus Agreement
+
+------------------------------------------------------------------------
+HESS NORTH DAKOTA EXPORT LOGISTICS GP LLC
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS NORTH DAKOTA EXPORT LOGISTICS OPERATIONS LP
+By: 	  	Hess North Dakota Export Logistics GP LLC, its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS NORTH DAKOTA PIPELINES GP LLC
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS NORTH DAKOTA PIPELINES OPERATIONS LP
+By: 	  	Hess North Dakota Pipelines GP LLC, its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+ 
+Signature page to HESM Omnibus Agreement
+
+------------------------------------------------------------------------
+HESS MIDSTREAM PARTNERS GP LP
+By: 	  	Hess Midstream Partners GP LLC,
+its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+ 
+Signature page to HESM Omnibus Agreement
+
+------------------------------------------------------------------------
+HESS INFRASTRUCTURE PARTNERS GP LLC
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+HESS INFRASTRUCTURE PARTNERS LP
+By: 	  	Hess Infrastructure Partners GP LLC,
+its general partner
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+ 
+Signature page to HESM Omnibus Agreement
+
+------------------------------------------------------------------------
+Schedule I
+Environmental Matters
+
+Hess will be responsible for any and all costs attributable to or arising 
+out of that certain Notice of Violation (Case No. 13-001 APC), dated 
+February 13, 2013, sent by the North Dakota Department of Health to Hess 
+Corporation, including any costs arising under the related Administrative 
+Consent Agreement (Case No. 13-001 APC), dated December 17, 2013, among 
+Hess Corporation, Hess Investments North Dakota Ltd., Hess Tioga Gas Plant 
+LLC and the North Dakota Department of Health.
+ 
+Schedule I - 1
+
+------------------------------------------------------------------------
+Schedule II
+Services
+
+Services to be provided pursuant to Section 4.01:
+
+Administrative Services:
+ 
+(a) 	Accounting Services, including without limitation:
+ 
+  	(i) 	Accounting Governance
+ 
+  	(ii) 	Corporate Accounting
+ 
+  	(iii) 	Financial Accounting and Reporting
+ 
+  	(iv) 	Internal and External Reporting
+ 
+  	(v) 	Operations Accounting
+ 
+  	(vi) 	Performing periodic reconciliation of book inventory with actual 
+inventory, perform periodic material balance of inputs and outputs, and 
+quantify loss and shrinkage.
+ 
+  	(vii) 	Payment of damages in accordance with this Agreement occurring as 
+a result of, or settlement of, Claims made in connection with the Public 
+Company Group Assets and Hesss operation, maintenance and repair 
+activities.
+ 
+  	(viii) 	Arranging for payment of any third-party fees in regard to 
+operation of the Public Company Group Assets.
+ 
+  	(ix) 	Maintaining fixed asset records of the Public Company Group 
+Assets, including, but not limited to, any other pipeline systems or 
+terminals that Hess may agree to operate upon request of MLP GP LLC.
+ 
+  	(x) 	Preparing and/or assisting in the preparation of capital project 
+(AFE) documents for approval by MLP GP LLC.
+ 
+(b) 	Corporate Aviation and Travel Services
+ 
+(c) 	Foreign Trade Zone Reporting and Accounting (if applicable)
+ 
+(d) 	Governmental Affairs
+ 
+(e) 	Group Accounting and Reporting
+ 
+(f) 	Environmental, Health and Safety Services, including without 
+limitation:
+ 
+  	(i) 	Establishment of safety, health, environmental, training, emergency 
+response, spill response and other programs in connection with the 
+maintenance and repair of the Public Company Group Assets, in each case as 
+may be required by prudent industry practices or under Applicable Law.
+ 
+  	(ii) 	Maintaining compliance with all federal, state and local 
+environmental, health and safety laws; in addition, conducting all 
+environmental investigation and remediation activities, as required by 
+federal, state and local environmental laws and/or prudent business 
+practices.
+ 
+  	(iii) 	Manage all disposal and storage of all wastes (including 
+hazardous substances and wastewater) generated or used by the operator in 
+accordance with the rules and regulations of any applicable Governmental 
+Authority and Applicable Law.
+ 
+Schedule II - 1
+
+------------------------------------------------------------------------
+(g) 	Internal Audit
+ 
+(h) 	Legal Services
+ 
+(i) 	Tax Services, including:
+ 
+  	(i) 	Federal income tax services
+ 
+  	(ii) 	State and local income tax services
+ 
+  	(iii) 	Indirect tax services (including services with respect to ad 
+valorem or transactional taxes)
+ 
+(j) 	Office Services
+ 
+(k) 	Records Management
+ 
+(l) 	Real Estate Management
+ 
+(m) 	Corporate Risk Services
+ 
+(n) 	Insurance Services, including Claims Management
+ 
+(o) 	Treasury and Banking Services
+ 
+(p) 	Corporate Communications and Investor Relations
+ 
+(q) 	Management Reporting and Analysis
+
+
+HR Services:
+ 
+(a) 	Human Resources Services
+
+
+Data Processing and IT Services:
+ 
+(a) 	Data Processing and Information Technology Services
+
+
+Procurement Services:
+ 
+(a) 	Purchasing / Supply Chain Management
+
+
+Management Services:
+
+None as of the Effective Date
+ 
+Schedule II - 2
+
+------------------------------------------------------------------------
+Schedule III
+ROFO Assets
+ 
+ROFO Asset
+   	
+Owner
+Retained interest in Hess TGP Operations LP. HIP LPs 80% economic interest 
+and 49% voting interest in Hess TGP Operations LP. 	   	Hess Infrastructure 
+Partners LP
+Retained interest in Hess North Dakota Export Logistics Operations LP. HIP 
+LPs 80% economic interest and 49% voting interest in Hess North Dakota 
+Export Logistics Operations LP. 	   	Hess Infrastructure Partners LP
+Retained interest in Hess North Dakota Pipelines Operations LP. HIP LPs 
+80% economic interest and 49% voting interest in Hess North Dakota 
+Pipelines Operations LP. 	   	Hess Infrastructure Partners LP
+ 
+Schedule III - 1
+
+------------------------------------------------------------------------
+Schedule IV
+SERVICES MARK-UP PERCENTAGE
+ 
+Service
+   	Mark-Up Percentage 	 
+ Administrative Services
+   	  	7.70 	% 
+ HR Services
+   	  	4.21 	% 
+ Data Processing and IT Services
+   	  	6.35 	% 
+ Procurement Services
+   	  	3.12 	% 
+ Management Services
+   	  	12.74 	% 
+
+For the avoidance of doubt, no markup percentage shall be applied to costs 
+related to work performed by third-party contractors engaged directly by 
+the General Partner or any other Public Company Group Member, even if Hess 
+or one of its Affiliates assists in the procurement of such work on behalf 
+of the General Partner or any other Public Company Group Member.
+ 
+Schedule IV - 1

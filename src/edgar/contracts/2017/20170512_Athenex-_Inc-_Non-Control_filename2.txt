@@ -1,0 +1,844 @@
+ EX-10 2 filename2.htm
+Exhibit 10.1
+
+INDEMNIFICATION AGREEMENT
+
+This Indemnification Agreement (this Agreement) is made as of             
+        , by and between Athenex, Inc., a Delaware corporation (the 
+Company), and the individual whose name appears below the word 
+Indemnitee on the signature page (the Indemnitee), a director and/or 
+officer of the Company.
+
+
+BACKGROUND
+
+A. WHEREAS, the Indemnitee has been selected to serve or is currently 
+serving as a director and/or officer of the Company and in such capacity is 
+expected to render or has rendered valuable services to the Company.
+
+B. WHEREAS, the Board of Directors of the Company (the Board) has 
+determined that enhancing the ability of the Company to retain and attract 
+as directors and officers the most capable persons is in the best interests 
+of the Company.
+
+C. WHEREAS, in order to induce and encourage highly experienced and capable 
+persons, such as the Indemnitee, to serve or to continue to serve as a 
+director and/or officer of the Company and to provide Indemnitee with 
+protection against personal liability in Indemnitees capacity as a 
+director and/or officer of the Company pursuant to express contract rights 
+(intended to be enforceable irrespective of, among other things, any 
+amendment to the Companys certificate of incorporation or bylaws, any 
+change in the composition of the Board or any change in control or business 
+combination transaction relating to the Company), the Board has determined, 
+after due consideration of the terms and provisions of this Agreement, that 
+this Agreement is reasonable and prudent and in the best interests of the 
+Company and its stockholders.
+
+
+AGREEMENT
+
+NOW THEREFORE, in consideration of the foregoing and in order to induce the 
+Indemnitee to serve or to continue to serve as a director and/or officer of 
+the Company, the Company and the Indemnitee agree as follows:
+
+SECTION 1. DEFINITIONS
+
+1.1 Definitions. As used in this Agreement:
+
+(a) Affiliate means, with respect to any Person, any other Person who 
+directly or indirectly controls or is controlled by, or is under common 
+control with, the first Person.
+
+(b) Associate means, with respect to any Person, (i) any corporation or 
+organization (other than the Company or any Subsidiary) of which such 
+Person is an officer, partner or manager or is, directly or indirectly, the 
+Beneficial Owner of 10% or more of any class of voting securities, (ii) any 
+trust or other estate in which such Person has a substantial beneficial 
+interest or as to which such Person serves as trustee or in a similar 
+fiduciary capacity (other than an Employee Plan Trustee, (iii) any Relative 
+of such Person, or (iv) any officer or director of any corporation 
+controlling or controlled by such Person.
+
+------------------------------------------------------------------------
+(c) Beneficial Ownership has the meaning ascribed to such term in Rule 
+13d-3 promulgated under the Exchange Act (or any successor rule or 
+statutory provision) or if such Rule 13d-3 shall be rescinded and there 
+shall be no successor rule or statutory provision thereto, pursuant to Rule 
+13d-3 as in effect on the date hereof; provided, however, that a Person 
+shall, in any event, also be deemed to be the Beneficial Owner of any 
+Voting Securities (i) of which any of its Affiliates or Associates is, 
+directly or indirectly, the Beneficial Owner, and (ii) of which any other 
+Person is, directly or indirectly the Beneficial Owner if such first 
+mentioned Person or any of its Affiliates or Associates acts with such 
+other Person as a partnership, syndicate or other group pursuant to any 
+agreement, arrangement or understanding for the purpose of acquiring, 
+holding, voting or disposing of any Voting Securities of the Company; 
+provided, further, that no trustee of any employee stock ownership or 
+similar plan of the Company or any Subsidiary (an Employee Plan Trustee) 
+or any Associate or Affiliate of any such trustee shall, solely by reason 
+of being an Employee Plan Trustee or Associate or Affiliate thereof, be 
+deemed for any purposes hereof to be the Beneficial Owner of any Voting 
+Securities held by or under any such plan.
+
+(d) Change in Control means any of the following events:
+
+(i) An acquisition (other than directly from the Company) of any Voting 
+Securities by any Person (other than any Person who is, as of the date 
+hereof the Beneficial Owner of 20% or more of the then outstanding Voting 
+Securities) immediately after which such Person has Beneficial Ownership of 
+20% or more of the combined voting power of the then outstanding Voting 
+Securities; provided, however, that a Non-Control Acquisition shall not 
+constitute a Change in Control;
+
+(ii) During any period of two consecutive years since execution of this 
+Agreement (or, if this Agreement was executed less than two years prior to 
+the date of determination, during the period between the execution of this 
+Agreement and the date of determination), individuals who, at the beginning 
+of such period, were members of the Board (the Incumbent Board Members), 
+cease for any reason to constitute at least a majority of the Board; 
+provided, however, that if the election, or nomination for election by the 
+Companys stockholders, of any new director was approved by a vote of at 
+least a majority of the directors then still in office who were either 
+directors at the beginning of such period or whose election or nomination 
+was so approved), such new director shall, for purposes of this Agreement, 
+be considered an Incumbent Board Member; or
+
+(iii) Approval by the stockholders of the Company of:
+
+(1) A merger, consolidation or reorganization involving the Company other 
+than a Non-Control Transaction;
+
+(2) A complete liquidation or dissolution of the Company; or
+
+(3) The sale or other disposition of all or substantially all of the assets 
+of the Company to any Person (other than a transfer to a Subsidiary).
+
+(iv) Notwithstanding subclauses (d)(i), (d)(ii) or (d)(iii) above, a Change 
+in Control shall not be deemed to occur solely due to a reduction in the 
+aggregate number of outstanding Voting Securities.
+ 
+2
+
+------------------------------------------------------------------------
+(e) The term D&O Insurance means any valid directors and officers 
+liability insurance policy maintained by the Company for the benefit of 
+Indemnitee.
+
+(f) The term Delaware Court means the Court of Chancery of the State of 
+Delaware or, if such court does not have subject matter jurisdiction, any 
+other state or federal court of the State of Delaware.
+
+(g) The term Disinterested Director means, with respect to any claim for 
+indemnification hereunder, a director of the Company who is not and was not 
+a party to the Proceeding in respect of which indemnification is sought by 
+Indemnitee.
+
+(h) The term Employee Benefit Plan means any pension, profit-sharing, 
+employee stock ownership or other employee benefit plan.
+
+(i) The term Exchange Act means the Securities Exchange Act of 1934, as 
+amended from time to time.
+
+(j) The term Excluded Claim shall mean any claim by Indemnitee for 
+indemnification that is covered by Section 3.7 or is otherwise not required 
+to be paid by the Company under this Agreement.
+
+(k) The term Expenses means any and all reasonable out-of-pocket fees, 
+costs and expenses, including, without limitation, attorneys fees, 
+accounting and witness fees, travel and deposition costs, and other 
+disbursements or expenses incurred in connection with investigating, 
+defending or being a witness in or participating in or otherwise preparing 
+to defend, be a witness in or participate in, any Proceeding relating to an 
+Indemnifiable Event. The term Expenses shall also include (i) Expenses 
+incurred in connection with any appeal resulting from any Proceeding 
+relating to an Indemnifiable Event, including without limitation, any 
+premium, security for, and other costs relating to any cost bond, 
+supersedeas bond or other appeal bond or its equivalent, and (ii) for 
+purposes of Section 3.6(b) only, Expenses incurred in connection with the 
+interpretation, enforcement or defense of Indemnitees rights under this 
+Agreement, by litigation or otherwise. The term Expenses does not include 
+any judgments, fines or amounts paid in settlement, or any penalties or 
+ERISA excise taxes levied against the Indemnitee.
+
+(l) The term Indemnified Costs means all Expenses, judgments, fines, 
+amounts paid in settlement, penalties and ERISA excise taxes (including all 
+interest, assessments and other charges paid or payable in connection 
+therewith).
+
+(m) The term Indemnifiable Event means any event or occurrence, whether 
+occurring prior to, on or after the date of this Agreement, related to the 
+fact that Indemnitee is or was a director, officer, employee, agent, 
+trustee or fiduciary of the Company or any Subsidiary, or is or was serving 
+at the request of the Company as a director, officer, employee, general 
+partner, manager, agent, trustee or fiduciary of any other corporation, 
+limited liability company,
+ 
+3
+
+------------------------------------------------------------------------
+partnership, joint venture, Employee Benefit Plan, trust or other entity or 
+by reason of any action or inaction by the Indemnitee in any such capacity 
+(whether or not the Indemnitee was serving in such capacity at the time any 
+Indemnified Cost is incurred for which indemnification is sought under this 
+Agreement), including without limitation, any breach of duty, neglect, 
+error, misstatement, omission or other act committed or alleged to be 
+committed by Indemnitee.
+
+(n) The term Independent Counsel means a law firm, or a member of a law 
+firm, that is experienced in matters of corporation law and neither 
+presently performs, nor in the past five (5) years has performed, services 
+for either (i) the Company or Indemnitee (other than in connection with 
+matters concerning Indemnitee under this Agreement or other indemnitees 
+under similar agreements), or (ii) any other party to the Proceeding giving 
+rise to the claim for indemnification hereunder. Notwithstanding the 
+foregoing, the term Independent Counsel shall not include any person who, 
+under the applicable standard of professional conduct then prevailing, 
+would have a conflict of interest in representing either the Company or 
+Indemnitee in an action to determine Indemnitees rights under this 
+Agreement.
+
+(o) The term Non-Control Acquisition means an acquisition by (1) any 
+Employee Benefit Plan maintained by the Company or any Subsidiary (or a 
+trust forming a part thereof) or any trustee or fiduciary with respect to 
+such Employee Benefit plan acting in such capacity, (2) the Company or any 
+Subsidiary, or (3) any Person in connection with a Non-Control 
+Transaction.
+
+(p) The term Non-Control Transaction means any merger, consolidation or 
+reorganization involving the Company where:
+
+(A) the Beneficial Owners of Voting Securities of the Company immediately 
+before such merger, consolidation or reorganization, own, directly or 
+indirectly, immediately following such merger, consolidation or 
+reorganization, more than 80% of the combined voting power of the 
+outstanding Voting Securities of the entity resulting from such merger or 
+consolidation or reorganization (the Surviving Corporation) or a 
+corporation beneficially owning, directly or indirectly, a majority of the 
+Voting Securities of the Surviving Corporation (a Parent Corporation) in 
+substantially the same proportion as their ownership of the Voting 
+Securities immediately before such merger, consolidation or reorganization, 
+and
+
+(B) the individuals who were members of the Board immediately prior to the 
+execution of the agreement providing for such merger, consolidation or 
+reorganization constitute at least a majority of the members of the board 
+of directors of the Surviving Corporation (or the Parent Corporation if 
+there was a Parent Corporation created by such merger, consolidation or 
+reorganization), and
+
+(C) no Person (other than the Company, any Subsidiary, any Employee Benefit 
+Plan (or any trust forming a part thereof) maintained by the Company, the 
+Surviving Corporation or any Subsidiary, or any Person who, immediately 
+prior to such merger, consolidation or reorganization had Beneficial 
+Ownership of 20% or more of the combined voting power of the then 
+outstanding Voting Securities) owns, directly or indirectly, 20% or more of 
+the combined voting power of the Surviving Corporations then outstanding 
+Voting Securities (or of the Parent Corporations then outstanding Voting 
+Securities if there was a Parent Corporation created by such merger, 
+consolidation or reorganization).
+ 
+4
+
+------------------------------------------------------------------------
+(q) The term Person shall have the meaning ascribed to such term for 
+purposes of Section 13(d) or 14(d) of the Exchange Act.
+
+(r) The term Proceeding means:
+
+(i) any threatened, pending or completed action, claim, suit or proceeding 
+(including appeals thereof) relating to an Indemnifiable Event, whether 
+brought by or in the name of the Company or otherwise and whether of a 
+civil, criminal or administrative, arbitral or investigative nature or 
+otherwise, excluding any Enforcement Proceeding; or
+
+(ii) any inquiry, hearing or investigation that the Indemnitee in good 
+faith believes might lead to the institution of any such action, claim, 
+suit or proceeding.
+
+(s) The term Relative means, with respect to any Person, such Persons 
+spouse, parent, children, sibling, mother-in-law, father-in-law, 
+son-in-law, daughter-in-law, brother-in-law or sister-in-law.
+
+(t) The term Securities Act means the Securities Act of 1933, as amended 
+from time to time.
+
+(u) The term Subsidiary means any corporation or other Person of which a 
+majority of its voting power or its equity securities or equity interest is 
+owned directly or indirectly by the Company.
+
+(v) The term Voting Securities shall mean any securities of the Company 
+that vote generally in the election of directors.
+
+SECTION 2. SERVICES TO THE COMPANY
+
+2.1 Services by Indemnitee. Indemnitee agrees to [serve/continue to serve] 
+as a director or officer of the Company for so long as Indemnitee is duly 
+elected or appointed or until Indemnitee tenders [his/her] resignation or 
+is no longer serving in such capacity. This Agreement shall not be deemed 
+an employment agreement between the Company (or any of its Subsidiaries or 
+any other entity) and Indemnitee. Indemnitee specifically acknowledges that 
+[his/her] [employment with/service to] the Company or any of its 
+Subsidiaries or any other entity at the request of the Company is at will 
+and the Indemnitee may be discharged at any time for any reason, with or 
+without cause, except as may be otherwise provided in any written 
+employment agreement between Indemnitee and the Company (or any such 
+Subsidiaries or entity), other applicable formal severance policies duly 
+adopted by the Board or, with respect to service as a director or officer 
+of the Company, by the Companys Certificate of Incorporation and Bylaws or 
+Delaware law.
+ 
+5
+
+------------------------------------------------------------------------
+SECTION 3. INDEMNIFICATION
+
+3.1 Indemnification in Third Party Actions. Subject to the terms and 
+conditions of this Agreement, in the event that the Indemnitee is a party 
+to, is threatened to be made a party to, is a witness or other participant 
+in, or is threatened to be made a witness or other participant in, or is 
+otherwise involved or threatened to be otherwise involved in any Proceeding 
+by reason of, relating to or otherwise arising in whole or in part out of, 
+an Indemnifiable Event (other than a Proceeding by or in the name of the 
+Company to procure a judgment in its favor which is addressed in Section 
+3.2 below), the Company shall indemnify the Indemnitee against all 
+Indemnified Costs actually and reasonably incurred by Indemnitee in 
+connection with such Proceeding, to the fullest extent permitted by 
+applicable law (whether or not such Proceeding proceeds to a judgment or is 
+settled or is otherwise brought to final disposition) if the Indemnitee 
+acted in good faith and in a manner the Indemnitee reasonably believed to 
+be in or not opposed to the best interests of the Company and, with respect 
+to any criminal proceeding, had no reason to believe that his or her 
+conduct was unlawful.
+
+3.2 Indemnification in Proceedings By or In the Name of the Company. 
+Subject to the terms and conditions of this Agreement, in the event that 
+the Indemnitee is a party to, is threatened to be made a party to, is a 
+witness or other participant in, or is threatened to be a witness or other 
+participant in, or is otherwise involved or threatened to be otherwise 
+involved in any Proceeding by or in the name of the Company to procure a 
+judgment in its favor by reason of, relating to or otherwise arising in 
+whole or in part out of, an Indemnifiable Event, the Company shall 
+indemnify the Indemnitee against all Expenses actually and reasonably 
+incurred by Indemnitee in connection with such Proceeding, to the fullest 
+extent permitted by applicable law (whether or not such Proceeding proceeds 
+to a judgment or is settled or is otherwise brought to final disposition) 
+if the Indemnitee acted in good faith and in a manner the Indemnitee 
+reasonably believed to be in or not opposed to the best interests of the 
+Company; provided, however that no indemnification against such Expenses 
+shall be made in respect of any claim, issue or matter in such Proceeding 
+as to which the Indemnitee shall have been adjudged liable to the Company 
+unless and to the extent that a court of competent jurisdiction determines 
+that, despite such judgment, the Indemnitee is entitled to indemnification 
+hereunder.
+
+3.3 Partial Indemnification. If the Indemnitee is entitled under any 
+provision of this Agreement to indemnification by the Company for some or a 
+portion of, but not the total amount of, the Indemnified Costs, the Company 
+shall nevertheless indemnify the Indemnitee for the portion of the 
+Indemnified Costs to which the Indemnitee is entitled.
+
+3.4 Indemnification Hereunder Not Exclusive. The indemnification provided 
+by this Agreement is not exclusive of any other rights to which the 
+Indemnitee may be entitled under the Companys Certificate of 
+Incorporation, its Bylaws, any agreement, any vote of stockholders or 
+Disinterested Directors, applicable law, or otherwise, both as to action in 
+the Indemnitees official capacity and as to action in another capacity on 
+behalf of the Company.
+
+3.5 Indemnification of Expenses of Successful Party. Notwithstanding any 
+other provisions of this Agreement, to the extent that the Indemnitee has 
+been successful in defense of any Proceeding or in defense of any claim, 
+issue or matter in a Proceeding, on the merits or otherwise, including, but 
+not limited to, the dismissal of a Proceeding (or any claim, issue or
+ 
+6
+
+------------------------------------------------------------------------
+matter in a Proceeding) without prejudice, the Indemnitee shall be 
+indemnified against all Expenses actually and reasonably incurred by 
+Indemnitee in connection with the Proceeding, claim, issue or matter (as 
+the case may be) that is successfully resolved to the fullest extent 
+permitted by applicable law.
+
+3.6 Advances of Expenses; Enforcement Proceedings.
+
+(a) The Indemnitee shall have the right to advancement by the Company, 
+prior to the final disposition of any Proceeding by final adjudication as 
+to which there are no further rights of appeal and without the need for any 
+Standard of Conduct Determination prior to such advancement, of any and all 
+Expenses actually and reasonably paid or incurred by Indemnitee in 
+connection with such Proceeding to the fullest extent permitted by 
+applicable law. Subject to the terms of this Agreement and any restrictions 
+of applicable law, the advances to be made will be paid by the Company to 
+the Indemnitee within thirty (30) days following delivery to the Company of 
+written request therefor from the Indemnitee which is accompanied by 
+substantiating documentation reasonably satisfactory to the Company. 
+Execution and delivery of this Agreement by the Indemnitee constitutes an 
+undertaking by the Indemnitee to repay any amounts paid, advanced or 
+reimbursed by the Company in respect of Expenses pursuant to this Section 
+3.6 (Advanced Expenses) relating to, arising out of or resulting from, 
+any Proceeding with respect to which it shall be determined, following 
+final disposition of such Proceeding, that Indemnitee is not entitled to 
+indemnification hereunder. No other form of undertaking shall be required 
+hereunder other than execution of this Agreement. Advances shall be 
+unsecured and interest free and shall be made without regard to the 
+Indemnitees ability to repay the Advanced Expenses. The Company 
+acknowledges the potentially severe damage to Indemnitee should the Company 
+fail timely to make such advances to Indemnitee.
+
+(b) To the fullest extent allowable under applicable law, the Company shall 
+also indemnify the Indemnitee against, and, if requested by the Indemnitee, 
+advance to the Indemnitee, subject to and in accordance with Section 
+3.6(a), any Expenses actually and reasonably paid or incurred by Indemnitee 
+in connection with any action, claim, suit or proceeding brought by 
+Indemnitee to enforce Indemnitees right to indemnification or 
+reimbursement (or advancement) of Indemnified Costs under any provision of 
+this Agreement (any such action, claim, suit or proceeding, an 
+Enforcement Proceeding) unless the Delaware Court determines that each of 
+the material claims and/or defenses of the Indemnitee in the Enforcement 
+Proceeding was made in bad faith or was frivolous; provided, however, that 
+in the event that Indemnitee is ultimately determined not to be entitled to 
+indemnification or reimbursement (or advancement) of the Indemnified Costs 
+that were the subject of the Enforcement Proceeding, then all amounts 
+advanced to indemnify or reimburse Indemnitee for Expenses incurred in 
+connection with the Enforcement Proceeding shall repaid by the Indemnitee 
+to the Company.
+
+3.7 Limitations on Indemnification. (a) Notwithstanding anything in this 
+Agreement to the contrary, no payments pursuant to this Agreement shall be 
+made by the Company to:
+
+(i) indemnify, hold harmless or advance Indemnified Costs to the Indemnitee 
+with respect to any Proceeding (or any claim, issue or matter in a 
+Proceeding)
+ 
+7
+
+------------------------------------------------------------------------
+initiated or brought voluntarily by the Indemnitee (including any 
+Proceeding, or claim, issue or matter in a Proceeding, against the Company 
+or any of its directors, officers, employees or other indemnitees) and not 
+by way of defense, except for Expenses for which the Company is required to 
+indemnify the Indemnitee in connection with Enforcement Proceedings 
+pursuant to and in accordance with Section 3.6(b); provided, however, that 
+indemnification or advancement of Indemnified Costs may be provided by the 
+Company with respect to a Proceeding (or any claim, issue or matter in a 
+Proceeding) initiated or brought voluntarily by the Indemnitee and not by 
+way of defense if (i) the Board has consented to the initiation of such 
+Proceeding (or such claim, issue or matter in a Proceeding) prior to its 
+initiation, or (ii) such indemnification is expressly required to be made 
+by applicable law.
+
+(ii) indemnify the Indemnitee for any Indemnified Costs sustained in any 
+Proceeding for an accounting of profits made from the purchase or sale by 
+the Indemnitee of securities of the Company pursuant to the provisions of 
+Section 16(b) of the Exchange Act, the rules and regulations promulgated 
+thereunder and amendments thereto or similar provisions of any federal, 
+state or local statutory law;
+
+(iii) indemnify the Indemnitee for any Indemnified Costs on account of 
+conduct that is established by a final judgment of a court of competent 
+jurisdiction to constitute (i) willful misconduct by the Indemnitee or a 
+breach of Indemnitees duty of loyalty to the Company, (ii) bad faith by 
+the Indemnitee or (iii) fraud or deliberate dishonesty of the Indemnitee;
+
+(iv) indemnify the Indemnitee for any Indemnified Costs in connection with 
+any Proceeding (or claim, issue or matter in a Proceeding) based upon or 
+attributable to Indemnitee gaining any personal profit or advantage to 
+which Indemnitee is not entitled or for the return by Indemnitee of any 
+remuneration paid to Indemnitee to which Indemnitee is determined not to be 
+entitled; or
+
+(iv) indemnify the Indemnitee under this Agreement if a court of competent 
+jurisdiction shall finally determine that such payment is not permitted by 
+applicable law.
+
+(b) Notwithstanding anything herein to the contrary, the Company shall not 
+be obligated pursuant to the terms of this Agreement to indemnify or hold 
+harmless Indemnitee in violation of, or to otherwise act in violation of, 
+any undertaking appearing in and required by the rules and regulations 
+promulgated under the Securities Act, or in any registration statement 
+filed with the SEC under the Securities Act. Indemnitee acknowledges that 
+paragraph (h) of Item 512 of Regulation S-K currently generally requires 
+the Company to undertake in connection with any registration statement 
+filed under the Securities Act to submit the issue of the enforceability of 
+Indemnitees rights under this Agreement in connection with any liability 
+under the Securities Act on public policy grounds to a court of appropriate 
+jurisdiction and to be governed by any final adjudication of such issue. 
+Indemnitee specifically agrees that any such undertaking shall supersede 
+the provisions of this Agreement and to be bound by any such undertaking.
+
+(c) Indemnitee hereby expressly undertakes and agrees to reimburse the 
+Company for all Indemnified Costs paid by the Company to or on behalf of 
+Indemnitee in connection with any Proceeding in the event and only to the 
+extent that it is finally determined by a court of competent jurisdiction 
+in a decision from which there is no further right of appeal that 
+Indemnitee is not entitled to be indemnified by the Company for such 
+Indemnified Costs because such Indemnified Costs relate to an Excluded 
+Claim.
+ 
+8
+
+------------------------------------------------------------------------
+SECTION 4. STANDARD OF CONDUCT DETERMINATIONS
+
+4.1 Standard of Conduct Determination. To the extent that the provisions of 
+Section 3.5 are inapplicable to any Proceeding, any determination of 
+whether the Indemnitee has satisfied the applicable standard of conduct 
+that is a required condition to indemnification hereunder with respect to 
+such Proceeding (any such determination, a Standard of Conduct 
+Determination) and any determination that Advanced Expenses must be repaid 
+to the Company shall be made as follows:
+
+(a) if no Change in Control has occurred, such determination shall be made 
+(1) by a majority vote of Disinterested Directors, even if less than a 
+quorum of the Board, or (2) by a committee of Disinterested Directors 
+designated by a majority vote of the Disinterested Directors, even though 
+less than a quorum; provided, however, that if there are no such 
+Disinterested Directors, such determination shall be made by Independent 
+Counsel in a written opinion addressed to the Board, a copy of which shall 
+be delivered to Indemnitee.
+
+(b) if a Change in Control has occurred, such determination shall be made 
+(1) if the Indemnitee so requests in writing, by a majority vote of 
+Disinterested Directors, though less than a quorum of the Board, or (2) 
+otherwise by Independent Counsel in a written opinion addressed to the 
+Board, a copy of which shall be delivered to Indemnitee.
+
+4.2 Timing of Standard of Conduct Determination. The Company shall use its 
+reasonable best efforts to cause any Standard of Conduct Determination 
+required by Section 4.1 to be made as promptly as practicable. If the 
+person or persons designated to make such Standard of Conduct Determination 
+shall not have made the determination within sixty (60) days after (i) 
+receipt by the Company of a written request from Indemnitee for 
+indemnification pursuant to Section 6 (the date of such receipt, the 
+Notification Date) if the Standard of Conduct Determination is to be made 
+by Disinterested Directors, or (ii) the selection of an Independent Counsel 
+if the Standard of Conduct Determination is to be made by Independent 
+Counsel, then Indemnitee shall be deemed to have satisfied the applicable 
+standard of conduct, provided that such sixty (60)-day time period may be 
+extended for a reasonable period of time, not to exceed thirty (30) 
+additional days, if the person or persons making such Standard of Conduct 
+Determination in good faith require such additional time to obtain or 
+evaluate information relating thereto. Notwithstanding anything herein to 
+the contrary, no determination as to the entitlement of Indemnitee to 
+indemnification under this Agreement shall be required to be made prior to 
+the final disposition of any Proceeding.
+
+4.3. Presumptions; Defenses. No determination by the Company (including by 
+its directors or any Independent Counsel) that Indemnitee has not satisfied 
+any applicable standard of conduct shall create a presumption that 
+Indemnitee is not entitled to indemnification
+ 
+9
+
+------------------------------------------------------------------------
+hereunder. Any Standard of Conduct Determination that is adverse to 
+Indemnitee may be challenged by Indemnitee in the Delaware Court. It shall 
+be a defense to any Enforcement Proceeding brought by Indemnitee (other 
+than an action brought to enforce a claim for Expenses incurred in 
+defending against a Proceeding in advance of its final disposition) that it 
+is not permissible under applicable law for the Company to indemnify 
+Indemnitee for the amount claimed. In connection with any such Enforcement 
+Action or any related Standard of Conduct Determination under Section 4.1, 
+the burden of proving that Indemnitee is not entitled to indemnification 
+shall be on the Company. For purposes of this Agreement, the termination of 
+any Proceeding by judgment, order, settlement (whether with or without 
+court approval) or conviction, or upon a plea of nolo contendere or its 
+equivalent, shall not, of itself, create a presumption that Indemnitee did 
+not meet any particular standard of conduct or have any particular belief 
+or that a court has determined that indemnification is not permitted by 
+applicable law.
+
+4.4 Payment. If, in regard to any Indemnified Costs:
+
+(a) Indemnitee shall be entitled to indemnification pursuant to Section 
+3.5;
+
+(b) no Standard of Conduct Determination is legally required as a condition 
+to indemnification of Indemnitee hereunder; or
+
+(c) Indemnitee has been determined or deemed, pursuant to Section 4.1 or 
+4.2 above, to have satisfied the applicable Standard of Conduct;
+
+then, without duplication of any such Indemnified Costs that have been 
+advanced to Indemnitee pursuant to Section 3.6, the Company shall pay to 
+Indemnitee, within thirty (30) days after the later of (A) written request 
+for such Indemnifiable Costs made by Indemnitee to the Company which is 
+accompanied by substantiating documentation reasonably satisfactory to the 
+Company, and (B) the earliest date on which the applicable criterion 
+specified in clause (a), (b) or (c) is satisfied, an amount equal to such 
+Indemnified Costs.
+
+SECTION 5. Selection of Independent Counsel. If the determination of 
+entitlement to indemnification is to be made by Independent Counsel 
+pursuant to Section 4.1 hereof, the Independent Counsel shall be selected 
+by the Board by written notice to Indemnitee. Indemnitee may, within ten 
+(10) days after such written notice of selection shall have been given to 
+Indemnitee, deliver to the Company a written objection to such selection; 
+provided, however, that such objection may be asserted only on the ground 
+that the Independent Counsel so selected does not meet the requirements of 
+Independent Counsel as defined in the definition thereof, and the 
+objection shall set forth with particularity the factual basis of such 
+assertion. Absent a proper and timely objection, the person so selected 
+shall act as Independent Counsel. If a written objection is timely and 
+properly made and substantiated, the Independent Counsel selected may not 
+serve as Independent Counsel unless and until such objection is withdrawn 
+or the Delaware Court has determined that such objection is without merit. 
+Any Independent Counsel that has been selected by the Board without timely 
+and proper objection from the Indemnitee or with respect to which any 
+timely and proper objection by the Indemnitee has been withdrawn, is 
+referred to herein as an Approved Independent Counsel. If there is no 
+Approved Independent Counsel by 5:00 p.m. eastern time on the date that is 
+twenty (20) days after
+ 
+10
+
+------------------------------------------------------------------------
+submission by Indemnitee of a written request for indemnification pursuant 
+to Section 6.1 hereof with respect to which a Standard of Conduct 
+Determination is required to be made by Independent Counsel pursuant to 
+Section 4.1, either the Company or Indemnitee may petition the Delaware 
+Court for resolution of any objection which shall have been made by the 
+Indemnitee to the Boards selection of Independent Counsel and/or for the 
+appointment as Independent Counsel of a person selected by the Delaware 
+Court or by such other person as the Delaware Court shall designate, and 
+the person with respect to whom all objections are so resolved or the 
+person so appointed shall act as Independent Counsel under Section 4.1 
+hereof. The Company shall pay any and all reasonable fees and expenses 
+incurred by the Independent Counsel in connection with acting pursuant to 
+Section 4.1 hereof, and the Company shall pay all reasonable fees and 
+expenses incident to the procedures of this Section 5, regardless of the 
+manner in which such Independent Counsel was selected or appointed.
+
+SECTION 6. INDEMNIFICATION PROCEDURE
+
+6.1 Notice. Promptly after receipt by the Indemnitee of notice of the 
+commencement of any Proceeding, the Indemnitee will, if a claim is to be 
+made against the Company under this Agreement, notify the Company of the 
+commencement of the Proceeding and make a request for indemnification 
+hereunder (the date on which such notice and request is delivered to the 
+Company, the Notification Date), which notice and request shall contain a 
+brief description of the Proceeding and include such documentation and 
+information as is reasonably available to Indemnitee and is reasonably 
+necessary to determine whether and to what extent Indemnitee is entitled to 
+indemnification hereunder. The failure to so notify the Company will not 
+relieve the Company from any liability which the Company may have to the 
+Indemnitee, except to the extent the Company is materially damaged by the 
+failure of the Indemnitee to so notify the Company. Indemnitee agrees not 
+to make any admission or effect any settlement with respect to any such 
+Proceeding without the consent of the Company. If, as of the Notification 
+Date, the Company has D&O Insurance in effect, the Company shall give 
+prompt notice of the Proceeding to its insurers in accordance with the 
+procedures set forth in the applicable policies. The Company shall 
+thereafter use commercially reasonable efforts to cause such insurers to 
+pay, on behalf of Indemnitee, all Indemnifiable Costs relating to such 
+Proceeding in accordance with the terms of such policies. The Company shall 
+provide to the Indemnitee: (i) copies of all potentially applicable D&O 
+Insurance, (ii) a copy of such notice delivered to the applicable insurers, 
+and (iii) copies of all subsequent correspondence between the Company and 
+such insurers regarding the Proceeding, in each case substantially 
+concurrently with the delivery or receipt thereof by the Company.
+
+6.2 Defense of Claims. With respect to any Proceeding for which 
+indemnification is requested by Indemnitee under this Agreement, the 
+Company will be entitled to participate in the Proceeding at its own 
+expense and, except as otherwise provided below or pursuant to the terms of 
+any applicable D&O Insurance, to the extent that it may desire, the Company 
+may, upon written notice to Indemnitee within thirty (30) days after the 
+Notification Date, assume and control the defense of the Proceeding, with 
+counsel reasonably satisfactory to the Indemnitee. After the Company 
+notifies the Indemnitee of the Companys election to assume and control the 
+defense of a Proceeding, during the Companys good faith active defense of 
+such Proceeding, the Company will not be liable to the Indemnitee under 
+this Agreement for any legal or other expenses subsequently incurred by the 
+Indemnitee in connection with the defense or settlement
+ 
+11
+
+------------------------------------------------------------------------
+of the Proceeding, other than reasonable expenses of investigation or as 
+specifically provided below. The Indemnitee shall have the right to employ 
+separate counsel for the Indemnitee in any Proceeding but the fees and 
+expenses of such counsel incurred after notice from the Company of its 
+assumption of control of the defense of the Proceeding shall be at the 
+expense of the Indemnitee, unless (i) the employment of counsel by the 
+Indemnitee has been authorized by the Company, (ii) the Indemnitee has 
+reasonably concluded that counsel employed by the Company to assume defense 
+of a Proceeding has a conflict of interest in representing both the Company 
+and Indemnitee in the Proceeding, (iii) the Company has not in fact 
+employed counsel to assume the defense of a Proceeding, (iv) the Company 
+has returned defense of the Proceeding to Indemnitee, or (v) the Indemnitee 
+has reasonably concluded that there may be legal defenses available to 
+Indemnitee that are different from or additional to those available to the 
+Company, in any of which events, Indemnitee shall be entitled to control 
+its own defense of the Proceeding. In each of the foregoing cases, the 
+reasonable fees and expenses of the Indemnitees counsel shall be at the 
+expense of the Company, but in no event shall the Company be responsible 
+for the fees or expenses of more than one law firm representing Indemnitee, 
+plus, if necessary, one firm serving as local counsel to Indemnitee. The 
+Company shall not be entitled to assume the defense of any Proceeding 
+brought by or on behalf of the Company. Notwithstanding anything to the 
+contrary in this Agreement, the Indemnitee shall not make any admission in 
+any Proceeding with out the prior consent of the Company, which consent 
+shall not be unreasonably withheld, and neither the Company nor the 
+Indemnitee shall waive any privilege or right available to the other party 
+(the Privilege Party) in any Proceeding without the prior consent of the 
+Privilege Party, which consent shall not be unreasonably withheld.
+
+6.3 Settlement. The Company shall not be liable to Indemnitee under this 
+Agreement for any amounts paid in settlement of any threatened or pending 
+Proceeding effected without the Companys prior written consent, which 
+consent shall not be unreasonably withheld. The Company shall not settle 
+any Proceeding in any manner that would impose any monetary obligation on 
+Indemnitee (after giving effect to any indemnification provided for herein) 
+without Indemnitees prior written consent, which consent shall not be 
+unreasonably withheld.
+
+SECTION 7. REPAYMENT
+
+7.1 Repayment. Notwithstanding anything in this Agreement to the contrary, 
+the Company shall not be liable under this Agreement to make any payment to 
+Indemnitee in respect of any Indemnifiable Costs to the extent Indemnitee 
+has otherwise received payment under any insurance policy (including any 
+D&O Insurance), Certificate of Incorporation, Bylaw, other contractual 
+indemnity provision or otherwise of the amounts otherwise indemnifiable by 
+the Company hereunder. The Indemnitee will promptly repay to the Company 
+any such amounts paid to or on behalf of the Indemnitee under this 
+Agreement to the extent those payments are duplicative of payments 
+described above.
+
+SECTION 8. MISCELLANEOUS
+
+8.1 Successors and Assigns. This Agreement shall be binding upon, and shall 
+inure to the benefit of the Indemnitee and the Indemnitees spouse, heirs, 
+successors, personal representatives and assigns, and the Company and its 
+successors and assigns, including any direct or indirect successor by 
+purchase, merger, consolidation or otherwise to all or substantially
+ 
+12
+
+------------------------------------------------------------------------
+all of the business and/or assets of the Company. Nothing in this 
+Agreement, express or implied, is intended to confer any rights or remedies 
+upon any other person. In the event of a Change in Control of the type 
+described in Section 1.1(d)(iii)(1), the Company will use its reasonable 
+best efforts to (a) have the obligations of the Company under this 
+Agreement expressly assumed by the surviving, purchasing or succeeding 
+entity, or (b) otherwise adequately provide for the satisfaction of the 
+Companys obligations under this Agreement in a manner reasonably 
+acceptable to Indemnitee.
+
+8.2 Separability. Each provision of this Agreement is a separate and 
+distinct agreement and independent of the others, so that if any provision 
+of this Agreement shall be held to be invalid or unenforceable for any 
+reason, the invalidity or unenforceability shall not affect the validity or 
+enforceability of the other provisions of this Agreement. To the extent 
+required, any provision of this Agreement may be modified by the Delaware 
+Court to preserve its validity and to provide the Indemnitee with the 
+broadest possible indemnification permitted under applicable law.
+
+8.3 Savings Clause. If this Agreement or any portion of it is invalidated 
+on any ground by the Delaware Court, then the Company shall nevertheless 
+indemnify Indemnitee as to Indemnified Costs with respect to any Proceeding 
+to the full extent permitted by any applicable portion of this Agreement 
+that shall not have been invalidated.
+
+8.4 Interpretation; Governing Law; Consent to Jurisdiction. This Agreement 
+shall be construed as a whole and in accordance with its fair meaning. 
+Headings are for convenience only and shall not be used in construing 
+meaning. This Agreement shall be governed and interpreted in accordance 
+with the laws of the State of Delaware applicable to agreements made and to 
+be performed entirely in such State. The Company and the Indemnitee each 
+hereby irrevocably and unconditionally (a) agree that any action or 
+proceeding arising out of or in connection with this Agreement shall be 
+brought only in the Delaware Court and not in any other state or federal 
+court (other than any appeal from a decision of the Delaware Court), and 
+(b) consent to the exclusive jurisdiction of the Delaware Court for 
+purposes of any action or proceeding arising out of or in connection with 
+this Agreement.
+
+8.5 Amendments; Waivers; Nature of Rights. No amendment, waiver, 
+modification, termination or cancellation of this Agreement shall be 
+effective unless in writing signed by the party against whom enforcement is 
+sought. No failure or delay in exercising any right will be deemed a waiver 
+of such right. The indemnification rights afforded to the Indemnitee by 
+this Agreement are contract rights and may not be diminished, eliminated or 
+otherwise affected by amendments to the Companys Certificate of 
+Incorporation, its Bylaws or any other agreement, including, without 
+limitation, any D&O Insurance. Indemnitee agrees that neither the 
+stockholders of the Company, nor any director, officer, employee, 
+representative or agent of the Company, shall be personally liable for the 
+satisfaction of the Companys obligations under this Agreement and 
+Indemnitee shall look solely to the assets of the Company for satisfaction 
+of any claims hereunder.
+
+8.6 Counterparts. This Agreement may be executed in one or more 
+counterparts, all of which shall be considered one and the same agreement 
+and shall become effective when one or more counterparts have been signed 
+by each party and delivered to the other.
+ 
+13
+
+------------------------------------------------------------------------
+8.7 Liability Insurance. To the extent the Company maintains D&O Insurance, 
+Indemnitee, if an officer or director of the Company, shall be covered by 
+such D&O Insurance, in accordance with its terms, to the maximum extent of 
+the coverage available to any director or officer of the Company.
+
+8.8 Notices. Any notice required to be given hereunder shall be in writing 
+and, if directed to the Company, delivered to the Company at 1001 Main 
+Street, Suite 600, Buffalo, NY 14203, Attention: General Counsel, and, if 
+directed to the Indemnitee, delivered to the Indemnitee at the Indemnitees 
+most recent address on the books and records of the Company, or to another 
+address as either shall designate in writing.
+
+8.9 Continuation After Term. Indemnitees rights hereunder shall continue 
+after the Indemnitee has ceased acting as a director and/or officer of the 
+Company, or as a director, officer, employee, manager, agent or fiduciary 
+of another entity at the request of the Company and so long as the 
+Indemnitee shall be subject to any pending or threatened Proceedings, and 
+the benefits hereof shall inure to the benefit of the heirs, executors and 
+administrators of Indemnitee.
+
+8.10 Non-Exclusivity; Certificate of Incorporation and By-Laws. The rights 
+of Indemnitee hereunder shall be in addition to any other rights Indemnitee 
+may have under the Companys Certificate of Incorporation, the Companys 
+Bylaws, the Delaware General Corporation Law, any vote of stockholders or 
+Disinterested Directors or otherwise, both as to action in Indemnitees 
+official capacity and as to action in any other capacity by holding such 
+office. The Company agrees that it shall not adopt any amendment to the 
+Companys Certificate of Incorporation or By-laws in effect on the date 
+hereof the effect of which would be to deny, diminish or encumber the 
+rights of Indemnitee granted hereby The Company further agrees that it 
+shall exercise the powers granted to it under its Certificate of 
+Incorporation, its By-laws and by applicable law to indemnify Indemnitee to 
+the fullest extent possible as required hereby.
+
+8.11 Subrogation. In the event of payment to Indemnitee under this 
+Agreement, the Company shall be subrogated to the extent of such payment to 
+all of the rights of recovery of Indemnitee. Indemnitee shall execute all 
+papers required and shall do everything that may be necessary to secure 
+such rights, including the execution of such documents necessary to enable 
+the Company effectively to bring suit to enforce such rights.
+
+[The next page is the signature page]
+ 
+14
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date 
+first written above.
+ 
+INDEMNITEE 	  	 	  	ATHENEX, INC.
+ 
+  	 	  	By: 	  	
+ 
+Name: 	  	
+ 
+  	 	  	Name: 	  	
+ 
+  	 	  	 	  	Title: 	  	
+ 
+ 
+15

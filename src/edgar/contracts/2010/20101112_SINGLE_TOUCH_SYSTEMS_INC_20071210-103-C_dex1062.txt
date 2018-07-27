@@ -1,0 +1,1572 @@
+ EX-10.6.2 9 dex1062.htm AMENDMENT TO SERVICES AGREEMENT
+
+
+
+ 
+Exhibit 10.6.2
+
+
+Amendment 20071210.103.A.002
+
+
+to Services Agreement
+
+
+20071210.103.C
+
+
+Between
+
+
+Single Touch Interactive, Inc.
+
+
+And
+
+
+AT&T Services, Inc.
+
+------------------------------------------------------------------------
+
+
+
+ 
+20071210.103.A.002
+TABLE OF CONTENTS
+ 
+
+ 2.0 Definitions
+
+   	  	3 	  
+
+   2.10 Information
+
+   	  	3 	  
+
+   2.13 Service(s)
+
+   	  	4 	  
+
+   2.17 Customer Information
+
+   	  	4 	  
+
+   2.18 Harmful Code
+
+   	  	4 	  
+
+   2.19 Special Terms and Conditions
+
+   	  	4 	  
+
+   2.20 Vulnerability
+
+   	  	5 	  
+
+ 3.0 General Terms
+
+   	  	5 	  
+
+   3.11 Duration of Agreement
+
+   	  	5 	  
+
+   3.15 Government Contract Provisions
+
+   	  	5 	  
+
+   3.17 Information
+
+   	  	6 	  
+
+   3.18 Infringement
+
+   	  	8 	  
+
+   3.25 Notices
+
+   	  	12 	  
+
+   3.29 Publicity
+
+   	  	13 	  
+
+   3.31 Records and Audits
+
+   	  	13 	  
+
+   3.37 Warranty
+
+   	  	15 	  
+
+   3.38 Work Done By Others
+
+   	  	16 	  
+
+   3.39 Ethical Business Practice
+
+   	  	17 	  
+
+   3.40 Incidental Development
+
+   	  	17 	  
+
+   3.41 Labor Disputes
+
+   	  	18 	  
+
+   3.42 Offshore Work Prohibited
+
+   	  	18 	  
+
+   3.43 Taxes
+
+   	  	18 	  
+
+ 4.0 Special Terms
+
+   	  	20 	  
+
+   4.2 Background Checks
+
+   	  	20 	  
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+2
+
+------------------------------------------------------------------------
+
+
+ 
+Agreement 20071210.103.A.002
+
+
+WHEREAS, Supplier and AT&T entered into Agreement No. 20071210.103.C on 
+April 11, 2008 (the Agreement); and
+
+
+WHEREAS, Supplier and AT&T desire to amend the Agreement as hereinafter set 
+forth.
+
+
+NOW, THEREFORE, in consideration of the premises and the covenants 
+hereinafter contained, the Parties hereto agree as follows:
+
+
+1. Section 2.10, Information, shall be deleted and replaced
+2. Section 2.13, Services, shall be deleted and replaced
+3. Section 2.17, Customer Information, shall be added to agreement
+4. Section 2.18, Harmful Code, shall be added to agreement
+5. Section 2.19, Special Terms and Conditions, shall be added to agreement
+6. Section 2.20, Vulnerability, shall be added to agreement
+7. Section 3.11, Duration of Agreement, shall be deleted and replaced
+8. Section 3.15, Government Contract Provisions, shall be deleted and 
+replaced
+9. Section 3.17, Information, shall be deleted and replaced
+10. Section 3.18, Infringement, shall be deleted and replaced
+11. Section 3.25, Notices, shall be deleted and replaced
+12. Section 3.29, Publicity, shall be deleted and replaced
+13. Section 3.31, Records and Audits, shall be deleted and replaced
+14. Section 3.37, Warranty, shall be deleted and replaced
+15. Section 3.38, Work Done by Others, shall be deleted and replaced
+16. Section 3.39, Ethical Business Practice, shall be added to agreement
+17. Section 3.40, Incidental Development, shall be added to agreement
+18. Section 3.41, Labor Disputes, shall be added to agreement
+19. Section 3.42, Offshore Work Prohibited, shall be added to agreement
+20. Section 3.43, Taxes, shall be added to agreement
+21. Section 4.2, Background Checks, shall be deleted and replaced
+
+
+2.0 Definitions
+
+1. Section 2.10, Information, shall be deleted and replaced as follows:
+
+
+2.10 Information
+
+Information, with respect to a Party, means all confidential, proprietary 
+or trade secret information, including discoveries, ideas, concepts, 
+know-how, techniques, processes, procedures, designs, specifications, 
+strategic information, proposals, requests for proposals, proposed 
+products, drawings, blueprints, tracings, diagrams, models, samples, flow 
+charts, data, computer programs, marketing plans, Customer Information 
+(including, Internet activities, history, and/or patterns of
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+3
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+use), employee personal information, health or financial information, 
+authentication credentials, and other technical, financial or business 
+information, whether disclosed in writing, orally, visually, in tangible or 
+intangible form, including in electronic mail or by other electronic 
+communication.
+
+
+2. Section 2.13, Services, shall be deleted and replaced as follows:
+
+
+2.13 Service(s)
+
+Services means installation and removal services, maintenance, training, 
+technical support, repair, training and on site support ancillary to the 
+acquisition of Material as set forth in this Agreement or any Order. For 
+greater certainty, Services excludes consulting and professional services 
+whereby enhancements, modifications or any development activities would 
+occur. Any such consulting and professional services shall be subject to 
+further written agreements of the parties.
+
+
+3. Section 2.17, Customer Information, shall be added to agreement as 
+follows:
+
+
+2.17 Customer Information
+
+Customer Information includes, but is not limited to, customer name, 
+address, phone number, any customer or employee personal information, 
+credit card and credit related information, health or financial 
+information, authentication credentials, information concerning a 
+customers calling patterns, unlisted customer numbers, any other 
+information associated with a customer or with persons in the household of 
+a customer, and any information available to AT&T and/or its suppliers by 
+virtue of AT&Ts relationship with its customers as a provider of 
+telecommunications, Internet, information or other services, including, but 
+not limited to, the quantity, technical configuration, location, type, 
+destination, amount of use of telecommunications or other services 
+subscribed to, and information contained on the telephone bills of AT&Ts 
+customers pertaining to telephone exchange service, telephone toll service 
+or other services received by a customer of AT&T.
+
+
+4. Section 2.18, Harmful Code, shall be added to agreement as follows:
+
+
+2.18 Harmful Code
+
+Harmful Code means computer viruses, worms, trap doors, time bombs, 
+undocumented passwords, disabling code (which renders Material unusable 
+until a patch or new password is provided), or any similar mechanism or 
+device. Notwithstanding the above, enabling keys which are provided by 
+Supplier to ensure conformance to product licensing restrictions shall be 
+permitted, however, these enabling keys may not interfere with the proper 
+use of the Material at any time after initial installation.
+
+
+5. Section 2.19, Special Terms and Conditions, shall be added to agreement 
+as follows:
+
+
+2.19 Special Terms and Conditions
+
+Special Terms and Conditions means written terms and conditions that are 
+(a) different from or additional to the terms and conditions set forth in 
+this Agreement, (b) specially negotiated by the Parties in reference to an 
+Order, (c) expressed in an Order or incorporated by reference to a document 
+attached to an Order, such as a scope of work or statement of work, and (d) 
+executed by both Parties.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+4
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+
+ 
+6. Section 2.20, Vulnerability, shall be added to agreement as follows:
+
+
+2.20 Vulnerability
+
+Vulnerability means a condition in the instructions of the Software, 
+whether consistent with its Specifications or not, that renders the 
+computer on which the Software is operating susceptible to unauthorized 
+access and use.
+
+
+3.0 General Terms
+
+7. Section 3.11, Duration of Agreement, shall be deleted and replaced as 
+follows:
+
+
+3.11 Duration of Agreement
+ 
+  	a. 	This Agreement will continue in effect for a term expiring April 9, 
+2014, unless it is Cancelled or Terminated before that date. The Parties 
+may extend the term of this Agreement beyond that date by mutual written 
+agreement.
+ 
+  	b. 	Any Order in effect on the date when this Agreement expires or is 
+Terminated or Cancelled will continue in effect until such Order either (i) 
+expires by its own terms or (ii) is separately Terminated or Cancelled, 
+prior to its own expiration, as provided in this Agreement. The terms and 
+conditions of this Agreement shall continue to apply to such Order as if 
+this Agreement were still in effect.
+
+
+8. Section 3.15, Government Contract Provisions, shall be deleted and 
+replaced as follows:
+
+
+3.15 Government Contract Provisions
+ 
+a. 	To the extent that Suppliers performance is subject to certain 
+executive orders (including E.O. 11246 and E.O. 13201) and statutes 
+(including Section 503 of the Rehabilitation Act of 1973, as amended; the 
+Vietnam Era Veterans Readjustment Assistance Act of 1974; Section 8116 of 
+the Defense Appropriations Act for Fiscal Year 2010 (Pub. L. 111-118); and 
+the Jobs for Veterans Act) pertaining to government contractors, Supplier 
+shall:
+ 
+  	1. 	comply with such executive orders and statutes, and their 
+implementing regulations, as amended from time to time; and
+ 
+  	2. 	fulfill the obligations of a contractor under the clauses 
+incorporated by this Section.
+ 
+b. 	This Section incorporates the following clauses:
+ 
+  	1. 	Affirmative Action For Workers With Disabilities (at 48 CFR 
+§52.222-36);
+ 
+  	2. 	Employment Reports On Special Disabled Veterans, Veterans Of The 
+Vietnam Era, and Other Eligible Veterans (at 48 CFR §52.222-37);
+ 
+  	3. 	Equal Employment Opportunity (at 48 CFR §52.222-26);
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+5
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+  	4. 	Equal Employment Opportunity Clause (at 41 CFR §60-1.4(a));
+ 
+  	5. 	Equal Opportunity For Special Disabled Veterans And Veterans of the 
+Vietnam Era (at 41 CFR §60-250.5);
+ 
+  	6. 	Equal Opportunity for Disabled Veterans, Recently Separated 
+Veterans, Other Protected Veterans, and Armed Forces Service Medal 
+Veterans (at 41 CFR Sec. 60-300.5);
+ 
+  	7. 	Equal Opportunity For Workers With Disabilities (at 41 CFR 
+§60-741.5);
+ 
+  	8. 	Notice Of Employee Rights Concerning Payment Of Union Dues Or Fees 
+(at 29 CFR § 470.2);
+ 
+  	9. 	Notification Of Employee Rights Concerning Payment Of Union Dues Or 
+Fees (at 48 CFR §52.222-39);
+ 
+  	10. 	Prohibition of Segregated Facilities (at 48 CFR §52.222-21);
+ 
+  	11. 	Small Business Subcontracting Plan (at 48 CFR §52.219-9);
+ 
+  	12. 	Utilization Of Small Business Concerns (at 48 CFR §52.219-8);
+ 
+  	13. 	Whistleblower Protections Under the American Recovery and 
+Reinvestment Act of 2009) (FAR 52.203-15;
+ 
+  	14. 	American Recovery and Reinvestment Act - Reporting Requirements 
+(FAR 52.204-11);
+ 
+  	15. 	GAO/IG Access (FAR 52.212-5(d) (Alt. II), FAR 52.214-26(c) (Alt. 
+I), FAR 52.215-2(d) (Alt. I));
+ 
+  	16. 	Davis-Bacon Act (FAR 52.222-6);
+ 
+  	17. 	Buy American Act (FAR 52.225-21, FAR 52.225-22, FAR 52.225-23, & 
+FAR 52.225-24)
+ 
+  	18. 	Whistleblower Protections (Pub. L. No. 111-5, Section 1553);
+ 
+  	19. 	Award termReporting and registration requirements under section 
+1512 of the Recovery Act (2 CFR 176.50);
+ 
+  	20. 	GAO/IG Access (Pub. L. No. 111-5, Section 902, 1514 and 1515);
+ 
+  	21. 	Award termWage Rate Requirements under Section 1606 of the 
+Recovery Act (2 CFR 176.190); and
+ 
+  	22. 	Buy American Requirements (2 CFR 176.140, 2 CFR 176.150, 2 CFR 
+176.160, & 2 CFR 176.170).
+ 
+c. 	If an Order includes a statement that performance is intended for a 
+government contract and incorporates additional government contracting 
+provisions, Supplier shall also fulfill the obligations of a contractor or 
+offeror under those additional provisions.
+
+
+9. Section 3.17, Information, shall be deleted and replaced as follows:
+
+
+3.17 Information
+ 
+a. 	
+
+In connection with this Agreement, including Suppliers performance of its 
+obligations hereunder and AT&Ts receipt of Material and Services, either 
+Party may find it beneficial to disclose to the other Party (which may 
+include permitting or enabling the other Partys access to) certain of its 
+Information. For the purpose of this clause, AT&Ts disclosure of 
+Information to Supplier includes any Information that Supplier receives, 
+observes, collects, handles, stores, or accesses, in
+
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+6
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+  	
+
+any way, in connection with this Agreement. Likewise, Suppliers disclosure 
+of Information to AT&T includes any Information that AT&T receives, 
+observes, collects, handles, stores, or accesses, in any way, in connection 
+with this Agreement. Information of a disclosing Party shall be deemed to 
+be confidential or proprietary only if it is clearly marked or otherwise 
+identified by the disclosing Party as being confidential or proprietary, 
+provided that if it is orally or visually disclosed (including Information 
+conveyed to an answering machine, voice mail box or similar medium), the 
+disclosing Party shall designate it as confidential or proprietary at the 
+time of such disclosure. Not withstanding the foregoing, a disclosing Party 
+shall not have any such obligation to so mark or identify, or to so 
+designate, Information that the disclosing Party discloses to or is 
+otherwise obtained by the other Partys employees, contractors, or 
+representatives (i) who are located on the disclosing Partys premises; 
+(ii) who access the disclosing Partys systems; or (iii) who otherwise 
+obtain AT&T and/or AT&T Customer Information in connection with this 
+Agreement, any such Information so disclosed shall automatically be deemed 
+to be confidential and proprietary. Additionally, the failure to mark or 
+designate information as being confidential or proprietary will not waive 
+the confidentiality where it is reasonably obvious, under the circumstances 
+surrounding disclosure, that the Information is confidential or 
+proprietary; any such Information so disclosed or obtained shall 
+automatically be deemed to be confidential and proprietary. For greater 
+certainty, Information provided by either Party to the other Party prior to 
+the Effective Date of this Agreement in connection with the subject matter 
+hereof, including any such Information provided under a separate 
+non-disclosure agreement (howsoever denominated) is also subject to the 
+terms of this Agreement. Neither Party shall disclose Information under 
+this Agreement that includes, in any form, any of the following: customer 
+or employee personal information, credit card and credit related 
+information, financial information, and/or authentication credentials.
+
+ 
+b. 	With respect to the Information of the disclosing Party, the receiving 
+Party shall:
+
+
+1. hold all such Information in confidence with the same degree of care 
+with which it protects its own confidential or proprietary Information, but 
+with no less than reasonably prudent care;
+
+
+2. restrict disclosure of such Information solely to its employees, 
+contractors, and agents with a need to know such Information, advise such 
+persons of their confidentiality obligations hereunder with respect 
+thereto, and ensure that such persons are bound by obligations of 
+confidentiality reasonably comparable to those imposed in this Agreement;
+
+
+3. use such Information only as needed to perform its obligations (and, if 
+AT&T is the receiving Party, to receive the benefits of the Material and 
+Services provided) under this Agreement;
+
+
+4. except as necessary under clause (3), not copy, distribute, or otherwise 
+use any such Information or allow anyone else to copy, distribute, or 
+otherwise use such Information; and ensure that any and all copies bear the 
+same notices or legends, if any, as the originals; and
+
+
+5. upon the disclosing Partys request, promptly return, or destroy all or 
+any requested portion of the Information, including tangible and electronic 
+copies, notes, summaries, extracts, mail or other communications, and 
+provide written certification within fifteen (15) business days to the 
+disclosing Party that such Information has been returned or destroyed, 
+provided that with respect to archival or back-up copies of Information 
+that reside on the receiving Partys systems, the receiving Party shall be 
+deemed to have complied with its obligations under this clause (5) if it 
+makes reasonable efforts to expunge from such systems, or to permanently 
+render irretrievable, such copies.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+7
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+c. 	Neither Party shall have any obligation to the other Party with respect 
+to Information which:
+
+
+1. at the time of disclosure was already known to the receiving Party free 
+of any obligation to keep it confidential (as evidenced by the receiving 
+Partys written records prepared prior to such disclosure);
+
+
+2. is or becomes publicly known through no wrongful act of the receiving 
+Party (such obligations ceasing at the time such Information becomes 
+publicly known);
+
+
+3. is lawfully received from a third party, free of any obligation to keep 
+it confidential;
+
+
+4. is independently developed by the receiving Party or a third party, as 
+evidenced by the receiving Partys written records, and wherein such 
+development occurred without any direct or indirect use of or access to the 
+Information received from the disclosing Party, or
+
+
+5. the disclosing Party consents in writing to be free of restriction.
+ 
+d. 	If a receiving Party is required to provide Information of a disclosing 
+Party to any court or government agency pursuant to a written court order, 
+subpoena, regulatory demand, or process of law, the receiving Party must, 
+unless prohibited by applicable law, first provide the disclosing Party 
+with prompt written notice of such requirement and reasonable cooperation 
+to the disclosing Party should it seek reasonable protective arrangements 
+for the production of such Information. The receiving Party will (i) take 
+reasonable steps to limit any such provision of Information to the specific 
+Information required by such court or agency, and (ii) continue to 
+otherwise protect all Information disclosed in response to such order, 
+subpoena, regulation, or process of law.
+ 
+e. 	A receiving Partys obligations with respect to any particular 
+Information of a disclosing Party shall remain in effect, including after 
+the expiration, Termination or Cancellation of this Agreement, until such 
+time as it qualifies under one of the exceptions set forth in clause (3) 
+above.
+
+
+10. Section 3.18, Infringement, shall be deleted and replaced as follows:
+
+
+3.18 Infringement
+ 
+a. 	Definitions. For purposes of this section:
+ 
+  	i. 	Indemnified Parties shall mean AT&T and its Affiliates, as well as 
+their agents, distributors and customers, individually or collectively, as 
+the case may be.
+ 
+  	ii. 	
+
+Loss shall mean any liability, loss, claim, demand, suit, cause of 
+action, settlement payment, cost and expense, interest, award, judgment, 
+damages (including punitive damages and increased damages for willful 
+infringement), diminution in value, liens, fines, fees, penalties, and 
+Litigation Expense. Litigation Expense means any court filing fee, court 
+cost, arbitration fee, and each other fee and cost of investigating or
+
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+8
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+  	
+
+defending an indemnified claim or asserting any claim for indemnification 
+or defense under this Agreement, including Attorneys Fees, other 
+professionals fees, and disbursements. Attorneys Fees include a charge 
+for the expenses and time of in-house counsel at the market rate for 
+attorneys in private practice who have similar experience.
+
+ 
+  	iii. 	For avoidance of doubt, the term Materials and Services shall 
+include any portion or functionality of any Material(s) or Service(s).
+ 
+b. 	Obligations.
+ 
+  	i. 	Supplier shall indemnify, hold harmless, and defend the Indemnified 
+Parties against any Loss resulting from, arising out of or relating to any 
+allegation, threat, demand, claim or lawsuit (Claim) of:
+ 
+  	1. 	infringement of any patent, copyright, trade mark, service mark, 
+trade secret, or other intellectual property right (including, for 
+avoidance of doubt, direct, contributory and active inducement 
+infringement) in connection with the Materials or Services, including, for 
+example, any Claim of infringement based on:
+ 
+  	a. 	making, repair, receipt, use, importing, sale or disposal (and 
+offers to do any of the foregoing) of Materials and Services, or
+ 
+  	b. 	use of Materials and Services in combination with products, systems, 
+services, processes or methods not furnished by Supplier, including, for 
+example, use in the form of the making or using of an apparatus or system, 
+or the making or practicing of a process or method (a Combination Claim).
+ 
+  	2. 	misappropriation of any trade secret, proprietary or non-public 
+information in connection with the Materials and Services;
+
+(any such Loss referenced in sections 1 or 2 of this paragraph b.i, a 
+Covered Loss regardless of whether such Claim is meritorious).
+ 
+  	ii. 	In the event (and only in the event) that Suppliers obligations 
+under paragraph b.i result from, arise out of, or relate to a Combination 
+Claim, the following provisions shall apply:
+ 
+  	1. 	Supplier shall be liable to pay only its Proportionate Share of the 
+Covered Loss associated with such Combination Claim. The Proportionate 
+Share payable by Supplier shall be a portion of the Covered Loss 
+determined on a fair and equitable basis to be attributable to Supplier 
+based on the materiality of the applicable Materials and Services to the 
+Combination Claim.
+ 
+  	2. 	Supplier shall be liable to the Indemnified Parties (or to a third 
+party claimant directly, if applicable) for its duly determined 
+Proportionate Share of the Covered Loss with respect to a particular 
+Combination Claim, regardless of whether any other interested party 
+compensates the Indemnified Parties as part of an indemnification 
+obligation, if any, relating to the Combination Claim.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+9
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+  	3. 	Supplier shall make payments in satisfaction of its Proportionate 
+Share obligation (Proportionate Share Payments) whenever those 
+Proportionate Share Payments become due (for example, Supplier shall make 
+Proportionate Share Payments for indemnified defense costs when payment is 
+due to be paid to outside counsel; and Supplier will make Proportionate 
+Share Payments for court awards (such as damages) when payment is required 
+by the court; and Supplier will make Proportionate Share Payments for 
+settlement when payment is due to be paid according to the terms of a 
+settlement agreement). Supplier shall be liable to the Indemnified Parties 
+for any monies owed (such as a Proportionate Share) by any of Suppliers 
+affiliates should such affiliates fail to pay in accordance with its 
+indemnification obligation to the Indemnified Parties.
+ 
+  	4. 	The Indemnified Parties shall select a single lead counsel to defend 
+such Combination Claim and Supplier agrees to share authority and control 
+over the defense of any such Combination Claim with the Indemnified Parties 
+and other interested parties.
+ 
+  	iii. 	In the event (and only in the event) that Suppliers obligations 
+under paragraph b.i result from, arise out of, or relate to other than a 
+Combination Claim, and the Claim against the Indemnified Parties concerns 
+products or services (including the Materials or Services) provided by more 
+than one Supplier, the following provisions shall apply:
+ 
+  	1. 	Supplier agrees that it will cooperate reasonably with the 
+Indemnified Parties and other Suppliers who have provided products or 
+services to the Indemnified Parties, each of which products or services is 
+also subject to the Claim (Other Suppliers) in order to defend the 
+Indemnified Parties in a coordinated effort.
+ 
+  	2. 	AT&T shall select a single lead counsel to defend such Claim and 
+Supplier agrees to share authority and control over the defense of any such 
+Claim with the Indemnified Parties and Other Suppliers.
+ 
+  	3. 	Supplier shall be liable to pay only its Associated Share of the 
+Loss which is equal to the Loss multiplied by a fraction equal to the net 
+amount paid by the Indemnified Parties to Supplier for the applicable 
+Material and Services divided by the total aggregate net amount paid by the 
+Indemnified Parties to all Suppliers for products or services that are 
+involved in the Claim.
+ 
+  	4. 	Supplier shall make payments in satisfaction of its Associated Share 
+obligation (Associated Share Payments) whenever those Associated Share 
+Payments become due (for example, Supplier shall make Associated Share 
+Payments for indemnified defense costs when payment is due to be paid to 
+outside counsel; and Supplier will make Associated Share Payments for court 
+awards (such as damages) when payment is required by the court; and 
+Supplier will make Associated Share Payments for settlement when payment is 
+due to be paid according to the terms of a settlement agreement). Supplier 
+shall be liable to the Indemnified Parties for any monies owed (such as an 
+Associated Share) by any of Suppliers affiliates should such affiliates 
+fail to pay in accordance with its indemnification obligation to the 
+Indemnified Parties.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+10
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+c. 	Continued Use of Materials and Services Subject to Non-Combination 
+Claims.
+ 
+  	i. 	If, as a result of a third party claim other than an Combination 
+Claim, (i) Indemnified Parties rights under this Agreement are restricted 
+or diminished; or (ii) an injunction is sought or is likely (in Suppliers 
+judgment) to be issued against the Indemnified Parties use of Materials 
+and Services, or (iii) Material or Services are likely (in Suppliers 
+judgment) to become the subject of a claim of infringement, then, in 
+addition to its other obligations set forth in this Section, Supplier, in 
+any case at its sole expense and at no loss, cost or damage to the 
+Indemnified Parties or their customers, shall obtain for the Indemnified 
+Parties the right to continue using or conducting other activities with 
+respect to (as the case may be) the Materials or Services; provided that if 
+Supplier is unable to obtain such right, Supplier shall, after consulting 
+with and obtaining the written approval of the Indemnified Parties, provide 
+modified or replacement non-infringing Materials or Services that are 
+equally suitable and functionally equivalent while retaining the quality of 
+the original Materials or Services.
+ 
+  	ii. 	Notwithstanding any other provision of this Agreement to the 
+contrary, should an injunction be issued against any person (whether or not 
+stayed or currently in effect), based on a claim other than a Combination 
+Claim, affecting Indemnified Parties ability to use or conduct other 
+activities with respect to the Materials and Services, then the Indemnified 
+Parties may seek the right to continue to use, or conduct other activities 
+with respect to, the Materials and Services, and Supplier shall reimburse 
+the Indemnified Parties for the costs (including reasonable attorneys 
+fees) associated with obtaining such right; provided however that Supplier 
+shall be responsible for costs associated with use or activities with 
+respect to the Materials and Services only and not any other products or 
+services used by the Indemnified Parties.
+ 
+d. 	Elimination of Charges. AT&T has no obligation to pay Supplier any 
+charges under this Agreement for the purchase, use, or maintenance of 
+Materials or Services after such time as the Indemnified Parties cease to 
+use them, by reason of actual or claimed infringement.
+ 
+e. 	Procedures Relating to Indemnification. The Parties shall follow the 
+procedures respecting indemnification provided in the Section entitled 
+Indemnity. In the event of any conflict between this Section 3.18 and the 
+Section entitled Indemnity, the provisions of this Section 3.18 shall 
+prevail.
+ 
+f. 	Forbidden Settlements. In no event shall Supplier settle any 
+Combination Claim or other Claim in whole or in part in a manner that would 
+amount to Supplier paying less than its determined Proportionate Share or 
+Associated Share, or that would otherwise negatively impact AT&T in a 
+material way (relative to a similar settlement by any other participating 
+parties).
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+11
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+
+ 
+11. Section 3.25 Notices, Publicity, shall be deleted and replaced as 
+follows:
+
+
+3.25 Notices
+ 
+a. 	Each Party giving or making any notice, consent, request, demand, or 
+other communication (each, a Notice) pursuant to this Agreement must give 
+the Notice in writing and use one of the following methods, each of which 
+for purposes of this Agreement is a writing: in person; first class mail 
+with postage prepaid; Express Mail, Registered Mail, or Certified Mail (in 
+each case, return receipt requested and postage prepaid); internationally 
+recognized overnight courier (with all fees prepaid); facsimile; or email. 
+If Notice is given by e-mail, it must be confirmed by a copy sent by any 
+one of the other methods. Each Party giving Notice shall address the Notice 
+to the appropriate person (the Addressee) at the receiving Party at the 
+address listed below:
+
+Single Touch Interactive, Inc.
+
+Single Touch Interactive, Inc.
+2235 Encinitas Blvd. Suite 210
+Encinitas, California 92024
+Attn: James Darcey
+Email Address: james@singletouch.net
+Business Number: 760-438-0100
+Fax Number: 760-438-1171
+
+AT&T Services, Inc.
+
+AT&T
+1010 Pine Street, Room 1-E-108
+St. Louis, Missouri 63101
+Attn: Anthony Cohen
+Email Address: anthony.m.cohen@att.com
+Business Number: 314-923-0263
+Fax Number: 314-234-6801
+ 
+b. 	A Notice is effective only if the Party giving notice has complied with 
+the foregoing requirements of this Section and the Addressee has received 
+the notice. A Notice is deemed to have been received as follows:
+ 
+  	1. 	If a Notice is delivered by first class mail, five (5) days after 
+deposit in the mail;
+ 
+  	2. 	If a Notice is furnished in person, or sent by Express Mail, 
+Registered Mail, or Certified Mail, or internationally recognized overnight 
+courier, upon receipt as indicated by the date on the signed receipt;
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+12
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+  	3. 	If a Notice is sent by facsimile, upon receipt, by the Party giving 
+or making the Notice, of an acknowledgment or transmission report generated 
+by the machine from which the facsimile was sent, indicating that the 
+facsimile was sent in its entirety to the Addressees facsimile number; and
+ 
+  	4. 	If a Notice is sent by e-mail, upon successful transmission to the 
+receiving machine, if such Notice is sent in time to allow it to be 
+accessible by the Addressee before the time allowed for giving such notice 
+expires, and a confirmation copy is sent by one of the other methods.
+ 
+c. 	The addresses and facsimile and telephone numbers to which notices or 
+communications may be given to the Addressees of either Party may be 
+changed by written notice given by such Party to the other pursuant to this 
+Section.
+
+12. Section 3.29, Publicity, shall be deleted and replaced as follows:
+
+
+3.29 Publicity
+
+Supplier shall not use AT&Ts or its Affiliates names, trademarks, service 
+marks, designs, logos or symbols (AT&T Marks). In addition, Supplier 
+shall not use any language or pictures which could in AT&Ts judgment imply 
+AT&Ts or its Affiliates identities, or endorsement by AT&T, its 
+Affiliates or any of its or their employees, in any (i) written, 
+electronic, or oral advertising or presentation, or sales meeting, or (ii) 
+brochure, newsletter, book, electronic database, testimonial quotation, 
+thank you letter, reference letter or other communication of whatever 
+nature.
+
+
+13. Section 3.31, Records and Audits, shall be deleted and replaced as 
+follows:
+
+
+3.31 Records and Audits
+ 
+a. 	Supplier shall maintain complete and accurate records, in order for 
+AT&T to verify via AT&T Audits:
+ 
+  	1. 	the accuracy and integrity of its invoices and AT&Ts payment 
+obligations hereunder;
+ 
+  	2. 	that the Work charged for was actually performed;
+ 
+  	3. 	that the Services have been and are being provided in accordance 
+with this Agreement;
+ 
+  	4. 	the integrity of the systems that process, store, support, maintain, 
+and transmit AT&T data;
+ 
+  	5. 	the performance of its Subcontractors and agents with respect to any 
+portion of the Services; and
+ 
+  	6. 	that Supplier and its Subcontractors and agents are meeting 
+applicable regulatory and legal requirements. For purposes of this Section, 
+Subcontractors shall include Subcontractors regardless of their tier.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+13
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+
+ 
+b. 	Supplier shall provide and shall require that its Subcontractors and 
+agents provide to AT&T, its auditors (including internal audit staff and 
+external auditors), and governmental authorities, access at all reasonable 
+times to:
+ 
+  	1. 	any facility at which the Services or any portion thereof are being 
+performed;
+ 
+  	2. 	systems and assets used to provide the Services or any portion 
+thereof;
+ 
+  	3. 	Supplier employees and Subcontractor and agent employees providing 
+the Services or any portion thereof;
+ 
+  	4. 	all Supplier and Subcontractor records pertaining to the Services; 
+and
+ 
+  	5. 	such financial records relating to the invoices and payment 
+obligations and supporting documentation pertaining to the Services as may 
+be reasonably requested by AT&T and its auditors to enable them to audit 
+the performance of the Services and other matters relevant to this 
+Agreement (collectively, AT&T Audits). Any external auditors utilized by 
+AT&T for AT&T Audits shall be nationally recognized auditing firms under 
+confidentiality obligations consistent with those stated in this Agreement.
+
+
+The scope of AT&T Audits shall also include:
+ 
+  	1. 	practices and procedures used in performing the Services;
+ 
+  	2. 	systems, communications and information technology used in 
+performing the Services;
+ 
+  	3. 	general controls and security practices and procedures;
+ 
+  	4. 	supporting information and calculations regarding invoices and 
+compliance with service requirements;
+ 
+  	5. 	quality initiatives and quality assurance; and
+ 
+  	6. 	compliance with the terms of this Agreement.
+ 
+c. 	Permit AT&T and its authorized representatives (with confidentiality 
+agreements in place with AT&T) to inspect and audit Suppliers records 
+related to the Material and Services, with ten (10) days notice. Should 
+AT&T request an audit, Supplier shall make available upon reasonable 
+advance notice any pertinent records and files to AT&T and its authorized 
+representative during normal business hours at no additional charge within 
+no more than five (5) business days.
+ 
+d. 	AT&T Audits may be conducted once a year (or more frequently if 
+requested by governmental authorities who regulate AT&Ts business, if 
+required by applicable law or if auditors require follow-up access to 
+complete audit inquiries or if an audit uncovers any problems or 
+deficiencies), upon at least two (2) business days advance notice (unless 
+otherwise mandated by law). Supplier will cooperate, and will ensure that 
+its Subcontractors and agents cooperate, in the AT&T Audits, will make the 
+information reasonably required to conduct the AT&T Audits available on a 
+timely basis.
+ 
+e. 	
+
+If, as a result of an AT&T Audit, AT&T determines that Supplier overcharged 
+AT&T, then AT&T will notify Supplier of the amount of such overcharge and 
+Supplier will promptly pay to AT&T the amount of any undisputed overcharge 
+along with interest from the date of the overcharge. If Supplier disputes 
+the findings of the AT&T Audit, Supplier shall provide AT&T
+
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+14
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+  	
+
+with written notice of such dispute within five (5) business days of 
+receipt of the AT&T Audit. The Parties agree to negotiate in good faith to 
+resolve any such dispute. If any such AT&T Audit reveals an undisputed 
+overcharge to AT&T during any 12-month period exceeding five percent (5%) 
+of all charges in the aggregate paid by AT&T hereunder during such period, 
+then Supplier will reimburse AT&T for the cost of such AT&T Audit. If, as a 
+result of an AT&T Audit and following the dispute resolution process set 
+forth above, AT&T determines that Supplier has not performed or has 
+unsatisfactorily performed any obligation under this Agreement, then 
+Supplier will promptly remedy the non-performance or unsatisfactory 
+performance.
+
+ 
+f. 	Supplier will maintain and retain the records set forth in Subsection 
+(a) during the term of the Agreement and for three (3) years thereafter 
+(unless a discovery or legal hold request is made with respect to such 
+records, in which case Supplier shall retain such records until AT&T 
+notifies Supplier that such discovery or legal hold request has expired). 
+Supplier will provide AT&T, at AT&Ts request, with copies of documents and 
+information (in the format in which they are maintained by Supplier) 
+reasonably necessary to verify Suppliers compliance with this Agreement. 
+Upon notification by AT&T of a discovery or legal hold request, Supplier 
+shall fully cooperate with such request and immediately preserve any 
+Supplier records covered by such request and promptly provide such Supplier 
+records requested by AT&T related to the inquiry.
+ 
+g. 	Except as provided in Subsection (d), all reasonable out-of-pocket 
+costs and expenses incurred by AT&T in connection with an AT&T Audit shall 
+be paid by AT&T. Supplier shall be solely responsible for all costs and 
+expenses incurred by Supplier in connection with its obligations under this 
+Section.
+ 
+h. 	Supplier shall contractually require all Subcontractors and agents who 
+perform any part of the Services to comply with the applicable provisions 
+of this Section.
+
+
+14. Section 3.37, Warranty, shall be deleted and replaced as follows:
+
+
+3.37 Warranty
+ 
+a. 	Supplier warrants (i) that Material furnished hereunder will be new; 
+merchantable; free from defects in design, material and workmanship; fit 
+and sufficient for the purposes intended by AT&T; free from all security 
+interests, liens and encumbrances; (ii) that Supplier conveys good title to 
+Material sold, and that transfer of title to AT&T is rightful title, and 
+(iii) that Material furnished hereunder shall strictly conform to and 
+perform in accordance with applicable Specifications, drawings, models and 
+samples. In addition, if Material comes subject to one or more warranties 
+provided by third party manufacturers or vendors to Supplier (OEM 
+warranties), Supplier hereby assigns, and does assign such OEM warranties 
+to AT&T to the full extent allowed by such OEM warranties.
+ 
+b. 	Supplier warrants that Services provided hereunder will be performed in 
+a first-class, professional manner, in strict compliance with the 
+Specifications, and with the care, skill and diligence, and in accordance 
+with the applicable standards, currently recognized in Suppliers 
+profession or industry.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+15
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+c. 	Supplier warrants that neither the Material nor the Services will 
+infringe any patent, copyright, trademark, trade secret or other 
+intellectual property right. The foregoing warranties are in addition to 
+all other warranties, express, implied, or statutory. Moreover, as of the 
+Effective Date, no third party claim has been alleged against Supplier that 
+the Material or Services provided hereunder infringes upon such third 
+partys intellectual property rights.
+ 
+d. 	Supplier warrants that Supplier has all necessary skills, rights, 
+financial resources, and authority to enter into this Agreement and related 
+Orders, including the authority to provide or license the Material or 
+Services if Supplier does not solely own all intellectual property rights 
+in such Material or Services.
+ 
+e. 	Supplier warrants that no open source, freeware, shareware or similar 
+software is included in any Material.
+ 
+f. 	If the Parties have identified a System on which Software will operate, 
+Supplier warrants that Software will perform on and be compatible with such 
+System and operate satisfactorily in the System environment specified in 
+the applicable Order. System means the Hardware, operating system and 
+application Software, interfaces, and databases that interact with such 
+Software.
+ 
+g. 	Supplier warrants that all Material provided to AT&T hereunder shall be 
+tested prior to Delivery to ensure that all Material is in strict 
+compliance with the Specifications, and that Material will not contain 
+Harmful Code or Vulnerabilities at any time. Testing will include complete 
+regression and interaction testing and load, unit and integration testing 
+when applicable.
+ 
+h. 	All warranties will survive inspection, Acceptance, payment and use. 
+The warranty period for Material and Services shall be the longer of the 
+warranty period stated in the Order, the Specifications, the applicable 
+OEMs warranty, or one (1) year. The warranty period in all cases shall 
+commence upon Acceptance by AT&T.
+ 
+i. 	If at any time during the warranty period for Material or Services AT&T 
+believes there is a breach of any warranty, AT&T will notify Supplier 
+setting forth the nature of such claimed breach. At AT&Ts option, Supplier 
+shall either (i) repair or replace the Material or reperform the Services 
+so as to correct the breach of warranty at no cost to AT&T, (ii) accept the 
+return of the Material and provide AT&T with a full refund for the 
+defective Materials or Services; or (iii) credit AT&T with a mutually 
+agreeable reduction in the Price of the defective Materials and Services. 
+Supplier shall bear all transportation costs and risk of loss and damage in 
+transit with respect to all Materials returned for repair, replacement, or 
+refund, and with respect to all repaired or replacement Materials provided 
+to AT&T, and all repaired and replacement Materials are warranted as 
+provided in this Section. If AT&T elects to have Supplier repair or replace 
+the Material or reperform the Services so as to correct the breach of 
+warranty, and Supplier fails to do so, then, in addition to its other 
+remedies under the law, this Agreement or an Order, AT&T may itself repair 
+the Material or correct the Services, or engage a third party to do so, in 
+either case at Suppliers expense.
+
+
+15. Section 3.38, Work Done by Others, shall be deleted and replaced as 
+follows:
+
+
+3.38 Work Done By Others
+
+If any part of Suppliers work is dependent upon work performed by others 
+or subcontracted consistent with the terms herein, Supplier shall inspect 
+and promptly report to AT&T any defect that renders such other work 
+unsuitable for Suppliers proper performance. Suppliers silence shall
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+16
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+constitute approval of such other work as fit, proper and suitable for 
+Suppliers performance of its work. Any use of, including any changes to 
+the use of, a Subcontractor must be approved by AT&T in writing before 
+commencement of the work. Supplier shall provide to AT&T, upon request, 
+information about the Subcontractor including the identity, location, and a 
+complete description of the activities to be performed by such 
+Subcontractor. Where a portion of the work is approved to be subcontracted, 
+Supplier remains fully responsible for performance thereof and shall be 
+responsible to AT&T for the acts and omissions of any Subcontractor. 
+Nothing in this Agreement shall create any contractual obligation nor other 
+liability of AT&T to any Subcontractor or its employees. Supplier agrees to 
+bind every Subcontractor to terms consistent with the terms of this 
+Agreement. AT&T agrees and approves wireless carriers and long distance 
+carriers as subcontractors and Supplier shall not be responsible in any way 
+for their actions or lack of action. However, Supplier is responsible to 
+insure they are working with subcontractors to perform what they said they 
+would do.
+
+
+16. Section 3.39, Ethical Business Practice, shall be added to agreement as 
+follows:
+
+
+3.39 Ethical Business Practice
+
+Supplier hereby represents and warrants that the employees, temporary 
+workers, agents, consultants, partners, officers, directors, members or 
+representatives of Supplier and its subcontractors, if any, performing 
+Services or other activities under this Agreement (each and any of the 
+foregoing individuals, for the purpose of this clause, a Supplier 
+Representative) shall comply with the US Foreign Corrupt Practices Act and 
+all applicable anticorruption laws. Supplier Representatives shall not 
+directly or indirectly pay, offer, give, promise to pay or authorize the 
+payment of, any portion of the compensation received in connection with 
+this Agreement or any other monies or other things of value in connection 
+with its performance to a Government Official, defined below, to obtain or 
+retain business or secure any improper advantage nor shall it permit such 
+actions by a third party in connection with this Agreement. Government 
+Official means (i) an officer or employee of any government or any 
+department, agency, or instrumentality thereof, including government-owned 
+or government-controlled commercial entities; (ii) an officer or employee 
+of a public international organization; (iii) any person acting in an 
+official capacity for or on behalf of any government or department, agency, 
+or instrumentality or public international organization; (iv) any political 
+party or official thereof; (v) any candidate for political office; or (vi) 
+any other person, individual or entity at the suggestion, request or 
+direction or for the benefit of any of the above-described persons or 
+entities.
+
+
+17. Section 3.40, Incidental Development, shall be added to agreement as 
+follows:
+
+
+3.40 Incidental Development
+
+Unless the parties have reached a prior written agreement through the use 
+of a Statement of Work, no development, enhancements, or modifications 
+shall be performed or paid for under this Agreement. Other than through the 
+use of a Statement of Work, any development, enhancement and modification 
+activities shall be negotiated and performed under a separate written 
+agreement between the Parties. In the event that any enhancements, 
+modifications or development activities were to occur under this
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+17
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+Agreement or any Order, then Supplier hereby assigns to AT&T all right, 
+title and interest in such enhancements, modifications or developments, and 
+the Parties may negotiate a separate written agreement setting forth any 
+other terms and conditions relating to such enhancements, modifications or 
+developments.
+
+
+18. Section 3.41, Labor Disputes, shall be added to agreement as follows:
+
+
+3.41 Labor Disputes
+ 
+a. 	In the event of a labor dispute between AT&T and the union(s) 
+representing AT&Ts employees, AT&T may exercise its right to modify the 
+Scope of Work under the Order on immediate notice, including postponing, 
+reducing, or terminating the services to be provided under the Order and 
+due to be performed after the commencement of a labor dispute. AT&T 
+acknowledges and agrees that the exercise of such right may result in a 
+delay in the resumption of Services when requested by AT&T.
+ 
+b. 	The rights and obligations of the Parties under this Section are in 
+addition to, and not a limitation of, their respective rights under the 
+Sections entitled Amendments and Waivers and Force Majeure.
+
+
+19. Section 3.42, Offshore Work Prohibited, shall be added to agreement as 
+follows:
+
+
+3.42 Offshore Work Prohibited
+
+None of the Work under this Agreement shall be performed, and no 
+Information related to this Agreement shall be collected, stored, handled 
+or accessed at any location outside of the United States. Additionally, 
+Supplier shall not allow any of the Work under this Agreement to be 
+performed by a Subcontractor unless AT&T approves such Subcontractor 
+pursuant to Section 3.4, Assignment and Delegation and the Supplier 
+complies with the requirements of Section 3.38, Work Done by Others.
+
+
+20. Section 3.43, Taxes, shall be added to agreement as follows:
+
+
+3.43 Taxes
+ 
+a. 	Supplier shall invoice AT&T the amount of any federal excise taxes and 
+state and local sales taxes imposed upon the sale of Material and provision 
+of Services under this Agreement. All such taxes must be stated as separate 
+items on a timely invoice listing the taxing jurisdiction imposing the tax. 
+Installation, labor and other non-taxable charges must be separately 
+stated. AT&T shall pay all applicable taxes to Supplier that are stated on 
+and at the time the Material or Services invoice is submitted by Supplier. 
+Supplier shall remit taxes to the appropriate taxing authorities. Supplier 
+shall honor tax exemption certificates, and other appropriate documents, 
+which AT&T may submit, pursuant to relevant tax provisions of the taxing 
+jurisdiction providing the exemption.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+18
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+b. 	Supplier shall pay any penalty, interest, additional tax, or other 
+charge that may be levied or assessed as a result of the delay or failure 
+of Supplier, for any reason, to pay any tax or file any return or 
+information required by law, rule or regulation or by this Agreement to be 
+paid or filed by Supplier.
+ 
+c. 	Upon AT&Ts request, the Parties shall consult with respect to the 
+basis and rates upon which Supplier shall pay any taxes or fees for which 
+AT&T is obligated to reimburse Supplier under this Agreement. If AT&T 
+determines that in its opinion any such taxes or fees are not payable, or 
+should be paid on a basis less than the full price or at rates less than 
+the full tax rate, AT&T shall notify Supplier in writing of such 
+determinations, Supplier shall make payment in accordance with such 
+determinations, and AT&T shall be responsible for such determinations. If 
+collection is sought by the taxing authority for a greater amount of taxes 
+than that so determined by AT&T, Supplier shall promptly notify AT&T. If 
+AT&T desires to contest such collection, AT&T shall promptly notify 
+Supplier. Supplier shall cooperate with AT&T in contesting such 
+determination, but AT&T shall be responsible and shall reimburse Supplier 
+for any tax, interest, or penalty in excess of AT&Ts determination.
+ 
+d. 	If AT&T determines that in its opinion it has reimbursed Supplier for 
+any taxes in excess of the amount that AT&T is obligated to reimburse 
+Supplier, AT&T and Supplier shall consult to determine the appropriate 
+method of recovery of such excess reimbursements. Supplier shall credit any 
+excess reimbursements against tax reimbursements or other payments due from 
+AT&T if and to the extent Supplier can make corresponding adjustments to 
+its payments to the relevant tax authority. At AT&Ts request, Supplier 
+shall timely file any claims for refund and any other documents required to 
+recover any other excess reimbursements, and shall promptly remit to AT&T 
+all such refunds and interest received.
+ 
+e. 	If any taxing authority advises Supplier that it intends to audit 
+Supplier with respect to any taxes for which AT&T is obligated to reimburse 
+Supplier under this Agreement, Supplier shall (i) promptly so notify AT&T, 
+(ii) afford AT&T an opportunity to participate on an equal basis with 
+Supplier in such audit with respect to such taxes and (iii) keep AT&T fully 
+informed as to the progress of such audit. Each Party shall bear its own 
+expenses with respect to any such audit, and the responsibility for any 
+additional tax, interest or penalty resulting from such audit is to be 
+determined in accordance with the applicable provisions of this Taxes 
+Section. Suppliers failure to comply with the notification requirements of 
+this Taxes Section will relieve AT&T of its responsibility to reimburse 
+Supplier for taxes only if Suppliers failure materially prejudiced AT&Ts 
+ability to contest imposition or assessment of those taxes.
+ 
+f. 	In addition to its rights under Subsections c., d., and e. above with 
+respect to any tax or tax controversy covered by this Taxes Section, AT&T 
+is entitled to contest, pursuant to applicable law and tariffs, and at its 
+own expense, any tax previously invoiced that it is ultimately obligated to 
+pay. AT&T is entitled to the benefit of any refund or recovery of amounts 
+that it has previously paid resulting from such a contest. Supplier shall 
+cooperate in any such contest, but AT&T shall pay all costs and expenses 
+incurred in obtaining a refund or credit for AT&T.
+ 
+g. 	If either Party is audited by a taxing authority or other governmental 
+entity in connection with taxes under this Taxes Section, the other Party 
+shall reasonably cooperate with the Party being audited in order to respond 
+to any audit inquiries in an appropriate and timely manner, so that the 
+audit and any resulting controversy may be resolved expeditiously.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+19
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+h. 	AT&T and Supplier shall reasonably cooperate with each other with 
+respect to any tax planning to minimize taxes. The degree of cooperation 
+contemplated by this section is to enable any resulting tax planning to be 
+implemented and includes, but is not limited to: (i) Suppliers installing 
+and loading all of the Software licensed by AT&T, and retaining possession 
+and ownership of all tangible personal property, (ii) Supplier installing, 
+loading and/or transferring the Software at a location selected by AT&T, 
+and (iii) Supplier Delivering all of the Software in electronic form. AT&T 
+shall bear all reasonable external (paid to third parties), additional 
+expenses incurred by Supplier to comply with the provisions of this 
+subsection, but AT&Ts advance written consent is required whenever these 
+expenses for any Software item or update are expected to exceed two 
+thousand dollars ($2,000) or one percent (1%) of the cost of the item or 
+update, whichever is less. Suppliers cooperation is not an agreement with, 
+or guarantee of, the taxability or non-taxability of the transaction.
+
+
+4.0 Special Terms
+
+21. Section 4.2, Background Checks, shall be deleted and replaced as 
+follows:
+
+
+4.2 Background Checks
+ 
+a. 	Supplier, with respect to the following requirements in this Section 
+(collectively, Background Checks) and subject to any federal, state, or 
+local laws, rules or regulations which may limit any Supplier action 
+otherwise required by this section, (i) shall make all reasonable and 
+legally permitted efforts, including checking the background, verifying the 
+personal information and conducting a Drug Screen to determine and verify 
+all information necessary to represent and warrant to AT&T that no Supplier 
+employee, contractor or subcontractor and no employee or agent of any 
+Supplier contractor or subcontractor (Supplier Person) who Supplier 
+proposes to have perform any Service that permits physical, virtual or 
+other access to AT&T s or its customers premises, systems, networks, or 
+Information (Access) at any time during the term of the Agreement., (a) 
+has presented a positive Drug Screen, (b) has been convicted of any felony, 
+or has been convicted of any misdemeanor involving violence, sexual 
+misconduct, theft or computer crimes, fraud or financial crimes, drug 
+distribution, or crimes involving unlawful possession or use of a dangerous 
+weapon (Conviction) or (c) is identified on any government registry as a 
+sex offender; and (ii) shall not permit any such Person presenting a 
+positive Drug Screen, having a Conviction, or being a registered sex 
+offender to perform any Service that permits such Access during the term of 
+the Agreement, subject to any federal, state, or local restrictions on the 
+consideration of criminal convictions in making employment decisions.
+ 
+b. 	Supplier shall comply with the obligations of subsections (b) and (c) 
+above through the use of a third party service which shall perform a review 
+of applicable records for those counties, states, and federal court 
+districts in which a proposed Supplier Person has identified as having 
+resided, worked, or attended school in the previous ten (10) years, unless 
+a shorter period is required by any federal, state, or local law.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+20
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+ 
+c. 	Supplier acknowledges and agrees that it is Suppliers sole and 
+exclusive responsibility to determine whether a Supplier Person with a 
+Conviction should be denied Access during the term of the Agreement under 
+the terms of this Agreement and in compliance with all federal, state, and 
+local laws, unless an exception is granted by AT&T under paragraph e. of 
+this Section.
+ 
+d. 	Supplier represents and warrants to AT&T that, to the best of its 
+knowledge, no Supplier Person has (i) falsified any of his or her 
+Identification Credentials, or (ii) failed to disclose any material 
+information in the hiring process relevant to the performance of any 
+Service. Supplier shall not permit any Supplier Person who has falsified 
+such Identification Credentials or failed to disclose such information to 
+perform any Service that permits Access.
+ 
+e. 	The following definitions apply:
+ 
+  	1. 	Identification Credentials includes, with respect to each Supplier 
+Person, his or her Social Security number, drivers license, educational 
+credentials, employment history, home address, and citizenship indicia.
+ 
+  	2. 	Drug Screen means the testing for the use of illicit drugs 
+(including opiates, cocaine, cannabinoids, amphetamines, and phencyclidine 
+(PCP)) of any Supplier Person who (i) has unsupervised (or badged) physical 
+Access to AT&Ts or its customers premises, or (ii) has regular or 
+recurring supervised physical Access to AT&Ts or its customers premises 
+for more than thirty (30) days in the aggregate annually.
+ 
+f. 	The failure of Supplier to comply with the requirements of this 
+Section, and/or if any Person who fails such Background Check or who has 
+falsified Identification Credentials does perform any Service that permits 
+such Access, shall each be considered a material breach of this Agreement. 
+Notwithstanding any of the foregoing, exceptions for individual Supplier 
+Persons may be granted by AT&T on a case-by-case basis.
+
+
+The terms and conditions of Agreement No. 20071210.103.C in all other 
+respects remain unmodified and in full force and effect.
+
+
+Original signature transmitted and received via facsimile or other 
+electronic transmission of a scanned document, (e.g., .pdf or similar 
+format) are true and valid signatures for all purposes hereunder and shall 
+bind the Parties to the same extent as that of an original signature. This 
+Amendment may be executed in multiple counterparts, each of which shall be 
+deemed to constitute an original but all of which together shall constitute 
+only one document.
+
+
+IN WITNESS WHEREOF, the Parties have caused this Amendment to Agreement No. 
+20071210.103.C to be executed, as of the date the last Party signs.
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+21
+
+------------------------------------------------------------------------
+Agreement 20071210.103.A.002
+ 
+
+
+ 
+Single Touch Interactive, Inc. 	  	 	  	AT&T Services, Inc.
+By: 	  	/s/ James Darcey 	  	 	  	By: 	  	/s/Anthony Cohen
+Printed Name: 	  	James Darcey 	  	 	  	Printed Name: 	  	Anthony Cohen
+Title: 	  	Sr. Vice President 	  	 	  	Title: 	  	Senior Contract Manager
+Date: 	  	10-18-10 	  	 	  	Date: 	  	October 25, 2010
+ 
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or 
+disclosure outside of AT&T, its Affiliates, and third
+party representatives, and Supplier except under written agreement by the 
+contracting parties.
+
+
+22

@@ -1,0 +1,2043 @@
+ EX-10.13 10 d102835dex1013.htm EX-10.13
+Exhibit 10.13
+
+PARK HOTELS & RESORTS INC.
+
+STOCKHOLDERS AGREEMENT
+
+DATED AS OF OCTOBER 24, 2016
+ 
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	  	  	   	Page 	 
+ ARTICLE I
+  	
+ INTRODUCTORY MATTERS
+   	  	1 	  
+ 1.1
+  	
+ Defined Terms
+   	  	1 	  
+ 1.2
+  	
+ Construction
+   	  	9 	  
+ ARTICLE II
+  	
+ CORPORATE GOVERNANCE MATTERS
+   	  	9 	  
+ 2.1
+  	
+ Composition of the Board
+   	  	9 	  
+ 2.2
+  	
+ Size of the Board
+   	  	11 	  
+ 2.3
+  	
+ Committees
+   	  	11 	  
+ 2.4
+  	
+ Qualification of HNA Designees
+   	  	12 	  
+ 2.5
+  	
+ Service on Specified Boards
+   	  	13 	  
+ 2.6
+  	
+ Participation of HNA Designees in Certain Matters; Acquisition Proposals
+   	  	13 	  
+ 2.7
+  	
+ Resignations
+   	  	14 	  
+ 2.8
+  	
+ Other HNA Investments
+   	  	15 	  
+ ARTICLE III
+  	
+ VOTING MATTERS
+   	  	15 	  
+ 3.1
+  	
+ Voting in an Uncontested Election
+   	  	15 	  
+ 3.2
+  	
+ Voting in a Contested Election
+   	  	16 	  
+ 3.3
+  	
+ Voting with respect to Certain Acquisitions
+   	  	16 	  
+ 3.4
+  	
+ Voting with respect to Other Matters
+   	  	16 	  
+ 3.5
+  	
+ Quorum
+   	  	17 	  
+ ARTICLE IV
+  	
+ ADDITIONAL COVENANTS
+   	  	17 	  
+ 4.1
+  	
+ Certain Transfers
+   	  	17 	  
+ 4.2
+  	
+ Right of First Refusal
+   	  	19 	  
+ 4.3
+  	
+ Standstill
+   	  	20 	  
+ 4.4
+  	
+ Corporate Opportunities; Section 203
+   	  	23 	  
+ 4.5
+  	
+ Issuer Agreement
+   	  	23 	  
+ 4.6
+  	
+ Cooperation
+   	  	23 	  
+ 4.7
+  	
+ Tender of Shares in Certain Acquisitions
+   	  	23 	  
+ 4.8
+  	
+ Public Announcements
+   	  	24 	  
+ ARTICLE V
+  	
+ REPRESENTATIONS AND WARRANTIES
+   	  	24 	  
+ 5.1
+  	
+ Representations and Warranties of the Company
+   	  	24 	  
+ 5.2
+  	
+ Representations and Warranties of HNA
+   	  	24 	  
+ 5.3
+  	
+ No Other Representations or Warranties
+   	  	25 	  
+ ARTICLE VI
+  	
+ GENERAL PROVISIONS
+   	  	25 	  
+ 6.1
+  	
+ Termination
+   	  	25 	  
+ 
+i
+
+------------------------------------------------------------------------
+ 6.2
+  	
+ Notices
+   	  	25 	  
+ 6.3
+  	
+ Amendment; Waiver
+   	  	27 	  
+ 6.4
+  	
+ Further Assurances
+   	  	27 	  
+ 6.5
+  	
+ Assignment
+   	  	27 	  
+ 6.6
+  	
+ Third Parties
+   	  	27 	  
+ 6.7
+  	
+ Governing Law
+   	  	27 	  
+ 6.8
+  	
+ Jurisdiction; Waiver of Jury Trial
+   	  	27 	  
+ 6.9
+  	
+ Specific Performance
+   	  	28 	  
+ 6.10
+  	
+ Entire Agreement
+   	  	28 	  
+ 6.11
+  	
+ Severability
+   	  	28 	  
+ 6.12
+  	
+ Table of Contents, Headings and Captions
+   	  	28 	  
+ 6.13
+  	
+ Counterparts
+   	  	28 	  
+ 6.14
+  	
+ Effectiveness of this Agreement
+   	  	29 	  
+ 
+ 
+ii
+
+------------------------------------------------------------------------
+STOCKHOLDERS AGREEMENT
+
+This Stockholders Agreement, dated as of October 24, 2016, by and among 
+Park Hotels & Resorts Inc., a Delaware corporation (the Company), HNA 
+Tourism Group Co., Ltd., a PRC company (HNA), and, solely for purposes of 
+Section 4.3, HNA Group Co., Ltd., a PRC company (HNA Group).
+
+
+BACKGROUND:
+
+WHEREAS, HNA and Blackstone (as defined below), as of the date hereof, have 
+entered into the Stock Purchase Agreement (as defined below), pursuant to 
+which, among other things, HNA has agreed to purchase from Blackstone, and 
+Blackstone has agreed to sell to HNA, shares of Hilton Common Stock (as 
+defined below), subject to the terms and conditions set forth in the Stock 
+Purchase Agreement;
+
+WHEREAS, Hilton Worldwide Holdings, Inc., a Delaware corporation (Hilton
+), intends to distribute, by way of a dividend, all outstanding shares of 
+Common Stock (as defined below) and HGV Common Stock (as defined below) 
+owned by Hilton to holders of Hilton Common Stock (the Spinoff);
+
+WHEREAS, the Company is entering into this Agreement as a condition to 
+HNAs willingness to enter into the Stock Purchase Agreement;
+
+WHEREAS, concurrently with the execution of this Agreement, the Company and 
+HNA are entering into a Registration Rights Agreement, dated as of the date 
+hereof, providing for certain registration rights which the Company is 
+granting to HNA;
+
+WHEREAS, in connection with the transactions contemplated by the Stock 
+Purchase Agreement, the Company and HNA wish to set forth certain 
+understandings between such parties, including with respect to certain 
+governance matters; and
+
+WHEREAS, the Company and HNA wish the rights and obligations set forth 
+herein to become automatically effective upon the Effective Date (as 
+defined below).
+
+NOW, THEREFORE, in consideration of the foregoing, and the representations, 
+warranties, covenants and agreements set forth herein, and other good and 
+valuable consideration, the receipt and sufficiency of which are hereby 
+acknowledged, and intending to be legally bound hereby, the parties agree 
+as follows:
+
+
+ARTICLE I
+
+INTRODUCTORY MATTERS
+
+1.1    Defined Terms. In addition to the terms defined elsewhere herein, 
+the following terms have the following meanings when used herein with 
+initial capital letters:
+
+5% Stockholder means, in connection with a proposed Transfer of Equity 
+Securities of the Company, any Person or Group that has filed a Statement 
+of Beneficial Ownership Report on Schedule 13D or Schedule 13G with the SEC 
+which reports such Persons or Groups Beneficial Ownership of five percent 
+(5%) or more of the total outstanding Common Stock at the time of such 
+proposed Transfer.
+
+------------------------------------------------------------------------
+Acquisition means any transaction or series of transactions involving: 
+(i) (a) any acquisition (whether direct or indirect, including by way of 
+merger, share exchange, consolidation, business combination or other 
+similar transaction) or purchase from the Company or any of its 
+Subsidiaries that would result in any Person or Group Beneficially Owning 
+more than fifty percent (50%) of the total outstanding Equity Securities of 
+the Company or any of its Subsidiaries (measured by voting power or 
+economic interest), or (b) any tender offer, exchange offer or other 
+secondary acquisition that would result in any Person or Group Beneficially 
+Owning more than fifty percent (50%) of the total outstanding Equity 
+Securities of the Company or any of its Subsidiaries (measured by voting 
+power or economic interest), or (c) any merger, consolidation, share 
+exchange, business combination or similar transaction involving the Company 
+or any of its Subsidiaries that would result in the stockholders of the 
+Company immediately preceding such transaction Beneficially Owning less 
+than fifty percent (50%) of the total outstanding Equity Securities in the 
+surviving or resulting entity of such transaction (measured by voting power 
+or economic interest); or (ii) any sale or lease or exchange, transfer, 
+license or disposition of a business, deposits or assets that constitute 
+more than fifty percent (50%) of the consolidated assets, business, 
+revenues, net income, assets or deposits of the Company and its 
+Subsidiaries.
+
+Acquisition Notice has the meaning set forth in Section 2.6(a).
+
+Acquisition Proposal means any proposal, offer, inquiry, indication of 
+interest or expression of intent (whether binding or non-binding, and 
+whether communicated to the Company, the Board or publicly announced to the 
+Companys stockholders or otherwise) by any Person or Group relating to an 
+Acquisition.
+
+Adjusted Ownership Percentage has the meaning set forth in Section 
+4.3(c).
+
+Affiliate has the meaning set forth in Rule 12b-2 promulgated under the 
+Exchange Act.
+
+Affiliated HNA Designee means any Qualified HNA Designee that is not an 
+Independent HNA Designee.
+
+Aggregate Reference Prices means the sum of the Reference Price of Hilton 
+Common Stock, the Reference Price of HGV Common Stock and the Reference 
+Price of Common Stock.
+
+Agreement means this Stockholders Agreement, as the same may be amended, 
+supplemented, restated or otherwise modified from time to time in 
+accordance with the terms hereof.
+
+Beneficially Own (including its correlative meanings, Beneficial Owner 
+and Beneficial Ownership) has the meaning set forth in Rule 13d-3 
+promulgated under the Exchange Act.
+ 
+2
+
+------------------------------------------------------------------------
+Blackstone means HLT Holdco II LLC, HLT Holdco III LLC, HLT BREH VI 
+Holdco LLC, HLT BREP VI.2 Holdco LLC, HLT BREH Intl II Holdco LLC, HLT A23 
+BREH VI Holdco LLC, and HLT A23 Holdco LLC.
+
+Board means the board of directors of the Company.
+
+Business Day means a day other than a Saturday, Sunday, holiday or other 
+day on which commercial banks in New York, New York, Hong Kong and Beijing, 
+PRC are authorized or required by Law to close.
+
+Closing has the meaning set forth in the Stock Purchase Agreement.
+
+Closing Date means the date on which the Closing occurs.
+
+Code means the Internal Revenue Code of 1986, as amended.
+
+Company has the meaning set forth in the Preamble.
+
+Common Stock means the shares of common stock, $0.01 par value per share, 
+of the Company, and any other capital stock of the Company into which such 
+common stock is reclassified or reconstituted and any other common stock of 
+the Company.
+
+Contested Election means any election of Directors to the Board in which 
+one or more Persons nominated by the Board or the Nominating and Corporate 
+Governance Committee is opposed by one or more Persons not nominated by the 
+Board or the Nominating and Corporate Governance Committee, or any proposal 
+to remove one or more Directors from the Board that will be voted on by the 
+stockholders of the Company.
+
+Control (including its correlative meanings, Controlled and 
+Controlled by) means possession, directly or indirectly, of the power to 
+direct or cause the direction of management or policies (whether through 
+ownership of securities or partnership or other ownership interests, by 
+contract or otherwise) of a Person.
+
+Controlled Affiliate means, with respect to HNA, any Affiliate of HNA 
+that is controlled by HNA, including any direct or indirect Subsidiary of 
+HNA.
+
+Designee Qualifications has the meaning set forth in Section 2.4(a)(vi).
+
+Director means any director of the Company.
+
+Director Confidentiality Agreement means a Confidentiality Agreement, 
+substantially in the form attached as Exhibit A to this Agreement (as it 
+may be modified from time to time by the Nominating and Corporate 
+Governance Committee), which the Company will require each Director that is 
+not an employee of the Company to execute as a condition to such Directors 
+election or nomination for election and any subsequent nomination for 
+election as a Director.
+
+Distributions means the distributions by Hilton, on the Distribution 
+Date, to its stockholders of the HGV Common Stock and the Common Stock 
+owned by Hilton.
+ 
+3
+
+------------------------------------------------------------------------
+Distribution Date means the date on which the distributions to holders of 
+record of shares of Hilton Common Stock of the HGV Common Stock and the 
+Common Stock owned by Hilton are effectuated.
+
+Effective Date means the Closing Date (provided the Closing occurs prior 
+to October 31, 2017), provided that, if the Distribution Date has not 
+occurred prior to the Closing Date, the Effective Date shall be the 
+Distribution Date.
+
+Equity Securities means any and all (i) shares, interests, participations 
+or other equivalents (however designated) of capital stock or other Voting 
+Securities of a corporation, any and all equivalent or analogous ownership 
+(or profit) or voting interests in a Person (other than a corporation), 
+(ii) securities convertible into or exchangeable for shares, interests, 
+participations or other equivalents (however designated) of capital stock 
+or Voting Securities of (or other ownership or profit or voting interests 
+in) such Person, and (iii) any and all warrants, rights or options to 
+purchase any of the foregoing, whether voting or nonvoting, and, in each 
+case, whether or not such shares, interests, participations, equivalents, 
+securities, warrants, options, rights or other interests are authorized or 
+otherwise existing on any date of determination.
+
+Exchange shall mean the New York Stock Exchange LLC or any other exchange 
+on which the Common Stock is listed.
+
+Exchange Act means the Securities Exchange Act of 1934, as amended, and 
+the rules and regulations promulgated thereunder, as the same may be 
+amended from time to time.
+
+Governmental Authority means any nation or government, any state or other 
+political subdivision thereof, and any entity exercising executive, 
+legislative, judicial, regulatory or administrative functions of or 
+pertaining to government.
+
+Group has the meaning assigned to it in Section 13(d)(3) of the Exchange 
+Act and Rule 13d-5 thereunder.
+
+HGV means Hilton Grand Vacations Inc., a Delaware corporation.
+
+HGV Common Stock means shares of common stock, $0.01 par value per share, 
+of HGV.
+
+Hilton has the meaning set forth in the Preamble.
+
+Hilton Common Stock means shares of common stock, $0.01 par value per 
+share, of Hilton.
+
+HNA has the meaning set forth in the Preamble.
+
+HNA Acquisition means any Acquisition in which an HNA Entity is the 
+acquiror.
+
+HNA Designee has the meaning set forth in Section 2.1(b).
+
+HNA Designator means HNA.
+ 
+4
+
+------------------------------------------------------------------------
+HNA Entities means HNA Group, HNA and each of their respective Controlled 
+Affiliates.
+
+HNA Group has the meaning set forth in the Preamble.
+
+HNA Hospitality Business means the businesses of HNA Entities directly 
+involved in owning, operating, managing, franchising or branding hotel 
+and/or lodging properties.
+
+HNA Permitted Transferee has the meaning set forth in Section 4.1(a).
+
+HNA Parties means (i) HNA, and (ii) any HNA Permitted Transferee that 
+becomes a party to this Agreement by executing a joinder agreement 
+substantially in the form attached as Exhibit B to this Agreement.
+
+HNA Standstill Commitment means a written commitment to the Company by 
+HNA Group and HNA, on behalf of themselves and all other HNA Entities, not 
+to, directly or indirectly, (i) make any Acquisition Proposal within the 
+Standstill Commitment Period, or (ii) request any waiver of the restriction 
+set forth in clause (i) of this definition prior to the date that is six 
+(6) months after the termination of discussions regarding the Acquisition 
+Proposal described in the Acquisition Notice in respect of which HNA is 
+providing such HNA Standstill Commitment and any Related Acquisition 
+Proposal.
+
+Hong Kong means the Hong Kong Special Administrative Region of the PRC.
+
+Independent HNA Designee means a Qualified HNA Designee that (A) at no 
+time during the two (2) year period prior to his or her election or 
+appointment to the Board, nor during his or her service as a Director, has 
+been or is an employee, director, officer of, or consultant to, any of the 
+HNA Entities, or has received or is receiving compensation from any of the 
+HNA Entities, and (B) qualifies as an independent director under the 
+rules of the Exchange and any guidelines adopted by the Board or the 
+Nominating and Corporate Governance Committee that are applicable to all 
+Directors, as determined in good faith by the Nominating and Corporate 
+Governance Committee.
+
+Issuance Notice has the meaning set forth in Section 4.2(a).
+
+Law means any statute, law (including common law), regulation, ordinance, 
+rule, injunction, order, decree, governmental approval, directive, 
+requirement, or other governmental restriction or any similar form of 
+decision of, or determination by, or any interpretation or administration 
+of any of the foregoing by, any Governmental Authority.
+
+Market Price means, as of any date, the last reported trading price of 
+the Common Stock as of the end of regular trading hours on the Exchange on 
+such date or, if the Common Stock is not listed on an Exchange, the fair 
+market value per share of the Common Stock as determined in good faith by 
+the Board as of such date.
+
+New Issuance has the meaning set forth in Section 4.2(a).
+
+New Issuance Closing has the meaning set forth in Section 4.2(c).
+ 
+5
+
+------------------------------------------------------------------------
+New Securities means (A) any shares of Common Stock, other than any 
+shares of Common Stock that are: (i) issued to employees, officers or 
+directors of, or consultants to, the Company or any of its Affiliates 
+pursuant to any plan or arrangement approved by the Board (or a committee 
+thereof); (ii) issued as consideration for the acquisition by the Company 
+(or any of its Affiliates) of any business, assets or property of any third 
+party, by merger, sale of assets, sale of stock or otherwise; (iii) issued 
+upon conversion or exercise of convertible securities, options, warrants or 
+other similar securities; or (iv) securities distributed or set aside 
+ratably to all holders of Common Stock on a per share equivalent basis, or 
+(B) any preferred or debt securities that are convertible into or 
+exchangeable for shares of Common Stock.
+
+Nominating and Corporate Governance Committee means the nominating and 
+corporate governance committee of the Board, or another committee 
+performing the functions of nominating or selecting Persons for election or 
+appointment to the Board.
+
+Non-Votes has the meaning set forth in Section 3.3.
+
+Other Specified Matter means (a) any amendment to the Companys 
+certificate of incorporation or by-laws that adversely affects HNA or any 
+other HNA Party disproportionally as compared to other stockholders of the 
+Company, or (b) any issuance of Common Stock representing twenty percent 
+(20%) or more of the Companys total outstanding shares of Common Stock 
+(other than as non-cash consideration in an acquisition of the business, 
+assets or property of a third party or parties) at a price per share below 
+the Market Price on the last Business Day prior to the date on which 
+shareholders of the Company vote on such issuance.
+
+Person means an individual, a partnership, a corporation, a limited 
+liability company, an association, a joint stock company, a trust, a joint 
+venture, a cooperative, an unincorporated organization, or other form of 
+business organization, whether or not regarded as a legal entity under 
+applicable Law, or any Governmental Authority or any department, agency or 
+political subdivision thereof.
+
+Per Security Offering Price has the meaning set forth in Section 4.2(a).
+
+PRC means the Peoples Republic of China.
+
+Private Placement has the meaning set forth in Section 4.2(a).
+
+Pro Rata Portion has the meaning set forth in Section 4.2(a).
+
+Qualified HNA Designee means any HNA Designee that meets the Designee 
+Qualifications.
+
+Reference Factor means the Reference Price of Common Stock divided by the 
+Aggregate Reference Prices.
+
+Reference Period means the period of ten (10) consecutive trading days 
+commencing on the later of (i) the Closing Date and (ii) the thirty-first 
+(31st) trading day following the first trading day on which the shares of 
+Common Stock, HGV Common Stock and Hilton Common Stock are each listed and 
+eligible for regular way trading on the Exchange.
+ 
+6
+
+------------------------------------------------------------------------
+Reference Price shall mean an amount equal to the Per Share Purchase 
+Price (as defined in the Stock Purchase Agreement), as it may be adjusted 
+pursuant to the terms of the Stock Purchase Agreement, multiplied by the 
+Reference Factor.
+
+Reference Price of Common Stock means the volume weighted average sale 
+prices of the Common Stock reported on Bloomberg over the Reference Period 
+multiplied by the number of shares of Common Stock that are issued as a 
+dividend in relation to one share of Hilton Common Stock in the Spinoff 
+(and as adjusted for any other stock dividend of Common Stock for which the 
+ex-dividend date occurs during the Reference Period).
+
+Reference Price of HGV Common Stock means the volume weighted average 
+sale prices of the HGV Common Stock reported on Bloomberg over the 
+Reference Period multiplied by the number of shares of HGV Common Stock 
+that are issued as a dividend in relation to one share of Hilton Common 
+Stock in the Spinoff (and as adjusted for any other stock dividend of HGV 
+Common Stock for which the ex-dividend date occurs during the Reference 
+Period).
+
+Reference Price of Hilton Common Stock means the volume weighted average 
+sale prices of the Hilton Common Stock reported on Bloomberg over the 
+Reference Period.
+
+Related Acquisition Proposal has the meaning set forth in Section 2.6(b).
+
+Restricted Entities means the public or private lodging real estate 
+companies or lodging real estate investment trusts in the United States of 
+America that, in each case, compete with the Company and are listed on 
+Exhibit C to this Agreement, as such list may be updated by the Company 
+from time to time once every twelve (12) months but in no event shall such 
+list contain more than ten (10) such companies.
+
+SEC means the U.S. Securities and Exchange Commission or any successor 
+agency.
+
+Securities Act means the Securities Act of 1933, as amended, and the 
+rules and regulations promulgated thereunder, as the same may be amended 
+from time to time.
+
+Specified Acquisition means an Acquisition pursuant to a definitive 
+agreement entered into, within the two (2) year period following the 
+Closing Date in which both (i) Common Stock is exchanged for or converted 
+into the right to receive (a) solely cash or (b) a mixture of cash and 
+stock of a Person other than an HNA Entity in which the value of the cash 
+portion of the aggregate consideration is sixty percent (60%) or more of 
+the value of the aggregate consideration, and (ii) the value of the 
+consideration to be received per share of Common Stock is equal to or less 
+than the Reference Price. For all purposes of this definition, the per 
+share value of any stock to be received as consideration shall be deemed to 
+be equal to the final trading price of such stock on the last trading day 
+prior to the execution of the definitive agreement providing for the 
+Acquisition.
+
+Specified Board means the board of directors of Hilton and HGV.
+
+Spinoff has the meaning set forth in the Preamble.
+ 
+7
+
+------------------------------------------------------------------------
+Standstill Commitment Period means, in the event an HNA Standstill 
+Commitment is delivered to the Company pursuant to Section 2.6 following 
+the Companys delivery of an Acquisition Notice to HNA, the period 
+commencing upon the delivery of such Acquisition Notice to HNA and ending 
+upon the first to occur of (i) twelve (12) months after the termination of 
+discussions regarding the Acquisition Proposal described in such 
+Acquisition Notice and any Related Acquisition Proposal, and (ii) the 
+public announcement of a definitive agreement with respect to an 
+Acquisition entered into between the Company and any Person other than an 
+HNA Entity.
+
+Stock Acquisition means any acquisition (whether direct or indirect, 
+including by way of merger, share exchange, consolidation, business 
+combination or other similar transaction) by the Company of any entity or 
+assets pursuant to which the Company issues shares of Common Stock or 
+securities that are convertible into or exchangeable for shares of Common 
+Stock as consideration.
+
+Stock Purchase Agreement means that certain Stock Purchase Agreement, 
+dated as of the date hereof, among HNA, Blackstone and others.
+
+Subsidiary means, with respect to any Person, any corporation, limited 
+liability company, partnership, association or other business entity of 
+which: (i) if a corporation, a majority of the total voting power of shares 
+of stock entitled (without regard to the occurrence of any contingency) to 
+vote in the election of directors, representatives or trustees thereof is 
+at the time owned or Controlled, directly or indirectly, by that Person or 
+one or more of the other Subsidiaries of that Person or a combination 
+thereof; or (ii) if a limited liability company, partnership, association 
+or other business entity, a majority of the total voting power of stock (or 
+equivalent ownership interest) of the limited liability company, 
+partnership, association or other business entity is at the time owned or 
+Controlled, directly or indirectly, by that Person or one or more 
+Subsidiaries of that Person or a combination thereof. For purposes hereof, 
+a Person or Persons shall be deemed to own, control or have a majority 
+ownership interest in a limited liability company, partnership, association 
+or other business entity if such Person or Persons shall be allocated a 
+majority of limited liability company, partnership, association or other 
+business entity gains or losses or shall be or Control the managing 
+director or member, or general partner, of such limited liability company, 
+partnership, association or other business entity.
+
+Total Number of Directors means the total number of authorized Directors 
+comprising the entire Board.
+
+Transfer (including its correlative meaning, Transferred) shall mean, 
+with respect to any Equity Security, directly or indirectly, by operation 
+of Law, contract or otherwise, (i) to sell, contract to sell, give, assign, 
+hypothecate, pledge, encumber, grant a security interest in, offer, sell 
+any option or contract to purchase, purchase any option or contract to 
+sell, grant any option, right or warrant to purchase, lend or otherwise 
+transfer or dispose of any economic, voting or other rights in or to such 
+Equity Security, (ii) to engage in any hedging, swap, forward contract or 
+other transaction that is designed to or which reasonably could be expected 
+to lead to or result in a sale or disposition of Beneficial Ownership of, 
+or pecuniary interest in, such Equity Security, including any short sale or 
+any purchase, sale or grant of any right (including without limitation any 
+put or call option) with respect to such Equity Security, or (iii) to enter 
+into a short sale of, or trade in, derivative securities representing the 
+right to vote or economic benefits of, such Equity Security. When used as a 
+noun, Transfer shall have such correlative meaning as the context may 
+require.
+ 
+8
+
+------------------------------------------------------------------------
+Uncontested Election means any election of Directors to the Board other 
+than a Contested Election.
+
+Voting Percentage Limit means the number of Voting Securities 
+Beneficially Owned by HNA Entities equal to fifteen percent (15%) of the 
+Voting Securities entitled to vote at the applicable meeting of 
+stockholders of the Company as disclosed in the proxy or information 
+statement for such meeting or in a tender offer or exchange offer, fifteen 
+percent (15%) of the shares of Common Stock outstanding immediately prior 
+to the expiration of the offer.
+
+Voting Securities means shares of Common Stock and any other securities 
+of the Company entitled to vote generally in the election of Directors.
+
+1.2    Construction. The language used in this Agreement will be deemed to 
+be the language chosen by the parties to express their mutual intent, and 
+no rule of strict construction will be applied against any party. Unless 
+the context otherwise requires: (a) or is disjunctive but not exclusive, 
+(b) words in the singular include the plural, and in the plural include the 
+singular, (c) the words hereof, herein, and hereunder and words of 
+similar import when used in this Agreement refer to this Agreement as a 
+whole and not to any particular provision of this Agreement, (d) the word 
+including and words of similar import when used in this Agreement mean 
+including, without limitation, unless otherwise specified, (e) the word 
+extent in the phrase to the extent means the degree to which a subject 
+or other thing extends and such phrase shall not mean simply if, (f) 
+references to day means a calendar day unless otherwise indicated as a 
+Business Day, and (g) references to $ means U.S. dollars, the lawful 
+currency of the United States of America. Section references are to this 
+Agreement unless otherwise specified and references to clauses without a 
+cross-reference to a Section or subsection are references to clauses within 
+the same Section or, if more specific, subsection. When calculating the 
+period of time before which, within which or following which any act is to 
+be done or step taken pursuant to this Agreement, the date that is the 
+reference date in calculating such period is excluded. If the last day of 
+such period is a non-Business Day, the period in question ends on the next 
+succeeding Business Day.
+
+
+ARTICLE II
+
+CORPORATE GOVERNANCE MATTERS
+
+2.1    Composition of the Board.
+
+(a) From and after the Effective Date, subject to the terms and conditions 
+of this Article II, the HNA Designator shall have the right (but not the 
+obligation) to designate, and the individuals nominated for election as 
+Directors by or at the direction of the Board or a duly-authorized 
+committee thereof shall include, two (2) individuals that meet the Designee 
+Qualifications to serve as Directors; provided, that, if the Total Number 
+of Directors is fourteen (14) or more, then the HNA Designator shall be 
+entitled to designate one (1)
+ 
+9
+
+------------------------------------------------------------------------
+additional individual that meets the Designee Qualifications for each three 
+(3) Directors in excess of eleven (11) Directors. For clarity: if and when 
+the Total Number of Directors is at least fourteen (14) but less than 
+seventeen (17), the HNA Designator shall be entitled to designate three (3) 
+Directors; if and when the Total Number of Directors is at least seventeen 
+(17) but less than twenty (20), the HNA Designator shall be entitled to 
+designate four (4) Directors; etc. For the avoidance of doubt, if the Total 
+Number of Directors is increased to fourteen (14) or more and then 
+subsequently reduced, the number of individuals that the HNA Designator is 
+entitled to designate pursuant to this Section 2.1(a) shall be reduced to 
+the number of individuals that the HNA Designator would otherwise be 
+entitled to designate pursuant to the first sentence of this Section 
+2.1(a); provided, that such number of designees shall increase in 
+accordance with the first sentence of this Section 2.1(a) if the Total 
+Number of Directors is thereafter increased to fourteen (14) or more. 
+Notwithstanding the foregoing provisions of this Section 2.1(a), but 
+subject to the proviso set forth in Section 2.7, the number of individuals 
+that the HNA Designator is entitled to designate to serve as Directors 
+pursuant to this Section 2.1(a) shall be reduced to: (i) two (2) Directors 
+if, at any time, the HNA Entities, in the aggregate, Beneficially Own at 
+least fifteen percent (15%) but less than twenty percent (20%) of the total 
+number of shares of Common Stock outstanding; (ii) one (1) Director if, at 
+any time, the HNA Entities, in the aggregate, Beneficially Own at least 
+five percent (5%) but less than fifteen percent (15%) of the total number 
+of shares of Common Stock outstanding; and (iii) no Directors if, at any 
+time, the HNA Entities, in the aggregate, Beneficially Own less than five 
+percent (5%) of the total number of shares of Common Stock outstanding. Not 
+more than one HNA Designee at any time may be an Affiliated HNA Designee, 
+and any other HNA Designee shall be an Independent HNA Designee.
+
+(b) If at any time the HNA Designator has designated fewer than the total 
+number of individuals that the HNA Designator is then entitled to designate 
+pursuant to Section 2.1(a), the HNA Designator shall have the right (but 
+not the obligation) to designate such number of additional individuals who 
+meet the Designee Qualifications that the HNA Designator is entitled to so 
+designate, in which case, any individuals nominated by or at the direction 
+of the Board or any duly-authorized committee thereof for election as 
+Directors to fill any vacancy or newly created directorships on the Board 
+shall include such designees, and the Company shall use its best efforts to 
+(x) effect the election of such additional designees, whether by increasing 
+the size of the Board or otherwise, and (y) cause the election of such 
+additional designees to fill any such newly-created vacancies or to fill 
+any other existing vacancies. Each such individual whom the HNA Designator 
+shall actually designate pursuant to this Section 2.1 and who qualifies to 
+serve and is thereafter elected as a Director shall be referred to herein 
+as a HNA Designee.
+
+(c) In the event that a vacancy is created at any time by the death, 
+disability, retirement, removal or resignation of any HNA Designee, any 
+individual nominated or appointed by or at the direction of the Board or 
+any duly-authorized committee thereof to fill such vacancy shall be, and 
+the Company shall use its reasonable best efforts to cause such vacancy to 
+be filled by, a new designee of the HNA Designator who meets the Designee 
+Qualifications, and the Company and the Board shall take, to the fullest 
+extent permitted by Law, at any time and from time to time, all actions 
+necessary to accomplish the same as soon as possible following such 
+designation.
+ 
+10
+
+------------------------------------------------------------------------
+(d) The Company and the Board shall take all action necessary to cause two 
+(2) individuals designated by the HNA Designator who meet the Designee 
+Qualifications to be appointed to the Board immediately on the Effective 
+Date ; provided, however, that if the Effective Date occurs after mailing 
+of the Companys proxy statement relating to its annual meeting of 
+stockholders for 2017 but prior to such annual meeting, such appointment 
+shall occur immediately after such annual meeting.
+
+(e) For any designation pursuant to this Section 2.1 that occurs after the 
+Effective Date in connection with an election of Directors by the 
+stockholders of the Company, the HNA Designator shall identify its 
+designees by written notice to the Company no less than ninety (90) days 
+prior to the date of the meeting of stockholders of the Company called for 
+the purpose of electing Directors. So long as an individual designated by 
+the HNA Designator pursuant to this Section 2.1 meets the Designee 
+Qualifications, the Company shall, to the fullest extent permitted by Law, 
+include such individual in the slate of nominees recommended by the Board 
+at any meeting of stockholders called for the purpose of electing 
+Directors, and use its reasonable best efforts to cause the election of 
+such individual to the Board, including nominating such individual to be 
+elected as a Director as provided herein, recommending such individuals 
+election and soliciting proxies or consents in favor thereof.
+
+(f) The Company shall at all times provide each HNA Designee (in his or her 
+capacity as a member of the Board) with the same rights to indemnification 
+and exculpation that it provides to other Directors.
+
+2.2    Size of the Board. Without prejudice to the HNA Designators rights 
+pursuant to Section 2.1, the consent of the HNA Designator shall not be 
+required to increase or decrease the Total Number of Directors.
+
+2.3    Committees.
+
+(a) Each Independent HNA Designee serving as a Director on the Board shall 
+be entitled to serve on at least one (1) committee of the Board (to the 
+extent that an Independent HNA Designee elects to serve on such committee 
+and subject to such Independent HNA Designee meeting the applicable 
+eligibility requirements for membership on such committee mandated by 
+applicable Law, the rules of the Exchange or the charter of such 
+committee), as a full member with the same voting and other privileges as 
+other members of such committee. The committee(s) on which any Independent 
+HNA Designee serves shall be determined by the Nominating and Corporate 
+Governance Committee.
+
+(b) Until no HNA Designee serves as a Director on the Board (and the HNA 
+Designator either no longer has any rights under this Article II to 
+designate any HNA Designee to serve on the Board or irrevocably waives any 
+such rights), the Company shall not amend the certificate of incorporation, 
+bylaws or any other organizational documents of the Company, or the charter 
+or other governing documents of any committee of the Board, in any manner 
+that adversely and disparately affects the right of any Independent HNA 
+Designee to be a member of any such committee (except as otherwise required 
+by Law or the rules of the Exchange).
+ 
+11
+
+------------------------------------------------------------------------
+(c) Each HNA Designee may attend, upon the request of such HNA Designee and 
+on a non-voting basis, any meetings of the Audit Committee, Compensation 
+Committee, Nominating and Corporate Governance Committee or other standing 
+committee of the Board that may be established, except when such attendance 
+would present an actual or potential conflict of interest for such HNA 
+Designee in the good faith opinion of the applicable committee.
+
+2.4    Qualification of HNA Designees.
+
+(a) Each HNA Designee shall, at the time of his or her nomination or 
+appointment as a Director and at all times thereafter until such individual 
+ceases to serve as a Director:
+
+(i) meet and comply with any and all policies, procedures, processes, 
+codes, rules, standards and guidelines of the Company applicable to all 
+non-employee Board members, including the Companys code of business 
+conduct and ethics, securities trading policies and corporate governance 
+guidelines;
+
+(ii) not be involved in any of the events enumerated in Item 2(d) or Item 
+2(e) of Schedule 13D under the Exchange Act or Item 401(f) of Regulation 
+S-K under the Securities Act;
+
+(iii) not be subject to any order, decree or judgment of any Governmental 
+Authority prohibiting service as a director of any public company;
+
+(iv) not be an employee, officer, or director of, or consultant to, or be 
+receiving any compensation or benefits from, any Restricted Entity (unless 
+otherwise agreed to by the Nominating and Corporate Governance Committee);
+
+(v) not have been an employee, director, or officer of, or consultant to, 
+any HNA Hospitality Business, received compensation from any HNA 
+Hospitality Business, or have had any direct management oversight of any 
+HNA Hospitality Business, within the two (2) year period prior to his or 
+her nomination or appointment as Director (unless otherwise agreed to by 
+the Nominating and Corporate Governance Committee); and
+
+(vi) if such HNA Designee is an Independent HNA Designee, meets the 
+criteria set forth in the definition of Independent HNA Designee in 
+Article I (the requirements set forth in this Section 2.4(a), Section 
+2.4(b) and Section 2.4(c) being referred to, collectively, as the 
+Designee Qualifications).
+
+(b) As a condition to an HNA Designees election or nomination for election 
+and any subsequent nomination for election as a Director, such HNA Designee 
+shall have executed and delivered to the Company a Director Confidentiality 
+Agreement.
+
+(c) Each HNA Designee, as a condition to his or her initial appointment or 
+election to the Board and any re-nomination for election to the Board, must 
+be willing to be interviewed by the Nominating and Corporate Governance 
+Committee on the same basis as any other new candidate for appointment or 
+election to the Board and must be reasonably
+ 
+12
+
+------------------------------------------------------------------------
+satisfactory to the Nominating and Corporate Governance Committee acting in 
+good faith. HNA, in its capacity as a stockholder of the Company on behalf 
+of itself and other HNA Entities, and each HNA Designee, shall deliver such 
+questionnaires and otherwise provide such information as are reasonably 
+requested by the Company in connection with assessing qualification, 
+independence and other criteria applicable to Directors, or required to be 
+or customarily provided by directors, candidates for director, and their 
+Affiliates and representatives for inclusion in a proxy statement or other 
+filing required by applicable Law and the rules of the Exchange, in each 
+case to substantially the same extent requested or required of other 
+candidates for appointment or election to the Board after the date hereof.
+
+2.5    Service on Specified Boards. The HNA Designator shall not designate 
+any individual pursuant to Section 2.1 who, at the time of such 
+designation, is a member or has been nominated to serve as a member of a 
+Specified Board. If an HNA Designee becomes a member of a Specified Board, 
+the HNA Designator shall use its best efforts to cause such HNA Designee to 
+promptly tender to the Board his or her resignation as a Director.
+
+2.6    Participation of HNA Designees in Certain Matters; Acquisition 
+Proposals.
+
+(a) The Company shall promptly provide HNA with written notice (an 
+Acquisition Notice) of any written bona fide Acquisition Proposal that is 
+received by or presented to the Board, and such Acquisition Notice need not 
+specify the identity of the potential acquirer or any other terms of such 
+Acquisition Proposal. From delivery of an Acquisition Notice to HNA until 
+HNA delivers an HNA Standstill Commitment to the Company or the expiration 
+of the ten (10) Business Day period contemplated by Section 2.6(b), the 
+Company shall provide HNA with prior written notice of any meeting of the 
+Board (or a committee thereof) scheduled to discuss, consider or vote upon 
+such Acquisition Proposal at least twenty-four (24) hours before such 
+meeting is convened.
+
+(b) If (i) an Acquisition Notice has been delivered to HNA and, within ten 
+(10) Business Days thereafter, an HNA Standstill Commitment is delivered to 
+the Company, and (ii) any Acquisition Proposal previously made by an HNA 
+Entity has been withdrawn, then the Affiliated HNA Designee shall be 
+entitled, after but not before such HNA Standstill Commitment has been 
+delivered to the Company, to participate in all discussions, consideration 
+and voting by the Board regarding, and shall be entitled to receive any 
+materials provided to the Board relating to, the Acquisition Proposal 
+described in such Acquisition Notice, revisions to such Acquisition 
+Proposal and any other Acquisition Proposal solicited by or on behalf of 
+the Board in connection with the consideration of such Acquisition Proposal 
+or made by a third party in response to such Acquisition Proposal 
+(collectively, the Related Acquisition Proposals). If an HNA Standstill 
+Commitment is not delivered to the Company within such ten (10) Business 
+Day period, the Affiliated HNA Designee shall not be entitled to 
+participate in any discussions, consideration or voting by the Board 
+regarding, and shall not be entitled to receive any materials provided to 
+the Board relating to, any such Acquisition Proposal or the Related 
+Acquisition Proposals.
+ 
+13
+
+------------------------------------------------------------------------
+(c) Notwithstanding anything to the contrary in Section 2.6(b), the 
+Affiliated HNA Designee shall not be entitled to participate in any 
+discussions, consideration or voting by the Board regarding, and shall not 
+be entitled to receive any Board (or committee) materials relating to, any 
+transaction or matter that, in the good faith determination of the Board 
+(other than the Affiliated HNA Designee), presents an actual or potential 
+conflict of interest for such Affiliated HNA Designee, including, without 
+limitation, any Acquisition Proposal involving an HNA Entity.
+
+(d) Each Independent HNA Designee shall be permitted to participate in all 
+discussions, consideration and voting by the Board regarding, and shall be 
+entitled to receive any Board materials relating to, any Acquisition 
+Proposal, except when such attendance or receipt of materials would present 
+an actual or potential conflict of interest for such Independent HNA 
+Designee in the good faith determination of the Board (other than the 
+Affiliated HNA Designee and such Independent HNA Designee).
+
+(e) If the Board establishes a committee of the Board to consider any 
+Acquisition Proposal, one (1) HNA Designee, as determined by the HNA 
+Designator, shall be entitled to be a member of such committee; provided, 
+that such HNA Designee may be the Affiliated HNA Designee only if (i) an 
+HNA Standstill Commitment has been delivered by HNA to the Company in 
+accordance with Section 2.6(b), and (ii) any Acquisition Proposal 
+previously made by an HNA Entity has been withdrawn.
+
+2.7    Resignations. Notwithstanding anything to the contrary in this 
+Agreement:
+
+(a) if, at any time, the HNA Entities, in the aggregate, Beneficially Own 
+at least fifteen percent (15%) but less than twenty percent (20%) of the 
+total number of shares of Common Stock outstanding and there are then more 
+than two (2) HNA Designees on the Board, if requested by the Nominating and 
+Corporate Governance Committee, the HNA Designator shall use its best 
+efforts to cause one (1) or more HNA Designees selected by it to promptly 
+tender his or her resignation from the Board and any applicable committee 
+of the Board such that there are not more than two (2) HNA Designees 
+serving on the Board;
+
+(b) if, at any time, the HNA Entities, in the aggregate, Beneficially Own 
+at least five percent (5%) but less than fifteen percent (15%) of the total 
+number of shares of Common Stock outstanding, if requested by the 
+Nominating and Corporate Governance Committee, the HNA Designator shall use 
+its best efforts to cause one (1) or more HNA Designees to promptly tender 
+his or her resignation from the Board and any applicable committee of the 
+Board such that there is not more than one (1) HNA Designee serving on the 
+Board; and
+
+(c) if, at any time, the HNA Entities, in the aggregate, Beneficially Own 
+less than five percent (5%) of the total number of shares of Common Stock 
+outstanding, if requested by the Nominating and Corporate Governance 
+Committee, the HNA Designator shall use its best efforts to cause each HNA 
+Designee to promptly tender his or her resignation from the Board and any 
+applicable committee of the Board such that there are no HNA Designees 
+serving on the Board;
+ 
+14
+
+------------------------------------------------------------------------
+provided, however, that notwithstanding Section 2.1 and the foregoing 
+provisions of this Section 2.7, if the closing of an issuance of Equity 
+Securities of the Company or a Stock Acquisition causes the HNA Entities 
+Beneficial Ownership of shares of Common Stock, as a percentage of the 
+total number of shares of Common Stock outstanding, to decline below a 
+percentage specified in this Section 2.7 such that the HNA Designator would 
+be required by this Section 2.7 to use its best efforts to cause any HNA 
+Designee to promptly tender his or her resignation from the Board, then (A) 
+the HNA Designator shall not be required to use its best efforts to cause 
+such HNA Designee to promptly tender his or her resignation from the Board, 
+and (B) the Company and the Board shall not seek or take any action to 
+remove such HNA Designee from the Board, in each case unless in the twelve 
+(12) month period following the date of the closing of such issuance of 
+Equity Securities of the Company or Stock Acquisition, as the case may be, 
+the HNA Entities have not made purchases of Common Stock in open market 
+transactions, as permitted by Section 4.3(c), such that the HNA Entities 
+Beneficial Ownership of shares of Common Stock, as a percentage of the 
+total number of shares of Common Stock outstanding, exceeds the applicable 
+percentage specified in this Section 2.7; provided, further, that if the 
+Company has imposed any blackout period or periods that restrict the HNA 
+Entities ability to purchase shares of Common Stock for more than sixty 
+(60) days in the aggregate during such twelve (12) month period, such 
+twelve (12) month period shall be extended by the number of days of such 
+blackout period or periods in excess of sixty (60) days. If the HNA 
+Designator is required to use its best efforts to cause an HNA Designee to 
+tender his or her resignation from the Board and such HNA Designee does not 
+promptly tender his or her resignation from the Board, such HNA Designee 
+shall not thereafter be entitled to participate as a member of any 
+committee of the Board pursuant to this Agreement.
+
+2.8    Other HNA Investments. For the avoidance of doubt, no investment by 
+any HNA Entity in any Person, including any Restricted Entity, shall limit 
+the rights of the HNA Designator pursuant to this Article II.
+
+
+ARTICLE III
+
+VOTING MATTERS
+
+3.1    Voting in an Uncontested Election. At any meeting of stockholders of 
+the Company involving an Uncontested Election (or if action is taken by 
+written consent of stockholders of the Company in lieu of a meeting in 
+respect of an Uncontested Election), the HNA Parties shall vote, or cause 
+to be voted (including, if applicable, by written consent), all Voting 
+Securities Beneficially Owned by HNA Entities, at their sole discretion 
+either (i) affirmatively in favor of the election of each Person nominated 
+to serve as a Director by the Board or the Nominating and Corporate 
+Governance Committee, or (ii) in the same proportion as the Voting 
+Securities not Beneficially Owned by HNA Entities are voted (including, if 
+applicable, by written consent) affirmatively for, or to withhold authority 
+with respect to, the election of each Person nominated to serve as a 
+Director by the Board or the Nominating and Corporate Governance Committee 
+(it being understood that the HNA Parties must elect to vote as 
+contemplated by subclause (i) or (ii) of this Section 3.1 and cannot elect 
+not to vote or to vote in any other manner).
+ 
+15
+
+------------------------------------------------------------------------
+3.2    Voting in a Contested Election. At any meeting of stockholders of 
+the Company involving a Contested Election (or if action is taken by 
+written consent of stockholders in lieu of a meeting in respect of a 
+Contested Election), the HNA Parties shall vote, or cause to be voted 
+(including, if applicable, by written consent), all Voting Securities 
+Beneficially Owned by HNA Entities in the same proportion as the Voting 
+Securities not Beneficially Owned by HNA Entities are voted affirmatively 
+for, or to withhold authority with respect to, the election of each Person 
+nominated to serve as a Director by the Board or the Nominating and 
+Corporate Governance Committee (or, as applicable, the removal of any 
+Director).
+
+3.3    Voting with respect to Certain Acquisitions. At any meeting of 
+stockholders of the Company at which an Acquisition (other than a Specified 
+Acquisition or an HNA Acquisition) that has been approved and recommended 
+(and such recommendation has not been withdrawn) by the Board (and any 
+other related matter the approval of which is required to consummate such 
+Acquisition) is submitted to a vote of the stockholders of the Company (or 
+if action is taken with respect to such matter(s) by written consent of 
+stockholders of the Company in lieu of a meeting), the HNA Parties shall 
+vote or cause to be voted (including by abstaining or, if applicable, 
+taking action by written consent) all Voting Securities Beneficially Owned 
+by HNA Entities in excess of the Voting Percentage Limit in the same 
+proportion as the Voting Securities not Beneficially Owned by HNA Entities 
+are voted (including by written consent) for or against, or abstain with 
+respect to, such Acquisition (and such related matter(s)). Solely for 
+purposes of this Section 3.3, in determining the proportion in which Voting 
+Securities not Beneficially Owned by HNA Entities are voted with respect to 
+an Acquisition or related matter to which this Section 3.3 applies, fifty 
+percent (50%) of all Non-Votes (as defined in the following sentence) shall 
+be taken into account as votes against such Acquisition or related matter 
+and fifty percent (50%) of all Non-Votes shall not be taken into account in 
+such determination. Non-Votes, with respect to an Acquisition or related 
+matter to which this Section 3.3 applies, means all broker non-votes and 
+all Voting Securities that are not present or represented at the applicable 
+stockholder meeting (or, if applicable, written consent) or are not voted 
+for or against, or abstain with respect to, such Acquisition or related 
+matter. The HNA Parties shall be free to vote or cause to be voted 
+(including by abstaining or, if applicable, taking action by written 
+consent), in their sole discretion, all Voting Securities Beneficially 
+Owned by HNA Entities up to and including the Voting Percentage Limit for 
+or against, or to abstain from voting on, any Acquisition (and any related 
+matters). Nothing contained in this Section 3.3 shall restrict in any 
+manner the voting (including by written consent) of all Voting Securities 
+Beneficially Owned by HNA Entities at any meeting of stockholders of the 
+Company at which a Specified Acquisition or an HNA Acquisition is submitted 
+to a vote of the stockholders of the Company (or, if applicable, any action 
+taken by written consent of the stockholders of the Company in lieu of a 
+meeting) and the HNA Parties shall be free to vote (including by written 
+consent), at their sole discretion, all Voting Securities Beneficially 
+Owned by HNA Entities against any Specified Acquisition and for any HNA 
+Acquisition.
+
+3.4    Voting with respect to Other Matters. At any meeting of stockholders 
+of the Company at which any matter, other than an Other Specified Matter or 
+a matter that is subject to Section 3.1, Section 3.2 or Section 3.3, is 
+submitted to a vote of the stockholders of the Company (or if action is 
+taken with respect thereto by written consent of stockholders in lieu of a 
+meeting), the HNA Parties shall vote or cause to be voted (including by 
+abstaining or, if applicable, taking action by written consent) all Voting 
+Securities Beneficially Owned by HNA Entities in excess of the Voting 
+Percentage Limit in the same proportion as the Voting Securities not 
+Beneficially Owned by HNA Entities are voted (including by written consent) 
+for or against, or abstain with respect to, each such matter. Each HNA 
+Party shall be free to vote or cause to be voted (including by abstaining 
+or, if applicable, taking action by written consent), in their sole 
+discretion, all Voting Securities Beneficially Owned by HNA Entities up to 
+and including the Voting Percentage Limit for or against, or to abstain 
+from voting on, each such matter.
+ 
+16
+
+------------------------------------------------------------------------
+3.5    Quorum. At each meeting of stockholders, the HNA Entities shall 
+cause all of the Voting Securities Beneficially Owned by HNA Entities to be 
+present in person or by proxy for quorum purposes.
+
+
+ARTICLE IV
+
+ADDITIONAL COVENANTS
+
+4.1    Certain Transfers.
+
+(a) HNA Permitted Transferee. If an HNA Party Transfers any shares of 
+Common Stock to any HNA Entity that is not an HNA Party (any such HNA 
+Entity, an HNA Permitted Transferee), such HNA Permitted Transferee 
+shall, as a condition of such Transfer, agree in writing to be bound to the 
+same extent as HNA by the obligations of this Agreement by executing a 
+joinder agreement substantially in the form attached as Exhibit B to this 
+Agreement.
+
+(b) Pledges. Following any Transfer by an HNA Party in connection with any 
+bona fide mortgage, encumbrance or pledge to a financial institution in 
+connection with any bona fide loan or debt transaction or enforcement 
+thereunder, HNA shall (i) promptly notify the Company in writing upon 
+receipt of any notice of acceleration or foreclosure from a financial 
+institution under the applicable loan or debt transaction, and (ii) 
+reimburse any reasonable costs and expenses incurred by the Company in 
+connection with (x) the establishment of such mortgage, encumbrance or 
+pledge or (y) any Transfer of shares of Common Stock to such financial 
+institution in connection with such event of acceleration or foreclosure.
+
+(c)    Legends.
+
+(i) The Company shall use reasonable efforts to have the shares of Common 
+Stock purchased pursuant to the Stock Purchase Agreement (x) registered 
+directly on the books and records of the transfer agent in the name of the 
+applicable HNA Party and maintained in the form of book entries or (y) 
+while any such shares of Common Stock are subject to any mortgage, 
+encumbrance or pledge to a financial institution as described in Section 
+4.1(b) above, registered in the name of The Depository Trust Company or its 
+nominee maintained in the form of book entries on the books of The 
+Depository Trust Company, and allowed to be settled through The Depository 
+Trust Companys regular book entry settlement services free of restrictive 
+legends, stop transfer limitations and/or other notations. Without limiting 
+the generality of the foregoing, any shares of Common Stock that cease to 
+be subject to any mortgage, encumbrance or pledge to a financial 
+institution shall be registered directly on the books and records of the 
+transfer agent in the name of the applicable HNA Party. Any certificates 
+for shares of Common Stock held by an HNA Party as of the Effective Date 
+that are not subject to any mortgage, encumbrance or pledge to a financial 
+institution shall bear a legend
+ 
+17
+
+------------------------------------------------------------------------
+or legends (and appropriate comparable notations or other arrangements will 
+be made with respect to shares maintained in the form of book entries) 
+referencing restrictions on transfer of such shares under the Securities 
+Act and under this Agreement, which legend shall state in substance:
+
+THESE SECURITIES AND THE SECURITIES ISSUABLE UPON THE EXCHANGE THEREOF HAVE 
+NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE 
+SECURITIES ACT), OR THE SECURITIES LAWS OF ANY STATE OR OTHER 
+JURISDICTION. THE SECURITIES MAY NOT BE OFFERED, SOLD, PLEDGED, TRANSFERRED 
+OR OTHERWISE DISPOSED OF EXCEPT (1) PURSUANT TO AN EXEMPTION FROM 
+REGISTRATION UNDER THE SECURITIES ACT OR (2) PURSUANT TO AN EFFECTIVE 
+REGISTRATION STATEMENT RELATING TO SUCH SECURITIES UNDER THE SECURITIES 
+ACT, IN EACH CASE IN ACCORDANCE WITH ALL APPLICABLE STATE SECURITIES LAWS 
+AND THE SECURITIES LAWS OF OTHER JURISDICTIONS.
+
+(ii) In addition, shares of Common Stock held by any HNA Party (including 
+any HNA Permitted Transferee) shall bear a legend (and appropriate 
+comparable notations or other arrangements will be made with respect to any 
+uncertified shares) as follows:
+
+THESE SECURITIES ARE SUBJECT TO RESTRICTIONS SET FORTH IN THE STOCKHOLDERS 
+AGREEMENT, DATED AS OF OCTOBER 24, 2016, AMONG PARK HOTELS & RESORTS INC., 
+HNA TOURISM GROUP CO., LTD. AND, SOLELY FOR PURPOSES OF SECTION 4.3 
+THEREOF, HNA GROUP CO., LTD., AS AMENDED FROM TIME TO TIME, COPIES OF WHICH 
+ARE ON FILE WITH THE SECRETARY OF THE COMPANY.
+
+(iii) Notwithstanding the foregoing, upon the request of the applicable HNA 
+Party, (A) in connection with any Transfer of Common Stock Transferred in 
+accordance with the terms of this Agreement, the Company shall promptly 
+cause the legend (or notation) referred to in clause (ii) above to be 
+removed upon such Transfer if such restrictions would not be applicable 
+following such Transfer, (B) following receipt by the Company of an opinion 
+of counsel reasonably satisfactory to the Company to the effect that the 
+legend (or notation) referred to in clause (i) above is no longer required 
+under the Securities Act and applicable state securities Laws, the Company 
+shall promptly cause such legend (or notation) to be removed from any 
+Common Stock to be Transferred in accordance with the terms of this 
+Agreement, and (C) to the extent such legends (or notations) would be 
+removed pursuant to this paragraph in connection with any Transfer of 
+Common Stock, the Company shall use reasonable efforts to cause such Common 
+Stock to be registered in the name of The Depository Trust Companys 
+nominee; provided, however, that any Transfer effected by a financial 
+institution pursuant to any mortgage, encumbrance or pledge with respect to 
+Common Stock shall be governed by the terms of any applicable Issuer 
+Agreement among the Company, the applicable financial institution and any 
+custodian party thereto in substantially the form attached hereto as 
+Exhibit E.
+ 
+18
+
+------------------------------------------------------------------------
+4.2    Right of First Refusal.
+
+(a) If the Company, at any time or from time to time following the 
+Effective Date, proposes to issue (a New Issuance) any New Securities, 
+for cash in an offering that is not an underwritten public offering or an 
+offering pursuant to Rule 144A (or a successor rule) under the Securities 
+Act (any such offering, a Private Placement), the Company shall provide 
+HNA with written notice (an Issuance Notice) of such New Issuance at 
+least ten (10) Business Days prior to the issuance of such New Securities. 
+The Issuance Notice shall set forth the material terms and conditions of 
+the New Issuance, including (i) the proposed number of New Securities if 
+known or, if not known, an estimate thereof, (ii) a description of the New 
+Securities and proposed manner of sale, (iii) the purchase price per New 
+Security (or conversion price or premium in the event of an offering of 
+convertible debt) (the Per Security Offering Price) if known or, if not 
+known, an estimate thereof, and (iv) the proposed issuance date if known 
+or, if not known, an estimate thereof. HNA shall be entitled to purchase 
+(either directly or through any other HNA Parties or any of HNAs 
+Controlled Affiliates that are HNA Permitted Transferees), at the Per 
+Security Offering Price and on the other terms and conditions specified in 
+the Issuance Notice, up to the number of such New Securities that would 
+result in the percentage of the total number of outstanding shares of 
+Common Stock that is Beneficially Owned in the aggregate by all HNA 
+Entities immediately following such New Issuance being equal to the 
+percentage of the total number of outstanding shares of Common Stock that 
+was Beneficially Owned in the aggregate by all HNA Entities immediately 
+prior to such New Issuance; provided, that for this purpose such percentage 
+shall not exceed twenty-five percent (25%) (such percentage, the Pro Rata 
+Portion). Notwithstanding the foregoing, the number of New Securities that 
+HNA (directly or through any other HNA Parties or their Controlled 
+Affiliates that are HNA Permitted Transferees) shall be entitled to 
+purchase pursuant to this Section 4.2 with respect to any New Issuance 
+shall be limited to the maximum amount that may be issued by the Company to 
+HNA (directly or through any other HNA Parties or their Controlled 
+Affiliates that are HNA Permitted Transferees) without requiring approval 
+of such issuance by the stockholders of the Company under the rules of the 
+Exchange, as determined in good faith by the Company (which such 
+determination shall be binding on the parties).
+
+(b) HNA may exercise its rights under this Section 4.2 by delivering 
+written notice of its election to purchase (either directly or through any 
+other HNA Parties or any of HNAs Controlled Affiliates that are HNA 
+Permitted Transferees) such New Securities to the Company within five (5) 
+Business Days after receipt of the Issuance Notice, which notice shall 
+specify the number of New Securities requested to be purchased by HNA. 
+Delivery of such notice shall constitute a binding commitment of HNA to 
+purchase (either directly or through any other HNA Parties or any of HNAs 
+Controlled Affiliates that are HNA Permitted Transferees) the amount of New 
+Securities so specified at the Per Security Offering Price and on the terms 
+and conditions specified in the Issuance Notice. If, at the termination of 
+such five (5) Business Day period, HNA has not exercised its right to 
+purchase any such New Securities, HNA shall be deemed to have waived its 
+rights under this Section 4.2 with respect to, and only with respect to, 
+the purchase of the New Securities specified in the applicable Issuance 
+Notice.
+
+(c) The closing of any sale of New Securities to HNA, any other HNA Parties 
+or any of HNAs Controlled Affiliates that are HNA Permitted Transferees 
+pursuant to this Section 4.2 shall take place concurrently with the 
+consummation of the sale of the New Securities on the terms set forth in 
+the Issuance Notice to all other Persons purchasing such New Securities 
+(the New Issuance Closing).
+ 
+19
+
+------------------------------------------------------------------------
+(d) If the Company issues, at the New Issuance Closing, less than all of 
+the New Securities described in the Issuance Notice, then the number of New 
+Securities that HNA (and any other HNA Parties and any of HNAs Controlled 
+Affiliates that are HNA Permitted Transferees) shall be entitled to 
+purchase in connection with such New Issuance pursuant to this Section 4.2 
+shall be reduced proportionately and HNAs notice delivered pursuant to 
+Section 4.2(b) shall be deemed amended to reflect such reduction. If the 
+number of New Securities is reduced as contemplated by this Section 4.2(d), 
+the Company shall not issue or sell the remainder of the New Securities 
+described in the Issuance Notice without again complying with the 
+provisions of this Section 4.2.
+
+(e) If the New Issuance Closing (other than any over-allotment closing) 
+does not occur within ninety (90) days after the date of the Issuance 
+Notice, the Company shall not issue or sell the New Securities described in 
+the Issuance Notice without again complying with the provisions of this 
+Section 4.2.
+
+(f) HNA (or any other HNA Parties or any of HNAs Controlled Affiliates 
+that are HNA Permitted Transferees) shall, prior to the closing of any 
+Private Placement in which any of them has elected to purchase New 
+Securities pursuant to this Section 4.2, execute and deliver all such 
+documents and instruments as are customarily required in connection with 
+such an offering, including, without limitation, customary investment 
+representations and representations as to its status as the type of offeree 
+to whom a private sale may be made pursuant to the Securities Act, and any 
+failure to deliver or enter into any such documents and instruments at or 
+prior to such closing shall constitute a waiver of the right of first 
+refusal set forth in this Section 4.2 with respect to such New Issuance.
+
+4.3    Standstill.
+
+(a) Subject to Section 4.3(b) and Section 4.3(c), on and after the 
+Effective Date, HNA Group and the HNA Parties shall not, shall cause their 
+respective Affiliates not to, and shall cause the representatives of HNA 
+Group, the HNA Parties and their respective Affiliates acting at their 
+direction not to, in any manner, directly or indirectly, to, without the 
+prior written consent of, or waiver by, the Company:
+
+(i) acquire, offer to acquire or agree to acquire, by purchase or 
+otherwise, Beneficial Ownership of any Equity Securities of the Company 
+(including any rights, options or other derivative securities or contracts 
+or instruments to acquire such ownership that derives its value (in whole 
+or in part) from such Equity Securities (whether currently, upon lapse of 
+time, following the satisfaction of any conditions, upon the occurrence of 
+any event or any combinations of the foregoing)) other than: (A) as a 
+result of any stock split, stock dividend or distribution, subdivision, 
+reorganization, reclassification or similar capital transaction involving 
+Equity Securities of the Company; (B) discussions or negotiations to 
+acquire a beneficial interest in any Equity Securities of the Company from 
+Blackstone or any of its Affiliates, provided, that HNA Group, any HNA 
+Party or any of their respective Affiliates, as applicable, has, prior to 
+initiating such discussions or negotiations, notified the Board in writing 
+of its intention to initiate
+ 
+20
+
+------------------------------------------------------------------------
+such discussions or negotiations; provided further that, for the avoidance 
+of doubt, none of HNA Group, the HNA Parties or any of their respective 
+Affiliates shall, directly or indirectly, acquire a beneficial interest in 
+any Equity Securities of the Company from Blackstone or any of its 
+Affiliates without the prior written consent of the Company, (C) pursuant 
+to Section 4.1(a), Section 4.2 or Section 4.3(c) or (D) a Transfer between 
+HNA Parties; provided, that no HNA Party shall be in breach of this Section 
+4.3(a)(i) as a result of the acquisition by any HNA Designee of any Equity 
+Securities of the Company pursuant to (x) the grant or vesting of any 
+equity compensation awards granted by the Company to any HNA Designee, or 
+(y) the exercise of any stock options, restricted stock units, or similar 
+awards relating to any Equity Securities of the Company granted by the 
+Company to any HNA Designee;
+
+(ii) make any public announcement or public offer with respect to any 
+merger, business combination, recapitalization, reorganization or other 
+similar extraordinary transaction involving the Company or any of its 
+Subsidiaries (unless such transaction is approved or affirmatively 
+recommended by the Board);
+
+(iii) make, knowingly encourage or in any way participate in, any 
+solicitation of proxies (as such terms are used in the proxy rules of 
+the SEC promulgated pursuant to Section 14 of the Exchange Act) to vote any 
+Voting Securities, or seek to advise or influence any Person with respect 
+to the voting of, any Voting Securities (other than, in each case, in a 
+manner that is not inconsistent with the Boards recommendation in 
+connection with a matter);
+
+(iv) seek election to, or seek to place a representative on, the Board or 
+removal of any member of the Board or otherwise act, alone or in concert 
+with others, to seek representation or to control or influence the 
+management, the Board or policies of the Company (other than (A) with 
+respect to the election or removal of an HNA Designee or (B) to vote in 
+accordance with the requirements of Article III);
+
+(v) call, or seek to call, a meeting of the stockholders of the Company or 
+initiate any stockholder proposal for action by stockholders of the 
+Company;
+
+(vi) form, join or in any way participate in a Group with respect to Equity 
+Securities (other than a Group consisting solely of HNA Parties);
+
+(vii) otherwise act, alone or in concert with others, to seek to control or 
+influence the management or the policies of the Company (for the avoidance 
+of doubt, excluding any such act in their capacity as a commercial 
+counterparty, customer, supplier, industry participant or the like);
+
+(viii) advise or knowingly assist or encourage or enter into any 
+discussions, negotiations, agreements or arrangements with any other 
+Persons in connection with any of the foregoing activities;
+
+(ix) publicly disclose any intention, plan or arrangement inconsistent with 
+any of the foregoing activities;
+ 
+21
+
+------------------------------------------------------------------------
+(x) arrange, or in any way provide, directly or indirectly, any financing 
+for the purchase by any Person or Group of any Equity Securities or assets 
+of the Company, other than financing for (A) the purchase of assets then 
+being offered for sale by the Company, (B) the Transfer of any shares of 
+Common Stock to an HNA Party or an HNA Permitted Transferee, (C) purchases 
+of any Equity Securities of the Company by an HNA Entity that are permitted 
+by this Agreement and (D) an HNA Acquisition.
+
+(xi) take any action that HNA Group or an HNA Party knows, or would 
+reasonably be expected to know, would require the Company to make a public 
+announcement regarding the possibility of an Acquisition; or
+
+(xii) contest the validity of this Section 4.3(a) or initiate or 
+participate in any judicial proceeding to amend, waive, terminate or seek a 
+release of the restrictions contained herein,
+
+it being understood and agreed that (A) without prejudice to Section 2.6, 
+this Section 4.3 shall not limit (x) the activities of any HNA Designee 
+taken in good faith in his or her capacity as a Director or (y) the 
+participation of any HNA Designee in any Board (or committee of the Board, 
+as applicable) discussions, deliberations, negotiations or determinations, 
+and (B) HNA and HNA Group shall be responsible for any breach of this 
+Section 4.3 caused by any action taken by any HNA Entity or by a 
+representative of an HNA Entity acting at the direction of any HNA Entity.
+
+(b) Notwithstanding anything to the contrary in Section 4.3(a), on and 
+after the date hereof, other than during any Standstill Commitment Period, 
+no HNA Party shall be prohibited or restricted from: (i) initiating and 
+engaging in private discussions with, and/or making and submitting to, the 
+Company and/or the Board a non-public, confidential Acquisition Proposal so 
+long as such HNA Party does not know, and would not be reasonably expected 
+to know, that such actions would be reasonably likely to require HNA, the 
+Company or any other Person to make a public announcement regarding such 
+Acquisition Proposal; or (ii) from and after a public announcement of a 
+definitive agreement with respect to an Acquisition entered into between 
+the Company and any Person other than an HNA Entity and until the earlier 
+of (A) the closing of such Acquisition and (B) ninety (90) days after the 
+termination of such definitive agreement, notwithstanding any HNA 
+Standstill Commitment or anything to the contrary in this Agreement, making 
+and submitting to the Company, the Board, and/or the Companys 
+stockholders, an alternative Acquisition Proposal on a publicly disclosed 
+and announced basis for all outstanding shares of Common Stock, which, if a 
+tender or exchange offer, shall be on the same terms for all such shares 
+and include a non-waivable condition that a majority of outstanding shares 
+of Common Stock not Beneficially Owned by any HNA Entity are tendered into 
+such offer, or (subject to Sections 3.3, 4.3(a)(i) and 4.7) taking any 
+other action, whether or not otherwise restricted by Section 4.3(a) in 
+connection with evaluating, making, submitting, negotiating, effectuating 
+or implementing any such alternative Acquisition Proposal (or any 
+amendment, supplement or modification thereto), including actively 
+soliciting stockholders of the Company not to vote in favor of or to vote 
+against such Acquisition by a Person other than an HNA Entity.
+ 
+22
+
+------------------------------------------------------------------------
+(c) Notwithstanding anything to the contrary in Section 4.3(a), HNA may 
+(directly or through any other HNA Parties or any of their respective 
+Controlled Affiliates that are HNA Permitted Transferees), at any time and 
+from time to time, purchase shares of Common Stock in open market 
+transactions in an amount that, when aggregated with the number of shares 
+of Common Stock then Beneficially Owned by all HNA Entities, would not then 
+exceed a percentage of the shares of Common Stock outstanding at such time 
+equal to the lower of (i) twenty-five percent (25%) and (ii) the Adjusted 
+Ownership Percentage (as defined in the following sentence). The Adjusted 
+Ownership Percentage shall initially be equal to twenty-five (25%) and, 
+upon each Transfer of shares of Common Stock by an HNA Entity that (A) is 
+to a Person other than another HNA Entity and (B) occurs when the 
+percentage of the total number of outstanding shares of Common Stock that 
+is Beneficially Owned, in the aggregate, by all HNA Entities is less than 
+or equal to twenty-five (25%) or causes such percentage to be less than 
+twenty-five (25%), shall be reduced to equal the percentage of the total 
+number of outstanding shares of Common Stock that is Beneficially Owned, in 
+the aggregate, by all HNA Entities immediately following such Transfer. For 
+purposes of this Section 4.3(c), the total number of shares of Common Stock 
+outstanding at any time shall be the number specified in the latest of (i) 
+the most recent SEC filing of the Company disclosing the total number of 
+shares of Common Stock outstanding or (ii) a written notice from the 
+Company, which will be provided to HNA as soon as reasonably practicable 
+upon a written request therefor from HNA following any New Issuance or 
+Stock Acquisition.
+
+4.4    Corporate Opportunities; Section 203. On the Effective Date, the 
+Company shall amend its certificate of incorporation as set forth in 
+Exhibit D to this Agreement.
+
+4.5    Issuer Agreement. At the Closing, the Company shall duly execute and 
+deliver to HNA the issuer agreement substantially in the form attached as 
+Exhibit E to this Agreement.
+
+4.6    Cooperation. Following the Effective Date, the Company and HNA 
+shall, from time to time, engage in good faith discussions regarding 
+strategic cooperation that may be mutually beneficial to such parties.
+
+4.7    Tender of Shares in Certain Acquisitions. If, at any time when (i) 
+HNA Entities Beneficially Own Voting Securities in excess of the Voting 
+Percentage Limit, and (ii) any Acquisition (other than a Specified 
+Acquisition) by a Person other than an HNA Entity is to be effected by 
+means of a tender or exchange offer that has been approved and recommended 
+(and such recommendation has not been withdrawn) by the Board, the HNA 
+Parties shall tender into such offer, prior to any expiration thereof (as 
+such offer may be extended from time to time), all the shares of Common 
+Stock Beneficially Owned by HNA Entities in excess of the Voting Percentage 
+Limit in the same proportion as the shares of Common Stock not Beneficially 
+Owned by HNA Entities are so tendered. Such tender by the HNA Parties shall 
+be made within twelve (12) hours of notification from any depositary for 
+such tender or exchange offer of the percentage of Voting Securities 
+Beneficially Owned by holders other than HNA Entities then received by such 
+depositary. The HNA Parties shall be free, in their sole discretion, to 
+tender or not tender into such offer, any and all shares of Common Stock 
+Beneficially Owned by HNA Entities up to and including the Voting 
+Percentage Limit.
+ 
+23
+
+------------------------------------------------------------------------
+4.8    Public Announcements. The initial press release with respect to this 
+Agreement shall be a joint press release to be reasonably agreed upon by 
+HNA and the Company. Thereafter, HNA and the Company shall consult with 
+each other before issuing any press release, or other public announcement 
+with respect to this Agreement or the matters contemplated hereby and, 
+except in respect of any such press release or other public announcement as 
+may be required by applicable Law or any applicable rule of any securities 
+exchange or association, shall not issue any such press release or other 
+public announcement prior to such consultation.
+
+
+ARTICLE V
+REPRESENTATIONS AND WARRANTIES
+
+5.1    Representations and Warranties of the Company. The Company hereby 
+represents and warrants to HNA as follows as of the Effective Date:
+
+(a) The Company is a corporation, duly incorporated, validly existing and 
+in good standing under the Laws of the State of Delaware. The Company has 
+all requisite power and authority to execute and deliver this Agreement and 
+to perform its obligations under the Agreement.
+
+(b) The execution and delivery by the Company of this Agreement and the 
+performance of the obligations of the Company under this Agreement do not 
+and will not conflict with or violate any provision of, or require the 
+consent or approval of any Person (except for any such consents or 
+approvals which have been obtained) under, (x) applicable Law, (y) the 
+organizational documents of the Company, or (z) any contract or agreement 
+to which the Company is a party.
+
+(c) The execution and delivery by the Company of this Agreement and the 
+performance of the obligations of the Company under this Agreement have 
+been duly authorized by all necessary corporate action on the part of the 
+Company. This Agreement has been duly executed and delivered by the Company 
+and, assuming the due authorization, execution and delivery by HNA, 
+constitutes a legal, valid and binding obligation of the Company, 
+enforceable against the Company in accordance with its terms, subject to 
+bankruptcy, insolvency and other Laws of general applicability relating to 
+or affecting creditors rights and to general principles of equity.
+
+(d) The Board (or a duly authorized committee thereof) has taken all action 
+necessary, in compliance with applicable Law, to render inapplicable to HNA 
+and, to the fullest extent permitted by Law, any other HNA Party the 
+restrictions on business combinations set forth in Section 203 of the 
+Delaware General Corporation Law. Other than Section 203 of the Delaware 
+General Corporation Law, no business combination, moratorium, control 
+share, fair price, takeover or interested stockholder Law is 
+applicable to the Stock Purchase Agreement or the transactions contemplated 
+thereby.
+
+5.2    Representations and Warranties of HNA. HNA hereby represents and 
+warrants to the Company as follows as of the Effective Date:
+
+(a) HNA is duly organized, validly existing and in good standing under the 
+Laws of the jurisdiction of its organization. HNA has all requisite power 
+and authority to execute and deliver this Agreement and to perform its 
+obligations under this Agreement.
+ 
+24
+
+------------------------------------------------------------------------
+(b) The execution and delivery by HNA of this Agreement and the performance 
+by HNA of its obligations under this Agreement do not and will not conflict 
+with or violate any provision of, or require the consent or approval of any 
+Person (except for any such consents or approvals which have been obtained) 
+under, (x) applicable Law, (y) its organizational documents, or (z) any 
+contract or agreement to which it is a party.
+
+(c) The execution and delivery by HNA of this Agreement and the performance 
+by HNA of its obligations under this Agreement have been duly authorized by 
+all necessary corporate or other analogous action on its part. This 
+Agreement has been duly executed and delivered by HNA and, assuming the due 
+authorization, execution and delivery by the Company, constitutes a legal, 
+valid and binding obligation of HNA, enforceable against it in accordance 
+with its terms, subject to bankruptcy, insolvency and other Laws of general 
+applicability relating to or affecting creditors rights and to general 
+principles of equity.
+
+5.3    No Other Representations or Warranties. Each of HNA and the Company 
+hereby acknowledges and agrees that (a) except for the express 
+representations and warranties set forth in this Article V, neither party 
+hereto nor any Person acting on its behalf is making any representation or 
+warranty of any kind, express or implied, in connection with the 
+negotiation, execution or performance of this Agreement or the Stock 
+Purchase Agreement or the transactions contemplated hereby and thereby, and 
+(b) neither party hereto has relied on the accuracy or completeness of any 
+information furnished by the other party hereto or any Person acting on its 
+behalf in connection with the negotiation, execution or performance of this 
+Agreement or the Stock Purchase Agreement or the transactions contemplated 
+hereby and thereby.
+
+
+ARTICLE VI
+
+GENERAL PROVISIONS
+
+6.1    Termination. Unless otherwise specified herein, this Agreement shall 
+automatically terminate on the date that the HNA Parties, in the aggregate, 
+Beneficially Own less than five percent (5%) of the total number of shares 
+of Common Stock outstanding as of such date; provided, that Section 2.7 and 
+Section 4.1(b) shall survive the termination of this Agreement 
+indefinitely.
+
+6.2    Notices. Any notice, designation, request, request for consent or 
+consent provided for in this Agreement shall be in writing and shall be 
+deemed given (a) when delivered personally, (b) two (2) Business Day after 
+being sent by internationally recognized overnight courier, or (c) if 
+transmitted by facsimile or sent by electronic mail transmission and 
+confirmed within 24 hours thereafter by a signed original sent in the 
+manner provided in clause (a) or (b) to the parties at the following 
+addresses (or at such other address for a party as shall be specified by 
+prior written notice from such party):
+ 
+25
+
+------------------------------------------------------------------------
+if to the Company:
+   	Park Hotels & Resorts Inc.
+   	1600 Tysons Boulevard, Suite 1000
+   	McLean, VA 22102
+   	USA
+   	Attention: 	   	General Counsel
+   	Fax: 	   	+1 (703) 893-1057
+with a copy (not constituting notice) to:
+   	Wilmer Cutler Pickering Hale and Dorr LLP
+   	60 State Street
+   	Boston, MA 02109
+   	USA 	   	
+   	Attention: 	   	Mark G. Borden
+   	 	   	Jay E. Bothwick
+   	Fax: 	   	+1 (617) 526-5000
+   	Email: 	   	mark.borden@wilmerhale.com
+   	 	   	jay.bothwick@wilmerhale.com
+if to HNA:
+   	
+   	HNA Tourism Group Co., Ltd.
+   	No. 29, Haixiu Road
+   	Haikou, 570203 Hainan Province
+   	Peoples Republic of China
+   	Attention: 	   	Liang Du
+   	 	   	Xun Wang
+   	Fax: 	   	+86 898 6887 6656/ +86 898 6887 5382
+   	Email: 	   	duliang@hnair.com
+   	 	   	wang-xun@hnair.com
+with a copy (not constituting notice) to:
+   	Weil, Gotshal & Manges LLP
+   	29/F Alexandra House
+   	18 Chater Road
+   	Central, Hong Kong
+   	Attention: 	   	Akiko Mikumo
+   	 	   	Charles Ching
+   	Fax: 	   	+852 3015 9354
+   	Email: 	   	akiko.mikumo@weil.com
+   	 	   	charles.ching@weil.com
+and:
+   	Fangda Partners
+   	27/F, North Tower, Beijing Kerry Centre
+   	1 Guanghua Road, Chaoyang District
+   	Beijing 100020
+   	Peoples Republic of China
+   	Attention: 	   	Fei Qiao
+   	Fax: 	   	+86 10 5769 5788
+   	Email: 	   	fei.qiao@fangdalaw.com
+ 
+26
+
+------------------------------------------------------------------------
+6.3    Amendment; Waiver. This Agreement may be amended, supplemented or 
+otherwise modified, and the observance of any term hereof may be waived, 
+only by a written instrument executed by (i) the Company and (ii) the HNA 
+Designator. Neither the failure nor delay on the part of any party hereto 
+to exercise any right, remedy, power or privilege under this Agreement 
+shall operate as a waiver thereof, nor shall any single or partial exercise 
+of any right, remedy, power or privilege preclude any other or further 
+exercise of the same or of any other right, remedy, power or privilege, nor 
+shall any waiver of any right, remedy, power or privilege with respect to 
+any occurrence be construed as a waiver of such right, remedy, power or 
+privilege with respect to any other occurrence. No waiver shall be 
+effective unless it is in writing and is signed by the party asserted to 
+have granted such waiver. Any amendment, supplement or modification to this 
+Agreement and any waiver of any term hereof effected in accordance with 
+this Section 6.3 shall be binding on each party hereto and all of such 
+partys successors and permitted assigns, whether or not such party, 
+successor or permitted assign entered into or approved such amendment, 
+supplement or modification.
+
+6.4    Further Assurances. Each party hereto shall sign such further 
+documents and do and perform and cause to be done such further acts and 
+things as any other party hereto may reasonably request to the extent 
+necessary to carry out the intent and accomplish the purposes of this 
+Agreement.
+
+6.5    Assignment. This Agreement will inure to the benefit of and be 
+binding on the parties hereto and their respective successors and permitted 
+assigns. This Agreement may not be assigned, except by any HNA Party to any 
+HNA Permitted Transferee that has executed a joinder agreement 
+substantially in the form attached as Exhibit B to this Agreement, without 
+the express prior written consent of the other parties hereto, and any 
+attempted assignment, without such consent, will be null and void.
+
+6.6    Third Parties. This Agreement does not create any rights, claims or 
+benefits inuring to any person that is not a party hereto nor create or 
+establish any third party beneficiary hereto.
+
+6.7    Governing Law. This Agreement shall be governed by and construed in 
+accordance with the Laws of the State of Delaware, without regard to 
+principles of conflicts of Laws thereof.
+
+6.8    Jurisdiction; Waiver of Jury Trial. In any judicial proceeding 
+involving any dispute, controversy or claim between the parties hereto 
+arising out of or relating to this Agreement, each of the parties hereto, 
+by execution and delivery of this Agreement, unconditionally accepts and 
+consents to the exclusive jurisdiction and venue of the Delaware Court of 
+Chancery and any state appellate court to which orders and judgments 
+thereof may be appealed within the State of Delaware (or, if the Delaware 
+Court of Chancery declines to accept jurisdiction over a particular matter, 
+any state or federal court within the State of Delaware), including but not 
+limited to the in personam and subject matter jurisdiction of those courts, 
+or if
+ 
+27
+
+------------------------------------------------------------------------
+jurisdiction over the matter is vested exclusively in federal courts, the 
+United States District Court for the District of Delaware, and the 
+appellate courts to which orders and judgments thereof may be appealed, 
+waives any objections to such jurisdiction on the grounds of venue or 
+forum non conveniens, the absence of in personam or subject matter 
+jurisdiction and any similar grounds or any other manner permitted by Law, 
+and irrevocably agrees to be bound by any judgment rendered thereby in 
+connection with this Agreement. In any such judicial proceeding, the 
+parties agree that in addition to any method for the service of process 
+permitted or required by such courts, to the fullest extent permitted by 
+Law, service of process may be made by delivery provided pursuant to the 
+directions in Section 6.2. EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST 
+EXTENT PERMITTED BY APPLICABLE LAW TRIAL BY JURY IN ANY JUDICIAL PROCEEDING 
+INVOLVING ANY DISPUTE, CONTROVERSY OR CLAIM ARISING OUT OF OR RELATING TO 
+THIS AGREEMENT.
+
+6.9    Specific Performance. Each party hereto acknowledges and agrees that 
+in the event of any breach of this Agreement by any of them, the other 
+parties hereto would be irreparably harmed and could not be made whole by 
+monetary damages. Each party accordingly agrees to waive the defense in any 
+action for specific performance that a remedy at law would be adequate and 
+agrees that the parties, in addition to any other remedy to which they may 
+be entitled at law or in equity, shall be entitled to specific performance 
+of this Agreement without the posting of bond.
+
+6.10    Entire Agreement. This Agreement sets forth the entire 
+understanding of the parties hereto with respect to the subject matter 
+hereof. There are no agreements, representations, warranties, covenants or 
+understandings with respect to the subject matter hereof other than those 
+expressly set forth herein. This Agreement supersedes all other prior 
+agreements and understandings between the parties with respect to such 
+subject matter.
+
+6.11    Severability. If any provision of this Agreement, or the 
+application of such provision to any Person or circumstance or in any 
+jurisdiction, shall be held to be invalid or unenforceable to any extent, 
+(i) the remainder of this Agreement shall not be affected thereby, and each 
+other provision hereof shall be valid and enforceable to the fullest extent 
+permitted by Law, (ii) as to such Person or circumstance or in such 
+jurisdiction such provision shall be reformed to be valid and enforceable 
+to the fullest extent permitted by Law and (iii) the application of such 
+provision to other Persons or circumstances or in other jurisdictions shall 
+not be affected thereby.
+
+6.12    Table of Contents, Headings and Captions. The table of contents, 
+headings, subheadings and captions contained in this Agreement are included 
+for convenience of reference only, and in no way define, limit or describe 
+the scope of this Agreement or the intent of any provision hereof.
+
+6.13    Counterparts. This Agreement and any amendment hereto may be signed 
+in any number of separate counterparts, each of which shall be deemed an 
+original, but all of which taken together shall constitute one Agreement 
+(or amendment, as applicable).
+ 
+28
+
+------------------------------------------------------------------------
+6.14    Effectiveness of this Agreement. This Agreement shall become 
+automatically effective upon the Effective Date, without the requirement of 
+any further action by any Person, and until the Effective Date (if any), 
+this Agreement shall be of no force or effect and shall create no rights or 
+obligations on the part of any party hereto.
+
+[Remainder Of Page Intentionally Left Blank]
+ 
+29
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the 
+day and year first above written.
+ 
+ PARK HOTELS & RESORTS INC.
+ By:
+  	
+ /s/ Sean DellOrto
+ Name:
+  	
+ Sean DellOrto
+ Title:
+  	
+ Senior Vice President and Treasurer
+ HNA TOURISM GROUP CO., LTD.
+ By:
+  	
+ /s/ Ling Zhang
+ Name:
+  	
+ Ling Zhang
+ Title:
+  	
+ Chairman of the Board
+ HNA GROUP CO., LTD.
+ (solely for purposes of Section 4.3)
+ By:
+  	
+ /s/ Xiangdong Tan
+ Name:
+  	
+ Xiangdong Tan
+ Title:
+  	
+ Vice Chairman & Chief Executive Officer
+
+[Signature Page to Stockholders Agreement]
+
+------------------------------------------------------------------------
+EXHIBIT A
+
+FORM OF DIRECTOR CONFIDENTIALITY AGREEMENT
+
+------------------------------------------------------------------------
+EXHIBIT B
+
+FORM OF JOINDER AGREEMENT
+
+This Joinder Agreement (this Joinder Agreement) is made as of the date 
+written below by the undersigned (the Joining Party) in accordance with 
+the Stockholders Agreement, dated as of October 24, 2016 (the 
+Stockholders Agreement), by and among Park Hotels & Resorts Inc., HNA 
+Tourism Group Co., Ltd. and, solely for purposes of Section 4.3 thereof, 
+HNA Group Co., Ltd. Capitalized terms used, but not defined, herein shall 
+have the meaning ascribed to such terms in the Stockholders Agreement.
+
+WHEREAS, on the date hereof, the Joining Party is acquiring shares of 
+Common Stock from [] (the Transferred Shares); and
+
+WHEREAS, the Stockholders Agreement requires the Joining Party, as a 
+condition to becoming a holder of the Transferred Shares, to agree in 
+writing to be bound by the terms of the Stockholders Agreement, and the 
+Joining Party agrees to do so in accordance with the terms hereof.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein 
+and other good and valuable consideration, the receipt and sufficiency of 
+which are hereby acknowledged, the parties to this Joinder Agreement hereby 
+agree as follows:
+
+1.    Agreement to be Bound. The Joining Party hereby acknowledges, agrees 
+and confirms that, by its execution of this Joinder Agreement, the Joining 
+Party shall be deemed to be a party to the Stockholders Agreement and an 
+HNA Party as if it had executed the Stockholders Agreement as of the date 
+hereof. The Joining Party hereby ratifies, and agrees to be bound by, all 
+of the terms, provisions and conditions contained in the Stockholders 
+Agreement, in each case as of the date hereof. The Joining Party hereby 
+represents and warrants to the Company that, as of the date hereof, it is 
+an HNA Permitted Transferee.
+
+2.    Notice. For purposes of Section 6.2 of the Stockholders Agreement, 
+the Joining Partys address is:
+
+[]
+
+[]
+
+[]
+
+Attention:     []
+
+Fax:              []
+
+with a copy (not constituting notice) to:
+
+[]
+
+[]
+
+[]
+
+Attention:     []
+
+Fax:              []
+
+------------------------------------------------------------------------
+3.    Headings and Captions. The headings and captions contained in this 
+Joinder Agreement are included for convenience of reference only, and in no 
+way define, limit or describe the scope of this Joinder Agreement or the 
+intent of any provision hereof.
+
+4.    Counterparts. This Joinder Agreement may be signed in any number of 
+separate counterparts, each of which shall be deemed an original, but all 
+of which taken together shall constitute one Joinder Agreement (or 
+amendment, as applicable).
+
+5.    Governing Law. This Joinder Agreement shall be governed by and 
+construed in accordance with the Laws of the State of Delaware, without 
+regard to principles of conflicts of Laws thereof.
+
+[Remainder Of Page Intentionally Left Blank]
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the undersigned has executed this Joinder Agreement as 
+of the date written below.
+
+Date: []
+ 
+ [NAME OF JOINING PARTY]
+ By:
+  	
+         
+ Name:
+  	
+ []
+ Title:
+  	
+ []
+ 
+ ACCEPTED AND AGREED:
+ PARK HOTELS & RESORTS INC.
+ By:
+  	
+         
+ Name:
+  	
+ []
+ Title:
+  	
+ []
+
+------------------------------------------------------------------------
+EXHIBIT C
+
+RESTRICTED ENTITIES
+ 
+  	 	  	Felcor Lodging Trust Incorporated
+ 
+  	 	  	Host Hotels & Resorts, Inc.
+ 
+  	 	  	Sunstone Hotel Investors, L.L.C.
+ 
+  	 	  	Xenia Hotels & Resorts, Inc.
+ 
+  	 	  	LaSalle Hotel Properties
+ 
+  	 	  	Diamondrock Hospitality Company
+ 
+  	 	  	Ryman Hospitality Properties, Inc.
+ 
+  	 	  	Pebblebrook Hotel Trust
+ 
+  	 	  	Chesapeake Lodging Trust
+ 
+  	 	  	Ashford Hospitality Prime, Inc. and Ashford Hospitality Trust Inc.
+
+------------------------------------------------------------------------
+EXHIBIT D
+
+AMENDMENTS TO CERTIFICATE OF INCORPORATION
+
+------------------------------------------------------------------------
+EXHIBIT E
+
+ISSUER AGREEMENT

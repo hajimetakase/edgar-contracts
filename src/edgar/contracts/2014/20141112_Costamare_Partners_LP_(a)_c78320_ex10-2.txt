@@ -1,0 +1,3863 @@
+ EX-10.2 7 c78320_ex10-2.htm
+Exhibit 10.2
+ 
+EXECUTION VERSION
+ 
+ 
+ 
+OMNIBUS AGREEMENT
+ 
+AMONG
+ 
+COSTAMARE INC.
+ 
+COSTAMARE VENTURES INC.
+ 
+COSTAMARE PARTNERS LP
+ 
+COSTAMARE PARTNERS GP LLC
+ 
+COSTAMARE PARTNERS HOLDINGS LLC
+ 
+SPARROW HOLDINGS, L.P.
+ 
+BLUEBIRD HOLDINGS, L.P.
+ 
+AND
+ 
+YORK CAPITAL MANAGEMENT GLOBAL ADVISORS LLC
+ 
+ 
+ 
+
+TABLE OF CONTENTS
+ 
+Section 1.1. 	Definitions 	  	4
+  	  	  	 
+ARTICLE II
+FIVE-YEAR VESSEL RESTRICTED BUSINESS OPPORTUNITIES
+ 
+Section 2.1. 	Five-Year Vessel Restricted Businesses 	  	11
+Section 2.2. 	Permitted Exceptions 	  	11
+Section 2.3. 	Permitted Transactions 	  	12
+  	  	  	 
+ARTICLE III
+NON-FIVE-YEAR VESSEL RESTRICTED BUSINESS OPPORTUNITIES
+ 
+Section 3.1. 	Non-Five-Year Vessel Restricted Businesses 	  	12
+Section 3.2. 	Permitted Exceptions 	  	12
+  	  	  	 
+ARTICLE IV
+BUSINESS OPPORTUNITIES PROCEDURES
+ 
+Section 4.1. 	Procedures for Existing Non-Compete Vessels 	  	13
+Section 4.2. 	Procedures for New Non-Compete Vessels 	  	15
+Section 4.3. 	Scope of Prohibition 	  	17
+Section 4.4. 	Enforcement; Consents 	  	17
+  	  	  	 
+ARTICLE V
+RIGHTS OF FIRST OFFER
+ 
+Section 5.1. 	Rights of First Offer 	  	18
+Section 5.2. 	Procedures for Rights of First Offer 	  	18
+  	  	  	 
+ARTICLE VI
+EXISTING VESSEL INTERESTS PURCHASE OPTION
+ 
+Section 6.1. 	Option to Purchase the Valence Interests 	  	18
+Section 6.2. 	Procedures 	  	19
+  	  	  	 
+ARTICLE VII
+NEW BUILD INTERESTS PURCHASE OPTION
+ 
+Section 7.1. 	Option to Purchase the New Build Interests 	  	20
+Section 7.2. 	Procedures 	  	20
+  	  	  	 
+ARTICLE VIII
+INDEMNIFICATION
+ 
+Section 8.1. 	CMRE Indemnification 	  	21
+Section 8.2. 	Limitation Regarding Indemnification 	  	22
+Section 8.3. 	Indemnification Procedures 	  	22
+  	  	  	 
+ARTICLE IX
+MISCELLANEOUS
+ 
+Section 9.1. 	Choice of Law; Submission To Jurisdiction 	  	23
+Section 9.2. 	Notice 	  	23
+Section 9.3. 	Entire Agreement 	  	23
+Section 9.4. 	Termination 	  	23
+
+i
+
+
+Section 9.5. 	Waiver; Effect of Waiver or Consent 	  	23
+Section 9.6. 	Amendment or Modification 	  	23
+Section 9.7. 	Assignment 	  	23
+Section 9.8. 	Counterparts 	  	24
+Section 9.9. 	Severability 	  	24
+Section 9.10. 	Gender, Parts, Articles and Sections 	  	24
+Section 9.11. 	Further Assurances 	  	24
+Section 9.12. 	Withholding or Granting of Consent 	  	24
+Section 9.13. 	Laws and Regulations 	  	24
+Section 9.14. 	Negotiation of Rights of CMRE, Limited Partners, Assignees 
+and Third Parties 	  	24
+Section 9.15. 	Conflict with Framework Agreement 	  	24
+Section 9.16. 	Conflicts Committee Determinations 	  	24
+Section 9.17. 	Restrictive Covenant Agreement 	  	24
+Section 9.18. 	Delegation of Management of MLP 	  	24
+Section 9.19. 	Effectiveness 	  	25
+Section 9.20. 	Transfer Restrictions 	  	25
+Section 9.21. 	York Capital Covenant 	  	25
+ 
+SCHEDULES
+ 
+Schedule I
+ 
+ANNEXES
+ 
+Annex A – Form Purchase and Sale Agreement
+
+ii
+
+
+OMNIBUS AGREEMENT
+ 
+THIS OMNIBUS AGREEMENT has been executed and delivered on October 1, 2014, 
+and will automatically become effective concurrent with and as of the 
+Closing Date (as defined herein), among COSTAMARE VENTURES INC., a Marshall 
+Islands corporation and a wholly-owned subsidiary of CMRE (as defined 
+herein), COSTAMARE INC., a Marshall Islands corporation (“CMRE”), COSTAMARE 
+PARTNERS LP, a Marshall Islands limited partnership (the “MLP”), COSTAMARE 
+PARTNERS GP LLC, a Marshall Islands limited liability company (including 
+any permitted successors and assigns under the MLP Agreement (as defined 
+herein)) (the “General Partner”), COSTAMARE PARTNERS HOLDINGS LLC, a 
+Marshall Islands limited liability corporation, SPARROW HOLDINGS, L.P., a 
+Cayman Islands exempted limited partnership (“Sparrow”), BLUEBIRD HOLDINGS, 
+L.P., a Cayman Islands exempted limited partnership (“Bluebird” and, 
+together with Sparrow, “York”), and YORK CAPITAL MANAGEMENT GLOBAL ADVISORS 
+LLC, a limited liability company incorporated under the laws of the State 
+of New York (“York Capital”), on behalf of itself and the York Funds (as 
+defined below).
+ 
+RECITALS:
+ 
+1. The Parties desire by their execution of this Agreement to evidence 
+their understanding, as more fully set forth in Articles II and IV, with 
+respect to (a) those business opportunities that the CMRE Entities (as 
+defined herein) and York will not pursue during the term of this Agreement 
+and (b) the procedures whereby such business opportunities are to be 
+offered to the Partnership Group (as defined herein) and accepted or 
+declined.
+ 
+2. Costamare Ventures Inc., CMRE, Sparrow and York Capital (as defined 
+below) are parties to a Framework Agreement (as defined herein), pursuant 
+to which certain jointly owned companies (“JV Entities”) may acquire 
+containership vessels (“JV Vessels”).
+ 
+3. The Parties desire by their execution of this Agreement to evidence 
+their understanding, as more fully set forth in Articles III and IV, with 
+respect to (a) those business opportunities that the Partnership Group (as 
+defined herein) will not pursue during the term of this Agreement and (b) 
+the procedures whereby such business opportunities are to be offered to 
+CMRE and accepted or declined (and, if accepted, may, pursuant to the 
+Framework Agreement, be acquired by a JV Entity).
+ 
+4. The Parties desire by their execution of this Agreement to evidence 
+their understanding, as more fully set forth in Article V, with respect to 
+the MLP’s right of first offer relating to Five-Year Vessel Interests that 
+CMRE might own, including any JV Vessel Interests (as defined herein) that 
+CMRE, York or a JV Entity might own, to the extent that they constitute 
+Five-Year-Vessel Interests.
+ 
+5. The Parties desire by their execution of this Agreement to evidence 
+their understanding, as more fully set forth in Articles VI and VII, with 
+respect to the rights of the MLP to purchase the Valence Interests or the 
+Substitute Vessel Interests (each as defined herein) from CMRE and the 
+agreement by CMRE and York to offer the General Partner the right to 
+purchase the Hull NCP0113 Interests, Hull NCP0114 Interests, Hull NCP0115 
+Interests, Hull NCP0116 Interests, Hull S2121 Interests, Hull S2122 
+Interests, Hull S2123 Interests, Hull S2124 Interests and Hull S2125 
+Interests (in each case, as defined herein).
+ 
+6. The Parties desire by their execution of this Agreement to evidence 
+their understanding, as more fully set forth in Article VIII and, with 
+respect to any vessels acquired by the MLP pursuant to Article IV, Article 
+VI or Article VII, as more fully set forth in Annex A, with respect to 
+certain indemnification obligations of CMRE.
+ 
+In consideration of the premises and the covenants, conditions, and 
+agreements contained herein, and for other good and valuable consideration, 
+the receipt and sufficiency of which are hereby acknowledged, the parties 
+hereto hereby agree as follows:
+ 
+
+DEFINITIONS
+ 
+Section 1.1. Definitions. As used in this Agreement, the following terms 
+shall have the respective meanings set forth below:
+ 
+“Acquiring Party” has the meaning given such term in Section 4.1.
+ 
+“Affiliate” means, with respect to any Person, any other Person that 
+directly or indirectly through one or more intermediaries controls, is 
+controlled by or is under common control with, the Person in question. As 
+used herein, the term “control” means the possession, direct or indirect, 
+of the power to direct or cause the direction of the management and 
+policies of a Person, whether through ownership of voting securities, by 
+contract or otherwise.
+ 
+“Agreement” means this Omnibus Agreement, as it may be amended, modified, 
+or supplemented from time to time in accordance with Section 10.6 hereof.
+ 
+“Break-up Costs” means the aggregate amount of any and all additional 
+taxes, flag administration, financing, legal and other similar costs 
+(except with respect to Section 2.2(b) where Break-up Costs shall be deemed 
+to include only administrative costs associated with transfer and 
+re-flagging, including related legal costs) to (a) the CMRE Entities and, 
+with respect to a JV Vessel, a York Entity, or a JV Entity, as applicable, 
+that would be required to transfer Five-Year Vessels acquired by the CMRE 
+Entities and, with respect to JV Vessels, JV Entities, as applicable, as 
+part of a larger transaction to a Partnership Group Member pursuant to 
+Sections 2.2(b) or 2.2(d)(i), or (b) the Partnership Group that would be 
+required to transfer Non-Five-Year Vessels acquired by the Partnership 
+Group as part of a larger transaction to a CMRE Entity pursuant to Section 
+3.2(b)(i).
+ 
+“business day” means a day (other than a Saturday or a Sunday) on which 
+banks are open for commercial business in New York, United States and 
+London, England.
+ 
+“Change of Control” means, with respect to any Person (the “Applicable 
+Person”), any of the following events: (a) any sale, lease, exchange or 
+other transfer (in one transaction or a series of related transactions) of 
+all or substantially all of the Applicable Person’s assets to any other 
+Person, unless immediately following such sale, lease, exchange or other 
+transfer such assets are owned, directly or indirectly, by the Applicable 
+Person; (b) the consolidation or merger of the Applicable Person with or 
+into another Person pursuant to a transaction in which the outstanding 
+Voting Securities of the Applicable Person are changed into or exchanged 
+for cash, securities or other property, other than any such transaction 
+where (i) the outstanding Voting Securities of the Applicable Person are 
+changed into or exchanged for Voting Securities of the surviving Person or 
+its parent and (ii) the holders of the Voting Securities of the Applicable 
+Person immediately prior to such transaction own, directly or indirectly, 
+not less than a majority of the outstanding Voting Securities of the 
+surviving Person or its parent immediately after such transaction; and (c) 
+a “person” or “group” (within the meaning of Sections 13(d) or 14(d)(2) of 
+the Exchange Act or any successor provision), other than CMRE, York or 
+their Affiliates with respect to the General Partner or the MLP or a 
+Permitted Holder with respect to CMRE, being or becoming the “beneficial 
+owner” (as defined in Rules 13d-3 and 13d-5 under the Exchange Act) of more 
+than 50% of all of the then outstanding Voting Securities of the Applicable 
+Person, except in a merger or consolidation which would not constitute a 
+Change of Control under clause (b) above.
+ 
+“Closing Date” means the date of the closing of the initial public offering 
+of common units representing limited partner interests and the issue of the 
+incentive distribution rights in the MLP.
+ 
+“CMRE” is defined in the introduction to this Agreement.
+ 
+“CMRE Entities” means CMRE and any Person controlled, directly or 
+indirectly, by CMRE, other than the Partnership Entities.
+ 
+“Conflicts Committee” means the Conflicts Committee of the board of 
+directors of the General Partner.
+ 
+“Contribution Assets” has the meaning given such term in Section 8.1.
+
+4
+
+
+“Covered Environmental Losses” means all Losses suffered or incurred by the 
+Partnership Group by reason of, arising out of or resulting from:
+ 
+           (a) any violation or correction of violation of Environmental
+           Laws by a CMRE Entity; or
+            
+           (b) any event or condition relating to environmental or human
+           health and safety matters, in each case, associated with the
+           ownership or operation by the Partnership Group or the CMRE
+           Entities of the Contribution Assets (including, without
+           limitation, the presence of Hazardous Substances on, under,
+           about or migrating to or from the Contribution Assets or the
+           disposal or release of, or exposure to, Hazardous Substances
+           generated by or otherwise related to operation of the
+           Contribution Assets), including, without limitation, the
+           reasonable and documented cost and expense of (i) any
+           investigation, assessment, evaluation, monitoring, containment,
+           cleanup, repair, restoration, remediation or other corrective
+           action required or necessary under Environmental Laws, (ii) the
+           preparation and implementation of any closure, remedial,
+           corrective action or other plans required or necessary under
+           Environmental Laws and (iii) any environmental or toxic tort
+           (including, without limitation, personal injury or property
+           damage claims) pre-trial, trial or appellate legal or litigation
+           support work;
+            
+but only to the extent that such violation complained of under clause (a), 
+or such events or conditions included in clause (b), occurred before the 
+Closing Date; and, provided, that in no event shall Losses to the extent 
+arising from a change in any Environmental Law after the Closing Date be 
+deemed “Covered Environmental Losses.”
+ 
+“Election Notice” has the meaning given such term in Section 4.1(b).
+ 
+“Election Period” has the meaning given such term in Section 4.1(b)(i).
+ 
+“Environmental Laws” means all international, federal, state, foreign and 
+local laws, statutes, rules, regulations, treaties, conventions, orders, 
+judgments and ordinances having the force and effect of law and relating to 
+protection of natural resources, health and safety and the environment, 
+each in effect and as amended through the Closing Date.
+ 
+“Evergreen” means the Evergreen Group and its members, which are the 
+charterers of the Valence, each Substitute Vessel, Hull S2121, Hull S2122, 
+Hull S2123, Hull S2124 and Hull S2125.
+ 
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+ 
+“Existing Non-Compete Notice Period” has the meaning given such term in 
+Section 4.1.
+ 
+“Existing Non-Compete Vessel” has the meaning given such term in Section 
+4.1.
+ 
+“Existing Non-Compete Vessel Interests” means all of CMRE’s and, with 
+respect to any JV Vessel, CMRE’s and York’s respective rights, title and 
+interests in the Existing Non-Compete Vessel, including the shares of 
+capital stock, limited liability company interests, limited partnership 
+interests or joint venture interests in any entity owning such Existing 
+Non-Compete Vessel and any leasehold interests to the extent that such 
+Existing Non-Compete Vessel is subject to a financing lease, or any other 
+interests in any of the CMRE Entities or, with respect to any JV Vessel 
+that is an Existing Non-Compete Vessel, any of the JV Entities or York 
+Entities holding JV Vessel Interests, and including any charters or other 
+agreements relating to the operation of such Existing Non-Compete Vessel 
+then in effect.
+ 
+“Existing Option Exercise Notice” has the meaning given such term in 
+Section 6.2(a).
+ 
+“Existing Option Exercise Period” has the meaning given such term in 
+Section 6.2(a).
+ 
+“First Offer Negotiation Period” has the meaning given such term in 
+Section 5.2(c).
+
+5
+
+
+“Five-Year Vessel” means any containership vessel, which at the time of 
+determination, is less than seven years-old with a cargo capacity greater 
+than 8,000 TEU and under a charter for five full years or more, which for 
+charters that are existing at the time of such determination shall mean 
+charters with a remaining term of five full years or more, together with 
+the related charter (including, to the extent such a containership vessel 
+is subject to a financing lease, the interests in the charter or other 
+agreements relating to such containership vessel).
+ 
+“Five-Year Vessel Interests” means all of the rights, title and interests 
+of CMRE, a York Entity or a JV Entity, as applicable, in the relevant 
+Five-Year Vessel, including the shares of capital stock, limited liability 
+company interests, limited partnership interests or joint venture interests 
+in any entity owning such Five-Year Vessel and any leasehold or bareboat 
+charter interests to the extent that such Five-Year Vessel is subject to a 
+financing lease, or any other interests in such Five-Year Vessel and 
+including any charters or other agreements relating to the operation of 
+such Five-Year Vessel then in effect.
+ 
+“Framework Agreement” means the Framework Deed between CMRE and its 
+wholly-owned subsidiary, Costamare Ventures Inc., on the one hand, and York 
+Capital and its affiliated fund, Sparrow Holdings L.P., on the other, 
+pursuant to which CMRE and York Capital agreed to invest in JV Vessels 
+through JV Entities, as the same may be amended from time to time, 
+including pursuant to an amendment deed effective as of the Closing Date 
+between the parties to the Framework Agreement.
+ 
+“General Partner” is defined in the introduction to this Agreement.
+ 
+“Hanjin Subic Bay” means HHIC-Phil Inc., which is building the Hull 
+NCP0113, Hull NCP0114, Hull NCP0115 and Hull NCP0116.
+ 
+“Hull NCP0113” means the containership vessel currently designated NCP0113 
+being built by Hanjin Subic Bay pursuant to a related shipbuilding contract 
+between Kemp Maritime Co., as buyer, and Hanjin Subic Bay, as builder, 
+dated July 31, 2013, as the same may be amended, restated or novated from 
+time to time.
+ 
+“Hull NCP0113 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull NCP0113, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull NCP0113 is subject to a financing lease, or any other interests in 
+Hull NCP0113 and including any charters or other agreements relating to the 
+operation of Hull NCP0113 then in effect.
+ 
+“Hull NCP0114” means the containership vessel currently designated NCP0114 
+being built by Hanjin Subic Bay pursuant to a related shipbuilding contract 
+between Hyde Maritime Co., as buyer, and Hanjin Subic Bay, as builder, 
+dated July 31, 2013, as the same may be amended, restated or novated from 
+time to time.
+ 
+“Hull NCP0114 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull NCP0114, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull NCP0114 is subject to a financing lease, or any other interests in 
+Hull NCP0114 and including any charters or other agreements relating to the 
+operation of Hull NCP0114 then in effect.
+ 
+“Hull NCP0115” means the containership vessel currently designated NCP0115 
+being built by Hanjin Subic Bay pursuant to a related shipbuilding contract 
+between Ainsley Maritime Co., as buyer, and Hanjin Subic Bay, as builder, 
+dated December 6, 2013, as the same may be amended, restated or novated 
+from time to time.
+ 
+“Hull NCP0115 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull NCP0115, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull NCP0115 is subject to a financing lease, or any other interests in 
+Hull NCP0115 and including any charters or other agreements relating to the 
+operation of Hull NCP0115 then in effect.
+
+6
+
+
+“Hull NCP0116” means the containership vessel currently designated NCP0116 
+being built by Hanjin Subic Bay pursuant to a related shipbuilding contract 
+between Ambrose Maritime Co., as buyer, and Hanjin Subic Bay, as builder, 
+dated December 6, 2013, as the same may be amended, restated or novated 
+from time to time.
+ 
+“Hull NCP0116 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull NCP0116, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull NCP0116 is subject to a financing lease, or any other interests in 
+Hull NCP0116 and including any charters or other agreements relating to the 
+operation of Hull NCP0116 then in effect.
+ 
+“Hull S2121” means the containership vessel currently designated S2121 
+being built by Samsung pursuant to a related shipbuilding contract between 
+Benedict Maritime Co., as buyer, and Samsung, as builder, dated January 7, 
+2014, as the same may be amended, restated or novated from time to time.
+ 
+“Hull S2121 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull S2121, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull S2121 is subject to a financing lease, or any other interests in Hull 
+S2121 and including any charters or other agreements relating to the 
+operation of Hull S2121 then in effect.
+ 
+“Hull S2122” means the containership vessel currently designated S2122 
+being built by Samsung pursuant to a related shipbuilding contract between 
+Bertrand Maritime Co., as buyer, and Samsung, as builder, dated January 7, 
+2014, as the same may be amended, restated or novated from time to time.
+ 
+“Hull S2122 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull S2122, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull S2122 is subject to a financing lease, or any other interests in Hull 
+S2122 and including any charters or other agreements relating to the 
+operation of Hull S2122 then in effect.
+ 
+“Hull S2123” means the containership vessel currently designated S2123 
+being built by Samsung pursuant to a related shipbuilding contract between 
+Beardmore Maritime Co., as buyer, and Samsung, as builder, dated January 7, 
+2014, as the same may be amended, restated or novated from time to time.
+ 
+“Hull S2123 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull S2123, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull S2123 is subject to a financing lease, or any other interests in Hull 
+S2123 and including any charters or other agreements relating to the 
+operation of Hull S2123 then in effect.
+ 
+“Hull S2124” means the containership vessel currently designated S2124 
+being built by Samsung pursuant to a related shipbuilding contract between 
+Schofield Maritime Co., as buyer, and Samsung, as builder, dated January 7, 
+2014, as the same may be amended, restated or novated from time to time.
+ 
+“Hull S2124 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull S2124, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull S2124 is subject to a financing lease, or any other interests in Hull 
+S2124 and including any charters or other agreements relating to the 
+operation of Hull S2124 then in effect.
+ 
+“Hull S2125” means the containership vessel currently designated S2125 
+being built by Samsung pursuant to a related shipbuilding contract between 
+Fairbank Maritime Co., as buyer, and Samsung, as builder, dated January 7, 
+2014, as the same may be amended, restated or novated from time to time.
+ 
+“Hull S2125 Interests” means all of the rights, title and interests of 
+CMRE, York or a JV Entity, as applicable, in Hull S2125, including the 
+shares of capital stock, limited liability company interests, limited
+
+7
+
+
+partnership interests or joint venture interests in any entity owning such 
+vessel and any leasehold or bareboat charter interests to the extent that 
+Hull S2125 is subject to a financing lease, or any other interests in Hull 
+S2125 and including any charters or other agreements relating to the 
+operation of Hull S2125 then in effect.
+ 
+“Hazardous Substances” means (a) each substance defined, designated or 
+classified as a hazardous waste, hazardous substance, hazardous material, 
+solid waste, contaminant or toxic substance under Environmental Laws; (b) 
+petroleum and petroleum products, including crude oil and any fractions 
+thereof; (c) natural gas, synthetic gas and any mixtures thereof; (d) any 
+radioactive material; and (e) any asbestos-containing materials in a 
+friable condition.
+ 
+“JV Entity” has the meaning given such term in the Recitals.
+ 
+“JV Vessel” is defined in the introduction to this Agreement, including, as 
+of the date of this Agreement, Hull NCP0113, Hull NCP0114, Hull NCP0115, 
+Hull NCP0116, Hull S2121, Hull S2122, Hull S2123, Hull S2124 and Hull 
+S2125.
+ 
+“JV Vessel Interests” means all of the rights, title and interests of CMRE, 
+York or a JV Entity, as applicable, in a JV Vessel, including the shares of 
+capital stock, limited liability company interests, limited partnership 
+interests or joint venture interests in any entity owning such JV Vessel 
+and any leasehold or bareboat charter interests to the extent that such JV 
+Vessel is subject to a financing lease, or any other interests in such JV 
+Vessel and including any charters or other agreements relating to the 
+operation of such JV Vessel then in effect, including, as of the date of 
+this Agreement.
+ 
+“Losses” means losses, damages, liabilities, claims, demands, causes of 
+action, judgments, settlements, fines, penalties, costs and expenses 
+(including, without limitation, court costs and reasonable attorneys’ and 
+experts’ fees) of any and every kind or character; provided, however, that 
+such term shall not include any special, indirect, incidental, exemplary, 
+punitive or consequential damages.
+ 
+“Management” means the executive officers of the General Partner.
+ 
+“MLP” is defined in the introduction to this Agreement.
+ 
+“MLP Agreement” means the First Amended and Restated Agreement of Limited 
+Partnership of the MLP, dated as of the Closing Date, to which reference is 
+hereby made for all purposes of this Agreement. No amendment or 
+modification to the MLP Agreement subsequent to the Closing Date shall be 
+given effect for purposes of this Agreement unless consented to by each of 
+the Parties to this Agreement.
+ 
+“New Build Interest Option Period” has the meaning given such term in 
+Section 7.1(a).
+ 
+“New Build Option Exercise Notice” has the meaning given such term in 
+Section 7.2(b).
+ 
+“New Build Option Exercise Period” has the meaning given such term in 
+Section 7.2(b).
+ 
+“New Non-Compete Vessel” has the meaning given such term in Section 4.2.
+ 
+“New Non-Compete Vessel Interests” means all of the rights, title and 
+interests of CMRE in a New Non-Compete Vessel and, with respect to a New 
+Non-Compete Vessel which is a JV Vessel, CMRE, York or a JV Entity, as 
+applicable, including the shares of capital stock, limited liability 
+company interests, limited partnership interests or joint venture interests 
+in any entity owning such New Non-Compete Vessel and any leasehold or 
+bareboat charter interests to the extent that such New Non-Compete Vessel 
+is subject to a financing lease, or any other interests in such New 
+Non-Compete Vessel and including any charters or other agreements relating 
+to the operation of such New Non-Compete Vessel then in effect.
+ 
+“Non-Compete Commencement Date” means the earliest date on which the 
+options provided for under Article VII are no longer exercisable, either as 
+a result of (x) the expiration of the last of the New Build Interest Option 
+Periods as provided under Article VII or (y) the Partnership Entities 
+having made elections with respect to each of the Hull NCP0113 Interests, 
+Hull NCP0114 Interests, Hull NCP0115 Interests, Hull NCP0116 Interests, 
+Hull S2121 Interests, Hull S2122 Interests, Hull S2123 Interests, Hull 
+S2124 Interests and Hull S2125
+
+8
+
+
+Interests as to whether the Partnership Entities will exercise or not 
+exercise the option to purchase such interests under Article VII.
+ 
+“New Non-Compete Notice Period” has the meaning given such term in Section 
+4.2.
+ 
+“Non-Five-Year Vessel” means any containership vessel that is not a 
+Five-Year Vessel.
+ 
+“Non-Five-Year Vessel Interests” means all of the rights, title and 
+interests of a Partnership Group Member, CMRE, a York Entity or a JV 
+Entity, as applicable, in the relevant Non-Five-Year Vessel, including the 
+shares of capital stock, limited liability company interests, limited 
+partnership interests or joint venture interests in any entity owning such 
+Non-Five-Year Vessel and any leasehold or bareboat charter interests to the 
+extent that a Non-Five-Year Vessel is subject to a financing lease, or any 
+other interests in a Non-Five-Year Vessel and including any charters or 
+other agreements relating to the operation of a Non-Five-Year Vessel then 
+in effect.
+ 
+“Offer” has the meaning given such term in Section 4.2.
+ 
+“Offered Assets” has the meaning given such term in Section 4.2.
+ 
+“Offeree” has the meaning given such term in Section 4.2.
+ 
+“Offer Period” has the meaning given such term in Section 4.2(b)(i).
+ 
+“Parties” means the parties to this Agreement and their successors and 
+permitted assigns.
+ 
+“Partnership Entities” means the General Partner, the MLP and any Person 
+controlled by the General Partner or the MLP.
+ 
+“Partnership Group” means the MLP and any Person controlled by the MLP.
+ 
+“Partnership Group Member” means any Person in the Partnership Group.
+ 
+“Permitted Holder” means (i) Achillefs Konstantakopoulos, his descendants 
+and his Affiliates, (ii) Christos Konstantakopoulos, his descendants and 
+his Affiliates, (iii) Konstantinos Konstantakopoulos, his descendants and 
+his Affiliates and (iv) any group (within the meaning of Sections 13(d) or 
+14(d)(2) of the Exchange Act or any successor provision) of which any of 
+the foregoing are members.
+ 
+“Permitted Transaction” has the meaning given to such term in Section 2.3.
+ 
+“Person” means an individual, corporation, partnership, joint venture, 
+trust, limited liability company, unincorporated organization or any other 
+entity.
+ 
+“Potential Transferee” has the meaning given such term in Section 5.2(a).
+ 
+“Restrictive Covenant Agreement” means the Restrictive Covenant Agreement 
+between CMRE and Konstantinos Konstantakopoulos, dated November 3, 2010, as 
+amended from time to time, pursuant to which CMRE and Konstantinos 
+Konstantakopoulos agreed to limit the activities of Konstantinos 
+Konstantakopoulos, because of his capacity as a director and officer of 
+CMRE, to prohibit certain activities that may compete with the business of 
+CMRE.
+ 
+“Sale Assets” has the meaning given such term in Section 5.2(a).
+ 
+“Samsung” means Samsung Heavy Industries Co., Ltd., which is building the 
+Hull S2121, Hull S2122, Hull S2123, Hull S2124 and Hull S2125.
+ 
+“Shipbroker” means Arrow Research Ltd. of London, England, Braemar Seascope 
+of London, England, Maersk Brokers of London, England and Howe Robinson of 
+London, England.
+
+9
+
+
+“Substitute Vessel” means any one of the Valor (currently registered under 
+Quentin Shipping Co. as the owner and with IMO No. 9628154), the Valiant 
+(currently registered under Sander Shipping Co. as the owner and with IMO 
+No. 9628178), or the Vantage (currently registered under Undine Shipping 
+Co. as the owner and with IMO No. 9628192), which were delivered in 2013; 
+provided that such vessels are chartered to the same charterer, and subject 
+to the same charter rate (or no lower) and charter length (or no more than 
+three months shorter remaining duration) as those applicable to the 
+Valence.
+ 
+“Substitute Vessel Interests” means all of CMRE’s rights, title and 
+interests in any one particular Substitute Vessel, including the shares of 
+capital stock, limited liability company interests, limited partnership 
+interests or joint venture interests in any entity owning such Substitute 
+Vessel and any leasehold interests to the extent that such Substitute 
+Vessel is subject to a financing lease, or any other interests in any CMRE 
+Entity holding interests in such Substitute Vessel and including any 
+charters or other agreements relating to the operation of such Substitute 
+Vessel then in effect.
+ 
+“Transfer” means any transfer, assignment, sale or other disposition of any 
+Five-Year Vessel Interests by a CMRE Entity and, with respect to any JV 
+Vessel Interests, a York Entity or a JV Entity, as applicable; provided, 
+however, that such term shall not include: (a) transfers, assignments, 
+sales or other dispositions from a CMRE Entity to another CMRE Entity, from 
+a Partnership Group Member to another Partnership Group Member, from a York 
+Entity to another York Entity (subject to Section 9.20), from a York Entity 
+to a CMRE Entity, or from a CMRE Entity to a York Entity; (b) transfers, 
+assignments, sales or other dispositions pursuant to the terms of any 
+related charter or other agreement with a charter party or pursuant to a 
+financing lease; (c) transfers, assignments, sales or other dispositions 
+pursuant to Articles II or III of this Agreement; or (d) grants of security 
+interests in or mortgages or liens on such Five-Year Vessel Interests in 
+favor of a bona fide third party lender (but not the foreclosing of any 
+such security interest, mortgage or lien).
+ 
+“Transfer Notice” has the meaning given such term in Section 5.2(a).
+ 
+“Transferring Party” has the meaning given such term in Section 5.2(a).
+ 
+“Valence” means the containership vessel named the Valence currently 
+registered under Terance Shipping Co. as the owner and with IMO No. 
+9628180.
+ 
+“Valence Interests” means all of CMRE’s rights, title and interests in the 
+Valence, including the shares of capital stock, limited liability company 
+interests, limited partnership interests or joint venture interests in any 
+entity owning the Valence and any leasehold interests to the extent that 
+the Valence is subject to a financing lease, or any other interests in any 
+CMRE Entity holding interests in the Valence and including any charters or 
+other agreements relating to the operation of the Valence then in effect.
+ 
+“Voting Securities” means securities of any class of a Person entitling the 
+holders thereof to vote in the election of members of the board of 
+directors or other similar governing body of such Person.
+ 
+“York Capital” is defined in the introduction to this Agreement.
+ 
+“York Entity” means any person included in the definition of “York”, any 
+York Fund or any of their respective Affiliates.
+ 
+“York Funds” means together the investment funds formed or to be formed in 
+the future for the purpose of holding JV Vessel Interests, which funds are 
+managed or advised by York Capital or one of its Affiliates and being 
+detailed in Schedule I, as amended from time to time.
+ 
+For the avoidance of doubt, references in this Agreement to the “fair 
+market value” of a vessel or interests in a vessel shall, where the context 
+so admits, include any charter or other agreements relating to the 
+applicable vessel or interest that are in effect at the time of such 
+valuation.
+
+10
+
+
+ARTICLE II
+ 
+FIVE-YEAR VESSEL RESTRICTED BUSINESS OPPORTUNITIES
+ 
+Section 2.1. Five-Year Vessel Restricted Businesses. Following the 
+Non-Compete Commencement Date, subject to Section 9.4 and except as 
+permitted by Section 2.2 or pursuant to Section 4.1(a), each of the CMRE 
+Entities and, during the Commitment Period (as such term is defined in the 
+Framework Agreement), the York Entities and any JV Entity shall be 
+prohibited from acquiring, owning, operating or chartering Five-Year 
+Vessels or acquiring or owning Five-Year Vessel Interests.
+ 
+Section 2.2. Permitted Exceptions. Notwithstanding any provision of 
+Section 2.1 to the contrary, the restrictions in this Agreement shall not 
+prevent any CMRE Entity, York Entity or any JV Entity, in each case, 
+subject to the terms of the Framework Agreement, from:
+ 
+(a) acquiring, owning, operating or chartering (i) any containership vessel 
+owned, operated or chartered in, or contracted for, by a CMRE Entity, York 
+Entity or JV Entity prior to the Non-Compete Commencement Date, subject, 
+however, to Section 4.1 and Article V or (ii) any Non-Five-Year Vessel;
+ 
+(b) acquiring one or more Five-Year Vessels if such CMRE Entity, or with 
+respect to a JV Vessel, such York Entity or JV Entity, as applicable, 
+offers to sell the applicable Five-Year Vessel Interests in question to the 
+Partnership Group in accordance with the procedures set forth in Section 
+4.2;
+ 
+(c) putting a Non-Five-Year Vessel under charter for five full years or 
+more if either (i) it does not result in the vessel becoming a Five-Year 
+Vessel or (ii) it results in the vessel becoming a Five-Year Vessel and 
+such CMRE Entity, or with respect to a JV Vessel, such York Entity or JV 
+Entity, as applicable, offers to sell the applicable Non-Five-Year Vessel 
+Interests in question to the Partnership Group, in accordance with the 
+procedures set forth in Section 4.2;
+ 
+(d) acquiring Five-Year Vessel Interests as part of the acquisition of a 
+controlling interest in a business or package of assets which includes 
+owning, operating or chartering the applicable Five-Year Vessel(s); 
+provided, however, that:
+ 
+       (i) if less than a majority of the value of the business or assets
+       acquired is attributable to Five-Year Vessel Interests, as
+       determined in good faith by CMRE’s or York’s (as applicable) board
+       of directors, the CMRE Entity or with respect to JV Vessel
+       Interests, the York Entity or the JV Entity, as applicable, must
+       offer to sell such Five-Year Vessel Interests to the Partnership
+       Group for their fair market value plus any Break-up Costs in
+       accordance with the procedures set forth in Section 4.2; and
+        
+       (ii) if a majority or more of the value of the business or assets
+       acquired is attributable to Five-Year Vessel Interests, as
+       determined in good faith by CMRE’s or York’s (as applicable) board
+       of directors, CMRE, or with respect to JV Vessel Interests, the York
+       Entity or the JV Entity, as applicable, shall notify the General
+       Partner of the proposed acquisition in writing. The General Partner
+       shall, not later than the 30th calendar day following receipt of
+       such notice, notify CMRE, the York Entity or the JV Entity, as
+       applicable, if it or any other Partnership Group Member wishes to
+       acquire such Five-Year Vessel Interests forming part of that
+       business or package of assets in cooperation and simultaneously with
+       the CMRE Entity, the York Entity or JV Entity acquiring the
+       Non-Five-Year Vessel Interests forming part of that business or
+       package of assets. If the General Partner does not notify CMRE, the
+       York Entity or the JV Entity of its intent to pursue the acquisition
+       within such 30 calendar days, the CMRE Entity, the York Entity or JV
+       Entity may proceed with the acquisition and then offer to sell such
+       Five-Year Vessel Interests to the Partnership Group as provided in 
+       subsection (i) above;
+        
+(e) acquiring up to a non-controlling equity ownership, voting or profit 
+participation interest in any company, business or pool of assets or 
+lending to or investing in the debt of any company, business or pool of 
+assets;
+
+11
+
+
+(f) acquiring, owning, operating or chartering any Five-Year Vessel if the 
+General Partner does not fulfill its obligation to purchase the applicable 
+Five-Year Vessel Interests in accordance with the terms of any existing or 
+future agreement;
+ 
+(g) acquiring, owning, operating or chartering any Five-Year Vessel that is 
+subject to an offer to purchase by a Partnership Group Member as described 
+in paragraphs (b), (c) and (d) above, in each case pending the offer of the 
+applicable Five-Year Vessel Interests to the General Partner and the 
+General Partner’s determination pursuant to Section 4.2, whether to 
+purchase the Five-Year Vessel Interests and, if the General Partner has 
+determined to cause any Partnership Group Member to purchase such Five-Year 
+Vessel Interests, pending the closing of such purchase;
+ 
+(h) providing ship management services relating to any containership 
+vessel;
+ 
+(i) prior to the Non-Compete Commencement Date, owning, operating or 
+chartering any Five-Year Vessel that CMRE, or with respect to a JV Vessel, 
+a York Entity or a JV Entity, as applicable, owns or is under contract to 
+purchase or charter in on the Closing Date and that is not part of the 
+Partnership Group’s initial fleet on the Closing Date; or
+ 
+(j) acquiring, owning, operating or chartering any Five-Year Vessel if the 
+General Partner has previously advised CMRE or with respect to a JV Vessel, 
+a York Entity or a JV Entity, as applicable, that it consents to such 
+acquisition, ownership, operation or charter.
+ 
+Section 2.3. Permitted Transactions. Nothing in this Agreement shall be 
+interpreted to preclude any York Entity or, for the avoidance of doubt, 
+York Capital or any of the funds managed or advised by York Capital or one 
+of its Affiliates, from (a) investing in the debt of any container shipping 
+company or any other person (whether as part of a loan-to-own strategy, 
+with the aim to enter into debt-to-equity swaps or other forms of debt or 
+capital restructuring of that business or person and the entry into any 
+related transactions), (b) acquiring an interest in any containership 
+vessel (whether or not a Five-Year Vessel or a Non-Five-Year Vessel) or an 
+interest in a containership vessel owning entity (i) upon enforcement of 
+security or in satisfaction of a judgment; (ii) following the exercise or 
+realisation of any of its rights as a creditor to a business or any person 
+(including, without limitation, by way of, or as a result of, 
+debt-to-equity swaps; loan-to-own strategies or any other form of debt or 
+capital restructuring); or (iii) by way of any other arrangement or 
+transaction having a similar effect, but in the case of (a) and (b)(ii) and 
+(iii), subject to Section 16.2 of the Framework Agreement (each a “
+Permitted Transaction”).
+ 
+ARTICLE III
+ 
+NON-FIVE-YEAR VESSEL RESTRICTED BUSINESS OPPORTUNITIES
+ 
+Section 3.1. Non-Five-Year Vessel Restricted Businesses. Following the 
+Non-Compete Commencement Date, subject to Section 9.4 and except as 
+permitted by Section 3.2, each Partnership Group Member shall be prohibited 
+from acquiring, owning, operating or chartering Non-Five-Year Vessels or 
+acquiring or owning Non-Five-Year Vessel Interests.
+ 
+Section 3.2. Permitted Exceptions. Notwithstanding any provision of 
+Section 3.1 to the contrary, the restrictions in this Agreement shall not 
+prevent any Partnership Group Member from:
+ 
+(a) owning, operating or chartering any Non-Five-Year Vessel that was 
+previously a Five-Year Vessel owned, operated or chartered by any 
+Partnership Group Member or a vessel forming part of the Partnership 
+Group’s initial fleet on the Closing Date;
+ 
+(b) acquiring Non-Five-Year Vessel Interests as part of the acquisition of 
+a controlling interest in a business or package of assets and owning, 
+operating or chartering the applicable Non-Five-Year Vessels; provided, 
+however, that:
+ 
+       (i) if less than a majority of the value of the business or assets
+       acquired is attributable to Non-Five-Year Vessel Interests, as
+       determined in good faith by the General Partner, such
+
+12
+
+
+       Partnership Group Member must offer to sell such Non-Five-Year
+       Vessel Interests to CMRE for their fair market value plus any
+       applicable Break-up Costs in accordance with the procedures set
+       forth in Section 4.2; and
+        
+       (ii) if a majority or more of the value of the business or assets
+       acquired is attributable to Non-Five-Year Vessel Interests, as
+       determined in good faith by the General Partner, the MLP shall
+       notify CMRE of the proposed acquisition in writing. CMRE shall, not
+       later than the 30th calendar day following receipt of such notice,
+       notify the General Partner if it or any other CMRE Entity wishes to
+       acquire such Non-Five-Year Vessel Interests forming part of that
+       business or package of assets in cooperation and simultaneously with
+       the Partnership Group Member acquiring the Five-Year Vessels forming
+       part of that business or package of assets. If CMRE does not notify
+       the General Partner of its intent to pursue the acquisition within
+       such 30 calendar days, the Partnership Group Member may proceed with
+       the acquisition and then offer to sell such Non-Five-Year Vessel
+       Interests to CMRE as provided in subsection (i) above;
+        
+(c) acquiring, owning, operating or chartering any Non-Five-Year Vessel 
+that is subject to an offer to purchase by a CMRE Entity as described in 
+paragraph (b) above pending the offer of the applicable Non-Five-Year 
+Vessel Interests to CMRE and CMRE’s determination pursuant to Section 4.2 
+whether to purchase the Non-Five-Year Vessel Interests and, if CMRE has 
+determined to purchase or cause any CMRE Entity to purchase such 
+Non-Five-Year Vessel Interests, pending the closing of such purchase; or
+ 
+(d) acquiring, owning, operating or chartering Non-Five-Year Vessels if 
+CMRE has previously advised the General Partner that it consents to such 
+acquisition, ownership, operation or charter.
+ 
+The parties acknowledge that any acquisition of a containership vessel by 
+CMRE pursuant to this Section 3.2 may be subject to the applicable 
+provisions of the Framework Agreement.
+ 
+ARTICLE IV
+
+BUSINESS OPPORTUNITIES PROCEDURES
+ 
+Section 4.1. Procedures for Existing Non-Compete Vessels. Subject to 
+Section 2.3 above, in the event that a CMRE Entity and, with respect to JV 
+Vessels, a JV Entity, as applicable, owns or operates any containership 
+vessel that constitutes a Five-Year Vessel as of the Non-Compete 
+Commencement Date (each such containership vessel, a “Existing Non-Compete 
+Vessel”), then at any time and from time to time within 36 months after (x) 
+the Non-Compete Commencement Date or, if later, (y) the date of delivery to 
+and acceptance by the charterer (in each case, the “Existing Non-Compete 
+Notice Period”), CMRE and, with respect to any JV Vessel Interests, York 
+shall notify the General Partner and offer the General Partner the right 
+for a Partnership Group Member to purchase the relevant Existing 
+Non-Compete Vessel Interests at fair market value; provided, however that, 
+during the Existing Non-Compete Notice Period, CMRE and York will be 
+subject to such requirement to provide notice and offer for purchase any 
+Existing Non-Compete Vessel Interests only if, at the time of such notice 
+and offer, the relevant Existing Non-Compete Vessel constitutes a Five-Year 
+Vessel; provided, further that if, at the end of the Existing Non-Compete 
+Notice Period, any Existing Non-Compete Vessel constitutes a Five-Year 
+Vessel and CMRE and, with respect to a JV Vessel which is an Existing 
+Non-Compete Vessel that constitutes a Five-Year Vessel, York have not 
+previously notified the General Partner and offered the Partnership Group 
+the right to purchase the applicable Existing Non-Compete Vessel Interests, 
+the Partnership Group shall have the right to purchase such Existing 
+Non-Compete Vessel Interests at the end of the Existing Non-Compete Notice 
+Period. The Partnership Group will then provide, within 30 calendar days of 
+receipt of notice pursuant to this section (or of the end of the Existing 
+Non-Compete Notice Period pursuant to the second proviso to the immediately 
+foregoing sentence) (with such 30 calendar days being the “Election 
+Confirmation Period”), written notice to CMRE and, as applicable, York that 
+either:
+ 
+(a) the General Partner has elected not to cause any Partnership Group 
+Member to purchase, as applicable, such Existing Non-Compete Vessel 
+Interests, in which event CMRE, York or such York Entity or JV Entity, as 
+applicable, and their respective Affiliates shall, subject to Section 
+2.2(c) and to the other terms of this Agreement which expressly continue to 
+apply to such Existing Non-Compete Vessel Interest following the lapse or
+
+13
+
+
+non-exercise (or deemed non-exercise) of such option (including any 
+purchase rights that may arise under Article V) and any applicable 
+provisions of the Framework Agreement, be forever free, to continue to own, 
+operate, charter and dispose of (in accordance with Article V and Section 
+9.20) such Existing Non-Compete Vessel; or
+ 
+(b) the General Partner has elected to cause any Partnership Group Member 
+to purchase, as applicable, such Existing Non-Compete Vessel Interests (the 
+“Election Notice”), in which event the following procedures shall be 
+followed:
+ 
+       (i) After the receipt of the Election Notice by CMRE and, with
+       respect to any JV Vessel Interests, York, as applicable, the
+       Partnership Group, CMRE and, with respect to any JV Vessel
+       Interests, York, shall negotiate in good faith regarding the fair
+       market value of the Existing Non-Compete Vessel Interests that are
+       subject to the Election Notice and the terms that are not specified
+       in the form of the purchase agreement attached hereto as Annex A 
+       (the “unspecified terms”) of the Election Notice on which the
+       Existing Non-Compete Vessel Interests will be sold to the applicable
+       Partnership Group Member. If CMRE, the Partnership Group and, if
+       applicable, York agree on the fair market value of the Existing
+       Non-Compete Vessel Interests that are subject to the Election Notice
+       and the unspecified terms of the Election Notice during the 30
+       calendar-day period (the “Election Period”) after receipt by CMRE,
+       and, as applicable, York of the Election Notice, the General Partner
+       shall cause any Partnership Group Member to purchase, as applicable,
+       the Existing Non-Compete Vessel Interests on such terms as soon as
+       commercially practicable after such agreement has been reached. The
+       Parties agree to and accept the terms of the form of the purchase
+       agreement attached hereto as Annex A, and such terms shall apply to
+       the sale and purchase of any Existing Non-Compete Vessel Interests
+       pursuant to this Section 4.1, except to the extent otherwise
+       mutually agreed by the applicable Parties.
+        
+       (ii) If CMRE, the Partnership Group and, as applicable, York are
+       unable to agree on the fair market value of the Existing Non-Compete
+       Vessel Interests that are subject to the Election Notice or the
+       unspecified terms of the Election Notice during the Election Period,
+       the General Partner shall appoint a Shipbroker prior to the fifth
+       business day following the end of the Election Period to determine
+       the fair market value of the Existing Non-Compete Vessel Interests
+       and/or the unspecified terms on which the CMRE, the Partnership
+       Group and, with respect to any JV Vessel Interests, York are unable
+       to agree. Unless otherwise agreed by the parties, the consideration
+       shall be 100% cash. In determining the fair market value of the
+       Existing Non-Compete Vessel Interests and the unspecified terms on
+       which the Existing Non-Compete Vessel Interests are to be sold, the
+       Shipbroker will have access to the proposed sale and purchase values
+       and terms for the Election Notice submitted by CMRE, the Partnership
+       Group and, with respect to any JV Vessel Interests, York, and to all
+       information prepared by or on behalf of the Partnership Group
+       relating to the Existing Non-Compete Vessel Interests and reasonably
+       requested by such Shipbroker.
+        
+       Such Shipbroker shall be required to determine the fair market value
+       of the Existing Non-Compete Vessel Interests and/or the unspecified
+       terms on which the CMRE, the Partnership Group and, with respect to
+       any JV Vessel Interests, York are unable to agree within 30 calendar
+       days of its engagement and furnish CMRE, the Partnership Group and,
+       with respect to JV Vessels, York its determination. The fees and
+       expenses of the Shipbroker will be divided equally between CMRE, the
+       Partnership Group and, with respect to any JV Vessel Interests,
+       York. Upon receipt of such determination, the General Partner will
+       have the option, but not the obligation:
+        
+           (A) to cause any Partnership Group Member to purchase the
+           Existing Non-Compete Vessel Interests for the fair market value,
+           and on the unspecified terms determined by the Shipbroker, as
+           soon as commercially practicable after determinations have been
+           made; or
+            
+           (B) to elect not to cause any Partnership Group Member to
+           purchase such Existing Non-Compete Vessel Interests, in which
+           event CMRE or, the York Entity or the JV Entity, as applicable,
+           and their respective Affiliates shall, subject to the other
+           terms of this Agreement which expressly continue to apply to
+           such Existing Non-Compete Vessel
+
+14
+
+
+           Interests following the lapse or the non-exercise (or deemed
+           non-exercise) of such option (including Article V) and any
+           applicable provisions of the Framework Agreement, be forever
+           free to continue to own, operate, charter and dispose of (in
+           accordance with Article V and Section 9.20) such Existing
+           Non-Compete Vessel. If the General Partner does not provide a
+           notice of such election to CMRE or, as applicable, to the JV
+           Entity, within 10 business days of the Shipbroker’s
+           determination, it shall be deemed to have elected not to cause
+           any Partnership Group Member to purchase such Existing
+           Non-Compete Vessel Interests.
+            
+       (iii) If the General Partner chooses to exercise the option for a
+       Partnership Group Member to purchase the Existing Non-Compete Vessel
+       Interests, the applicable parties shall enter into a purchase and
+       sale agreement for the purchase and sale of Existing Non-Compete
+       Vessel Interests substantially in the form of the agreement attached
+       hereto as Annex A. Pursuant to such purchase and sale agreement,
+       CMRE, and with respect to any JV Vessel Interests, York shall be
+       obligated to sell the Existing Non-Compete Vessel Interests to the
+       Partnership Group Member and the Partnership Group Member shall be
+       obligated to purchase the Existing Non-Compete Vessel Interests from
+       CMRE and, with respect to any JV Vessel Interests, York.
+        
+       (iv) The decision to purchase the Existing Non-Compete Vessel
+       Interests that are subject to the Election Notice, the fair market
+       value to be paid for the Existing Non-Compete Vessel Interests that
+       are subject to the Election Notice, and the other terms of the
+       purchase shall be initiated and proposed by Management but shall be
+       subject to approval by the Conflicts Committee.
+        
+(c) If the General Partner does not provide an Election Notice to CMRE and, 
+with respect to any JV Vessel Interests, York within the Election 
+Confirmation Period, the General Partner shall be deemed to have chosen not 
+to cause any Partnership Group Member to purchase, as applicable, the 
+relevant Existing Non-Compete Vessel Interests and the provisions of 
+Section 4.1(a) above shall apply.
+ 
+Section 4.2. Procedures for New Non-Compete Vessels. Subject to Section 2.3 
+above, following the Non-Compete Commencement Date, in the event that (a) a 
+Partnership Group Member acquires, operates or puts under charter 
+Non-Five-Year Vessels in accordance with Section 3.2(b)(i), or (b) a CMRE 
+Entity or, with respect to any JV Vessel, a JV Entity, as applicable, 
+acquires, operates or puts under charter Five-Year Vessels in accordance 
+with Section 2.2(b), (c) or (d)(i), in any such case “New Non-Compete 
+Vessels”, then not later than (i) 36 months after delivery to the 
+charterer, with respect to newbuild New-Non-Compete Vessels or (ii) 24 
+months after the consummation of the acquisition or the commencement of 
+operations or charter, with respect to secondhand New-Non-Compete Vessels 
+(the “New Non-Compete Notice Period”), such acquiring entity (the “
+Acquiring Party”) shall notify (i) CMRE, in the case of an acquisition by a 
+Partnership Group Member or (ii) the General Partner, in the case of an 
+acquisition by a CMRE Entity and, with respect to any potential JV Vessel, 
+a JV Entity, and offer such party to be notified (each an “Offeree”) the 
+right for any CMRE Entity, JV Entity or Partnership Group Member, as 
+applicable, to purchase the relevant New Non-Compete Vessel Interests, as 
+applicable (the “Offered Assets”), for their fair market value (or, in the 
+case of an acquisition in accordance with Section 2.2(b), if the offer is 
+given substantially simultaneously with the acquisition giving rise to the 
+option in this Section 4.2, the acquisition price) plus, in the case of an 
+acquisition in accordance with Sections 2.2(b), 2.2(d)(i) or 3.2(b)(i), if 
+the offer is given substantially simultaneously with the acquisition giving 
+rise to the option in this Section 4.2, any applicable Break-up Costs, in 
+each case on commercially reasonable terms in accordance with this Section 
+4.2 (the “Offer”); provided, however that, during the New Non-Compete 
+Notice Period, (a) a Partnership Group Member will be subject to such 
+requirement to provide the Offer to CMRE for purchase any New Non-Compete 
+Vessel Interests only if, at the time of such Offer, the relevant New 
+Non-Compete Vessel is a Non-Five-Year Vessel and (b) CMRE and, with respect 
+to any JV Vessel Interests, York and any JV Entity will be subject to such 
+requirement to provide the Offer to the General Partner for purchase any 
+New Non-Compete Vessel Interests only if, at the time of such Offer, the 
+relevant New Non-Compete Vessel is a Five-Year Vessel; provided, further 
+that if, at the end of the New Non-Compete Notice Period, any New 
+Non-Compete Vessel is a Five-Year Vessel and CMRE and York have not 
+previously notified the General Partner and offered the Partnership Group 
+the right to purchase the applicable New Non-Compete Vessel Interests, the 
+Partnership Group shall have the right to purchase such New Non-Compete 
+Vessel Interests at the end of the New Non-Compete Notice Period and the 
+Acquiring Party shall at that time
+
+15
+
+
+provide the Offer. The Offer shall set forth the Acquiring Party’s proposed 
+terms relating to the purchase of the Offered Assets by the applicable CMRE 
+Entity and, with respect to any potential JV Vessel Interests, a JV Entity 
+agreed by York and CMRE or Partnership Group Member, including any 
+liabilities to be assumed by the applicable CMRE Entity and, with respect 
+to any potential JV Vessel Interests, JV Entity, as applicable, or 
+Partnership Group Member as part of the Offer. As soon as practicable after 
+the Offer is made, the Acquiring Party will deliver to the Offeree all 
+information prepared by or on behalf of or in the possession of such 
+Acquiring Party relating to the Offered Assets and reasonably requested by 
+the Offeree. As soon as practicable, but in any event, within 30 calendar 
+days after receipt of the Offer, the Offeree shall notify the Acquiring 
+Party in writing that either:
+ 
+(a) CMRE and, with respect to any potential JV Vessel Interests, a JV 
+Entity, as applicable, have elected not to purchase (or not to cause any of 
+their respective permitted Affiliates to purchase) or the General Partner 
+has elected not to cause any Partnership Group Member to purchase, as 
+applicable, such Offered Assets, in which event the Acquiring Party and its 
+Affiliates shall, subject to Section 2.2(c) and to the other terms of this 
+Agreement which expressly continue to apply to such Offered Assets 
+following the lapse or the non-exercise (or deemed non exercise) of such 
+option (including any purchase rights that may arise under Article V) and 
+any applicable provisions of the Framework Agreement, be forever free to 
+continue to own, operate, charter and dispose of (in accordance with 
+Article V and Section 9.20) such Offered Assets. If no notice is provided 
+by the Offeree under this clause (a) within 30 calendar days after receipt 
+of the Offer, it shall be deemed to have notified of its election not to 
+purchase, and not to cause any other person to purchase, the Offered 
+Assets; or
+ 
+(b) CMRE and, with respect to any potential JV Vessel Interests, a JV 
+Entity, as applicable, have elected to purchase (or to cause any of their 
+respective permitted Affiliates to purchase) or the General Partner has 
+elected to cause any Partnership Group Member to purchase, as applicable, 
+such Offered Assets, in which event the following procedures shall be 
+followed:
+ 
+       (i) After the receipt of the Offer by the Offeree, the Acquiring
+       Party and the Offeree shall negotiate in good faith regarding the
+       fair market value (and any applicable Break-up Costs) of the Offered
+       Assets that are subject to the Offer and the other unspecified terms
+       of the Offer on which the Offered Assets will be sold to the
+       applicable CMRE Entity and, with respect to any potential JV Vessel
+       Interests, a JV Entity, or Partnership Group Member. If the
+       Acquiring Party and the Offeree agree on the fair market value (and
+       any applicable Break-up Costs) of the Offered Assets that are
+       subject to the Offer and the unspecified terms of the Offer during
+       the 30-day period (the “Offer Period”) after receipt by the
+       Acquiring Party of CMRE’s and, as applicable, a JV Entity’s election
+       to purchase (or election to cause any of its respective permitted
+       Affiliates to purchase) or of the General Partner’s election to
+       cause any Partnership Group Member to purchase, as applicable, the
+       Offered Assets, CMRE and, with respect to any potential JV Vessel
+       Interests, a JV Entity, as applicable, shall purchase (or cause any
+       of their respective permitted Affiliates to purchase) or the General
+       Partner shall cause any Partnership Group Member to purchase, as
+       applicable, the Offered Assets on such terms as soon as commercially
+       practicable after such agreement has been reached. The Parties agree
+       to and accept the terms of the form of the purchase agreement
+       attached hereto as Annex A, and such terms shall apply to the sale
+       and purchase of any New Non-Compete Vessel Interests pursuant to
+       this Section 4.2, except to the extent otherwise mutually agreed by
+       the applicable Parties.
+        
+       (ii) If the Acquiring Party and the Offeree are unable to agree on
+       the fair market value (and any applicable Break-up Costs) of the
+       Offered Assets that are subject to the Offer or on any of the Offer
+       terms during the Offer Period, the General Partner shall appoint a
+       Shipbroker prior to the fifth business day following the end of the
+       Offer Period to determine the fair market value of the Offered
+       Assets and/or the unspecified terms on which the Acquiring Party and
+       the Offeree are unable to agree. Unless otherwise agreed by the
+       parties, the consideration shall be 100% cash. In determining the
+       fair market value of the Offered Assets and unspecified terms on
+       which the Offered Assets are to be sold, the Shipbroker will have
+       access to the proposed sale and purchase values and terms for the
+       Offer submitted by the Acquiring Party and the Offeree,
+       respectively, and to all information prepared by or on behalf of the
+       Acquiring Party and the Offeree relating to the Offered Assets and
+       reasonably requested by such Shipbroker.
+
+16
+
+
+       Such Shipbroker shall be required to determine the fair market value
+       (and any applicable Break-up Costs) of the Offered Assets and/or the
+       unspecified terms on which the Acquiring Party and the Offeree are
+       unable to agree within 30 calendar days of its engagement and
+       furnish the Acquiring Party and the Offeree its determination. The
+       fees and expenses of the Shipbroker will be divided equally between
+       the Acquiring Party and the Offeree; provided that with respect to
+       any JV Vessel Interests, such fees and expenses will be divided
+       equally between the CMRE Entity, York and the Partnership Group
+       Member. Upon receipt of such determination, the Offeree will have
+       the option, but not the obligation:
+        
+           (A) in the case that the Offeree is CMRE and, with respect to
+           any potential JV Vessel Interests, a JV Entity, as applicable,
+           to purchase or cause any of their respective/permitted
+           Affiliates to purchase, or in the case that the Offeree is the
+           General Partner, to cause any Partnership Group Member to
+           purchase the Offered Assets for the fair market value (and any
+           applicable Break-up Costs), and on the unspecified terms
+           determined by the Shipbroker, as soon as commercially
+           practicable after determinations have been made; or
+            
+           (B) in the case that the Offeree is CMRE and, with respect to
+           any potential JV Vessel Interests, a JV Entity, as applicable,
+           to elect not to purchase or to cause any of their respective
+           permitted Affiliates to purchase, or in the case that the
+           Offeree is the General Partner, to elect not to cause any
+           Partnership Group Member to purchase such Offered Assets, in
+           which event the Acquiring Party and its Affiliates shall,
+           subject to Section 2.2(c) and to the other terms of this
+           Agreement which expressly continue to apply to such Offered
+           Assets following the lapse or the non-exercise (or deemed
+           non-exercise) of such option (including Article V) and any
+           applicable provisions of the Framework Agreement, be forever
+           free to continue to own, operate and dispose of (in accordance
+           with Article V and Section 9.20) such Offered Assets. If the
+           Offeree does not provide a notice of such election to CMRE, the
+           JV Entity or, as applicable, the General Partner, within 10
+           business days of the Shipbroker’s determination, it shall be
+           deemed to have elected not to purchase and not to cause their
+           respective Affiliates to purchase such Offered Assets and
+           subject to the other terms of this Agreement and any applicable
+           provisions of the Framework Agreement, the Acquiring Party shall
+           be forever free, subject to the terms of this Agreement, to
+           continue to own, operate, charter and dispose of (in accordance
+           with Article V and Section 9.20) the containership vessel in
+           question.
+            
+       (iii) The decision to purchase the Offered Assets, the fair market
+       value to be paid for the Offered Assets, and the other terms of the
+       purchase shall be initiated and proposed by Management but shall be
+       subject to approval by the Conflicts Committee.
+        
+Section 4.3. Scope of Prohibition. If CMRE, any York Entity, any 
+Partnership Group Member or any of their respective Affiliates engages in 
+the ownership or operation of Five-Year Vessels or , as applicable, 
+Five-Year Vessel Interests in the case of a CMRE Entity, and in the case of 
+JV Vessels or, as applicable, JV Vessel Interests which are Five-Year 
+Vessels or, as applicable, Five-Year Vessel Interests, a JV Entity or York 
+Entity, as applicable, or Non-Five-Year Vessels or, as applicable, 
+Non-Five-Year Vessel Interests in the case of a Partnership Group Member, 
+pursuant to any of the exceptions described in Sections 2.2 or 3.2, as 
+applicable, the relevant Party and its Affiliates may not subsequently 
+expand that portion of their business other than pursuant to the exceptions 
+contained in such Sections 2.2 or 3.2; provided that, notwithstanding the 
+foregoing, the provisions of Section 2.3 shall be applicable to and binding 
+upon the Parties. Except as otherwise expressly provided in this Agreement 
+or the MLP Agreement, each Party and its Affiliates shall be free to engage 
+in any business activity whatsoever, including those that may be in direct 
+competition with the CMRE Entities, JV Entities, the York Entities or the 
+Partnership Group Members.
+ 
+Section 4.4. Enforcement; Consents.
+ 
+(a) Each Party agrees and acknowledges that the other Parties do not have 
+an adequate remedy at law for the breach by any such Party of its covenants 
+and agreements set forth in this Article IV, and that any breach
+
+17
+
+
+by any such Party of its covenants and agreements set forth in this 
+Article IV would result in irreparable injury to such other Parties. Each 
+Party further agrees and acknowledges that any other Party may, in addition 
+to the other remedies which may be available to such other Party, file a 
+suit in equity to enjoin such Party from such breach, and consent to the 
+issuance of injunctive relief to enforce the provisions of this Article IV
+.
+ 
+(b) The Parties acknowledge that the business opportunity procedures set 
+forth in this Article IV are subject to obtaining any and all written 
+consents of governmental authorities and other third parties and to the 
+terms of all agreements existing in respect of the Offered Assets. Each 
+Party hereby covenants and agrees to use its commercially reasonable 
+efforts to obtain any such consents required to be obtained by it in 
+connection with giving effect to the business opportunity procedures set 
+forth in this Article IV.
+ 
+ARTICLE V
+ 
+RIGHTS OF FIRST OFFER
+ 
+Section 5.1. Rights of First Offer.
+ 
+(a) The CMRE Entities, and, with respect to any JV Vessels Interests, the 
+JV Entities and York Entities, as applicable, hereby grant the MLP a right 
+of first offer on any proposed Transfer of any Five-Year Vessel Interests 
+owned or acquired by any CMRE Entity, and, with respect to any JV Vessel 
+Interests, any JV Entity or York Entity, as applicable.
+ 
+(b) The Parties acknowledge that all potential Transfers of Five-Year 
+Vessel Interests pursuant to this Article V are subject to obtaining any 
+and all written consents of governmental authorities and other 
+non-affiliated third parties and to the terms of all existing agreements in 
+respect of such Five-Year Vessel Interests. Each Party hereby covenants and 
+agrees to use its commercially reasonable efforts to obtain any such 
+consents required to be obtained by it in connection with giving effect to 
+the procedures set forth in this Article V.
+ 
+Section 5.2. Procedures for Rights of First Offer.
+ 
+(a) In the event that a CMRE Entity, and, with respect to any JV Vessel 
+Interests, a JV Entity or a York Entity, as applicable, (a “Transferring 
+Party”) proposes to Transfer any Five-Year Vessel Interests (the “Sale 
+Assets”), prior to engaging in any negotiation for such Transfer with any 
+non-affiliated third party or otherwise offering to Transfer the Sale 
+Assets to any non-affiliated third party, such Transferring Party shall 
+give the General Partner (a “Potential Transferee”), written notice setting 
+forth all material terms and conditions (including, without limitation, the 
+purchase price or the terms of the charter agreement and a description of 
+the Sale Asset(s)) on which such Transferring Party desires to Transfer the 
+Sale Assets (a “Transfer Notice”).
+ 
+(b) After delivery of a Transfer Notice, the Transferring Party then shall 
+be obligated to negotiate in good faith for a 30-day period following the 
+delivery by the Transferring Party of the Transfer Notice (the “First Offer 
+Negotiation Period”) to reach an agreement for the Transfer of such Sale 
+Assets to the Potential Transferee or any of its Affiliates on the terms 
+and conditions set forth in the Transfer Notice. If no such agreement with 
+respect to the Sale Assets is reached during the First Offer Negotiation 
+Period, the Transferring Party will be permitted to Transfer, or agree in 
+writing to Transfer, such Sale Assets to a third party within 180 calendar 
+days after the end of the First Offer Negotiation Period, provided that the 
+terms of such Transfer are generally no less favorable to the Transferring 
+Party than those included in the Transfer Notice. If no such agreement with 
+respect to the Sale Assets is reached during the First Offer Negotiation 
+Period, and the Transferring Party has not Transferred, or agreed in 
+writing to Transfer, such Sale Assets to a third party within 180 calendar 
+days after the end of the First Offer Negotiation Period on terms generally 
+no less favorable to the Transferring Party than those included in the 
+Transfer Notice, then the Transferring Party shall not thereafter Transfer 
+any of the Sale Assets without first offering such assets to the applicable 
+Potential Transferee in the manner provided above.
+ 
+ARTICLE VI
+ 
+EXISTING VESSEL INTERESTS PURCHASE OPTION
+ 
+Section 6.1. Option to Purchase the Valence Interests.
+
+18
+
+
+(a) CMRE hereby grants to the Partnership Group the unconditional right and 
+option to purchase for fair market value at any time and from time to time 
+within 12 months after the Closing Date, all of the Valence Interests (or, 
+pursuant to Section 6.2, the Substitute Vessel Interests).
+ 
+(b) The Parties acknowledge that the potential transfer of the Valence 
+Interests, pursuant to this Article VI is subject to obtaining any and all 
+written consents of governmental authorities and other third parties and to 
+the terms of all agreements existing as of the date hereof in respect of 
+the Valence Interests, including, without limitation, any rights of first 
+refusal of the parties to such agreements to purchase the Valence Interests 
+and the consummation of the acquisition of such containership vessel, as 
+applicable. CMRE hereby covenants and agrees to use its commercially 
+reasonable efforts to obtain any such consents required to be obtained by 
+it in connection with the transfer of the Valence Interests, pursuant to 
+this Article VI.
+ 
+Section 6.2. Procedures.
+ 
+(a) If the General Partner decides to exercise the option for a Partnership 
+Group Member to purchase the Valence Interests, it will provide, within 12 
+months of the Closing Date, written notice to CMRE of such exercise, the 
+fair market value it proposes to pay for the Valence Interests, and the 
+other material terms of the purchase (the “Existing Option Exercise Notice
+”). The decision to purchase the Valence Interests that are subject to the 
+Existing Option Exercise Notice, the fair market value to be paid for the 
+Valence Interests that are subject to the Existing Option Exercise Notice, 
+and the unspecified terms of the purchase shall be initiated and proposed 
+by the General Partner but shall be subject to approval by the Conflicts 
+Committee; provided that CMRE has the option, exercisable in its sole 
+discretion either before or within the Existing Option Exercise Period (as 
+defined below), to replace the Valence Interests with the Substitute Vessel 
+Interests, in which case the provisions of Section 6.1(b) and the remaining 
+provisions of this Section 6.2 shall apply to such Substitute Vessel 
+Interests instead of the Valence Interests. If CMRE exercises such option 
+within the Existing Option Exercise Period, the Existing Option Exercise 
+Period shall be extended for a period of 30 calendar days from date of such 
+exercise and the General Partner shall be permitted to revise the Existing 
+Option Exercise Notice to reflect the potential purchase of the Substitute 
+Vessel Interests instead of the Valence Interests. If the Partnership Group 
+Member and CMRE are unable to agree on the fair market value of the Valence 
+Interests that are subject to the Existing Option Exercise Notice and/or 
+the unspecified terms of the Existing Option Exercise Notice during the 
+30-day period (the “Existing Option Exercise Period”) after receipt by CMRE 
+of the Existing Option Exercise Notice, the General Partner shall appoint a 
+Shipbroker prior to the fifth business day following the end of the 
+Existing Option Exercise Period to determine the fair market value of the 
+Valence Interests and/or the unspecified terms on which the Partnership 
+Group Member and CMRE are unable to agree. Unless otherwise agreed by the 
+parties, the consideration shall be 100% cash. In determining the fair 
+market value of the Valence Interests and/or the unspecified terms on which 
+the Valence Interests are to be sold, the Shipbroker will have access to 
+the proposed sale and purchase values and terms for the Existing Option 
+Exercise Notice submitted by the Partnership Group Member and CMRE, 
+respectively, and to all information prepared by or on behalf of the 
+Partnership Group Member and CMRE with respect to the Valence Interests and 
+reasonably requested by such Shipbroker. Such Shipbroker shall be required 
+to determine the fair market value of the Valence Interests and/or the 
+unspecified terms on which the Partnership Group Member and CMRE are unable 
+to agree within 30 calendar days of its engagement and furnish the 
+Partnership Group Member and CMRE its determination. The fees and expenses 
+of the Shipbroker will be divided equally between the Partnership Group 
+Member and CMRE. Upon receipt of such determination, the Partnership Group 
+Member will have the option, but not the obligation in to purchase the 
+Valence Interests for the fair market value and on the unspecified terms 
+determined by the Shipbroker, as soon as commercially practicable after 
+such determinations have been made.
+ 
+(b) If the General Partner chooses to exercise the option for a Partnership 
+Group Member to purchase the Valence Interests, the applicable parties 
+shall enter into a purchase and sale agreement for the purchase and sale of 
+the Valence Interests substantially in the form of the agreement attached 
+hereto as Annex A. Pursuant to such purchase and sale agreement, CMRE shall 
+be obligated to sell the Valence Interests to the Partnership Group Member 
+and the Partnership Group Member shall be obligated to purchase the Valence 
+Interests from CMRE. The Parties agree to and accept the terms of the form 
+of the purchase agreement attached hereto as Annex A, and such terms shall 
+apply to the sale and purchase of the Valence Interests pursuant to this 
+Article VI, except to the extent otherwise mutually agreed by the 
+applicable Parties.
+
+19
+
+
+(c) If the General Partner (i) chooses or is deemed to have chosen not to 
+exercise the option for a Partnership Group Member to purchase the Valence 
+Interests at the price determined by the Shipbroker under Section 6.2 (a) 
+or (ii) does not exercise the option for a Partnership Group Member to 
+purchase the Valence Interests within 12 months of the Closing Date, all 
+future rights to purchase the Valence Interests by the Partnership Group 
+will be extinguished (subject to any purchase rights that may arise under 
+Article V).
+ 
+ARTICLE VII
+ 
+NEW BUILD INTERESTS PURCHASE OPTION
+ 
+Section 7.1. Option to Purchase the New Build Interests
+ 
+(a) CMRE and York hereby agree to offer to the Partnership Group the right 
+and option to purchase for fair market value all of the Hull NCP0113 
+Interests, Hull NCP0114 Interests, Hull NCP0115 Interests, Hull NCP0116 
+Interests, Hull S2121 Interests, Hull S2122 Interests, Hull S2123 
+Interests, Hull S2124 Interests and Hull S2125 Interests (each, a “New 
+Build Interest” and collectively, the “New Build Interests”) at any time 
+within 36 months after any of Hull NCP0113, Hull NCP0114, Hull NCP0115, 
+Hull NCP0116, Hull S2121, Hull S2122, Hull S2123, Hull S2124 or Hull S2125 
+has been accepted by its charterer (such 36-month period with respect to 
+each New Build Interest, the “New Build Interest Option Period”) according 
+to the procedures set forth in Section 7.2 of this Agreement.
+ 
+(b) The Parties acknowledge that the potential transfer of the New Build 
+Interests, as applicable, pursuant to this Article VII is subject to 
+obtaining any and all written consents of governmental authorities and 
+other third parties and to the terms of all agreements existing as of the 
+date hereof in respect of the New Build Interest, as applicable, including, 
+without limitation, any rights of first refusal of the parties to such 
+agreements to purchase the New Build Interest, as applicable. Each of CMRE 
+and York hereby covenants and agrees to use its commercially reasonable 
+efforts to obtain any such consents required to be obtained by it in 
+connection with the transfer of each of the New Build Interest pursuant to 
+this Article VII.
+ 
+Section 7.2. Procedures.
+ 
+(a) CMRE and York shall, at any time and from time to time within the New 
+Build Interest Option Period, notify the General Partner and offer the 
+General Partner the right to cause any Partnership Group Member to purchase 
+the Hull NCP0113 Interests, Hull NCP0114 Interests, Hull NCP0115 Interests, 
+Hull NCP0116 Interests, Hull S2121 Interests, Hull S2122 Interests, Hull 
+S2123 Interests, Hull S2124 Interests and Hull S2125 Interests, as 
+applicable (the “Applicable New Build Interests” and the applicable 
+containership vessel, the “Applicable New Build Vessel”) for fair market 
+value pursuant to Section 7.1(a); provided, however that, during the 
+relevant New Build Interest Option Period, CMRE and York will be subject to 
+such requirement to provide notice and offer the Applicable New Build 
+Vessel Interests only if, at the time of such notice and offer, the 
+Applicable New Build Vessel constitutes a Five-Year Vessel; provided, 
+further that if, at the end of the New Build Interest Option Period, any 
+Applicable New Build Vessel constitutes a Five-Year Vessel and CMRE and 
+York have not previously notified the General Partner and offered the 
+General Partner the right to cause any Partnership Group Member to purchase 
+the relevant Applicable New Build Vessel Interests, the Partnership Group 
+shall have the right to purchase the relevant Applicable New Build Vessel 
+Interests at the end of the New Build Interest Option Period and CMRE and 
+York shall at that time offer the relevant Applicable New Build Vessel 
+Interests.
+ 
+(b) If the General Partner decides to exercise the option for a Partnership 
+Group Member to purchase the Applicable New Build Interests, it will 
+provide, within 10 business days of receipt of notice and offer to purchase 
+pursuant to Section 7.2(a) (or of the last day of the New Build Interest 
+Option Period, if the last proviso of Section 7.2(a) applies), written 
+notice to CMRE and York of such exercise and the fair market value it 
+proposes to pay for the Applicable New Build Interests (the “New Build 
+Option Exercise Notice”). The decision to purchase the Applicable New Build 
+Interests subject to the New Build Option Exercise Notice and the fair 
+market value to be paid for the Applicable New Build Interests subject to 
+the New Build Option Exercise Notice shall be initiated and proposed by 
+Management but shall be subject to approval by the Conflicts Committee. If 
+the Partnership Group Member, York and CMRE are unable to agree on the fair 
+market value of the Applicable New Build Interests that are subject to the 
+New Build Option Exercise Notice and the unspecified terms of the New Build 
+Option Exercise Notice during the 30-day period (the “New Build Option 
+Exercise Period”) after receipt by CMRE of the New
+
+20
+
+
+Build Option Exercise Notice, the General Partner shall appoint a 
+Shipbroker prior to the fifth business day following the end of the New 
+Build Option Exercise Period to determine the fair market value of the 
+Applicable New Build Interests and/or the unspecified terms on which the 
+Partnership Group Member and CMRE are unable to agree. Unless otherwise 
+agreed by the parties, the consideration shall be 100% cash. In determining 
+the fair market value of the Applicable New Build Interests and/or the 
+unspecified terms on which the Applicable New Build Interests are to be 
+sold, the Shipbroker will have access to the proposed sale and purchase 
+values and terms for the New Build Option Exercise Notice submitted by the 
+Partnership Group Member, York and CMRE, respectively, and to all 
+information prepared by or on behalf of the Partnership Group Member, York 
+and CMRE with respect to the Applicable New Build Interests and reasonably 
+requested by such Shipbroker. Such Shipbroker shall be required to 
+determine the fair market value of the Applicable New Build Interests 
+and/or the unspecified terms on which the Partnership Group Member, York 
+and CMRE are unable to agree within 30 calendar days of its engagement and 
+furnish the Partnership Group Member, York and CMRE its determination. The 
+fees and expenses of the Shipbroker will be divided equally between the 
+Partnership Group Member, York and CMRE. Upon receipt of such 
+determination, the Partnership Group Member will have the option, but not 
+the obligation to purchase the Applicable New Build Interests for the fair 
+market value and on the other terms determined by the Shipbroker, as soon 
+as commercially practicable after such determinations have been made.
+ 
+(c) If the General Partner chooses to exercise the option for a Partnership 
+Group Member to purchase the Applicable New Build Interests under Section 
+7.2(b), the applicable parties shall enter into a purchase and sale 
+agreement for the purchase and sale of the Applicable New Build Interests 
+substantially in the form of the agreement attached hereto as Annex A. 
+Pursuant to such purchase and sale agreement, CMRE shall be obligated to 
+sell the Applicable New Build Interests to the Partnership Group Member and 
+the Partnership Group Member shall be obligated to purchase the Applicable 
+New Build Interests from CMRE. The MLP, York and CMRE agree to and accept 
+the terms of the form of the purchase agreement attached hereto as Annex A
+, and such terms shall apply to any purchase and sale of the New Build 
+Interests pursuant to this Article VII, except to the extent otherwise 
+mutually agreed by the applicable Parties.
+ 
+(d) If the General Partner notifies CMRE and York that it chooses not to 
+exercise the option for a Partnership Group Member to purchase the 
+Applicable New Build Interests at the price determined by the Shipbroker 
+under Section 7.1(b), all future rights to purchase the Applicable New 
+Build Interests by the Partnership Group will be extinguished. If the 
+General Partner (i) does not provide CMRE and York with a New Build Option 
+Exercise Notice within 10 business days of receipt of notice and offer to 
+purchase pursuant to Section 7.2(a) (or of the last day of the New Build 
+Interest Option Period, if the last proviso of Section 7.2(a) applies), the 
+General Partner shall be deemed to have chosen not to exercise the option 
+for a Partnership Group Member to purchase the Applicable New Build 
+Interest in accordance with this paragraph (d) and all future rights to 
+purchase the Applicable New Build Interests by the Partnership Group will 
+be extinguished (subject to any purchase rights that may arise under 
+Article V).
+ 
+ARTICLE VIII
+ 
+INDEMNIFICATION
+ 
+Section 8.1. CMRE Indemnification. Subject to the provisions of Section 8.2 
+and Section 8.3, CMRE shall indemnify, defend and hold harmless the 
+Partnership Group from and against: (a) any Covered Environmental Losses 
+relating to the assets contributed by the CMRE Entities to the Partnership 
+Group prior to or on the Closing Date (the “Contribution Assets”) to the 
+extent that CMRE is notified by the MLP of any such Covered Environmental 
+Losses within five years after the Closing Date; (b) Losses to the 
+Partnership Group arising from (i) the failure of the Partnership Group, 
+immediately after the Closing Date, to be the owner of such valid leasehold 
+interests or fee ownership interests in and to the Contribution Assets as 
+are necessary to enable the Partnership Entities to own and operate the 
+Contribution Assets in substantially the same manner that the Contribution 
+Assets were owned and operated by the CMRE Entities immediately prior to 
+the respective dates on which each such Contribution Asset was acquired by 
+the Partnership Entities or (ii) the failure of the Partnership Entities to 
+have by the Closing Date any consent or governmental permit necessary to 
+allow the Partnership Entities to own or operate the Contribution Assets in 
+substantially the same manner that the Contribution Assets were owned and 
+operated by the CMRE Entities immediately prior to the respective dates on 
+which each such Contribution Asset was acquired by the Partnership 
+Entities, in each of clauses (i) and (ii) above, to the extent that CMRE is 
+notified by
+
+21
+
+
+the MLP of such Losses within three years after the Closing Date; and (c) 
+all federal, state, foreign and local income tax liabilities attributable 
+to the operation of the Contribution Assets prior to the Closing Date, 
+including any such income tax liabilities of the CMRE Entities that may 
+result from the consummation of the formation transactions for the 
+Partnership Group and the MLP, but excluding any federal, state, foreign 
+and local income taxes reserved on the books of the Partnership Group on 
+the Closing Date.
+ 
+Section 8.2. Limitation Regarding Indemnification. The aggregate liability 
+of CMRE under Section 8.1(a) above shall not exceed $5,000,000 for all 
+relevant containership vessels. Furthermore, no claim may be made against 
+CMRE for indemnification pursuant to Section 8.1(a), unless the aggregate 
+dollar amount of all claims for indemnification pursuant to such section 
+shall exceed $500,000, in which case CMRE shall be liable for claims for 
+indemnification only to the extent such aggregate amount exceeds $500,000.
+ 
+Section 8.3. Indemnification Procedures.
+ 
+(a) The Partnership Group Members agree that within a reasonable period of 
+time after they become aware of facts giving rise to a claim for 
+indemnification pursuant to Section 8.1, they will provide notice thereof 
+in writing to CMRE specifying the nature of and specific basis for such 
+claim.
+ 
+(b) CMRE shall have the right to control all aspects of the defense of (and 
+any counterclaims with respect to) any claims brought against the 
+Partnership Group that are covered by the indemnification set forth in 
+Section 8.1, including, without limitation, the selection of counsel, 
+determination of whether to appeal any decision of any court and the 
+settling of any such matter or any issues relating thereto; provided, 
+however, that no such settlement shall be entered into without the consent 
+(which consent shall not be unreasonably withheld) of the Partnership Group 
+unless it includes (i) a full release of the Partnership Group from such 
+matter or issues, as the case may be and (ii) no admission of fault or 
+wrong doing on the part of any member of the Partnership Group.
+ 
+(c) The Partnership Group Members agree to cooperate fully with CMRE with 
+respect to all aspects of the defense of any claims covered by the 
+indemnification set forth in Section 8.1, including, without limitation, 
+the prompt furnishing to CMRE of any correspondence or other notice 
+relating thereto that the Partnership Group may receive, permitting the 
+names of the members of the Partnership Group to be utilized in connection 
+with such defense, the making available to CMRE of any files, records or 
+other information of the Partnership Group that CMRE considers relevant to 
+such defense and the making available to CMRE of any employees of the 
+Partnership Group; provided, however, that in connection therewith CMRE 
+agrees to use reasonable efforts to minimize the impact thereof on the 
+operations of the Partnership Group and further agrees to maintain the 
+confidentiality of all files, records and other information furnished by a 
+Partnership Group Member pursuant to this Section 8.3 (except as the 
+Partnership Group may consent). In no event shall the obligation of the 
+Partnership Group to cooperate with CMRE as set forth in the immediately 
+preceding sentence be construed as imposing upon the Partnership Group an 
+obligation to hire and pay for counsel in connection with the defense of 
+any claims covered by the indemnification set forth in this Article VIII; 
+provided, however, that the Partnership Group Members may, at their own 
+option, cost and expense, hire and pay for counsel in connection with any 
+such defense. CMRE agrees to keep any such counsel hired by the Partnership 
+Group reasonably informed as to the status of any such defense (including 
+providing such counsel with such information related to any such defense as 
+such counsel may reasonably request) but CMRE shall have the right to 
+retain sole control over such defense.
+ 
+(d) In determining the amount of any Loss for which any of the members of 
+the Partnership Group is entitled to indemnification under this Agreement, 
+the gross amount of the indemnification will be reduced by (i) any 
+insurance proceeds realized by the Partnership Group, and such correlative 
+insurance benefit shall be net of any incremental insurance premium that 
+becomes due and payable by the Partnership Group as a result of such claim, 
+and (ii) all amounts recovered by the Partnership Group under contractual 
+indemnities from third Persons. The Partnership Group hereby agrees to use 
+commercially reasonable efforts to realize any applicable insurance 
+proceeds or amounts recoverable under such contractual indemnities; 
+provided, however, that the costs and expenses (including, without 
+limitation, court costs and reasonable attorneys’ fees) of the Partnership 
+Group in connection with such efforts shall be promptly reimbursed by CMRE 
+in advance of any determination of whether such insurance proceeds or other 
+amounts will be recoverable.
+
+22
+
+
+ARTICLE IX
+ 
+MISCELLANEOUS
+ 
+Section 9.1. Choice of Law; Submission To Jurisdiction. This Agreement 
+shall be subject to and governed by the laws of the State of New York. Each 
+party hereby submits to the jurisdiction of the state and federal courts 
+located in the State of New York and to venue in New York, New York.
+ 
+Section 9.2. Notice. All notices, requests or consents provided for or 
+permitted to be given pursuant to this Agreement must be in writing and 
+must be given by depositing the same in the mail, addressed to the Person 
+to be notified, postpaid, and registered or certified with return receipt 
+requested or by delivering such notice in person or by private-courier, 
+prepaid, or by telecopier or electronic mail to such party. Notice given by 
+personal delivery or mail shall be effective upon actual receipt. Couriered 
+notices shall be deemed delivered on the date the courier represents that 
+delivery will occur. Notice given by telecopier or by electronic mail shall 
+be effective upon actual receipt if received during the recipient’s normal 
+business hours, or at the beginning of the recipient’s next business day 
+after receipt if not received during the recipient’s normal business hours. 
+All notices to be sent to a party pursuant to this Agreement shall be sent 
+to or made at the address set forth below such party’s signature to this 
+Agreement, or at such other address as such party may stipulate to the 
+other parties in the manner provided in this Section 9.2.
+ 
+Section 9.3. Entire Agreement. This Agreement constitutes the entire 
+agreement of the parties relating to the matters contained herein, 
+superseding all prior contracts or agreements, whether oral or written, 
+relating to the matters contained herein.
+ 
+Section 9.4. Termination. Upon a Change of Control of the General Partner 
+or of the MLP, the provisions of Articles II, III, IV and V of this 
+Agreement shall terminate immediately. Upon a Change of Control of CMRE, 
+the provisions of Articles II, III, IV and V of this Agreement applicable 
+to any CMRE Entity, York or the JV Entities shall terminate at the time 
+that is the later of (a) the date on which all of the MLP’s outstanding 
+subordinated units have converted to common units of the MLP and (b) the 
+date of the Change of Control of CMRE. In addition, if the General Partner 
+exercises its right to delegate management of the MLP to a board of 
+directors of the MLP, then on the date on which a majority of the directors 
+of the MLP ceases to consist of directors that were (1) appointed by the 
+General Partner and (2) recommended for election by a majority of the 
+appointed directors, the provisions of Articles II, III, IV and V 
+applicable to CMRE and, as applicable, York or a JV Entity shall terminate 
+immediately.
+ 
+Section 9.5. Waiver; Effect of Waiver or Consent. Any party hereto may (a) 
+extend the time for the performance of any obligation or other act of any 
+other party hereto or (b) waive compliance with any agreement or condition 
+contained herein. Except as otherwise specifically provided herein, any 
+such extension or waiver shall be valid only if set forth in a written 
+instrument duly executed by the party or parties to be bound thereby; 
+provided, however, that the MLP and the General Partner may not, without 
+the prior approval of the Conflicts Committee, agree to any extension or 
+waiver of this Agreement that, in the reasonable determination of the 
+General Partner, will adversely affect the holders of common units of the 
+MLP. No waiver or consent, express or implied, by any party of or to any 
+breach or default by any Person in the performance by such Person of its 
+obligations hereunder shall be deemed or construed to be a waiver or 
+consent of or to any other breach or default in the performance by such 
+Person of the same or any other obligations of such Person hereunder. 
+Failure on the part of a party to complain of any act of any Person or to 
+declare any Person in default, irrespective of how long such failure 
+continues, shall not constitute a waiver by such party of its rights.
+ 
+Section 9.6. Amendment or Modification. This Agreement may be amended or 
+modified from time to time only by the written agreement of all the parties 
+hereto; provided, however, that the MLP and the General Partner may not, 
+without the prior approval of the Conflicts Committee, agree to any 
+amendment or modification of this Agreement that, in the reasonable 
+determination of the General Partner, will adversely affect the holders of 
+common units of the MLP.
+ 
+Section 9.7. Assignment. No party shall have the right to assign its rights 
+or obligations under this Agreement without the consent of the other 
+parties hereto.
+
+23
+
+
+Section 9.8. Counterparts. This Agreement may be executed in any number of 
+counterparts with the same effect as if all signatory parties had signed 
+the same document. All counterparts shall be construed together and shall 
+constitute one and the same instrument.
+ 
+Section 9.9. Severability. If any provision of this Agreement or the 
+application thereof to any Person or circumstance shall be held invalid or 
+unenforceable to any extent, the remainder of this Agreement and the 
+application of such provision to other Persons or circumstances shall not 
+be affected thereby and shall be enforced to the greatest extent permitted 
+by law.
+ 
+Section 9.10. Gender, Parts, Articles and Sections. Whenever the context 
+requires, the gender of all words used in this Agreement shall include the 
+masculine, feminine and neuter, and the number of all words shall include 
+the singular and plural. All references to Article numbers and Section 
+numbers refer to Articles and Sections of this Agreement.
+ 
+Section 9.11. Further Assurances. In connection with this Agreement and all 
+transactions contemplated by this Agreement, each signatory party hereto 
+agrees to execute and deliver such additional documents and instruments and 
+to perform such additional acts as may be necessary or appropriate to 
+effectuate, carry out and perform all of the terms, provisions and 
+conditions of this Agreement and all such transactions.
+ 
+Section 9.12. Withholding or Granting of Consent. Each party may, with 
+respect to any consent or approval that it is entitled to grant pursuant to 
+this Agreement, grant or withhold such consent or approval in its sole 
+discretion, with or without cause, and subject to such conditions as it 
+shall deem appropriate.
+ 
+Section 9.13. Laws and Regulations. Notwithstanding any provision of this 
+Agreement to the contrary, no party to this Agreement shall be required to 
+take any act, or fail to take any act, under this Agreement if the effect 
+thereof would be to cause such party to be in violation of any applicable 
+law, statute, rule or regulation.
+ 
+Section 9.14. Negotiation of Rights of CMRE, Limited Partners, Assignees 
+and Third Parties. The provisions of this Agreement are enforceable solely 
+by the parties to this Agreement, and no shareholder of CMRE and no limited 
+partner, member, assignee or other Person of the MLP or York shall have the 
+right, separate and apart from CMRE, York or the MLP, as applicable, to 
+enforce any provision of this Agreement or to compel any party to this 
+Agreement to comply with the terms of this Agreement.
+ 
+Section 9.15. Conflict with Framework Agreement. To the extent that any 
+express provision of this Agreement conflicts with any provision of the 
+Framework Agreement, the Parties agree that the provisions of this 
+Agreement shall control.
+ 
+Section 9.16. Conflicts Committee Determinations. It is understood and 
+agreed that any requirement under this Agreement that the Conflicts 
+Committee approve the fair market value of a containership vessel or 
+related interests or the terms of a transaction related thereto shall be 
+deemed satisfied in relation to the MLP if the Conflicts Committee 
+determines that the relevant transaction is fair to the MLP from a 
+financial point of view.
+ 
+Section 9.17. Restrictive Covenant Agreement. It is understood and agreed 
+that if Konstantinos Konstantakopoulos is required to offer a containership 
+vessel or business to CMRE that CMRE in turn would be required to offer to 
+the General Partner for purchase by the Partnership Group under the 
+non-competition provisions of this Agreement, the General Partner can 
+require CMRE to exercise its right under the Restrictive Covenant Agreement 
+and cause such containership vessel or business to be offered to the 
+General Partner, in accordance with the provisions of Articles II, III and 
+IV of this Agreement. Furthermore, it is understood and agreed that if CMRE 
+should purchase a Five-Year Vessel or a containership vessel that later 
+becomes a Five-Year Vessel from Konstantinos Konstantakopoulos, such 
+acquisition and containership vessel will be subject to the provisions of 
+Articles II, III and IV of this Agreement.
+ 
+Section 9.18. Delegation of Management of MLP. It is understood and agreed 
+that, if the General Partner exercises its right to delegate management of 
+the MLP to a board of directors of the MLP, then the provisions of this 
+Agreement relating to the decision-making responsibilities of and provision 
+of notices to the General Partner shall be deemed to apply instead to the 
+board of directors of the MLP.
+
+24
+
+
+Section 9.19. Effectiveness. It is understood and agreed that this 
+Agreement has been executed and delivered to the Parties and that, without 
+any further action by any Party to this Agreement, this Agreement will 
+automatically become effective concurrent with and as of the Closing Date; 
+provided, however, that this Agreement shall have no effect prior to the 
+Closing Date and will automatically terminate if the Closing Date does not 
+occur on or prior to March 31, 2015.
+ 
+Section 9.20. Transfer Restrictions. Subject to any Transfer made in 
+accordance with the provisions of Article V, York shall not sell, transfer 
+or otherwise dispose of any of their JV Vessel Interests, enter into any 
+agreement in respect of any rights, title or interests attaching to such JV 
+Vessel Interests to the extent such JV Vessel Interests remain subject to 
+an option which has neither been exercised or lapsed for any Partnership 
+Group Member to acquire such JV Vessel Interests or to any right to 
+purchase such JV Vessel Interests under Article V or enter into any 
+agreement, conditional or otherwise, to do any of the foregoing, unless (a) 
+if the proposed transferee is not a York Entity, CMRE has provided a prior 
+written consent and (b) an agreement from the proposed transferee, in a 
+form reasonably satisfactory to the General Partner, to become party to 
+this Agreement and to be bound by the terms of Article VII of this 
+Agreement has been obtained.
+ 
+Section 9.21. York Capital Covenant. York Capital, on behalf of itself and 
+the York Funds, shall cause York to perform its obligations under this 
+Agreement and to take any and all steps necessary or reasonably desirable 
+to perform such obligations.
+ 
+[Signature Pages Follow]
+
+25
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on October 1, 
+2014, to be automatically effective as of the Closing Date.
+ 
+  	COSTAMARE INC.,
+  	  	 
+  	By: 	/s/ Anastassios Gabrielides
+  	  	Name: 	Anastassios Gabrielides
+  	  	Title: 	General Counsel and Secretary
+  	  	  	 
+  	Address for Notice:
+  	 
+  	Costamare Inc.
+  	60 Zephyrou Street &
+  	Syngrou Avenue
+  	17564 Athens Greece
+  	Telephone: 	+30-210-949-0050
+  	Fax: 	+30-210-949-6454
+  	Attention: 	Anastassios Gabrielides
+(General Counsel and Secretary)
+  	  	 
+  	COSTAMARE ventures INC.,
+  	  	 
+  	By: 	/s/ Anastassios Gabrielides
+  	  	Name: 	Anastassios Gabrielides
+  	  	Title: 	Secretary
+  	  	  	 
+  	Address for Notice:
+  	 
+  	Costamare Ventures Inc.
+  	60 Zephyrou Street &
+  	Syngrou Avenue
+  	17564 Athens Greece
+  	Telephone: 	+30-210-949-0050
+  	Fax: 	+30-210-949-6454
+  	Attention: 	
+Anastassios Gabrielides
+(Secretary)
+ 
+Signature Page to
+Omnibus Agreement
+ 
+
+  	COSTAMARE PARTNERS LP
+  	 
+  	  	By: COSTAMARE PARTNERS GP LLC,
+its general partner
+  	  	 
+  	By: 	/s/ Gregory Zikos
+  	  	Name: 	Gregory Zikos
+  	  	Title: 	Chief Financial Officer
+  	  	  	 
+  	Address for Notice:
+  	 
+  	Costamare Partners LP
+  	60 Zephyrou Street &
+  	Syngrou Avenue
+  	17564 Athens Greece
+  	Telephone: 	+30-210-949-0050
+  	Fax: 	 +30-210-949-6454
+  	Attention: 	Gregory Zikos
+(Chief Financial Officer of Costamare Partners GP LLC)
+  	  	 
+  	COSTAMARE PARTNERS GP LLC
+  	  	 
+  	By: 	/s/ Gregory Zikos
+  	  	Name: 	 Gregory Zikos
+  	  	Title: 	 Chief Financial Officer
+  	  	  	 
+  	Address for Notice:
+  	 
+  	Costamare Partners GP LLC
+  	60 Zephyrou Street &
+  	Syngrou Avenue
+  	17564 Athens Greece
+  	Telephone: 	+30-210-949-0050
+  	Fax: 	+30-210-949-6454
+  	Attention: 	Gregory Zikos
+(Chief Financial Officer)
+ 
+Signature Page to
+Omnibus Agreement
+ 
+
+  	COSTAMARE PARTNERS HOLDINGS LLC
+  	 
+  	  	SOLE MEMBER: COSTAMARE PARTNERS LP
+  	  	 
+  	  	By: COSTAMARE PARTNERS GP LLC,
+its general partner
+  	  	 
+  	By: 	/s/ Gregory Zikos
+  	  	Name: 	Gregory Zikos
+  	  	Title: 	Chief Financial Officer
+  	  	  	  	 
+  	Address for Notice:
+  	 
+  	Costamare Partners Holdings LLC
+  	60 Zephyrou Street &
+  	Syngrou Avenue
+  	17564 Athens Greece
+  	Telephone: 	+30-210-949-0050
+  	Fax: 	 +30-210-949-6454
+  	Attention: 	Gregory Zikos
+(Chief Financial Officer of Costamare Partners GP LLC)
+ 
+Signature Page to
+Omnibus Agreement
+ 
+
+  	SPARROW HOLDINGS, L.P.,
+  	 
+  	  	By: YORK GLOBAL FINANCE MANAGER, LLC,
+its general partner
+  	  	 
+  	By: 	/s/ John J. Fosina
+  	  	Name: 	John J. Fosina
+  	  	Title: 	Chief Financial Officer
+  	  	  	  	 
+  	Address for Notice:
+  	 
+  	Sparrow Holdings L.P.
+  	c/o York Capital Management Europe (UK) Advisors LLP
+  	23 Saville Row, 4th Floor
+  	London W1S 2ET, United Kingdom
+  	Telephone: 	+44-207-907-5600
+  	Fax: 	+44-207-907-5601
+  	Email: 	sparrow@yorkcapital.com
+  	Attention: 	Legal Department
+  	  	 
+  	BLUEBIRD HOLDINGS, L.P.,
+  	 
+  	  	By: YORK EUROPEAN OPPORTUNITIES DOMESTIC HOLDINGS, LLC, its general 
+partner
+  	  	 
+  	By: 	/s/ John J. Fosina
+  	  	Name: 	John J. Fosina
+  	  	Title: 	Chief Financial Officer
+  	  	  	  	 
+  	Address for Notice:
+  	 
+  	Bluebird Holdings L.P.
+  	c/o York Capital Management Europe (UK) Advisors LLP
+  	23 Saville Row, 4th Floor
+  	London W1S 2ET, United Kingdom
+  	Telephone: 	+44-207-907-5600
+  	Fax: 	+44-207-907-5601
+  	Email: 	sparrow@yorkcapital.com
+  	Attention: 	Legal Department
+ 
+Signature Page to
+Omnibus Agreement
+ 
+
+  	YORK CAPITAL MANAGEMENT GLOBAL ADVISORS LLC, on behalf of itself and as 
+agent for the York Funds,
+  	  	 
+  	By: 	/s/ John J. Fosina
+  	  	Name: 	John J. Fosina
+  	  	Title: 	Chief Financial Officer
+  	  	  	 
+  	Address for Notice:
+  	 
+  	York Capital Management Global Advisors LLC
+  	c/o York Capital Management Europe (UK) Advisors LLP
+  	23 Saville Row, 4th Floor
+  	London W1S 2ET, United Kingdom
+  	Telephone: 	+44-207-907-5600
+  	Fax: 	+44-207-907-5601
+  	Email: 	sparrow@yorkcapital.com
+  	Attention: 	Legal Department
+ 
+Signature Page to
+Omnibus Agreement
+ 
+
+SCHEDULE I
+ 
+List of York Funds
+ 
+  	1. 	York Capital Management L.P.
+  	  	 
+  	2. 	York Multi-Strategy Master Fund, L.P.
+  	  	 
+  	3. 	York Credit Opportunities Fund, L.P.
+  	  	 
+  	4. 	York Credit Opportunities Investments Master Fund, L.P.
+  	  	 
+  	5. 	York European Opportunities Investments Master Fund, L.P.
+  	  	 
+  	6. 	York European Focus Master Fund, L.P.
+  	  	 
+  	7. 	York European Distressed Credit Fund, L.P.
+ 
+
+ANNEX A
+[Form of purchase and sale agreement]
+ 
+
+ANNEX A
+ 
+ 
+ 
+[FORM OF]
+SHARE PURCHASE AGREEMENT
+ 
+Dated [•], [•]
+ 
+among
+ 
+COSTAMARE INC.,
+ 
+COSTAMARE VENTURES INC.,
+ 
+SPARROW HOLDINGS L.P.,
+ 
+BLUEBIRD HOLDINGS L.P.,
+ 
+COSTAMARE PARTNERS GP LLC
+ 
+and
+ 
+COSTAMARE PARTNERS LP
+ 
+ 
+ 
+
+ 
+TABLE OF CONTENTS
+ 
+  	  	Page
+  	  	 
+ARTICLE I
+ 
+Interpretation
+ 
+SECTION 1.01. 	Definitions 	2
+  	  	 
+ARTICLE II
+ 
+Purchase and Sale of Shares; Closing
+ 
+SECTION 2.01. 	Purchase and Sale of Shares 	7
+SECTION 2.02. 	Closing 	7
+SECTION 2.03. 	Place of Closing 	7
+SECTION 2.04. 	Purchase Price for Shares 	7
+SECTION 2.05. 	Payment of the Purchase Price 	8
+  	  	 
+ARTICLE III
+ 
+Representations and Warranties of the Buyer
+ 
+SECTION 3.01. 	Organization and Limited Partnership Authority 	8
+SECTION 3.02. 	Agreement Not in Breach of Other Instruments 	8
+SECTION 3.03. 	No Legal Bar 	8
+SECTION 3.04. 	Securities Act 	9
+SECTION 3.05. 	Independent Investigation 	9
+  	  	 
+ARTICLE IV
+ 
+Representations and Warranties of the Costamare Seller
+ 
+SECTION 4.01. 	Organization and Corporate Authority 	9
+SECTION 4.02. 	Agreement Not in Breach 	9
+SECTION 4.03. 	No Legal Bar 	10
+SECTION 4.04. 	Good and Marketable Title to Shares 	10
+SECTION 4.05. 	The Costamare Shares 	10
+  	  	 
+ARTICLE V
+ 
+Representations and Warranties of the York Seller
+ 
+SECTION 5.01. 	Organization and Corporate Authority 	10
+SECTION 5.02. 	Agreement Not in Breach 	11
+SECTION 5.03. 	No Legal Bar 	11
+SECTION 5.04. 	Good and Marketable Title to Shares 	11
+SECTION 5.05. 	The York Shares 	11
+
+i
+
+
+ARTICLE VI
+ 
+Representations and Warranties Regarding the Vessel Owner
+ 
+SECTION 6.01. 	Organization Good Standing and Authority 	12
+SECTION 6.02. 	Capitalization; Good and Marketable Title to Shares 	12
+SECTION 6.03. 	Organizational Documents 	12
+SECTION 6.04. 	Agreement Not in Breach 	12
+SECTION 6.05. 	Litigation 	12
+SECTION 6.06. 	Indebtedness to and from Officers, etc 	13
+SECTION 6.07. 	Personnel 	13
+SECTION 6.08. 	Contracts and Agreements 	13
+SECTION 6.09. 	Compliance with Law 	13
+SECTION 6.10. 	No Undisclosed Liabilities 	13
+SECTION 6.11. 	Payment of Taxes 	14
+SECTION 6.12. 	Permits 	14
+  	  	 
+ARTICLE VII
+ 
+Representations and Warranties Regarding the Vessel
+ 
+SECTION 7.01. 	Title to Vessel 	14
+SECTION 7.02. 	No Encumbrances 	14
+SECTION 7.03. 	Condition 	15
+  	  	 
+ARTICLE VIII
+ 
+Covenants
+ 
+SECTION 8.01. 	Financial Statements 	15
+SECTION 8.02. 	Expenses 	15
+SECTION 8.03. 	Commercially Reasonable Efforts; Financing 	16
+SECTION 8.04. 	Tests and Surveys 	16
+SECTION 8.05. 	Further Assurances 	16
+SECTION 8.06. 	Covenants of the Costamare Parties and the York Parties 
+Prior to Closing 	16
+SECTION 8.07. 	Management Agreement and Shipmanagement Agreement 	17
+  	  	 
+ARTICLE IX
+ 
+Conditions to Closing
+ 
+SECTION 9.01. 	Mutual Conditions 	17
+SECTION 9.02. 	Conditions to the Obligation of Buyer 	18
+SECTION 9.03. 	Conditions to the Obligation of the Costamare Parties and 
+the York Parties 	18
+
+ii
+
+
+ARTICLE X
+ 
+Amendments and Waivers
+ 
+SECTION 10.01. 	Amendments and Waivers 	19
+  	  	 
+ARTICLE XI
+ 
+Indemnification
+ 
+SECTION 11.01. 	Indemnity by the Costamare Seller 	19
+SECTION 11.02. 	Indemnity by the York Parties 	19
+SECTION 11.03. 	Indemnity by the Costamare Seller and the York Parties 	20
+SECTION 11.04. 	Limitation Regarding Indemnification 	21
+SECTION 11.05. 	Indemnity by the Buyer 	21
+SECTION 11.06. 	Indemnification Procedures 	22
+SECTION 11.07. 	Exclusive Post-Closing Remedy 	23
+  	  	 
+ARTICLE XII
+ 
+Termination
+ 
+SECTION 12.01. 	Termination 	23
+SECTION 12.02. 	Effect of Termination 	24
+  	  	 
+ARTICLE XIII
+ 
+Miscellaneous
+ 
+SECTION 13.01. 	Governing Law 	24
+SECTION 13.02. 	Counterparts 	24
+SECTION 13.03. 	Complete Agreement 	24
+SECTION 13.04. 	Interpretation 	25
+SECTION 13.05. 	Severability 	25
+SECTION 13.06. 	Third Party Rights 	25
+SECTION 13.07. 	Notices 	25
+SECTION 13.08. 	Representations and Warranties to Survive 	26
+SECTION 13.09. 	Remedies 	27
+SECTION 13.10. 	Several and Not Joint Liability 	27
+SECTION 13.11. 	General Partner 	27
+  	  	 
+Schedule 	Respective Proportions 	 
+
+iii
+
+
+1
+
+This SHARE PURCHASE AGREEMENT, dated as of [•], [•], is made by and among 
+COSTAMARE INC. (“CMRE”), a corporation formed under the laws of the 
+Republic of the Marshall Islands, COSTAMARE VENTURES INC. (the “Costamare 
+Seller” and, together with CMRE, the “Costamare Parties”), a corporation 
+formed under the laws of the Republic of the Marshall Islands and a wholly 
+owned subsidiary of CMRE, SPARROW HOLDINGS L.P. (“Sparrow”), a limited 
+partnership organized under the laws of the Cayman Islands, BLUEBIRD 
+HOLDINGS L.P. (the “York Seller” and, together with the Costamare Seller, 
+the “Sellers”), a limited partnership organized under the laws of the 
+Cayman Islands and a wholly owned subsidiary of Sparrow, COSTAMARE PARTNERS 
+GP LLC (the “General Partner”), a limited liability company formed under 
+the laws of the Republic of the Marshall Islands and the general partner of 
+Buyer (as defined below), and COSTAMARE PARTNERS LP (the “Buyer”), a 
+limited partnership organized under the laws of the Republic of the 
+Marshall Islands.1
+ 
+WHEREAS the Sellers are collectively the registered owners and shareholder 
+of record of all the authorized and issued share capital of [•], a [•], 
+with its registered office at [•] (the “Vessel Owner”) and such Vessel 
+Owner [is the registered owner of][leases] the [•] flagged vessel the [•] 
+(the “Vessel”) [under a bareboat charter party dated [•], [•] from [•] (the 
+“Owner”) (as amended or supplemented, the “Bareboat Charter”)].
+ 
+WHEREAS the Vessel is employed by [•], a [•] and whose registered office is 
+[•], as charterer (the “Charterer”) under a charter party dated [•], [•] 
+entered into between the Vessel Owner and the Charterer (as amended or 
+supplemented, the “Charter”).
+ 
+WHEREAS CMRE and the York Parties have notified the General Partner that 
+Buyer in accordance with the Omnibus Agreement has the right to acquire all 
+of the Costamare Parties’ and the York Parties’ rights, title and interests 
+in the Vessel pursuant to the Omnibus Agreement.
+ 
+WHEREAS the General Partner has elected to exercise the right for the Buyer 
+to purchase all of the Costamare Parties’ and the York Parties’ rights, 
+title and interests in the Vessel pursuant to the Omnibus Agreement.
+ 
+ 
+1 Note to Draft: The form of share purchase agreement is structured for the 
+transfer of a JV Vessel by a Costamare Seller and a York Seller. In the 
+case of the transfer of a vessel that is owned by CMRE or its affiliates 
+that is not a JV Vessel, this form of share purchase agreement should be 
+amended as appropriate to reflect the different ownership structure of the 
+vessel and vessel owner. Such amendments may include, but are not limited 
+to, removing the York Parties as parties, deleting references to the York 
+Parties and the York Seller Entities, deleting representations, warranties, 
+covenants and indemnity obligations insofar as they relate to the York 
+Parties and removing provisions relating to the allocation of liabilities 
+between the Costamare Parties and the York Parties.
+ 
+
+2
+
+WHEREAS pursuant to the exercise of the General Partner’s right under the 
+Omnibus Agreement, Buyer is entering into this Agreement to acquire all of 
+the Costamare Parties’ and the York Parties’ rights, title and interests in 
+the Vessel by purchasing from the Sellers, and the Sellers are entering 
+into this Agreement to sell all of the Costamare Parties’ and the York 
+Parties’ rights, title and interests in the Vessel by selling to the Buyer, 
+all of the authorized and issued share capital of the Vessel Owner (the “
+Shares”) which are registered in the names of the Sellers subject to the 
+terms and conditions of this Agreement.
+ 
+WHEREAS the Buyer, the General Partner and Costamare Shipping Company S.A. 
+(the “Manager”), a company formed under the laws of the Republic of Panama, 
+are parties to a management agreement dated [•], 2014 (the “Management 
+Agreement”) and the Manager and the Vessel Owner are parties to a 
+Shipmanagement Agreement dated [•], 2014 for the technical and commercial 
+management of the Vessel (the “Shipmanagement Agreement”).
+ 
+     NOW, THEREFORE, the parties hereto agree as follows:
+      
+ARTICLE I
+ 
+Interpretation
+ 
+SECTION 1.01. Definitions. In this Agreement, unless the context requires 
+otherwise or unless otherwise specifically provided herein, the following 
+terms shall have the respective meanings set out below and grammatical 
+variations of such terms shall have corresponding meanings:
+ 
+“Acquisition” has the meaning given to it in Section 2.01.
+ 
+“Agreement” means this Agreement, including its preamble and schedule, as 
+amended, supplemented, restated or otherwise modified from time to time.
+ 
+“Applicable Law” in respect of any Person, property, transaction or event, 
+means all laws, statutes, ordinances, regulations, municipal by-laws, 
+treaties, judgments and decrees applicable to that Person, property, 
+transaction or event and, whether or not having the force of law, all 
+applicable official directives, rules, consents, approvals, authorizations, 
+guidelines, orders, codes of practice and policies of any Governmental 
+Authority having authority over that Person, property, transaction or event 
+and all general principles of common law and equity.
+ 
+[“Bareboat Charter” has the meaning given to it in the preamble.]
+ 
+“Board of Directors” means the board of directors of the General Partner 
+unless and until the General Partner exercises its right to delegate 
+management of the Buyer to the board of directors of the Buyer (in which 
+case, “Board of Directors” means the board of directors of the Buyer).
+ 
+“Buyer” has the meaning given to it in the preamble.
+ 
+
+3
+
+“Buyer Entities” means the Buyer and its subsidiaries.
+ 
+“Buyer Indemnitees” has the meaning given to it in Section 11.01.
+ 
+“Charter” has the meaning given to it in the preamble.
+ 
+“Charterer” has the meaning given to it in the preamble.
+ 
+“Closing” has the meaning given to it in Section 2.02.
+ 
+“Closing Date” has the meaning given to it in Section 2.02.
+ 
+“CMRE” has the meaning given to it in the preamble.
+ 
+“Commission” means the Securities and Exchange Commission.
+ 
+“Commitment” means (a) options, warrants, convertible securities, 
+exchangeable securities, subscription rights, conversion rights, exchange 
+rights or other contracts that could require a Person to issue any of its 
+equity interests or to sell any equity interests it owns in another Person 
+(other than this Agreement and the related transaction documents); (b) any 
+other securities convertible into, exchangeable or exercisable for, or 
+representing the right to subscribe for any equity interest of a Person or 
+owned by a Person; and (c) stock appreciation rights, phantom stock, profit 
+participation, or other similar rights with respect to a Person.
+ 
+“Conflicts Committee” means the Conflicts Committee of the Board of 
+Directors.
+ 
+“Contracts” means [the Bareboat Charter,] the Charter and the 
+Shipmanagement Agreement.
+ 
+“Costamare Parties” has the meaning given to it in the preamble.
+ 
+“Costamare Seller” has the meaning given to it in the preamble.
+ 
+“Costamare Seller Entities” means the Costamare Parties and their 
+affiliates other than the York Seller Entities and the Buyer Entities.
+ 
+“Costamare Shares” means the Shares registered in the name of the Costamare 
+Seller.
+ 
+“Covered Environmental Losses” means all Losses suffered or incurred by the 
+Buyer Entities by reason of, arising out of or resulting from:
+ 
+           (a) any violation or correction of violation of Environmental
+           Laws; or
+            
+           (b) any event or condition relating to environmental or human
+           health and safety matters, in each case, associated with the
+           ownership or operation by the Buyer Entities or the Seller
+           Entities
+ 
+
+4
+
+           of the Vessel Owner and its assets (including, without
+           limitation, the presence of Hazardous Substances on, under,
+           about or migrating to or from the Vessel or the disposal or
+           release of, or exposure to, Hazardous Substances generated by or
+           otherwise related to operation of the Vessel), including,
+           without limitation, the reasonable and documented cost and
+           expense of (i) any investigation, assessment, evaluation,
+           monitoring, containment, cleanup, repair, restoration,
+           remediation or other corrective action required or necessary
+           under Environmental Laws, (ii) the preparation and
+           implementation of any closure, remedial, corrective action or
+           other plans required or necessary under Environmental Laws and
+           (iii) any environmental or toxic tort (including, without
+           limitation, personal injury or property damage claims)
+           pre-trial, trial or appellate legal or litigation support work;
+            
+but only to the extent that such violation complained of under clause (a), 
+or such events or conditions included in clause (b), is proven to have 
+occurred before the Closing Date; and, provided, that in no event shall 
+Losses to the extent arising from a change in any Environmental Law after 
+the Closing Date be deemed Covered Environmental Losses.
+ 
+“CPHL” means Costamare Partners Holdings LLC, a Marshall Islands limited 
+liability company and wholly-owned subsidiary of the Buyer.
+ 
+“Disclosure Schedules” has the meaning given to it in the introduction to 
+Article III.
+ 
+“Encumbrance” means any mortgage, lien, charge, assignment, adverse claim, 
+hypothecation, restriction, option, covenant, condition or encumbrance, 
+whether fixed or floating, on, or any security interest in, any property 
+whether real, personal or mixed, tangible or intangible, any pledge or 
+hypothecation of any property, any deposit arrangement, priority, 
+conditional sale agreement, other title retention agreement or equipment 
+trust, capital lease or other security arrangements of any kind.
+ 
+“Environmental Laws” means all international, federal, state, foreign and 
+local laws, statutes, rules, regulations, treaties, conventions, orders, 
+judgments and ordinances having the force and effect of law and relating to 
+protection of natural resources, health and safety and the environment, 
+each in effect and as amended through the Closing Date.
+ 
+“Equity Interest” means (a) with respect to any entity, any and all shares 
+or other ownership interest and any Commitments with respect thereto, (b) 
+any other direct equity ownership or participation in a Person and (c) any 
+Commitments with respect to the interests described in (a) or (b).
+ 
+“General Partner” has the meaning given to it in the preamble.
+ 
+“Governmental Authority” means any domestic or foreign government, 
+including federal, provincial, state, municipal, county or regional 
+government or governmental or regulatory authority, domestic or foreign, 
+and includes any department,
+ 
+
+5
+
+commission, bureau, board, administrative agency or regulatory body of any 
+of the foregoing and any multinational or supranational organization which, 
+in each case, has jurisdiction over the transactions contemplated by this 
+Agreement, the Vessel Owner or any of the Parties or any of their 
+respective assets or of the jurisdiction of the flag state of the Vessel or 
+any jurisdiction in which the Vessel is situated or otherwise with which 
+the industry customarily complies with.
+ 
+“Hazardous Substances” means (a) each substance defined, designated or 
+classified as a hazardous waste, hazardous substance, hazardous material, 
+solid waste, contaminant or toxic substance under Environmental Laws; (b) 
+petroleum and petroleum products, including crude oil and any fractions 
+thereof; (c) natural gas, synthetic gas and any mixtures thereof; (d) any 
+radioactive material; and (e) any asbestos-containing materials in a 
+friable condition.
+ 
+“Indemnified Party” has the meaning given to it in Section 11.06(a).
+ 
+“Indemnifying Party” has the meaning given to it in Section 11.06(a).
+ 
+“Losses” means losses, damages, liabilities, claims, demands, causes of 
+action, judgments, settlements, fines, penalties, costs and expenses 
+(including, without limitation, court costs and reasonable attorneys’ fees 
+and experts’ fees) of any and every kind or character; provided, however, 
+that such term shall not include any exemplary, punitive, special, 
+indirect, incidental or consequential damages.
+ 
+“Management Agreement” has the meaning given to it in the preamble.
+ 
+“Manager” has the meaning given to it in the preamble.
+ 
+“Omnibus Agreement” means the Omnibus Agreement dated as of [•], 2014, 
+among the Costamare Parties, the Buyer, the General Partner, CPHL, the York 
+Parties and York Capital Management Global Advisors LLC on behalf of itself 
+and on behalf of certain funds.
+ 
+“Organizational Documents” has the meaning given to it in Section 6.03.
+ 
+[“Owner” has the meaning given to it in the preamble.]
+ 
+“Parties” means all parties to this Agreement and “Party” means any one of 
+them.
+ 
+“Partnership Agreement” means the Agreement of Limited Partnership of the 
+Buyer dated [•], 2014, as amended from time to time.
+ 
+“Permits” has the meaning given to it in Section 6.13.
+ 
+“Permitted Maritime Lien” means in relation to the Vessel, any maritime 
+liens which accrue as a result of normal operation of the Vessel 
+[including, without limitation:
+ 
+
+6
+
+(a) any ship repairer’s or outfitter’s possessory lien in respect of the 
+Vessel for an amount not exceeding $500,000;
+ 
+(b) any lien on the Vessel for master’s, officer’s or crew’s wages or 
+compensation for civil wrongs outstanding in the ordinary course of its 
+trading;
+ 
+(c) any lien on the Vessel for towage, salvage, wharfage, anchorage, 
+pilotage, lighthouse or other port fees or liens arising from a collision; 
+and
+ 
+(d) liens incurred in connection with supplies or services provided to the 
+Vessel.
+ 
+“Person” means an individual, entity or association, including any legal 
+personal representative, corporation, body corporate, firm, partnership, 
+trust, trustee, syndicate, joint venture, unincorporated organization or 
+Governmental Authority.
+ 
+“Purchase Price” has the meaning given to it in Section 2.04.
+ 
+“Respective Proportion” for the Costamare Seller, on the one hand, and the 
+York Parties, on the other hand, means the applicable percentage set forth 
+in the Schedule.
+ 
+“Securities Act” means the Securities Act of 1933, as amended from time to 
+time.
+ 
+“Sellers” has the meaning given to it in the preamble.
+ 
+“Seller Entities” means the Costamare Parties, the York Parties and their 
+respective affiliates other than the Buyer Entities.
+ 
+“Seller Indemnitees” has the meaning given to it in Section 11.05.
+ 
+“Shares” has the meaning given to it in the preamble.
+ 
+“Shipmanagement Agreement” has the meaning given to it in the preamble.
+ 
+“Sparrow” has the meaning given to it in the preamble.
+ 
+“Taxes” means all income, franchise, business, property, sales, use, goods 
+and services or value added, withholding, excise, alternate minimum 
+capital, transfer, excise, customs, anti-dumping, stumpage, countervail, 
+net worth, stamp, registration, franchise, payroll, employment, health, 
+education, business, school, property, local improvement, development, 
+education development and occupation taxes, surtaxes, duties, levies, 
+imposts, rates, fees, assessments, dues and charges and other taxes 
+required to be reported upon or paid to any domestic or foreign 
+jurisdiction and all interest and penalties thereon.
+ 
+“Vessel” has the meaning given to it in the preamble.
+ 
+
+7
+
+“Vessel Owner” has the meaning given to it in the preamble.
+ 
+“York Parties” means Sparrow and the York Seller.
+ 
+“York Seller” has the meaning given to it in the preamble.
+ 
+“York Seller Entities” means the York Parties and their affiliates other 
+than the Costamare Seller Entities and the Buyer Entities.
+ 
+“York Shares” means the Shares registered in the name of the York Seller.
+ 
+ARTICLE II
+ 
+Purchase and Sale of Shares; Closing
+ 
+SECTION 2.01. Purchase and Sale of Shares. The Sellers agrees to sell and 
+transfer to the Buyer, CMRE agrees to cause the Costamare Seller and 
+Sparrow agrees to cause the York Seller to sell and transfer to the Buyer 
+and the Buyer agrees to purchase from the Sellers for the Purchase Price 
+and in accordance with and subject to the terms and conditions set forth in 
+this Agreement, the Shares which in turn shall result in the Buyer 
+indirectly owning the Vessel and indirectly entitled to the rights under 
+the Contracts (the “Acquisition”). The Sellers shall transfer the Shares to 
+CPHL at Closing, unless Buyer shall before Closing nominate a different 
+Buyer Entity to receive the Shares.
+ 
+SECTION 2.02. Closing. On the terms of this Agreement and subject to the 
+satisfaction or waiver of the conditions set forth in Article IX, the sale 
+and transfer of the Shares and payment of the Purchase Price shall take 
+place on the date (such date, the “Closing Date”) that is five business 
+days after the satisfaction or waiver of all of the conditions set forth in 
+Article IX (other than those conditions to be satisfied on the Closing 
+Date) or such other date as the Sellers and Buyer shall otherwise agree. 
+The sale and transfer of the Shares is hereinafter referred to as “Closing
+”.
+ 
+SECTION 2.03. Place of Closing. The Closing shall take place at 60 Zephyrou 
+Street & Syngrou Avenue, 17564 Athens, Greece or any other place as 
+designated by the Sellers.
+ 
+SECTION 2.04. Purchase Price for Shares. On the Closing Date, the Buyer 
+shall pay to the Sellers (to such accounts and beneficiaries being Seller 
+Entities as the Costamare Seller, on the one hand, and the York Seller, on 
+the other hand, shall designate) the amount of U.S. dollars [•] (the “
+Purchase Price”) in exchange for the Shares.2 The Purchase Price may be 
+payable by Buyer in part, in lieu of cash, by the transfer and assumption 
+in full of associated debt obligations of the Vessel Owner. The
+ 
+ 
+2 Note to Draft: The purchase price is payable in cash unless the parties 
+agree that the consideration will be paid by means of equity of the MLP, an 
+interest-bearing promissory note, other form of consideration or 
+combination thereof.
+ 
+
+8
+
+Purchase Price shall be allocated between, and paid by Buyer to, the 
+Costamare Seller and the York Seller in accordance with their Respective 
+Proportions.
+ 
+SECTION 2.05. Payment of the Purchase Price. The Purchase Price will be 
+paid by the Buyer to the Costamare Seller and the York Seller by wire 
+transfer of immediately available funds to the account and beneficiary 
+being a Seller Entity designated in writing by each Seller.
+ 
+ARTICLE III
+ 
+Representations and Warranties of the Buyer
+ 
+The Buyer represents and warrants to the Sellers that as of the date hereof 
+and as of the Closing Date, except as set forth in the disclosure schedules 
+delivered prior to the date of this Agreement (the “Disclosure Schedules
+”):
+ 
+SECTION 3.01. Organization and Limited Partnership Authority. The Buyer is 
+duly formed, validly existing and in good standing under the laws of the 
+Republic of the Marshall Islands, and has all requisite limited partnership 
+power and authority to enter into this Agreement and to consummate the 
+transactions contemplated hereby. This Agreement has been duly executed and 
+delivered by the Buyer and the General Partner, has been effectively 
+authorized by all necessary action, limited partnership or otherwise, and 
+constitutes legal, valid and binding obligations of the Buyer and the 
+General Partner. No meeting has been convened or resolution proposed or 
+petition presented and no order has been made to wind up the Buyer. The 
+General Partner’s decision that the Buyer purchase the Shares and the 
+Purchase Price have been approved by the Conflicts Committee.
+ 
+SECTION 3.02. Agreement Not in Breach of Other Instruments. The execution 
+and delivery of this Agreement, the consummation of the transactions 
+contemplated hereby and the fulfillment of the terms hereof will not result 
+in a breach of any of the terms or provisions of, or constitute a default 
+under, or conflict with, or give any other party thereto a right to 
+terminate, any agreement or other instrument to which the Buyer is a party 
+or by which it is bound, including its certificate of formation and 
+partnership agreement, any judgment, decree, order or award of any court, 
+governmental body or arbitrator by which the Buyer is bound, or any law, 
+rule or regulation applicable to the Buyer which would have a material 
+effect on the transactions contemplated hereby or the ability of Buyer to 
+pay the Purchase Price to the Sellers at the Closing.
+ 
+SECTION 3.03. No Legal Bar. The Buyer is not prohibited or restricted by 
+any order, writ, injunction or decree of any body of competent jurisdiction 
+from consummating the transactions contemplated by this Agreement and no 
+such action or proceeding is pending or, to the best of its knowledge and 
+belief, threatened against the Buyer which questions the validity of this 
+Agreement, any of the transactions contemplated hereby or any action which 
+has been taken by any of the parties in connection herewith or in 
+connection with any of the transactions contemplated hereby.
+ 
+
+9
+
+SECTION 3.04. Securities Act. The Shares purchased by the Buyer pursuant to 
+this Agreement are being acquired for investment purposes only and not with 
+a view to any public distribution thereof, and the Buyer shall not offer to 
+sell or otherwise dispose of the Shares so acquired by it in violation of 
+any of the registration requirements of the Securities Act. The Buyer 
+acknowledges that it is able to fend for itself, can bear the economic risk 
+of its investment in the Shares, and has such knowledge and experience in 
+financial and business matters that it is capable of evaluating the merits 
+and risks of an investment in all of the Shares. The Buyer understands 
+that, when transferred to the Buyer at the Closing, none of the Shares will 
+be registered pursuant to the Securities Act and that all of the Shares 
+will constitute “restricted securities” under the federal securities laws 
+of the United States.
+ 
+SECTION 3.05. Independent Investigation. The Buyer has had the opportunity 
+to conduct to its own satisfaction independent investigation, review and 
+analysis of the business, operations, assets, liabilities, results of 
+operations, financial condition and prospects of the Vessel Owner and the 
+Vessel and, in making the determination to proceed with the transactions 
+contemplated hereby, has relied solely on the results of its own 
+independent investigation and the representations and warranties set forth 
+in Articles IV, V, VI and VII.
+ 
+ARTICLE IV
+ 
+Representations and Warranties of the Costamare Seller
+ 
+The Costamare Seller represents and warrants to the Buyer that as of the 
+date hereof and as of the Closing Date, except as set forth in the 
+Disclosure Schedules:
+ 
+SECTION 4.01. Organization and Corporate Authority. Each of CMRE and the 
+Costamare Seller is duly incorporated, validly existing and in good 
+standing under the laws of the Republic of the Marshall Islands, and has 
+all requisite corporate power and authority to enter into this Agreement 
+and to consummate the transactions contemplated hereby. This Agreement has 
+been duly executed and delivered by each of CMRE and the Costamare Seller, 
+has been effectively authorized by all necessary action, corporate or 
+otherwise, and constitutes legal, valid and binding obligations of each of 
+CMRE and the Costamare Seller. No meeting has been convened or resolution 
+proposed or petition presented and no order has been made to wind up either 
+of CMRE or the Costamare Seller.
+ 
+SECTION 4.02. Agreement Not in Breach. The execution and delivery of this 
+Agreement, the consummation of the transactions contemplated hereby and the 
+fulfillment of the terms hereof will not violate, or result in a breach of, 
+any of the terms or provisions of, or constitute a default under, or 
+conflict with, or give any other party thereto a right to terminate, any 
+agreement or other instrument to which any of the Costamare Parties is a 
+party or by which any such entity is bound including, without limitation, 
+the organizational documents of any of the Costamare Parties, any judgment, 
+decree, order or award of any court, governmental body or arbitrator by 
+which any of the Costamare Parties is bound, or any law, rule or regulation 
+applicable to any of the
+ 
+
+10
+
+Costamare Parties that would have a material effect on the transactions 
+contemplated hereby.
+ 
+SECTION 4.03. No Legal Bar. None of the Costamare Parties is prohibited by 
+any order, writ, injunction or decree of any body of competent jurisdiction 
+from consummating the transactions contemplated by this Agreement and no 
+such action or proceeding is pending or, to the best of its knowledge and 
+belief, threatened against any of the Costamare Parties which questions the 
+validity of this Agreement, any of the transactions contemplated hereby or 
+any action which has been taken by any of the parties in connection 
+herewith or in connection with any of the transactions contemplated hereby.
+ 
+SECTION 4.04. Good and Marketable Title to Shares. There are not 
+outstanding any options, warrants or other rights, or securities 
+convertible into or exchangeable for such options, warrants or other 
+rights, to purchase from the Costamare Seller any Equity Interests of the 
+Vessel Owner.
+ 
+SECTION 4.05. The Costamare Shares. Assuming the Buyer or the applicable 
+Buyer Entity has the requisite power and authority to be the lawful owner 
+of the Costamare Shares, upon delivery to the Buyer or the applicable Buyer 
+Entity at the Closing of instruments sufficient to evidence the transfer 
+from the Costamare Seller to the Buyer (or the applicable Buyer Entity) of 
+the Costamare Shares under the Applicable Laws of the relevant 
+jurisdiction, or delivery of such Costamare Shares by electronic means, and 
+upon or simultaneously with the Sellers’ receipt of the Purchase Price, the 
+Buyer or the applicable Buyer Entity shall own good and valid title to the 
+Costamare Shares, free and clear of any Encumbrances, other than those 
+arising under the Charter or otherwise from acts of the Buyer Entities. 
+Other than this Agreement and any related transaction documents, the 
+Organizational Documents and the Charter and restrictions imposed by 
+Applicable Law, at the Closing, the Costamare Shares will not be subject to 
+any voting trust agreement or other contract, agreement, arrangement, 
+commitment or understanding restricting or otherwise relating to the 
+voting, dividend rights or disposition of the Costamare Shares, other than 
+any agreement to which any Buyer Entity is a party.
+ 
+ARTICLE V
+ 
+Representations and Warranties of the York Seller
+ 
+The York Seller represents and warrants to the Buyer that as of the date 
+hereof and as of the Closing Date, except as set forth in the Disclosure 
+Schedules:
+ 
+SECTION 5.01. Organization and Corporate Authority. Each of the York 
+Parties is duly incorporated or formed, validly existing and in good 
+standing under the respective laws of its jurisdiction of incorporation or 
+formation, and has all requisite power and authority to enter into this 
+Agreement and to consummate the transactions contemplated hereby. This 
+Agreement has been duly executed and delivered by each of the York Parties, 
+has been effectively authorized by all necessary action, company, limited 
+partnership or otherwise, and constitutes legal, valid and binding 
+obligations of
+ 
+
+11
+
+each of the York Parties. No meeting has been convened or resolution 
+proposed or petition presented and no order has been made to wind up any of 
+the York Parties.
+ 
+SECTION 5.02. Agreement Not in Breach. The execution and delivery of this 
+Agreement, the consummation of the transactions contemplated hereby and the 
+fulfillment of the terms hereof will not violate, or result in a breach of, 
+any of the terms or provisions of, or constitute a default under, or 
+conflict with, or give any other party thereto a right to terminate, any 
+agreement or other instrument to which any of the York Parties is a party 
+or by which any such entity is bound including, without limitation, the 
+organizational documents of any of the York Parties, any judgment, decree, 
+order or award of any court, governmental body or arbitrator by which any 
+of the York Parties is bound, or any law, rule or regulation applicable to 
+any of the York Parties that would have a material effect on the 
+transactions contemplated hereby.3
+ 
+SECTION 5.03. No Legal Bar. None of the York Parties is prohibited by any 
+order, writ, injunction or decree of any body of competent jurisdiction 
+from consummating the transactions contemplated by this Agreement and no 
+such action or proceeding is pending or, to the best of its knowledge and 
+belief, threatened against any of the York Parties which questions the 
+validity of this Agreement, any of the transactions contemplated hereby or 
+any action which has been taken by any of the parties in connection 
+herewith or in connection with any of the transactions contemplated hereby.
+ 
+SECTION 5.04. Good and Marketable Title to Shares. There are not 
+outstanding any options, warrants or other rights, or securities 
+convertible into or exchangeable for such options, warrants or other 
+rights, to purchase from the York Seller any Equity Interests of the Vessel 
+Owner.
+ 
+SECTION 5.05. The York Shares. Assuming the Buyer or the applicable Buyer 
+Entity has the requisite power and authority to be the lawful owner of the 
+York Shares, upon delivery to the Buyer or the applicable Buyer Entity at 
+the Closing of instruments sufficient to evidence the transfer from the 
+York Seller to the Buyer (or the applicable Buyer Entity) of the York 
+Shares under the Applicable Laws of the relevant jurisdiction, or delivery 
+of such York Shares by electronic means, and upon or simultaneously with 
+the Sellers’ receipt of the Purchase Price, the Buyer or the applicable 
+Buyer Entity shall own good and valid title to the York Shares, free and 
+clear of any Encumbrances, other than those arising under the Charter or 
+otherwise from acts of the Buyer Entities. Other than this Agreement and 
+any related transaction documents, the Organizational Documents and the 
+Charter and restrictions imposed by Applicable Law, at the Closing, the 
+York Shares will not be subject to any voting trust agreement or other 
+contract, agreement, arrangement, commitment or understanding restricting 
+or otherwise relating to the voting, dividend rights or disposition of the 
+York Shares, other than any agreement to which any Buyer Entity is a party.
+ 
+ 
+3 Note to Draft: Representation in the Share Purchase Agreement for the 
+last JV Vessel to be qualified by any split right set forth in the 
+Framework Agreement.
+ 
+
+12
+
+ARTICLE VI
+ 
+Representations and Warranties Regarding the Vessel Owner
+ 
+Each Seller represents and warrants to the Buyer severally but not jointly, 
+and proportionally in its Respective Proportion, that as of the date hereof 
+and as of the Closing Date, except as set forth in the Disclosure 
+Schedules:
+ 
+SECTION 6.01. Organization Good Standing and Authority. The Vessel Owner is 
+a [•] duly formed, validly existing and in good standing under the laws of 
+Liberia. The Vessel Owner has full corporate power and authority to carry 
+on its business as it is now, and has since its formation been, conducted, 
+and is entitled to own, lease or operate the properties and assets it now 
+owns, leases or operates and to enter into legal and binding contracts. No 
+meeting has been convened or resolution proposed or petition presented and 
+no order has been made to wind up the Vessel Owner.
+ 
+SECTION 6.02. Capitalization; Good and Marketable Title to Shares. The 
+Shares have been duly authorized and validly issued and are fully paid and 
+nonassessable, and constitute the total issued and outstanding Equity 
+Interests of the Vessel Owner. There are not outstanding (i) any securities 
+convertible into or exchangeable for shares of the Vessel Owner or (ii) any 
+Commitments in respect of the shares of the Vessel Owner.
+ 
+SECTION 6.03. Organizational Documents. The Seller Entities have supplied 
+to the Buyer true and correct copies of the organizational documents of the 
+Vessel Owner, as in effect as of the date hereof (the “Organizational 
+Documents”).
+ 
+SECTION 6.04. Agreement Not in Breach. The execution and delivery of this 
+Agreement, the consummation of the transactions contemplated hereby and the 
+fulfillment of the terms hereof will not violate, or result in a breach of, 
+any of the terms and provisions of, or constitute a default under, or 
+conflict with, or give any other party thereto a right to terminate, any 
+agreement or other instrument to which the Vessel Owner is a party or by 
+which it is bound including, without limitation, any of the Organizational 
+Documents, any judgment, decree, order or award of any court, governmental 
+body or arbitrator applicable to the Vessel Owner or the Contracts, or any 
+law, rule or regulation applicable to the Vessel Owner that would have a 
+material effect on the transactions contemplated hereby.
+ 
+SECTION 6.05. Litigation. (a) There is no action, suit or proceeding to 
+which the Vessel Owner is a party (either as a plaintiff or defendant) 
+pending before any court or governmental agency, authority or body or 
+arbitrator; there is no material action, suit or proceeding threatened 
+against the Vessel Owner; and, to the best knowledge of the Sellers, there 
+is no basis for any such action, suit or proceeding.
+ 
+(b) The Vessel Owner has not been permanently or temporarily enjoined by 
+any order, judgment or decree of any court or any governmental agency, 
+authority or body from engaging in or continuing any conduct or practice in 
+connection with the business, assets or properties of the Vessel Owner.
+ 
+
+13
+
+(c) There is not in existence any order, judgment or decree of any court or 
+other tribunal or other agency enjoining or requiring the Vessel Owner to 
+take any material action of any kind with respect to its business, assets 
+or properties.
+ 
+SECTION 6.06. Indebtedness to and from Officers, etc. The Vessel Owner will 
+not be indebted, directly or indirectly, to any person who is an officer, 
+director, stockholder or employee of any of the Seller Entities or any 
+spouse, child, or other relative or any affiliate of any such person, nor 
+shall any such officer, director, stockholder, employee, relative or 
+affiliate be indebted to the Vessel Owner.
+ 
+SECTION 6.07. Personnel. The Vessel Owner has no employees other than the 
+Vessel’s master and crew.
+ 
+SECTION 6.08. Contracts and Agreements. Other than the Contracts, there are 
+no material contracts or agreements, written or oral, to which the Vessel 
+Owner is a party or by which any of its assets are bound.
+ 
+(a) Each of the Contracts is a valid and binding agreement of the Vessel 
+Owner, and to the best knowledge of the Sellers, of all other parties 
+thereto.
+ 
+(b) The Vessel Owner has fulfilled all material obligations required 
+pursuant to its Contracts to have been performed by it prior to the date 
+hereof and has not waived any material rights thereunder, including payment 
+in full of the purchase price for the Vessel, together with any other 
+payments of the Vessel Owner due thereunder.
+ 
+(c) There has not occurred any material default under any of the Contracts 
+on the part of the Vessel Owner, or to the best knowledge of the Sellers, 
+on the part of any other party thereto nor has any event occurred which 
+with the giving of notice or the lapse of time, or both, would constitute 
+any material default on the part of the Vessel Owner under any of the 
+Contracts nor, to the best knowledge of the Sellers, has any event occurred 
+which with the giving of notice or the lapse of time, or both, would 
+constitute any material default on the part of any other party to any of 
+the Contracts or that would give any other party thereto a right to 
+terminate any of the Contracts.
+ 
+SECTION 6.09. Compliance with Law. The conduct of business by the Vessel 
+Owner does not and the execution and delivery of this Agreement and the 
+consummation of the transactions contemplated hereby will not violate any 
+Applicable Laws of any country, province, state or other governing body, 
+the enforcement of which would materially and adversely affect the 
+business, assets, condition (financial or otherwise) or prospects of the 
+Vessel Owner taken as a whole, nor has the Vessel Owner received any notice 
+of any such violation.
+ 
+SECTION 6.10. No Undisclosed Liabilities. Except for such liabilities, 
+debts, obligations, encumbrances, defects, restrictions or claims of a 
+general nature and magnitude that would arise in connection with the 
+operation of container carriers of the same type as the Vessel in the 
+ordinary course of business and obligations arising under the Contracts, 
+the Vessel Owner (or the Vessel owned by it) has no liabilities or 
+obligations of any nature, whether absolute, accrued, contingent or 
+otherwise, and whether due or to become due (including, without limitation, 
+any liability for Taxes and
+ 
+
+14
+
+interest, penalties and other charges payable with respect to any such 
+liability or obligation) that have not been disclosed in writing to the 
+Buyer Entities prior to the date hereof.
+ 
+SECTION 6.11. Payment of Taxes. The Vessel Owner has filed all federal, 
+state and local income and franchise tax returns required to be filed in 
+any jurisdiction, which returns are correct and complete in all material 
+respects, and has timely paid all taxes due from it, and the Vessel is in 
+good standing with respect to the payment of past and current Taxes, fees 
+and other amounts payable as at the date hereof and the Closing Date under 
+the laws of the jurisdiction where it is registered as would affect its 
+registry with the ship registry of such jurisdiction.
+ 
+SECTION 6.12. Permits. The Vessel Owner has such permits, consents, 
+licenses, franchises, concessions, certificates and authorizations (“
+Permits”) of, and has all declarations and filings with, and is qualified 
+and in good standing in each jurisdiction of, all federal, provincial, 
+state, local or foreign Governmental Authorities and other Persons, as are 
+necessary to own or lease its properties and to conduct its business in the 
+manner that is standard and customary for a business of its nature other 
+than such Permits the absence of which, individually or in the aggregate, 
+has not and could not reasonably be expected to materially and adversely 
+affect the Vessel Owner or the Vessel, and the Vessel Owner has fulfilled 
+and performed all its obligations with respect to such Permits in all 
+material respects which are or will be due to have been fulfilled and 
+performed by such date and no event has occurred that would prevent such 
+Permits from being renewed or reissued or that allows, or after notice or 
+lapse of time would allow, revocation or termination thereof or results or 
+would result in any impairment of the rights of the holder of any such 
+Permit, except for such nonrenewals, nonissues, revocations, terminations 
+and impairments that would not, individually or in the aggregate, 
+materially or adversely affect the Vessel Owner or the Vessel, and none of 
+such Permits contains any restriction that is materially burdensome to the 
+Vessel Owner.
+ 
+ARTICLE VII
+ 
+Representations and Warranties Regarding the Vessel
+ 
+Each Seller represents and warrants to the Buyer severally but not jointly, 
+and proportionally in its Respective Proportion, that as of the date hereof 
+and as of the Closing Date, except as set forth in the Disclosure 
+Schedules:
+ 
+SECTION 7.01. Title to Vessel. [The Vessel Owner is the owner (beneficially 
+and of record) of the Vessel and has good and marketable title to the 
+Vessel.][The Vessel Owner charters the Vessel from the Owner on a demise or 
+bareboat basis and the Owner retains no possession and control of the 
+Vessel during the term of the Bareboat Charter.]
+ 
+SECTION 7.02. No Encumbrances. As of the Closing Date, the assets of the 
+Vessel Owner and the Vessel will be free of all Encumbrances other than the 
+Encumbrances arising under the Charter [and the Bareboat Charter] and any 
+Encumbrance arising as a result of a Permitted Maritime Liens.
+ 
+
+15
+
+SECTION 7.03. Condition. The Vessel is (i) seaworthy in all material 
+respects for hull and machinery insurance warranty purposes and in good 
+running order and repair; (ii) insured against all usual risks, and in 
+amounts, consistent with common industry practices; (iii) in compliance in 
+all material respects with applicable maritime laws and regulations; and 
+(iv) in compliance in all material respects with the requirements of its 
+class and classification society; and all class certificates of the Vessel 
+are clean and valid and free of overdue recommendations affecting class; 
+and the Buyer acknowledges and agrees that, subject only to the 
+representations and warranties in this Agreement, it is acquiring the 
+Vessel on an “as is, where is” basis.
+ 
+ARTICLE VIII
+ 
+Covenants
+ 
+SECTION 8.01. Financial Statements. The Seller Entities agree to cause the 
+Vessel Owner to provide reasonable access to the books and records of the 
+Vessel Owner to allow the Buyer to prepare at the Buyer’s expense any 
+information, review or audit the Buyer reasonably believes is required to 
+be furnished or provided by the Buyer pursuant to applicable securities 
+laws, including in connection with obtaining Buyer’s financing for the 
+Acquisition and the filing of a registration statement with the Commission 
+in connection therewith. Each Seller will (a) provide the Buyer or the 
+Buyer’s auditors access to such Seller’s work papers relating to the Vessel 
+and/or the Vessel Owner and (b) use its commercially reasonable efforts to 
+assist the Buyer with any such information, review or audit and to provide 
+other financial information reasonably requested by the Buyer or its 
+auditors, including the delivery by the Seller Entities of any information, 
+letters and similar documentation, including reasonable “management 
+representation letters” and attestations relating to the Vessel and/or the 
+Vessel Owner.
+ 
+SECTION 8.02. Expenses. All costs, fees and expenses incurred in connection 
+with this Agreement and the related transaction documents shall be paid by 
+the Buyer, including all costs, fees and expenses incurred in connection 
+with conveyance fees, recording charges and other fees and charges 
+applicable to the transfer of the Shares. In addition:
+ 
+    (i) all costs and expenses incurred by the Buyer to load the Vessel
+    with fuel oil, lubricating oil, greases, fresh water and other stores
+    necessary to operate the Vessel after the Closing shall be for the
+    Buyer’s account;
+     
+    (ii) all unused fuel oil, lubricating oil, greases, fresh water, and
+    other stores on the Vessel at the Closing shall remain the assets of
+    the Vessel Owner and shall not be transferred to the Seller Entities in
+    connection with Closing;
+     
+    (iii) all spare parts and spare equipment, including spare tail-end
+    shafts, spare propellers and propeller blades, if any, belonging to the
+    Vessel Owner at the time of Closing used or unused, and on board shall
+    remain the assets of the Vessel Owner and shall not be transferred to
+    the Seller Entities in connection with Closing; and
+ 
+
+16
+
+    (iv) all bank account balances, cash, current assets and current
+    liabilities of the Vessel Owner at the time of Closing shall remain the
+    assets of the Vessel Owner and shall not be transferred to the Seller
+    Entities in connection with Closing.
+     
+SECTION 8.03. Commercially Reasonable Efforts; Financing. On the terms and 
+subject to the conditions of this Agreement, each of the Parties shall use 
+its commercially reasonable efforts to cause the Closing to occur, 
+including taking all commercially reasonable actions necessary to comply 
+promptly with all legal requirements that may be imposed on it or any of 
+its affiliates with respect to the Closing and to obtain any such consents 
+required to be obtained by it in connection with the transfer of the Vessel 
+Owner. The Costamare Parties and the York Parties shall also provide such 
+reasonable cooperation in connection with any arrangement of the Buyer’s 
+financing as may be reasonably requested by Buyer, including providing 
+information and documents, and other actions that are or may be customary 
+in connection with comparable financing transactions. Each of the Parties 
+shall not, and shall not permit any of their respective affiliates to, take 
+any actions that would, or that could reasonably be expected to, result in 
+any of the conditions set forth in Article IX not being satisfied 
+(including obtaining any consent, authorization, order or approval of, or 
+any exemption by, any Governmental Authority required to be obtained or 
+made by any of the Parties in connection with the acquisition of the Vessel 
+Owner or the taking of any action contemplated by this Agreement in 
+accordance with its terms).
+ 
+SECTION 8.04. Tests and Surveys. The Costamare Parties and the York Parties 
+grant to the Buyer the right, exercisable at the Buyer’s risk and expense, 
+to make such surveys, tests and inspections of the Vessel as the Buyer may 
+deem desirable, so long as such surveys, tests or inspections do not damage 
+the Vessel or interfere with the activities of the Seller Entities or the 
+Charterer thereon and so long as the Buyer has furnished the Costamare 
+Parties and the York Parties with evidence that adequate liability 
+insurance is in full force and effect.
+ 
+SECTION 8.05. Further Assurances. From time to time after the date of this 
+Agreement, and without any further consideration, the Parties agree to 
+execute, acknowledge and deliver all such additional deeds, assignments, 
+bills of sale, conveyances, instruments, notices, releases, acquittances 
+and other documents, and will do all such other acts and things, all in 
+accordance with Applicable Law, as may be necessary or appropriate (a) more 
+fully to assure that the applicable Parties own all of the properties, 
+rights, titles, interests, estates, remedies, powers and privileges granted 
+by this Agreement, or which are intended to be so granted, (b) more fully 
+and effectively to vest in the applicable Parties and their respective 
+successors and permitted assigns beneficial and record title to the 
+interests distributed, contributed and assigned by this Agreement or 
+intended so to be and (c) to more fully and effectively carry out the 
+purposes and intent of this Agreement.
+ 
+SECTION 8.06. Covenants of the Costamare Parties and the York Parties Prior 
+to Closing. From the date of this Agreement to the Closing Date, the 
+Costamare Parties and the York Parties shall cause the Vessel Owner to 
+conduct its business in the usual, regular and ordinary course in 
+substantially the same manner as
+ 
+
+17
+
+previously conducted. Without limiting the generality of the foregoing, 
+during the period from the date of this Agreement to the Closing, except 
+with the prior written consent of Buyer, the Costamare Parties and the York 
+Parties shall not permit the Vessel Owner to:
+ 
+(a) enter into any contracts or other written or oral agreements outside of 
+the ordinary course of business;
+ 
+(b) (i) declare, set aside or pay any dividends on, or make any other 
+distributions (whether in cash, stock or property) in respect of, any of 
+its capital stock, (ii) split, combine or reclassify any of its capital 
+stock or issue any other securities in respect of, in lieu of or in 
+substitution for shares of its capital stock or (iii) purchase, redeem or 
+otherwise acquire any shares of capital stock or any other securities of 
+the Vessel Owner or any options, warrants, calls or rights to acquire any 
+such shares or other securities; or
+ 
+(c) issue, deliver, sell, pledge or otherwise encumber any shares of its 
+capital stock, any other voting securities or any securities convertible 
+into, or exchangeable for, any shares of its capital stock, or any stock 
+options, warrants, calls or rights to acquire any such shares, voting 
+securities or convertible securities or any stock appreciation rights or 
+other rights that are linked in any way to the price of the Shares or the 
+value of the Vessel Owner or any part thereof.
+ 
+SECTION 8.07. Management Agreement and Shipmanagement Agreement. The Buyer 
+and the General Partner shall cause the schedules to the Management 
+Agreement to be amended as applicable to reflect the Buyer’s acquisition of 
+the Vessel and the Vessel Owner as of the Closing. The Costamare Parties 
+and the York Parties shall cause the Vessel Owner to amend the 
+Shipmanagement Agreement as applicable to reflect the Buyer’s acquisition 
+of the Vessel Owner as of the Closing.
+ 
+ARTICLE IX
+ 
+Conditions to Closing
+ 
+SECTION 9.01. Mutual Conditions. The obligations of the Costamare Parties, 
+the York Parties and Buyer to effect the Closing shall be subject to the 
+satisfaction or waiver by each of the Costamare Parties, the York Parties 
+and Buyer on or prior to the Closing Date of the following conditions:
+ 
+(a) no Governmental Authority shall have entered any order that remains in 
+effect which would restrain, enjoin or otherwise prevent the performance of 
+this Agreement or the consummation of any of the transactions contemplated 
+hereby in accordance with the terms of this Agreement;
+ 
+(b) all approvals or written consents of Governmental Authorities and those 
+of other third parties under the terms of all agreements existing as of the 
+date hereof in respect of the Vessel and the Shares, as applicable, 
+including, without limitation, any rights of first refusal of the parties 
+to such agreements to purchase the Vessel or the Shares and any financing 
+instruments applicable to the Vessel, required to consummate the 
+transactions contemplated by this Agreement shall have been obtained; and
+ 
+
+18
+
+(c) no Applicable Law shall have been enacted by any Governmental Authority 
+which prohibits the consummation of the Closing.
+ 
+SECTION 9.02. Conditions to the Obligation of Buyer. The obligation of 
+Buyer to effect the Closing shall be subject to the satisfaction or waiver 
+by Buyer on or prior to the Closing Date of each of the following 
+conditions:
+ 
+(a) the availability, in the Buyer’s sole discretion, of sufficient funds 
+to pay the Purchase Price and other costs associated with the Acquisition;
+ 
+(b) each of the representations and warranties of each of the Sellers 
+contained in this Agreement shall be true and correct as of the date of 
+this Agreement and as of the Closing Date, with the same effect as if those 
+representations and warranties had been made on and as of the Closing Date 
+except to the extent that any such representation or warranty is made as of 
+a specified date, in which case such representation or warranty need only 
+be so true and correct as of such date, and except to the extent the 
+failure to be so true and correct would not be material;
+ 
+(c) the Seller Entities shall have duly performed and complied in all 
+material respects with all covenants and agreements contained in this 
+Agreement that are required to be performed or complied with by Seller 
+Entities at or before the Closing; and
+ 
+(d) the results of any searches, surveys, tests or inspections conducted 
+pursuant to Section 8.04 or received in each case, after the date hereof, 
+are not, in the reasonable opinion of the Buyer, unsatisfactory.
+ 
+SECTION 9.03. Conditions to the Obligation of the Costamare Parties and the 
+York Parties. The obligation of the Costamare Parties and the York Parties 
+to effect the Closing shall be subject to the satisfaction or waiver by the 
+Costamare Parties and the York Parties on or prior to the Closing Date of 
+each of the following conditions:
+ 
+(a) Each of the representations and warranties of Buyer contained in this 
+Agreement shall be true and correct as of the date of this Agreement and as 
+of the Closing Date, with the same effect as if those representations and 
+warranties had been made on and as of the Closing Date except to the extent 
+that any such representation or warranty is made as of a specified date, in 
+which case such representation or warranty need only be so true and correct 
+as of such date, and except to the extent the failure to be so true and 
+correct would not be material; and
+ 
+(b) the Buyer Entities shall have duly performed and complied in all 
+material respects with all covenants and agreements contained in this 
+Agreement that are required to be performed or complied with by Buyer 
+Entities at or before the Closing.
+ 
+
+19
+
+ARTICLE X
+ 
+Amendments and Waivers
+ 
+SECTION 10.01. Amendments and Waivers. This Agreement may not be amended 
+except by an instrument in writing signed on behalf of each party hereto. 
+By an instrument in writing the Buyer, on the one hand, or the Costamare 
+Parties and the York Parties, on the other hand, may waive compliance by 
+the other with any term or provision of this Agreement that such other 
+party was or is obligated to comply with or perform.
+ 
+ARTICLE XI
+ 
+Indemnification
+ 
+SECTION 11.01. Indemnity by the Costamare Seller. From and after the 
+Closing, the Costamare Seller shall be liable for, and shall indemnify the 
+Buyer and each of its subsidiaries and each of their directors, employees, 
+agents and representatives (the “Buyer Indemnitees”) against and hold them 
+harmless from, any Losses, suffered or incurred by such Buyer Indemnitee:
+ 
+    (a) by reason of or arising out of (i) any inaccuracy in, or breach of,
+    any representation or warranty of the Costamare Seller (without giving
+    effect to any supplement to the Disclosure Schedules occurring after
+    the date hereof or qualifications as to materiality or dollar amount or
+    other similar qualifications) other than a representation or warranty
+    made in Article VII, or (ii) a failure to perform or observe any
+    covenant, agreement or obligation of, the Costamare Seller Entities in
+    or under this Agreement or in or under any document, instrument or
+    agreement delivered pursuant to this Agreement by the Costamare Seller
+    Entities (other than Section 8.03); or
+     
+    (b) with respect to any fees, expenses or other payments incurred or
+    owed by the Costamare Seller Entities or the Vessel Owner to any
+    brokers, financial advisors or comparable other persons retained or
+    employed by it in connection with the transactions contemplated by this
+    Agreement.
+     
+SECTION 11.02. Indemnity by the York Parties. From and after the Closing, 
+the York Parties shall be liable for, and shall indemnify the Buyer 
+Indemnitees against and hold them harmless from, any Losses, suffered or 
+incurred by such Buyer Indemnitee:
+ 
+    (a) by reason of or arising out of (i) any inaccuracy in, or breach of,
+    any representation or warranty of the York Seller (without giving
+    effect to any supplement to the Disclosure Schedules occurring after
+    the date hereof or qualifications as to materiality or dollar amount or
+    other similar qualifications) other than a representation or warranty
+    made in Article VII, or (ii) a failure to perform or observe any
+    covenant, agreement or obligation of, the York Seller Entities in or
+    under this Agreement or in or under any document, instrument or
+ 
+
+20
+
+    agreement delivered pursuant to this Agreement by the York Seller
+    Entities (other than Section 8.03); or
+     
+    (b) with respect to any fees, expenses or other payments incurred or
+    owed by the York Seller Entities or the Vessel Owner to any brokers,
+    financial advisors or comparable other persons retained or employed by
+    it in connection with the transactions contemplated by this Agreement.
+     
+SECTION 11.03. Indemnity by the Costamare Seller and the York Parties. 
+From and after the Closing, the Costamare Seller, on the one hand, and the 
+York Parties, on the other hand, shall be severally but not jointly liable 
+for, and shall indemnify the Buyer Indemnitees against and hold them 
+harmless from, their Respective Proportion of any Losses, suffered or 
+incurred by such Buyer Indemnitee:
+ 
+    (a) by reason of or arising out of any inaccuracy in, or breach of, any
+    representation or warranty of the Sellers made in Article VII (without
+    giving effect to any supplement to the Disclosure Schedules occurring
+    after the date hereof or qualifications as to materiality or dollar
+    amount or other similar qualifications);
+     
+    (b) by reason of or arising out of obligations, liabilities, expenses,
+    cost and claims relating to, arising from or otherwise attributable to
+    the assets owned by the Vessel Owner or the assets, operations, and
+    obligations of the Vessel Owner or the businesses thereof, in each
+    case, to the extent relating to, arising from, or otherwise
+    attributable to facts, circumstances or events occurring prior to the
+    Closing Date;
+     
+    (c) with respect to any Covered Environmental Losses relating to the
+    Vessel Owner to the extent the Costamare Seller and the York Parties
+    are notified by Buyer of any such Covered Environmental Losses within
+    three years after the Closing Date;
+     
+    (d) with respect to any Losses to the Buyer by reason of or arising out
+    of:
+     
+       (i) the failure of the Buyer, immediately after the Closing Date, to
+       be the owner of such valid leasehold interests or fee ownership
+       interests in and to the Vessel Owner and the Vessel as are necessary
+       to enable the Buyer to own and operate the Vessel Owner and the
+       Vessel in substantially the same manner that the Vessel Owner and
+       the Vessel were owned and operated by the Sellers immediately prior
+       to the Closing Date; or
+        
+       (ii) the failure of the Buyer Entities or the Vessel Owner to have
+       by the Closing Date any consent or governmental permit necessary to
+       allow the Buyer to own or operate the Vessel Owner and the Vessel in
+       substantially the same manner that the Vessel Owner and the Vessel
+       were owned and operated by the Seller Entities immediately prior to
+       the Closing Date;
+ 
+
+21
+
+       in each of clauses (i) and (ii) above, other than as a result of any
+       act or omission by the Buyer in violation of this Agreement and only
+       to the extent that the Costamare Seller and the York Parties are
+       notified by the Buyer of such Losses within three years after the
+       Closing Date; or
+        
+    (e) with respect to all federal, state, foreign and local income tax
+    liabilities attributable to the operation of the Vessel Owner or the
+    Vessel prior to the Closing Date, but excluding any federal, state,
+    foreign and local income taxes reserved on the books of the Vessel
+    Owner on the Closing Date.
+     
+SECTION 11.04. Limitation Regarding Indemnification.
+ 
+(a) The aggregate liability of the Costamare Seller and the York Parties 
+under Section 11.03(c) above shall not exceed $1,250,000. Furthermore, no 
+claim may be made against any of the Costamare Seller or the York Parties 
+for indemnification pursuant to Section 11.03(c), unless the aggregate 
+dollar amount of all claims for indemnification pursuant to such section 
+shall exceed $500,000, in which case the Costamare Seller or the York 
+Parties shall be liable for claims for indemnification only to the extent 
+such aggregate amount exceeds $500,000. The limitations set forth in this 
+Section 11.04(a) shall also apply to any claim under Section 11.01 or 
+11.02, in each case, to the extent related to environmental or health and 
+human safety matters.
+ 
+(b) The aggregate liability of the Costamare Seller under Section 11.01 and 
+11.03 above shall not exceed its Respective Proportion of the Purchase 
+Price. The aggregate liability of the York Parties under Section 11.02 and 
+11.03 above shall not exceed their Respective Proportion of the Purchase 
+Price. In addition, the aggregate limitations on liability under Section 
+11.04(a) above shall be allocated between the Costamare Seller and the York 
+Parties according to their Respective Proportion of the Purchase Price.
+ 
+(c) The aggregate liability of the Buyer under Section 11.05 below shall 
+not exceed the Purchase Price.
+ 
+(d) Except as otherwise set forth in this Article XI or in Section 13.08, 
+the indemnification obligations set forth in this Article XI shall survive 
+until the expiration of the applicable statute of limitations.
+ 
+SECTION 11.05. Indemnity by the Buyer. From and after the Closing, the 
+Buyer shall be liable for, and shall indemnify the Costamare Parties, the 
+York Parties and their respective subsidiaries and each of their directors, 
+employees, agents and representatives (the “Seller Indemnitees”) against 
+and hold them harmless from, any Losses, suffered or incurred by such 
+Seller Indemnitee:
+ 
+    (a) by reason of or arising out of (i) any inaccuracy in, or breach of,
+    any representation or warranty (without giving effect to any supplement
+    to the Disclosure Schedules occurring after the date hereof or
+    qualifications as to materiality or dollar amount or other similar
+    qualifications), or (ii) a failure to perform or observe any covenant,
+    agreement or obligation of, the Buyer Entities in or under this
+    Agreement or in or under any document, instrument or agreement
+ 
+
+22
+
+    delivered pursuant to this Agreement by the Buyer Entities; or
+     
+    (b) with respect to any fees, expenses or other payments incurred or
+    owed by the Buyer Entities to any brokers, financial advisors or
+    comparable other persons retained or employed by it in connection with
+    the transactions contemplated by this Agreement.
+     
+SECTION 11.06. Indemnification Procedures.
+ 
+(a) Each Buyer Indemnitee with respect to a claim for indemnification 
+pursuant to Section 11.01, 11.02 or 11.03 and each Seller Indemnitee with 
+respect to a claim for indemnification pursuant to Section 11.05 (as 
+applicable, the “Indemnified Party”) agrees that within a reasonable period 
+of time after the Indemnified Party become aware of facts giving rise to a 
+claim for indemnification pursuant to this Article XI, Buyer will provide 
+notice thereof in writing to the Costamare Seller or the York Parties (or, 
+if applicable, both) with respect to a claim for indemnification pursuant 
+to Section 11.01, 11.02 or 11.03 and Buyer with respect to a claim for 
+indemnification pursuant to Section 11.05 (as applicable, the “
+Indemnifying Party”) specifying the nature of and specific basis for such 
+claim.
+ 
+(b) The Indemnifying Party shall have the right to control all aspects of 
+the defense of (and any counterclaims with respect to) any claims brought 
+against the Indemnified Party, including, without limitation, the selection 
+of counsel, determination of whether to appeal any decision of any court 
+and the settling of any such matter or any issues relating thereto; 
+provided, however, that no such settlement shall be entered into without 
+the consent (which consent shall not be unreasonably withheld) of the 
+Indemnified Party unless it includes (i) a full release of the Indemnified 
+Party from such matter or issues, as the case may be and (ii) no admission 
+of fault or wrong doing on the part of any Indemnified Party.
+ 
+(c) Each Indemnified Party agrees to cooperate fully with the Indemnifying 
+Party with respect to all aspects of the defense of any claims covered by 
+the indemnification set forth in this Article XI, including, without 
+limitation, the prompt furnishing to the Indemnifying Party of any 
+correspondence or other notice relating thereto that the Indemnified Party 
+may receive, permitting the name of the Indemnified Party to be utilized in 
+connection with such defense, the making available to the Indemnifying 
+Party of any files, records or other information of the Indemnified Party 
+that the Indemnifying Party considers relevant to such defense and the 
+making available to the Indemnifying Party of any employees of the 
+Indemnified Party; provided, however, that in connection therewith the 
+Indemnifying Party agrees to use reasonable efforts to minimize the impact 
+thereof on the operations of the Indemnified Party and further agrees to 
+maintain the confidentiality of all files, records and other information 
+furnished by the Indemnified Party pursuant to this Section 11.06 (except 
+as the Indemnified Party may consent). In no event shall the obligation of 
+the Indemnified Party to cooperate with the Indemnifying Party as set forth 
+in the immediately preceding sentence be construed as imposing upon such 
+Indemnified Party an obligation to hire and pay for counsel in connection 
+with the defense of any claims covered by the indemnification set forth in 
+this Article XI; provided, however, that the Indemnified Party may, at its 
+own option, cost
+ 
+
+23
+
+and expense, hire and pay for counsel in connection with any such defense. 
+The Indemnifying Party agrees to keep any such counsel hired by the 
+Indemnified Party reasonably informed as to the status of any such defense 
+(including providing such counsel with such information related to any such 
+defense as such counsel may reasonably request) but the Indemnifying Party 
+shall have the right to retain sole control over such defense.
+ 
+(d) In determining the amount of any Loss for which any Indemnified Party 
+is entitled to indemnification under this Agreement, the gross amount of 
+the indemnification will be reduced by (i) any insurance proceeds realized 
+by the Indemnified Party, and such correlative insurance benefit shall be 
+net of any incremental insurance premium that becomes due and payable by 
+the Indemnified Party as a result of such claim, and (ii) all amounts 
+recovered by the Indemnified Party under contractual indemnities from third 
+Persons. The Indemnified Party hereby agrees to use commercially reasonable 
+efforts to realize any applicable insurance proceeds or amounts recoverable 
+under such contractual indemnities; provided, however, that the costs and 
+expenses (including, without limitation, court costs and reasonable 
+attorneys’ fees) of the Indemnified Party in connection with such efforts 
+shall be promptly reimbursed by the Indemnifying Party in advance of any 
+determination of whether such insurance proceeds or other amounts will be 
+recoverable.
+ 
+SECTION 11.07. Exclusive Post-Closing Remedy. From and after the Closing, 
+and except for any remedies for wilful misconduct or actual fraud, the 
+rights and remedies set forth in this Article XI shall constitute the sole 
+and exclusive rights and remedies of the Parties under or with respect to 
+the subject matter of this Agreement.
+ 
+ARTICLE XII
+ 
+Termination
+ 
+SECTION 12.01. Termination. This Agreement may be terminated at any time 
+prior to the Closing Date:
+ 
+(a) by mutual written consent of the Costamare Parties, the York Parties 
+and Buyer;
+ 
+(b) by any of the Costamare Parties, the York Parties or Buyer by written 
+notice to the others, if:
+ 
+        (i) the Closing shall not have occurred within six months of
+        execution of this Agreement, unless such date is extended by the
+        mutual written consent of the Costamare Parties, the York Parties
+        and Buyer;
+         
+        (ii) a Governmental Authority has entered any permanent order which
+        restrains, enjoins or otherwise prevents the performance of this
+        Agreement or the consummation of any of the transactions
+        contemplated hereby in accordance with the terms of this Agreement;
+        or
+ 
+
+24
+
+        (iii) an Applicable Law has been enacted by any Governmental
+        Authority which prohibits the consummation of the Closing;
+         
+       provided that no Party may terminate this Agreement pursuant to this
+       Section 12.01(b) if that Party has breached its obligations under
+       this Agreement in a manner that shall have proximately caused the
+       failure of the Closing to occur by such date;
+        
+(c) by the Costamare Parties or the York Parties if either of the 
+conditions set forth in Section 9.03(a) or 9.03(b) are not satisfied, and 
+such failure shall not have been cured within 30 days following written 
+notice of such failure;
+ 
+(d) by the Buyer if:
+ 
+       (i) either of the conditions set forth in Section 9.02(b) or 9.03(c)
+       are not satisfied, and such failure shall not have been cured within
+       30 days following written notice of such failure; or
+        
+       (ii) the results of any searches, surveys, tests or inspections
+       conducted pursuant to Section 8.04 are, in the reasonable opinion of
+       the Buyer, unsatisfactory.
+        
+SECTION 12.02. Effect of Termination. In the event of the termination of 
+this Agreement pursuant to Section 12.01, this Agreement shall become void 
+and have no effect, without any liability to any Person in respect hereof 
+or the transaction contemplated hereby on the part of any Party, or any of 
+its directors, officers, employees, agents, legal and financial advisors, 
+representatives, stockholders, or affiliates; provided, however, that the 
+agreements contained in Section 8.02 (Expenses), this Section 12.02 and 
+Article XIII shall survive the termination of this Agreement.
+ 
+ARTICLE XIII
+ 
+Miscellaneous
+ 
+SECTION 13.01. Governing Law. This Agreement shall be governed by, and 
+construed in accordance with, the laws of the State of New York applicable 
+to contracts made and to be performed wholly within such jurisdiction 
+without giving effect to conflict of law principles thereof other than 
+Section 5-1401 of the New York General Obligations Law, except to the 
+extent that it is mandatory that the law of some other jurisdiction, 
+wherein the Vessel is located, shall apply.
+ 
+SECTION 13.02. Counterparts. This Agreement may be executed simultaneously 
+in one or more counterparts, each of which shall be deemed an original, but 
+all of which shall constitute but one and the same instrument.
+ 
+SECTION 13.03. Complete Agreement. This Agreement and the Disclosure 
+Schedules contain the entire agreement between the parties hereto with 
+respect to the transactions contemplated herein and, except as provided 
+herein, supersede
+ 
+
+25
+
+all previous oral and written and all contemporaneous oral negotiations, 
+commitments, writings and understandings.
+ 
+SECTION 13.04. Interpretation. The headings contained in this Agreement are 
+for reference purposes only and shall not affect in any way the meaning or 
+interpretation of this Agreement.
+ 
+SECTION 13.05. Severability. If any of the provisions of this Agreement are 
+held by any court of competent jurisdiction to contravene, or to be invalid 
+under, the laws of any governmental body having jurisdiction over the 
+subject matter hereof, such contravention or invalidity shall not 
+invalidate the entire Agreement. Instead, this Agreement shall be construed 
+as if it did not contain the particular provision or provisions held to be 
+invalid, and an equitable adjustment shall be made and necessary provision 
+added so as to give effect, as nearly as possible, to the intention of the 
+Parties as expressed in this Agreement at the time of execution of this 
+Agreement.
+ 
+SECTION 13.06. Third Party Rights. Except to the extent provided in Article 
+XI, a Person who is not a party to this Agreement has no right to enforce 
+or to enjoy the benefit of any term of this Agreement.
+ 
+SECTION 13.07. Notices. Any notice, claim or demand in connection with this 
+Agreement shall be delivered to the parties at the following addresses (or 
+at such other address or facsimile number for a party as may be designated 
+by notice by such party to the other party):
+ 
+(a) 	if to COSTAMARE INC., as follows:
+  	 
+  	
+Costamare Inc.
+60 Zephyrou Street & Syngrou Avenue
+17564 Athens Greece
+Telephone: +30-210-949-0050
+Fax: +30-210-949-6454
+Attention: Anastassios Gabrielides (General Counsel and Secretary)
+ 
+ (b) 	if to COSTAMARE VENTURES INC., as follows:
+  	 
+  	Costamare Ventures Inc.
+60 Zephyrou Street & Syngrou Avenue
+17564 Athens Greece
+Telephone: +30-210-949-0050
+Fax: +30-210-949-6454
+Attention: Anastassios Gabrielides (General Counsel and Secretary)
+ 
+(c) 	if to SPARROW HOLDINGS L.P., as follows:
+  	 
+  	Sparrow Holdings L.P.
+[•]
+ 
+
+26
+
+  	[•]
+Telephone: +[•]
+Fax: +[•]
+  	Attention: [•]
+            
+(d) 	if to BLUEBIRD HOLDINGS L.P., as follows:
+  	 
+  	
+Bluebird Holdings L.P.
+[•]
+[•]
+Telephone: +[•]
+Fax: +[•]
+Attention: [•]
+            
+(e) 	if to COSTAMARE PARTNERS GP LLC, as follows:
+  	 
+  	
+Costamare Partners GP LLC
+60 Zephyrou Street & Syngrou Avenue
+17564 Athens Greece
+Telephone: +30-210-949-0050
+Fax: +30-210-949-6454
+Attention: [Konstantinos Konstantakopoulos] (Chief Executive Officer)
+            
+(f) 	if to COSTAMARE PARTNERS LP, as follows:
+  	 
+  	
+Costamare Partners LP
+60 Zephyrou Street & Syngrou Avenue
+17564 Athens Greece
+Telephone: +30-210-949-0050
+Fax: +30-210-949-6454
+Attention: [Konstantinos Konstantakopoulos] (Chief Executive Officer)
+     
+and any such notice shall be deemed to have been received (i) on the next 
+working day in the place to which it is sent, if sent by facsimile or (ii) 
+forty eight (48) hours from the time of dispatch, if sent by courier.
+ 
+SECTION 13.08. Representations and Warranties to Survive. All 
+representations and warranties contained in this Agreement shall survive 
+the Closing and shall remain operative and in full force and effect after 
+the Closing, regardless of (a) any investigation made by or on behalf of 
+any Party or its affiliates, any Person controlling any Party, its officers 
+or directors, and (b) delivery of and payment for the Shares, for a period 
+of three years from the date of this Agreement. At the end of such three 
+year period, such representations and warranties will terminate, and no 
+claim may be brought in respect of such representations and warranties 
+under Article XI or otherwise, except for claims that have been asserted 
+prior to such date.
+ 
+
+27
+
+SECTION 13.09. Remedies. Except as expressly provided in Section 11.07, the 
+rights, obligations and remedies created by this Agreement are cumulative 
+and in addition to any other rights, obligations or remedies otherwise 
+available at law or in equity. Except as expressly provided in this 
+Agreement, nothing in this Agreement will be considered an election of 
+remedies.
+ 
+SECTION 13.10. Several and Not Joint Liability. Any representations, 
+obligations or liabilities of any of the Costamare Parties, on the one 
+hand, and of the York Parties, on the other hand, shall be several but not 
+joint. To the extent any such representations, obligations or liabilities 
+are of any of the Costamare Parties, on the one hand, and of the York 
+Parties, on the other hand, they shall be several but not joint and shall 
+be proportional in accordance with the Respective Proportions.
+ 
+SECTION 13.11. General Partner. The General Partner has full power and 
+authority to do all things and on such terms as it determines to be 
+necessary on behalf of the Buyer for all matters in connection with or 
+arising out of this Agreement and shall take all actions on behalf of the 
+Buyer hereunder unless and until the General Partner exercises its right to 
+delegate management of the Buyer to the board of directors of the Buyer. 
+Neither the General Partner nor any other owner of Equity Interests in the 
+Buyer shall be liable for the obligations of the Buyer under this Agreement 
+or any of the related transaction documents, including, in each case, by 
+reason of any payment obligation imposed by governing partnership statutes.
+ 
+
+28
+
+IN WITNESS WHEREOF, each of the parties hereto has caused this Agreement to 
+be signed as of the date first above written.
+ 
+COSTAMARE INC., 	 
+  	  	 
+  	by 	 
+  	  	  	 
+  	  	Name: 	 
+  	  	Title: 	 
+ 
+COSTAMARE VENTURES INC., 	 
+  	 
+  	by 	 	 
+  	  	  	 
+  	  	Name: 	 
+  	  	Title: 	 
+ 
+SPARROW HOLDINGS L.P., 	 
+  	  	 
+  	by 	 
+  	  	  	 
+  	  	Name: 	 
+  	  	Title: 	 
+ 
+BLUEBIRD HOLDINGS L.P., 	 
+  	 
+  	by 	 
+  	  	  	 
+  	  	Name: 	 
+  	  	Title: 	 
+ 
+COSTAMARE PARTNERS GP LLC, 	 
+  	 
+  	by 	 
+  	  	  	 
+  	  	Name: 	 
+  	  	Title: 	 
+ 
+
+29
+
+COSTAMARE PARTNERS LP, 	 
+  	  	 
+  	by 	 
+  	  	  	 
+  	  	Name: 	 
+  	  	Title: 	 
+ 
+
+Schedule
+ 
+Respective Proportions
+ 
+The Costamare Seller 	 [•]%
+  	 
+The York Parties 	 [•]%
+ 

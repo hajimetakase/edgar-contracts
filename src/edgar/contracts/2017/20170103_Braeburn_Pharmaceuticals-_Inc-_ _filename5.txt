@@ -1,0 +1,7848 @@
+ EX-10.12 5 filename5.htm
+EXHIBIT 10.12
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ASSET PURCHASE AND SALE AGREEMENT
+ 
+by and between
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+a company duly incorporated under the laws of Delaware
+ 
+and
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+a private limited liability company existing under the laws of Belgium
+ 
+Dated as of November 4, 2014
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+ 
+ 
+ 
+ ARTICLE I TRANSFER OF PROPERTIES AND ASSETS OF SELLER
+1
+ 
+ 
+ 
+  Section 1.1
+Sale and Transfer of Properties and Assets
+1
+  Section 1.2
+Excluded Assets
+2
+  Section 1.3
+Assumed Liabilities
+2
+  Section 1.4
+Excluded Liabilities
+2
+  Section 1.5
+Purchase Price
+3
+  Section 1.6
+Withholding of Taxes
+4
+  Section 1.7
+Seller Closing Deliveries
+4
+  Section 1.8
+Buyer Closing Deliveries
+4
+  Section 1.9
+Closing
+5
+  Section 1.10
+  Tangible Purchased Assets; Assigned Books and Records
+5
+ 
+ 
+ 
+ ARTICLE II REPRESENTATIONS AND WARRANTIES OF SELLER
+5
+ 
+ 
+ 
+  Section 2.1
+Corporate Organization, Standing and Power
+5
+  Section 2.2
+Consents, Authorization and Enforceability
+5
+  Section 2.3
+Title to Assets
+6
+  Section 2.4
+Non-Contravention
+6
+  Section 2.5
+Contracts and Commitments
+6
+  Section 2.6
+Intellectual Property
+7
+  Section 2.7
+Litigation
+8
+  Section 2.8
+Compliance with Law
+8
+  Section 2.9
+Taxes
+8
+ 
+ 
+ 
+ ARTICLE III LICENSE GRANT AND ENFORCEMENT
+8
+ 
+ 
+ 
+  Section 3.1
+License to Purchased CP
+8
+  Section 3.2
+Maintenance of Purchased IP
+8
+  Section 3.3
+Enforcement of Purchased IP
+8
+ 
+ 
+ 
+ ARTICLE IV REPRESENTATIONS AND WARRANTIES OF BUYER
+9
+ 
+ 
+ 
+  Section 4.1
+Organization, Standing and Authority
+9
+  Section 4.2
+Consents and Authorization
+9
+  Section 4.3
+Non-Contravention
+9
+  Section 4.4
+Litigation and Claims
+9
+  Section 4.5
+Financing
+9
+ 
+ 
+ 
+ ARTICLE V COVENANTS
+10
+ 
+ 
+ 
+  Section 5.1
+Access to Information
+10
+  Section 5.2
+Obligations of Confidentiality and Non-Use
+10
+  Section 5.3
+Further Assurances; Consents
+11
+ 
+ 
+ 
+ ARTICLE VI INDEMNIFICATION
+12
+ 
+ 
+ 
+  Section 6.1
+Survival of Representations and Warranties and Covenants
+12
+  Section 6.2
+Obligation to Indemnify
+13
+ 
+i
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+  Section 6.3
+Indemnification Procedures
+13
+  Section 6.4
+[***]
+14
+  Section 6.5
+[***] Insurance Proceeds
+14
+  Section 6.6
+Duty to Mitigate
+14
+  Section 6.7
+Remedies
+14
+ 
+ 
+ 
+ ARTICLE VII MISCELLANEOUS
+15
+ 
+ 
+ 
+  Section 7.1
+Definitions
+15
+  Section 7.2
+Notices
+19
+  Section 7.3
+Governing Law
+19
+  Section 7.4
+Counterparts
+20
+  Section 7.5
+Entire Agreement
+20
+  Section 7.6
+Amendment and Modification
+20
+  Section 7.7
+Binding Effect: Benefits
+20
+  Section 7.8
+Assignability
+20
+  Section 7.9
+Interpretation Provisions
+20
+  Section 7.10
+  Severability
+21
+  Section 7.11
+  Obligations of Partys Affiliates
+21
+ 
+Schedules:
+ 
+Schedule 1.1(a) - Purchased IP
+Schedule 1.1(b)-Assumed Contracts
+Schedule 1.1(c) -Regulatory Filings and Approvals
+Schedule 1.1(e) - Purchased Inventory
+Schedule 1.1(f) - Purchased Equipment
+Seller Disclosure Schedule
+ 
+Exhibits:
+ 
+Exhibit A - Bill of Sale
+Exhibit B - Assignment and Assumption Agreement
+Exhibit C - Patent Assignment
+Exhibit D - Trademark Assignment
+ 
+ii
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ASSET PURCHASE AND SALE AGREEMENT
+ 
+This ASSET PURCHASE AND SALE AGREEMENT (this Agreement) is entered into 
+as of November 4, 2014, by and between Endo Pharmaceuticals Solutions Inc., 
+a company duly incorporated under the laws of Delaware (Seller), and 
+Braeburn Pharmaceuticals BVBA SPRL, a private limited liability company 
+existing under the laws of Belgium (Buyer).  Hereinafter, Parties shall 
+mean Seller and Buyer together, and Party shall mean either Seller or 
+Buyer, as the context requires.
+ 
+RECITALS
+ 
+WHEREAS, Seller desires to sell, and Buyer desires to acquire, assets of 
+Seller and its Affiliates related to the Sellers MedLaunch Implant Program 
+on the terms and conditions set forth in this Agreement.
+ 
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual 
+covenants and agreements contained herein, the Parties hereby agree as 
+follows:
+ 
+ARTICLE I
+TRANSFER OF PROPERTIES AND ASSETS OF SELLER
+ 
+Section 1.1            Sale and Transfer of Properties and Assets.  Upon 
+the terms and subject to the conditions of this Agreement, and in 
+consideration of the purchase by Buyer described below, Buyer hereby agrees 
+to purchase and Seller hereby agrees to, and cause its Affiliates to, sell, 
+transfer, convey, assign and deliver to Buyer, free and clear of all 
+mortgages, pledges, charges, hypothecations, liens, claims, and 
+encumbrances of any kind, nature or description (collectively, Liens) 
+(except as expressly permitted in this Agreement and except Permitted 
+Liens), immediately following the execution of this Agreement (the 
+Closing), the following assets related to the MedLaunch Implant Program 
+(collectively, the Purchased Assets):
+ 
+(a)           all Purchased IP;
+ 
+(b)           all rights of Seller and its Affiliates under all contracts 
+set forth on Schedule 1.1(b),  as such contracts may have been amended 
+prior to the date hereof (the Assumed Contracts);
+ 
+(c)           all Regulatory Filings and Approvals set forth on Schedule 
+1.1(c);
+ 
+(d)           any and all intangibles and goodwill of Seller and its 
+Affiliates arising from the Purchased IP;
+ 
+(e)           all Inventory listed on Schedule 1.1(e) which is not consumed 
+in the ordinary course of Sellers business prior to the Closing Date (the 
+Purchased Inventory);
+ 
+(f)            all equipment listed on Schedule 1.1(f) (the Purchased 
+Equipment);
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+(g)           any and all material books, records, files, manuals, and 
+other documentation (including clinical study reports, investigator 
+brochures, registrations and INDs) owned by Seller and its Affiliates and 
+in their possession or control that relate primarily to the MedLaunch 
+Implant Program, including (i) all material data in all databases for all 
+clinical and pre-clinical studies for all drug and device trials undertaken 
+as part of the MedLaunch Implant Program and otherwise primarily related to 
+the Purchased Assets, (ii) all material Purchased JP files, file histories, 
+engineering documents and other technical correspondence, and (Hi) all 
+material business information, tangible or intangible, primarily used in 
+connection with the MedLaunch Implant Program (the Assigned Books and 
+Records):
+ 
+(h)           all claims (including claims for past infringement or 
+misappropriation of the Purchased IP), causes of action, judgments and 
+demands of whatever kind or description (regardless of whether or not such 
+claims and causes of action have been asserted by Seller) that arise out of 
+or relate to any of the Purchased Assets to the extent such claims, causes 
+of action, judgments or demands are not Excluded Assets; and
+ 
+(i)            all rights of indemnification, warranty, contribution, 
+credits, refunds, reimbursement and other rights of recovery (regardless of 
+whether such rights are currently exercisable) possessed by Seller against 
+third parties (excluding insurance carriers) that arise out of or relate to 
+any of the Purchased Assets to the extent such rights of indemnification, 
+warranty, contribution, credits, refunds, reimbursement or other rights of 
+recovery are not Excluded Assets or do not relate to (or represent a 
+counterclaim of Seller or its Affiliates in connection with) any Excluded 
+Liability and provided that, with respect to any such rights the transfer 
+of which is subject to third party consents, Seller shall use commercially 
+reasonable efforts to secure such consents, at Buyers expense.
+ 
+Section 1.2            Excluded Assets.  All assets, properties, rights and 
+interests of Seller not included in the Purchased Assets are expressly 
+excluded from the purchase and sale contemplated hereby and as such are not 
+included in the Purchased Assets and shall remain the assets, property 
+rights and interests of Seller.  In addition Excluded Assets shall include 
+all assets, properties, rights, and interests of Seller related to Licensed 
+Products (collectively, the Excluded Assets).
+ 
+Section 1.3            Assumed Liabilities.  Upon the terms and subject to 
+the conditions of this Agreement, at the Closing, Buyer shall assume, and 
+shall pay, perform, satisfy and discharge (or cause to be paid, performed, 
+satisfied and discharged on behalf of Buyer) when due, the following 
+Liabilities of Seller related to the Purchased Assets (collectively, the 
+Assumed Liabilities):
+ 
+(a)           any Liability of Seller arising under the Assumed Contracts 
+on or after the Closing pursuant to such Assumed Contracts; and
+ 
+(b)           any Liability relating to product liability claims related to 
+Products if and to the extent such claims arise in respect of activities 
+occurring on or after Closing.
+ 
+Section 1.4            Excluded Liabilities.  Notwithstanding anything to 
+the contrary in this Agreement, the Assumed Liabilities will exclude any 
+other Liability whatsoever not expressly
+ 
+2
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+assumed by Buyer under Section 1.3, including, but not limited to, the 
+following Liabilities, which shall be retained by Seller (collectively, the 
+Excluded Liabilities):
+ 
+(a)           any Liability relating to the Purchased Assets existing prior 
+to Closing, other than any Assumed Liability;
+ 
+(b)           any Liability of Seller and its Affiliates arising out of or 
+relating to the execution, delivery or performance of any of the 
+Transaction Documents;
+ 
+(c)           any Liability relating to or arising out of the Excluded 
+Assets;
+ 
+(d)           any Liability under the Assumed Contracts required to be 
+paid, performed, satisfied or discharged or otherwise arising prior to the 
+Closing;
+ 
+(e)           any Liability arising from or relating to any action taken by 
+Seller and its Affiliates, or any failure on the part of any Seller and its 
+Affiliates to take any action, at any time after the Closing;
+ 
+(f)            any Liability of Seller or its Affiliates to any employee or 
+consultant or former employee or consultant of Seller; and
+ 
+(g)           any Liability of Seller for any Tax.
+ 
+Section 1.5            Purchase Price.  Upon the terms and subject to the 
+conditions of this Agreement, in full payment for the sale, conveyance, 
+assignment, transfer and delivery of the Purchased Assets, Buyer agrees to 
+assume the Assumed Liabilities and to deliver or cause to be delivered to 
+Seller the following amounts (collectively, the Purchase Price) at the 
+following times:
+ 
+(a)           Immediately available funds (cash equivalent) payable to 
+Seller at the Closing in the amount of:  [***] U.S. dollars (US$[***]) (the 
+Initial Payment.
+ 
+(b)           The following contingent amounts (the Contingent Amounts) 
+shall be paid to Seller within [***] calendar days after the occurrence of 
+the following events:
+ 
+    (i)            [***] U.S. dollars (US $[***]) shall be paid to Seller
+    upon the first commercial sale in the United States of the first FDA
+    approved product developed by the Buyer using the MedLaunch Implant
+    Program;
+ 
+    (ii)           Until the later of the [***] anniversary of the Closing
+    or such time as the Products are no longer covered by a Valid Claim of
+    a Patent under the Purchased IP, a royalty of [***]% of worldwide Net
+    Sales of all Products (the Royalty Payments) shall be paid to Seller
+    by the Buyer in U.S. dollars on a calendar quarterly basis, within
+    [***] calendar days after the end of each applicable calendar quarter.
+ 
+(c)           As used herein, Net Sales means [***].
+ 
+3
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+(d)           No multiple payments under this Section 1.5(b)(ii) on the 
+same Net Sales shall be payable hereunder, regardless of whether the 
+relevant Products are covered by more than one Valid Claim within the 
+Purchased IP or otherwise.
+ 
+Section 1.6            Withholding of Taxes.  Buyer shall be entitled to 
+deduct and withhold from any amounts payable or otherwise deliverable 
+pursuant to this Agreement such amounts as may be required to be deducted 
+or withheld therefrom under any provision of federal, state, local or 
+foreign Tax law or under any applicable Legal Requirement.  To the extent 
+such amounts are so deducted and withheld, such amounts shall be treated 
+for all purposes under this Agreement as having been paid to Seller.  Each 
+Party shall cooperate and otherwise take commercially reasonable efforts to 
+obtain appropriate exemptions for or refunds of any such applicable Taxes 
+and to minimize any such Taxes.
+ 
+Section 1.7            Seller Closing Deliveries.  Seller shall duly 
+execute and/or deliver to Buyer at the Closing:
+ 
+(a)           a bill of sale in the form attached hereto as Exhibit A (the 
+Bill of Sale), duly executed by Seller;
+ 
+(b)           an assignment and assumption agreement, dated the Closing 
+Date, in the form attached hereto as Exhibit B (the Assignment and 
+Assumption Agreement), duly executed by Seller;
+ 
+(c)           a patent assignment agreement in the form attached as 
+Exhibit C (the Patent Assignment), duly executed by Seller;
+ 
+(d)           a trademark assignment agreement in the form attached as 
+Exhibit D (the Trademark Assignment), duly executed by Seller;
+ 
+(e)           such notices, consents and agreements as may be necessary or 
+appropriate in order to complete the transactions contemplated hereby and 
+assign to Buyer all rights and benefits under the Assumed Contracts; 
+provided that Seller shall not be required to take any action that cannot 
+be taken using commercially reasonable efforts; provided, further, that 
+Seller shall not be required to incur any out-of-pocket expenses unless 
+Buyer agrees to reimburse Seller therefor; and
+ 
+(f)            Notwithstanding anything herein the contrary, the failure by 
+Seller to obtain the consent of any third party to the assignment of any 
+Assumed Contract prior to Closing shall not be a breach of Sellers 
+obligations under this Section 1.7, but Seller shall comply with its 
+obligations under Section 5.6(d).
+ 
+Section 1.8            Buyer Closing Deliveries.  Buyer shall properly 
+execute and deliver to Seller at the Closing:
+ 
+(a)           the Initial Payment;
+ 
+(b)           the Bill of Sale, duly executed by Buyer; and
+ 
+(c)           the Assignment and Assumption Agreement, duly executed by 
+Buyer.
+ 
+4
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Section 1.9            Closing.  The Closing shall be deemed to occur at 
+the Sellers offices in Malvern, PA and Seller shall deliver all tangible 
+Purchased Assets at its Malvern or its New Jersey location.
+ 
+Section 1.10          Tangible Purchased Assets; Assigned Books and 
+Records.
+ 
+(a)           All tangible Purchased Assets will be delivered promptly 
+after the Closing Date (and in any case within [***] days after the Closing 
+Date) to Buyer or its Affiliated designee at the Sellers principal place 
+of business or, to the extent that any such Purchased Assets are located on 
+the Closing Date at the premises of a third party, to the Buyer or its 
+Affiliated designee at such other location where the tangible Purchased 
+Assets are located as of the Closing Date.  Buyer shall receive and remove 
+all tangible Purchased Assets from the location where they are delivered 
+within such period.
+ 
+(b)           Seller may retain copies of any Assigned Books and Records to 
+the extent necessary for tax, accounting, regulatory, compliance or 
+litigation purposes, or to perform and discharge the Excluded Liabilities 
+and their obligations under this Agreement, or if such Assigned Books and 
+Records contain information with respect to any Excluded Asset or Excluded 
+Liability.
+ 
+ARTICLE II
+REPRESENTATIONS AND WARRANTIES OF SELLER
+ 
+Subject to such exceptions as are disclosed in the corresponding Section, 
+subsection or clause of the Sellers disclosure schedule dated as of the 
+date hereof and delivered herewith to Buyer (the Seller Disclosure 
+Schedule) corresponding to the applicable Section of this Article II (or 
+disclosed in any other Section, subsection or clause of the Seller 
+Disclosure Schedule; provided, that it is reasonably apparent on the face 
+of such disclosure that such disclosure would be responsive to such other 
+Section, subsection or clause of this Article II), Seller hereby represents 
+and warrants to Buyer as follows:
+ 
+Section 2.1            Corporate Organization, Standing and Power.  Seller 
+is a corporation duly organized, validly existing and in good standing 
+under the laws of Delaware.  Seller has all necessary corporate power and 
+authority to execute and deliver this Agreement and to perform its 
+obligations hereunder.  Seller has all requisite corporate power and 
+authority to carry on its business as now being conducted as relates to the 
+Purchased Assets.
+ 
+Section 2.2            Consents, Authorization and Enforceability.
+ 
+(a)           To Sellers Knowledge, no material consent, waiver, approval, 
+order or authorization of, or registration, declaration or filing with, or 
+notice to any Governmental Authority is required by, or with respect to, 
+Seller or the Purchased Assets in connection with the execution and 
+delivery of this Agreement or the consummation of the transactions 
+contemplated hereby, except for (i) any notice filings or registrations of 
+transfer with any Governmental Authority that may be required in connection 
+with the assignment and transfer of the Purchased Assets that are described 
+on Section 2.2(a) of the Seller Disclosure Schedule, except for those to be 
+performed or made to evidence the transfer of Purchased Assets after the 
+Closing in connection with the Transaction Documents, and (ii) such other 
+material consents,
+ 
+5
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+waivers, approvals, authorizations or notices, if any, described on 
+Section 2.2(a) of the Seller Disclosure Schedule.
+ 
+(b)           All requisite corporate action necessary to authorize the 
+execution, delivery and performance by Seller of this Agreement, the other 
+Transaction Documents and each of the other agreements contemplated hereby 
+to which a Seller is or will be a party and the consummation of the 
+transactions contemplated hereby and thereby has been taken.  This 
+Agreement constitutes a valid and binding obligation of Seller, enforceable 
+against Seller in accordance with its terms, except as may be limited by 
+bankruptcy, insolvency, reorganization, moratorium, arrangement or other 
+similar Applicable Law or equitable principles relating to or limiting 
+creditors rights generally.
+ 
+Section 2.3            Title to Assets.
+ 
+(a)           Seller has good and marketable title to all of the Purchased 
+Assets.  Seller holds all of the Purchased Assets free and clear of all 
+Liens except for the following Liens (collectively, Permitted Liens):  
+(a) those Liens set forth on Section 2.3 of the Seller Disclosure Schedule, 
+(b) Liens released prior to the Closing, (c) mechanics, materialmens, 
+carriers, workmens, warehousemens, repairmens, landlords or other like 
+Liens and security obligations incurred in the ordinary course of business 
+for immaterial amounts, and (d) statutory liens for Taxes, assessments or 
+other statutory or governmental charges not yet due and payable.
+ 
+(b)           The Purchased Assets constitute all of the assets, tangible 
+and intangible, owned or licensed by Seller and its Affiliates material to 
+the MedLaunch Implant Program as conducted by Seller at any time prior to 
+the date hereof.
+ 
+Section 2.4            Non-Contravention.  The execution and delivery of 
+this Agreement by Seller does not and the consummation of the transactions 
+contemplated hereby by Seller will not (a) violate any provision of the 
+certificate of incorporation or similar governance documents that may be 
+applicable to Seller, (b) result in a breach (or any event which, with 
+notice or lapse of time or both, would constitute a breach) of any material 
+term or provision of, or constitute a material default under, any Assumed 
+Contract or other contract material to the MedLaunch Implant Program to 
+which Seller is a party or by which Seller or the Purchased Assets are 
+bound, except as would not reasonably be expected to have a Material 
+Adverse Effect, (c) result in the creation of any Lien on the Purchased 
+Assets (other than a Permitted Lien) or (d) violate in any material respect 
+any Applicable Law or any judgment, decree, order, regulation or rule of 
+any Governmental Authority by which Seller is bound or subject.
+ 
+Section 2.5            Contracts and Commitments.  There is not under any 
+Assumed Contract:  (a) any existing material default by Seller or, to 
+Sellers Knowledge, by any other party thereto, or (b) any event which, 
+after notice or lapse of time or both, would constitute a material default 
+by Seller or, to Sellers Knowledge, by any other party, or result in a 
+right to accelerate or terminate or result in a loss of any material rights 
+of Seller, except as would not reasonably be expected to have a Material 
+Adverse Effect.  The Assumed Contracts set forth on Schedule 1.1(b) are all 
+of the Contracts to which Seller and its Affiliates are a party that are 
+currently in effect and are material to the MedLaunch Implant Program.
+ 
+6
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Section 2.6            Intellectual Property.
+ 
+(a)           Schedule 1.1(a)(i) and (ii) collectively set forth a list of 
+all Patents and Trademarks primarily related to the MedLaunch Implant 
+Program and owned by Seller, specifying as applicable:  (i) the title 
+thereof, if any; (ii) the registration or application number thereof, if 
+any; and (iii) the jurisdiction in which such item exists or is registered. 
+ There are no agreements to which Seller is a party pursuant to which 
+Seller permits any other Person to use any Purchased IP.
+ 
+(b)           There are no claims pending or, to the Knowledge of Seller, 
+threatened in writing by or against Seller or before any Governmental 
+Authority, challenging the validity of any Purchased IP.
+ 
+(c)           The consummation of the transactions contemplated hereby will 
+not alter or impair any of Sellers right, title or interest in or to all 
+Purchased TP, and Seller is not a licensor or licensee in respect of any of 
+the Purchased IP, does not pay any royalty to or receive any royalty from 
+any Person with respect thereto, and has not granted any rights to or 
+received any rights from any Person with respect thereto.
+ 
+(d)           To Sellers Knowledge, each Person who is or was an employee, 
+officer or contractor of Seller or its Affiliates who contributed in any 
+material respect to the creation or development of the Purchased IP has 
+signed an agreement containing obligations of confidentiality and an 
+assignment to Seller or its Affiliates of all Intellectual Property Rights 
+in such individuals or entitys contribution to the Purchased IP.
+ 
+(e)           To Sellers Knowledge, Seller has paid all filing fees, issue 
+fees, annuities and other fees and charges applicable to the Purchased IP, 
+including those required for the issuance, registration, maintenance, 
+filing and prosecution of the Purchased IP, except as would not have a 
+Material Adverse Effect.  No Purchased IP is the subject of any pending, or 
+to Sellers Knowledge threatened, interference, opposition, cancellation, 
+protest, litigation or other challenge or Action, except as set forth on 
+Section 2.6(e) of the Seller Disclosure Schedule.  To Sellers Knowledge, 
+Seller and its patent counsel have satisfied statutory requirements with 
+respect to the filing, prosecution, and maintenance of all registered 
+Purchased IP, except as would not reasonably be expected to have a Material 
+Adverse Effect.
+ 
+(f)            To Sellers Knowledge, no Governmental Authority has any 
+rights in the Purchased IP.
+ 
+(g)           To Sellers Knowledge, no Person has infringed, 
+misappropriated, or otherwise violated, and no Person is currently 
+infringing, misappropriating, or otherwise violating, any claim of an 
+issued (granted) and unexpired Patent within the Purchased IP.
+ 
+(h)           To Sellers Knowledge, no Action has been instituted or is 
+pending against Seller or has been threatened in writing that challenges 
+the right of Seller with respect to its use or ownership of the Purchased 
+IP.
+ 
+(i)            Neither the execution, delivery, or performance of this 
+Agreement nor the consummation of any of the transactions or agreements 
+contemplated by this Agreement will,
+ 
+7
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+with or without notice or the lapse of time, result in, or give any other 
+Person the right to cause, (i) a loss of, or Lien on, any Purchased IP; 
+(ii) the release, disclosure, or delivery of any Purchased IP by or to any 
+escrow agent or other Person; or (iii) the grant, assignment, or transfer 
+to any other Person of any license or other material right or interest 
+under, to, or in any of the Purchased IP.
+ 
+Section 2.7            Litigation.  There is no action, suit, claim, 
+proceeding or investigation (collectively, Actions) pending or, to 
+Sellers Knowledge, threatened in writing against Seller or, to Sellers 
+Knowledge, any predecessor in interest to Seller, before or by any 
+Governmental Authority against, relating to or affecting the Purchased 
+Assets or seeking to prevent Sellers performance of this Agreement and the 
+transactions contemplated hereby.
+ 
+Section 2.8            Compliance with Law.  Seller has conducted its 
+business as applied to or in connection with the Purchased Assets in 
+compliance in all material respects with Applicable Laws.
+ 
+Section 2.9            Taxes.  There are no material Liens for Taxes on any 
+of the Purchased Assets (other than Permitted Liens) and there are no Taxes 
+of Seller related to the Purchased Assets which could become liabilities of 
+Buyer.  None of the Purchased Assets constitutes a United States real 
+property interest for federal income tax purposes.
+ 
+ARTICLE III
+LICENSE GRANT AND ENFORCEMENT
+ 
+Section 3.1            License to Purchased CP.  Buyer hereby grants to 
+Seller, subject to the terms and conditions of this Agreement, an 
+irrevocable, royalty-free, fully paid, non-cancellable, sole and exclusive 
+world-wide right and license, with the right to sublicense under the 
+Purchased IP to develop, make, have made, manufacture, market, use, sell, 
+offer for sale, and import the Licensed Products.  [***]
+ 
+Section 3.2            Maintenance of Purchased IP.  Buyer shall have the 
+right and obligation to maintain and diligently prosecute the Purchased IP 
+at Buyers expense, except with respect to any Purchased IP Buyer plans to 
+abandon and notifies Seller of such plans.  Seller shall have a right to 
+assume responsibility for any Purchased IP that Buyer plans to abandon or 
+otherwise cause or allow to be forfeited.  Buyer shall give Seller 
+reasonable written notice prior to abandonment or other forfeiture of any 
+patent or patent application within the Purchased IP so as to permit Seller 
+to exercise its rights under this Section, at its own expense.
+ 
+Section 3.3            Enforcement of Purchased IP.  If Seller determines 
+that any of the Purchased IP has been infringed by a third party, and the 
+infringement is based on a product or proposed product containing histrelin 
+or octreotide, Seller shall have the right, but not the obligation, to 
+bring suit with respect to any of the Purchased IP at its own expense.  If 
+Seller exercises its right to bring suit, Seller shall notify Buyer of the 
+infringement and Sellers intention to bring suit.  Seller shall have the 
+right to bring suit in Buyers name, and Buyer shall have the right, at its 
+own expense, to be represented by counsel.  In any litigation brought by 
+Seller under this section, Seller shall control the litigation and any 
+settlement, providing that Seller shall not settle any claim or demand in a 
+manner that would impose any significant obligations on Buyer,
+ 
+8
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+or that would jeopardize the Purchased IP, without the prior written 
+consent of Buyer, which consent shall not be unreasonably withheld or 
+delayed.
+ 
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF BUYER.
+ 
+Buyer hereby represents and warrants to Seller that the statements 
+contained in this Article IV are true and correct as of the date hereof:
+ 
+Section 4.1            Organization, Standing and Authority.  Buyer is a 
+private limited liability company duly organized, validly existing and in 
+good standing under the laws of Belgium.  Buyer has all necessary corporate 
+power and authority to enter into this Agreement and to perform its 
+obligations hereunder.
+ 
+Section 4.2            Consents and Authorization.  No consent, waiver, 
+approval, order or authorization of, or registration, declaration or filing 
+with, or notice to any Governmental Authority is required by, or with 
+respect to, Buyer in connection with the execution and delivery of this 
+Agreement or the consummation of the transactions contemplated hereby, 
+except for any notice filings or registrations of transfer with any 
+Governmental Authority that may be required in connection with the 
+assignment and transfer of the Purchased Assets.  All requisite corporate 
+action necessary to authorize the execution, delivery and performance by 
+Buyer of this Agreement has been taken.  This Agreement constitutes a valid 
+and binding obligation of Buyer, enforceable against Buyer in accordance 
+with its terms, except as may be limited by bankruptcy, insolvency, 
+reorganization, moratorium, arrangement or other similar Applicable Law or 
+equitable principles relating to or limiting creditors rights generally.
+ 
+Section 4.3            Non-Contravention.  The execution and delivery of 
+this Agreement by Buyer does not and the consummation of the transactions 
+contemplated hereby by Buyer will not (a) violate any provision of the 
+certificate of incorporation, bylaws or similar governance documents that 
+may be applicable to Buyer, (b) result in the breach (or an event which, 
+with notice or lapse of time or both, would constitute a breach) of any 
+term or provision of, or constitute a default under any material agreement 
+or material arrangement to which Buyer is a party or by which it is bound 
+or (c) violate in any material respect any Applicable Law or any judgment, 
+decree, order, regulation or rule of any Governmental Authority to which 
+Buyer is bound or subject.
+ 
+Section 4.4            Litigation and Claims.  There is no Action pending, 
+or to the knowledge of Buyer, threatened, against Buyer before or by any 
+Governmental Authority which seeks to prevent Buyers performance of this 
+Agreement and the transactions contemplated hereby or have a material 
+adverse effect on the ability of Buyer to complete such transactions.
+ 
+Section 4.5            Financing.  [***].
+ 
+9
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ARTICLE V
+COVENANTS.
+ 
+Section 5.1            Access to Information.
+ 
+(a)           For so long as a Party maintains books, records, files and 
+other information that is subject to this Section 5.1, during normal 
+business hours following reasonable prior notice, each Party will permit 
+the other Party and its accountants, legal counsel, and other 
+representatives, subject to the obligations set forth in Section 5.2 of 
+this Agreement, to have reasonable access to and examine and take copies of 
+all Assigned Books and Records and all other books and records of a Party 
+which are reasonably requested by the other Party and are necessary or 
+useful in connection with any Tax inquiry, audit, investigation or dispute 
+with a third party, any litigation, mediation or arbitration or similar 
+legal Action by any Governmental Authority or any dispute with any third 
+party reasonably requiring access to any such books and records, in each 
+case relating to or arising out of transactions or events occurring prior 
+to the Closing and that relate to the Purchased Assets.  Except as 
+otherwise provided in Section 5.8, the Party requesting access to any such 
+Assigned Books and Records or Sellers retained books and records or other 
+information shall bear all of the out of pocket costs and expenses 
+(including attorneys fees, but excluding reimbursement for salaries and 
+employee benefits) reasonably incurred in connection with providing access 
+to and copies of such Assigned Books and Records, Sellers retained books 
+and records or other information.
+ 
+(b)           Buyer and Seller will each direct its employees (without 
+substantial disruption of employment) to render any assistance that the 
+other Party may reasonably request in examining or utilizing the Assigned 
+Books and Records.
+ 
+(c)           Neither Buyer nor Seller will destroy any material books, 
+records, files or other information or data that are subject to this 
+Section 5.1 until the expiration of the applicable regulatory record 
+retention period under applicable Legal Requirements (giving effect to any 
+and all extensions or waivers) without giving at least [***] calendar days 
+prior written notice to the other Party.  Upon receipt of such notice, such 
+other Party may (i) cause to be delivered to it the records intended to be 
+destroyed, at such other Partys expense or (ii) notify the first Party 
+that such other Party will pay the cost of storing and maintaining such 
+books and records (including any necessary costs of moving such books and 
+records to a location under control of such other Party and the costs of 
+reviewing and removing from such books and records any information that 
+such other Party is not entitled to receive).
+ 
+(d)           Buyer and Seller will keep all information referred to in 
+this Section 5.1 confidential in accordance with Section 5.2 of this 
+Agreement.
+ 
+Section 5.2            Obligations of Confidentiality and Non-Use.
+ 
+(a)           Each Party agrees that the Party receiving Confidential 
+Information from the other Party, or otherwise possessing Confidential 
+Information of the other Party, pursuant to this Agreement shall keep 
+confidential and shall not publish or otherwise disclose, and will lake all 
+reasonable steps to prevent disclosure of, such Confidential Information 
+and will not use such Confidential Information except for the limited 
+purposes set forth in this Agreement.  No provision of this Agreement shall 
+be construed to preclude disclosure of Confidential Information to the 
+extent required to be disclosed by applicable statute, rule or regulation 
+of any court or regulatory authority with competent jurisdiction; provided 
+that the disclosing Party shall be notified as soon as reasonably possible 
+and the receiving Party shall, if requested by the other Party, use 
+reasonable good faith efforts to assist in seeking a protective order (or 
+equivalent)
+ 
+10
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+with respect to such disclosure or otherwise take reasonable steps to avoid 
+making such disclosure.
+ 
+(b)           Neither Party shall, directly or indirectly, issue any press 
+release or other public statement relating to the terms of this Agreement 
+or the transactions contemplated thereby without the prior approval of the 
+other Party (which shall not be unreasonably delayed, conditioned or 
+withheld), except (i) to the extent required by any Legal Requirement, (ii) 
+as reasonably necessary to obtain any requisite consents and approvals 
+contemplated by this Agreement, or (iii) to the extent necessary for a 
+Party to comply with its obligations hereunder.  Notwithstanding anything 
+to the contrary in the foregoing, each Party shall be permitted to make 
+such releases or public announcements or communications to the extent 
+consistent with previous disclosures made in accordance with this Section 
+5.2(b).
+ 
+(c)           Seller hereby releases, on behalf of Seller and its 
+Affiliates, Buyer and its officers, directors, employees and consultants 
+from all obligations they may have with respect to that portion of the 
+Confidential Information included in the Purchased Assets under any 
+confidentiality agreement with or policy of Seller covering such 
+Confidential Information.  From and after the Closing, the foregoing 
+release shall also apply to any future officers, directors, employees and 
+consultants of Buyer and its Affiliates formerly employed or engaged by 
+Seller or its Affiliates who are engaged from time to time in compliance 
+with Section 5.5 of this Agreement.
+ 
+Section 5.3            Further Assurances; Consents.
+ 
+(a)           Prior to Closing, each Party shall use commercially 
+reasonable efforts to take such action as is reasonably necessary or 
+appropriate in order to complete the transactions contemplated hereby on 
+the terms and subject to the conditions set forth herein.
+ 
+(b)           After Closing, at the request of Buyer from time to time 
+Seller shall use commercially reasonable efforts to obtain and deliver such 
+third party consents and execute and deliver to Buyer such certificates, 
+consents and other instruments of sale, conveyance, assignment and 
+transfer, and take such other action, as may reasonably be requested by 
+Buyer to more effectively sell, convey, assign and transfer to Buyer, to 
+the extent required under this Agreement, the Purchased Assets.
+ 
+(c)           To the extent any Assumed Contract does not permit assignment 
+or transfer by Seller to Buyer pursuant to the Transaction Documents 
+without the consent of a third party, and such consent is not obtained 
+prior to Closing, [***].  In such case, Seller shall (i) use commercially 
+reasonable efforts to obtain such consent promptly after the Closing, and 
+(ii) until the earliest of:  (a) the date all such consents are obtained, 
+(b) the date all such Assumed Contracts expire or are terminated or (c) the 
+date which is [***] days from the Closing, Seller and Buyer shall 
+cooperate, in all commercially reasonable respects, to make the benefits of 
+such Assumed Contract available to Buyer, to the extent consistent with the 
+terms of such Assumed Contract ([***]), and Seller shall comply with all of 
+its obligations under such Assumed Contract and, to the extent any third 
+party is in breach of such Assumed Contract, enforce the terms and 
+conditions of such Assumed Contract if requested by Buyer [***].
+ 
+11
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+(d)           If, after the Closing, Buyer reasonably determines that an 
+asset owned or licensed by Seller that was material to the MedLaunch 
+Implant Program as conducted by Seller (an Omitted Asset) was not 
+transferred to Buyer at Closing as part of the Purchased Assets and 
+notifies Seller in writing of the existence of such Omitted Asset and 
+Buyers belief that such Omitted Asset constitutes a Purchased Asset, 
+Seller shall cooperate in good faith with Buyer to determine whether such 
+Omitted Asset should have been transferred to Buyer as a Purchased Asset, 
+and if Seller agrees that such Omitted Asset should have been transferred 
+to Buyer at Closing, Seller shall either (i) transfer and assign the 
+Omitted Asset to Buyer or (ii) otherwise make the benefits of such Omitted 
+Asset available to Buyer.  Any consideration payable by Buyer for any such 
+Omitted Assets shall be deemed to have already been included in the 
+Purchase Price for the Purchased Assets.  Notwithstanding the foregoing, 
+Buyer shall be responsible for payment of any fees or costs associated with 
+the transfer of any Omitted Assets.
+ 
+ARTICLE VI
+INDEMNIFICATION.
+ 
+Section 6.1            Survival of Representations and Warranties and 
+Covenants.  The representations, warranties, covenants and agreements of 
+the Parties contained in this Agreement shall survive the Closing for the 
+applicable period set forth in this Section 6.1, and any and all claims and 
+causes of action for indemnification under this Article VI arising out of 
+the inaccuracy or breach of any representation, warranty, covenant or 
+agreement of a Party must be made prior to the termination of the 
+applicable survival period.  The Parties agree that all of the 
+representations, warranties, covenants and agreements of the Parties 
+contained in this Agreement and any and all claims and causes of action for 
+indemnification under this Article VI shall survive as follows:
+ 
+(a)           The respective representations and warranties of the Parties 
+set forth in Sections 2.1 (Corporate Organization, Standing and Power), 
+2.2 (Consents, Authorization and Enforceability), 2.3 (Title to Assets; 
+Sufficiency of Assets), 4.1 (Organization, Standing and Authority) and 4.2 
+(Consents and Authorization) shall survive indefinitely;
+ 
+(b)           All other representations and warranties of the Parties shall 
+survive for three (3) years; and
+ 
+(c)           All covenants, agreements and obligations that do not have a 
+specified term shall survive indefinitely.
+ 
+Notwithstanding the foregoing (i) any obligation to indemnify, defend and 
+hold harmless pursuant to this Section 6.1 shall not terminate with respect 
+to any item as to which the Indemnified Party shall have, before the 
+expiration of the applicable survival period, previously made a claim by 
+delivering a written notice of such claim (stating in reasonable detail the 
+basis of such claim) to the Indemnifying Party in accordance with Section 
+6.3 and (ii) this Section 6.1 shall not limit any covenant or agreement of 
+the Parties which contemplates performance after the Closing.
+ 
+12
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Section 6.2            Obligation to Indemnify.
+ 
+(a)           Indemnification by Seller.  Subject to the limitations set 
+forth in this Article VI, Seller agrees to indemnify, defend and hold 
+harmless [***]), from and against all Losses resulting from or related to:
+ 
+    (i)            [***];
+ 
+    (ii)           [***]
+ 
+    (iii)          [***].
+ 
+(b)           Indemnification by Buyer.  Subject to the limitations set 
+forth in this Article VI, Buyer agrees to indemnify, defend and hold 
+harmless [***]:
+ 
+    (i)            [***];
+ 
+    (ii)           [***];
+ 
+    (iii)          [***]; and
+ 
+    (iv)          [***].
+ 
+Section 6.3            Indemnification Procedures.
+ 
+(a)           Any Buyer Indemnitee or Seller Indemnitee making a claim for 
+indemnification pursuant to this Article VI (an Indemnified Party) must 
+give the other Party from whom indemnification is sought (an Indemnifying 
+Party) written notice of such claim (a Claim Notice) [***] after the 
+Indemnified Party receives any written notice of any Proceeding against or 
+involving the Indemnified Party by a Governmental Authority or other third 
+party, or otherwise discovers the liability, obligation or facts giving 
+rise to such claim for indemnification (Claim); provided that the failure 
+to notify or delay in notifying an Indemnifying Party will not relieve the 
+Indemnifying Party of its obligations pursuant to this Article VI, except 
+to the extent (and only to the extent) that such failure actually harms the 
+Indemnifying Party.  Such Claim Notice must contain a description of the 
+Claim and the nature and amount of such Loss (to the extent that the nature 
+and amount of such Loss is known or reasonably ascertainable at such time; 
+provided that such amount or estimated amount shall not be conclusive of 
+the final amount, if any, of such Claim).  Notwithstanding the foregoing, 
+any claim for a breach of a representation or warranty or covenant must be 
+delivered prior to the expiration of the applicable survival term set forth 
+in Section 6.1.
+ 
+(b)           With respect to the defense of any Claim against or involving 
+an Indemnified Party in which a Governmental Authority or other third party 
+in question seeks recovery of a sum of money for which a Claim Notice is 
+provided [***].
+ 
+(c)           If the Indemnifying Party assumes the defense of any Claim 
+pursuant to Section 6.3(b)(iii), the Indemnified Party will be [***]
+ 
+    (i)            [***]
+ 
+    (ii)           [***]
+ 
+13
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+    (iii)          [***]
+ 
+(d)           [***]
+ 
+(e)           [***]
+ 
+Section 6.4            [***]  [***] Insurance Proceeds.  The amount of any 
+Losses required to be reimbursed under this Article VI sustained by an 
+Indemnified Party [***] provided, further, the Indemnified Party shall be 
+entitled to seek indemnification pursuant to this Article VI [***].  The 
+Indemnified Parties shall use commercially reasonable efforts to collect 
+any amounts available under such insurance coverage and from such other 
+Person alleged to have responsibility.  If an Indemnified Party receives an 
+amount under insurance coverage or from such other Person with respect to 
+Losses sustained at any time subsequent to any indemnification payment 
+pursuant to this Article VI, [***].
+ 
+Section 6.6            Duty to Mitigate.  Each Indemnified Party shall be 
+obligated to use its [***] to mitigate to the fullest extent reasonably 
+practicable the amount of any Losses for which it is entitled to seek 
+indemnification under this Article VI, and the Indemnifying Party shall not 
+be required to make any payment to an Indemnified Party in respect of such 
+Losses to the extent such Losses arise from the failure of the Indemnified 
+Party to comply with the foregoing obligation.  All reasonable costs and 
+expenses incurred in connection with such mitigation shall be included as 
+indemnifiable Losses to the extent reasonably incurred in an effort to 
+mitigate an indemnifiable Loss.
+ 
+Section 6.7            Remedies.
+ 
+(a)           Each Party acknowledges and agrees that the remedies provided 
+for in this Article VI shall be its sole and exclusive remedy with respect 
+to the subject matter of this Agreement.  Notwithstanding anything to the 
+contrary contained in the foregoing, nothing herein shall (i) limit the 
+liability of any Party for fraud or (ii) prevent any Party from seeking the 
+remedies of specific performance or injunctive relief in connection with a 
+breach of a covenant or agreement of any Party contained herein or in any 
+Ancillary Agreement, subject to
+ 
+(b)           Except as otherwise provided herein, any and all remedies 
+herein expressly conferred upon a Party will be deemed cumulative with and 
+not exclusive of any other remedy conferred hereby, or by law or equity 
+upon such Party, and the exercise by a Party of any one remedy will not 
+preclude the exercise of any other remedy.  The Parties agree that 
+irreparable damage would occur in the event that any of the provisions of 
+this Agreement were not performed in accordance with their specific terms 
+or were otherwise breached.  The Parties accordingly agree that they shall 
+be entitled to seek a temporary injunction or injunctions to prevent 
+breaches of this Agreement or to enforce specifically the performance of 
+the terms and provisions hereof in any court in Delaware, in addition to 
+any other remedy to which they are entitled at law or in equity.
+ 
+14
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ARTICLE VII
+MISCELLANEOUS.
+ 
+Section 7.1            Definitions.  As used in this Agreement, the 
+following terms shall have the following meanings:
+ 
+Affiliate means with respect to any Person, any other Person directly or 
+indirectly controlling, controlled by, or under common control with such 
+other Person.
+ 
+Applicable Law means all federal, provincial, state, local or foreign law 
+(including United States), (statutory, common or otherwise), constitution, 
+treaty, convention, ordinance, code, rule, regulation, order, injunction, 
+judgment, decree, ruling or other similar requirement
+ 
+Business means the business of operating and developing the MedLaunch 
+Implant Program.
+ 
+Business Day shall mean any day other than a Saturday, a Sunday or a day 
+on which banks in New York City are authorized or obligated by law or 
+governmental order to close.
+ 
+Closing Date means the date on which the Closing occurs.
+ 
+Code means the Internal Revenue Code of 1986, as amended.
+ 
+Confidential Information means all information and data, regardless of 
+form, including a formula, pattern, compilation, program, method, 
+technique, process, inventory, biological material, chemical, physical 
+material, gene sequence, amino acid sequence, chemical structure or 
+activity, design, prototype, drawings, samples, source code, business plan, 
+business opportunity, customer or personnel list, or financial statement 
+proprietary to a Party or its Affiliate, except any portion thereof which:
+ 
+    (i)            is known to the receiving Party prior to receipt from
+    the disclosing Party, as established by contemporaneously created
+    written records;
+ 
+    (ii)           is disclosed to the receiving Party by a third party, as
+    evidenced by the receiving Partys contemporaneously created written
+    records, who is under no obligation of confidentiality to the
+    disclosing Party with respect to such information and who otherwise has
+    a right to make such disclosure;
+ 
+    (iii)          is or becomes published, as evidenced by a written
+    version thereof, or generally known in the trade through no fault of
+    the receiving Party; or
+ 
+    (iv)          is independently developed by the receiving Party,
+    without resort to the disclosing Partys Confidential Information, by
+    persons having no access thereto, as evidenced by the receiving Partys
+    contemporaneously created written records.
+ 
+All information and data solely related to the MedLaunch Implant Program 
+included within the Purchased Assets that immediately prior to Closing 
+constitutes Confidential Information of Seller (without regard to clause 
+(i) or (ii) above) shall, from and after Closing, be deemed to constitute 
+Confidential Information of Buyer, except that Seller and its Affiliates 
+shall continue to have the right to use such information and data for the 
+purposes set out in Section 5.1 or to otherwise use and disclose such 
+Confidential Information as expressly permitted under this Agreement.
+ 
+15
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Contract means any written or oral legally binding contract, agreement, 
+instrument, commitment, obligation, understanding, or undertaking of any 
+nature (including, without limitation, leases, licenses, mortgages, notes, 
+guarantees, sublicenses, subcontracts, covenants not to compete, covenants 
+not to sue, confidentiality agreements, options and warranties).
+ 
+Domain Names means domain names in the United States and all other 
+nations throughout the world, whether registered or unregistered and 
+pending applications to register the same.
+ 
+Governmental Authority means any nation or government, any provincial, 
+state, regional, local or other political subdivision thereof, any 
+supranational organization of sovereign states, and any entity, department, 
+commission, bureau, agency, authority, board, court, official or officer, 
+domestic or foreign, exercising executive, judicial, regulatory or 
+administrative functions of or pertaining to government,
+ 
+Histrelin Product [***].
+ 
+Intellectual Property Rights means (i) Patents, (ii) Trademarks, (iii) 
+Know-How, (iv) industrial designs (whether or not registered), (v) all 
+rights in all of the foregoing provided by treaties, conventions and common 
+law, (vi) all rights to sue or recover and retain damages and costs and 
+attorneys fees for past, present and future infringement or 
+misappropriation of any of the foregoing, and (vii) any other proprietary 
+or intellectual property rights now known or hereafter recognized in any 
+jurisdiction.
+ 
+Inventory means the compounds, materials, standards and controls solely 
+used in the MedLaunch Implant Program.
+ 
+Know-How means any and all tangible, proprietary, confidential, research, 
+technical and scientific information that is not in the public domain, 
+including information relating to materials, discoveries, unpatented 
+inventions, improvements, practices, methods, protocols, operating manuals, 
+databases, formulas, knowledge, trade secrets, technologies, processes, 
+assays, sources, skills, experience, techniques, data and the results of 
+experimentation and testing.
+ 
+Knowledge means, with respect to Seller, the actual knowledge of the 
+employees officers of Seller as of the date of this Agreement responsible 
+for the relevant matter, and with respect to Buyer, the actual knowledge of 
+the employees of Buyer responsible for the relevant matter.
+ 
+Legal Requirement means any federal, state, local, municipal, foreign or 
+other law, statute, legislation, constitution, principle of common law, 
+resolution, ordinance, code, edict, decree, proclamation, treaty, 
+convention, rule, regulation, ruling, directive, pronouncement, 
+requirement, specification, determination, decision, opinion or 
+interpretation issued, enacted, adopted, passed, approved, promulgated, 
+made, implemented or otherwise put into effect by or under the authority of 
+any Governmental Authority.
+ 
+Liability means all debts, liabilities and obligations (including with 
+respect to Taxes), whether accrued or fixed, absolute or contingent, 
+matured or unmatured, determined,
+ 
+16
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+determinable or indeterminable, asserted or unasserted, known or unknown, 
+including those arising under any Legal Requirements or Proceeding and 
+those arising under any Contract.
+ 
+Licensed Products means the Histrelin Product and the Octreotide Product.
+ 
+Losses means any loss, claim, Liability, damage, fee, obligation, 
+judgment, settlement, interest, penalty, fee, charge, consequential 
+damages, cost and expense, including costs of investigation and defense and 
+fees and expenses of lawyers, accountants, experts and other professionals.
+ 
+Material Adverse Effect means any change, circumstance or effect that, 
+individually or in the aggregate, would or would reasonably be expected to 
+(i) have a materially adverse effect on the Purchased Assets taken as a 
+whole, including the value thereof or on Buyers ability to receive, 
+operate and develop the Purchased Assets taken as a whole free of Liens 
+(other than Permitted Liens) pursuant hereto; provided, however, that none 
+of the following changes, effects, events, circumstances or occurrences 
+shall be deemed, either alone or in combination, to constitute a Material 
+Adverse Effect, or be taken into account in determining whether a Material 
+Adverse Effect has occurred or would reasonably be expected to occur:  (a) 
+changes or effects in general economic or financial conditions; (b) changes 
+in Applicable Laws; (c) changes or effects that generally affect the 
+pharmaceutical or medical device industry; (d) changes or effects that 
+arise out of or are attributable to the commencement, occurrence, 
+continuation or intensification of any war, sabotage, armed hostilities or 
+acts of terrorism; or (e) changes or effects arising out of or attributable 
+to the public announcement of the transactions contemplated by this 
+Agreement or the compliance with the provisions of this Agreement, or (ii) 
+prevent or materially delay consummation of the transactions contemplated 
+hereby.
+ 
+Medlaunch Implant Program means an implantable [***] drug delivery system 
+falling within the scope of the Purchased IP.
+ 
+Octreotide Product [***].
+ 
+Option Agreement means that certain Option Agreement, dated as of May 6, 
+2014, by and between the Parties.
+ 
+Patents means national and multinational statutory invention 
+registrations, patents and patent applications (including provisional 
+applications), as well as all renewals, reissues, divisions, substitutions, 
+continuations, continuations-in-part, extensions and reexaminations and all 
+foreign counterparts thereof, registered or applied for in the United 
+States and all other nations throughout the world.
+ 
+Person means an individual, corporation, partnership, limited liability 
+company, association, trust or other entity or organization, including a 
+government or political subdivision or an agency or instrumentality 
+thereof.
+ 
+Proceeding means any action, suit, litigation, mediation, arbitration, 
+proceeding (including any civil, criminal, administrative, investigative or 
+appellate proceeding and any informal proceeding), prosecution, contest, 
+hearing, inquiry, inquest, audit, examination or
+ 
+17
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+investigation commenced, brought, conducted or heard by or before, or 
+otherwise involving, any Governmental Entity or any arbitrator or 
+arbitration panel.
+ 
+Product means any therapeutic, device, or diagnostic developed, 
+manufactured or sold by Buyer or its Affiliates or their licensees or 
+sublicensees that is developed from, uses or relies on any Purchased Asset 
+or would infringe a Valid Claim under any Purchased IP
+ 
+Property Taxes means all real property Taxes, personal property Taxes and 
+similar ad valorem Taxes.
+ 
+Purchased IP means all Patents and Trademarks set forth on Schedule 1.1, 
+and all Know-How owned by Seller and its Affiliates that primarily relates 
+to the Patents and Trademarks set forth on Schedule 1.1 and which is in the 
+possession of Sellers and its Affiliates.
+ 
+Regulatory Filings and Approvals means, with respect to any 
+pharmaceutical or medical device product in any jurisdiction, any and all 
+regulatory applications, filings, approvals, and associated correspondence 
+required to develop, manufacture, market, sell, and import such product in, 
+or into, any jurisdiction, and all approvals from any regulatory authority 
+necessary for the sale of such product in a given jurisdiction in 
+accordance with all Legal Requirements.
+ 
+Tax means any federal, state, local or foreign income, gross receipts, 
+license, payroll, employment, excise, severance, stamp, occupation, 
+premium, windfall profits, environmental, customs duties, capital stock, 
+franchise, profits, withholding, social security, unemployment, disability, 
+real property, personal property, sales, use, transfer, registration, value 
+added, alternative or add-on minimum, estimated, or other tax, including 
+any interest, penalty or addition thereto, imposed by any Governmental 
+Authority (a Taxing Authority) responsible for the imposition of any such 
+tax (domestic or foreign).
+ 
+Tax Return means any return, declaration, report, claim for refund, or 
+information return or statement relating to Taxes, including any Schedule 
+or attachment thereto, and including any amendment thereof.
+ 
+Trademarks means trademarks, service marks, trade dress, logos, slogans, 
+800 numbers, Domain Names, URLs, trade names, service names and corporate 
+names (whether or not registered) in the United States and all other 
+nations throughout the world, including all variations, derivations, and 
+combinations thereof, and all common law rights, registrations and 
+applications for registration or renewals of the foregoing and all goodwill 
+associated therewith.
+ 
+Transaction Documents means this Agreement, the Bill of Sale, the 
+Assignment and Assumption Agreement, the Patent Assignment and the 
+Trademark Assignment.
+ 
+Transfer Taxes means any and all transfer, documentary, sales (including 
+any goods and services tax or harmonized sales tax), use, gross receipts, 
+stamp, registration, value added, recording, escrow and other similar Taxes 
+and fees (including any penalties and interest) incurred in connection with 
+this Agreement (including recording and escrow fees and any real property 
+or leasehold interest transfer or gains Tax and any similar Tax, but 
+excluding any income tax).
+ 
+18
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Treasury Regulations means the United States Treasury regulations 
+promulgated under the Code.
+ 
+Valid Claim means a claim of an issued and unexpired patent, or a pending 
+claim of a patent application that is being prosecuted, that has not been 
+held unpatentable, invalid or unenforceable by a court or other government 
+agency of competent jurisdiction or has not been admitted to be invalid or 
+unenforceable through reissue, reexamination, disclaimer or otherwise; 
+provided, however, that if the holding of such court or agency is later 
+reversed by a court or agency with overriding authority, the claim shall be 
+reinstated as a Valid Claim after the date of such reversal; and further 
+provided that such pending claim of a patent application has not been 
+pending for more than 5 years after the date on which it was first filed.
+ 
+Section 7.2              Notices.  All notices, requests, demands and other 
+communications which are required or may be given under this Agreement 
+shall be in writing and shall be deemed to have been duly given when 
+received if personally delivered; upon receipt if transmitted by email; the 
+day after it is sent, if sent for next day delivery to a U.S. address by 
+recognized overnight delivery service (e.g., Federal Express); and upon 
+receipt, if sent by certified or registered mail, return receipt requested, 
+as follows:
+ 
+        If to Buyer:
+ 
+            Braeburn Pharmaceuticals BVBA SPRL
+            c/o Braeburn Pharmaceuticals, Inc.
+            47 Hulfish Street
+            Princeton, New Jersey, USA 08542
+            Attention:  Chief Executive Officer
+ 
+        With a copy (which shall not constitute notice) to:
+ 
+            Braeburn Pharmaceuticals BVBA SPRL
+            c/o Braeburn Pharmaceuticals, Inc.
+            47 Hulfish Street
+            Princeton, New Jersey, USA 08542
+            Attention:  General Counsel
+ 
+        If to Seller:
+ 
+            Endo Pharmaceuticals Solutions Inc.
+            1400 Atwater Drive
+            Malvern, PA 19355
+            Attention:  Chief Legal Officer
+ 
+or to such other place and with such other copies as either party may 
+designate as to itself by written notice to the others.
+ 
+Section 7.3              Governing Law.  This Agreement shall be governed 
+by and construed in accordance with the internal substantive laws of the 
+State of Delaware as such laws are applied to agreements between residents 
+of the State of Delaware that are entered into in the State of Delaware.
+ 
+19
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Section 7.4              Counterparts.  This Agreement may be executed in 
+two or more counterparts, each of which shall be deemed an original but all 
+of which together shall constitute one and the same instrument.
+ 
+Section 7.5              Entire Agreement.  This Agreement, including the 
+Schedules and Exhibits hereto and the documents referred to herein, 
+embodies the entire agreement and understanding of the Parties hereto in 
+respect of the subject matter contained herein.  This Agreement supersedes 
+ail prior agreements and understandings between the Parties with respect to 
+such subject matter.
+ 
+Section 7.6              Amendment and Modification.  This Agreement may be 
+amended or modified only by written agreement of the Parties hereto.
+ 
+Section 7.7              Binding Effect:  Benefits.  This Agreement shall 
+inure to the benefit of and be binding upon the Parties hereto and their 
+respective successors and assigns; nothing in this Agreement, express or 
+implied, is intended to confer on any Person other than the Parties hereto 
+and their respective successors and assigns any rights, remedies, 
+obligations or liabilities under or by reason of this Agreement.
+ 
+Section 7.8              Assignability.  This Agreement shall not be 
+assignable by any Party hereto without the prior written consent of the 
+other Party except that (a) Buyer may assign its rights and obligations 
+under this Agreement to any Affiliate of Buyer without the prior written 
+consent of Seller provided that such assignee continues to be an Affiliate 
+of Buyer; (b) Seller may assign its rights and obligations hereunder to any 
+acquiror of all or substantially all of the assets of Seller, including an 
+assignment by operation of law, without the prior written consent of Buyer 
+and (c) Seller may assign any or all of its right to receive payments 
+hereunder without the prior written consent of Buyer.
+ 
+Section 7.9              Interpretation Provisions.  The words hereof, 
+herein and hereunder and words of similar import when used in this 
+Agreement refer to this Agreement as a whole and not to any particular 
+provision of this Agreement, and Article, Section, Schedule and Exhibit 
+references are to this Agreement unless otherwise specified. The meaning of 
+defined terms shall be equally applicable to the singular and plural forms 
+of the defined terms. The term or is disjunctive but, depending on the 
+context, not necessarily exclusive. The terms include and including are 
+not limiting and mean including without limitation. Use of a particular 
+gender is for convenience only and is not intended to be a part of or to 
+affect or restrict the meaning or interpretation of this Agreement.
+ 
+(b)           References to agreements and other documents shall be deemed 
+to include all subsequent amendments and other modifications thereto.
+ 
+(c)           References to statutes shall include all regulations 
+promulgated thereunder and references to statutes or regulations shall be 
+construed as including all statutory and regulatory provisions 
+consolidating, amending or replacing the statute or regulation.
+ 
+(d)           The captions and headings of this Agreement are for 
+convenience of reference only and shall not affect the construction of this 
+Agreement.
+ 
+20
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+(e)           The language used in this Agreement shall be deemed to be the 
+language chosen by the Parties to express their mutual intent, and no rule 
+of strict construction shall be applied against any party.
+ 
+(f)            The Schedules and Exhibits to this Agreement are a material 
+part hereof and shall be treated as if fully incorporated into the body of 
+this Agreement.
+ 
+Section 7.10            Severability.  Whenever possible, each provision or 
+portion of any provision of this Agreement shall be interpreted in such 
+manner as to be effective and valid under applicable law, but if any 
+provision or portion of any provision of this Agreement is held to be 
+invalid, illegal or unenforceable in any respect under any applicable law 
+or rule in any jurisdiction, such invalidity, illegality or 
+unenforceability shall not affect the validity, legality or enforceability 
+of any other provision or portion of any provision in such jurisdiction.
+ 
+Section 7.11            Obligations of Partys Affiliates.  Each Party 
+shall cause its Affiliates that are entities to perform any obligations of 
+such Party and its Affiliates that are entities in connection with the 
+Purchased Assets and the consummation of the transactions contemplated by 
+this Agreement.
+ 
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement as 
+of the date first above written.
+ 
+ 
+Seller:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name: Rajiv De Silva
+ 
+ 
+Title: President and CEO
+ 
+ 
+ 
+Buyer:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+21
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+IN WITNESS WHEREOF, the Parties hereto have duly executed this Agreement as 
+of the date first above written.
+ 
+ 
+Seller:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+ 
+Buyer:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+[Signature Page to Asset Purchase and Sale Agreement]
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+All patents and patent applications in the [***], including the following:
+ 
+Patents and Patent Applications:
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+2004262999
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+2009202942
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+2010251786
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+1660034
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+1660034
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedules to Asset Purchase and Sale Agreement
+Schedule 1.1(a) - Purchased IP
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+Schedule 1.1(b) - Assumed Contracts
+ 
+[***]
+ 
+Schedule 1.1(c) - Regulatory Filings and Approvals
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedule 1.1(e) - Purchased Inventory
+ 
+[***]
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Schedule 1.1(f) -Purchased Equipment
+ 
+Equipment
+ 
+Manufacturer
+ 
+Model*
+ 
+EQ#
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Equipment
+ 
+Manufacturer
+ 
+Model*
+ 
+EQ#
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+EXHIBIT A
+ 
+BILL OF SALE
+ 
+This BILL OF SALE (Bill of Sale) is made and entered into as of [], by 
+Endo Pharmaceuticals Solutions Inc., a company duly incorporated under the 
+laws of Delaware (Seller), in favor of Braeburn Pharmaceuticals BVBA 
+SPRL, a private limited liability company existing under the laws Belgium 
+(Buyer).  Seller and Buyer are sometimes collectively referred to herein 
+as the Parties and individually as a Party.
+ 
+WHEREAS, Seller and Buyer have entered into that certain Asset Purchase and 
+Sale Agreement, dated as of the date hereof (the Purchase Agreement), 
+pursuant to which, among other things, Buyer is acquiring the Purchased 
+Assets (as defined in the Purchase Agreement), on the terms and subject to 
+the conditions set forth in the Purchase Agreement; and
+ 
+WHEREAS, Seller and Buyer now seek to consummate the sale, conveyance, 
+transfer and assignment of such Purchased Assets owned by Seller (other 
+than such Purchased Assets that are conveyed pursuant to other instruments 
+of transfer executed pursuant to the Purchase Agreement).
+ 
+NOW, THEREFORE, for and in consideration of the agreements and covenants 
+contained in the Purchase Agreement, and the agreements and covenants 
+contained herein, and for the other good and valuable consideration, the 
+receipt and sufficiency of which is hereby acknowledged, the Parties do 
+hereby agree as follows:
+ 
+(a)           Capitalized terms used but not defined herein shall have the 
+meanings for such terms that are set forth in the Purchase Agreement.
+ 
+(b)           Under the terms and subject to the conditions set forth in 
+the Purchase Agreement, Seller hereby sells, conveys, transfers and assigns 
+to Buyer all of Sellers right, title and interest in and to all of the 
+Purchased Assets (other than such Purchased Assets that are conveyed 
+pursuant to other instruments of transfer executed pursuant to the Purchase 
+Agreement), free and clear of any Liens other than Permitted Liens.  For 
+the avoidance of doubt, Seller does not hereby sell, convey, transfer or 
+assign to Buyer any Excluded Asset.
+ 
+(c)           This Bill of Sale shall be binding upon and shall inure to 
+the benefit of the Parties and their respective successors and, if 
+applicable, permitted assigns.  Each Party intends that this Bill of Sale 
+shall not benefit or create any right or cause of action in any Person 
+other than the Parties hereto.
+ 
+(d)           Nothing contained herein shall itself change, amend, extend 
+or alter the terms or conditions of the Purchase Agreement in any manner 
+whatsoever. In the event of any conflict or inconsistency between the terms 
+of the Purchase Agreement and the terms hereof, the terms of the Purchase 
+Agreement shall govern.
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+(e)           This Bill of Sale shall be governed by and construed in 
+accordance with the internal substantive laws of the State of Delaware as 
+such laws are applied to agreements between residents of the State of 
+Delaware that are entered into in the State of Delaware, without giving 
+effect to principles of conflict of laws that would require the application 
+of the laws of any other jurisdiction.
+ 
+(f)            This Bill of Sale may be executed simultaneously in two or 
+more counterparts, each of which shall be deemed an original, and all of 
+which together shall constitute the Bill of Sale.  Signatures may be 
+transmitted via facsimile other electronic means, thereby constituting the 
+valid signature and delivery of this Bill of Sale.
+ 
+(g)           Whenever possible, each provision or portion of any provision 
+of this Bill of Sale shall be interpreted in such manner as to be effective 
+and valid under applicable law, but if any provision or portion of any 
+provision of this Bill of Sale is held to be invalid, illegal or 
+unenforceable in any respect under any applicable law or rule in any 
+jurisdiction, such invalidity, illegality or unenforceability shall not 
+affect the validity, legality or enforceability of any other provision or 
+portion of any provision in such jurisdiction, and this Bill of Sale shall 
+be reformed, construed and enforced in such jurisdiction in such manner as 
+will effect as nearly as lawfully possible the purpose and intent of such 
+invalid, illegal or unenforceable provision.
+ 
+IN WITNESS WHEREOF, Seller caused this Bill of Sale to be executed as of 
+the date first above written.
+ 
+ 
+SELLER:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+ 
+ 
+BUYER:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+EXHIBIT B
+ 
+ASSIGNMENT AND ASSUMPTION AGREEMENT
+ 
+This ASSIGNMENT AND ASSUMPTION AGREEMENT (this Agreement) is made and 
+entered into as of [], by and between Endo Pharmaceuticals Solutions Inc., 
+a company duly incorporated under the laws of Delaware (Assignor), and 
+Braeburn Pharmaceuticals BVBA SPRL, a private limited liability company 
+existing under the laws of Belgium (Assignee).  The Assignor and the 
+Assignee are sometimes collectively referred to herein as the Parties and 
+individually as a Party.
+ 
+WHEREAS, Assignor and Assignee have entered into that certain Asset 
+Purchase and Sale Agreement, dated as of the date hereof (the Purchase 
+Agreement), pursuant to which, among other things, Assignee is acquiring 
+the Purchased Assets (as defined in the Purchase Agreement), on the terms 
+and subject to the conditions set forth in the Purchase Agreement; and
+ 
+WHEREAS, pursuant to the Purchase Agreement, Assignor has agreed to assign 
+to the Assignee and Assignee has agreed to assume from Assignor the Assumed 
+Liabilities, as defined in the Purchase Agreement, on the terms and subject 
+to the conditions set forth in the Purchase Agreement,
+ 
+NOW THEREFORE, for and in consideration of the agreements and covenants 
+contained in the Purchase Agreement, and the agreements and covenants 
+contained herein, and for the other good and valuable consideration, the 
+receipt and sufficiency of which is hereby acknowledged, the Parties do 
+hereby agree as follows:
+ 
+1.                                      Capitalized terms used but not 
+defined herein shall have the meanings for such terms that are set forth in 
+the Purchase Agreement.
+ 
+2.                                      In accordance with and subject to 
+the terms and conditions of the Purchase Agreement, Assignor hereby 
+transfers, conveys, and assigns to Assignee, and Assignee hereby assumes 
+and undertakes and agrees to assume, satisfy, perform, pay, discharge and 
+otherwise be responsible for, in accordance with the terms and conditions 
+thereof, all of the Assumed Liabilities.
+ 
+3.                                      This Agreement shall be governed by 
+and construed in accordance with the internal substantive laws of the State 
+of Delaware as such laws are applied to agreements between residents of the 
+State of Delaware that are entered into in the State of Delaware, without 
+giving effect to principles of conflict of laws that would require the 
+application of the laws of any other jurisdiction.
+ 
+4.                                      This Agreement shall be binding 
+upon and shall inure to the benefit of the Parties and their respective 
+successors and, if applicable, permitted assigns.  Each Party intends that 
+this Agreement shall not benefit or create any right or cause of action in 
+any Person other than the Parties hereto.
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+5.                                      This Agreement may be executed 
+simultaneously in two or more counterparts, each of which shall be deemed 
+an original, and all of which together shall constitute this Agreement.  
+Signatures may be transmitted via facsimile other electronic means, thereby 
+constituting the valid signature and delivery of this Agreement.
+ 
+6.                                      This Agreement is subject in all 
+respects to the terms and conditions of the Purchase Agreement.  In the 
+event of any conflict or inconsistency between the terms of the Purchase 
+Agreement and the terms hereof, the terms of the Purchase Agreement shall 
+govern.
+ 
+7.                                      Whenever possible, each provision 
+or portion of any provision of this Agreement shall be interpreted in such 
+manner as to be effective and valid under applicable law, but if any 
+provision or portion of any provision of this Agreement is held to be 
+invalid, illegal or unenforceable in any respect under any applicable law 
+or rule in any jurisdiction, such invalidity, illegality or 
+unenforceability shall not affect the validity, legality or enforceability 
+of any other provision or portion of any provision in such jurisdiction, 
+and this Agreement shall be reformed, construed and enforced in such 
+jurisdiction in such manner as will effect as nearly as lawfully possible 
+the purpose and intent of such invalid, illegal or unenforceable provision.
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed 
+as of the date first above written.
+ 
+ 
+ASSIGNOR:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+ 
+ASSIGNEE:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+EXHIBIT C
+ 
+Recordable Assignment of Patent Assets
+ 
+Whereas, Endo Pharmaceuticals Solutions Inc., a Delaware corporation, with 
+its principal office at 1400 Atwater Drive, Malvern, PA 19355 (hereinafter 
+Assignor), is the sole and exclusive owner of the patents and patent 
+applications listed in Exhibit A attached hereto (as further defined below, 
+the Patents); and
+ 
+Whereas Braeburn Pharmaceuticals BVBA SPRL, a private limited liability 
+company existing under the laws of Belgium (hereinafter Assignee), is 
+desirous of acquiring all right, title and interest in, to and under the 
+said Patents and related patents and patent applications as set forth 
+below.
+ 
+Now, therefore, for good and valuable consideration, the receipt of which 
+is hereby acknowledged, Assignor does hereby irrevocably sell, assign, 
+transfer and set over to Assignee, and Assignee hereby accepts, the Patents 
+aforesaid, including without limitation (i) all of the patents and patent 
+applications listed on Annex A attached hereto; (ii) all continuation, 
+continuations-in-part and divisionals of such patents and patent 
+applications, and any patents resulting from any reissue, reexamination or 
+post-issuance examination of such patents and patent applications; (iii) 
+all United States and foreign patents and patent applications claiming 
+common priority to any of the patents or patent applications set forth in 
+clauses (i) and (ii) above (whether claiming priority from such patents and 
+patent applications or forming the basis of priority for such patents and 
+patent applications); (iv) any and all foreign counterparts to any of the 
+patents and patent applications set forth in clauses (i), (ii) and (iii) 
+above (all of the foregoing patents and patent applications in clauses (i), 
+(ii), (iii) and (iv) above, the Patents); (v) all inventions, invention 
+disclosures, and discoveries described in the specifications of any of the 
+Patents; (vi) all past, present and future claims, causes of actions and 
+other rights against third parties relating to infringement of any of the 
+foregoing patents and patent applications, including without limitation, 
+all rights to pursue damages, injunctive relief, and other remedies for 
+past, current and future infringement of the foregoing patents and patent 
+applications; (vii) all prosecution history files and inventor assignments 
+for the foregoing patents and patent applications; and (viii) all rights of 
+Seller to license and collect royalties with respect to all of the 
+foregoing patents and patent applications.
+ 
+Assignor hereby authorizes and requests the Commissioner of the United 
+States Patents and Trademark Office and any official of any applicable 
+country or countries foreign to the United States, whose duty is to issue 
+patents or other evidence or forms of intellectual property or industrial 
+property protection, to record Assignee as assignee and owner of the 
+Patents and hereby covenants that Assignor has the full right to convey the 
+entire interest herein assigned, and that, except as otherwise provided 
+between the parties, Assignor has not executed, and will not execute, any 
+agreements in conflict therewith.
+ 
+In Witness Whereof, Assignor, by its duly authorized representative, has 
+executed this Recordable Assignment of Patent Assets.
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ 
+ASSIGNOR:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+Dated:                                                     , 2014
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+STATE OF                                                     
+ 
+                                              , ss
+ 
+On this         day of                , 2014, before me, the undersigned 
+notary public, personally appeared                    , who is personally 
+known to me or proved to me through satisfactory evidence of 
+identification, which was                  , to be the person whose name is 
+signed on the foregoing instrument, and acknowledged to me that he/she 
+signed it voluntarily for its stated purpose.
+ 
+ 
+ 
+ 
+ 
+Notary Public
+ 
+My Commission Expires:
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ 
+ASSIGNEE:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+Dated:                                                     , 2014
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+STATE OF                                                     
+ 
+                                              , ss
+ 
+On this        , day of               , 2014, before me, the undersigned 
+notary public, personally appeared                    , who is personally 
+known to me or proved to me through satisfactory evidence of 
+identification, which was                  , to be the person whose name is 
+signed on the foregoing instrument, and acknowledged to me that he/she 
+signed it voluntarily for its stated purpose.
+ 
+ 
+ 
+ 
+ 
+Notary Public
+ 
+My Commission Expires:
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+EXHIBIT D
+ 
+TRADEMARK ASSIGNMENT
+ 
+This TRADEMARK ASSIGNMENT (this Assignment), is made and entered into as 
+of [], by and between Endo Pharmaceuticals Solutions Inc., a company duly 
+incorporated under the laws of Delaware (Assignor), and BRAEBURN 
+PHARMACEUTICALS BVBA SPRL, a private limited liability company existing 
+under the laws Belgium (Assignee).
+ 
+RECITALS
+ 
+WHEREAS, the Assignor and the Assignee are parties to an Asset Purchase and 
+Sale Agreement dated as of the date hereof (the Purchase Agreement); and
+ 
+WHEREAS, pursuant to the Purchase Agreement, Assignor has agreed to assign 
+and transfer to Assignee, among other things, the entire right, title and 
+interest in and to the trademarks and their corresponding logos, and the 
+trademarks and the pending applications and registrations therefor 
+identified in Schedule A hereto, including all variations, derivations, and 
+combinations thereof, and all registrations and applications for 
+registration or renewals of the foregoing and all goodwill associated 
+therewith (collectively the Marks).
+ 
+ASSIGNMENT
+ 
+1.                                      NOW, THEREFORE, for good and 
+valuable consideration, the receipt and adequacy of which are hereby 
+acknowledged, Assignor hereby sells, assigns and transfers to Assignee, its 
+successors, legal representatives and assigns, the entire right, title, and 
+interest in and to the Marks, and all rights and privileges therein, and in 
+and to any renewals and extensions that may be granted thereon and the 
+goodwill developed through the use of the Marks; and
+ 
+2.                                      For the same consideration, 
+Assignor hereby authorizes and requests the Commissioner of Patents and 
+Trademarks of the United States, and any official of any country or 
+countries foreign to the United States, whose duty it is to issue 
+trademarks or other evidence or forms of industrial property protection on 
+applications as aforesaid, to issue the same to Assignee, its successors, 
+legal representatives and assigns, in accordance with the terms of this 
+Assignment, and hereby grants the attorney of record the power to insert on 
+this Assignment any further identification of the registered trademarks and 
+the pending applications set forth on Schedule A that is necessary under 
+the rules of the United States Patent and Trademark Office, and the office 
+of any country or countries foreign to the United States, for recordation 
+of this Assignment, and agrees, without further consideration, at 
+Assignees expense, to execute and deliver such other documents that 
+Assignee, its successors, legal representatives and/or assigns may 
+reasonably request that are necessary under the rules of the United States 
+Patent and Trademark Office, and the office of any country or countries 
+foreign to the United States, for recordation of this Assignment; provided 
+that Assignee shall be solely responsible for performing all activities in 
+connection with recordation of this Assignment with the United States 
+Patent and Trademark Office, and the office of any country or countries 
+foreign to the United States.
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+IN WITNESS WHEREOF, Assignor has caused this Assignment to be executed by a 
+duly authorized representative thereof.
+ 
+ 
+ASSIGNOR:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+STATE OF                                                     
+ 
+                                              , ss
+ 
+On this         day of                , 2014, before me, the undersigned 
+notary public, personally appeared                    , who is personally 
+known to me or proved to me through satisfactory evidence of 
+identification, which was                  , to be the person whose name is 
+signed on the foregoing instrument, and acknowledged to me that he/she 
+signed it voluntarily for its stated purpose.
+ 
+ 
+ 
+ 
+ 
+Notary Public
+ 
+My Commission Expires:
+ 
+[Signature Page to Trademark Assignment]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ 
+ASSIGNEE:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+STATE OF                                                     
+ 
+                                              , ss
+ 
+On this         day of                , 2014, before me, the undersigned 
+notary public, personally appeared                    , who is personally 
+known to me or proved to me through satisfactory evidence of 
+identification, which was                  , to be the person whose name is 
+signed on the foregoing instrument, and acknowledged to me that he/she 
+signed it voluntarily for its stated purpose.
+ 
+ 
+ 
+ 
+ 
+Notary Public
+ 
+My Commission Expires:
+ 
+[Signature Page to Trademark Assignment]
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+BILL OF SALE
+ 
+This BILL OF SALE (Bill of Sale) is made and entered into as of November 
+4, 2014, by Endo Pharmaceuticals Solutions Inc., a company duly 
+incorporated under the laws of Delaware (Seller), in favor of Braeburn 
+Pharmaceuticals BVBA SPRL, a private limited liability company existing 
+under the laws Belgium (Buyer).  Seller and Buyer are sometimes 
+collectively referred to herein as the Parties and individually as a 
+Party.
+ 
+WHEREAS, Seller and Buyer have entered into that certain Asset Purchase and 
+Sale Agreement, dated as of the date hereof (the Purchase Agreement), 
+pursuant to which, among other things, Buyer is acquiring the Purchased 
+Assets (as defined in the Purchase Agreement), on the terms and subject to 
+the conditions set forth in the Purchase Agreement; and
+ 
+WHEREAS, Seller and Buyer now seek to consummate the sale, conveyance, 
+transfer and assignment of such Purchased Assets owned by Seller (other 
+titan such Purchased Assets that are conveyed pursuant to other instruments 
+of transfer executed pursuant to the Purchase Agreement).
+ 
+NOW, THEREFORE, for and in consideration of the agreements and covenants 
+contained in the Purchase Agreement, and the agreements and covenants 
+contained herein, and for the other good and valuable consideration, the 
+receipt and sufficiency of which is hereby acknowledged, the Parties do 
+hereby agree as follows:
+ 
+(a)                                 Capitalized terms used but not defined 
+herein shall have the meanings for such terms that are set forth in the 
+Purchase Agreement.
+ 
+(b)                                 Under the terms and subject to the 
+conditions set forth in the Purchase Agreement, Seller hereby sells, 
+conveys, transfers and assigns to Buyer all of Sellers right, title and 
+interest in and to all of the Purchased Assets (other than such Purchased 
+Assets that arc conveyed pursuant to other instruments of transfer executed 
+pursuant to the Purchase Agreement), free and clear of any Liens other than 
+Permitted Liens.  For the avoidance of doubt, Seller does not hereby sell, 
+convey, transfer or assign to Buyer any Excluded Asset.
+ 
+(c)                                  This Bill of Sale shall be binding 
+upon and shall inure to the benefit of the Parties and their respective 
+successors and, if applicable, permitted assigns.  Each Party intends that 
+this Bill of Sale shall not benefit or create any right or cause of action 
+in any Person other than the Parties hereto.
+ 
+(d)                                 Nothing contained herein shall itself 
+change, amend, extend or alter the terms or conditions of the Purchase 
+Agreement in any manner whatsoever.  In the event of any conflict or 
+inconsistency between the terms of the Purchase Agreement and the terms 
+hereof, the terms of the Purchase Agreement shall govern.
+ 
+(e)                                  This Bill of Sale shall be governed by 
+and construed in accordance with the internal substantive laws of the State 
+of Delaware as such laws are applied to agreements between residents of the 
+State of Delaware that are entered into in the State of Delaware,
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+without giving effect to principles of conflict of laws that would require 
+the application of the laws of any other jurisdiction.
+ 
+(f)                                   This Bill of Sale may be executed 
+simultaneously in two or more counterparts, each of which shall be deemed 
+an original, and all of which together shall constitute the Bill of Sale.  
+Signatures may be transmitted via facsimile other electronic means, thereby 
+constituting the valid signature and delivery of this Bill of Sale.
+ 
+(g)                                  Whenever possible, each provision or 
+portion of any provision of this Bill of Sale shall be interpreted in such 
+manner as to be effective and valid under applicable law, but if any 
+provision or portion of any provision of this Bill of Sale is held to be 
+invalid, illegal or unenforceable in any respect under any applicable law 
+or rule in any jurisdiction, such invalidity, illegality or 
+unenforceability shall not affect the validity, legality or enforceability 
+of any other provision or portion of any provision in such jurisdiction, 
+and this Bill of Sale shall be reformed, construed and enforced in such 
+jurisdiction in such manner as will effect as nearly as lawfully possible 
+the purpose and intent of such invalid, illegal or unenforceable provision.
+ 
+IN WITNESS WHEREOF, Seller caused this Bill of Sale to be executed as of 
+the date first above written.
+ 
+ 
+SELLER:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name: Rajiv De Silva
+ 
+ 
+Title: President and CEO
+ 
+ 
+ 
+ 
+BUYER:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+IN WITNESS WHEREOF, Seller caused this Bill of Sale to be executed as of 
+the date first above written.
+ 
+ 
+SELLER:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+ 
+ 
+BUYER:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+[Signature Page to Bill of Sale]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ASSIGNMENT AND ASSUMPTION AGREEMENT
+ 
+This ASSIGNMENT AND ASSUMPTION AGREEMENT (this Agreement) is made and 
+entered into as of November 4, 2014, by and between Endo Pharmaceuticals 
+Solutions Inc., a company duly incorporated under the laws of Delaware (
+Assignor), and Braeburn Pharmaceuticals BVBA SPRL, a private limited 
+liability company existing under the laws of Belgium (Assignee).  The 
+Assignor and the Assignee are sometimes collectively referred to herein as 
+the Parties and individually as a Party.
+ 
+WHEREAS, Assignor and Assignee have entered into that certain Asset 
+Purchase and Sale Agreement, dated as of the date hereof (the Purchase 
+Agreement), pursuant to which, among other things, Assignee is acquiring 
+the Purchased Assets (as defined in the Purchase Agreement), on the terms 
+and subject to the conditions set forth in the Purchase Agreement; and
+ 
+WHEREAS, pursuant to the Purchase Agreement, Assignor has agreed to assign 
+to the Assignee and Assignee has agreed to assume from Assignor the Assumed 
+Liabilities, as defined in the Purchase Agreement, on the terms and subject 
+to the conditions set forth in the Purchase Agreement.
+ 
+NOW THEREFORE, for and in consideration of the agreements and covenants 
+contained in the Purchase Agreement, and the agreements and covenants 
+contained herein, and for the other good and valuable consideration, the 
+receipt and sufficiency of which is hereby acknowledged, the Parties do 
+hereby agree as follows:
+ 
+1.                                      Capitalized terms used but not 
+defined herein shall have the meanings for such terms that are set forth in 
+the Purchase Agreement.
+ 
+2.                                      In accordance with and subject to 
+the terms and conditions of the Purchase Agreement, Assignor hereby 
+transfers, conveys, and assigns to Assignee, and Assignee hereby assumes 
+and undertakes and agrees to assume, satisfy, perform, pay, discharge and 
+otherwise be responsible for, in accordance with the terms and conditions 
+thereof, all of the Assumed Liabilities.
+ 
+3.                                      This Agreement shall be governed by 
+and construed in accordance with the internal substantive laws of the State 
+of Delaware as such laws are applied to agreements between residents of the 
+State of Delaware that are entered into in the State of Delaware, without 
+giving effect to principles of conflict of laws that would require the 
+application of the laws of any other jurisdiction.
+ 
+4.                                      This Agreement shall be binding 
+upon and shall inure to the benefit of the Parties and their respective 
+successors and, if applicable, permitted assigns.  Each Party intends that 
+this Agreement shall not benefit or create any right or cause of action in 
+any Person other than the Parties hereto.
+ 
+5.                                      This Agreement may be executed 
+simultaneously in two or more counterparts, each of which shall be deemed 
+an original, and all of which together shall constitute this
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Agreement.  Signatures may be transmitted via facsimile other electronic 
+means, thereby constituting the valid signature and delivery of this 
+Agreement.
+ 
+6.                                      This Agreement is subject in all 
+respects to the terms and conditions of the Purchase Agreement.  In the 
+event of any conflict or inconsistency between the terms of the Purchase 
+Agreement and the terms hereof, the terms of the Purchase Agreement shall 
+govern.
+ 
+7.                                      Whenever possible, each provision 
+or portion of any provision of this Agreement shall be interpreted in such 
+manner as to be effective and valid under applicable law, but if any 
+provision or portion of any provision of this Agreement is held to be 
+invalid, illegal or unenforceable in any respect under any applicable law 
+or rule in any jurisdiction, such invalidity, illegality or 
+unenforceability shall not affect the validity, legality or enforceability 
+of any other provision or portion of any provision in such jurisdiction, 
+and this Agreement shall be reformed, construed and enforced in such 
+jurisdiction in such manner as will effect as nearly as lawfully possible 
+the purpose and intent of such invalid, illegal or unenforceable provision.
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed 
+as of the date first above written.
+ 
+ 
+SELLER:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name: Rajiv De Silva
+ 
+ 
+Title: President and CEO
+ 
+ 
+ 
+ 
+BUYER:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed 
+as of the date first above written.
+ 
+ 
+SELLER:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+ 
+ 
+ 
+BUYER:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+ 
+Name:
+ 
+ 
+Title:
+ 
+[Signature Page to Assignment and Assumption Agreement]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Recordable Assignment of Patent Assets
+ 
+Whereas, Endo Pharmaceuticals Solutions Inc., a Delaware corporation, with 
+its principal office at 1400 Atwater Drive, Malvern, PA 19355 (hereinafter 
+Assignor), is the sole and exclusive owner of the patents and patent 
+applications listed in Exhibit A attached hereto (as further defined below, 
+the Patents); and
+ 
+Whereas Braeburn Pharmaceuticals BVBA SPRL, a private limited liability 
+company existing under the laws of Belgium (hereinafter Assignee), is 
+desirous of acquiring all right, title and interest in, to and under the 
+said Patents and related patents and patent applications as set forth 
+below.
+ 
+Now, therefore, for good and valuable consideration, the receipt of which 
+is hereby acknowledged, Assignor does hereby irrevocably sell, assign, 
+transfer and set over to Assignee, and Assignee hereby accepts, the Patents 
+aforesaid, including without limitation (i) all of the patents and patent 
+applications listed on Annex A attached hereto; (ii) all continuation, 
+continuations-in-part and divisionals of such patents and patent 
+applications, and any patents resulting from any reissue, reexamination or 
+post-issuance examination of such patents and patent applications; (iii) 
+all United States and foreign patents and patent applications claiming 
+common priority to any of the patents or patent applications set forth in 
+clauses (i) and (ii) above (whether claiming priority from such patents and 
+patent applications or forming the basis of priority for such patents and 
+patent applications); (iv) any and all foreign counterparts to any of the 
+patents and patent applications set forth in clauses (i), (ii) and (iii) 
+above (all of the foregoing patents and patent applications in clauses (i), 
+(ii), (iii) and (iv) above, the Patents); (v) all inventions, invention 
+disclosures, and discoveries described in the specifications of any of the 
+Patents; (vi) all past, present and future claims, causes of actions and 
+other rights against third parties relating to infringement of any of the 
+foregoing patents and patent applications, including without limitation, 
+all rights to pursue damages, injunctive relief, and other remedies for 
+past, current and future infringement of the foregoing patents and patent 
+applications; (vii) all prosecution history files and inventor assignments 
+for the foregoing patents and patent applications; and (viii) all rights of 
+Seller to license and collect royalties with respect to all of the 
+foregoing patents and patent applications.
+ 
+Assignor hereby authorizes and requests the Commissioner of the United 
+States Patents and Trademark Office and any official of any applicable 
+country or countries foreign to the United States, whose duty is to issue 
+patents or other evidence or forms of intellectual property or industrial 
+property protection, to record Assignee as assignee and owner of the 
+Patents and hereby covenants that Assignor has the full right to convey the 
+entire interest herein assigned, and that, except as otherwise provided 
+between the parties, Assignor has not executed, and will not execute, any 
+agreements in conflict therewith.
+ 
+In Witness Whereof, Assignor, by its duly authorized representative, has 
+executed this Recordable Assignment of Patent Assets.
+ 
+[Signature Page to Assignment and Assumption Agreement]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ 
+ASSIGNOR:
+ 
+ 
+ 
+ENDO PHARMACEUTICALS SOLUTIONS INC.
+ 
+ 
+ 
+ 
+Dated:                           , 2014
+By:
+ 
+ 
+ 
+Name: Rajiv De Silva
+ 
+ 
+Title: President and CEO
+ 
+STATE OF                                                     
+ 
+                                              , ss
+ 
+On this         day of                 , 2014, before me, the undersigned 
+notary public, personally appeared                     , who is personally 
+known to me or proved to me through satisfactory evidence of 
+identification, which was                   , to be the person whose name 
+is signed on the foregoing instrument, and acknowledged to me that he/she 
+signed it voluntarily for its stated purpose.
+ 
+ 
+ 
+ 
+ 
+Notary Public
+ 
+My Commission Expires:
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ 
+ASSIGNEE:
+ 
+ 
+ 
+BRAEBURN PHARMACEUTICALS BVBA SPRL
+ 
+ 
+ 
+ 
+Dated:                           , 2014
+By:
+ 
+ 
+ 
+Name:  Rajiv De Silva
+ 
+ 
+Title:  President and CEO
+ 
+STATE OF                                                     
+ 
+                                              , ss
+ 
+On this         day of                 , 2014, before me, the undersigned 
+notary public, personally appeared                     , who is personally 
+known to me or proved to me through satisfactory evidence of 
+identification, which was                   , to be the person whose name 
+is signed on the foregoing instrument, and acknowledged to me that he/she 
+signed it voluntarily for its stated purpose.
+ 
+ 
+ 
+ 
+ 
+Notary Public
+ 
+My Commission Expires:
+ 
+[Signature Page to Patent Agreement]
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+All patents and patent applications in [***], including the following:
+ 
+Patents and Patent Applications:
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+
+ 
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED 
+WITH [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY 
+WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN 
+APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 
+PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.
+ 
+Exhibit A to Recordable Assignment of Patents
+ 
+Docket
+Number
+ 
+Title
+ 
+Country
+ 
+Status
+ 
+Application
+Number
+ 
+Patent
+Number
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ [***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+[***]
+ 
+ 
+ 
+------------------------------------------------------------------------
+

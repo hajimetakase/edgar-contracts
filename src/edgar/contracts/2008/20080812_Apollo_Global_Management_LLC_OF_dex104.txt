@@ -1,0 +1,2236 @@
+ EX-10.4 5 dex104.htm AMENDED AND RESTATED LIMITED PARTNERSHIP 
+AGREEMENT-APOLLO PRINCIPAL HOLDINGS III
+Exhibit 10.4
+
+
+AMENDED AND RESTATED
+
+
+EXEMPTED LIMITED PARTNERSHIP AGREEMENT
+
+
+OF
+
+
+APOLLO PRINCIPAL HOLDINGS III, L.P.
+
+
+Dated July 13, 2007
+
+
+THE PARTNERSHIP UNITS OF APOLLO PRINCIPAL HOLDINGS III, L.P. HAVE NOT BEEN 
+REGISTERED UNDER THE U.S. SECURITIES ACT OF 1933, AS AMENDED, THE 
+SECURITIES LAWS OF ANY STATE, PROVINCE OR ANY OTHER APPLICABLE SECURITIES 
+LAWS AND ARE BEING ISSUED IN RELIANCE UPON EXEMPTIONS FROM THE REGISTRATION 
+REQUIREMENTS OF THE SECURITIES ACT AND SUCH LAWS. SUCH UNITS MUST BE 
+ACQUIRED FOR INVESTMENT ONLY AND MAY NOT BE OFFERED FOR SALE, PLEDGED, 
+HYPOTHECATED, SOLD, ASSIGNED OR TRANSFERRED AT ANY TIME EXCEPT IN 
+COMPLIANCE WITH (I) THE SECURITIES ACT, ANY APPLICABLE SECURITIES LAWS OF 
+ANY STATE OR PROVINCE, AND ANY OTHER APPLICABLE SECURITIES LAWS; AND (II) 
+THE TERMS AND CONDITIONS OF THIS LIMITED PARTNERSHIP AGREEMENT. THE UNITS 
+MAY NOT BE TRANSFERRED OF RECORD EXCEPT IN COMPLIANCE WITH SUCH LAWS AND 
+THIS LIMITED PARTNERSHIP AGREEMENT. THEREFORE, PURCHASERS AND OTHER 
+TRANSFEREES OF SUCH UNITS WILL BE REQUIRED TO BEAR THE RISK OF THEIR 
+INVESTMENT OR ACQUISITION FOR AN INDEFINITE PERIOD OF TIME.
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	   	  	   	  	   	Page
+
+ Article I DEFINITIONS
+
+   	1
+
+   Section
+
+   	1.01. 	   	Definitions 	   	1
+
+ Article II FORMATION, TERM, PURPOSE AND POWERS
+
+   	8
+
+   Section
+
+   	2.01. 	   	Formation 	   	8
+
+   Section
+
+   	2.02. 	   	Name 	   	8
+
+   Section
+
+   	2.03. 	   	Term 	   	8
+
+   Section
+
+   	2.04. 	   	Offices 	   	8
+
+   Section
+
+   	2.05. 	   	Agent for Service of Process 	   	9
+
+   Section
+
+   	2.06. 	   	Business Purpose 	   	9
+
+   Section
+
+   	2.07. 	   	Powers of the General Partner 	   	9
+
+   Section
+
+   	2.08. 	   	Partners; Withdrawal of Initial Limited Partner; Admission 
+of New Partners 	   	9
+
+   Section
+
+   	2.09. 	   	Withdrawal 	   	9
+
+ Article III MANAGEMENT
+
+   	9
+
+   Section
+
+   	3.01. 	   	General Partner 	   	9
+
+   Section
+
+   	3.02. 	   	Compensation 	   	10
+
+   Section
+
+   	3.03. 	   	Expenses 	   	10
+
+   Section
+
+   	3.04. 	   	Authority of Partners 	   	10
+
+   Section
+
+   	3.05. 	   	Action by Written Consent or Ratification 	   	11
+
+ Article IV DISTRIBUTIONS
+
+   	11
+
+   Section
+
+   	4.01. 	   	Distributions 	   	11
+
+   Section
+
+   	4.02. 	   	Liquidation Distribution 	   	13
+
+   Section
+
+   	4.03. 	   	Limitations on Distribution 	   	13
+
+ Article V CAPITAL CONTRIBUTIONS; CAPITAL ACCOUNTS; TAX ALLOCATIONS; TAX
+ MATTERS
+
+   	13
+
+   Section
+
+   	5.01. 	   	Initial Capital Contributions 	   	13
+
+   Section
+
+   	5.02. 	   	No Additional Capital Contributions 	   	13
+
+   Section
+
+   	5.03. 	   	Capital Accounts 	   	13
+
+   Section
+
+   	5.04. 	   	Allocations of Profits and Losses 	   	13
+
+   Section
+
+   	5.05. 	   	Special Allocations 	   	14
+
+   Section
+
+   	5.06. 	   	Tax Allocations 	   	15
+
+   Section
+
+   	5.07. 	   	Tax Advances 	   	15
+
+   Section
+
+   	5.08. 	   	Tax Matters 	   	16
+
+   Section
+
+   	5.09. 	   	Other Allocation Provisions 	   	16
+
+ Article VI BOOKS AND RECORDS; REPORTS
+
+   	16
+
+   Section
+
+   	6.01. 	   	Books and Records 	   	16
+
+ Article VII PARTNERSHIP UNITS
+
+   	17
+
+   Section
+
+   	7.01. 	   	Units 	   	17
+
+   Section
+
+   	7.02. 	   	Register 	   	18
+ 
+i
+
+------------------------------------------------------------------------
+
+   Section
+
+   	7.03. 	   	Registered Partners 	   	18
+
+ Article VIII FORFEITURE OF INTERESTS; TRANSFER RESTRICTIONS
+
+   	18
+
+   Section
+
+   	8.01. 	   	Limited Partner Transfers 	   	18
+
+   Section
+
+   	8.02. 	   	Encumbrances 	   	18
+
+   Section
+
+   	8.03. 	   	Further Restrictions 	   	19
+
+   Section
+
+   	8.04. 	   	Rights of Assignees 	   	19
+
+   Section
+
+   	8.05. 	   	Admissions, Withdrawals and Removals 	   	19
+
+   Section
+
+   	8.06. 	   	Admission of Assignees as Substitute Limited Partners 	   	
+20
+
+   Section
+
+   	8.07. 	   	Withdrawal and Removal of Limited Partners 	   	20
+
+ Article IX DISSOLUTION, LIQUIDATION AND TERMINATION
+
+   	20
+
+   Section
+
+   	9.01. 	   	No Dissolution 	   	20
+
+   Section
+
+   	9.02. 	   	Events Causing Dissolution 	   	21
+
+   Section
+
+   	9.03. 	   	Distribution upon Dissolution 	   	21
+
+   Section
+
+   	9.04. 	   	Time for Liquidation 	   	22
+
+   Section
+
+   	9.05. 	   	Termination 	   	22
+
+   Section
+
+   	9.06. 	   	Claims of the Partners 	   	22
+
+   Section
+
+   	9.07. 	   	Survival of Certain Provisions 	   	22
+
+ Article X LIABILITY AND INDEMNIFICATION
+
+   	22
+
+   Section
+
+   	10.01. 	   	Liability of Partners 	   	22
+
+   Section
+
+   	10.02. 	   	Indemnification 	   	23
+
+ Article XI MISCELLANEOUS
+
+   	24
+
+   Section
+
+   	11.01. 	   	Severability 	   	24
+
+   Section
+
+   	11.02. 	   	Notices 	   	25
+
+   Section
+
+   	11.03. 	   	Cumulative Remedies 	   	25
+
+   Section
+
+   	11.04. 	   	Binding Effect 	   	25
+
+   Section
+
+   	11.05. 	   	Interpretation 	   	25
+
+   Section
+
+   	11.06. 	   	Counterparts 	   	26
+
+   Section
+
+   	11.07. 	   	Further Assurances 	   	26
+
+   Section
+
+   	11.08. 	   	Entire Agreement 	   	26
+
+   Section
+
+   	11.09. 	   	Governing Law 	   	26
+
+   Section
+
+   	11.10. 	   	Expenses 	   	26
+
+   Section
+
+   	11.11. 	   	Amendments and Waivers 	   	26
+
+   Section
+
+   	11.12. 	   	No Third Party Beneficiaries 	   	27
+
+   Section
+
+   	11.13. 	   	Headings 	   	27
+
+   Section
+
+   	11.14. 	   	Construction 	   	28
+
+   Section
+
+   	11.15. 	   	Power of Attorney 	   	28
+
+   Section
+
+   	11.16. 	   	Letter Agreements: Schedules 	   	28
+
+   Section
+
+   	11.17. 	   	Partnership Status 	   	28
+ 
+ii
+
+------------------------------------------------------------------------
+AMENDED AND RESTATED
+EXEMPTED LIMITED PARTNERSHIP AGREEMENT OF
+APOLLO PRINCIPAL HOLDINGS III, L.P.
+
+
+This AMENDED AND RESTATED EXEMPTED LIMITED PARTNERSHIP AGREEMENT (this 
+Agreement) of Apollo Principal Holdings III, L.P. (the Partnership) is 
+made on the 13th day of July, 2007, by and among Apollo Principal Holdings 
+III GP, Ltd., a company formed under the laws of the Cayman Islands, as 
+general partner, and the Limited Partners (as defined herein) of the 
+Partnership.
+
+
+WHEREAS, the Partnership was formed as a limited partnership pursuant to 
+the Act by the filing of a Certificate of Registration (the Certificate) 
+with the Registrar of Exempted Limited Partnership on April 10, 2007 and 
+the execution of the Limited Partnership Agreement of the Company (the 
+Original Agreement) by Apollo Principal Holdings III GP, Ltd., as general 
+partner, and Sheryl Dean, as limited partner (the Initial Limited Partner
+); and
+
+
+WHEREAS, the parties hereto desire to amend and restated the Original 
+Agreement to permit the admission of additional Limited Partners to the 
+Partnership and the withdrawal of the Initial Limited Partner.
+
+
+NOW, THEREFORE, in consideration of the mutual promises and agreements 
+herein made and intending to be legally bound hereby, the parties hereto 
+agree as follows:
+
+
+ARTICLE I
+
+
+DEFINITIONS
+
+
+Section 1.01. Definitions. Capitalized terms used herein without definition 
+have the following meanings (such meanings being equally applicable to both 
+the singular and plural form of the terms defined):Act means the Exempted 
+Limited Partnership Law (as amended) of the Cayman Islands.
+
+
+Additional Credit Amount has the meaning set forth in Section 
+4.01(c)(ii).
+
+
+Adjusted Capital Account Balance means, with respect to each Partner, the 
+balance in such Partners Capital Account adjusted (i) by taking into 
+account the adjustments, allocations and distributions described in 
+Treasury Regulations Sections 1.704-1(b)(2)(ii)(c)(4), (5) and (6); and 
+(ii) by adding to such balance such Partners share of Partnership Minimum 
+Gain and Partner Nonrecourse Debt Minimum Gain, determined pursuant to 
+Regulations Sections 1.704-2(g) and 1.704-2(i)(5), and any amounts such 
+Partner is obligated to restore pursuant to any provision of this Agreement 
+or by applicable Law. The foregoing definition of Adjusted Capital Account 
+Balance is intended to comply with the provisions of Regulations Section 
+1.704-1(b)(2)(ii)(d) and shall be interpreted consistently therewith.
+
+
+Affiliate means, with respect to a specified Person, any other Person 
+that directly, or indirectly through one or more intermediaries, Controls, 
+is Controlled by, or is under common Control with, such specified Person.
+
+------------------------------------------------------------------------
+Agreement has the meaning set forth in the preamble of this Agreement.
+
+
+Amended Tax Amount has the meaning set forth in Section 4.01(c)(ii).
+
+
+APO Corp. Subsidiary Partnership means each of the Apollo Operating Group 
+entities in which APO Corp. is a Limited Partner.
+
+
+APO LLC means APO Asset Co., LLC, a Delaware limited liability company.
+
+
+Apollo Operating Group means each of the Partnership, Apollo Principal 
+Holdings I, L.P., a Delaware limited partnership, Apollo Principal Holdings 
+II, L.P., a Delaware limited partnership, Apollo Principal Holdings IV, 
+L.P., a Cayman Islands limited partnership and Apollo Management Holdings, 
+L.P., a Delaware limited partnership, and any successors thereto or other 
+entities formed to serve as holding vehicles for the Issuers carry 
+vehicles, management companies or other entities formed to engage in the 
+asset management business (including alternative asset management), as set 
+forth on Annex A, as amended from time to time.
+
+
+Assignee has the meaning set forth in Section 8.04.
+
+
+Assumed Tax Rate means the highest effective marginal combined U.S. 
+federal, state and local income tax rate for a Fiscal Year prescribed for 
+an individual or corporate resident in New York, New York (taking into 
+account (a) the nondeductiblity of expenses subject to the limitation 
+described in Section 67(a) of the Code and (b) the character (e.g., 
+long-term or short-term capital gain or ordinary or exempt income) of the 
+applicable income, but not taking into account the deductibility of state 
+and local income taxes for U.S. federal income tax purposes). For the 
+avoidance of doubt, the Assumed Tax Rate will be the same for all Partners.
+
+
+Capital Account means the separate capital account maintained for each 
+Partner in accordance with Section 5.03 hereof.
+
+
+Capital Contribution means, with respect to any Partner, the aggregate 
+amount of money contributed to the Partnership and the Carrying Value of 
+any property (other than money), net of any liabilities assumed by the 
+Partnership upon contribution or to which such property is subject, 
+contributed to the Partnership pursuant to Article V.
+
+
+Carrying Value means, with respect to any Partnership asset, the assets 
+adjusted basis for U.S. federal income tax purposes, except that the 
+initial carrying value of assets contributed to the Partnership shall be 
+their respective gross fair market values on the date of contribution as 
+determined by the General Partner, and the Carrying Values of all 
+Partnership assets shall be adjusted to equal their respective fair market 
+values, in accordance with the rules set forth in Treasury Regulation 
+Section 1.704-1(b)(2)(iv)(f), except as otherwise provided herein, as of 
+(a) the date of the acquisition of any additional Partnership Interest by 
+any new or existing Partner in exchange for more than a de minimis Capital 
+Contribution; (b) the date of the distribution of more than a de minimis 
+amount of Partnership assets to a Partner; (c) the date a Partnership 
+Interest is relinquished to the Partnership; (d) any other date specified 
+in the Treasury Regulations or (e) any other date specified by the General 
+Partner; provided, however, that adjustments pursuant to clauses (a), (b) 
+(c) and (d) above shall be made only if such adjustments are deemed 
+necessary or appropriate by the General Partner to reflect the relative 
+economic
+ 
+2
+
+------------------------------------------------------------------------
+interests of the Partners. The Carrying Value of any Partnership asset 
+distributed to any Partner shall be adjusted immediately before such 
+distribution to equal its fair market value. In the case of any asset that 
+has a Carrying Value that differs from its adjusted tax basis, Carrying 
+Value shall be adjusted by the amount of depreciation calculated for 
+purposes of the definition of Profits (Losses) rather than the amount of 
+depreciation determined for U.S. federal income tax purposes, and 
+depreciation shall be calculated by reference to Carrying Value rather than 
+tax basis once Carrying Value differs from tax basis.
+
+
+Certificate has the meaning set forth in the preamble of this Agreement.
+
+
+Class means the classes of Units into which the interests in the 
+Partnership may be classified or divided from time to time pursuant to the 
+provisions of this Agreement.
+
+
+Class A Shares means the Class A Common Shares of the Issuer representing 
+Class A limited partnership interests of the Issuer.
+
+
+Class A Units means the Units of partnership interest in the Partnership 
+designated as the Class A Units herein and having the rights pertaining 
+thereto as are set forth in this Agreement.
+
+
+Closing Date has the meaning set forth in the Strategic Agreement.
+
+
+Code means the Internal Revenue Code of 1986, as amended from time to 
+time.
+
+
+Contingencies has the meaning set forth in Section 9.03(c).
+
+
+Control (including the terms Controlled by and under common Control 
+with) means the possession, directly or indirectly, of the power to direct 
+or cause the direction of the management and policies of a Person, whether 
+through the ownership of voting securities, as trustee or executor, by 
+contract or otherwise, including, without limitation, the ownership, 
+directly or indirectly, of securities having the power to elect a majority 
+of the board of directors or similar body governing the affairs of such 
+Person.
+
+
+Covered Person and Covered Persons have the meanings set forth in 
+Section 10.02(a).
+
+
+Credit Amount has the meaning set forth in Section 4.01(c)(ii) of this 
+Agreement.
+
+
+Creditable Non-U.S. Tax means a non-U.S. tax paid or accrued for United 
+States federal income tax purposes by the Partnership, in either case to 
+the extent that such tax is eligible for credit under Section 901(a) of the 
+Code. A non-U.S. tax is a Creditable Non-U.S. Tax for these purposes 
+without regard to whether a partner receiving an allocation of such 
+non-U.S. tax elects to claim a credit for such amount. This definition is 
+intended to be consistent with the definition of Creditable Non-U.S. Tax 
+in Temporary Treasury Regulations Section 1.704-1T(b)(4)(xi)(b), and shall 
+be interpreted consistently therewith.
+
+
+Disabling Event means the General Partner ceasing to be the general 
+partner of the Partnership pursuant to Section 17-402 of the Act.
+ 
+3
+
+------------------------------------------------------------------------
+Distributable Cash means cash received by the Partnership from dividends 
+and distributions or other income, other than cash reserves to account for 
+reasonably anticipated expenses and other liabilities, including, without 
+limitation, tax liabilities, as the General Partner may determine to be 
+appropriate.
+
+
+Encumbrance means any mortgage, claim, lien, encumbrance, conditional 
+sales or other title retention agreement, right of first refusal, 
+preemptive right, pledge, option, charge, security interest or other 
+similar interest, easement, judgment or imperfection of title of any nature 
+whatsoever.
+
+
+ERISA means The Employee Retirement Income Security Act of 1974, as 
+amended.
+
+
+Exchange Act means the U.S. Securities Exchange Act of 1934, as amended, 
+and the rules and regulations promulgated thereunder.
+
+
+Exchange Agreement means the exchange agreement dated as of or about the 
+date hereof among the Issuer, the Apollo Operating Group, and the limited 
+partners of the Apollo Operating Group entities from time to time, as 
+amended from time to time.
+
+
+Exchange Transaction means an exchange of Units for Class A Shares 
+pursuant to, and in accordance with, the Exchange Agreement or, if the 
+Issuer and the exchanging Limited Partner shall mutually agree, a Transfer 
+of Units to the Issuer, the Partnership or any of their subsidiaries for 
+other consideration.
+
+
+Final Adjudication has the meaning set forth in Section 10.02(a).
+
+
+Final Tax Amount has the meaning set forth in Section 4.01(c)(ii).
+
+
+Fiscal Year means (i) the period commencing upon the formation of the 
+Partnership and ending on December 31, 2007 or (ii) any subsequent 
+twelve-month period commencing on January 1 and ending on December 31.
+
+
+Fund means any pooled investment vehicle or similar entity sponsored or 
+managed, directly or indirectly, by the Issuer or any of its subsidiaries.
+
+
+General Partner means Apollo Principal Holdings III GP, Ltd. , a company 
+formed under the laws of the Cayman Islands or any successor general 
+partner admitted to the Partnership in accordance with the terms of this 
+Agreement.
+
+
+Incapacity means, with respect to any Person, the bankruptcy, 
+dissolution, termination, entry of an order of incompetence, or the 
+insanity, permanent disability or death of such Person.
+
+
+Initial Limited Partner has the meaning set forth in the preamble.
+
+
+Initial Offering means the earlier to occur of (i) an IPO and (ii) a 
+Private Placement.
+
+
+IPO means the consummation of an underwritten public offering of Class A 
+Shares pursuant to an effective registration statement (other than on Forms 
+S-4 or S-8 or successors
+ 
+4
+
+------------------------------------------------------------------------
+and/or equivalents to such forms); provided, that no such underwritten 
+public offering shall constitute an IPO for the purposes of this 
+Agreement unless (x) it involves a sale to underwriters for distribution to 
+the public representing a public float of at least 10% of the then 
+outstanding equity interests of the Issuer Convertible Notes (calculated on 
+a fully-diluted basis as if all outstanding Operating Group Units have been 
+exchanged for, and all outstanding Notes have been converted into, Class A 
+Shares) and (y) such offering satisfies the Price Threshold, and (ii) the 
+effectiveness of the shelf registration statement to be filed by the Issuer 
+in respect of the Class A Shares to be sold in the Private Placement; in 
+the case of clauses both (i) and (ii), such registration statement to be 
+filed by the Issuer with the SEC or (in connection with a listing on the 
+London Stock Exchange) with the Financial Services Authority of the United 
+Kingdom.
+
+
+Issuer means Apollo Global Management, LLC, a limited liability company 
+formed under the laws of the State of Delaware, or any successor thereto.
+
+
+Issuer Manager means AGM Management LLC, a limited liability company 
+formed under the laws of the State of Delaware and the manager of the 
+Issuer, or any successor manager of the Issuer.
+
+
+Issuer Convertible Notes means the 7% convertible senior unsecured notes 
+of the Issuer issued pursuant to the Strategic Agreement.
+
+
+Law means any statute, law, ordinance, regulation, rule, code, executive 
+order, injunction, judgment, decree or other order issued or promulgated by 
+any national, supranational, state, federal, provincial, local or municipal 
+government or any administrative or regulatory body with authority 
+therefrom with jurisdiction over the Partnership or any Partner, as the 
+case may be.
+
+
+Limited Partner means each of the Persons from time to time listed as a 
+limited partner in the books and records of the Partnership.
+
+
+Liquidation Agent has the meaning set forth in Section 9.03 of this 
+Agreement.
+
+
+Net Taxable Income has the meaning set forth in Section 4.01(c)(i).
+
+
+Nonrecourse Deductions has the meaning set forth in Treasury Regulations 
+Section 1.704-2(b). The amount of Nonrecourse Deductions of the Partnership 
+for a fiscal year equals the net increase, if any, in the amount of 
+Partnership Minimum Gain of the Partnership during that fiscal year, 
+determined according to the provisions of Treasury Regulations Section 
+1.704-2(c).
+
+
+Offering Date has the meaning set forth in the Strategic Agreement.
+
+
+Operating Group Units refers to units in the Apollo Operating Group, each 
+of which represents one limited partnership interest in each of the limited 
+partnerships that comprise the Apollo Operating Group and any other 
+securities issued or issuable in exchange for or with respect to such 
+Operating Group Units (i) by way of a dividend, split or combination of 
+shares or (ii) in connection with a reclassification, recapitalization, 
+merger, consolidation or other reorganization. All calculations in respect 
+of the Operating Group Units shall assume that all Operating Group Units 
+shall have vested fully as of the date of determination.
+ 
+5
+
+------------------------------------------------------------------------
+Original Agreement has the meaning set forth in the preamble.
+
+
+Partners means, at any time, each person listed as a partner (including 
+the General Partner) on the books and records of the Partnership, in each 
+case for so long as he, she or it remains a partner of the Partnership as 
+provided hereunder.
+
+
+Partnership has the meaning set forth in the preamble of this Agreement.
+
+
+Partnership Minimum Gain has the meaning set forth in Treasury 
+Regulations Sections 1.704-2(b)(2) and 1.704-2(d).
+
+
+Partner Nonrecourse Debt Minimum Gain means an amount with respect to 
+each partner nonrecourse debt (as defined in Treasury Regulations Section 
+1.704-2(b)(4)) equal to the Partnership Minimum Gain that would result if 
+such partner nonrecourse debt were treated as a nonrecourse liability (as 
+defined in Treasury Regulations Section 1.752-1(a)(2)) determined in 
+accordance with Treasury Regulations Section 1.704-2(i)(3).
+
+
+Partner Nonrecourse Deductions has the meaning ascribed to the term 
+partner nonrecourse deductions set forth in Treasury Regulations Section 
+1.704-2(i)(2).
+
+
+Percentage Interest means, with respect to any Partner, the quotient 
+obtained by dividing the number of Units then owned by such Partner by the 
+number of Units then owned by all Partners.
+
+
+Person means any individual, corporation, partnership, limited 
+partnership, limited liability company, limited company, joint venture, 
+trust, unincorporated or governmental organization or any agency or 
+political subdivision thereof.
+
+
+Price Threshold has the meaning set forth in the Strategic Agreement.
+
+
+Private Placement means a private placement of Class A Shares pursuant to 
+Rule 144A (or any successor provision), Regulation D and Regulation S 
+promulgated under the Securities Act, in an offering (i) to at least 
+fifteen (15) purchasers and (ii) that requires the Issuer to file with the 
+SEC a shelf registration statement permitting registered re-sales of the 
+Class A Shares within eight (8) months of the consummation of such 
+offering; provided, that no such private placement shall qualify as a 
+Private Placement for the purposes of this Agreement, unless (x) such 
+offering satisfies the Price Threshold and (y) it involves engagement of 
+one or more initial purchasers, placement agents or investment banks 
+performing a similar role for the purpose of facilitating the distribution 
+of Class A Shares representing at least 10% of the then outstanding equity 
+interests of the Issuer (calculated on a fully-diluted basis as if all 
+Operating Group Units had been exchanged for, and all Issuer Convertible 
+Notes had been converted into, Class A Shares); provided, further, that in 
+the event that any Person purchases Class A Shares representing more than 
+20% of such offering, the amount in excess of 20% shall be disregarded for 
+the purpose of determining whether the 10% threshold set forth in this 
+clause (y) has been satisfied.
+
+
+Profits and Losses means, for each Fiscal Year or other period, the 
+taxable income or loss of the Partnership, or particular items thereof, 
+determined in accordance with the accounting
+ 
+6
+
+------------------------------------------------------------------------
+method used by the Partnership for U.S. federal income tax purposes with 
+the following adjustments: (a) all items of income, gain, loss or deduction 
+allocated pursuant to Section 5.05 shall not be taken into account in 
+computing such taxable income or loss; (b) any income of the Partnership 
+that is exempt from U.S. federal income taxation and not otherwise taken 
+into account in computing Profits and Losses shall be added to such taxable 
+income or loss; (c) if the Carrying Value of any asset differs from its 
+adjusted tax basis for U.S. federal income tax purposes, any gain or loss 
+resulting from a disposition of such asset shall be calculated with 
+reference to such Carrying Value; (d) upon an adjustment to the Carrying 
+Value (other than an adjustment in respect of depreciation) of any asset, 
+pursuant to the definition of Carrying Value, the amount of the adjustment 
+shall be included as gain or loss in computing such taxable income or loss; 
+(e) if the Carrying Value of any asset differs from its adjusted tax basis 
+for U.S. federal income tax purposes, the amount of depreciation, 
+amortization or cost recovery deductions with respect to such asset for 
+purposes of determining Profits and Losses, if any, shall be an amount 
+which bears the same ratio to such Carrying Value as the U.S. federal 
+income tax depreciation, amortization or other cost recovery deductions 
+bears to such adjusted tax basis; provided that if the U.S. federal income 
+tax depreciation, amortization or other cost recovery deduction is zero, 
+the General Partner may use any reasonable method for purposes of 
+determining depreciation, amortization or other cost recovery deductions in 
+calculating Profits and Losses); and (f) except for items in (a) above, any 
+expenditures of the Partnership not deductible in computing taxable income 
+or loss, not properly capitalizable and not otherwise taken into account in 
+computing Profits and Losses pursuant to this definition shall be treated 
+as deductible items.
+
+
+Roll-up Agreements mean collectively, each Roll-up Agreement, by and 
+among BRH Holdings, L.P., a Cayman Islands exempted limited partnership, AP 
+Professional Holdings, L.P., a Cayman Islands exempted limited partnership, 
+the Issuer, APO LLC, APO Corp., and an employee of the Issuer or one of its 
+subsidiaries, dated as of the date hereof, each as amended, restated, 
+supplemented or otherwise modified from time to time
+
+
+SEC means the United States Securities and Exchange Commission or any 
+similar agency then having jurisdiction to enforce the Securities Act.
+
+
+Securities Act means the U.S. Securities Act of 1933, as amended, and the 
+rules and regulations promulgated thereunder.
+
+
+Similar Law means any law or regulation that could cause the underlying 
+assets of the Partnership to be treated as assets of the Limited Partner by 
+virtue of its limited partner interest in the Partnership and thereby 
+subject the Partnership and the General Partner (or other persons 
+responsible for the investment and operation of the Partnerships assets) 
+to laws or regulations that are similar to the fiduciary responsibility or 
+prohibited transaction provisions contained in Title I of ERISA or Section 
+4975 of the Code.
+
+
+Strategic Agreement means the Strategic Agreement, dated as of the date 
+hereof, by and among the Issuer, APOC Holdings Ltd., a Cayman Islands 
+exempted company, the California Public Employees Retirement System and 
+the other parties thereto.
+
+
+Tax Advances has the meaning set forth in Section 5.07.
+ 
+7
+
+------------------------------------------------------------------------
+Tax Amount has the meaning set forth in Section 4.01(c)(i). Tax 
+Distributions has the meaning set forth in Section 4.01(c)(i). Tax 
+Matters Partner has the meaning set forth in Section 5.08.
+
+
+Transfer means, in respect of any Unit, property or other asset, any 
+sale, assignment, transfer, distribution or other disposition thereof, 
+whether voluntarily or by operation of Law, including, without limitation, 
+the exchange of any Unit for any other security.
+
+
+Treasury Regulations means the income tax regulations, including 
+temporary regulations, promulgated under the Code, as such regulations may 
+be amended from time to time (including corresponding provisions of 
+succeeding regulations).
+
+
+Units means the Class A Units and any other Class of Units authorized in 
+accordance with this Agreement, which shall constitute interests in the 
+Partnership as provided in this Agreement and under the Act; entitling the 
+holders thereof to the relative rights, title and interests in the profits, 
+losses, deductions and credits of the Partnership at any particular time as 
+set forth in this Agreement, and any and all other benefits to which a 
+holder thereof may be entitled as a Partner as provided in this Agreement, 
+together with the obligations of such Partner to comply with all terms and 
+provisions of this Agreement.
+
+
+ARTICLE II
+
+
+FORMATION, TERM, PURPOSE AND POWERS
+
+
+Section 2.01. Formation. The Partnership was formed as a limited 
+partnership under the provisions of the Act by the filing on April 10, 2007 
+the Certificate as provided in the preamble of this Agreement. If requested 
+by the General Partner, the Limited Partners shall promptly execute all 
+certificates and other documents consistent with the terms of this 
+Agreement necessary for the General Partner to accomplish all filing, 
+recording, publishing and other acts as may be appropriate to comply with 
+all requirements for (a) the formation and operation of a limited 
+partnership under the laws of the Cayman Islands, (b) if the General 
+Partner deems it advisable, the operation of the Partnership as a limited 
+partnership, or partnership in which the Limited Partners have limited 
+liability, in all jurisdictions where the Partnership proposes to operate 
+and (c) all other filings required to be made by the Partnership.
+
+
+Section 2.02. Name. The name of the Partnership shall be, and the business 
+of the Partnership shall be conducted under the name of, Apollo Principal 
+Holdings III, L.P.
+
+
+Section 2.03. Term. The term of the Partnership commenced on the date of 
+the filing of the Certificate, and the term shall continue until the 
+dissolution of the Partnership in accordance with Article IX. The existence 
+of the Partnership shall continue until cancellation of the Certificate in 
+the manner required by the Act.
+
+
+Section 2.04. Offices. The Partnership may have offices at such places as 
+the General Partner from time to time may select.
+ 
+8
+
+------------------------------------------------------------------------
+Section 2.05. Agent for Service of Process. The Partnerships registered 
+office and registered agent for service of process in the Cayman Islands 
+shall be Walkers SPV Limited, Walker House, 87 Mary Street, George Town, 
+Grand Cayman KY1-9002 or as otherwise determined by the General Partner 
+from time to time.
+
+
+Section 2.06. Business Purpose. The Partnership shall have the power to 
+engage in any lawful act or activity for which exempted limited 
+partnerships may be formed under the Act.
+
+
+Section 2.07. Powers of the General Partner. Subject to the limitations set 
+forth in this Agreement, the General Partner will possess and may exercise 
+all of the powers and privileges granted to it by the Act including, 
+without limitation, the ownership and operation of the assets contributed 
+to the Partnership by the Partners, by any other Law or this Agreement, 
+together with all powers incidental thereto, so far as such powers are 
+necessary or convenient to the conduct, promotion or attainment of the 
+purpose of the Partnership set forth in Section 2.06.
+
+
+Section 2.08. Partners; Withdrawal of Initial Limited Partner; Admission of 
+New Partners. The Initial Limited Partner hereby withdraws as a Partner of 
+the Partnership and shall have no interest in, or owe any obligations to, 
+the Partnership whatsoever. As of the date hereof, the Initial Limited 
+Partner received a return of any capital contribution made to the 
+Partnership. Each of the Persons listed in the books and records of the 
+Partnership, as the same may be amended from time to time in accordance 
+with this Agreement, by virtue of the execution of this Agreement, are 
+admitted as Partners of the Partnership. The rights, duties and liabilities 
+of the Partners shall be as provided in the Act, except as is otherwise 
+expressly provided herein, and the Partners consent to the variation of 
+such rights, duties and liabilities as provided herein. A Person may be 
+admitted from time to time as a new Partner in accordance with Section 8.05 
+and Section 8.06; provided, however, that each new Partner shall execute 
+and deliver to the General Partner an appropriate supplement to this 
+Agreement pursuant to which the new Partner agrees to be bound by the terms 
+and conditions of the Agreement, as it may be amended from time to time.
+
+
+Section 2.09. Withdrawal. No Partner shall have the right to withdraw as a 
+Partner of the Partnership other than following the Transfer of all Units 
+owned by such Partner in accordance with Article VIII; provided, however, 
+that a new General Partner or substitute General Partner may be admitted to 
+the Partnership in accordance with Section 8.05.
+
+
+ARTICLE III
+
+
+MANAGEMENT
+
+
+Section 3.01. General Partner.
+
+(a) The business, property and affairs of the Partnership shall be managed 
+under the sole, absolute and exclusive direction of the General Partner, 
+which may from time to time delegate authority to officers or to others to 
+act on behalf of the Partnership.
+
+(b) The Partners hereby agree that the Partnership, acting by the General 
+Partner, shall be and hereby is authorized (i) to open bank accounts on 
+behalf of the Partnership in such banks, and designate the persons 
+authorized to sign checks, notes, drafts, bills of exchange, acceptances, 
+undertakings or orders for payment of money from funds of the
+ 
+9
+
+------------------------------------------------------------------------
+Partnership on deposit in such accounts, as may be deemed by the General 
+Partner, or any of them, to be necessary, appropriate or otherwise in the 
+best interests of the Partnership and, in connection therewith, execute any 
+form of required resolution necessary to open any such bank accounts; (ii) 
+prepare and file, or cause to be prepared and filed, by mail, facsimile or 
+telephone, for and on behalf of the Partnership, an Application for 
+Employer Identification Number on United States Internal Revenue Service 
+Form SS-4, and to prepare, execute and file with the appropriate 
+authorities such other federal, state or local applications, forms and 
+papers on behalf of the Partnership as may be required by law or deemed by 
+the General Partner to be necessary, appropriate or otherwise in the best 
+interests of the Partnership, as applicable; and (iii) pay on behalf of the 
+Partnership any and all fees and expenses incident to and necessary to 
+perfect the organization of the Partnership. Notwithstanding any other 
+provision of this Agreement, the Partnership, acting by the General 
+Partner, is hereby authorized to enter into, and to perform its obligations 
+under, the aforementioned agreements, deeds, receipts, certificates, 
+filings and other documents, without any consent of any Limited Partner, 
+but such authorization shall not be deemed a restriction on the power of 
+the Partnership or the General Partner acting on behalf of the Partnership 
+to enter into, and to perform its obligations under, other agreements on 
+behalf of the Partnership. The Partners agree that the General Partner may 
+execute the aforementioned agreements, deeds, receipts, certificates, 
+filings and other documents on behalf of the Partnership, that the General 
+Partner deems appropriate and that any prior acts of the Partnership and 
+the General Partner acting on behalf of the Partnership, consistent with 
+the foregoing authorizations, are hereby ratified and confirmed.
+
+
+Section 3.02. Compensation. The General Partner shall not be entitled to 
+any compensation for services rendered to the Partnership in its capacity 
+as General Partner.
+
+
+Section 3.03. Expenses. The Partnership shall bear and/or reimburse (i) the 
+General Partner for any expenses incurred by the General Partner in 
+connection with serving as the general partner of the Partnership, and (ii) 
+Issuer and APO LLC, with respect to the Partnerships allocable share of 
+any expenses solely incurred by or attributable to the Issuer or APO LLC 
+(such as expenses incurred in connection with the Initial Offering) but 
+excluding obligations incurred under the Tax Receivable Agreement by the 
+Issuer, income tax expenses of the Issuer or APO LLC and indebtedness 
+incurred by the Issuer or APO LLC.
+
+
+Section 3.04. Authority of Partners. No Limited Partner, in its capacity as 
+such, shall participate in or have any control over the business of the 
+Partnership. Except as expressly provided herein, the Units do not confer 
+any rights upon the Limited Partners to participate in the affairs of the 
+Partnership described in this Agreement. Except as expressly provided 
+herein, the Limited Partners shall have no right to vote on any matter 
+involving the Partnership, including with respect to any merger, 
+consolidation, combination or conversion of the Partnership. The conduct, 
+control and management of the Partnership shall be vested exclusively in 
+the General Partner. In all matters relating to or arising out of the 
+conduct of the operation of the Partnership, the decision of the General 
+Partner shall be the decision of the Partnership. No Partner who is not 
+also a General Partner (and acting in such capacity) shall take any part in 
+the management or control of the operation or business of the Partnership 
+in. its capacity as a Partner, nor shall any Partner who is not also a 
+General Partner (and acting in such capacity) have any right, authority or 
+power to act for or on behalf of or bind the Partnership in his or its 
+capacity as a Partner in any respect or assume any obligation or 
+responsibility of the Partnership or of any other Partner.
+ 
+10
+
+------------------------------------------------------------------------
+Notwithstanding the foregoing, the Partnership may employ one or more 
+Partners from time to time, and such Partners, in their capacity as 
+employees of the Partnership (and not, for clarity, in their capacity as 
+Limited Partners of the Partnership), may take part in the control and 
+management of the business of the Partnership to the extent such authority 
+and power to act for or on behalf of the Partnership has been delegated to 
+them by the General Partner.
+
+
+Section 3.05. Action by Written Consent or Ratification. Any action 
+required or permitted to be taken by the Partners pursuant to this 
+Agreement shall be taken if all Partners whose consent or ratification is 
+required consent thereto or provide a consent or ratification in writing.
+
+
+ARTICLE IV
+
+
+DISTRIBUTIONS
+
+
+Section 4.01. Distributions.
+
+(a) Prior to an Initial Offering, all distributions of Distributable Cash 
+shall be made, at the discretion of the General Partner, in the following 
+order of priority
+
+(i) first, to APO LLC., until the cumulative amount distributed in the 
+aggregate by the Apollo Operating Group to APO Corp. or APO LLC, as 
+applicable, equals any principal amount of the Issuer Convertible Notes 
+then due; and
+
+(ii) second, to the Limited Partners pro rata in accordance with their 
+respective Percentage Interests; provided, that any amounts attributable to 
+carried interest on private equity Funds related to either carry generating 
+transactions that have closed prior to the Closing Date or carry generating 
+transactions in which a definitive agreement has been executed prior to the 
+Closing Date but has not yet closed, shall be distributed to the Limited 
+Partners other than APO LLC. It is understood that net income earned with 
+respect to Fiscal Year 2007 may not be determinable or paid until Fiscal 
+Year 2008.
+
+(b) Immediately following an Initial Offering, all distributions of 
+Distributable Cash shall be made, at the discretion of the General Partner, 
+to the Limited Partners pro rata in accordance with their respective 
+Percentage Interests; provided, that:
+
+(i) amounts attributable to carried interest on private equity Funds 
+related to either carry generating transactions that have closed prior to 
+the Closing Date or carry generating transactions in which a definitive 
+agreement has been executed prior to the Closing Date, but such carry 
+generating transaction has not yet closed shall be distributed to the 
+Limited Partners other than APO LLC, it being understood that net income 
+earned with respect to Fiscal Year 2007 may not be determinable or paid 
+until Fiscal Year 2008; and
+
+(ii) amounts attributable to carried interest on private equity Funds 
+related to either carry generating transactions that have closed on or 
+after the Closing Date and prior to the Offering Date or carry generating 
+transactions in which a definitive agreement has been executed on or after 
+the Closing Date and prior to the Offering Date, but such carry generating 
+transaction has not yet closed, shall be distributed to the Limited 
+Partners based upon their Percentage Interests outstanding immediately 
+prior to Offering Date, it being understood
+ 
+11
+
+------------------------------------------------------------------------
+that net income earned with respect to Fiscal Year 2007 may not be 
+determinable or paid until Fiscal Year 2008.
+
+(c) Tax Distributions.
+
+(i) In addition to the foregoing, if the General Partner reasonably 
+determines that the taxable income of the Partnership for a Fiscal Year 
+will give rise to taxable income for the Partners (Net Taxable Income), 
+the General Partner shall cause the Partnership to distribute Distributable 
+Cash in respect of income tax liabilities (the Tax Distributions) to the 
+extent that other distributions made by the Partnership for such year were 
+otherwise insufficient to cover such tax liabilities, provided that 
+distributions pursuant to Section 4.02 and allocations pursuant to Section 
+5.04 related to such distributions shall not be taken into account for 
+purposes of this Section 4.01(c). The Tax Distributions payable with 
+respect to any Fiscal Year shall be computed based upon the General 
+Partners estimate of the allocable Net Taxable Income in accordance with 
+Article V, multiplied by the Assumed Tax Rate (the Tax Amount). For 
+purposes of computing the Tax Amount, the effect of any benefit under 
+Section 743(b) of the Code will be ignored. Any Tax distributions shall be 
+made to all Partners, whether or not they are subject to such applicable 
+U.S. federal, state and local taxes, pro rata in accordance with their 
+Participation Percentages.
+
+(ii) Tax Distributions shall be calculated and paid no later than one day 
+prior to each quarterly due date for the payment by corporations on a 
+calendar year of estimated taxes under the Code in the following manner (A) 
+for the first quarterly period, 25% of the Tax Amount, (B) for the second 
+quarterly period, 50% of the Tax Amount, less the prior Tax Distributions 
+for the Fiscal Year, (C) for the third quarterly period, 75% of the Tax 
+Amount, less the prior Tax Distributions for the Fiscal Year and (D) for 
+the fourth quarterly period, 100% of the Tax Amount, less the prior Tax 
+Distributions for the Fiscal Year. Following each Fiscal Year, and no later 
+than one day prior to the due date for the payment by corporations of 
+income taxes for such Fiscal Year, the General Partner shall make an 
+amended calculation of the Tax Amount for such Fiscal Year (the Amended 
+Tax Amount), and shall cause the Partnership to distribute a Tax 
+Distribution, out of Distributable Cash, to the extent that the Amended Tax 
+Amount so calculated exceeds the cumulative Tax Distributions previously 
+made by the Partnership in respect of such Fiscal Year. If the Amended Tax 
+Amount is less than the cumulative Tax Distributions previously made by the 
+Partnership in respect of the relevant Fiscal Year, then the difference 
+(the Credit Amount) shall be applied against, and shall reduce, the 
+amount of Tax Distributions made for subsequent Fiscal Years. Within 30 
+days following the date on which the Partnership files a tax return on Form 
+1065, the General Partner shall make a final calculation of the Tax Amount 
+of such Fiscal Year (the Final Tax Amount) and shall cause the 
+Partnership to distribute a Tax Distribution, out of Distributable Cash, to 
+the extent that the Final Tax Amount so calculated exceeds the Amended Tax 
+Amount. If the Final Tax Amount is less than the Amended Tax Amount in 
+respect of the relevant Fiscal Year, then the difference (Additional 
+Credit Amount) shall be applied against, and shall reduce, the amount of 
+Tax Distributions made for subsequent Fiscal Years. Any Credit Amount and 
+Additional Credit Amount applied against future Tax Distributions shall be 
+treated as an amount actually distributed pursuant to this Section 4.01(c) 
+for purposes of the computations herein.
+ 
+12
+
+------------------------------------------------------------------------
+Section 4.02. Liquidation Distribution. Distributions made upon dissolution 
+of the Partnership shall be made as provided in Section 9.03.
+
+
+Section 4.03. Limitations on Distribution. Notwithstanding any provision to 
+the contrary contained in this Agreement, the General Partner shall not 
+make a Partnership distribution to any Partner if such distribution would 
+violate Section 17-607 of the Act or other applicable Law.
+
+
+ARTICLE V
+
+
+CAPITAL CONTRIBUTIONS; CAPITAL ACCOUNTS;
+TAX ALLOCATIONS; TAX MATTERS
+
+
+Section 5.01. Initial Capital Contributions. The Partners have made, on or 
+prior to the date hereof, Capital Contributions and have acquired the 
+number of Class A Units as specified in the books and records of the 
+Partnership.
+
+
+Section 5.02. No Additional Capital Contributions. Except as otherwise 
+provided in this Article V, no Partner shall be required to make additional 
+Capital Contributions to the Partnership without the consent of such 
+Partner or permitted to make additional capital contributions to the 
+Partnership without the consent of the General Partner.
+
+
+Section 5.03. Capital Accounts. A separate capital account (a Capital 
+Account) shall be established and maintained for each Partner in 
+accordance with the provisions of Treasury Regulations Section 
+1.704-1(b)(2)(iv). The Capital Account of each Partner shall be credited 
+with such Partners Capital Contributions, if any, all Profits allocated to 
+such Partner pursuant to Section 5.04 and any items of income or gain which 
+are specially allocated pursuant to Section 5.05; and shall be debited with 
+all Losses allocated to such Partner pursuant to Section 5.04, any items of 
+loss or deduction of the Partnership specially allocated to such Partner 
+pursuant to Section 5.05, and all cash and the Carrying Value of any 
+property (net of liabilities assumed by such Partner and the- liabilities 
+to which such property is subject) distributed by the Partnership to such 
+Partner. Any references in any section of this Agreement to the Capital 
+Account of a Partner shall be deemed to refer to such Capital Account as 
+the same may be credited or debited from time to time as set forth above. 
+In the event of any transfer of any interest in the Partnership in 
+accordance with the terms of this Agreement, the transferee shall succeed 
+to the Capital Account of the transferor to the extent it relates to the 
+transferred interest.
+
+
+Section 5.04. Allocations of Profits and Losses. Except as otherwise 
+provided in this Agreement, Profits and Losses (and, to the extent 
+necessary, individual items of income, gain or loss or deduction of the 
+Partnership) shall be allocated in a manner such that the Capital Account 
+of each Partner after giving effect to the Special Allocations set forth in 
+Section 5.05 is, as nearly as possible, equal (proportionately) to (i) the 
+distributions that would be made pursuant to Article IV if the Partnership 
+were dissolved, its affairs wound up and its assets sold for cash equal to 
+their Carrying Value, all Partnership liabilities were satisfied (limited 
+with respect to each non-recourse liability to the Carrying Value of the 
+assets securing such liability) and the net assets of the Partnership were 
+distributed to the Partners pursuant to this Agreement, minus (ii) such 
+Partners share of Partnership Minimum Gain and Partner Nonrecourse Debt 
+Minimum Gain, computed immediately prior to the hypothetical sale of 
+assets. Notwithstanding the foregoing,
+ 
+13
+
+------------------------------------------------------------------------
+the General Partner shall make such adjustments to Capital Accounts as it 
+determines in its sole discretion to be appropriate to ensure allocations 
+are made in accordance with a partners interest in the Partnership, and in 
+no event will APO LLC be allocated Profits and Losses (or items thereof) 
+attributable to any carried interest on private equity Funds related to 
+either carry generating transactions that have closed prior to the Closing 
+Date or carry generating transactions in which a definitive agreement has 
+been executed prior to the Closing Date, but such carry generating 
+transaction has not yet closed.
+
+
+Section 5.05. Special Allocations. Notwithstanding any other provision in 
+this Article V:
+
+(a) Minimum Gain Chargeback. If there is a net decrease in Partnership 
+Minimum Gain or Partner Nonrecourse Debt Minimum Gain (determined in 
+accordance with the principles of Treasury Regulations Sections 1.704-2(d) 
+and 1.704-2(i)) during any Partnership taxable year, the Partners shall be 
+specially allocated items of Partnership income and gain for such year 
+(and, if necessary, subsequent years) in an amount equal to their 
+respective shares of such net decrease during such year, determined 
+pursuant to Treasury Regulations Sections 1.704-2(g) and 1.704-2(i)(5). The 
+items to be so allocated shall be determined in accordance with Treasury 
+Regulations Section 1.704-2(f). This Section 5.05(a) is intended to comply 
+with the minimum gain chargeback requirements in such Treasury Regulations 
+Sections and shall be interpreted consistently therewith; including that no 
+chargeback shall be required to the extent of the exceptions provided in 
+Treasury Regulations Sections 1.704-2(f) and 1.704-2(i)(4).
+
+(b) Qualified Income Offset. If any Partner unexpectedly receives any 
+adjustments, allocations, or distributions described in Treasury 
+Regulations Section 1.704-1(b)(2)(ii)(d)(4), (5) or (6), items of 
+Partnership income and gain shall be specially allocated to such Partner in 
+an amount and manner sufficient to eliminate the deficit balance in such 
+Partners Adjusted Capital Account Balance created by such adjustments, 
+allocations or distributions as promptly as possible; provided that an 
+allocation pursuant to this Section 5.05(b) shall be made only to the 
+extent that a Partner would have a deficit Adjusted Capital Account Balance 
+in excess of such sum after all other allocations provided for in this 
+Article V have been tentatively made as if this Section 5.05(b) were not in 
+this Agreement. This Section 5.05(b) is intended to comply with the 
+qualified income offset requirement of the Code and shall be interpreted 
+consistently therewith.
+
+(c) Gross Income Allocation. If any Partner has a deficit Capital Account 
+at the end of any Fiscal Year which is in excess of the sum of (i) the 
+amount such Partner is obligated to restore, if any, pursuant to any 
+provision of this Agreement, and (ii) the amount such Partner is deemed to 
+be obligated to restore pursuant to the penultimate sentences of Treasury 
+Regulations Section 1.704-2(g)(1) and 1.704-2(i)(5), each such Partner 
+shall be specially allocated items of Partnership income and gain in the 
+amount of such excess as quickly as possible; provided that an allocation 
+pursuant to this Section 5.05(c) shall be made only if and to the extent 
+that a Partner would have a deficit Capital Account in excess of such sum 
+after all other allocations provided for in this Article V have been 
+tentatively made as if Section 5.05(b) and this Section 5.05(c) were not in 
+this Agreement.
+
+(d) Nonrecourse Deductions. Nonrecourse Deductions shall be allocated to 
+the Partners in accordance with their respective Percentage Interests.
+ 
+14
+
+------------------------------------------------------------------------
+(e) Partner Nonrecourse Deductions. Partner Nonrecourse Deductions for any 
+taxable period shall be allocated to the Partner who bears the economic 
+risk of loss with respect to the liability to which such Partner 
+Nonrecourse Deductions are attributable in accordance with Treasury 
+Regulations Section 1.704-2(j).
+
+(f) Creditable Non-U.S. Taxes. Creditable Non-U.S. Taxes for any taxable 
+period attributable to the Partnership, or an entity owned directly or 
+indirectly by the Partnership, shall be allocated to the Partners in 
+proportion to the partners distributive shares of income (including income 
+allocated pursuant to Section 704(c) of the Code) to which the Creditable 
+Non-U.S. Tax relates (under principles of Treasury Regulations Section 
+1.904-6). The provisions of this Section 5.07(f) are intended to comply 
+with the provisions of Temporary Treasury Regulations Section 
+1.704-1T(b)(4)(xi), and shall be interpreted consistently therewith.
+
+(g) Ameliorative Allocations. Any special allocations of income or gain 
+pursuant to Section 5.05(b) or (c) hereof shall be taken into account in 
+computing subsequent allocations pursuant to Section 5.04 and this Section 
+5.05(g), so that the net amount of any items so allocated and all other 
+items allocated to each Partner shall, to the extent possible, be equal to 
+the net amount that would have been allocated to each Partner if such 
+allocations pursuant to Section 5.05(b) or (c) had not occurred.
+
+
+Section 5.06. Tax Allocations. For income tax purposes, each item of 
+income, gain, loss and deduction of the Partnership shall be allocated 
+among the Partners in the same manner as the corresponding items of Profits 
+and Losses and specially allocated items are allocated for Capital Account 
+purposes; provided that in the case of any asset the Carrying Value of 
+which differs from its adjusted tax basis for U.S. federal income tax 
+purposes, income, gain, loss and deduction with respect to such asset shall 
+be allocated solely for income tax purposes in accordance with the 
+principles of Sections 704(b) and (c) of the Code (in any manner determined 
+by the General Partner and permitted by the Code and Treasury Regulations) 
+so as to take account of the difference between Carrying Value and adjusted 
+basis of such asset. Notwithstanding the foregoing, the General Partner 
+shall make such allocations for tax purposes as it determines in its sole 
+discretion to be appropriate to ensure allocations are made in accordance 
+with a partners interest in the Partnership.
+
+
+Section 5.07. Tax Advances. To the extent the General Partner reasonably 
+believes that the Partnership is required by law to withhold or to make tax 
+payments on behalf of or with respect to any Partner or the Partnership is 
+subjected to tax itself by reason of the status of any Partner (Tax 
+Advances), the General Partner may withhold such amounts and make such tax 
+payments as so required. All Tax Advances made on behalf of a Partner shall 
+be repaid by reducing the amount of the current or next succeeding 
+distribution or distributions which would otherwise have been made to such 
+Partner or, if such distributions are not sufficient for that purpose, by 
+so reducing the proceeds of liquidation otherwise payable to such Partner. 
+For all purposes of this Agreement such Partner shall be treated as having 
+received the amount of the distribution that is equal to the Tax Advance. 
+Each Partner hereby agrees to indemnify and hold harmless the Partnership 
+and the other Partners from and against any liability (including, without 
+limitation, any liability for taxes, penalties, additions to tax or 
+interest other than any penalties, additions to tax or interest imposed as 
+a result of the Partnerships failure to withhold or make a tax payment on 
+behalf of such Partner which withholding or payment is required pursuant to
+ 
+15
+
+------------------------------------------------------------------------
+applicable Law but only to the extent amounts sufficient to pay such taxes 
+were not timely distributed to the Partner pursuant to Section 4.01(c)) 
+with respect to income attributable to or distributions or other payments 
+to such Partner.
+
+
+Section 5.08. Tax Matters. The General Partner shall be the initial tax 
+matters partner within the meaning of Section 6231(a)(7) of the Code (the 
+Tax Matters Partner). The Partnership shall file as a partnership for 
+federal, state, provincial and local income tax purposes, except where 
+otherwise required by Law. All elections required or permitted to be made 
+by the Partnership, and all other tax decisions and determinations relating 
+to federal, state, provincial or local tax matters of the Partnership, 
+shall be made by the Tax Matters Partner, in consultation with the 
+Partnerships attorneys and/or accountants. Tax audits, controversies and 
+litigations shall be conducted under the direction of the Tax Matters 
+Partner. The Tax Matters Partner shall keep the other Partners reasonably 
+informed as to any tax actions, examinations or proceedings relating to the 
+Partnership and shall submit to the other Partners, for their review and 
+comment, any settlement or compromise offer with respect to any disputed 
+item of income, gain, loss, deduction or credit of the Partnership. As soon 
+as reasonably practicable after the end of each Fiscal Year, the 
+Partnership shall send to each Partner a copy of U.S. Internal Revenue 
+Service Schedule K-1, and any comparable statements required by applicable 
+U.S. state or local income tax Law as a result of the Partnerships 
+activities or investments, with respect to such Fiscal Year. The 
+Partnership also shall provide the Partners with such other information as 
+may be reasonably requested for purposes of allowing the Partners to 
+prepare and file their own tax returns. The Partnership shall use any 
+reasonable method or combination of methods in accordance with Section 
+706(d) of the Code for the purpose of allocating or specifically allocating 
+items of income, gain, loss, deduction and expense of the Partnership for 
+federal income tax purposes to account for the varying interests of the 
+Partners for the Fiscal Year.
+
+
+Section 5.09. Other Allocation Provisions. Certain of the foregoing 
+provisions and the other provisions of this Agreement relating to the 
+maintenance of Capital Accounts are intended to comply with Treasury 
+Regulations Section 1.704-1 (b) and shall be interpreted and applied in a 
+manner consistent with such regulations. Section 5.03, Section 5.04 and 
+Section 5.05 may be amended at any time by the General Partner if the 
+General Partner believes such amendment is advisable, so long as any such 
+amendment does not materially change the relative economic interests of the 
+Partners. Furthermore, the General Partner shall use its reasonable best 
+efforts to cause its subsidiaries to make adjustments to capital accounts 
+to reflect an adjustment to the carrying value of such subsidiaries assets 
+consistent with the adjustments to Carrying Values of the Partnerships 
+assets hereunder.
+
+
+ARTICLE VI
+
+
+BOOKS AND RECORDS; REPORTS
+
+
+Section 6.01. Books and Records.
+
+(a) At all times during the continuance of the Partnership, the Partnership 
+shall prepare and maintain separate books of account for the Partnership.
+ 
+16
+
+------------------------------------------------------------------------
+(b) Except as limited by Section 6.01(c), each Limited Partner shall have 
+the right to receive, for a purpose reasonably related to such Limited 
+Partners interest as a Limited Partner in the Partnership, upon reasonable 
+written demand stating the purpose of such demand and at such Limited 
+Partners own expense:
+
+(i) a copy of the Certificate and this Agreement and all amendments 
+thereto, together with a copy of the executed copies of all powers of 
+attorney pursuant to which the Certificate and this Agreement and all 
+amendments thereto have been executed; and
+
+(ii) promptly after their becoming available, copies of the Partnerships 
+federal, state and local income tax returns and reports, if any, for the 
+three most recent years.
+
+(c) The General Partner may keep confidential from the Limited Partners, 
+for such period of time as the General Partner determines in its sole 
+discretion, (i) any information that the General Partner reasonably 
+believes to be in the nature of trade secrets or (ii) other information the 
+disclosure of which the General Partner believes is not in the best 
+interests of the Partnership, could damage the Partnership or its business 
+or that the Partnership is required by law or by agreement with any third 
+party to keep confidential.
+
+
+ARTICLE VII
+
+
+PARTNERSHIP UNITS
+
+
+Section 7.01. Units. Interests in the Partnership shall be represented by 
+Units. The Units initially are comprised of one Class: Class A Units. The 
+General Partner may establish, from time to time in accordance with such 
+procedures as the General Partner shall determine from time to time, other 
+Classes, one or more series of any such Classes, or other Partnership 
+securities with such designations, preferences, rights, powers and duties 
+(which may be senior to existing Classes and series of Units or other 
+Partnership securities), as shall be determined by the General Partner, 
+including (i) the right to share in Profits and Losses or items thereof; 
+(ii) the right to share in Partnership distributions; (iii) the rights upon 
+dissolution and liquidation of the Partnership; (iv) whether, and the terms 
+and conditions upon which, the Partnership may or shall be required to 
+redeem the Units or other Partnership securities (including sinking fund 
+provisions); (v) whether such Unit or other Partnership security is issued 
+with the privilege of conversion or exchange and, if so, the terms and 
+conditions of such conversion or exchange; (vi) the terms and conditions 
+upon which each Unit or other Partnership security will be issued, 
+evidenced by certificates and assigned or transferred; (vii) the method for 
+determining the Percentage Interest as to such Units or other Partnership 
+securities; and (viii) the right, if any, of the holder of each such Unit 
+or other Partnership security to vote on Partnership matters, including 
+matters relating to the relative designations, preferences, rights, powers 
+and duties of such Units or other Partnership securities. Except as 
+expressly provided in this Agreement to the contrary, any reference to 
+Units shall include the Class A Units and any other Classes that may be 
+established in accordance with this Agreement. All Units of a particular 
+Class shall have identical rights in all respects as all other Units of 
+such Class, except in each case as otherwise specified in this Agreement.
+ 
+17
+
+------------------------------------------------------------------------
+Section 7.02. Register. The register of the Partnership shall be the 
+definitive record of ownership of each Unit and all relevant information 
+with respect to each Partner. Unless the General Partner shall determine 
+otherwise, Units shall be uncertificated and recorded in the books and 
+records of the Partnership.
+
+
+Section 7.03. Registered Partners. The Partnership shall be entitled to 
+recognize the exclusive right of a Person registered on its records as the 
+owner of Units for all purposes and shall not be bound to recognize any 
+equitable or other claim to or interest in Units on the part of any other 
+Person, whether or not it shall have express or other notice thereof, 
+except as otherwise provided by the Act or other applicable Law.
+
+
+ARTICLE VIII
+
+
+FORFEITURE OF INTERESTS; TRANSFER RESTRICTIONS
+
+
+Section 8.01. Limited Partner Transfers.
+
+(a) No Limited Partner or Assignee thereof may Transfer (including by 
+exchanging in an Exchange Transaction) all or any portion of its Units or 
+other interest in the Partnership (or beneficial interest therein) without 
+the prior consent of the General Partner, which consent may be given or 
+withheld, or made subject to such conditions (including, without 
+limitation, the receipt of such legal opinions and other documents that the 
+General Partner may require) as are determined by the General Partner, in 
+each case in the General Partners sole discretion. Any such determination 
+in the General Partners discretion in respect of Units shall be final and 
+binding. Such determinations need not be uniform and may be made 
+selectively among Limited Partners, whether or not such Limited Partners 
+are similarly situated, and shall not constitute the breach of any duty 
+hereunder or otherwise existing at law, in equity or otherwise. Any 
+purported Transfer of Units that is not in accordance with, or subsequently 
+violates, this Agreement shall be, to the fullest extent permitted by law, 
+null and void.
+
+(b) Subject to Section 8.03, the General Partner may consider consenting to 
+an exchange or Transfer of Units in an Exchange Transaction pursuant to the 
+terms of the Exchange Agreement. In the case of an Transfer of Units in 
+connection with an Exchange Transaction, the Percentage Interests of the 
+Limited Partners shall be appropriately adjusted to provide for, as 
+applicable, a decrease in the number of Units owned by the Exchanging 
+Limited Partner and an increase in the number of Units owned by APO LLC.
+
+(c) Subject to Section 8.04, the General Partner may consider consenting to 
+an exchange or Transfer of Units by a Limited Partner that is a party to a 
+Roll-up Agreement pursuant to the terms and provisions thereof.
+
+
+Section 8.02. Encumbrances. No Limited Partner or Assignee may create an 
+Encumbrance with respect to all or any portion of its Units (or any 
+beneficial interest therein) unless the General Partner consents in writing 
+thereto, which consent may be given or withheld, or made subject to such 
+conditions as are determined by the General Partner, in the General 
+Partners sole discretion. Consent of the General Partner shall be withheld 
+until the holder of the Encumbrance acknowledges the terms and conditions 
+of this Agreement. Any purported Encumbrance that is not in accordance with 
+this Agreement shall be, to the fullest extent permitted by law, null and 
+void.
+ 
+18
+
+------------------------------------------------------------------------
+Section 8.03. Further Restrictions. Notwithstanding any contrary provision 
+in this Agreement, in no event may any Transfer of a Unit be made by any 
+Limited Partner or Assignee if:
+
+(a) such Transfer is made to any Person who lacks the legal right, power or 
+capacity to own such Unit;
+
+(b) such Transfer would require the registration of such transferred Unit 
+or of any Class of Unit pursuant to any applicable United States federal or 
+state securities laws (including, without limitation, the Securities Act or 
+the Exchange Act) or other non-U.S securities laws (including Canadian 
+provincial or territorial securities laws) or would constitute a non-exempt 
+distribution pursuant to applicable provincial or state securities laws;
+
+(c) such Transfer would not cause (i) all or any portion of the assets of 
+the Partnership to (A) constitute plan assets (under ERISA, the Code or 
+any applicable Similar Law) of any existing or contemplated Limited 
+Partner, or (B) be subject to the provisions of ERISA, Section 4975 of the 
+Code or any applicable Similar Law, or (ii) the General Partner to become a 
+fiduciary with respect to any existing or contemplated Limited Partner, 
+pursuant to ERISA, any. applicable Similar Law, or otherwise;
+
+(d) to the extent requested by the General Partner, the Partnership does 
+not receive such legal and/or tax opinions and written instruments 
+(including, without limitation, copies of any instruments of Transfer and 
+such Assignees consent to be bound by this Agreement as an Assignee) that 
+are in a form satisfactory to the General Partner, as determined in the 
+General Partners sole discretion; or
+
+(e) such Transfer would create a substantial risk that the Partnership 
+would be classified or otherwise treated other than as a partnership for 
+U.S. federal income tax purposes.
+
+
+Section 8.04. Rights of Assignees. Subject to Section 8.06, the transferee 
+of any permitted Transfer pursuant to this Article VIII will be an assignee 
+only (Assignee), and only will receive, to the extent transferred, the 
+distributions and allocations of income; gain, loss, deduction, credit or 
+similar item to which the Partner which transferred its Units would be 
+entitled, and such Assignee will not be entitled or enabled to exercise any 
+other rights or powers of a Partner, such other rights, and all obligations 
+relating to, or in connection with, such Interest remaining with the 
+transferring Partner. The transferring Partner will remain a Partner even 
+if it has transferred all of its Units to one or more Assignees until such 
+time as the Assignee(s) is admitted to the Partnership as a Partner 
+pursuant to Section 8.05.
+
+
+Section 8.05. Admissions, Withdrawals and Removals.
+
+(a) No Person may be admitted to the Partnership as an additional General 
+Partner or substitute General Partner without the prior written consent or 
+ratification of Partners whose Percentage Interests exceed 50% of the 
+Percentage Interests of all Partners in the aggregate. A General Partner 
+will not be entitled to Transfer all of its Units or to withdraw from being 
+a General Partner of the Partnership unless another General Partner shall 
+have been admitted hereunder (and not have previously been removed or 
+withdrawn).
+ 
+19
+
+------------------------------------------------------------------------
+(b) No Limited Partner will be removed or entitled to withdraw from being a 
+Partner of the Partnership except in accordance with Section 8.07 hereof.
+
+(c) Except as otherwise provided in Article IX or the Act, no admission, 
+substitution, withdrawal or removal of a Partner will cause the dissolution 
+of the Partnership. To the fullest extent permitted by law, any purported 
+admission, withdrawal or removal that is not in accordance with this 
+Agreement shall be null and void.
+
+
+Section 8.06. Admission of Assignees as Substitute Limited Partners. An 
+Assignee will become a substitute Limited Partner only if and when each of 
+the following conditions is satisfied:
+
+(a) the General Partner consents in writing to such admission, which 
+consent may be given or withheld, or made subject to such conditions as are 
+determined by the General Partner, in each case in the General Partners 
+sole discretion;
+
+(b) if required by the General Partner, the General Partner receives 
+written instruments (including, without limitation, copies of any 
+instruments of Transfer and such Assignees consent to be bound by this 
+Agreement as a substitute Limited Partner) that are in a form satisfactory 
+to the General Partner (as determined in its sole discretion);
+
+(c) if required by the General Partner, the General Partner receives an 
+opinion of counsel satisfactory to the General Partner to the effect that 
+such Transfer is in compliance with this Agreement and all applicable Law; 
+and
+
+(d) if required by the General Partner, the parties to the Transfer, or any 
+one of them, pays all of the Partnerships reasonable expenses connected 
+with such Transfer (including, but not limited to, the reasonable legal and 
+accounting fees of the Partnership).
+
+
+Section 8.07. Withdrawal and Removal of Limited Partners. If a Limited 
+Partner ceases to hold any Units, then such Limited Partner shall cease to 
+be a Limited Partner and to have the power to exercise any rights or powers 
+of a Limited Partner.
+
+
+ARTICLE IX
+
+
+DISSOLUTION, LIQUIDATION AND TERMINATION
+
+
+Section 9.01. No Dissolution. Except as required by the Act, the 
+Partnership shall not be dissolved by the admission of additional Partners 
+or withdrawal of Partners in accordance with the terms of this Agreement. 
+The Partnership may be dissolved, liquidated wound up and terminated only 
+pursuant to the provisions of this Article IX, and the Partners hereby 
+irrevocably waive any and all other rights they may have to cause a 
+dissolution of the Partnership or a sale or partition of any or all of the 
+Partnership assets.
+ 
+20
+
+------------------------------------------------------------------------
+Section 9.02. Events Causing Dissolution. The Partnership shall be 
+dissolved and its affairs shall be wound up upon the occurrence of any of 
+the following events:
+
+(a) the entry of a decree of judicial dissolution of the Partnership under 
+Section 17-802 of the Act upon the finding by a court of competent 
+jurisdiction that the General Partner (i) is permanently incapable of 
+performing its part of this Agreement, (ii) has been guilty of conduct that 
+is calculated to affect prejudicially the carrying on of the business of 
+the Partnership, (iii) willfully or persistently commits a breach of this 
+Agreement or (iv) conducts itself in a manner relating to the Partnership 
+or its business such that it is not reasonably practicable for the other 
+Partners to carry on the business of the Partnership with the General 
+Partner;
+
+(b) any event which makes it unlawful for the business of the Partnership 
+to be carried on by the Partners;
+
+(c) the written consent of all Partners;
+
+(d) any other event not inconsistent with any provision hereof causing a 
+dissolution of the Partnership under the Act;
+
+(e) the Incapacity or removal of the General Partner or the occurrence of a 
+Disabling Event with respect to the General Partner; provided that the 
+Partnership will not be dissolved or required to be wound up in connection 
+with any of the events specified in this Section 9.02(e) if: (1) at the 
+time of the occurrence of such event there is at least one other general 
+partner of the Partnership who is hereby authorized to, and elects to, 
+carry on the business of the Partnership; or (ii) all remaining Limited 
+Partners consent to or ratify the continuation of the business of the 
+Partnership and the appointment of another general partner of the 
+Partnership, effective as of the event that caused the General Partner to 
+cease to be a general partner of the Partnership, within 90 days following 
+the occurrence of any such event.
+
+
+Section 9.03. Distribution upon Dissolution.
+
+(a) Upon dissolution, the Partnership shall not be terminated and shall 
+continue until the winding up of the affairs of the Partnership is 
+completed. Upon the winding up of the Partnership, the General Partner, or 
+any other Person designated by the General Partner (the Liquidation Agent
+), shall take full account of the assets and liabilities of the 
+Partnership and shall, unless the General Partner determines otherwise, 
+liquidate the assets of the Partnership as promptly as is consistent with 
+obtaining the fair value thereof. The proceeds of any liquidation shall be 
+applied and distributed in the following order:
+
+(b) First, to the satisfaction of debts and liabilities of the Partnership 
+(including satisfaction of all indebtedness to Partners and/or their 
+Affiliates to the extent otherwise permitted by law) including the expenses 
+of liquidation, and including the establishment of any reserve which the 
+Liquidation Agent shall deem reasonably necessary for any contingent, 
+conditional or unmatured contractual liabilities or obligations of the 
+Partnership (Contingencies). Any such reserve may be paid over by the 
+Liquidation Agent to any attorney-at-law, or acceptable party, as escrow 
+agent, to be held for disbursement in payment of any Contingencies and, at 
+the expiration of such period as shall be deemed advisable by the 
+Liquidation Agent for distribution of the balance in the manner hereinafter 
+provided in this Section 9.03; and
+ 
+21
+
+------------------------------------------------------------------------
+(c) The balance, if any, to the Partners, pro rata to each of the Partners 
+in accordance with their Percentage Interests.
+
+
+Section 9.04. Time for Liquidation. A reasonable amount of time shall be 
+allowed for the orderly liquidation of the assets of the Partnership and 
+the discharge of liabilities to creditors so as to enable the Liquidation 
+Agent to minimize the losses attendant upon such liquidation.
+
+
+Section 9.05. Termination. The Partnership shall terminate when all of the 
+assets of the Partnership, after payment of or due provision for all debts, 
+liabilities and obligations of the Partnership, shall have been distributed 
+to the holders of Units in the manner provided for in this Article IX, and 
+the Certificate shall have been cancelled in the manner required by the 
+Act.
+
+
+Section 9.06. Claims of the Partners. The Partners shall look solely to the 
+Partnerships assets for the return of their Capital Contributions, and if 
+the assets of the Partnership remaining after payment of or due provision 
+for all debts, liabilities and obligations of the Partnership are 
+insufficient to return such Capital Contributions, the Partners shall have 
+no recourse against the Partnership or any other Partner or any other 
+Person. No Partner with a negative balance in such Partners Capital 
+Account shall have any obligation to the Partnership or to the other 
+Partners or to any creditor or other Person to restore such negative 
+balance during the existence of the Partnership, upon dissolution or 
+termination of the Partnership or otherwise, except to the extent required 
+by the Act.
+
+
+Section 9.07. Survival of Certain Provisions. Notwithstanding anything to 
+the contrary in this Agreement, the provisions of Section 10.02 and Section 
+11.09 shall survive the termination of the Partnership.
+
+
+ARTICLE X
+
+
+LIABILITY AND INDEMNIFICATION
+
+
+Section 10.01. Liability of Partners.
+
+(a) No Limited Partner shall be liable for any debt, obligation or 
+liability of the Partnership or of any other Partner or have any obligation 
+to restore any deficit balance in its Capital Account solely by reason of 
+being a Partner of the Partnership, except to the extent required by the 
+Act.
+
+(b) This Agreement is not intended to, and does not, create or impose any 
+fiduciary duty on any of the Limited Partners hereto or on their respective 
+Affiliates. Further, the Limited Partners hereby waive any and all 
+fiduciary duties that, absent such waiver, may exist at or be implied by 
+Law or in equity, and in doing so, recognize, acknowledge and agree that 
+their duties and obligations to one another and to the Partnership are only 
+as expressly set forth in this Agreement and those required by the Act.
+ 
+22
+
+------------------------------------------------------------------------
+(c) Subject to the Act, to the extent that, at law or in equity, any 
+Partner has duties (including fiduciary duties) and liabilities relating 
+thereto to the Partnership or to another Partner, the Partners acting under 
+this Agreement will not be liable to the Partnership or to any such other 
+Partner for their good faith reliance on the provisions of this Agreement. 
+Subject to the Act, the provisions of this Agreement, to the extent that 
+they restrict or eliminate the duties and liabilities relating thereto of 
+any Partner otherwise existing at law or in equity, are agreed by the 
+Partners to replace to that extent such other duties and liabilities of the 
+Partners relating thereto.
+
+(d) The General Partner may consult with legal counsel, accountants and 
+financial or other advisors and any act or omission suffered or taken by 
+the General Partner on behalf of the Partnership or in furtherance of the 
+interests of the Partnership in good faith in reliance upon and in 
+accordance with the advice of such counsel, accountants or financial or 
+other advisors will be full justification for any such act or omission, and 
+the General Partner will be fully protected in so acting or omitting to act 
+so long as such counsel or accountants or financial or other advisors were 
+selected with reasonable care.
+
+
+Section 10.02. Indemnification.
+
+(a) The General Partner (including, without limitation, for this purpose 
+each former and present director, officer, consultant, advisor, manager, 
+member, employee and stockholder of the General Partner) and each Limited 
+Partner (including any former Limited Partner), in his capacity, as such, 
+and to the extent such Limited Partner participates, directly or 
+indirectly, in the Partnerships activities (each, a Covered Person and 
+collectively, the Covered Persons) shall not be liable to the Partnership 
+or, to the extent applicable, to any of the other Partners for any loss, 
+claim, damage or liability occasioned by any acts or omissions in the 
+performance of its services hereunder, unless it shall ultimately be 
+determined by final judicial decision from which there is no further right 
+to appeal (a Final Adjudication) that such loss, claim, damage or 
+liability is due to an act or omission of a Covered Person (i) made in bad 
+faith or with criminal intent or (ii) that adversely affected the 
+Partnership and that failed to satisfy the duty of care owed pursuant to 
+the Partnership or as otherwise required by law.
+
+(b) A Covered Person shall be indemnified to the fullest extent permitted 
+by law by the Partnership against any losses, claims, damages, liabilities, 
+and expenses (including attorneys fees, judgments, fines, penalties and 
+amounts paid in settlement) incurred by or imposed upon him by reason of or 
+in connection with any action taken or omitted by such Covered Person 
+arising out of the Covered Persons status as a Partner or its activities 
+on behalf of the Partnership, including in connection with any action, 
+suit, investigation or proceeding before any judicial, administrative, 
+regulatory or legislative body or agency to which it may be made a party or 
+otherwise involved or with which it shall be threatened by reason of being 
+or having been the General Partner or by reason of serving or having served 
+as a director, officer, consultant, advisor, manager, member, partner, 
+employee or stockholder of any enterprise in which the Partnership or any 
+of its affiliates has or had a financial interest; provided that the 
+Partnership may, but shall not be required to, indemnify a Covered Person 
+with respect to any matter as to which there has been a Final Adjudication 
+that its acts or its failure to act (i) were in bad faith or with criminal 
+intent, or (ii) were of a nature that makes indemnification by the relevant 
+affiliate unavailable. The right to indemnification granted by this Section 
+10.02 shall be
+ 
+23
+
+------------------------------------------------------------------------
+in addition to any rights to which a Covered Person may otherwise be 
+entitled and shall inure to the benefit of the successors by operation of 
+law or valid assigns of such Covered Person. The Partnership shall pay the 
+expenses incurred by a Covered Person in defending a civil or criminal 
+action, suit, investigation or proceeding in advance of the final 
+disposition of such, action, suit, investigation or proceeding, upon 
+receipt of an undertaking by the Covered Person to repay such payment if 
+there shall be a Final Adjudication that it is not entitled to 
+indemnification as provided herein. In any suit brought by the Covered 
+Person to enforce a right to indemnification hereunder it shall be a 
+defense that the Covered Person has not met the applicable standard of 
+conduct set forth in this Section 10.02, and in any suit in the name of the 
+Partnership to recover expenses advanced pursuant to the terms of an 
+undertaking the Partnership shall be entitled to recover such expenses upon 
+Final Adjudication that the Covered Person has not met the applicable 
+standard of conduct set forth in this Section 10.02. In any such suit 
+brought to enforce a right to indemnification or to recover an advancement 
+of expenses pursuant to the terms of an undertaking, the burden of proving 
+that the Covered Person is not entitled to be indemnified, or to an 
+advancement of expenses, shall be on the Partnership (or any Limited 
+Partner acting derivatively or otherwise on behalf of the Partnership or 
+the Limited Partners). The General Partner may not satisfy any right of 
+indemnity or reimbursement granted in this Section 10.02 or to which it may 
+be otherwise entitled except out of the assets of the Partnership 
+(including, without limitation, insurance proceeds and rights pursuant to 
+indemnification agreements), and no Partner shall be personally liable with 
+respect to any such claim for indemnity or reimbursement. The General 
+Partner may enter into appropriate indemnification agreements and/or 
+arrangements reflective of the provisions of this Section 10.02 and obtain 
+appropriate insurance coverage on behalf and at the expense of the 
+Partnership to secure the Partnerships indemnification obligations 
+hereunder and may enter into appropriate indemnification agreements and/or 
+arrangements reflective of the provisions of this Section 10.02. Each 
+Covered Person shall be deemed a third party beneficiary (to the extent not 
+a direct party hereto) to this Agreement and, in particular, the provisions 
+of this Section 10.02.
+
+(c) To the extent that, at law or in equity, a Covered Person has duties 
+(including fiduciary duties) and liabilities relating thereto to the 
+Partnership or the Partners, the Covered Person shall not be liable to the 
+Partnership or to any Partner for its good faith reliance on the provisions 
+of this Agreement. Subject to the Act, the provisions of this Agreement, to 
+the extent that they restrict or eliminate the duties and liabilities of a 
+Covered Person otherwise existing at law or in equity, are agreed by the 
+Partners to replace such other duties and liabilities of each such Covered 
+Person.
+
+
+ARTICLE XI
+
+
+MISCELLANEOUS
+
+
+Section 11.01. Severability. If any term or other provision of this 
+Agreement is held to be invalid, illegal or incapable of being enforced by 
+any rule of Law, or public policy, all other conditions and provisions of 
+this Agreement shall nevertheless remain in full force and effect so long 
+as the economic or legal substance of the transactions is not affected in 
+any manner materially adverse to any party. Upon a determination that any 
+term or other provision is invalid, illegal or incapable of being enforced, 
+the parties hereto shall negotiate in good faith to modify this Agreement 
+so as to effect the original intent of the parties as closely as possible 
+in a mutually acceptable manner in order that the transactions contemplated 
+hereby be consummated as originally contemplated to the fullest extent 
+possible.
+ 
+24
+
+------------------------------------------------------------------------
+Section 11.02. Notices. All notices, requests, claims, demands and other 
+communications hereunder shall be in writing and shall be given (and shall 
+be deemed to have been duly given upon receipt) by delivery in person, by 
+courier service, by fax, by electronic mail (delivery receipt requested) or 
+by registered or certified mail (postage prepaid, return receipt requested) 
+to the respective parties at the following addresses (or at such other 
+address for a party as shall be specified in a notice given in accordance 
+with this Section 11.02):
+ 
+  	(a) 	If to the Partnership, to:
+
+Apollo Principal Holdings III, L.P.
+c/o Apollo Principal Holdings III GP, Ltd.
+9 West 57th St., 43rd Floor
+New York, NY 10019
+ 
+  	(b) 	If to any Partner, to:
+
+Apollo Principal Holdings III, L.P.
+c/o Apollo Principal Holdings III GP, Ltd.
+9 West 57th St., 43rd Floor
+New York, NY 10019
+ 
+  	(c) 	If to the General Partner, to:
+
+Apollo Principal Holdings III, L.P.
+c/o Apollo Principal Holdings III GP, Ltd.
+9 West 57th St., 43rd Floor
+New York, NY 10019
+
+
+Section 11.03. Cumulative Remedies. The rights and remedies provided by 
+this Agreement are cumulative and the use of any one right or remedy by any 
+party shall not preclude or waive its right to use any or all other 
+remedies. Said rights and remedies are given in addition to any other 
+rights the parties may have by Law.
+
+
+Section 11.04. Binding Effect. This Agreement shall be binding upon and 
+inure to the benefit of all of the parties and, to the extent permitted by 
+this Agreement, their successors, executors, administrators, heirs, legal 
+representatives and assigns.
+
+
+Section 11.05. Interpretation. Throughout this Agreement, nouns, pronouns 
+and verbs shall be construed as masculine, feminine, neuter, singular or 
+plural, whichever shall be applicable. Unless otherwise specified, all 
+references herein to Articles, Sections and paragraphs shall refer to 
+corresponding provisions of this Agreement.
+ 
+25
+
+------------------------------------------------------------------------
+Section 11.06. Counterparts. This Agreement may be executed and delivered 
+(including by facsimile transmission or other electronic means) in one or 
+more counterparts, and by the different parties hereto in separate 
+counterparts, each of which when executed and delivered shall be deemed to 
+be an original but all of which taken together shall constitute one and the 
+same agreement. Copies of executed counterparts transmitted by telecopy or 
+other electronic transmission service shall be considered original executed 
+counterparts for purposes of this Section 11.06.
+
+
+Section 11.07. Further Assurances. Each Limited Partner shall perform all 
+other acts and execute and deliver all other documents as may be necessary 
+or appropriate to carry out the purposes and intent of this Agreement.
+
+
+Section 11.08. Entire Agreement.
+
+(a) This Agreement constitutes the entire agreement among the parties 
+hereto pertaining to the subject matter hereof and supersedes all prior 
+agreements and understandings pertaining thereto.
+
+(b) For the avoidance of doubt, each of the Limited Partners that serve as 
+a senior managing director of any of the Apollo Operating Group entities or 
+their subsidiaries may from time to time enter into agreements with the 
+Partnership in respect of the terms of such service.
+
+
+Section 11.09. Governing Law. This Agreement shall be governed by and 
+construed in accordance with the laws of the Cayman Islands. To the fullest 
+extent permitted by applicable law, the General Partner and each Limited 
+Partner hereby agree that any claim, action or proceeding by any Limited 
+Partner seeking any relief whatsoever based on, arising out of or in 
+connection with, this Agreement or the Partnerships business or affairs 
+shall be brought only in the courts of the Cayman Islands. EACH PARTNER 
+HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO A TRIAL BY JURY IN ANY LEGAL 
+PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS 
+CONTEMPLATED HEREBY.
+
+
+Section 11.10. Expenses. Except as otherwise specified in this Agreement, 
+the Partnership shall be responsible for all costs and expenses, including, 
+without limitation, fees and disbursements of counsel, financial advisors 
+and accountants, incurred in connection with its operation.
+
+
+Section 11.11. Amendments and Waivers.
+
+(a) This Agreement (including the Annexes hereto) may be amended, 
+supplemented, waived or modified by the written consent of the General 
+Partner; provided that any amendment that would have a material adverse 
+effect on the rights or preferences of any Class of Units in relation to 
+other Classes of Units must be approved by the holders of not less than a 
+majority of the Percentage Interests of the Class affected; provided 
+further, that the General Partner may, without the written consent of any 
+Limited Partner or any other Person, amend, supplement, waive or modify any 
+provision of this Agreement and execute, swear to, acknowledge, deliver, 
+file and record whatever documents may be required in connection
+ 
+26
+
+------------------------------------------------------------------------
+therewith, to reflect: (i) any amendment, supplement, waiver or 
+modification that the General Partner determines to be necessary or 
+appropriate in connection with the creation, authorization or issuance of 
+any class or series of equity interest in the Partnership; (ii) the 
+admission, substitution, withdrawal or removal of Partners in accordance 
+with this Agreement; (iii) a change in the name of the Partnership, the 
+location of the principal place of business of the Partnership, the 
+registered agent of the Partnership or the registered office of the 
+Partnership; (iv) any amendment, supplement, waiver or modification that 
+the General Partner determines in its sole discretion to be necessary or 
+appropriate to address changes in U.S. federal income tax regulations, 
+legislation or interpretation; (v) a change in the Fiscal Year or taxable 
+year of the Partnership and any other changes that the General Partner 
+determines to be necessary or appropriate as a result of a change in the 
+Fiscal Year or taxable year of the Partnership including a change in the 
+dates on which distributions are to be made by the Partnership.
+
+(b) No failure or delay by any party in exercising any right, power or 
+privilege hereunder (other than a failure or delay beyond a period of time 
+specified herein) shall operate as a waiver thereof nor shall any single or 
+partial exercise thereof preclude any other or further exercise thereof or 
+the exercise of any other right, power or privilege. The rights and 
+remedies herein provided shall be cumulative and not exclusive of any 
+rights or remedies provided by Law.
+
+(c) The General Partner may, in its sole discretion, unilaterally amend 
+this Agreement on or before the effective date of the final regulations to 
+provide for (i) the election of a safe harbor under Proposed Treasury 
+Regulation Section 1.83-3(1) (or any similar provision) under which the 
+fair market value of a partnership interest that is transferred is treated 
+as being equal to the liquidation value of that interest, (ii) an agreement 
+by the Partnership and each of its Partners to comply with all of the 
+requirements set forth in such regulations and Notice 2005-43 (and any 
+other guidance provided by the Internal Revenue Service with respect to 
+such election) with respect to all partnership interests transferred in 
+connection with the performance of services while the election remains 
+effective, (iii) the allocation of items of income, gains, deductions and 
+losses required by the final regulations similar to Proposed Treasury 
+Regulation Section 1.704-1(b)(4)(xii)(b) and (c), and (iv) any other 
+related amendments.
+
+(d) Except as may be otherwise required by law in connection with the 
+winding-up, liquidation, or dissolution of the Partnership, each Partner 
+hereby irrevocably waives any and all rights that it may have to maintain 
+an action for judicial accounting or for partition of any of the 
+Partnerships property.
+
+
+Section 11.12. No Third Party Beneficiaries. This Agreement shall be 
+binding upon and inure solely to the benefit of the parties hereto and 
+their permitted assigns and successors and nothing herein, express or 
+implied, is intended to or shall confer upon any other Person or entity, 
+any legal or equitable right, benefit or remedy of any nature whatsoever 
+under or by reason of this Agreement (other than pursuant to Section 10.02 
+hereof).
+
+
+Section 11.13. Headings. The headings and subheadings in this Agreement are 
+included for convenience and identification only and are in no way intended 
+to describe, interpret, define or limit the scope, extent or intent of this 
+Agreement or any provision hereof.
+ 
+27
+
+------------------------------------------------------------------------
+Section 11.14. Construction. Each party hereto acknowledges and agrees it 
+has had the opportunity to draft, review and edit the language of this 
+Agreement and that it is the intent of the parties hereto that no 
+presumption for or against any party arising out of drafting all or any 
+part of this Agreement will be applied in any dispute relating to, in 
+connection with or involving this Agreement. Accordingly, the parties 
+hereby waive to the fullest extent permitted by law the benefit of any rule 
+of Law or any legal decision that would require that in cases of 
+uncertainty, the language of a contract should be interpreted most strongly 
+against the party who drafted such language.
+
+
+Section 11.15. Power of Attorney. Each Limited Partner, by its execution 
+hereof, hereby irrevocably makes, constitutes and appoints the General 
+Partner as its true and lawful agent and attorney in fact, with full power 
+of substitution and full power and authority in its name, place and stead, 
+to make, execute, sign, acknowledge, swear to, record and file (a) this 
+Agreement and any amendment to this Agreement that has been adopted as 
+herein provided; (b) the original certificate of limited partnership of the 
+Partnership and all amendments thereto required or permitted by law or the 
+provisions of this Agreement; (c) all certificates and other instruments 
+(including consents and ratifications which the Limited Partners have 
+agreed to provide upon a matter receiving the agreed support of Limited 
+Partners) deemed advisable by the General Partner to carry out the 
+provisions of this Agreement (including the provisions of Section 8.04) and 
+Law or to permit the Partnership to become or to continue as a limited 
+partnership or partnership wherein the Limited Partners have limited 
+liability in each jurisdiction where the Partnership may be doing business; 
+(d) all instruments that the General Partner deems appropriate to reflect a 
+change or modification of this Agreement or the Partnership in accordance 
+with this Agreement, including, without limitation, the admission of 
+additional Limited Partners or substituted Limited Partners pursuant to the 
+provisions of this Agreement; (e) all conveyances and other instruments or 
+papers deemed advisable by the General Partner to effect the liquidation 
+and termination of the Partnership; and (f) all fictitious or assumed name 
+certificates required or permitted (in light of the Partnerships 
+activities) to be filed on behalf of the Partnership.
+
+
+Section 11.16. Letter Agreements: Schedules. The General Partner may, or 
+may cause the Partnership to, without the approval of any Limited Partner 
+or other Person, enter into separate letter agreements with individual 
+Limited Partners with respect to any matter, in each case on terms and 
+conditions not inconsistent with this Agreement, which have the effect of 
+establishing rights under, or supplementing the terms of, this Agreement. 
+The General Partner may from time to time execute and deliver to the 
+Limited Partners schedules which set forth information contained in the 
+books and records of the Partnership and any other matters deemed 
+appropriate by the General Partner. Such schedules shall be for information 
+purposes only and shall not be deemed to be part of this Agreement for any 
+purpose whatsoever.
+
+
+Section 11.17. Partnership Status. The parties intend to treat the 
+Partnership as a partnership for U.S. federal income tax purposes. The 
+General Partner shall file a Form 8832 with the Internal Revenue Service 
+electing for the Partnership to be classified as a partnership for U.S. 
+federal income tax purposes.
+ 
+28
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as a 
+deed as of the date first written above.
+ 
+General Partner: 	  	 	  	APOLLO PRINCIPAL HOLDINGS III GP, LTD.
+  	 	  	 	  	By: 	  	/s/ John J. Suydam
+  	 	  	 	  	 	  	John J. Suydam
+  	 	  	 	  	 	  	Vice President
+  	 	  	 	  	Witness:  	  	/s/ Laurie Medley
+  	 	  	 	  	 	  	Laurie Medley
+Limited Partners: 	  	 	  	BLACK FAMILY PARTNERS, L.P.
+  	 	  	 	  	By: 	  	Black Family GP, LLC,
+  	 	  	 	  	 	  	its General Partner
+  	 	  	 	  	By: 	  	/s/ Leon D. Black
+  	 	  	 	  	 	  	Leon D. Black
+  	 	  	 	  	 	  	Manager
+  	 	  	 	  	Witness: 	  	/s/ Melanie Spinela
+  	 	  	 	  	 	  	Melanie Spinela
+  	 	  	MJR FOUNDATION LLC
+  	 	  	 	  	By: 	  	/s/ Marc J. Rowan
+  	 	  	 	  	 	  	Marc J. Rowan
+  	 	  	 	  	 	  	Manager
+  	 	  	 	  	Witness: 	  	/s/ Karen Bowen
+  	 	  	 	  	 	  	Karen Bowen
+
+
+[Apollo Principal Holdings III, L.P. - LPA]
+
+------------------------------------------------------------------------
+  	Limited Partners: 	  	 	  	 	  	/s/ Joshua J. Harris
+  	 	  	 	  	 	  	Joshua J. Harris
+  	 	  	 	  	Witness:  	  	/s/ Katherine Frize
+  	 	  	 	  	 	  	Katherine Frize
+  	 	  	 	  	 	  	
+  	Initial Limited Partner: 	  	 	  	 	  	/s/ Sheryl Dean
+  	 	  	 	  	 	  	Sheryl Dean
+  	 	  	 	  	Witness: 	  	/s/ Ben Benson
+  	 	  	 	  	 	  	Ben Benson
+
+
+[Apollo Principal Holdings III, L.P. - LPA]

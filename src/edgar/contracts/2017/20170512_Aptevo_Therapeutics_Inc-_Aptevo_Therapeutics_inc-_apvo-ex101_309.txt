@@ -1,0 +1,844 @@
+ EX-10.1 2 apvo-ex101_309.htm EX-10.1
+EXHIBIT 10.1
+amendment No. 1 to CREDIT AND SECURITY AGREEMENT
+
+This AMENDMENT NO. 1 TO CREDIT AND SECURITY AGREEMENT (this “Agreement”) is 
+made as of this 11th day of May, 2017, by and among Aptevo Therapeutics 
+inc., a Delaware corporation (“Aptevo Therapeutics”), APTEVO 
+BIOTHERAPEUTICS LLC, a Delaware limited liability company (“Aptevo 
+BioTherapeutics”), APTEVO RESEARCH AND DEVELOPMENT LLC, a Delaware limited 
+liability company (“Aptevo R&D”, and Aptevo R&D together with Aptevo 
+Therapeutics and Aptevo BioTherapeutics, each individually, a “Borrower” 
+and collectively, the “Borrowers”), MIDCAP FINANCIAL TRUST, a Delaware 
+statutory trust, as Agent (in such capacity, together with its successors 
+and assigns, “Agent”) and the other financial institutions or other 
+entities from time to time parties to the Credit Agreement referenced 
+below, each as a Lender.
+
+RECITALS
+
+A.Agent, Lenders and Borrowers have entered into that certain Credit and 
+Security Agreement, dated as of August 4, 2016 (the “Original Credit 
+Agreement” and as the same is amended hereby and as it may be further 
+amended, modified, supplemented and restated from time to time, the “
+Credit Agreement”), pursuant to which the Lenders have agreed to make 
+certain advances of money and to extend certain financial accommodations to 
+Borrowers in the amounts and manner set forth in the Credit Agreement.
+ 
+B.Pursuant to Section 6.2 of the Original Credit Agreement, Borrowers are 
+required to maintain a minimum Net Commercial Product Revenue for each 
+applicable Defined Period and Borrowers failed to comply with such 
+requirement for the Defined Period ending March 31, 2017 which failure 
+constitutes an Event of Default under Section 10.1(a)(ii) of the Credit 
+Agreement (the “Specified Event of Default”).
+ 
+C.Borrowers have requested, and Agent and Lenders have agreed, to waive, 
+ab initio, the Specified Event of Default and to amend certain provisions 
+of the Original Credit Agreement to, among other things, modify the 
+conditions to the availability of Term Loan Tranche 2, grant a springing 
+lien in the Borrower’s Intellectual Property, and amend the Net Commercial 
+Product Revenue covenant, all in accordance with the terms and subject to 
+the conditions set forth herein.
+ 
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing, the terms and conditions 
+set forth in this Agreement, and other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, Agent, Lenders 
+and Borrowers hereby agree as follows:
+
+1.Recitals.  This Agreement shall constitute a Financing Document and the 
+Recitals and each reference to the Credit Agreement, unless otherwise 
+expressly noted, will be deemed to reference the Credit Agreement as 
+amended hereby.  Capitalized terms used but not otherwise defined herein 
+shall have the meanings ascribed to them in the Credit Agreement (including 
+those capitalized terms used in the Recitals hereto).
+
+2.Limited Waiver.  
+
+(a)At the request of and as an accommodation to the Borrowers and subject 
+to the satisfaction of the conditions to effectiveness set forth in Section 
+5 hereof, Agent and Required Lenders hereby waive, ab initio, the Specified 
+Event of Default in accordance with the terms hereof.
+
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+(b)The limited waiver set forth in this Section 2 is effective solely for 
+the purposes set forth herein and shall be limited precisely as written and 
+shall not, except as expressly provided herein, be deemed to (a) be a 
+consent to any other amendment, waiver or modification of any term or 
+condition of the Credit Agreement or of any other Financing Document; (b) 
+prejudice any right that Agent or Lenders have or may have in the future 
+under or in connection with the Credit Agreement or any other Financing 
+Document (other than in respect of the Specified Event of Default); (c) 
+constitute a consent to or waiver of any past, present or future Default or 
+Event of Default (other than the Specified Event of Default) or other 
+violation of any provisions of the Credit Agreement or any other Financing 
+Documents; (d) create any obligation to forbear from taking any enforcement 
+action, or to make any further extensions of credit (other than in respect 
+of the Specified Event of Default); or (e) establish a custom or course of 
+dealing among any of the Credit Parties, on the one hand, or Agent or any 
+Lender, on the other hand.
+
+3.Amendments to Original Credit Agreement.  Subject to the satisfaction of 
+the conditions to effectiveness set forth in Section 5 below, the Original 
+Credit Agreement is hereby amended as follows:
+
+(a)The definition of “Collateral” in Section 1.1 of the Original Credit 
+Agreement is hereby amended by adding the following words at the end 
+thereof:
+
+“but excluding any Excluded Property”
+
+(b)Clause (b) of the definition of “Excluded Property” in Section 1.1 of 
+the Original Credit Agreement is hereby amended by adding the following 
+parenthetical after the words “property right” in the first line thereof:
+
+“(including without limitation any jointly owned or jointly developed 
+Intellectual Property rights)”
+
+(c)Clause (c) of the definition of “Excluded Property” in Section 1.1 of 
+the Original Credit Agreement is hereby amended and restated in its 
+entirety as follows:
+
+“(c)prior to the occurrence of a Springing IP Event, Intellectual Property 
+except to the extent that it is necessary under applicable law to have a 
+Lien and security interest in any such Intellectual Property in order to 
+have a perfected Lien and security interest in and to IP Proceeds (
+provided that, for avoidance of doubt, neither Agent nor any Lender shall 
+have any right to transfer or dispose of any Intellectual Property as a 
+result of this clause (c)), and for the avoidance of any doubt, the 
+Collateral shall include, and Agent shall have a Lien and security interest 
+in, (i) all IP Proceeds, (ii) all payments with respect to IP Proceeds that 
+are received after the commencement of a bankruptcy or insolvency 
+proceeding and (iii) except to the extent excluded by clause (b) above, all 
+license and sublicense agreements to which any Borrower is a party and all 
+rights granted to such Borrower thereunder, including without limitation, 
+the license and sublicense agreements entered into between any Borrower and 
+Emergent in connection with the Emergent Spinoff Transaction; provided, 
+however, that, upon the occurrence of a Springing IP Event and continuing 
+at all times thereafter (whether or not the Springing IP Event continues), 
+Intellectual Property shall no longer constitute “Excluded Property” 
+pursuant to this clause (c) (but may, for the avoidance of doubt, be 
+excluded by other clauses of this definition to the extent applicable) and 
+the Collateral shall immediately include all Intellectual Property of each 
+Borrower (including, for the avoidance of doubt, all IP Proceeds but 
+excluding Intellectual Property excluded by other clauses of this 
+definition) automatically and without notice or any further action by 
+Agent, any Lender or any Credit Party; and”
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+(d)The definition of “Excluded Property” in Section 1.1 of the Original 
+Credit Agreement is hereby amended by adding a new clause (d) immediately 
+following clause (c) thereof and prior to the words “provided, however” as 
+follows:
+
+“(d)intent to use trademark applications.”
+
+(e)The following definitions in Section 1.1 of the Original Credit 
+Agreement are hereby amended and restated in their entirety as follows:
+
+““Fee Letter” means each agreement between Agent and Borrower relating to 
+fees payable to Agent, for its own account, in connection with the 
+execution of this Agreement, including, without limitation, any amendments 
+and restatements thereof.”
+
+““Security Document” means this Agreement, the Intellectual Property 
+Security Agreement and any other agreement, document or instrument executed 
+concurrently herewith or at any time hereafter pursuant to which one or 
+more Credit Parties or any other Person either (a) Guarantees payment or 
+performance of all or any portion of the Obligations, and/or (b) provides, 
+as security for all or any portion of the Obligations, a Lien on any of its 
+assets in favor of Agent for its own benefit and the benefit of the 
+Lenders, as any or all of the same may be amended, supplemented, restated 
+or otherwise modified from time to time in accordance with the terms 
+hereof.”
+
+““Term Loan Tranche 2 Activation Date” means the date, if any, on which the 
+Agent receives a Compliance Certificate delivered in accordance with 
+Section 4.1, and such other documentation and information relating to the 
+following conditions as Agent may reasonably request, evidencing to Agent’s 
+reasonable satisfaction that (a) Borrower’s consolidated Net Commercial 
+Product Revenue for the twelve (12) month period immediately preceding such 
+date is greater than or equal to $40,000,000, and (b) Agent has received 
+all documents, instruments and other agreements from Borrower and Borrower 
+has taken such other actions as reasonably requested by Agent to perfect 
+and maintain Agent’s first priority perfected security interest (subject to 
+Permitted Liens), for the ratable benefit of Lenders, in Borrower’s 
+Intellectual Property (other than Excluded Property).”
+
+“Term Loan Tranche 2 Commitment Termination Date” means March 31, 2018.
+
+(f)Section 1.1 of the Original Credit Agreement is hereby amended by adding 
+the following definitions in the appropriate alphabetical order therein:
+
+““First Amendment” means that certain Amendment No. 1 to Credit and 
+Security Agreement, dated as of May 11, 2017, by and among Borrowers, Agent 
+and the Lenders.”
+
+““First Amendment Effective Date” means the first date that all of the 
+conditions in Section 5 of the First Amendment are satisfied.”
+
+““Intellectual Property Security Agreement” means an Intellectual Property 
+Security Agreement in the form attached hereto as Exhibit G, which 
+agreement shall become effective in accordance with the terms of Section 
+4.16(f).
+
+““Springing IP Event” means that, on any date, (a) the Borrowers have 
+allowed, as of the close of business on any day, the aggregate amount of 
+unrestricted cash and cash equivalents held by the Borrowers in Deposit 
+Accounts or Securities Accounts that are
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+subject to a first priority perfected Lien (subject to Permitted Liens) in 
+favor of the Agent to be less than $25,000,000 or (b) a borrowing of the 
+Term Loan Tranche 2 has occurred.”
+
+(g)Clause (b) of Section 4.16 of the Original Credit Agreement is hereby 
+amended and restated in its entirety as follows:
+
+“(b)If Borrower obtains any Registered Intellectual Property (other than 
+copyrights, mask works and related applications, which are addressed 
+below), Borrower shall notify Agent on a quarterly basis and execute such 
+documents and provide such other information (including, without 
+limitation, copies of applications) and take such other actions as Agent 
+shall request in its good faith business judgment to perfect and maintain a 
+first priority perfected security interest (subject to Permitted Liens) in 
+favor of Agent, for the ratable benefit of Lenders, in (x) prior to the 
+occurrence of a Springing IP Event, the IP Proceeds or (y) upon the 
+occurrence of a Springing IP Event, the Registered Intellectual Property 
+(other than Excluded Property and any security interest that is not 
+required to be perfected under the terms of this Agreement).  Upon the 
+occurrence of a Springing IP Event, Borrower shall take such actions as 
+Agent shall request in its good faith business judgment to perfect and 
+maintain a first priority perfected security interest (subject to Permitted 
+Liens) in favor of Agent, for the ratable benefit of Lenders, in the 
+Registered Intellectual Property (other than Excluded Property and any 
+security interest that is not required to be perfected under the terms of 
+this Agreement).”  
+
+(h)Section 4.16 of the Original Credit Agreement is hereby amended by 
+adding the following new clauses (f) through (h) thereto:
+
+“(f)On the First Amendment Effective Date, each Borrower will execute and 
+deliver to Agent the Intellectual Property Security Agreement.  The 
+Intellectual Property Security Agreement shall be held in escrow by Agent, 
+and shall not be in force and effect, unless and until the occurrence of 
+the Springing IP Event, at which time (i) the Intellectual Property 
+Security Agreement shall immediately and automatically become effective 
+without any further action or consent by any Borrower and (ii) Agent shall 
+be automatically authorized to file the Intellectual Property Security 
+Agreement (including any updated schedules thereto delivered pursuant to 
+Section 4.16(h)) with the United States Patent and Trademark Office and/or 
+United States Copyright Office, as applicable.
+
+(g)Upon the occurrence of a Springing IP Event and continuing at all times 
+thereafter (whether or not the Springing IP Event continues), then 
+automatically and without notice or any further action by Agent, any Lender 
+or any Borrower (i) Agent shall be authorized to file UCC financing 
+statements, financing statement amendments and security agreements 
+(including any Intellectual Property Security Agreement) necessary or 
+desirable to perfect such security interest in the Intellectual Property 
+(other than Excluded Property and any security interest that is not 
+required to be perfected under the terms of this Agreement), and (ii) each 
+Borrower shall execute such other agreements and take such other actions as 
+Agent may reasonably request to establish, perfect or protect Agent’s 
+security interest in the Intellectual Property (other than Excluded 
+Property and any security interest that is not required to be perfected 
+under the terms of this Agreement).
+
+(h)Borrowers shall promptly (and in any event within three (3) Business 
+Days of the occurrence thereof) provide Agent and each Lender with written 
+notice of the occurrence of a Springing IP Event, which notice shall be 
+accompanied by a certificate from an authorized executive officer from each 
+Borrower (A) acknowledging that the Springing IP Event has occurred, (B) 
+specifying the date on which the Springing IP Event
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+occurred, and (C) acknowledging that Agent may exercise any rights it may 
+have under this Agreement or any other Financing Document with respect to 
+the Springing IP Event.  Without limiting the foregoing, Borrowers shall 
+promptly (and in any event within ten (10) days of the occurrence of a 
+Springing IP Event) provide Agent a supplement to the Intellectual Property 
+Security Agreement certifying to and attaching true, correct and complete 
+copies of updated schedules to the Intellectual Property Security Agreement 
+and certifying that all Intellectual Property owned by each Borrower and 
+registered in the United States as of the date of such certification is 
+reflected on such schedules (other than Excluded Property).”
+
+(i)Section 9.2(c) of the Original Credit Agreement is hereby is hereby 
+amended and restated in its entirety as follows:
+
+“(c)Without limiting the generality of Section 3.2, except with respect to 
+any rights of any Borrower as a licensee under any license of Intellectual 
+Property owned by another Person, and except for (x) the filing of 
+financing statements under the UCC, (y) any change of ownership filings 
+applications, authorizations, consents or other actions that may be 
+required with respect to Permits and (z) after the Springing IP Event, the 
+filing of the Intellectual Property Security Agreement, duly completed with 
+scheduled attached, with the United States Patent and Trademark Office 
+and/or the United States Copyright Office (as the case may be), no 
+authorization, approval or other action by, and no notice to or filing 
+with, any Governmental Authority or consent of any other Person is required 
+for (i) the grant by each Borrower to Agent of the security interests and 
+Liens in the Collateral provided for under this Agreement and the other 
+Security Documents (if any), or (ii) the exercise by Agent of its rights 
+and remedies with respect to the Collateral provided for under this 
+Agreement and the other Security Documents or under any applicable Law, 
+including the UCC and neither any such grant of Liens in favor of Agent or 
+exercise of rights by Agent shall violate or cause a default under any 
+agreement between any Borrower and any other Person relating to any such 
+collateral, including any license constituting Collateral to which a 
+Borrower is a party, whether as licensor or licensee, with respect to any 
+Intellectual Property, whether owned by such Borrower or any other Person.”
+
+(j)Section 9.2(g)(ix) of the Original Credit Agreement is hereby amended by 
+replacing the words “the foregoing” in the first line thereof with the 
+words “this Agreement or any other Financing Document”.
+
+(k)Section 9.2(g) of the Original Credit Agreement is hereby amended by 
+adding a new clause (x) at the end thereof as follows:
+
+“(x)  If, after the First Amendment Effective Date, any Borrower desires to 
+enter into a Permitted License and the proposed licensee under such 
+Permitted License requests that Agent enter into a non-disturbance 
+agreement (or similar agreement) in connection with such Permitted License, 
+Agent hereby agrees to negotiate in good faith and on a commercially 
+reasonable basis with such Borrower and such licensee to enter into such a 
+non-disturbance and attornment agreement with respect to the proposed 
+Permitted License and the Intellectual Property that is the subject 
+thereof, which shall provide (among other things) (A) that, notwithstanding 
+any exercise of rights and/or remedies by the Agent under this Agreement 
+after a Springing IP Event in respect of the Intellectual Property that is 
+the subject of such Permitted License, such licensee shall continue to have 
+the rights and licenses set forth in its license agreement to the extent 
+that such licensee is in compliance with the terms thereof; provided that 
+in the case of any bankruptcy or insolvency proceeding with respect to such 
+Borrower the rights of such licensee and the Agent shall
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+be determined in accordance with the Bankruptcy Code (or other Laws 
+applicable to such proceeding), (B) an acknowledgement and consent by such 
+licensee of Agent’s security interest in the Collateral (including, to the 
+extent applicable, such Permitted License and the Intellectual Property 
+that is the subject thereof), and (C) that such Permitted License shall 
+attorn to the owner of such Intellectual Property after such exercise of 
+rights and remedies.”
+
+(l)Schedule 6.2 of the Original Credit Agreement is hereby replaced in its 
+entirety by a new Schedule 6.2 attached hereto as Exhibit A.
+
+(m)The Original Credit Agreement is hereby amended by adding the attached 
+Exhibit G as Exhibit G thereto, in appropriate alphabetical order therein.
+
+4.Representations and Warranties; Reaffirmation of Security Interest. Each 
+Borrower hereby confirms that each of the representations and warranties 
+set forth in the Credit Agreement is true and correct in all material 
+respects (without duplication of any materiality qualifier in the text of 
+such representation or warranty) with respect to such Borrower as of the 
+date hereof except to the extent that any such representation or warranty 
+relates to a specific date in which case such representation or warranty 
+shall be true and correct in all material respects as of such earlier date 
+(without duplication of any materiality qualifier in the text of such 
+representation or warranty).  Each Borrower confirms and agrees that all 
+security interests and Liens granted to Agent continue in full force and 
+effect, and that all Collateral remains free and clear of any Liens, other 
+than those granted to Agent and Permitted Liens.  Nothing herein is 
+intended to impair or limit the validity, priority or extent of Agent’s 
+security interests in and Liens on the Collateral. Each Borrower 
+acknowledges and agrees that the Credit Agreement, the other Financing 
+Documents and this Agreement constitute the legal, valid and binding 
+obligation of such Borrower, and are enforceable against such Borrower in 
+accordance with their terms, except as the enforceability thereof may be 
+limited by bankruptcy, insolvency or other similar laws relating to the 
+enforcement of creditors’ rights generally and by general equitable 
+principles.  
+
+5.Conditions to Effectiveness.  This Agreement shall become effective as of 
+the date on which each of the following conditions has been satisfied (or 
+waived in writing by the Agent and the Required Lenders), as determined by 
+Agent in its sole discretion:
+
+(a)Borrowers, Agent and Required Lenders shall have delivered to Agent this 
+Agreement, executed by an authorized officer of each such Person;
+
+(b)Borrowers shall have delivered to Agent a duly executed copy of the 
+Amended and Restated Fee Letter, in form and substance reasonably 
+satisfactory to Agent;
+
+(c)Borrowers shall have delivered to Agent a duly executed Intellectual 
+Property Security Agreement to be held in escrow, in form and substance 
+reasonably satisfactory to Agent;
+
+(d)Agent shall have filed UCC-3 amendment statements necessary to reflect 
+the amendments set forth in this Agreement;
+
+(e)Agent shall have received (i) reasonably satisfactory diligence of the 
+Borrowers’ Intellectual Property, including without limitation customary 
+intellectual property searches and (ii) lien searches and other searches as 
+Agent determines necessary and as otherwise permitted by Section 7.3 of the 
+Credit Agreement;
+
+(f)all representations and warranties of Borrowers contained herein shall 
+be true and correct in all material respects (without duplication of any 
+materiality qualifier in the text of such
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+representation or warranty) as of the date hereof except to the extent that 
+any such representation or warranty relates to a specific date in which 
+case such representation or warranty shall be true and correct in all 
+material respects as of such earlier date (without duplication of any 
+materiality qualifier in the text of such representation or warranty) (and 
+such parties’ delivery of their respective signatures hereto shall be 
+deemed to be its certification thereof); and
+
+(g)prior to and after giving effect to the agreements set forth herein, no 
+Default or Event of Default (other than the Specified Event of Default) 
+shall exist under any of the Financing Documents.
+
+6.Release.  In consideration of the agreements of Agent and Lenders 
+contained herein and for other good and valuable consideration, the receipt 
+and sufficiency of which is hereby acknowledged, Borrower, voluntarily, 
+knowingly, unconditionally and irrevocably, with specific and express 
+intent, for and on behalf of itself and all of its respective parents, 
+subsidiaries, affiliates, members, managers, predecessors, successors, and 
+assigns, and each of their respective current and former directors, 
+officers, shareholders, agents, and employees, and each of their respective 
+predecessors, successors, heirs, and assigns (individually and 
+collectively, the “Releasing Parties”) does hereby fully and completely 
+release, acquit and forever discharge each of Agent, Lenders, and each 
+their respective parents, subsidiaries, affiliates, members, managers, 
+shareholders, directors, officers and employees, and each of their 
+respective predecessors, successors, heirs, and assigns (individually and 
+collectively, the “Released Parties”), of and from any and all actions, 
+causes of action, suits, debts, disputes, damages, claims, obligations, 
+liabilities, costs, expenses and demands of any kind whatsoever, at law or 
+in equity, whether matured or unmatured, liquidated or unliquidated, vested 
+or contingent, choate or inchoate, known or unknown that the Releasing 
+Parties (or any of them) has against the Released Parties or any of them 
+(whether directly or indirectly), based in whole or in part on facts, 
+whether or not now known, existing on or before the date hereof (and not, 
+for the avoidance of doubt, arising at any time hereafter).  Each Borrower 
+acknowledges that the foregoing release is a material inducement to Agent’s 
+and each Lender’s decision to enter into this Agreement and agree to the 
+modifications contemplated hereunder, and has been relied upon by Agent and 
+Lenders in connection therewith.
+
+7.No Waiver or Novation.  The execution, delivery and effectiveness of this 
+Agreement shall not, except as expressly provided in this Agreement, 
+operate as a waiver of any right, power or remedy of Agent, nor constitute 
+a waiver of any provision of the Credit Agreement, the Financing Documents 
+or any other documents, instruments and agreements executed or delivered in 
+connection with any of the foregoing.  Nothing herein is intended or shall 
+be construed as a waiver of any existing Defaults or Events of Default 
+under the Credit Agreement or the other Financing Documents (other than as 
+expressly set forth in Section 2 hereof with respect to the Specified Event 
+of Default) or any of Agent’s rights and remedies in respect of such 
+Defaults or Events of Default (other than as expressly set forth in Section 
+2 hereof with respect to the Specified Event of Default).  This Agreement 
+(together with any other document executed in connection herewith) is not 
+intended to be, nor shall it be construed as, a novation of the Credit 
+Agreement.
+
+8.Affirmation.  Except as specifically amended pursuant to the terms 
+hereof, each Borrower hereby acknowledges and agrees that the Credit 
+Agreement and all other Financing Documents (and all covenants, terms, 
+conditions and agreements therein) shall remain in full force and effect, 
+and are hereby ratified and confirmed in all respects by such Borrower.  
+Each Borrower covenants and agrees to comply with all of the terms, 
+covenants and conditions of the Credit Agreement and the Financing 
+Documents, notwithstanding any prior course of conduct, waivers, releases 
+or other actions or inactions on Agent’s or any Lender’s part which might 
+otherwise constitute or be construed as a waiver of or amendment to such 
+terms, covenants and conditions.  
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+9.Miscellaneous.
+
+(a)Reference to the Effect on the Credit Agreement. Upon the effectiveness 
+of this Agreement, each reference in the Credit Agreement to “this 
+Agreement,” “hereunder,” “hereof,” “herein,” or words of similar import 
+shall mean and be a reference to the Credit Agreement, as amended by this 
+Agreement.    
+
+(b)Incorporation of Credit Agreement Provisions.  The provisions contained 
+in Section 11.6 (Indemnification) of the Credit Agreement are incorporated 
+herein by reference to the same extent as if reproduced herein in their 
+entirety.
+
+(c)THIS AGREEMENT AND ALL DISPUTES AND OTHER MATTERS RELATING HERETO OR 
+ARISING THEREFROM (WHETHER SOUNDING IN CONTRACT LAW, TORT LAW OR 
+OTHERWISE), SHALL BE GOVERNED BY, AND SHALL BE CONSTRUED AND ENFORCED IN 
+ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD TO 
+CONFLICTS OF LAWS PRINCIPLES.
+
+(d)EACH BORROWER HEREBY CONSENTS TO THE JURISDICTION OF ANY STATE OR 
+FEDERAL COURT LOCATED IN THE STATE OF NEW YORK IN THE CITY OF NEW YORK, 
+BOROUGH OF MANHATTAN, AND IRREVOCABLY AGREES THAT, SUBJECT TO AGENT’S 
+ELECTION, ALL ACTIONS OR PROCEEDINGS ARISING OUT OF OR RELATING TO THIS 
+AGREEMENT SHALL BE LITIGATED IN SUCH COURTS.  EACH BORROWER EXPRESSLY 
+SUBMITS AND CONSENTS TO THE JURISDICTION OF THE AFORESAID COURTS AND WAIVES 
+ANY DEFENSE OF FORUM NON CONVENIENS. EACH BORROWER HEREBY WAIVES PERSONAL 
+SERVICE OF ANY AND ALL PROCESS AND AGREES THAT ALL SUCH SERVICE OF PROCESS 
+MAY BE MADE UPON SUCH BORROWER BY CERTIFIED OR REGISTERED MAIL, RETURN 
+RECEIPT REQUESTED, ADDRESSED TO SUCH BORROWER AT THE ADDRESS SET FORTH IN 
+THIS AGREEMENT AND SERVICE SO MADE SHALL BE COMPLETE TEN (10) DAYS AFTER 
+THE SAME HAS BEEN POSTED.
+
+(e)EACH BORROWER, AGENT AND THE LENDERS HEREBY IRREVOCABLY WAIVES ANY AND 
+ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING ARISING OUT OF 
+OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY AND 
+AGREES THAT ANY SUCH ACTION OR PROCEEDING SHALL BE TRIED BEFORE A COURT AND 
+NOT BEFORE A JURY.  EACH BORROWER, AGENT AND EACH LENDER ACKNOWLEDGES THAT 
+THIS WAIVER IS A MATERIAL INDUCEMENT TO ENTER INTO A BUSINESS RELATIONSHIP, 
+THAT EACH HAS RELIED ON THE WAIVER IN ENTERING INTO THIS AGREEMENT, AND 
+THAT EACH WILL CONTINUE TO RELY ON THIS WAIVER IN THEIR RELATED FUTURE 
+DEALINGS.  EACH BORROWER, AGENT AND EACH LENDER WARRANTS AND REPRESENTS 
+THAT IT HAS HAD THE OPPORTUNITY OF REVIEWING THIS JURY WAIVER WITH LEGAL 
+COUNSEL, AND THAT IT KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL 
+RIGHTS.
+
+(f)Headings.  Section headings in this Agreement are included for 
+convenience of reference only and shall not constitute a part of this 
+Agreement for any other purpose.
+
+(g)Counterparts.  This Agreement may be signed in any number of 
+counterparts, each of which shall be deemed an original and all of which 
+when taken together shall constitute one and the same instrument.  Delivery 
+of an executed counterpart of this Agreement by facsimile or by electronic 
+mail delivery of an electronic version (e.g., .pdf or .tif file) of an 
+executed signature page shall be effective as delivery of an original 
+executed counterpart hereof and shall bind the parties hereto.
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+(h)Entire Agreement.This Agreement constitutes the entire agreement and 
+understanding among the parties hereto and supersedes any and all prior 
+agreements and understandings, oral or written, relating to the subject 
+matter hereof.
+
+(i)Severability.  In case any provision of or obligation under this 
+Agreement shall be invalid, illegal or unenforceable in any applicable 
+jurisdiction, the validity, legality and enforceability of the remaining 
+provisions or obligations, or of such provision or obligation in any other 
+jurisdiction, shall not in any way be affected or impaired thereby.
+
+(j)Successors/Assigns.  This Agreement shall bind, and the rights hereunder 
+shall inure to, the respective successors and assigns of the parties 
+hereto, subject to the provisions of the Credit Agreement and the other 
+Financing Documents.
+
+[SIGNATURES APPEAR ON FOLLOWING PAGES]  
+ 
+ 
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+IN WITNESS WHEREOF, intending to be legally bound, the undersigned have 
+executed this Agreement as of the day and year first hereinabove set forth. 
+ 
+ 
+ 
+AGENT:
+MIDCAP FINANCIAL TRUST,
+ 
+as Agent
+ 
+ 
+ 
+By:  Apollo Capital Management, L.P.,
+ 
+its investment manager
+ 
+ 
+ 
+By:  Apollo Capital Management GP, LLC,
+ 
+its general partner
+ 
+ 
+ 
+By:        /s/ Maurice Amsellem
+ 
+Name: Maurice Amsellem
+ 
+Title: Authorized Signatory
+ 
+ 
+ 
+ 
+LENDER:
+MIDCAP FINANCIAL TRUST,
+ 
+as a Lender
+ 
+ 
+ 
+By:  Apollo Capital Management, L.P.,
+ 
+its investment manager
+ 
+ 
+ 
+By:  Apollo Capital Management GP, LLC,
+ 
+its general partner
+ 
+ 
+ 
+By:        /s/ Maurice Amsellem
+ 
+Name: Maurice Amsellem
+ 
+Title: Authorized Signatory
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+ 
+LENDER:
+APOLLO INVESTMENT CORPORATION
+ 
+ 
+ 
+ 
+ 
+By:  Apollo Investment Management, L.P., as Advisor
+ 
+By:  ACC Management, LLC, as its General Partner
+ 
+ 
+ 
+ 
+ 
+By:        /s/ Tanner Powell
+ 
+Name: Tanner Powell
+ 
+Title: Authorized Signatory
+ 
+
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+ 
+LENDER:
+FLEXPOINT MCLS HOLDINGS LLC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+    /s/ Daniel Edelman
+ 
+Name:
+Daniel Edelman
+ 
+Title:
+Authorized Signatory
+ 
+
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+ 
+LENDER:
+ELM 2016-1 TRUST
+ 
+ 
+ 
+ 
+By: MidCap Financial Services Capital Management, LLC, as Servicer
+ 
+ 
+ 
+ 
+By:
+    /s/ Adam Day
+ 
+Name:
+Adam Day
+ 
+Title:
+Authorized Signatory
+ 
+
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+BORROWERS:
+APTEVO THERAPEUTICS INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+    /s/ Jeffrey G. Lamothe
+ 
+Name:
+Jeffrey G. Lamothe
+ 
+Title:
+Chief Financial Officer
+ 
+ 
+APTEVO BIOTHERAPEUTICS LLC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+    /s/ Jeffrey G. Lamothe
+ 
+Name:
+Jeffrey G. Lamothe
+ 
+Title:
+Chief Financial Officer
+ 
+ 
+APTEVO RESEARCH AND DEVELOPMENT LLC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+    /s/ Jeffrey G. Lamothe
+ 
+Name:
+Jeffrey G. Lamothe
+ 
+Title:
+Chief Financial Officer
+ 
+
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+Exhibit A
+
+Schedule 6.2 – Minimum Net Commercial Product Revenue Schedule
+
+ 
+
+Defined Period Ending
+Minimum Net Commercial Product Revenue Amount
+30-Sep-16
+$34,847,470
+31-Dec-16
+$35,000,000
+31-Mar-17
+$34,000,000
+30-Jun-17
+$33,250,000
+30-Sep-17
+$34,000,000
+31-Dec-17
+$36,500,000
+31-Mar-18
+$38,000,000
+30-Jun-18
+$39,000,000
+30-Sep-18
+$40,000,000
+31-Dec-18
+$41,000,000
+31-Mar-19
+$42,000,000
+30-Jun-19
+$43,000,000
+30-Sep-19
+$44,000,000
+31-Dec-19
+$45,000,000
+31-Mar-20
+$45,500,000
+30-Jun-20
+$46,000,000
+30-Sep-20
+$46,500,000
+31-Dec-20 and the last day of each calendar quarter occurring thereafter
+$47,000,000
+ 
+
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807
+------------------------------------------------------------------------
+ 
+Exhibit G to Credit Agreement (Form of Intellectual Property Security 
+Agreement)
+
+ 
+ 
+ 
+ 
+
+ 
+MidCap / Aptevo / Amendment No. 1 to Credit Agreement
+\\DC - 036639/000031 - 10303807

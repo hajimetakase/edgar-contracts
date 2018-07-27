@@ -1,0 +1,5523 @@
+ EX-10.1 2 ex10_1.htm FLASH FORWARD MASTER AGREEMENT
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+
+
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+FLASH FORWARD MASTER AGREEMENT
+
+Dated as of July 13, 2010
+
+by and among
+
+TOSHIBA CORPORATION,
+
+SANDISK CORPORATION
+
+and
+
+SANDISK FLASH B.V.
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+TABLE OF CONTENTS
+ 
+ 
+ 
+  	  	  	Page
+ 1. 	Definitions and Interpretation 	 1
+  	 1.1 	Certain Definitions 	 1
+  	 1.2 	Additional Definitions 	 1
+  	 1.3 	
+Rules of Construction and Documentary Conventions
+ 5
+  	 1.4 	
+Precedence
+ 5
+ 2. 	
+Closing and Post-Closing Transactions
+ 6
+  	 2.1 	
+Closing Transactions
+ 6
+  	 2.2 	
+Further Assurances
+ 8
+  	 2.3 	
+Continuation of FP and FA Documents
+ 8
+ 3. 	
+Purpose and Products of Flash Forward and Rights to Y5 Production Space
+ 9
+  	 3.1  	
+Purpose
+ 9
+  	 3.2 	
+Products
+ 9
+  	 3.3 	
+Phases I and II; Rights to Y5 Facility Production Capacity Space
+ 10
+ 4. 	
+Representations and Warranties of the Parties
+ 11
+  	 4.1 	
+Organization, Ownership Interest, etc.
+ 11
+  	 4.2 	
+Authorization; No Conflict
+ 11
+  	 4.3 	
+Enforceability
+ 12
+  	 4.4 	
+Proceedings
+ 13
+  	 4.5 	
+Litigation; Decrees
+ 13
+  	 4.6 	
+Compliance with Other Instruments
+ 13
+  	 4.7 	
+Patents and Proprietary Rights
+ 13
+  	 4.8 	
+Compliance with Laws
+ 14
+  	 4.9 	
+Patent Cross Licenses
+ 14
+ 5. 	
+Covenants
+ 14
+  	 5.1 	
+Covenants of the Parties
+ 14
+  	 5.2 	
+Public Announcements
+ 14
+  	 5.3 	
+Expenses
+ 15
+  	 5.4 	
+Undertaking as to Affiliate Obligations
+ 15
+  	 5.5 	
+Continuity and Maintenance of Operations
+ 15
+  	 5.6 	
+Certain Deliveries and Notices
+ 15
+ 6. 	Agreements Regarding Flash Forward Operation 	 16
+  	 6.1 	
+Tool Acquisition
+ 16
+  	 6.2 	
+Technology Transfers
+ 18
+  	 6.3 	
+Ramp-Up
+ 19
+  	 6.4 	
+Ramp Up of JV R/W Space in Phase II
+ 23
+  	 6.5 	
+Capacity
+ 23
+  	 6.6 	
+Capacity Sharing Arrangement
+ 25
+  	 6.7 	
+SanDisk Reservation Option
+ 27
+  	 6.8 	
+Engineering Wafers and Development Expense
+ 30
+  	 6.9 	
+Management Representatives
+ 31
+  	 6.10 	
+****
+ 31
+  	 6.11 	
+Non-solicitation of Employees
+ 34
+  	 6.12 	
+Financing
+ 35
+  	 6.13 	
+Other Activities
+ 36
+  	 6.14 	
+Protection of Intellectual Property
+ 37
+ 
+ 
+ 
+ 
+i
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+TABLE OF CONTENTS
+(continued)
+ 
+  	  	 Page
+ 7. 	
+Start-Up and Production Costs
+ 37
+  	 7.1 	
+Start-Up Services for Y5
+ 37
+  	 7.2 	
+Equal Participation and Purchase Price Per Unit Generally
+ 37
+  	 7.3 	
+Adjustment Payment
+ 37
+  	 7.4 	
+Cost Terms
+ 37
+  	 7.5 	
+Negative Impacts
+ 38
+  	 7.6 	
+Cost and Methodology
+ 38
+ 8. 	Other Agreements 	 39
+  	 8.1 	
+Flash Forward Management
+ 39
+  	 8.2 	
+Y5 Facility
+ 39
+  	 8.3 	
+FF Foundry Agreement
+ 40
+  	 8.4 	
+FF Purchase and Supply Agreements
+ 41
+  	 8.5 	
+Documentation of JV R/W Production
+ 42
+  	 8.6 	
+Other Matters
+ 42
+ 9. 	
+Termination
+ 44
+  	 9.1 	
+Termination
+ 44
+ 10. 	
+Miscellaneous
+ 49
+  	 10.1 	
+Survival
+ 49
+  	 10.2 	
+Entire Agreement
+ 49
+  	 10.3 	
+Governing Law
+ 49
+  	 10.4 	
+Assignment
+ 49
+  	 10.5 	
+****
+ 49
+ 
+ 
+ 
+ 
+ii
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+
+
+This FLASH FORWARD MASTER AGREEMENT, dated as of July 13, 2010, is entered 
+into by and among, on one side, TOSHIBA CORPORATION, a Japanese corporation 
+(“Toshiba”), and, on the other side, SANDISK CORPORATION, a Delaware 
+corporation (“SanDisk Corporation”), and SANDISK FLASH B.V., a company 
+organized under the laws of The Netherlands (“SanDisk Flash,” and 
+collectively with SanDisk Corporation, “SanDisk” and SanDisk together with 
+Toshiba, the “Parties”).
+ 
+WHEREAS, pursuant to that certain Flash Partners Master Agreement by and 
+among Toshiba, SanDisk Corporation and SanDisk (Cayman) Limited, dated as 
+of September 10, 2004 (the “FP Master Agreement”), and the agreements 
+referenced therein, as amended by the JVRA (as hereinafter defined), the 
+Parties have had a collaboration for development and manufacture of Y3 NAND 
+Flash Memory Products (as defined in the FP Master Agreement);
+ 
+WHEREAS, pursuant to that certain Flash Alliance Master Agreement by and 
+among Toshiba, SanDisk Corporation and SanDisk (Ireland) Limited, dated as 
+of July 7, 2006 (the “FA Master Agreement”), and the agreements referenced 
+therein, as amended by the JVRA, the Parties have had a collaboration for 
+development and manufacture of Y4 NAND Flash Memory Products (as defined in 
+the FA Master Agreement);
+ 
+WHEREAS, the Parties desire to extend their collaboration to encompass (i) 
+additional joint development and manufacture of Y5 NAND Flash Memory 
+Products (as hereinafter defined) by a new joint venture company, (ii) 
+possible joint production of R/W (as hereinafter defined) to be produced at 
+the wafer fabrication facility known as “Y5” by the new joint venture 
+company and (iii) the other matters discussed herein; and
+ 
+WHEREAS, in order to realize these goals, the Parties desire to consummate 
+or cause to be consummated the transactions described in this Agreement, 
+and any other transactions which the Parties may from time to time consider 
+necessary or appropriate to carry out the intent of the Parties as 
+expressed herein.
+ 
+NOW, THEREFORE, the Parties agree as follows:
+ 
+1.  
+Definitions and Interpretation
+ 
+1.1  
+Certain Definitions.
+ 
+(a)  
+Capitalized terms used but not defined in this Agreement shall have the 
+respective meanings assigned to them in Appendix A (Definitions, Rules of 
+Construction and General Terms and Conditions).
+ 
+(b)  
+As used herein, the term “Agreement” means this Flash Forward Master 
+Agreement together with any Exhibits, Schedules, Appendices and Attachments 
+hereto.
+ 
+1.2  
+Additional Definitions.  The following capitalized terms used in this 
+Agreement shall have the respective meanings assigned in this Agreement:
+ 
+Term
+Defined In
+3D Collaboration Agreement
+Section ‎2.1(c)(v)
+3D Memory
+Section ‎3.2(b)(i)
+3D Memory Products
+Section ‎3.2(b)(ii)
+Acquiring Party
+Section ‎9.1(d)
+Adjustment Payment
+Section ‎7.3
+Agreement
+Section ‎1.1(b)
+Alternative Use
+Section ‎6.3(a)(iii)
+AMC
+Section ‎6.8(a)(i)
+Amendment No. 5 to Patent Cross License Agreement
+Section ‎2.1(c)(iii)
+Building Depreciation Prepayment
+Section ‎8.2(a)(iii)(A)
+Business Plan
+Section ‎5.1(a)
+Capital Interests Purchase Agreement
+Section ‎2.1(b)(i)
+Catch-Up Space
+Section ‎6.7(a)(iv)
+Closing
+Section ‎2.1(a)
+ 
+ 
+ 
+1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Term 	Defined In
+Common R&D Agreement
+Section ‎2.1(c)(i)
+Common R&D Development Expenses
+Section ‎6.8(a)(i)
+Costs
+Section ‎6.3(a)(iii)
+Cross License Agreement
+Section ‎2.1(c)(iii)
+Defaulting Party
+Section ‎6.12(d)
+Designated Individuals
+Section ‎6.3(b)(ii)
+EC Compensation
+Section ‎6.6(b)(i)(D)
+EC Party or Excess Capacity Party
+Section ‎6.6(b)(i)
+Embedded NAND Product
+Section ‎6.6(c)
+Employer
+Section ‎6.10(b)(vii)
+Engineers
+Section ‎6.10(a)(ii)
+Environmental Indemnification Agreement
+Section ‎2.1(b)(vii)
+Equipment
+Section ‎6.3(a)(iii)
+Equivalent Lot
+Section ‎7.4(e)
+Evaluation Wafers
+Section ‎6.8(a)(iv)
+FA Master Agreement
+Recitals
+FF Foundry Agreement
+Section ‎2.1(b)(iv)
+FF Headcount Plan
+Section ‎6.10(a)(i)
+FF Interests
+Section ‎4.2(a)
+FF Operating Agreement
+Section ‎2.1(b)(ii)
+FF Operative Documents
+Section ‎2.1(b)
+FF Patent Indemnification Agreement
+Section ‎2.1(b)(vi)
+FF Purchase and Supply Agreements
+Section ‎2.1(b)(v)
+FF Termination Date
+Section ‎9.1(b)
+Financing
+Section ‎6.12(b)(iii)
+Fixed Manufacturing Costs
+Section ‎7.4(a)(i)
+Flash Forward
+Section ‎2.1(b)
+FP Master Agreement
+Recitals
+Headcount Working Group
+Section ‎6.10(a)(iii)
+ICs
+Section ‎3.2(a)(i)
+Intellectual Property
+Section ‎4.7
+Investing Party
+Section ‎6.3(a)(ii)
+Investment Plan
+Section ‎6.3(b)(i)
+****
+Section ‎2.1(c)(iv)
+JMDY Development Expenses
+Section ‎6.8(a)(iv)
+Joint Operative Documents
+Section ‎2.1(c)
+Joint Tool Procurement Team
+Section ‎6.1(a)
+****
+Section 3.3(a)(i)
+****
+Section 3.3(a)(ii)
+JV Space
+Section ‎3.3(a)
+JV Y5 NAND Flash Memory Products
+Section ‎3.2(a)(ii)
+JV Y5 Wafer Sales Price
+Section 8.4(c)(i)
+JVRA
+Section ‎2.1(c)(vi)
+Leading Party
+Section ‎6.7(a)
+Lease Agreement
+Section ‎2.1(b)(viii)
+Management Representative
+Section ‎6.9
+Master Operative Documents
+Section ‎2.2
+NAND
+Section ‎3.2(a)(i)
+NAND Flash Memory Integrated Circuits
+Section ‎6.13
+NAND Flash Memory Products
+Section ‎3.2(a)(i)
+Non-Defaulting Party
+Section ‎6.12(d)
+Non-Engineer SanDisk Team Members
+Section ‎6.10(b)(ii)
+ 
+ 
+ 
+2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+Term 	Defined In
+Non-Investing Party
+Section ‎6.3(a)(ii)
+Non-JV Space
+Section ‎3.3(b)
+Non-NAND Products
+Section ‎3.2(b)(iv)
+Non-Originating Party
+Section ‎6.6(e)
+Originating Party
+Section ‎6.6(e)
+Parties
+Heading
+Phase I
+Section 3.3
+****
+Section ‎6.7(a)(i)(B)
+Phase I Investing Party
+Section ‎6.3(a)(i)
+Phase I Minimum RUP Commitment
+Section ‎6.3(a)(i)
+****
+Section ‎6.3(a)(i)
+Phase II
+Section 3.3
+****
+Section ‎6.7(a)(ii)
+Phase II Construction Plan Notice
+Section ‎6.7(a)(i)(A)
+Phase II Investing Party
+Section ‎6.3(a)(ii)
+Phase II Minimum RUP Commitment
+Section ‎6.3(a)(ii)
+Phase II Non-Investing Party
+Section ‎6.3(a)(ii)
+Process Technology
+Section ‎6.2(a)
+Product Development Agreement
+Section ‎2.1(c)(ii)
+Proposal
+Section ‎6.3(c)(i)
+Proprietary NAND Flash Memory Products
+Section ‎6.6(d)
+Purchased Capacity
+Section ‎6.7(c)
+Qualification Wafers
+Section ‎6.8(a)(v)
+R/W
+Section ‎3.2(b)(iii)
+Requesting Party
+Section ‎9.1(d)(i)
+Reservation Option
+Section ‎6.7(a)
+Reservation Payment
+Section ‎6.7(b)
+Restructuring Costs
+Section 9.1(j)(ii)(B)
+RMPA
+Section ‎2.1(c)(x)
+SanDisk
+Heading
+SanDisk Corporation
+Heading
+SanDisk Engineers
+Section ‎6.10(a)(ii)
+SanDisk Financing
+Section ‎6.12(b)(iii)
+SanDisk Flash
+Heading
+SanDisk Flash-Flash Forward Services Agreement
+Section ‎2.1(b)(xi)
+SanDisk Foundry Agreement
+Section ‎2.1(c)(vii)
+SanDisk Purchase and Supply Agreement
+Section ‎2.1(b)(v)
+****
+Section 3.3(b)(ii)
+****
+Section 3.3(b)(ii)
+SanDisk Share
+Section 9.1(j)(ii)(A)
+SanDisk Team
+Section ‎6.10(b)
+Selling Party
+Section ‎9.1(d)
+Shortfall Quarter
+Section ‎7.3
+Start-Up Costs
+Section ‎7.1
+****
+Section ‎7.3
+Termination Capacity
+Section ‎9.1(d)(i)
+Third Party Sale
+Section ‎6.3(a)(iii)
+Threshold NAND Capacity Ratio
+Section ‎7.4(b)
+Toshiba
+Heading
+Toshiba Engineers
+Section ‎6.10(a)(ii)
+Toshiba Financing
+Section ‎6.12(b)(iii)
+ 
+ 
+ 
+3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Term 	Defined In
+****
+Section 3.3(b)(i)
+****
+Section 3.3(b)(i)
+Toshiba Purchase and Supply Agreement
+Section ‎2.1(b)(v)
+Toshiba’s Cost of Debt
+Section ‎8.2(b)
+Toshiba-Flash Forward Services Agreement
+Section ‎2.1(b)(x)
+Toshiba-SanDisk Flash Services Agreement
+Section ‎2.1(b)(ix)
+Trailing Party
+Section ‎6.7(a)
+Unilateral Expansion
+Section 3.3(b)(iii)
+Unilateral Expansion Space
+Section 3.3(b)(iii)
+Variable Manufacturing Costs
+Section ‎7.4(a)(ii)
+Y3 NAND Flash Memory Products
+Section ‎3.2(a)(iii)
+Y3 Ramp-Up Plan
+Section ‎6.5(a)(i)(E)
+Y4 NAND Flash Memory Products
+Section ‎3.2(a)(iii)
+Y4 Ramp-Up Plan
+Section ‎6.5(a)(i)(E)
+Y5 Capacity Ratio
+Section ‎7.4(c)
+Y5 Direct R&D Development Products
+Section ‎6.8(a)(iii)
+Y5 Facility or Y5
+Section ‎3.1
+Y5 NAND Capacity Ratio
+Section ‎7.4(d)
+Y5 NAND Flash Memory Products
+Section ‎3.2(a)(ii)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+4
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+1.3  
+Rules of Construction and Documentary Conventions.  The rules of 
+construction and documentary conventions and general terms and conditions 
+set forth in Appendix A shall apply to this Agreement.
+ 
+1.4  
+Precedence.  The terms and provisions of this Agreement are binding on the 
+Parties; provided, however, that to the extent that a description in this 
+Agreement of another agreement (whether an FF Operative Document or 
+otherwise) conflicts with or differs from the provisions of that agreement, 
+then the provisions of that agreement shall control as to such conflict or 
+difference unless this Agreement expressly amends such other agreement or 
+provision, as the case may be.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+2.  
+Closing and Post-Closing Transactions
+ 
+2.1  
+Closing Transactions.
+ 
+(a)  
+Closing.  The Parties shall effect the transactions set forth in this 
+Section ‎2.1, all of which shall occur as soon as practicable after the 
+date hereof and upon the consummation of the transactions contemplated by 
+the Capital Interests Purchase Agreement (as defined below) and subject to 
+the terms and conditions set forth therein unless otherwise stipulated (the 
+effecting of such transactions, collectively, the “Closing”).
+ 
+(b)  
+Flash Forward Documents.  Unless otherwise indicated in this Section ‎
+2.1(b), as of the Closing Date, the Parties shall enter into or cause to be 
+entered into or otherwise become effective the following agreements and 
+documents (collectively with this Agreement, the “FF Operative Documents”) 
+to apply to their joint development, manufacture and selling of Y5 NAND 
+Flash Memory Products by and through Flash Forward, Ltd., a Japanese godo 
+kaisha (“Flash Forward”) (the description of each document below is for 
+reference only and shall not be used in interpreting any such document):
+ 
+(i)  
+a Capital Interests Purchase Agreement between Toshiba and SanDisk Flash, 
+substantially in the form of Exhibit Al (the “Capital Interests Purchase 
+Agreement”), and which concerns the sale by Toshiba and purchase by SanDisk 
+Flash at the Closing of 49.9% of the FF Interests;
+ 
+(ii)  
+an Operating Agreement between Toshiba and SanDisk Flash, substantially in 
+the form of Exhibit A2 (the “FF Operating Agreement”), and which concerns 
+governance of Flash Forward;
+ 
+(iii)  
+Articles of Incorporation of Flash Forward in the form of Exhibit A to the 
+FF Operating Agreement;
+ 
+(iv)  
+a Foundry Agreement between Flash Forward and Toshiba, reflecting terms and 
+conditions mutually agreed between the Parties (the “FF Foundry Agreement
+”);
+ 
+(v)  
+a Purchase and Supply Agreement, by and between Flash Forward and SanDisk 
+Flash (the “SanDisk Purchase and Supply Agreement”) and a Purchase and 
+Supply Agreement, between Flash Forward and Toshiba (the “Toshiba Purchase 
+and Supply Agreement” and together with the SanDisk Purchase and Supply 
+Agreement, the “FF Purchase and Supply Agreements”), which shall reflect 
+terms and conditions mutually agreed between the Parties and which concern 
+the forecasting and purchase commitments by SanDisk Flash and Toshiba, 
+respectively, of Y5 NAND Flash Memory Products;
+ 
+(vi)  
+a Patent Indemnification Agreement among SanDisk Corporation, **** and 
+Toshiba, dated as of the date hereof, in the form of Exhibit A3 (the “FF 
+Patent Indemnification Agreement”), and which concerns patent 
+indemnification obligations of Toshiba in favor of SanDisk, and certain 
+contribution obligations of SanDisk with respect to Y5 NAND Flash Memory 
+Products and 3D Memory Products;
+ 
+(vii)  
+a Mutual Contribution and Environmental Indemnification Agreement between 
+SanDisk Corporation and Toshiba, dated as of the date hereof, in the form 
+of Exhibit A4 (the “Environmental Indemnification Agreement”), and which 
+concerns indemnification obligations of the parties thereto in favor of one 
+another with respect to Flash Forward and the Yokkaichi Facility (as 
+defined in Appendix A);
+ 
+(viii)  
+a Lease Agreement between Flash Forward and Toshiba, as owner of the 
+Yokkaichi Facility, substantially in the form of Exhibit A5 (the “Lease 
+Agreement”), and which concerns the leasing of Flash Forward’s equipment to 
+Toshiba as owner of the Yokkaichi Facility;
+ 
+(ix)  
+a Services Agreement between SanDisk Flash and Toshiba, substantially in 
+the form of Exhibit A6 (“Toshiba-SanDisk Flash Services Agreement”), and 
+which concerns Toshiba’s provision of certain services to SanDisk and 
+SanDisk Flash’s payment to Toshiba for such services;
+ 
+ 
+ 
+6
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(x)  
+a Services Agreement between Flash Forward and Toshiba, as owner of the 
+Yokkaichi Facility, substantially in the form of Exhibit A7 (the “
+Toshiba-Flash Forward Services Agreement”), and which concerns Toshiba’s 
+provision of certain services to Flash Forward and Flash Forward’s payment 
+to Toshiba for such services; and
+ 
+(xi)  
+a Services Agreement between Flash Forward and SanDisk Flash, substantially 
+in the form of Exhibit A8 (“SanDisk Flash-Flash Forward Services Agreement
+”), and which concerns SanDisk Flash’s provision of certain services to 
+Flash Forward and Flash Forward’s payment to SanDisk Flash for such 
+services.
+ 
+(c)  
+Joint Operative Documents.  The Parties acknowledge and agree that the 
+following agreements shall remain in force or be amended or executed as 
+indicated below and shall apply generally to the Parties’ collaboration 
+with respect to NAND Flash Memory Products, 3D Memory Products and related 
+products (collectively, the “Joint Operative Documents”):
+ 
+(i)  
+the Fourth Amended and Restated Common R&D and Participation Agreement 
+between the SanDisk Corporation and Toshiba (the “Common R&D Agreement”), 
+which shall reflect terms and conditions mutually agreed between the 
+Parties and which concerns collaboration between the Parties with respect 
+to research and development activities;
+ 
+(ii)  
+the Third Amended and Restated Product Development Agreement between the 
+SanDisk Corporation and Toshiba (the “Product Development Agreement”), 
+which shall reflect terms and conditions mutually agreed between the 
+Parties and which concerns collaboration between SanDisk Corporation and 
+Toshiba with respect to product development activities;
+ 
+(iii)  
+an Amendment No. 5 to the Patent Cross License Agreement, dated as of the 
+date hereof, between SanDisk Corporation and Toshiba (the “Amendment No. 5 
+to Patent Cross License Agreement”), a copy of which is Exhibit B, amending 
+that certain Patent Cross License Agreement between SanDisk Corporation and 
+Toshiba, dated as of July 30, 1997 (as previously amended, the “Cross 
+License Agreement”), and which concerns certain patent licenses granted by 
+SanDisk Corporation and Toshiba to one another;
+ 
+(iv)  
+the Amended and Restated Joint Memory Development Yokkaichi Agreement 
+between SanDisk Corporation and Toshiba (the “JMDY Agreement”), which shall 
+reflect terms and conditions mutually agreed between the Parties and which 
+concerns the Parties joint development project to cooperate on the 
+development of a pilot line at the Y4 Facility;
+ 
+(v)  
+the 3D Collaboration Agreement, dated as of June 13, 2008, between SanDisk 
+Corporation and Toshiba (the “3D Collaboration Agreement”), which concerns 
+the Parties further expansion of their collaboration through a project for 
+the joint development of and technical collaboration on 3D Memory;
+ 
+(vi)  
+the Joint Venture Restructure Agreement, dated as of January 29, 2009, 
+among SanDisk Corporation and certain of its affiliates, Toshiba 
+Corporation, Flash Alliance and Flash Partners (the “JVRA”), in which the 
+Parties restructured Flash Partners and Flash Alliance and amended the FP 
+Operative Documents and FA Operative Documents;
+ 
+(vii)  
+the SanDisk Foundry Agreement, dated as of January 29, 2009, between 
+SanDisk Corporation and Toshiba Corporation (the “SanDisk Foundry Agreement
+”), in which Toshiba agreed to build certain products for SanDisk;
+ 
+(viii)  
+****
+ 
+(ix)  
+the FVCJ Wind-Down Agreement, dated as of June 16, 2008, by and between 
+Toshiba Corporation and SanDisk Corporation; and
+ 
+(x)  
+an Amended and Restated Raw Materials Purchase Agreement by and among 
+SanDisk Corporation and certain of its Affiliates and Toshiba Corporation 
+(the “RMPA”), in which the Parties shall agree how to allocate the costs 
+for certain raw materials.
+ 
+ 
+ 
+7
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+2.2  
+Further Assurances.  Following the Closing, each Party shall, and shall 
+cause its Affiliates and Flash Forward to, take all reasonable actions 
+necessary or appropriate to effectuate the transactions contemplated by 
+this Agreement, the FF Operative Documents and the Joint Operative 
+Documents (collectively, the “Master Operative Documents”), and to obtain 
+(and cooperate with the other Party in obtaining) any Governmental Action 
+or third party consent required to be obtained or made by it in connection 
+with any of the transactions contemplated by the Master Operative 
+Documents; provided, that no Burdensome Condition shall be made to exist 
+with respect to such Party or any of its Affiliates in connection 
+therewith.
+ 
+2.3  
+Continuation of FP and FA Documents.  The Parties agree that unless 
+otherwise expressly stated herein (a) neither the FA Operative Documents 
+nor the FP Operative Documents shall affect the interpretation of this 
+Agreement, the governance or operation of Flash Forward or the Y5 Facility 
+and (b) the FF Operative Documents shall not affect the interpretation of 
+the FA Master Agreement and the FP Master Agreement (in each case as 
+amended by the JVRA), the governance or operation of Flash Alliance or the 
+governance or operation of Flash Partners.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+3.  
+Purpose and Products of Flash Forward and Rights to Y5 Production Space
+ 
+3.1  
+Purpose.  The Parties acknowledge and agree that the purpose of the Master 
+Operative Documents and Flash Forward is the manufacture, including by 
+subcontract to Toshiba pursuant to the FF Foundry Agreement, and sale to 
+Toshiba and SanDisk Flash of NAND Flash Memory Products manufactured at the 
+facility known by the Parties as “Y5” (the “Y5 Facility” or “Y5”), which is 
+a part of the Yokkaichi Facility, as well as to set forth each of SanDisk’s 
+and Toshiba’s rights to Y5 Facility production.
+ 
+3.2  
+Products.  The following types of products will be produced by Flash 
+Forward at the Y5 Facility:
+ 
+(a)  
+NAND Flash Memory Products.
+ 
+(i)  
+“NAND Flash Memory Products” or “NAND,” as used herein, are NAND (both 
+binary and MLC Flash Memory) Flash Memory Integrated Circuits (“ICs”), 
+excluding any products with process design rules generally greater than 
+****.  Embedded ICs incorporating NAND Flash Memory Products shall be 
+considered to constitute “NAND Flash Memory Products” if the main function 
+and value of such IC is flash memory, but shall not be considered to 
+constitute “NAND Flash Memory Products” if the main function and value of 
+such IC is logic.  For the purpose of the foregoing, the “main function and 
+value” of any product shall be considered to be flash memory if (x) the 
+total NAND flash memory array area is greater than **** of the total die 
+area or (y) the product is a cut-down or derivative of a standard NAND 
+Flash Memory Product.
+ 
+(ii)  
+NAND Flash Memory Products manufactured at the Y5 Facility are referred to 
+as “Y5 NAND Flash Memory Products.”  “JV Y5 NAND Flash Memory Products” are 
+Y5 NAND Flash Memory Products which will be produced in the JV Space (under 
+the FF Foundry Agreement between Flash Forward and Toshiba) for sale to 
+Toshiba and SanDisk pursuant to the FF Purchase and Supply Agreements.
+ 
+(iii)  
+NAND Flash Memory Products manufactured at the Y3 Facility are referred to 
+as “Y3 NAND Flash Memory Products;” and NAND Flash Memory Products 
+manufactured at the Y4 Facility are referred to as “Y4 NAND Flash Memory 
+Products”.
+ 
+(b)  
+Other Products.
+ 
+(i)  
+“3D Memory” has the meaning given in the 3D Collaboration Agreement.
+ 
+(ii)  
+“3D Memory Products” has the meaning given in the 3D Collaboration 
+Agreement.
+ 
+(iii)  
+“R/W” has the meaning given in the 3D Collaboration Agreement.
+ 
+(iv)  
+“Non-NAND Products” means any technology or product other than NAND Flash 
+Memory Products.
+ 
+(v)  
+****
+ 
+(c)  
+Each Party shall be permitted to market and sell all NAND Flash Memory 
+Products and R/W, subject to the limitations set forth in ****, to any 
+third party in any form, including chips, packaged devices, wafers, die and 
+cards.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+3.3  
+****
+ 
+(a)  
+****.
+ 
+(i)  
+****
+ 
+(ii)  
+****
+ 
+(b)  
+****
+ 
+(i)  
+****
+ 
+(ii)  
+****
+ 
+(iii)  
+****
+ 
+(c)  
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+4.  
+Representations and Warranties of the Parties
+ 
+    Except as may be disclosed in disclosure schedules attached to this
+    Agreement, each Party represents and warrants to the other Party, as of
+    the Closing, as follows:
+ 
+4.1  
+Organization, Ownership Interest, etc.
+ 
+(a)  
+It and each of its Affiliates that is a party to any Master Operative 
+Document is duly organized, validly existing and in good standing under the 
+laws of its jurisdiction of organization or incorporation and has the power 
+and authority to carry on its business as conducted on the date hereof, to 
+own or hold under lease its properties and to enter into and perform its 
+obligations under each Master Operative Document to which it is a party.
+ 
+(b)  
+It and each of its Affiliates that is a party to any Master Operative 
+Document is duly qualified to own or lease its properties and generally to 
+conduct its business as currently, or as proposed under the Master 
+Operative Documents to be, conducted in each jurisdiction necessary for 
+purposes of the transactions contemplated by the Master Operative 
+Documents, except where failure to so qualify would not have a material 
+adverse effect on either Party or Flash Forward.
+ 
+4.2  
+Authorization; No Conflict.
+ 
+(a)  
+It and each of its Affiliates has duly authorized by all necessary action 
+(i) the execution, delivery and performance of each Master Operative 
+Document to which it or any of its Affiliates is a party and (ii) the 
+exercise of its rights as a holder of capital interests (mochibun) of Flash 
+Forward (the “FF Interests”) to approve the execution, delivery and 
+performance by Flash Forward of each Master Operative Document to which it 
+is a party and for which the approval of the holders of FF Interests is 
+required.
+ 
+(b)  
+Its and each of its Affiliates’ execution and delivery of each Master 
+Operative Document to which it is a party, its and each of its Affiliates’ 
+consummation of the transactions contemplated thereby and its and each of 
+its Affiliates’ compliance therewith does not and will not (i) require any 
+approval of its or any of such Affiliates’ stockholders or any approval or 
+consent of any trustee or holder of any of its or any of such Affiliates’ 
+Indebtedness or obligations, (ii) contravene any Governmental Rule 
+applicable to or binding on it or any of such Affiliates or any of its or 
+their properties if such contravention would have a material adverse effect 
+on it or any of such Affiliates or on its or their ability to perform any 
+of its or any of such Affiliates’ obligations under any Master Operative 
+Document, (iii) contravene or result in any breach of, or constitute any 
+default, with or without the passage of time, the giving of notice or both, 
+under its charter or by-laws, or contravene or result in any breach of or 
+constitute any default under, or result in the creation of any Lien (other 
+than Permitted Liens) upon any of its or any of such Affiliates property or 
+the property of Flash Forward under, any material indenture, mortgage, 
+chattel mortgage, deed of trust, conditional sales contract, loan or credit 
+agreement, non-compete agreement, license agreement, partnership or joint 
+venture agreement or other material agreement or document to which it or 
+any of such Affiliates is a party or by which it or any of such Affiliates 
+or any of its or their properties is or is intended to be bound or by which 
+Flash Forward or any of its properties is or is intended to be bound, (iv) 
+require any negotiation with, or notice to, any labor union or violate, or 
+require any procedure to be followed under, any collective bargaining or 
+other agreement with employees or (v) require any Governmental Action 
+(other than immaterial Governmental Actions such as routine qualifications 
+to do business intended to be obtained as needed or Governmental Actions 
+needed in connection with the construction and operation of the Y5 
+Facility), except, in each case described in clauses (i) through (v) above, 
+such as have been duly obtained, made, taken or otherwise accomplished and 
+which are in full force and effect.  All consents and approvals of any 
+Governmental Authority (other than immaterial Governmental Actions such as 
+routine qualifications to do business intended to be obtained as needed or 
+Governmental Actions needed in connection with the operation of the Y5 
+Facility) or other third Person necessary or advisable for such Party or 
+any of its Affiliates to consummate in all material respects the 
+transactions contemplated by the Master Operative Documents have been 
+obtained.  No Burdensome Condition exists with respect to such Party, any 
+of its Affiliates or Flash Forward in connection with the transactions 
+contemplated by the Master Operative Documents.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+4.3  
+Enforceability.
+ 
+(a)  
+It has duly executed and delivered this Agreement and, upon the execution 
+and delivery of this Agreement by the other Party, this Agreement will 
+constitute its legal, valid and binding obligation, enforceable against it 
+in accordance with its terms except as enforceability may be limited by 
+bankruptcy, insolvency, fraudulent conveyance or similar laws affecting the 
+enforcement of creditors’ rights generally or the availability of equitable 
+remedies (regardless of whether enforceability is considered in a 
+proceeding at law or in equity).
+ 
+(b)  
+It and each of its Affiliates have duly executed and delivered each other 
+Master Operative Document to which it or any such Affiliate is a party and, 
+upon the execution and delivery of each such other Master Operative 
+Document by each other party thereto, each such other Master Operative 
+Document will constitute its legal, valid and binding obligation, 
+enforceable against it or its Affiliates in accordance with its terms 
+except as enforceability may be limited by bankruptcy, insolvency, 
+fraudulent conveyance or similar laws affecting the enforcement of 
+creditors’ rights generally or the availability of equitable remedies 
+(regardless of whether enforceability is considered in a proceeding at law 
+or in equity).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+4.4  
+Proceedings.  There are no actions, claims, investigations or proceedings 
+pending, or to its knowledge threatened, by or before any Governmental 
+Authority that, if adversely determined, would have a material adverse 
+effect on it or any of its Affiliates that is a party to any Master 
+Operative Document or, on the conduct of the business of Flash Forward 
+following the Closing as contemplated in the Master Operative Documents or 
+on it or any of its Affiliates’ ability to perform any material obligation 
+under any Master Operative Document.
+ 
+4.5  
+Litigation; Decrees.  Except as set forth in Schedule 4.5, there are no 
+lawsuits, arbitrations or other legal proceedings pending, or to its 
+knowledge threatened, by or against or affecting it or any of its 
+Affiliates or any of their respective properties that (a) are reasonably 
+likely, based on information known to it as of the date hereof, to have a 
+material adverse effect on the conduct of the business of Flash Forward 
+following the Closing as contemplated by the Master Operative Documents or 
+(b) relate to any of the transactions contemplated by the Master Operative 
+Documents in a manner which is material to it, any of its Affiliates’ or 
+Flash Forward’s ability to carry out the transactions contemplated hereby 
+and in the FF Operative Documents or which could have a material adverse 
+effect on the conduct of the business of Flash Forward following the 
+Closing as contemplated in the Master Operative Documents.
+ 
+4.6  
+Compliance with Other Instruments.  Neither it nor any of its Affiliates 
+that is a party to any Master Operative Document is in default in any 
+material respect in the performance of any material obligation, agreement, 
+instrument or undertaking to which it or any of its Affiliates is a party 
+or by which it or any of its Affiliates or any of its or their properties 
+is bound, and there is no such obligation, agreement, instrument or 
+undertaking to which it or any of its Affiliates is a party or by which it 
+or any of its Affiliates or any of its or their properties is bound, in 
+each case which is reasonably likely to have a material adverse effect on 
+the conduct of the business of Flash Forward following the Closing as 
+contemplated by the Master Operative Documents.
+ 
+4.7  
+Patents and Proprietary Rights.  Except as set forth in Schedule 4.7, to 
+its knowledge, it owns or possesses sufficient legal rights to all patents, 
+utility models, trademarks, service marks, trade names, copyrights, 
+applications for any of the foregoing, mask works, software, trade secrets, 
+licenses, information and proprietary rights and processes (collectively, “
+Intellectual Property”) necessary (a) to carry out its or any of its 
+Affiliates’ obligations under the Master Operative Documents and (b) for 
+the conduct of the business of Flash Forward following the Closing as 
+contemplated in the Master Operative Documents, without any conflict with 
+or infringement of the rights of others, except as will not have a material 
+adverse effect on either (a) or (b) above.  Except with respect to items 
+referenced in Schedule 4.7, it has not received any communications alleging 
+that its Intellectual Property violates, or by its or any of its Affiliates 
+entering into the transactions contemplated by the Master Operative 
+Documents, would violate the Intellectual Property of any other Person or 
+entity, which violation could reasonably be expected to have a material 
+adverse effect on either (a) or (b) above.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+4.8  
+Compliance with Laws.  It and each of its Affiliates has complied and is 
+complying in all material respects with all laws, statutes, permit 
+requirements, licensing requirements, rules and regulations and judicial or 
+administrative decisions, except where the failure to so comply would not 
+have a material adverse effect on its or any of its Affiliates ability to 
+perform its or their obligations hereunder or under any other Master 
+Operative Document or on the conduct of the business of Flash Forward 
+following the Closing as contemplated by the Master Operative Documents.
+ 
+4.9  
+Patent Cross Licenses.  Except as set forth on Schedule 4.9, with respect 
+to (a) Toshiba, there are no patent cross licenses between it and any third 
+party that would require Flash Forward to make any payment pursuant to 
+Section 8 or Section 10 of Amendment No. 1 to the Cross License Agreement 
+dated May 9, 2000, and (b) SanDisk, there are no patent cross licenses 
+between it and any third party that would require Flash Forward to make any 
+payment pursuant to Section 8 of the Cross License Agreement.
+ 
+5.  
+Covenants
+ 
+5.1  
+Covenants of the Parties.  Each Party agrees that, during the term of this 
+Agreement:
+ 
+(a)  
+Performance of Obligations.  It and each of its Affiliates shall fully and 
+faithfully carry out (i) all its obligations under each Master Operative 
+Document to which it or any Affiliate is a party, and (ii) once agreed, 
+each applicable Business Plan (as defined in the FF Operating Agreement) (“
+Business Plan”).
+ 
+(b)  
+Ownership Interest.  Except as otherwise expressly permitted by the FF 
+Operating Agreement and this Agreement, it shall not Transfer or permit any 
+of its Affiliates to Transfer all or any portion of its FF Interests (or 
+all or any portion of its interest in any Affiliate through which it 
+beneficially owns its FF Interests) to any Person without the consent of 
+the other Party.
+ 
+5.2  
+Public Announcements.
+ 
+(a)  
+At or following the Closing, neither Party shall, nor shall it permit any 
+of its Affiliates to, without the prior written consent of the other Party:
+ 
+(i)  
+issue any public release, announcement or other document, or otherwise 
+publicly disclose any information or make any public statement, concerning 
+the operations of Flash Forward that refers to the other Party or any of 
+its Affiliates in connection therewith (other than a general reference to 
+affiliation with Flash Forward) that (A) concerns the financial condition 
+or results of operations of Flash Forward other than as required by any 
+Governmental Rule, Japanese GAAP, Japanese GAAS, US GAAP or US GAAS, with 
+respect to the financial disclosure obligations of either Party or (B) 
+disparages either Party, or Flash Forward’s performance or reflects 
+negatively on either Party’s commitment to either of Flash Forward; or
+ 
+(ii)  
+other than as may be required in connection with filings required to be 
+made with Governmental Authorities with respect to the transactions 
+contemplated by the FF Operative Documents pursuant to the Japanese Foreign 
+Exchange and Foreign Trade Law and related regulations, (A) publicly file 
+all or any part of any Master Operative Document or any description thereof 
+or (B) issue or otherwise make publicly available any press release, 
+announcement or other document that contains Confidential Information 
+belonging to the other Party (or its Affiliates) or Flash Forward, except 
+as may be required by any applicable Governmental Rule, in which case such 
+Party shall (or shall cause the Person required to make such filing to) 
+cooperate with the other Party, to the extent reasonable and practicable, 
+in obtaining any confidential treatment for such filing requested by the 
+other Party.
+ 
+(b)  
+Each Party shall use commercially reasonable efforts to grant or deny any 
+approval required under this Section ‎5.2 within five (5) days of receipt 
+of written request by the other Party; provided, however, a Party’s failure 
+to respond within said time period shall not be deemed to constitute such 
+Party’s approval or consent.
+ 
+ 
+ 
+ 
+ 
+ 
+14
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+5.3  
+Expenses.  Each Party shall bear its own expenses in connection with the 
+negotiation, execution and delivery of the Master Operative Documents.
+ 
+5.4  
+Undertaking as to Affiliate Obligations.  Each Party shall cause all 
+covenants, conditions and agreements to be performed, observed or satisfied 
+by each of its Affiliates that is a party to any Master Operative Document 
+to be fully and faithfully observed, performed and satisfied by such 
+Affiliate, and shall not cause or permit to exist (a) an Event of Default 
+with respect to such Affiliate or (b) except as otherwise permitted by the 
+FF Operating Agreement, any event of dissolution of Flash Forward caused by 
+such Affiliate.  Nothing in Section ‎5.1 or in this Section ‎5.4 shall be 
+construed to create any right in any Person other than the Parties.  
+Without limiting the generality of the foregoing, SanDisk hereby guarantees 
+the obligations of SanDisk Flash hereunder and under any Master Operative 
+Document to which SanDisk Flash is a party.
+ 
+5.5  
+Continuity and Maintenance of Operations.  During the term of this 
+Agreement, each Party agrees on behalf of itself and each of its Affiliates 
+that is a party to any Master Operative Document to use all reasonable 
+efforts consistent with past practice and policies to (a) preserve intact 
+in all material respects its and their present business operations, (b) 
+keep available the services of its and their key employees as a group, and 
+(c) preserve its relationships with suppliers, licensors, licensees, and 
+others having business relationships with it or them, each to the extent 
+necessary to allow it and such Affiliates to perform its and their 
+obligations under the Master Operative Documents and to allow Flash Forward 
+to conduct its business as contemplated in its most recently approved 
+Business Plan.
+ 
+5.6  
+Certain Deliveries and Notices.  Each Party shall promptly inform in 
+writing the other Party of (a) any event or occurrences which could be 
+reasonably expected to have a material adverse effect on its or any of its 
+Affiliates’ ability to perform its or their obligations under any of the 
+Master Operative Documents or the ability of Flash Forward to conduct its 
+business as contemplated in its most recently approved Business Plan, or 
+(b) any breach or failure to satisfy any condition or covenant contained 
+herein or in any other Master Operative Document by such Party or any of 
+its Affiliates.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.  
+Agreements Regarding Flash Forward Operation
+ 
+6.1  
+Tool Acquisition.
+ 
+(a)  
+Flash Forward Tools.  All tools to be used in the JV Space of Y5 shall be 
+purchased by Flash Forward (or a lessor for Flash Forward’s benefit as 
+contemplated by Section ‎6.12(b)) and all such purchases shall be agreed 
+upon by the Parties.  ****  Immediately after the effective date of this 
+Agreement, the Parties will establish a process that enables equal 
+participation and equal decision making by the Parties in tool evaluation 
+and purchase for the JV Space (depending on SanDisk’s ability to 
+participate).
+ 
+(b)  
+Unilateral Expansion Tools.
+ 
+(i)  
+A Party undertaking a Unilateral Expansion (for the avoidance of doubt, 
+excluding any Reservation Option exercise) shall have sole discretion and 
+responsibility with respect to the purchase of all tools to be used for 
+such Unilateral Expansion; provided, that tool purchases for jointly 
+developed products will take into consideration the then-existing 
+recommendations from the Joint Tool Procurement Team; provided further, 
+that the Party undertaking such Unilateral Expansion shall provide the 
+other Party with information concerning the types and quantities of tools 
+purchased.  ****
+ 
+(ii)  
+For the avoidance of doubt, in the case of a Reservation Option exercise, 
+tool purchases shall be conducted in accordance with Section ‎6.1(a), 
+provided, however, if the Reservation Option exercise results in a 
+Unilateral Expansion, then SanDisk, as the Party undertaking the Unilateral 
+Expansion shall pay for tools to be used for such Unilateral Expansion.
+ 
+(c)  
+****
+ 
+(d)  
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(e)  
+Use of non-Flash Forward tools by Flash Forward.  If Flash Forward desires 
+to use any tool of either SanDisk or Toshiba in the production of R/W, 
+Flash Forward shall request the consent of the applicable tool owner for 
+the use of such tool and such consent shall not be unreasonably withheld or 
+delayed.  Flash Forward’s use of such tool shall be subject to appropriate 
+cost allocation, usage limitations and steps to minimize any potential 
+contamination risk and effect on capacity.
+ 
+(f)  
+Tool Layout.  Upon SanDisk’s reasonable request, Toshiba shall provide a 
+tool layout plan for the Y5 Facility related to: (x) Flash Forward, (y) any 
+SanDisk Unilateral Expansion capacity and (z) SanDisk R/W.  Toshiba shall 
+provide SanDisk with appropriate information regarding Toshiba non-JV tools 
+to reasonably demonstrate to the mutual satisfaction of the Parties that 
+any space or capacity allocation is consistent with this Agreement.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.2  
+Technology Transfers.
+ 
+(a)  
+Process Technology.
+ 
+(i)  
+The Parties will jointly make available to Flash Forward the process 
+technology developed under the JMDY Agreement, the Product Development 
+Agreement or the Common R&D Agreement and applicable to the manufacturing 
+and testing of NAND Flash Memory Products and R/W (“Process Technology”) on 
+a mutually agreed schedule.
+ 
+(ii)  
+Transfers of Process Technology and process integration for new processes 
+developed pursuant to the JMDY Agreement and that appear on the JMDY 
+Roadmap (as defined in the JMDY Agreement), including those processes 
+developed at AMC or any other facility in accordance with the JMDY 
+Agreement, will be jointly reviewed and discussed by the Parties and will 
+be made in a mutually satisfactory manner.  All process integration for new 
+process originating from AMC will be led by Toshiba employees, to the 
+extent reasonably possible.  Toshiba and SanDisk will cause their 
+respective employees to cooperate in achieving an efficient transition from 
+development module to operating process and volume production.
+ 
+(iii)  
+The transfer of Process Technology to JV Space shall be deemed complete 
+when the transferred Process Technology passes a reasonable qualification 
+procedure to be mutually agreed upon by the Parties.
+ 
+(iv)  
+****
+ 
+(v)  
+****
+ 
+(vi)  
+Non-JV Space Process Technology.  The manner of Process Technology transfer 
+from JMDY to a Party’s Non-JV Space and the conditions associated therewith 
+shall be determined by such Party in its sole discretion; provided, that 
+such Party shall exercise due care and shall comply with all Yokkaichi 
+Facility or otherwise applicable safety and production regulations in 
+effecting such transfer of Process Technology.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.3  
+Ramp-Up.  The Parties shall expand Y5 Facility NAND Flash Memory Product 
+manufacturing capacity through development of Phase I and Phase II of the 
+Y5 Facility as follows:
+ 
+(a)  
+Minimum Commitments.
+ 
+(i)  
+****.  The initial **** L/M in aggregate increases in production capacity 
+of the Y5 Facility shall be considered firmly committed by each Party (
+i.e., **** L/M each) as described below ****.
+ 
+(ii)  
+****.
+ 
+(iii)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(b)  
+Failure to Invest as Committed in Investment Plan or Business Plan.
+ 
+(i)  
+Investment Plan.  After the **** has been fulfilled by the Parties, once 
+the Parties agree in the form of an Investment Plan (as defined below) 
+approved by the Board of Executive Officers of Flash Forward to make 
+investments to fulfill any given increment of capacity expansion for Flash 
+Forward, if either Party, as the Non-Investing Party, then fails for any 
+reason to make the investment necessary to implement its **** share of such 
+committed increment of the capacity expansion, then the other Party, **** 
+as applicable.  The term “Investment Plan” shall mean a proposed increment 
+of capacity expansion as set forth in the Business Plan or subsequent 
+mutual agreement between the Parties and presented to the Board of 
+Executive Officers of Flash Forward in accordance with Section 6.3(c).
+ 
+(ii)  
+Business Plan.  Business Plans and proposals with respect to the adoption 
+of new Business Plans shall describe JV Space capacity expansions to be 
+effected by SanDisk and Toshiba through Flash Forward on a **** basis.  In 
+the event that SanDisk does not approve an Investment Plan providing ****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(c)  
+General Rule; Proposed NAND Capacity Expansions.
+ 
+(i)  
+General Rule.  ****.
+ 
+(ii)  
+Expansions within Y5.  Expansions of JV NAND Space production may be 
+proposed by either Party in the form of a Proposal and, if and to the 
+extent agreed, shall in due course be reflected in a Business Plan or 
+amendment thereto.  ****:
+ 
+(A)  
+****.
+ 
+(B)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(iii)  
+Other Facility Expansions.  ****:
+ 
+(A)  
+****; and
+ 
+(B)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.4  
+Ramp Up of JV R/W Space in Phase II.  If positive verification ****
+ 
+(a)  
+is made prior to ****.
+ 
+(b)  
+is not made prior to ****.
+ 
+6.5  
+Capacity.
+ 
+(a)  
+Priority.
+ 
+(i)  
+****:
+ 
+(A)  
+****,
+ 
+(B)  
+****,
+ 
+(C)  
+****,
+ 
+(D)  
+****, and
+ 
+(E)  
+****.
+ 
+(ii)  
+****:
+ 
+(A)  
+****,
+ 
+(B)  
+****,
+ 
+(C)  
+****,
+ 
+(D)  
+****, and
+ 
+(E)  
+****.
+ 
+(iii)  
+****.
+ 
+(b)  
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(c)  
+Transfer of Technology to External Manufacturing Source.  If the Parties 
+mutually agree to secure external manufacturing sources other than the 
+Yokkaichi Facility through joint investment, Flash Forward and Toshiba, as 
+applicable, will jointly transfer the applicable manufacturing technology 
+and know-how to such source.  Flash Forward, Flash Alliance and Flash 
+Partners will conduct all negotiations with the external manufacturing 
+source; provided, however, the terms and conditions of any agreement shall 
+be subject to prior consultation with and the approval of Toshiba.  In 
+connection with any technology transfer to such external source, Toshiba 
+will be reimbursed its mutually agreed transfer costs for assisting in the 
+transfer of manufacturing technology and know-how.  If the new capacity 
+secured at such external manufacturing source is requested by only one of 
+the Parties, such Party will pay the transfer costs and be entitled to 
+purchase the full output of Flash Forward products purchased by Flash 
+Alliance, Flash Partners or Flash Forward, as applicable, from such 
+external manufacturing source.  If both Parties request such new external 
+capacity, then Flash Alliance, Flash Partners or Flash Forward, as 
+applicable, will pay the transfer costs to Toshiba.  Unless otherwise 
+agreed by the Parties in writing, neither Party shall have the right to 
+grant manufacturing licenses to such external manufacturing source or to 
+disclose or transfer to any such external manufacturing source, 
+manufacturing know-how related to the manufacture of Flash Forward 
+products, except through Flash Alliance, Flash Partners or Flash Forward.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.6  
+Capacity Sharing Arrangement.
+ 
+(a)  
+Equal right to Joint Venture capacity.  Each of the Parties will have the 
+right and obligation, through Flash Forward, to utilize fifty percent (50%) 
+of the JV Space products, on an Equivalent Lot basis.  The actual monthly 
+NAND Flash Memory Product lot output from the Y5 Facility shall be 
+allocated between Toshiba and SanDisk, as applicable, based on the Y5 NAND 
+Capacity Ratio.
+ 
+(b)  
+Alternative use of allotted capacity.
+ 
+(i)  
+If a Party is unable to utilize its allotted manufacturing capacity for JV 
+Y5 NAND Flash Memory Products (such Party, an “Excess Capacity” or “EC 
+Party”), it may do any of the following:
+ 
+(A)  
+An EC Party may request the other Party to negotiate the terms of transfer 
+of its capacity shortfall to the other Party, which may choose whether to 
+accept such additional capacity and on what terms in its sole discretion.
+ 
+(B)  
+An EC Party may use its capacity for Embedded NAND Products, as defined in 
+and subject to Section ‎6.6(c).
+ 
+(C)  
+An EC Party may use its capacity for Proprietary NAND Flash Memory Products 
+and non-Proprietary NAND Flash Memory Products, in accordance with and 
+subject to Sections ‎6.6(d) and ‎(e).
+ 
+(D)  
+An EC Party may produce less than one hundred percent (100%) of its total 
+Equivalent Lot capacity, provided its allocation of costs in this case will 
+be done in accordance with Section 7.4(a)(i) (“EC Compensation”).
+ 
+(ii)  
+If both Parties are EC Parties because demand for both Parties’ JV Y5 NAND 
+Flash Memory Products are significantly below expectations, the Parties 
+will discuss in good faith whether to permit products which are not JV Y5 
+NAND Flash Memory Products to be produced in the JV Space; provided that 
+(A) the inability of the Parties to so agree shall not constitute a 
+Deadlock (as defined in the FF Operating Agreement) and (B) the foregoing 
+shall not limit either Party’s rights in the remainder of this Section ‎
+6.6.
+ 
+(c)  
+Either Party shall have the right to use a portion of its total allocated 
+capacity with respect to the JV Space to run a memory product which is not 
+a JV Y5 NAND Flash Memory Product (solely because the NAND flash memory 
+array area is equal to or less than **** of the total die area (“Embedded 
+NAND Product”)) so long as such Embedded NAND Product ****.  If a Party 
+exercises its option to run Embedded NAND Products, it must ****.  No such 
+products may be run if doing so ****.  The conditions stated in Sections ‎
+6.6(d) and ‎(e) do not apply to Embedded NAND Products.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(d)  
+Each Party may use a portion of its total allocated capacity from the JV 
+Space to cause to be manufactured NAND Flash Memory Products which are 
+proprietary to that Party (“Proprietary NAND Flash Memory Products”) and 
+which need not be shared with the other Party.  Proprietary NAND Flash 
+Memory Products may be produced in the JV Space so long as such products 
+****.  If a Party exercises such option, it must ****.  No such Proprietary 
+NAND Flash Memory Products may be run if doing so ****.  Each Party shall 
+give the other Party at least ninety (90) days’ advance written notice of 
+its intention to use a portion of its allocated capacity to manufacture 
+Proprietary NAND Flash Memory Products and the Parties shall refer the 
+matter to the Board of Executive Officers (as defined in the FF Operating 
+Agreement) for consultation and planning, with the intention to minimize 
+the impact of such allocation.  Such notifying Party will limit the output 
+volume of such Proprietary NAND Flash Memory Products to **** unless it 
+receives the consent of the other Party to an increase in such output 
+volume above such limit.
+ 
+(e)  
+Each Party (the “Originating Party”) shall inform the other (the “
+Non-Originating Party”) of the development plans by the Originating Party 
+to develop NAND Flash Memory Products, and the Originating Party and the 
+Non-Originating Party shall each refer such matter to the Coordinating 
+Committee (as defined in the Product Development Agreement).  If the 
+Coordinating Committee unanimously decides that such planned development 
+shall be undertaken jointly, then the cost of such joint development shall 
+be borne by each Party in accordance with the Product Development Agreement 
+or JMDY Agreement, as applicable, and the NAND Flash Memory Products 
+manufactured following such joint development shall be considered 
+non-Proprietary NAND Flash Memory Products for purposes of Section ‎6.6(d)
+; provided, however, the NAND Flash Memory Products set forth in Exhibit A 
+to the Product Development Agreement shall be deemed to be non-Proprietary 
+NAND Flash Memory Products without any action by the Coordinating 
+Committee.  Subject to the foregoing, if the Coordinating Committee does 
+not unanimously decide that such planned development shall be undertaken 
+jointly, then the Originating Party may, at its sole discretion, either (i) 
+transfer to the Non-Originating Party the technology, including the items 
+in Exhibit C to the Product Development Agreement relating to such 
+technology, used to manufacture such NAND Flash Memory Products on a 
+royalty-free basis, whereupon such NAND Flash Memory Products shall be 
+considered non-Proprietary NAND Flash Memory Products, or (ii) treat such 
+NAND Flash Memory Products as Proprietary NAND Flash Memory Products for 
+purposes of Section ‎6.6(d).  In the event the Originating Party elects to 
+treat any NAND Flash Memory Products as Proprietary NAND Flash Memory 
+Products in accordance with the preceding sentence, but thereafter the 
+Coordinating Committee unanimously determines that such Proprietary NAND 
+Flash Memory Products should be developed jointly, the Originating Party 
+shall transfer to the other Party the technology used to manufacture such 
+NAND Flash Memory Products on reasonable terms and conditions to be 
+mutually agreed upon by the Parties, whereupon such Proprietary NAND Flash 
+Memory Products shall be treated as non-Proprietary NAND Flash Memory 
+Products.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.7  
+SanDisk Reservation Option.
+ 
+(a)  
+Ramp Flexibility.  ****:
+ 
+(i)  
+****:
+ 
+(A)  
+****.
+ 
+(B)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(ii)  
+****.
+ 
+(iii)  
+****.
+ 
+(iv)  
+****.
+ 
+(v)  
+Operational Efficiencies.  Within the framework provided by the FF 
+Operative Documents, the Parties shall cooperate to ensure that there is no 
+significant adverse effect on **** as a result of the ****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(b)  
+****.
+ 
+(c)  
+****.
+ 
+(d)  
+Consideration of Release.  ****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.8  
+Engineering Wafers and Development Expense.  Each Party will have full 
+access to all operational and engineering data and reports related to 
+engineering wafers manufactured in the JV Space.
+ 
+(a)  
+Engineering wafers and development expenses are defined in five (5) 
+categories: Common R&D Development Expenses, Y5 Direct R&D Development 
+Products, JMDY Development Expenses, Evaluation Wafers and Qualification 
+Wafers (each as defined below); provided, however, that if there are any 
+development expenses not falling in these categories and such expenses are 
+not to be charged under the JMDY Agreement or the Product Development 
+Agreement, such expenses shall be appropriately paid or borne between the 
+Parties.
+ 
+(i)  
+“Common R&D Development Expenses” ****.
+ 
+(ii)  
+****.
+ 
+(iii)  
+****.
+ 
+(iv)  
+“Evaluation Wafers” are those wafers manufactured ****.  Both Parties are 
+entitled to receive Evaluation Wafers ****.  The cost of Evaluation Wafers 
+is ****.
+ 
+(v)  
+“Qualification Wafers” are those wafers ****.  The Parties will discuss and 
+agree on the appropriate quantity of Qualification Wafers required for each 
+JV Y5 NAND Flash Memory Product.  ****.
+ 
+(b)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.9  
+Management Representatives.  Each Party shall designate a person (each a “
+Management Representative”) and the two so designated shall have the 
+authority to (a) advise Flash Forward with respect to policy and operating 
+matters common to Toshiba and SanDisk as well as on such other matters as 
+Flash Forward may refer to the Management Representatives from time to 
+time, (b) hear and seek to resolve any disputes regarding operational 
+matters or alleged breaches of any Master Operative Documents (including 
+dispute resolution), and (c) take the actions specified to be taken by the 
+Management Representatives in this Agreement or any Master Operative 
+Document.
+ 
+6.10  
+****.
+ 
+(a)  
+****.
+ 
+(i)  
+****.
+ 
+(ii)  
+****.
+ 
+(iii)  
+****.
+ 
+(iv)  
+Recognizing that Japanese language skills will be necessary for Engineers 
+working at the Y5 Facility, SanDisk shall seek to minimize the number of 
+its Engineers seconded to Flash Forward who are not highly proficient in 
+Japanese and for those who are not Japanese speakers SanDisk shall ensure 
+they receive some language training in Japanese at SanDisk’s cost before 
+being sent to work at the Y5 Facility.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(b)  
+With respect to the SanDisk-seconded Engineers (including any seconded from 
+SanDisk Affiliates) and any other SanDisk employees seconded to the Y5 
+Facility pursuant to the FF Headcount Plan or further agreement with 
+Toshiba (collectively, the “SanDisk Team”), the Parties agree as follows:
+ 
+(i)  
+Members of the SanDisk Team who are Engineers shall be integrated by 
+Toshiba at the Yokkaichi Facility and shall work together with Toshiba 
+Engineers to seek to ensure the optimal operation of the Y5 Facility from a 
+cost and technology perspective.  To the extent any SanDisk Team member who 
+is an Engineer reasonably follows the properly issued directions of such 
+person’s manager at the Y5 Facility and contributes to the success of the 
+Y5 Facility’s operations that support Flash Forward to the degree that 
+would be reasonably expected of a Toshiba Engineer in his or her position, 
+****.
+ 
+(ii)  
+Members of the SanDisk Team who are not Engineers (“Non-Engineer SanDisk 
+Team Members”) shall work with their respective counterparts at the 
+Yokkaichi Facility to facilitate SanDisk’s access to the operations of the 
+Y5 Facility as follows.  Non-Engineer SanDisk Team Members who support the 
+operations of Flash Forward or the manufacturing of NAND Flash Memory 
+Products shall have full access to the Y5 Facility other than the Toshiba 
+Non-JV Space, and information related to the operations of the Y5 Facility 
+other than the Toshiba Non-JV Space, and reasonable access to other 
+information relevant to Flash Forward or the operations of the Y5 Facility. 
+ ****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(iii)  
+****.
+ 
+(iv)  
+****.
+ 
+(v)  
+****.
+ 
+(vi)  
+****.
+ 
+(vii)  
+****.
+ 
+(viii)  
+All members of the SanDisk Team will remain employees of SanDisk.  Each 
+Party will indemnify the other Party and Flash Forward from any claim by 
+any of such Party’s employees, consultants or agents (such Party being the 
+“Employer”) (A) based on other than willful misconduct of such Employer, 
+its employees, consultants or agents; or (B) that he or she has rights, or 
+is owed obligations, as an employee of the Party that is not the Employer.
+ 
+(c)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.11  
+Non-solicitation of Employees.  So long as the business of Flash Forward 
+continues, each Party (and each of its respective Affiliates) shall not, 
+without the prior written consent of the other Party, directly recruit or 
+solicit (a) any employee or director of Flash Forward or (b) any employee 
+of the other Party involved in the Flash Forward business to leave his or 
+her employment with Flash Forward or such other Party prior to the period 
+ending twenty-four (24) months after the FF Termination Date; provided, 
+however, that placement of employment advertisements or other general 
+solicitation for employees not specifically targeted to the employees or 
+directors of Flash Forward or such other Party shall not constitute direct 
+recruitment.  In the event of the dissolution and liquidation of Flash 
+Forward, either Party (or any Affiliate of either Party) may solicit any 
+former employee of such dissolved and liquidated company, but neither Party 
+(nor any of its Affiliates) shall be required to employ any such Person.  
+If all of the FF Interests held by one Party are purchased by the other 
+Party or its designee, if requested by the acquiring Party, the Parties 
+shall reach agreement on a reasonable transition plan (without profit to 
+the seller) in connection with the services provided to Flash Forward, as 
+applicable, by employees and contractors of the selling Party.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.12  
+Financing.
+ 
+(a)  
+****.
+ 
+(b)  
+The Parties currently intend, but are not obligated, to structure the 
+financing for equipment purchases by Flash Forward necessary to effect the 
+ramp-up as follows:
+ 
+(i)  
+Flash Forward will enter into equipment lease or loan agreements and pledge 
+the financed equipment as collateral;
+ 
+(ii)  
+Flash Forward will secure external financing for approximately **** of the 
+initial purchase price of its tools and each Party will provide equity 
+capital contributions and loans (on a subordinated basis) for the remaining 
+cash requirements of Flash Forward necessary to effect the ramp-up;
+ 
+(iii)  
+each Party will severally and not jointly and through separate arrangements 
+guarantee as close as possible to fifty percent (50%) of Flash Forward’s 
+obligations under such lease or loan agreements (any financing separately 
+guaranteed or provided by Toshiba for Flash Forward or otherwise for 
+investment in the Y5 Facility, “Toshiba Financing”, any such financing 
+separately guaranteed or provided by SanDisk for Flash Forward or otherwise 
+for investment in the Y5 Facility “SanDisk Financing” and the Toshiba 
+Financing and SanDisk Financing, each a “Financing”); and
+ 
+(iv)  
+the Parties will attempt to obtain the foregoing financing from the same 
+financial institution, but under separate agreements that expressly 
+disclaim any joint and several liability of the Parties.
+ 
+(c)  
+With respect to any Toshiba Financing or SanDisk Financing, the following 
+shall apply:
+ 
+(i)  
+****.
+ 
+(ii)  
+Unless otherwise expressly agreed by both Parties in writing in each case, 
+all Toshiba Financing and all SanDisk Financing shall create only several 
+obligations of the Parties and no joint and several obligations or 
+liability.  Toshiba (with respect to Toshiba Financing) and SanDisk (with 
+respect to SanDisk Financing) hereby indemnifies and holds harmless the 
+other Party and its Indemnified Parties from any claims by any financial 
+institution or other Person that the other Party has any liabilities or 
+obligations with respect to, respectively, any Toshiba Financing or SanDisk 
+Financing (unless joint liability has been agreed pursuant to the first 
+sentence of this Section ‎6.12(c)(ii)).
+ 
+(iii)  
+Flash Forward will use commercially reasonable efforts to comply with the 
+requirements of any financing sources.  Flash Forward will make available 
+to each Party one-half of its assets (with as near as practicable cost, 
+collateral value and type) to secure such Party’s Financing (whether 
+external or loans from a Party or its Affiliates).
+ 
+(d)  
+If the lender under the Financing for either Party (as the “Defaulting 
+Party”) takes significant actions to enforce its right in the collateral, 
+then the other Party (as the “Non-Defaulting Party”) shall have the right, 
+but not the obligation, to cure the default giving rise to the lender’s 
+enforcement action.  If the Non-Defaulting Party exercises such cure right, 
+then the Non-Defaulting Party’s rights in any subject collateral shall be 
+superior to the Defaulting Party’s and the Non-Defaulting Party may 
+exercise one of the following options:
+ 
+(i)  
+the Non-Defaulting Party (A) shall have a claim against the Defaulting 
+Party for reimbursement of any payments made by the Non-Defaulting Party on 
+the Defaulting Party’s behalf (which will be subordinate to the lender’s 
+claims and bear interest at a rate 500 basis points in excess of the rate 
+being charged by the lender to the Defaulting Party) and (B) shall have the 
+right, until and unless the Defaulting Party pays in full the obligation to 
+the Non-Defaulting Party under foregoing clause (A), to take over the 
+increment of production of the Y5 Facility represented by the collateral 
+with respect to which the lender took significant actions to enforce its 
+rights; or
+ 
+(ii)  
+the Non-Defaulting Party shall have the right to terminate the Operating 
+Agreement pursuant to Section 11.6 thereof (foreclosure default).
+ 
+ 
+ 
+ 
+35
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.13  
+Other Activities.  Except as expressed in this Section ‎6 and in the JMDY 
+Agreement and the JVRA, neither Party nor any of their respective 
+Affiliates shall: (a) fabricate NAND Flash Memory Integrated Circuits or 
+R/W at any location other than the Yokkaichi Facility or any other 
+fabrication facility agreed upon by the Parties in writing; (b) have any 
+third party fabricate NAND Flash Memory Integrated Circuits or R/W; or (c) 
+have any right to fabricate NAND Flash Memory Integrated Circuits or R/W 
+beyond the capacity as limited pursuant to this Section ‎6.  For the 
+avoidance of doubt, nothing contained in the foregoing shall restrict the 
+Parties from engaging in any other activities, including, without 
+limitation, (i) designing any NAND Flash Memory Product or R/W; (ii) 
+selling any NAND Flash Memory Product or R/W to any customer; (iii) 
+entering into any equipment purchase or material supply agreements; or (iv) 
+entering into any patent licensing arrangement.  For purposes of this 
+Section ‎6.13, “NAND Flash Memory Integrated Circuits” means ICs included 
+in the definition of NAND Flash Memory Products pursuant to Section ‎3.2.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+6.14  
+Protection of Intellectual Property.  Both Parties recognize that it is 
+important for the success of the Y5 NAND Flash Memory Products business to 
+promote the adoption of such Y5 NAND Flash Memory Products with a wide 
+variety of customers and applications, whether for card use or non-card 
+use, and with such recognition, each Party shall use reasonable efforts to 
+protect and enhance the value of Y5 NAND Flash Memory Products.
+ 
+7.  
+Start-Up and Production Costs
+ 
+7.1  
+Start-Up Services for Y5.  The Parties acknowledge that either or both of 
+the Parties and Flash Forward have incurred or will incur costs in 
+connection with developing Flash Forward and the Y5 Facility and preparing 
+the Y5 Facility for production, including personnel costs, materials costs 
+and other operating expenses, for which each Party has the obligation 
+ultimately to bear fifty percent (50%) of the responsibility (“Start-Up 
+Costs”).  The Parties shall discuss in good faith and agree upon the 
+Start-Up Costs borne by either Party and the means and timing of each 
+Party, as applicable, being reimbursed or credited for having incurred more 
+than fifty percent (50%) of the Start-Up Costs or of making payments due to 
+having incurred less than fifty percent (50%) of the Start-Up Costs; 
+provided, that the determination and allocation of Start-Up Costs and the 
+means and timing of reimbursement shall be in a manner substantially 
+similar to that utilized in connection with the start-up costs of the Y4 
+Facility.
+ 
+7.2  
+Equal Participation and Purchase Price Per Unit Generally.  The Parties 
+intend to meet demand for increased capacity by equally investing in, and 
+jointly building, and sharing, on equal or substantially equal terms, equal 
+amounts of new capacity for Y5 NAND Flash Memory Products, except as 
+otherwise provided herein.  So long as each Party’s Threshold NAND Capacity 
+Ratio (as defined below) is greater than or equal to ****, each Party will 
+pay **** of the same product and same design rule.
+ 
+7.3  
+Adjustment Payment.  If either Party’s Threshold NAND Capacity Ratio falls 
+below ****.
+ 
+7.4  
+Cost Terms.
+ 
+(a)  
+Fixed and Variable Manufacturing Costs.  All costs of manufacturing shall 
+be either Fixed Manufacturing Costs (as defined below) or Variable 
+Manufacturing Costs (as defined below).
+ 
+(i)  
+****.
+ 
+(ii)  
+****.
+ 
+(b)  
+Threshold NAND Capacity Ratio.  The term “Threshold NAND Capacity Ratio” 
+shall mean the applicable Party’s NAND lot per month capacity **** in the 
+Y5 Facility, as  calculated on an Equivalent Lot (as defined below) basis 
+divided by ****, provided, however, that ****.
+ 
+(c)  
+Y5 Capacity Ratio.  The term “Y5 Capacity Ratio” for either SanDisk or 
+Toshiba shall mean ****.
+ 
+(d)  
+Y5 NAND Capacity Ratio.  The term “Y5 NAND Capacity Ratio” for either 
+SanDisk or Toshiba shall mean ****.
+ 
+(e)  
+Equivalent Lot.  ****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+7.5  
+Negative Impacts. In the event of any negative impact on the cost or output 
+efficiency of JV Y5 NAND Flash Memory Products or Flash Forward R/W due to 
+Non-NAND Product production in one Party’s Non-JV Space, ****.
+ 
+7.6  
+Cost and Methodology.  In all events, Y5 manufacturing cost and wafer cost 
+methodology will be in accordance with Toshiba’s past practice and 
+accounting system.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+8.  
+Other Agreements
+ 
+    To supplement their agreement as expressed in certain of the Master
+    Operative Documents, the Parties agree as set forth in this Section ‎
+    8.  To the extent of any conflict between this Section ‎8 and any other
+    Master Operative Document referenced in this Section ‎8, the other
+    Master Operative Document shall prevail.
+ 
+8.1  
+Flash Forward Management.
+ 
+(a)  
+As contemplated by the FF Operating Agreement, the Y5 Operating Committee’s 
+purpose is to give both Parties the ability to influence the day to day 
+operating decisions of Flash Forward and the Y5 Facility.  The Y5 Operating 
+Committee is intended to be a collaborative body with real-time 
+communications, respectful consultation and dispute resolution with the 
+goal of making the Y5 Facility the most competitive (cost and technology) 
+memory fabrication facility in the world.
+ 
+(b)  
+If the Y5 Operating Committee is unable to decide an issue (by agreement of 
+its two members) such issue shall be referred to the Board of Executive 
+Officers.  Special meetings of the Board of Executive Officers may be 
+noticed for issues requiring urgent resolution.  The Parties contemplate 
+that while a special meeting of the Board of Executive Officers is being 
+noticed, their respective management teams will discuss any issue that the 
+Y5 Operating Committee could not resolve.
+ 
+(c)  
+If the Board of Executive Officers is unable to decide an issue (by 
+unanimous agreement), such issue shall be referred to the Management 
+Representatives for resolution, which shall be vested with final decision 
+making authority.  This Agreement separately provides for procedures if the 
+Management Representatives is unable to reach agreement on such issue.
+ 
+8.2  
+Y5 Facility.
+ 
+(a)  
+Site Preparation, Building Construction and Facilitization.
+ 
+(i)  
+Toshiba will design, construct and facilitize the Y5 Facility.  SanDisk 
+shall work with Toshiba to help minimize administrative approval delays.  
+Toshiba shall exercise all commercially reasonable efforts to ensure that 
+Y5 Facility is (A) insurable, (B) designed and constructed to mutually 
+acceptable high levels of risk standards, and (C) is completed ****; 
+provided, that Toshiba shall have no liability to SanDisk, any Affiliate of 
+SanDisk or Flash Forward if completion is not achieved by such time.  The 
+depreciation for the Y5 Facility will be charged in accordance with Section 
+8.3(d).
+ 
+(ii)  
+With prior coordination with Toshiba and the construction contractors for 
+the Y5 Facility, SanDisk will have reasonable access to the construction 
+site for the Y5 Facility and to all information pertaining to the 
+construction of the Y5 Facility, on condition that SanDisk will be solely 
+responsible for all damage caused by such access.
+ 
+(iii)  
+Building Depreciation Prepayment and Shortened Depreciation Schedule for 
+****:
+ 
+(A)  
+Each of the Parties agrees to ****, in a manner to be mutually agreed.
+ 
+(B)  
+If ****, the Parties agree to ****.
+ 
+(iv)  
+Also for purposes of this Section ‎8.2, Toshiba’s cost of site/land 
+preparation for the Y5 Facility ****.
+ 
+(b)  
+Land.  With respect to the land purchased by Toshiba related to the 
+establishment of the Y5 Facility, SanDisk will pay to Toshiba on a 
+quarterly basis during the term of this Agreement compensation for **** for 
+the actual aggregate purchase price of such land ****.  For purposes of 
+this Section 8.2, ****.  Annual depreciation of the Y5 Facility shall be 
+calculated in accordance with Section 8.3(d).  To the extent appropriate, 
+these charges will be invoiced under the FF Foundry Agreement, as provided 
+at Section 8.3 below.  For any portion of the Y5 Capacity Ratio that is not 
+subject to the FF Foundry Agreement, such charges shall be invoiced 
+directly.
+ 
+(c)  
+Incentives.  Government incentives (financial or otherwise) attributable to 
+the assets or operations of Flash Forward and the Y5 Facility will be 
+shared by the Parties in accordance with the Y5 Capacity Ratio at the time 
+such incentives are realized.  The Parties will discuss such incentives and 
+the sharing thereof based on the type of incentives.
+ 
+ 
+ 
+39
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+8.3  
+FF Foundry Agreement.  Flash Forward and Toshiba shall enter into the FF 
+Foundry Agreement at the Closing.  In the event SanDisk owns or leases 
+manufacturing equipment located in the Y5 Facility as a result of ****, 
+SanDisk and Toshiba will enter into a foundry agreement with terms 
+substantially similar to the FF Foundry Agreement.  The FF Foundry 
+Agreement provides for ordering procedures, prices, delivery, cost 
+reporting and other specific terms and conditions for the manufacture by 
+Toshiba and supply to Flash Forward of Y5 NAND Flash Memory Products, which 
+shall be consistent with the following basic terms:
+ 
+(a)  
+Facilities, Equipment and Raw Materials.  The manufacturing facilities will 
+be located at the Y5 Facility and die sort will be located **** or such 
+other place as the Parties may agree upon.  Flash Forward and Toshiba will 
+enter into an exclusive lease agreement with respect to the Y5 Facility and 
+Flash Forward’s manufacturing equipment located in the Y5 Facility to be 
+used in the manufacture of Y5 NAND Flash Memory Products by Toshiba.  
+Toshiba shall be responsible for obtaining the raw materials and services 
+to be used in the manufacture of Y5 NAND Flash Memory Products.  Raw 
+materials shall be procured in accordance with that certain RMPA.
+ 
+(b)  
+Production.  Toshiba will manufacture Y5 NAND Flash Memory Products at the 
+Y5 Facility for Flash Forward ordered by Toshiba and SanDisk under the 
+terms and conditions of the FF Purchase and Supply Agreements.  Flash 
+Forward and Toshiba (from the Yokkaichi Facility) will use their best 
+efforts to achieve the Business Plan manufacturing capacity.  Wafers 
+produced in the JV Space will be sorted between the Parties such that 
+aggregate yield losses will be shared on an equal basis.
+ 
+(c)  
+Operating Relationship.  The Parties shall provide personnel necessary for 
+the manufacturing of the Y5 NAND Flash Memory Products as described in 
+Section ‎6.10.
+ 
+(d)  
+Consideration to be Paid to Toshiba.  Toshiba will be compensated by Flash 
+Forward as provided in the FF Foundry Agreement ****.
+ 
+(e)  
+No Duplication of Costs or Expenses.  It is the intent of the Parties that 
+any payments made by SanDisk under or pursuant to any Master Operative 
+Documents, FA Operative Documents, FP Operative Documents or Joint 
+Operative Documents shall not be duplicative and SanDisk shall in no event 
+be required to pay or contribute more than once for any service, product or 
+development work provided under such agreements, if such service, product 
+or development work is provided under more than one agreement.  In 
+addition, if SanDisk makes a direct payment for any service, product or 
+development work provided under any such agreement, the cost incurred by 
+Toshiba (from the Yokkaichi Facility), Flash Alliance, Flash Partners or 
+Flash Forward, as the case may be, in connection with the provision of such 
+service, product or development work shall not be included in the 
+applicable wafer price charged to SanDisk.
+ 
+(f)  
+Exclusivity.  The Yokkaichi Facility shall be Flash Forward’s exclusive 
+manufacturing source for output of Y5 NAND Flash Memory Products.  Flash 
+Forward may seek external manufacturing sources for output in excess of the 
+Yokkaichi Facility’s capacity upon agreement by the Management 
+Representatives.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+8.4  
+FF Purchase and Supply Agreements.  Flash Forward and each of the Parties 
+or their respective Affiliates will enter into substantially identical FF 
+Purchase and Supply Agreements providing for specific terms and conditions 
+for the purchase by the Parties of Y5 NAND Flash Memory Products from Flash 
+Forward, which shall be consistent with the following basic terms:
+ 
+(a)  
+Manufacturing.  Flash Forward shall manufacture or cause to be manufactured 
+Y5 NAND Flash Memory Products and, as applicable, Y5 R/W as contemplated by 
+Section ‎8.3.
+ 
+(b)  
+Purchase Commitment.  Except as contemplated in Section ‎6.3, each Party 
+shall (itself or through Affiliates) purchase one half (based on a measure 
+of Equivalent Lots out per week) of the total L/M of JV Y5 NAND Flash 
+Memory Products.  The foregoing purchase commitment of each Party shall not 
+be subject to reduction except as provided in Section ‎6.6(b).
+ 
+(c)  
+Sales Price for JV Y5 NAND Flash Memory Products Purchased by the Parties.  
+The sales price charged by Flash Forward to the Parties for wafers 
+manufactured at Y5 shall be the sum of:
+ 
+(i)  
+****
+ 
+(ii)  
+****.
+ 
+(d)  
+Other Cost Items.  Other items related to the manufacture of Y5 NAND Flash 
+Memory Products will be charged on a monthly basis from Flash Forward to 
+the Parties and will include the following:
+ 
+(i)  
+****;
+ 
+(ii)  
+****;
+ 
+(iii)  
+****;
+ 
+(iv)  
+****;
+ 
+(v)  
+****; and
+ 
+(vi)  
+****.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+8.5  
+Documentation of JV R/W Production.  In the event that R/W comes to be 
+produced in the Y5 Facility, the Parties shall negotiate in good faith with 
+respect to adopting modified documentation concerning such production, 
+including, in the event of production in the JV R/W Space, (a) a foundry 
+agreement indicating ordering procedures, prices, delivery, cost reporting 
+and other specific terms and conditions for the manufacture by Toshiba and 
+supply to Flash Forward of R/W, and (b) agreements governing the Parties’ 
+respective purchases of R/W from Flash Forward, taking into account the 
+differences between the production process of R/W and that of NAND Flash 
+Memory Products, among other factors.
+ 
+8.6  
+Other Matters.
+ 
+(a)  
+Forecasts/Production Planning.  Each Party will submit forecasts, **** as 
+further provided in the FF Purchase and Supply Agreements.  The Parties 
+shall use the system at the Yokkaichi Facility for such direct forecast 
+submission, provided that the cost necessary for **** shall be borne by 
+SanDisk.  Each Party shall be provided the same access to Y5 data relating 
+to Flash Forward data and such Party’s non-JV data, including data used for 
+output forecasts, as the Parties receive with respect to Y4 data relating 
+to Flash Alliance.  Flash Forward production planning will hold a monthly 
+production planning meeting with representatives of each Party, as further 
+provided in the FF Purchase and Supply Agreements.  At such meetings, the 
+Parties will agree on a production plan for the **** which plan will be 
+final (and the related forecast will be deemed to be covered by a binding 
+purchase order).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(b)  
+Production Control.  Flash Forward will provide each Party **** on a 
+non-discriminatory basis **** with respect to **** provided that the cost 
+necessary for making such system available to SanDisk will be borne by 
+SanDisk.  Each Party shall be provided the same access to Y5 data relating 
+to Flash Forward data and such Party’s non-JV data, including data used for 
+tool/process analysis, as the Parties receive with respect to Y4 data 
+relating to Flash Alliance.  Each Party (through the Y5 Management 
+Representatives) will have the right to discuss the production schedule, 
+planned wafer starts and ****.
+ 
+(c)  
+Operating Reports.  SanDisk will have full access to any management or 
+operation reports related to Flash Forward or Flash Forward’s business 
+through the Y5 Operating Committee (as defined in the FF Operating 
+Agreement).  Management and operating reports related to Flash Forward or 
+Flash Forward’s business as mutually agreed from time to time will be 
+simultaneously made available in Japanese and English to each Party.  Upon 
+request, Toshiba employees will explain such reports to SanDisk’s employees 
+and respond to questions from SanDisk’s employees, but Toshiba will not be 
+responsible for SanDisk’s failure to understand such reports.
+ 
+(d)  
+Insurance.  Toshiba shall maintain or arrange property insurance covering 
+assets owned or leased by Flash Forward, and business interruption 
+insurance in respect of the business of Flash Forward, the scope and 
+amounts of which shall be consistent with Toshiba’s practices at the 
+Yokkaichi Facility and as required by any lender.  This coverage shall 
+provide basically full replacement value of all Flash Forward owned and 
+leased equipment, subject to valuation as part of Toshiba’s annual 
+insurance policy renewal, and shall name Flash Forward as a beneficiary in 
+respect of assets owned or leased by it and Flash Forward’s employee 
+expenses covered by business interruption insurance.  On an annual basis, 
+or when requested by either Party, the Y5 Operating Committee shall discuss 
+and review the current insurance coverage and/or the need for any 
+additional property or business interruption insurance in respect of Flash 
+Forward’s assets or business.  Further, SanDisk reserves the right to seek 
+to arrange additional property or business interruption insurance for its 
+own account in respect of Flash Forward’s assets or business, and shall be 
+responsible for the maintenance of insurance with respect to equipment used 
+in the SanDisk R/W Space and any SanDisk Unilateral Expansion Space, and 
+Toshiba shall cooperate in good faith to provide such information and 
+access as is reasonably necessary for SanDisk to arrange such insurance.  
+If Toshiba makes a recovery from a third party (other than an insurer per 
+the above) in respect of both assets of Flash Forward and other assets, 
+then Toshiba shall allocate to Flash Forward a share of the net amount of 
+such recovery in proportion to the losses suffered by Flash Forward and 
+total losses suffered by Flash Forward and Toshiba.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+9.  
+Termination
+ 
+9.1  
+Termination.
+ 
+(a)  
+Termination of any Master Operative Document by either Party shall be done 
+only in good faith.
+ 
+(b)  
+This Agreement shall be terminated automatically upon the earlier of the 
+Transfer of all of a Party’s FF Interests to the other Party (or its 
+Affiliate) or upon completion of the dissolution and liquidation of Flash 
+Forward pursuant to Section 11 (Dissolution) of the FF Operating Agreement 
+(the date of such Transfer or dissolution and liquidation, the “FF 
+Termination Date”).
+ 
+(c)  
+Upon termination of this Agreement resulting from an event of dissolution 
+of Flash Forward due to the expiration of Flash Forward pursuant to Section 
+11.1(a) (Expiration) of the FF Operating Agreement:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(i)  
+the Parties shall further amend the Cross License Agreement, as then in 
+effect, to specify that each Party’s patents issued or issuing on patent 
+applications entitled to an effective filing date prior to the FF 
+Termination Date are licensed on a royalty-free basis for the duration of 
+such patents.  The scope of the licenses as amended pursuant to this 
+Section ‎9.1(c)(i) shall not be greater than the scope of those granted 
+under the Cross License Agreement, as in effect as of the FF Termination 
+Date.
+ 
+(ii)  
+Toshiba shall grant to SanDisk, effective upon the FF Termination Date, a 
+non-exclusive, non-transferable (except to Affiliates of SanDisk), 
+non-sub-licensable, fully paid up, royalty-free license to make, have made, 
+use, sell and have sold NAND Flash Memory Products anywhere in the world 
+utilizing the NAND technology transferred to and/or utilized at the 
+Yokkaichi Facility, and SanDisk shall have full access to all such know-how 
+at the Yokkaichi Facility which has been transferred to the Yokkaichi 
+Facility prior to the FF Termination Date.
+ 
+(d)  
+Upon a termination of this Agreement resulting from (i) an event of 
+dissolution of Flash Forward or (ii) one Party’s acquisition of all of the 
+other Party’s FF Interests (the acquirer thereof referred to hereinafter as 
+the “Acquiring Party” and the seller thereof referred to hereinafter as the 
+“Selling Party”) pursuant to Section 11.5 (Dissolution Upon Notice) of the 
+FF Operating Agreement:
+ 
+(i)  
+Toshiba or the Acquiring Party, as the case may be, will, upon the request, 
+prior to the FF Termination Date, of (A) SanDisk (such request to be made 
+at the time of its notice pursuant to Section 11.5 of the FF Operating 
+Agreement) in the case of the dissolution of Flash Forward or (B) the 
+Selling Party (each, a “Requesting Party”) as the case may be, continue to 
+manufacture NAND Flash Memory Products for the Requesting Party (not to 
+exceed the Requesting Party’s capacity allocation available from Flash 
+Forward under this Agreement as of the FF Termination Date (the “
+Termination Capacity”)) for a period of **** following the Termination Date 
+in the following ramp-down manner:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(A)  
+****
+ 
+(B)  
+****
+ 
+(C)  
+****
+ 
+(ii)  
+Toshiba and SanDisk and their respective Affiliates shall have a perpetual, 
+fully paid-up, royalty-free right to use technology previously transferred 
+to one another during the term of this Agreement.
+ 
+(iii)  
+The Parties shall further amend the Cross License Agreement to specify that 
+each Party’s patents issued or issuing on patent applications entitled to 
+an effective filing date prior to the FF Termination Date are licensed on a 
+royalty free basis for the duration of such patents.  The scope of the 
+licenses as amended pursuant to this Section ‎9.1(d)(iii) shall not be 
+greater than the scope of those granted under the Cross License Agreement, 
+as in effect as of FF Termination Date.
+ 
+(iv)  
+Upon termination of this Agreement resulting from an event of dissolution 
+of Flash Forward caused by Toshiba’s election to withdraw from Flash 
+Forward pursuant to the FF Operating Agreement, Toshiba hereby grants to 
+SanDisk, effective upon the FF Termination Date, a non-exclusive, 
+non-transferable (except to Affiliates of SanDisk), non-sub-licensable, 
+fully paid-up, royalty-free license to make, have made, use, sell and have 
+sold NAND Flash Memory Products anywhere in the world utilizing the NAND 
+technology transferred to and/or utilized at the Yokkaichi Facility, and 
+SanDisk shall have full access to all such know-how at the Yokkaichi 
+Facility which has been transferred to the Yokkaichi Facility prior to the 
+FF Termination Date.
+ 
+(e)  
+[Intentionally omitted.]
+ 
+(f)  
+Upon termination of this Agreement resulting from an event of dissolution 
+of Flash Forward or one Party’s acquisition of the other Party’s FF 
+Interests following a Deadlock (as defined in the FF Operating Agreement) 
+pursuant to Section 10.3 (Dispute Resolution; Deadlock) of the FF Operating 
+Agreement:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(i)  
+In the case of one Party’s acquisition of the other Party’s FF Interests 
+pursuant to Section 10.3(e) of the FF Operating Agreement, the Acquiring 
+Party shall continue to manufacture products for the other Party (not to 
+exceed the other Party’s Termination Capacity) for a period of **** 
+following the FF Termination Date in accordance with the following ramp 
+down manner:
+ 
+(A)  
+****
+ 
+(B)  
+****
+ 
+(C)  
+****
+ 
+(ii)  
+The Parties and their respective Affiliates shall have a perpetual, fully 
+paid-up, royalty-free right to use technology previously transferred to one 
+another during the term of this Agreement.
+ 
+(iii)  
+The Parties shall further amend the Cross License Agreement to specify 
+that, with respect only to Y5 NAND Flash Memory Products and any other 
+Licensed Products defined in the Cross License Agreement and manufactured 
+with 300mm wafers at any facility, each Party’s patents issued or issuing 
+on patent applications entitled to an effective filing date prior to the FF 
+Termination Date are licensed: (x) at the royalty rates specified in 
+Schedule ‎9.1(f) until March 31, 2018; and (y) thereafter, on a 
+royalty-free basis.  Both Parties shall negotiate in good faith for up to 
+**** upon request of either Party at any time during the **** after the FF 
+Termination Date to agree on royalty rates for patents filed by each Party 
+after the FF Termination Date.  The scope of the licenses as amended 
+pursuant to this Section shall not be greater than the scope of those 
+granted under the Cross License Agreement, as in effect as of the FF 
+Termination Date.
+ 
+(g)  
+Upon termination of this Agreement resulting from an event of dissolution 
+of Flash Forward or a Party’s acquisition of the other Party’s FF Interests 
+described in Section 11.3 (Dissolution Upon Event of Default) of the FF 
+Operating Agreement:
+ 
+(i)  
+The Parties shall further amend the Cross License Agreement to specify 
+that, with respect only to Y5 NAND Flash Memory Products and any other 
+Licensed Products defined in the Cross License Agreement and manufactured 
+with 300mm wafers at any facility, each Party’s patents issued or issuing 
+on patent applications entitled to an effective filing date prior to the FF 
+Termination Date are licensed at the royalty rates specified in Schedule ‎
+9.1(g) for **** after the FF Termination Date or until the end of ****, 
+whichever comes first, and thereafter such licenses shall be ****.
+ 
+(ii)  
+In the event that Toshiba or an Affiliate of Toshiba is the Defaulting 
+Party, Toshiba shall grant to SanDisk, effective upon such date of 
+termination, a non-exclusive, non-transferable (except to Affiliates of 
+SanDisk), non-sub-licensable, fully paid-up, royalty-free license to make, 
+have made, use, sell and have sold NAND Flash Memory Products anywhere in 
+the world utilizing the NAND technology transferred to and/or utilized at 
+the Yokkaichi Facility, and SanDisk shall have full access to all such 
+know-how at the Yokkaichi Facility which has been transferred to the 
+Yokkaichi Facility prior to the FF Termination Date.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(h)  
+Upon termination of this Agreement resulting from an event of dissolution 
+described in Section 11.1(f) (Bankruptcy Event) of the FF Operating 
+Agreement:
+ 
+(i)  
+If such termination is caused by a Bankruptcy Event in respect of Toshiba, 
+(x) the license granted to SanDisk under Toshiba Licensed Patents pursuant 
+to the Cross License Agreement shall continue on a royalty-free basis, and 
+(y) Toshiba shall grant to SanDisk, effective upon such date of 
+termination, a non-exclusive, non-transferable (except to Affiliates of 
+SanDisk), non-sub-licensable, fully paid-up, royalty-free license to make, 
+have made, use, sell and have sold NAND Flash Memory Products anywhere in 
+the world utilizing the NAND technology transferred to and/or utilized at 
+the Yokkaichi Facility, and SanDisk shall have full access to all such 
+know-how at the Yokkaichi Facility which has been transferred to the 
+Yokkaichi Facility prior to the Termination Date.
+ 
+(ii)  
+If such termination is caused by a Bankruptcy Event in respect of SanDisk, 
+the license granted to Toshiba under SanDisk Licensed Patents (as defined 
+in the Cross License Agreement) pursuant to the Cross License Amendment 
+shall continue on a royalty-free basis.
+ 
+(i)  
+Upon a termination of this Agreement resulting from a purchase and sale 
+transaction described in Section 11.6 (Financing Default) of the FF 
+Operating Agreement, there shall be no capacity ramp-down rights or 
+obligations and:
+ 
+(i)  
+If such termination is caused by a financing default in respect of Toshiba, 
+(x) the Parties shall further amend the Cross License Agreement to specify 
+that, with respect only to Y5 NAND Flash Memory Products and any other 
+Licensed Products defined in the Cross License Agreement and manufactured 
+with 300mm wafers at any facility, Toshiba’s patents issued or issuing on 
+patent applications entitled to an effective filing date prior to the FF 
+Termination Date are licensed to SanDisk on a royalty-free basis, and (y) 
+Toshiba shall grant to SanDisk, effective upon such date of termination, a 
+non-exclusive, non-transferable (except to Affiliates of SanDisk), 
+non-sub-licensable, fully paid-up, royalty-free license to make, have made, 
+use, sell and have sold NAND Flash Memory Products anywhere in the world 
+utilizing the NAND technology transferred to and/or utilized at the 
+Yokkaichi Facility, and SanDisk shall have full access to all such know-how 
+at the Yokkaichi Facility which has been transferred to the Yokkaichi 
+Facility prior to the Termination Date.
+ 
+(ii)  
+If such termination is caused by a financing default in respect of SanDisk, 
+the Parties shall further amend the Cross License Agreement to specify 
+that, with respect only to Y5 NAND Flash Memory Products and any other 
+Licensed Products defined in the Cross License Agreement and manufactured 
+with 300mm wafers at any facility, SanDisk’s patents issued or issuing on 
+patent applications entitled to an effective filing date prior to the FF 
+Termination Date are licensed to Toshiba on a royalty-free basis.
+ 
+(j)  
+Restructuring Costs.
+ 
+(i)  
+In the event this Agreement is terminated, the Parties will exercise best 
+efforts to plan such termination in advance with the goal of minimizing 
+related costs.  With respect to Toshiba employees and SanDisk employees 
+working at the Y5 Facility, (A) in the case of those that are Toshiba 
+employees, Toshiba will use its best efforts to retrain or relocate such 
+individuals to other Toshiba facilities, and (B) in the case of those that 
+are SanDisk employees, SanDisk will use its best efforts to retrain or 
+relocate such individuals to other SanDisk facilities, each to the maximum 
+extent possible.
+ 
+(ii)  
+The Parties agree that in the event of such a SanDisk exit from Flash 
+Forward, ****.
+ 
+(A)  
+****
+ 
+(B)  
+****
+ 
+(iii)  
+Upon any termination of this Agreement, the Parties shall meet and discuss 
+in good faith an estimate of the Restructuring Costs anticipated to be 
+incurred by Toshiba.  ****.
+ 
+(k)  
+Unless otherwise expressly provided herein, termination of this Agreement 
+shall not affect any surviving rights or obligations of either Party set 
+forth in the Joint Operative Documents.
+ 
+ 
+ 
+48
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+10.  
+Miscellaneous
+ 
+10.1  
+Survival.  Sections ‎1.3, ‎6.10(b)(vii), ‎6.11, ‎6.12(d), ‎9 and ‎10 and 
+Appendix A shall survive the termination or expiration of this Agreement.
+ 
+10.2  
+Entire Agreement.  This Agreement, together with the exhibits, schedules, 
+appendices and attachments thereto, constitutes the agreement of the 
+Parties to this Agreement with respect to the subject matter hereof and 
+supersedes all prior written and oral agreements and understandings with 
+respect to such subject matter.
+ 
+10.3  
+Governing Law.  This Agreement shall in all respects be governed by and 
+construed in accordance with the internal laws of the State of California 
+applicable to agreements made and to be performed entirely within such 
+state without regard to the conflict of laws principles of such state.  
+Each Master Operative Document shall be governed in accordance with its 
+governing law provision and, in the absence of any such provision, by the 
+first sentence of this Section ‎10.3.
+ 
+10.4  
+Assignment.  Except as separately agreed by the Parties in writing, neither 
+Party may transfer this Agreement or any of its rights hereunder (except 
+for any transfer to an Affiliate or in connection with a merger, 
+consolidation or sale of all or substantially all the assets or the 
+outstanding securities of such party, which transfer shall not require any 
+consent of the other party) without the prior written consent of the other 
+Party (which consent may be withheld in such other Party’s sole 
+discretion), and any such purported transfer without such consent shall be 
+void.
+ 
+10.5  
+****.  Notwithstanding the provisions of Section 2.9 of Appendix A, any 
+other provision of this Agreement, and any delay beyond the date of hereof 
+of execution by SanDisk Flash of this Agreement, Toshiba and SanDisk 
+acknowledge and agree that, by the execution and delivery hereof to Toshiba 
+and SanDisk Corporation: (a) this Agreement shall be effective as between 
+Toshiba and SanDisk Corporation as of the date hereof; and (b) upon the 
+execution and delivery to Toshiba and SanDisk Corporation of this Agreement 
+by ****, this Agreement shall be effective by and among Toshiba, SanDisk 
+Corporation and **** as of the date written by the signature of the 
+authorized signatory of ****, and **** shall enjoy and be subject to all 
+rights and obligations hereunder from and after such date.
+ 
+ 
+ 
+ 
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the 
+Parties as of the date first above written.
+ 
+ 
+ 
+  	TOSHIBA CORPORATION
+  	 By: 	 /s/ Kiyoshi Kobayashi
+  	 Name: 	 Kiyoshi Kobayashi
+  	 Title: 	 President and CEO
+  	  	 Semiconductor Company
+  	  	 Corporate Senior Vice President
+  	  	 
+  	 SANDISK CORPORATION
+  	 By: 	 /s/ Eli Harari
+  	 Name: 	 Eli Harari
+  	 Title: 	 Chairman and CEO
+  	  	 
+  	 
+  	 **** 	 
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+  	  	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Signature Page to Flash Forward Master Agreement]
+ 
+ 
+ 
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+APPENDICES
+
+ 
+Appendix A
+-
+Definitions, Rules of Construction and General Terms and Conditions
+
+ 
+EXHIBITS
+
+ 
+(FF Operative Documents)
+ 
+Exhibit A1
+-
+Capital Interests Purchase Agreement
+ 
+Exhibit A2
+-
+FF Operating Agreement
+ 
+Exhibit A3
+-
+FF Patent Indemnification Agreement
+ 
+Exhibit A4
+-
+Environmental Indemnification Agreement
+ 
+Exhibit A5
+-
+Lease Agreement
+ 
+Exhibit A6
+-
+Toshiba-SanDisk Flash Services Agreement
+ 
+Exhibit A7
+-
+Toshiba-Flash Forward Services Agreement
+ 
+Exhibit A8
+-
+SanDisk Flash-Flash Forward Services Agreement
+
+ 
+(Joint Operative Documents)
+ 
+Exhibit B
+-
+Amendment No. 5 to Cross License Agreement
+
+ 
+SCHEDULES
+
+ 
+Schedule 4.5
+-
+Litigation; Decrees
+ 
+Schedule 4.7
+-
+Patents and Proprietary Rights
+ 
+Schedule 4.9
+-
+Cross License Payment Obligations
+ 
+Schedule 6.2(a)
+-
+Technology Transfer Costs
+ 
+Schedule 7.4(a)
+-
+Fixed Manufacturing Costs and Variable Manufacturing Costs
+ 
+Schedule 9.1(f)
+-
+Royalty in case of Deadlock Termination
+ 
+Schedule 9.1(g)
+-
+Royalty in case of Event of Default Termination
+ 
+ 
+ 
+ 
+ 
+ 
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+ 
+APPENDIX A
+
+DEFINITIONS, RULES OF CONSTRUCTION AND
+DOCUMENTARY CONVENTIONS
+ 
+The following shall apply unless otherwise required by the main body of the 
+agreement into which this Appendix A is being incorporated (as used herein, 
+“this Agreement”):
+ 
+ 
+Definitions
+ 
+The following terms shall have the specified meanings:
+ 
+“3D Collaboration Agreement”, means the 3D Collaboration Agreement, dated 
+as of June 13, 2008, between SanDisk Corporation and Toshiba.
+ 
+“Accountants” means such firm of internationally recognized independent 
+certified public accountants for Flash Forward as is appointed pursuant to 
+the FF Operating Agreement from time to time.  Initially, the Accountants 
+shall be Shin Nihon & Company, an affiliate of Ernst & Young LLP.
+ 
+“Affiliate” of any Person means any other Person which directly or 
+indirectly controls, is controlled by or is under common control with, such 
+Person; provided, however, that the term Affiliate, (a) when used in 
+relation to Flash Forward or any Subsidiary of Flash Forward, shall not 
+include SanDisk Corporation or Toshiba or any Affiliate of either of them, 
+and (b) when used in relation to SanDisk Corporation or Toshiba or any 
+Affiliate of either of them, shall not include Flash Forward or any 
+Subsidiary of Flash Forward.
+ 
+“Articles” means the Articles of Incorporation of Flash Forward.
+ 
+“Asahi Area” means Toshiba’s facilities in Asahi, Japan.
+ 
+“Bankruptcy Event” means, with respect to any Person, the occurrence or 
+existence of any of the following events or conditions: such Person (1) is 
+dissolved; (2) becomes insolvent or fails or is unable or admits in writing 
+its inability generally to pay its debts as they become due; (3) makes a 
+general assignment, arrangement or composition with or for the benefit of 
+its creditors; (4) institutes or has instituted against it a proceeding 
+seeking a judgment of insolvency or bankruptcy or any other relief under 
+any bankruptcy or insolvency law or other similar law affecting creditors’ 
+rights, or a petition is presented for its winding up or liquidation and, 
+in the case of any such proceeding or petition instituted or presented 
+against it, such proceeding or petition (A) results in a judgment of 
+insolvency or bankruptcy or the entry of an order for relief or the making 
+of an order for its winding up or liquidation or (B) is not dismissed, 
+discharged, stayed or restrained in each case within 60 days of the 
+institution or presentation thereof; (5) has a resolution passed by its 
+governing body for its winding-up or liquidation; (6) seeks or becomes 
+subject to the appointment of an administrator, receiver, trustee, 
+custodian or other similar official for it or for all or substantially all 
+its assets (regardless of how brief such appointment may be, or whether any 
+obligations are promptly assumed by another entity or whether any other 
+event described in this clause (6) has occurred and is continuing); (7) 
+experiences any event which, under the applicable laws of any jurisdiction, 
+has an analogous effect to any of the events specified in clauses (1) 
+through (6) above; or (8) takes any action in furtherance of, or indicating 
+its consent to, approval of, or acquiescence in, any of the foregoing acts.
+ 
+“Board of Executive Officers” has the meaning set forth in Section 5.1(a) 
+of the FF Operating Agreement.
+ 
+ 
+ 
+ 
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“Burdensome Condition” means, with respect to any proposed transaction, any 
+action taken, or credibly threatened, by any Governmental Authority or 
+(except if such action or threat is frivolous) other Person to challenge 
+the legality of such proposed transaction, including (i) the pendency of a 
+governmental investigation (formal or informal) in contemplation of the 
+possible actions described in clauses (ii)(A), (ii)(B) or (ii)(C) below, 
+(ii) the institution of a suit or the written threat thereof (A) seeking to 
+restrain, enjoin or prohibit the consummation of such transaction or 
+material part thereof, to place any material condition or limitation upon 
+such consummation or to invalidate, suspend or require modification of any 
+material provision of any Operative Document, (B) challenging the 
+acquisition by either Toshiba or SanDisk Flash of its Interests or (C) 
+seeking to impose limitations on the ability of either Toshiba or SanDisk 
+Flash effectively to exercise full rights as Members of Flash Forward, 
+including the right to act on all matters properly presented to the parties 
+pursuant to the FF Operating Agreement, or (iii) an order by a court of 
+competent jurisdiction having any of the consequences described in (ii)(A), 
+(ii)(B) or (ii)(C) above, or placing any conditions or limitations upon 
+such consummation that are unreasonably burdensome in the reasonable 
+judgment of the applicable Person.
+ 
+“Business Day” means any day (other than a day which is a Saturday, Sunday 
+or legal holiday in the State of California or Japan) on which commercial 
+banks are open for business in the State of California or Tokyo, Japan.
+ 
+“Business Plan” means the Initial Business Plan and each subsequent 
+business plan, including budgets and projections for Flash Forward for each 
+relevant period, approved in accordance with Section 3.4(c) of the FF 
+Operating Agreement and complying with Section 3.4(b) of the FF Operating 
+Agreement.
+ 
+“Capital Contribution” means the capital contribution made by or allocated 
+to a Party by virtue of its ownership of Interests as indicated on 
+Schedule 6.1 to the FF Operating Agreement.
+ 
+“Change of Control” with respect to a Person means a transaction or series 
+of related transactions as a result of which (i) more than 50% of the 
+beneficial ownership of the outstanding common stock or other ownership 
+interests of such Person (representing the right to vote for the board of 
+directors or similar organization of such Person) is acquired by another 
+Person or affiliated group of Persons, whether by reason of stock 
+acquisition, merger, consolidation, reorganization or otherwise or (ii) the 
+sale or disposition of all or substantially all of a Person’s assets to 
+another Person or affiliated group of Persons.
+ 
+“Closing” means the closing of the transactions described in Sections 2.1 
+of the Master Agreement.
+ 
+“Closing Date” means the date of the Closing.
+ 
+“Code” means the Internal Revenue Code of 1986, as amended from time to 
+time, or any successor statute.  Any reference to a particular provision of 
+the Code or a treasury regulation promulgated pursuant to the Code means, 
+where appropriate, the corresponding provision of any successor statute or 
+regulation.
+ 
+“Common R&D Agreement” means the Fourth Amended and Restated Common R&D and 
+Participation Agreement, dated as of the Effective Date, between Toshiba 
+and SanDisk Corporation.
+ 
+“Companies Act” means the Companies Act (Kaisha-ho), Law No. 86 of July 26, 
+2005, as may be amended hereafter and in effect as at any time.
+ 
+“Control” (including its correlative meanings “controlled by” and “under 
+common control with”) means possession, directly or indirectly, of power to 
+direct or cause the direction of management or policies (whether through 
+ownership of securities or partnership or other ownership interests, by 
+contract or otherwise).
+ 
+“Cross License Agreement” has the meaning given in the Master Agreement.
+ 
+“Effective Date” means July 13, 2010.
+ 
+“Environmental Indemnification Agreement” means the Flash Forward Mutual 
+Contribution and Environmental Indemnification Agreement, dated as of July 
+13, 2010, between Toshiba and SanDisk Flash.
+ 
+ 
+2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“Event of Default” means, with respect to a Party, the occurrence or 
+existence of any of the following events or conditions which remains 
+uncured for sixty (60) days following receipt by such Party of written 
+notice thereof:
+ 
+    (a)           a Bankruptcy Event in respect of such Party or any Person
+    of which such Party is a Subsidiary; or
+ 
+    (b)           the breach by such Party of its covenant in Section 9.1
+    of the FF Operating Agreement or the breach by such Party of its
+    covenant in Section 5.1(b) of the Master Agreement, provided that a
+    Change of Control of a Party shall not be deemed an Event of Default.
+ 
+“FA Master Agreement” means the Master Agreement among Toshiba, SanDisk and 
+SanDisk Ireland dated as of July 7, 2006.
+ 
+“FA Operative Documents” means the Flash Alliance Master Agreement, dated 
+as of July 7, 2006, the Share Purchase Agreement between Toshiba and 
+SanDisk Ireland, dated as of July 7, 2006, the Operating Agreement between 
+Toshiba and SanDisk Ireland, dated as of July 7, 2006, the Articles of 
+Incorporation of Flash Alliance, the Foundry Agreement between Flash 
+Alliance and Toshiba, dated as of July 7, 2006, the Purchase and Supply 
+Agreement between Flash Alliance and ****, dated as of July 7, 2006, the 
+Purchase and Supply Agreement between Flash Alliance and Toshiba, dated as 
+of July 7, 2006, the Patent Indemnification Agreement among SanDisk 
+Corporation, **** and Toshiba, dated as of July 7, 2006, the Mutual 
+Contribution and Environmental Indemnification Agreement between SanDisk 
+Ireland and Toshiba, dated as of July 7, 2006, the Lease Agreement between 
+Flash Alliance and Toshiba, as owner of the Yokkaichi Facility, dated as of 
+July 7, 2006, the Services Agreement between SanDisk Ireland and Toshiba, 
+dated as of July 7, 2006, the Services Agreement between Flash Alliance and 
+Toshiba, as owner of the Yokkaichi Facility, dated as July 7, 2006, and the 
+Services Agreement between Flash Alliance and SanDisk Ireland, dated as of 
+July 7, 2006, in each case as amended by the JVRA.
+ 
+“FF Foundry Agreement” means the Foundry Agreement, dated as of the 
+Effective Date, between Flash Forward and Yokkaichi.
+ 
+“FF Operating Agreement” means the Operating Agreement, dated as of the 
+Effective Date, between Toshiba and SanDisk Flash.
+ 
+“FF Operative Documents” has the meaning set forth in the Master Agreement.
+ 
+“Fiscal Quarter” means, unless changed by the Board of Executive Officers, 
+a calendar quarter.
+ 
+“Fiscal Year” means the one year period commencing on April 1 of each year.
+ 
+“Flash Alliance” means Flash Alliance, Ltd., a Japanese special limited 
+liability company (tokurei yugen kaisha).
+ 
+“Flash Forward” has the meaning set forth in the Master Agreement.
+ 
+“Flash Partners” means Flash Partners, Ltd., a Japanese special limited 
+liability company (tokurei yugen kaisha).
+ 
+“FP Master Agreement” means the Master Agreement among Toshiba, SanDisk and 
+SanDisk International dated as of September 10, 2004.
+ 
+“FP Operative Documents” means the Flash Partners Master Agreement, dated 
+as of September 10, 2004, the Share Purchase Agreement between Toshiba and 
+SanDisk Manufacturing, dated as of September 10, 2004, the Operating 
+Agreement between Toshiba and SanDisk International, dated as of September 
+10, 2004, the Foundry Agreement between Flash Partners and Toshiba, dated 
+as of September 10, 2004, the Purchase and Supply Agreement between Flash 
+Partners and SanDisk International, dated as of September 10, 2004, the 
+Purchase and Supply Agreement between Flash Partners and Toshiba, dated as 
+of September 10, 2004, the Patent Indemnification Agreement between SanDisk 
+Corporation and Toshiba, dated as of September 10, 2004, the Mutual 
+Contribution and Environmental Indemnification Agreement between SanDisk 
+Corporation and Toshiba, dated as of September 10, 2004, and the Lease 
+Agreement between Flash Partners and Toshiba, as owner of the Yokkaichi 
+Facility, dated as of September 10, 2004, in each case as amended by the 
+JVRA.
+ 
+“FVC Japan” means FlashVision Ltd., a Japanese special limited liability 
+company (tokurei yugen kaisha).
+ 
+“FVC Japan Equipment” means any equipment which is or will, from time to 
+time, be owned or leased by FVC Japan.
+ 
+3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“Governmental Action” means any authorization, consent, approval, order, 
+waiver, exception, variance, franchise, permission, permit or license of, 
+or any registration, filing or declaration with, by or in respect of, any 
+Governmental Authority.
+ 
+“Governmental Authority” means any United States or Japanese federal, 
+state, local or other political subdivision or foreign governmental Person, 
+authority, agency, court, regulatory commission or other governmental body, 
+including the Internal Revenue Service and the Secretary of State of any 
+State.
+ 
+“Governmental Rule” means any statute, law, treaty, rule, code, ordinance, 
+regulation, license, permit, certificate or order of any Governmental 
+Authority or any judgment, decree, injunction, writ, order or like action 
+of any court or other judicial or arbitration tribunal.
+ 
+“Indebtedness” of any Person means, without duplication:
+ 
+    (a)           all obligations (whether present or future, contingent or
+    otherwise, as principal or surety or otherwise) of such Person in
+    respect of borrowed money or in respect of deposits or advances of any
+    kind;
+ 
+    (b)           all obligations of such Person evidenced by bonds,
+    debentures, notes or similar instruments;
+ 
+    (c)           all obligations of such Person upon which interest
+    charges are customarily paid, except for trade payables;
+ 
+    (d)           all obligations of such Person under conditional sale or
+    other title retention agreements relating to property or assets
+    purchased by such Person;
+ 
+    (e)           all obligations of such Person issued or assumed as the
+    deferred purchase price of property or services (other than with
+    respect to the purchase of personal property under standard commercial
+    terms);
+ 
+    (f)           all Indebtedness of others secured by (or for which the
+    holder of such Indebtedness has an existing right, contingent or
+    otherwise, to be secured by) any Lien on property owned or acquired by
+    such Person, whether or not the obligations secured thereby have been
+    assumed;
+ 
+    (g)           all guarantees by such Person of Indebtedness of others;
+ 
+    (h)           all obligations of such Person to pay rent or other
+    amounts under any lease of (or other arrangement conveying the right to
+    use) real or personal property (or a combination thereof), which
+    obligations would be required to be classified and accounted for as
+    capital leases on a balance sheet of such Person prepared in accordance
+    with Japanese GAAP or US GAAP, as applicable;
+ 
+    (i)           all obligations of such Person (whether absolute or
+    contingent) in respect of interest rate swap or protection agreements,
+    foreign currency exchange agreements or other interest or exchange rate
+    hedging arrangements; and
+ 
+    (j)           all obligations of such Person as an account party in
+    respect of letters of credit and bankers’ acceptances.
+ 
+The Indebtedness of any Person shall include the Indebtedness of any 
+partnership in which such Person is a general partner.
+ 
+“Indemnified Parties” means the Party being indemnified’s officers, 
+directors, employees, agents, contractors, subcontractors, and transferees 
+permitted pursuant to the FF Operating Agreement and the Master Agreement.
+ 
+“Interests” means the issued and outstanding interests (mochibun) in Flash 
+Forward.
+ 
+“Japanese GAAP” means generally accepted accounting principles in Japan as 
+in effect from time to time, consistently applied.
+ 
+“Japanese GAAS” means generally accepted auditing standards in Japan as in 
+effect from time to time.
+ 
+“JMDY Agreement” means the Amended and Restated Joint Memory Development 
+Yokkaichi Agreement, dated as of the Effective Date, between Toshiba and 
+SanDisk Corporation.
+ 
+“JV Y5 NAND Flash Memory Products” has the meaning given in Section 
+3.2(a)(ii) of the Master Agreement.
+ 
+ 
+4
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“JVRA” means the Joint Venture Restructure Agreement, dated as of January 
+29, 2009, among SanDisk Corporation and certain of its affiliates, Toshiba 
+Corporation, Flash Alliance and Flash Partners, dated as of January 29, 
+2009.
+ 
+“License Agreement” means the Patent Cross License Agreement, dated July 
+30, 1997, by and between Toshiba and SanDisk, as amended.
+ 
+“Lien” means, with respect to any asset, (a) any mortgage, deed of trust, 
+lien, pledge, encumbrance, charge or security interest in or on such asset, 
+(b) the interest of a vendor or a lessor under any conditional sale 
+agreement, capital lease or title retention agreement relating to such 
+asset and (c) in the case of securities, any purchase option, call or 
+similar right with respect to such securities.
+ 
+“L/M” means Equivalent Lots (as defined in the Master Agreement) per month.
+ 
+“Management Representative” has the meaning given in the Master Agreement.
+ 
+“Master Agreement” means the Flash Forward Master Agreement, dated as of 
+July 13, 2010, by and among Toshiba, SanDisk and SanDisk Flash.
+ 
+“Material” means, with respect to any Person, an event, change or effect 
+which is or, insofar as reasonably can be foreseen, will be material to the 
+condition (financial or otherwise), properties, assets, liabilities, 
+capitalization, licenses, businesses, operations or prospects of such 
+Person and, in the case of Flash Forward, the ability of Flash Forward to 
+carry out its then-current Business Plan.
+ 
+“Member” means the holder of any Interests.
+ 
+“NAND Flash Memory Products” has the meaning given in Section 3.2 of the 
+Master Agreement.
+ 
+“Net Book Value” means, with respect to any Person, the total assets of 
+such Person less the total liabilities of such Person, in each case as 
+determined in accordance with Japanese GAAP or US GAAP, as applicable.
+ 
+“Patent Indemnification Agreement” means the Patent Indemnification 
+Agreement dated as of July 13, 2010, among Toshiba, SanDisk Corporation and 
+SanDisk Flash.
+ 
+“Percentage” means, with respect to any Member (as defined in the FF 
+Operating Agreement), the percentage of such Member’s ownership interest in 
+Flash Forward.  For the avoidance of doubt, as of the date hereof, 
+Percentage means with respect to Toshiba or its Affiliate, 50.1%, and with 
+respect to SanDisk Flash or its Affiliate, 49.9%; provided, however, if 
+either Member transfers all of its Interests to any Affiliate in accordance 
+with the FF Operating Agreement, its Percentage shall be 0% and such 
+Affiliate transferee shall receive the entire Percentage of the 
+transferring Member.
+ 
+“Permitted Liens” means (a) the rights and interests of Flash Forward, 
+either Party or any Affiliate of any such Person as provided in the FF 
+Operative Documents, and (b) Liens for Taxes which are not due and payable 
+or which may after contest be paid without penalty or which are being 
+contested in good faith and by appropriate proceedings and so long as such 
+proceedings shall not involve any substantial risk of the sale, forfeiture 
+or loss of any part of any relevant asset or title thereto or any interest 
+therein.
+ 
+“Person” means any individual, firm, company, corporation, limited 
+liability company, unincorporated association, partnership, trust, joint 
+venture, Governmental Authority or other entity, and shall include any 
+successor (by merger or otherwise) of such entity.
+ 
+“Product Development Agreement” means the Amended and Restated Product 
+Development Agreement, dated as of the Effective Date, between Toshiba and 
+SanDisk Corporation.
+ 
+“SanDisk Corporation” means SanDisk Corporation, a Delaware corporation.
+ 
+“SanDisk Flash” means SanDisk Flash B.V., a company organized under the 
+laws of The Netherlands.
+ 
+“SanDisk Ireland” means SanDisk (Ireland) Limited, a company organized 
+under the laws of the Republic of Ireland.
+ 
+ 
+5
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“SanDisk International” means SanDisk (Cayman) Limited, a company organized 
+under the laws of the Cayman Islands.
+ 
+“SanDisk Purchase and Supply Agreement” means the Purchase and Supply 
+Agreement, dated as of the Effective Date, between SanDisk Flash and Flash 
+Forward.
+ 
+“Subsidiary” of any Person means any other Person:
+ 
+    (i)           more than 50% of whose outstanding shares or securities
+    (representing the right to vote for the election of directors or other
+    managing authority) are, or
+ 
+    (ii)           which does not have outstanding shares or securities (as
+    may be the case in a partnership, joint venture or unincorporated
+    association), but more than 50% of whose ownership interest
+    representing the right to make decisions (equivalent to those generally
+    reserved for the board of directors of a corporation) for such other
+    Person is,
+ 
+now or hereafter owned or controlled, directly or indirectly, by such 
+Person, but such other Person shall be deemed to be a Subsidiary only so 
+long as such ownership or control exists; provided, however, that the term 
+Subsidiary as used in any FF Operative Document, when used in relation to a 
+Party or any of its Affiliates, shall not include Flash Forward or any of 
+its Subsidiaries.
+ 
+“Tax” or “Taxes” means all United States or Japanese Federal, state, local 
+or other political subdivision and foreign taxes, assessments and other 
+governmental charges, including: (a) taxes based upon or measured by gross 
+receipts, income, profits, sales, use or occupation and (b) value added, ad 
+valorem, transfer, franchise, withholding, payroll, employment, excise or 
+property taxes, together with (c) all interest, penalties and additions 
+imposed with respect to such amounts and (d) any obligations under any 
+agreements or arrangements with any other Person with respect to such 
+amounts.
+ 
+“Termination Date” means the date on which one Member, itself or together 
+with its Affiliates, holds one hundred percent (100%) of the interests of 
+Flash Forward or the date Flash Forward is dissolved in accordance with 
+applicable law.
+ 
+“Toshiba” means Toshiba Corporation, a Japanese corporation.
+ 
+“Toshiba Capacity” has the meaning set forth in the JVRA.
+ 
+“Toshiba Licensed Patent” has the meaning given in the Cross License 
+Agreement.
+ 
+“Toshiba- SanDisk Flash Services Agreement” means the Services Agreement, 
+dated as of the Effective Date, between SanDisk Flash and Toshiba.
+ 
+“Toshiba Purchase and Supply Agreement” means the Purchase and Supply 
+Agreement, dated as of the Effective Date, between Toshiba and Flash 
+Forward.
+ 
+“Transfer” means any transfer, sale, assignment, conveyance, creation of 
+any Lien (other than a Permitted Lien), or other disposal or delivery, 
+including by dividend or distribution, whether made directly or indirectly, 
+voluntarily or involuntarily, absolutely or conditionally, or by operation 
+of law or otherwise.
+ 
+“Unique Activities” means production activities of Flash Forward at the 
+request of either Member to (i) implement changes in the manufacturing 
+processes to be employed for Products to be manufactured for such Member 
+(or its Affiliates) that are not agreed to by the other Member, (ii) 
+commence manufacturing other Products for the requesting Member (or its 
+Affiliates) that the other Member does not desire to have manufactured for 
+it and which require a change in manufacturing processes or in the 
+utilization of the Facility or production resources, or (iii) implement any 
+other change in its operations in order to manufacture Products 
+specifically for the requesting Member (or its Affiliates).
+ 
+“US GAAP” means generally accepted accounting principles in the United 
+States as in effect from time to time, consistently applied.
+ 
+“US GAAS” means generally accepted auditing standards in the United States 
+as in effect from time to time.
+ 
+“Y3 Facility” means the facility at which Y3 NAND Flash Memory Products are 
+manufactured for Flash Partners.
+ 
+ 
+6
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+“Y3 NAND Flash Memory Products” has the meaning given in Section 
+3.2(a)(iii) of the Master Agreement.
+ 
+“Y4 Facility” means the facility at which Y4 NAND Flash Memory Products are 
+manufactured for Flash Alliance.
+ 
+“Y4 NAND Flash Memory Products” has the meaning given in Section 
+3.2(a)(iii) of the Master Agreement.
+ 
+“Y5 Facility” has the meaning given in the Master Agreement.
+ 
+“Y5 NAND Flash Memory Products” has the meaning given in Section 3.2(a)(ii) 
+of the Master Agreement.
+ 
+“Yokkaichi Facility” means Toshiba’s facilities in Yokkaichi Japan, 
+including the FVC Japan Equipment, the Y3 Facility, the Y4 Facility, the Y5 
+Facility and Toshiba’s Asahi facility.
+ 
+
+ 
+Rules of Construction and Documentary Conventions
+ 
+2.1 Amendment and Waiver.  No amendment to or waiver of this Agreement 
+shall be effective unless it shall be in writing, identify with specificity 
+the provisions of this Agreement that are thereby amended or waived and be 
+signed by each party hereto.  Any failure of a party to comply with any 
+obligation, covenant, agreement or condition contained in this Agreement 
+may be waived by the party entitled to the benefits thereof only by a 
+written instrument duly executed and delivered by the party granting such 
+waiver, but such waiver or failure to insist upon strict compliance with 
+such obligation, covenant, agreement or condition shall not operate as a 
+waiver of, or estoppel with respect to, any subsequent or other failure of 
+compliance.
+ 
+2.2 Severability.  If any provision of this Agreement or the application of 
+any such provision is invalid, illegal or unenforceable in any 
+jurisdiction, such invalidity, illegality or unenforceability shall not 
+affect any other provision of this Agreement (except as may be expressly 
+provided in this Agreement) or invalidate or render unenforceable such 
+provision in any other jurisdiction.  To the extent permitted by applicable 
+law, the parties hereto waive any provision of law that renders any 
+provision of this Agreement invalid, illegal or unenforceable in any 
+respect.  The parties hereto shall, to the extent lawful and practicable, 
+use their reasonable efforts to enter into arrangements to reinstate the 
+intended benefits, net of the intended burdens, of any such provision held 
+invalid, illegal or unenforceable.  If the intent of the Parties for 
+entering into the FF Operative Documents, considered as a single 
+transaction, cannot be preserved, the FF Operative Documents shall either 
+be renegotiated or terminated by mutual agreement of the Parties.
+ 
+2.3 Assignment.  Except as may otherwise be specifically provided in this 
+Agreement, no party hereto shall Transfer this Agreement or any of its 
+rights hereunder (except for any Transfer to an Affiliate or in connection 
+with a merger, consolidation or sale of all or substantially all the assets 
+or the outstanding securities of such party, which Transfer shall not 
+require any consent of the other parties) without the prior written consent 
+of each other party hereto (which consent may be withheld in each such 
+other party’s sole discretion), and any such purported Transfer without 
+such consent shall be void.
+ 
+2.4 Remedies.
+ 
+(a) Except as may otherwise be specifically provided in this Agreement, the 
+rights and remedies of the parties under this Agreement are cumulative and 
+are not exclusive of any rights or remedies which the parties hereto would 
+otherwise have.
+ 
+(b) Equitable relief, including the remedies of specific performance and 
+injunction, shall be available with respect to any actual or attempted 
+breach of this Agreement; provided, however, in the absence of exigent 
+circumstances, the parties shall refrain from commencing any lawsuit or 
+seeking judicial relief in connection with such actual or attempted breach 
+that is contemplated to be addressed by the dispute resolution process set 
+forth in the Master Agreement and in Section 2.5 of this Appendix A until 
+the parties have attempted to resolve the subject dispute by following said 
+dispute resolution process to its conclusion.
+ 
+(c) If the due date for any amount required to be paid under this Agreement 
+is not a Business Day, such amount shall be payable on the next succeeding 
+Business Day; provided that if payment cannot be made due to the existence 
+of a banking crisis or international payment embargo, such amount may be 
+paid within the following 30 days.  If due to the occurrence of an act of 
+God, any party is prevented from providing training, technical assistance 
+or other similar support required to be provided to Flash Forward pursuant 
+to this Agreement, such party shall have an additional 30 day period to 
+make alternative arrangements to provide such support.
+ 
+ 
+7
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+2.5 Arbitration. Any dispute concerning this Agreement shall be referred to 
+the Management Representatives and handled by it in accordance with the 
+Master Agreement.  If the Management Representatives cannot resolve such 
+dispute in accordance with the terms of the Master Agreement, then such 
+dispute will be settled by binding arbitration in San Francisco, 
+California.  The dispute shall be heard by a panel of three arbitrators 
+pursuant to the rules of the International Chamber of Commerce.  The awards 
+of such arbitration shall be final and binding upon the parties thereto.  
+Each party will bear its own fees and expenses associated with the 
+arbitration.  Filing fees and arbitrator fees charged by the ICC shall be 
+borne equally by the Parties.
+ 
+2.6 Damages Limited.  IN THE ABSENCE OF ACTUAL FRAUD, IN NO EVENT SHALL ANY 
+PARTY BE LIABLE TO OR BE REQUIRED TO INDEMNIFY ANY OTHER PARTY OR ANY OF 
+THEIR RESPECTIVE AFFILIATES FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL OR 
+INDIRECT DAMAGE OF ANY KIND, (INCLUDING WITHOUT LIMITATION LOSS OF PROFIT 
+OR DATA), WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+ 
+2.7 Parties in Interest; Limitation on Rights of Others.  This Agreement 
+shall be binding upon and inure to the benefit of the parties hereto and 
+their permitted successors and assigns.  Nothing in this Agreement, whether 
+express or implied, shall give or be construed to give any Person (other 
+than the parties hereto and their permitted successors and assigns) any 
+legal or equitable right, remedy or claim under or in respect of this 
+Agreement, unless such Person is expressly stated in such agreement or 
+instrument to be entitled to any such right, remedy or claim.
+ 
+2.8 Table of Contents; Headings.  The Table of Contents and Article and 
+Section headings of this Agreement are for convenience of reference only 
+and shall not affect the construction of or be taken into consideration in 
+interpreting any such agreement or instrument.
+ 
+2.9 Counterparts; Effectiveness.  This Agreement may be executed by the 
+parties hereto in separate counterparts, each of which when so executed and 
+delivered shall be an original, but all of which counterparts shall 
+together constitute but one and the same contract.  This Agreement shall 
+not become effective until one or more counterparts have been executed by 
+each party hereto and delivered to the other parties hereto.
+ 
+2.10 Entire Agreement.  This Agreement, together with each other FF 
+Operative Documents and the Exhibits, Schedules, Appendices and Attachments 
+hereto and thereto, when completed, constitute the agreement of the parties 
+to the FF Operative Documents with respect to the subject matter thereof 
+and supersede all prior written and oral agreements and understandings with 
+respect to such subject matter.
+ 
+2.11 Construction.  References in this Agreement to any gender include 
+references to all genders, and references in this Agreement to the singular 
+include references to the plural and vice versa.  Unless the context 
+otherwise requires, the term “party” when used in this Agreement means a 
+party to this Agreement.  References in this Agreement to a party or other 
+Person include their respective permitted successors and assigns.  The 
+words “include”, “includes” and “including”, when used in this Agreement, 
+shall be deemed to be followed by the phrase “without limitation”.  Unless 
+the context otherwise requires, references used in this Agreement to 
+Articles, Sections, Exhibits, Schedules, Appendices and Attachments shall 
+be deemed references to Articles and Sections of, and Exhibits, Schedules, 
+Appendices and Attachments to, this Agreement.  Unless the context 
+otherwise requires, the words “hereof”, “hereby” and “herein” and words of 
+similar meaning when used in this Agreement refer to this Agreement in its 
+entirety and not to any particular Article, Section or provision of this 
+Agreement.  Any reference to a FF Operative Document shall include such FF 
+Operative Document as amended or supplemented from time to time in 
+accordance with the provisions thereof.
+ 
+2.12 Official Language.                                The official 
+language of this Agreement is the English language only, which language 
+shall be controlling in all respects, and all versions of this Agreement in 
+any other language shall not be binding on the parties hereto or nor shall 
+such other versions be admissible in any legal proceeding, including 
+arbitration, brought under this Agreement.  All communications and notices 
+to be made or given pursuant to this Agreement shall be in the English 
+language.
+ 
+2.13 Notices.  All notices and other communications to be given to any 
+party under this Agreement shall be in writing and any notice shall be 
+deemed received when delivered by hand, courier or overnight delivery 
+service, or by facsimile (if confirmed within two Business Days by delivery 
+of a copy by hand, courier or overnight delivery service), or five days 
+after being mailed by certified or registered mail, return receipt 
+requested, with appropriate postage prepaid and shall be directed to the 
+address of such party specified below (or at such other address as such 
+party shall designate by like notice):
+ 
+ 
+8
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+  (a) If to SanDisk or SanDisk Flash:
+
+  SanDisk Corporation
+  601 McCarthy Boulevard
+  Milpitas, CA 95035 USA
+  Telephone: (408) 542-0555
+  Facsimile: (408) 542-0600
+  Attention: President and CEO
+ 
+  With a copy to:
+
+  SanDisk Corporation
+  601 McCarthy Boulevard
+  Milpitas, CA 95035 USA
+  Telephone: (408) 548-0208
+  Facsimile: (408) 548-0385
+  Attention: Vice President and General Counsel
+
+  (b) If to Toshiba:
+
+  Toshiba Corporation
+  Semiconductor Company
+  1-1 Shibaura 1-Chome
+  Minato-Ku, Tokyo 105-8001 Japan
+  Telephone: 011 81 3 3457 3362
+  Facsimile: 011 81 3 5444 9339
+  Attention: Memory Division, Vice President
+
+  With a copy to:
+
+  Toshiba Corporation
+  Semiconductor Company
+  Legal Affairs Division
+  1-1 Shibaura 1-Chome
+  Minato-Ku, Tokyo 105-8001 Japan
+  Telephone: 011-81-3-3457-3452
+  Facsimile: 011-81-3-5444-9342
+  Attention: General Manager
+
+  (c) If to Flash Forward:
+
+  Flash Forward, Ltd.
+  800 Yamanoisshikicho,
+  Yokkaichi, Mie, Japan
+  Attention: President
+
+  With a copy to:
+
+  SanDisk Corporation
+  601 McCarthy Boulevard
+  Milpitas, CA 95035 USA
+  Telephone: (408) 542-0510
+  Facsimile: (408) 542-0640
+  Attention: Chief Operating Officer
+   
+ 
+9
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+
+  And
+
+  Toshiba Corporation
+  Semiconductor Company
+  Legal Affairs Division
+  1-1 Shibaura 1-Chome
+  Minato-Ku, Tokyo 105-8001 Japan
+  Telephone: 011-81-3-3457-3452
+  Facsimile: 011-81-3-5444-9342
+  Attention: General Manager
+
+
+ 
+2.14 Non Disclosure Obligations.  Each party hereto agrees as follows:
+ 
+(a) In this Agreement, “Confidential Information” means information 
+disclosed in written, recorded, graphical or other tangible from which is 
+marked as “Confidential”, “Proprietary” or in some other manner to indicate 
+its confidential nature, and/or orally or in other intangible form, 
+identified as confidential at the time of disclosure and confirmed as 
+confidential information in writing within thirty (30) days of its initial 
+disclosure.
+ 
+(b) For a period of **** from the date of receipt of the Confidential 
+Information disclosed by one Party (the “Disclosing Party”) hereunder, the 
+receiving Party (the “Receiving Party”) agrees to safeguard the 
+Confidential Information and to keep it in confidence and to use reasonable 
+efforts, consistent with those used in the protection of its own 
+confidential information, to prevent its disclosure to third parties, 
+except that the Receiving Party shall not be obligated hereunder in any 
+respect to information which:
+ 
+(i)  
+is already known to the Receiving Party at the time of its receipt from the 
+Disclosing Party as reasonably evidenced by its written records; or
+ 
+(ii)  
+is or becomes publicly available without breach of this Agreement by the 
+Receiving Party; or
+ 
+(iii)  
+is made available to a third party by the Disclosing Party without 
+restriction on disclosure; or
+ 
+(iv)  
+is rightfully received by the Receiving Party from a third party without 
+restriction and without breach of this Agreement; or
+ 
+(v)  
+is independently developed by the Receiving Party as reasonably evidenced 
+by its written records contemporaneous with such development; or
+ 
+(vi)  
+is disclosed with the prior written consent of the Disclosing Party, 
+provided that each recipient from the Receiving Party shall execute a 
+confidentiality agreement prohibiting further disclosure of the 
+Confidential Information, under terms no less restrictive that those 
+provided in this Agreement; or
+ 
+(vii)  
+is required to be disclosed by the order of a governmental agency or 
+legislative body of a court of competent jurisdiction, provided that the 
+Receiving Party shall give the Disclosing Party prompt notice of such 
+request so that the Disclosing Party has an opportunity to defend, limit or 
+protect such disclosure; or
+ 
+(viii)  
+is required to be disclosed by applicable securities of other laws or 
+regulations, provided that SanDisk shall, prior to any such disclosure 
+required by the U.S. Securities and Exchange Commission, provide Toshiba 
+with notice which includes a copy of the proposed disclosure. Further, 
+SanDisk shall consider Toshiba’s timely input with respect to the 
+disclosure.
+ 
+ 
+ 
+10
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+(c) Receiving Party shall use its reasonable best efforts to limit 
+dissemination of the Disclosing Party’s Confidential Information to such of 
+its employees who have a need to know such information for the purpose for 
+which such information was disclosed to it.   Receiving Party understands 
+that disclosure or dissemination of the Disclosing Party’s Confidential 
+Information not expressly authorized hereunder would cause irreparable 
+injury to the Receiving Party, for which monetary damages would not be an 
+adequate remedy and the Disclosing Party shall be entitled to equitable 
+relief in addition to any remedies the Disclosing Party may have hereunder 
+or at law.
+ 
+(d) Nothing contained in this Agreement shall be construed as granting or 
+conferring any rights, licenses or relationships by the transmission of the 
+Confidential Information.
+ 
+(e) All Confidential Information disclosed hereunder shall remain the 
+property of the Disclosing Party. Upon request by the Disclosing Party, the 
+Receiving Party shall return all Confidential Information, including any 
+and all copies thereof, or certify in writing that all such Confidential 
+Information had been destroyed.
+ 
+2.15 Definitions.  The definitions set forth in Article I of this Appendix 
+A shall apply to this Article II.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+11
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 4.5
+ 
+Litigation, Decrees
+ 
+
+ 
+****
+
+
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 1
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 4.7
+ 
+Patents and Proprietary Rights
+ 
+
+ 
+****
+
+
+****
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 2
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 4.9
+ 
+Cross License Payment Obligations
+ 
+
+ 
+****
+
+
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 3
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 6.2(a)
+ 
+Technology Transfer Costs
+ 
+****
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 4
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 7.4(a)
+ 
+Fixed Manufacturing Costs and Variable Manufacturing Costs
+ 
+(i) “Fixed Manufacturing Costs” shall include ****:
+ 
+****
+ 
+(ii) “Variable Manufacturing Costs” shall include ****:
+ 
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 5
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedules 9.1(f)  and 9.1(g) Generally
+
+ 
+ 
+****
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 6
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 9.1(f)
+ 
+Royalty in case of Deadlock Termination
+ 
+****
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 7
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+Exhibit 10.1
+FOIA Confidential Treatment Requested
+Execution Version
+ 
+Schedule 9.1(g)
+ 
+Royalty in case of Event of Default Termination
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schs., p. 8
+------------------------------------------------------------------------
+**** Indicates that certain information contained herein has been omitted 
+and filed separately with the Securities and Exchange Commission. 
+Confidential treatment has been requested with respect to the omitted 
+portions.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

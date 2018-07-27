@@ -1,0 +1,137 @@
+ EX-10.108 2 dex10108.htm LETTER AGREEMENT
+Exhibit 10.108
+
+
+REDACTED  OMITTED MATERIAL HAS BEEN SEPARATELY FILED WITH THE COMMISSION 
+PURSUANT TO RULE 24b-2 OF THE
+SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, AND IS DENOTED HEREIN BY *****
+ 
+Robert S. Thomas 	   	Cengiz Balkas
+President & CEO 	   	Vice President, Materials
+Charles & Colvard, Ltd. 	   	Cree, Inc.
+300 Perimeter Park, Suite A 	   	4600 Silicon Drive
+Morrisville, NC 27560 	   	Durham, NC 27703
+
+
+This letter, when signed on behalf of Charles & Colvard, Ltd. (C&C) and 
+Cree, Inc. (Cree), will serve as an agreement between C&C and Cree to 
+provide the following terms effective on and after December 25, 2007, 
+amending the parties December 25, 2006 letter agreement:
+ 
+  	1. 	Cree will supply Silicon Carbide (SiC) production crystals to C&C, 
+and C&C will purchase SiC production crystals from Cree, according to the 
+terms stated in this letter agreement.
+ 
+  	2. 	C&C will purchase ***** kg each quarter of calendar 2008 of usable 
+material (where usable material will be determined in the manner 
+described in Paragraph 3) at a price of $*****/gram. Provided that Cree 
+uses its best commercially reasonable efforts to deliver the quantities of 
+usable material required by this letter agreement, Cree will not be held in 
+breach for delays in delivery. As used in this letter agreement, quarter 
+refers to fiscal quarters of Cree ending during the indicated period.
+ 
+  	3. 	The quantity of usable material of crystals delivered to C&C 
+pursuant to this letter agreement will be determined according to the 
+following:
+ 
+  	A. 	Material will be graded according to the specifications in 
+Attachment A.
+ 
+  	B. 	Grams of usable material will be calculated on a crystal-by-crystal 
+basis according to the following equation: (usable mm) as a percent of 
+total length of the crystal in mm multiplied by the actual weight of the 
+crystal in grams. Usable mm means millimeters of usable material as 
+defined in Attachment A.
+ 
+  	C. 	Crystals shipped to C&C must contain at least ***** grams of usable 
+material for the 2 crystals, ***** grams for 2.25 crystals, ***** grams 
+for 2.40 crystals or ***** grams for 3 crystals. This usable area must be 
+contiguous. Crystal diameter to be shipped will be 2, 2.25, 2.40 or 3, 
+as determined by Cree.
+ 
+  	4. 	Except as expressly provided herein, the supply and purchase of SiC 
+material will be governed by the terms and conditions of the parties 
+Amended and Restated Exclusive Supply Agreement dated June 6, 1997 (the 
+Supply Agreement, as amended).
+ 
+  	5. 	The contents of this letter agreement shall be considered 
+Confidential Information of each party subject to the provisions of 
+Section 5 of the Supply Agreement.
+  	
+  	
+
+------------------------------------------------------------------------
+REDACTED  OMITTED MATERIAL HAS BEEN SEPARATELY FILED WITH THE COMMISSION 
+PURSUANT TO RULE 24b-2 OF THE
+SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, AND IS DENOTED HEREIN BY *****
+ 
+CHARLES & COLVARD, LTD. 	  	 	  	CREE, INC.
+By: 	  	
+
+/s/ Robert S. Thomas
+  	 	  	By: 	  	
+
+/s/ Cengiz Balkas
+  	Robert S. Thomas 	  	 	  	 	  	Cengiz Balkas
+  	President & CEO 	  	 	  	 	  	Vice President & General Manager
+Date: 	  	Nov. 12, 2007 	  	 	  	Date: 	  	Nov. 12, 2007
+
+------------------------------------------------------------------------
+REDACTED  OMITTED MATERIAL HAS BEEN SEPARATELY FILED WITH THE COMMISSION 
+PURSUANT TO RULE 24b-2 OF THE
+SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, AND IS DENOTED HEREIN BY *****
+
+
+ATTACHMENT A
+
+
+Specification of usable material as referenced in paragraph 2 above.
+
+COLOR: Usable material is calculated as light gray or very light gray. 
+Specifically tone/color number 20 and 10 1 as used in the C&C boule-grading 
+screen will be considered acceptable tone and color material. (Note: Grade 
+10 is preferred. Grade 20 material will be valued at $***** per-gram.)
+
+
+DEFECTS:
+
+Material volume of acceptable color will be reduced by the percentage of 
+the defects listed in the table below. C&C shall set the acceptable 
+standards for the quality of both the color and defects of all material 
+purchased pursuant to this letter agreement. Unless otherwise mutually 
+agreed by the parties in writing, however, the grading of the material by 
+both Cree and C&C will adhere to those standards and methods identified in 
+Notes 1 & 2 below, applied on a consistent basis in the same manner as 
+applied during September, October and November of calendar 2003. Should C&C 
+deem such standards and methods or new defects unacceptable, it can request 
+changes to its volume commitment or the methods, standards or list of price 
+reducing defects, with such changes to be effective sixty (60) days after 
+giving Cree notice of the changes. Cree may request changes to its pricing 
+and/or volume commitment. If the parties do not agree in writing on the 
+changes to be made, before the effective date of the requested changes, 
+either party can terminate this letter agreement upon notice and, in that 
+event, the Supply Agreement will govern the parties obligations 
+thereafter.
+ 
+ID 	   	
+D-Type
+   	 
+1 	   	***** 	   	Reduce
+2 	   	***** 	   	Reduce
+3 	   	***** 	   	Reduce
+4 	   	***** 	   	No reduction
+5 	   	***** 	   	Reduce
+6 	   	*****2 	   	Reduce
+7 	   	***** 	   	No reduction
+8 	   	***** 	   	Reduce
+9 	   	***** 	   	Reduce
+------------------------------------------------------------------------
+Notes
+1 	CH0257R 17.4mm tone/color 20 (lightest 20), new gray boules that are 
+lighter than this will grade as 10, CE0269R 9.5mm tone/color 30 (lightest 
+30), new gray boules that are lighter than this will grade as 20
+2 	Micropipe grading will be performed according to the Cree document 
+identified as the CCG  948 Rev C, Dense Fine Pipe Grading procedure 
+(Revision 8/17/06). The area determined according to this procedure 
+multiplied by 1.2, (20% adder), defines the area of non-usable material 
+for micropipes.

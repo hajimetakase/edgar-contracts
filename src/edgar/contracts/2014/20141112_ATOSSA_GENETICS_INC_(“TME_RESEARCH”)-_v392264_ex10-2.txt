@@ -1,0 +1,845 @@
+ EX-10.2 3 v392264_ex10-2.htm EXHIBIT 10.2
+ 
+Exhibit 10.2
+ 
+ 
+MASTER SERVICES AGREEMENT
+By and Between
+ 
+TME RESEARCH
+And
+The National Reference Laboratory for Breast Health, Inc.
+ 
+This Master Services Agreement (“Agreement”) is effective as of September 
+1, 2014 and is by and between TME Research LLC (“TME RESEARCH”), with a 
+principal place of business at 250 Cetronia Road, Suite 302, Allentown, PA 
+18104, and The National Reference Laboratory for Breast Health, Inc. 
+(“COMPANY”), with a principal place of business at 1616 Eastlake Ave. East, 
+Suite 360, Seattle, WA 98102.
+ 
+WHEREAS, TME RESEARCH is engaged in the business of providing Breast Cancer 
+Study and Research Services such as access to tissue and patient 
+registries, study concept and design; IRB interface services, on-line 
+database development, study implementation including study set-up, launch, 
+investigator recruitment, and oversight, data monitoring; and associated 
+work including but not limited to data analysis, summary, and preparation 
+for publication and/ or public release, as well as access to the TME 
+Scientific Advisory Board; and
+ 
+WHEREAS, COMPANY is in the business of developing innovative breast health 
+products and services designed to provide critical information that 
+empowers women and their healthcare providers to take charge of and protect 
+their breast health today and in the future and;
+ 
+Whereas COMPANY desires to acquire and analyze matched sets of patient 
+tissue with clinically annotated data with its NextCYTE microarray test and
+ 
+Whereas TME RESEARCH desires to provide such specific services to COMPANY 
+as specifically defined in an attachment to this Agreement and under the 
+restrictions set out in agreed upon terms and conditions;
+ 
+Now therefore, for and in consideration of the mutual promises contained 
+herein, and for other good and valuable consideration, the receipt and 
+sufficiency of which is hereby acknowledged, and intending to be legally 
+bound, the parties agree as set forth herein.
+ 
+1.          DEFINITIONS
+ 
+1.1        "TME RESEARCH Data” means any TME RESEARCH data and information 
+provided to COMPANY by TME RESEARCH for use under this Agreement or 
+applicable Statement(s) of Work, including all patient electronic medical 
+data of which such data shall be de-identified and provided in accordance 
+with Data Specifications set forth in this Agreement. For the purpose of 
+this Agreement, TME RESEARCH Data shall not include any patient tissue 
+samples or the like provided by TME Research to COMPANY. For the purpose of 
+this Agreement, TME RESEARCH Data shall not include any data subject to any 
+applicable law, legal, contractual, or other restriction against such 
+provision of data by any source of such data.
+ 
+1.2        “Applicable Law” means any international, national, federal, 
+state, provincial, commonwealth, or local government law, statute, rule, 
+requirement, code, regulation, or ordinance that applies to either party or 
+to the services or this Agreement, and includes without limitation, rules 
+of HIPAA.
+ 
+Page 1 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+1.3           “Confidential Information” means information in	the 
+possession or under control of either TME RESEARCH or COMPANY including 
+without limitation the terms and content of this Agreement, the TME 
+RESEARCH Data, and protocols, the analytical algorithms and techniques used 
+by TME RESEARCH and/or COMPANY. Confidential Information does not include 
+information which was known to the receiving party or was in the public 
+domain before disclosure, which becomes part of the public domain after 
+disclosure by publication or other means except by a breach of this 
+Agreement by the receiving party, was received from a third party under no 
+duty or obligation of confidentiality to the disclosing party, or was 
+independently developed by the receiving party without reference to the 
+Confidential Information.
+ 
+1.4          “Data Specifications” means the method, format, structure, 
+organization, and content of the data that TME RESEARCH will provide to 
+COMPANY as further specified in the applicable SOW and which Data 
+Specifications may be modified from time to time in accordance with this 
+Agreement.
+ 
+1.5          “COMPANY Data” means data in the possession of COMPANY that 
+was not provided by TME RESEARCH. In the event that COMPANY obtains data 
+from other sources and that data is part of the TME RESEARCH Data at the 
+time that duplicate data is obtained from another source by COMPANY, then 
+the TME RESEARCH Data shall continue to be considered to be TME RESEARCH 
+Data.
+ 
+1.6          “HIPAA” means the Health Insurance Portability and 
+Accountability Act of 1996, 42 U.S.C. §1302d et seq., as amended by the 
+Health Information Technology for Economic and Clinical Health Act, Title 
+XIII of Division A and Title IV of Division B of the American Recovery and 
+Reinvestment Act of 2009, Pub. L. No. 111-5, and implementing regulations 
+promulgated thereunder, including the Privacy Standards, 45 C.F.R. Parts 
+160 and 164, and the omnibus rule changes to the Privacy and Security 
+Rules, as may be amended from time to time.
+ 
+1.7           “Intellectual Property” means all: (i) copyrights (including, 
+without limitation, the right to reproduce, distribute copies of, display 
+and perform the copyrighted work and to prepare derivative works), 
+copyright registrations and applications, trademark (“TM”) rights, 
+trademark registrations and applications, patent rights, patent 
+applications and patent issuances, trade names, mask-work rights, Trade 
+Secrets, moral rights, author’s rights, privacy rights, publicity rights, 
+algorithms, rights in packaging, goodwill and other proprietary rights and 
+all renewals and extensions thereof; (ii) intangible legal rights or 
+interests evidenced by or embodied in any idea, design, concept, technique, 
+invention, discovery, enhancement or improvement, whether or not 
+patentable, copyrightable or trademarkable; and (iii) all derivatives of 
+any of the foregoing.
+ 
+2.           SERVICES
+ 
+2.1          TME RESEARCH will provide to COMPANY the services set forth in 
+Exhibit A, a Statement of Work (“SOW”), which sets out with specificity the 
+services and deliverables to be provided and the fees to be paid. 
+Additional SOWs may be executed by the parties and will be incorporated 
+into and governed by this Agreement for any other projects agreed to by the 
+parties that will be governed under this Agreement. If any term in a SOW 
+conflicts with this Agreement, the SOW will control. All tissue samples 
+provided to COMPANY under this Agreement or any SOW shall become and remain 
+the exclusive and sole property of the COMPANY; however, use of such tissue 
+samples shall remain as restricted in the related SOW under which they are 
+provided.
+ 
+2.2          Either party may request changes to any services or 
+deliverables set forth in an SOW by submitting a written request detailing 
+the proposed changes to the other party. The parties agree to negotiate and 
+execute an amendment reflecting agreed-upon changes and any related terms.
+ 
+3.           LICENSE GRANT
+ 
+Subject to the terms and conditions of this Agreement, TME RESEARCH hereby 
+grants COMPANY a limited, non-exclusive, nontransferable, except as 
+provided herein, right and license to the TME RESEARCH Data and tissue 
+samples for use exclusively as set forth within any SOW under this 
+Agreement. Nothing herein shall restrict TME RESEARCH from using TME 
+RESEARCH Data for any and all purposes anywhere in the world.
+ 
+Page 2 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+4.           PAYMENTS
+ 
+4.1          COMPANY will pay to TME RESEARCH the fees specified in the 
+applicable SOW. TME RESEARCH shall deliver all deliverables under an SOW 
+provided that COMPANY has fulfilled all of its payment obligations to date 
+and subject to IRB approval(s). All invoiced amounts for services performed 
+in accordance with the terms and conditions of this Agreement and any SOW 
+are due net thirty (30) days from the date of invoice. If COMPANY 
+identifies items in an invoice which are disputed, COMPANY will notify TME 
+RESEARCH in writing, noting its objection to the disputed item(s) with 
+specificity, within ten (10) working days of the date of the invoice.
+ 
+4.2          In addition to all of the payments otherwise required under 
+this Agreement, exclusive of any taxes imposed upon TME RESEARCH’ net 
+income, COMPANY shall pay any and all taxes, duties, or excises imposed 
+upon any payments made to TME RESEARCH hereunder by any governmental 
+authority, including without limitation any sales, use, service, 
+value-added, withholding or similar taxes.
+ 
+5.           TERM AND TERMINATION
+ 
+5.1          This Agreement will commence on the Effective Date and will 
+terminate on the third (3rd) anniversary of the Effective Date unless 
+earlier terminated in accordance with this Agreement, or unless extended by 
+a written amendment and signed by both parties. Any SOW, the duration of 
+which extends beyond the expiration or termination of this Agreement, will 
+continue to be performed for the term of such SOW, and will continue to be 
+governed by the terms of this Agreement, which terms shall remain in effect 
+beyond the expiration or termination of this Agreement solely with respect 
+to such SOW, unless such SOW is also terminated in accordance with the 
+terms and conditions of this Agreement.
+ 
+5.2          Either party may immediately terminate this Agreement or any 
+individual Statement(s) of Work, or TME RESEARCH may suspend performance of 
+Services, for a material breach of this Agreement or the applicable 
+Statement(s) of Work by the other party (the “Breaching Party”), provided 
+that the Breaching Party fails to cure such material breach within 
+forty-five (45) days (or thirty (30) days for payment breaches) after 
+receipt of written notice specifying such material breach.
+ 
+5.3          Either party may immediately terminate this Agreement or any 
+SOW upon written notice to the other party upon the happening of any of the 
+following events: (i) if any certificate, authorization, approval or 
+exemption from a regulatory authority required for the conduct of the 
+services is revoked, suspended, or expires without renewal; (ii) if the 
+continuation of the services would be rendered illegal or in violation of 
+Applicable Law; or (iii) upon the other party’s becoming insolvent or 
+unable to pay all material debts when due, including without limitation if 
+the other party files a petition in bankruptcy, or enters into an agreement 
+with its creditors, or applies for or consents to the appointment of a 
+receiver or trustee, or makes an assignment for the benefit of creditors, 
+or suffers or permits the entry of any order adjudicating it to be bankrupt 
+or insolvent, prompt Notice of such event to be provided to the other party 
+to the extent permissible under any Applicable Law.
+ 
+5.4          Either party may terminate this Agreement or any SOW without 
+cause upon sixty (60) days prior written notice to the other party, or as 
+may be otherwise provided in a SOW.
+ 
+5.5          Upon receipt of notice of termination of this Agreement or any 
+Statement(s) of Work by either party: (i) the parties will, as soon as 
+reasonably practicable and in accordance with Applicable Laws, discontinue 
+providing the applicable services, and no payments from COMPANY to TME 
+RESEARCH will be refundable unless otherwise defined in a SOW.
+ 
+5.6          Termination of this Agreement or of a SOW for any reason shall 
+not affect the rights of the parties that have accrued on or before 
+termination.
+ 
+Page 3 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+6.           CONFIDENTIALITY AND PRIVACY COMPLIANCE
+ 
+6.1         In the event the receiving party (i) is required by Applicable 
+Law to disclose the disclosing party’s Confidential Information, or (ii) 
+receives a subpoena, other validly issued administrative or judicial order, 
+or a request pursuant to regulatory audit, requesting Confidential 
+Information of the disclosing party, then in any such case the receiving 
+party may, to the limited extent necessary to comply with the requirements 
+of 6. l(i) or (ii), disclose the other party’s Confidential Information. In 
+such event, to the extent practicable and permitted by Applicable Law or 
+the requesting government agency, the receiving party shall promptly notify 
+the disclosing party in writing of such request and provide reasonable 
+assistance to the disclosing party, at the disclosing party’s expense, if 
+the disclosing party wishes to seek a protective order or similar relief.
+ 
+6.2         Each party may use the other party’s Confidential Information 
+only in connection with its rights and obligations under this Agreement. 
+Except as expressly permitted herein, each party will maintain in 
+confidence and will not disclose the other party’s Confidential 
+Information, using the same degree of care, but no less than reasonable 
+care, as it uses to protect its own confidential information of a similar 
+nature. The receiving party may disclose the disclosing party’s 
+Confidential Information only to the receiving party’s respective 
+employees, independent contractors, outside consultants (including its 
+legal counsel, its insurance carriers and agents, and its financial and 
+accounting advisers) and actual and potential investors, lenders, acquirers 
+and collaborators who (i) have a need to know such Confidential 
+Information; (ii) are made aware of the Confidential Information’s 
+confidential or proprietary nature; and (iii) are under a written 
+obligation to protect confidential or proprietary information (including 
+the Confidential Information) no less restrictive than the obligations set 
+forth herein. To the extent necessary to discharge a party’s obligations 
+under this Agreement, that party may disclose the other party’s 
+Confidential Information to regulatory authorities, ethics committees, and 
+institutional review boards. To the extent that Confidential Information 
+contains the disclosing party’s standard operating procedures, confidential 
+product specifications, proprietary data, trade secrets, or proprietary 
+methods, no portion thereof may be photocopied or replicated in any way.
+ 
+6.3         TME RESEARCH and COMPANY will comply with all Applicable Law 
+relating to protection of personal information contained in the TME 
+RESEARCH Data and COMPANY databases, respectively. Notwithstanding anything 
+to the contrary herein, all individually identifiable information shall 
+only be used and disclosed in accordance with HIPAA and Applicable Law. Any 
+TME RESEARCH Data provided by TME RESEARCH to COMPANY will be provided in 
+accordance with the Data Specifications as set forth in the applicable SOW, 
+and any COMPANY Data and/or TME RESEARCH Data provided to a third party as 
+intended under this Agreement or any SOW will be provided in accordance to 
+HIPAA, specifically in a manner consistent with 45 C.F.R. Section 
+164.514(b). Should COMPANY discover any TME RESEARCH Data that it 
+reasonably should know should be de-identified as described above which is 
+not de-identified, COMPANY will use its best efforts to promptly notify TME 
+RESEARCH of such occurrence.
+ 
+6.4         Disposal of Confidential Information. Each Party agrees that, 
+upon the disclosing party’s written request, the receiving party will 
+return to the disclosing party or destroy, as reasonably directed by the 
+disclosing party. The foregoing notwithstanding, each receiving party may 
+retain one (1) archival copy of the disclosing party’s Confidential 
+Information in a limited access file for purposes of monitoring its ongoing 
+obligations hereunder and to comply with any applicable regulatory 
+requirements.
+ 
+6.5         No License Granted. Except as provided herein or specifically 
+in a SOW hereunder, disclosure of Confidential Information under this 
+Agreement shall not be construed to create in or grant to the receiving 
+party any license, right, title, interest, or ownership in or to any of the 
+disclosing party’s Confidential Information.
+ 
+Page 4 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+6.6          Injunctive Relief. Each party agrees that a breach of this 
+Agreement by the receiving party may result in irreparable harm to the 
+disclosing party for which money damages would be inadequate. Consequently, 
+in the event of a breach or threatened breach by the receiving party of 
+this Agreement, the disclosing party shall be entitled, without the 
+requirement of posting a bond or other security, to seek equitable relief, 
+including injunctive relief and specific performance in addition to other 
+remedies available to the disclosing party at law or in equity.
+ 
+7.           OWNERSHIP
+ 
+7.1         No right or license, or assignment of either party's patent, 
+copyright, trademark, trade secret is granted under this Agreement.
+ 
+7.2         As between the parties, each party will retain full and 
+exclusive ownership of all right, title, and interest in and to all of its 
+Intellectual Property, including materials, documents, Data, methodologies, 
+systems and inventions provided by either party to the other hereunder, 
+except to the extent stated otherwise herein this Section 7.
+ 
+7.3         Any and all materials, documents, data, methodologies, systems, 
+inventions, discoveries, derivatives, enhancements and improvements that 
+are deliverables or developed under a SOW, whether or not patentable, which 
+are conceived, and prepared and/or developed, by TME RESEARCH in the course 
+of performing the services shall be the sole and exclusive property of TME 
+RESEARCH, except to the extent any COMPANY Intellectual Property is 
+contained therein and except to the extent any reports or data analysis are 
+developed or derived from the services provided to COMPANY by TME RESEARCH 
+under the terms of this Agreement which are deliverables under this 
+Agreement, in which case such derivative or newly developed data 
+deliverables shall be owned by each party without the need to account to 
+the other party. Either party shall have the right to use such derivative 
+or newly developed data deliverables for its own business purposes without 
+the need for authorization or consent from the other party.
+ 
+7.4         Any and all materials, documents, data, methodologies, systems, 
+inventions, discoveries, derivatives, enhancements and improvements that 
+are deliverables or developed under a SOW, whether or not patentable, which 
+are conceived, and prepared and/or developed, by COMPANY shall be the sole 
+and exclusive property of COMPANY (“COMPANY DERIVED IP”), except to the 
+extent any TME RESEARCH Intellectual Property is contained therein and 
+except to the extent developed or derived by TME RESEARCH and provided to 
+COMPANY under the terms of this Agreement, or to the extent Data is 
+provided as a Deliverable to TME Research by COMPANY under the terms of 
+this Agreement, in which case such derivative or newly developed data shall 
+be owned by each party without the need to account to the other party. 
+Either party shall have the right to use such derivative or newly developed 
+data for its own business purposes without the need for authorization from 
+the other party. For clarity, notwithstanding anything in this Agreement or 
+SOW to the contrary, the parties agree that COMPANY DERIVED IP, shall at 
+all times remain the sole and exclusive property of the COMPANY and shall 
+include all materials, documents, data, methodologies, systems, inventions, 
+discoveries, derivatives, enhancements and improvements, whether or not 
+patentable, that are derived from the NextCYTE micro array test, including 
+any such derivations using the TME RESEARCH Intellectual Property that is 
+licensed or otherwise provided to COMPANY under this Agreement or any SOW. 
+By way of example and without limitation, if a SOW requires that COMPANY 
+provide any data, test, results or analysis of the NextCYTE micor array 
+tests to TME then such data, test, result or analysis shall remain the sole 
+and exclusive property of COMPANY.
+ 
+7.5         For purposes of clarity, such business purposes mentioned in 
+Sections 7.3 and 7.4 above shall include, but shall not be limited to, the 
+right of publication under its own name and in accordance with Section 10. 
+Notwithstanding anything to the contrary contained herein, the parties 
+agree that if the other party’s name or products or reference to the 
+project that is the subject of any particular SOW is made in writing, the 
+other party shall have the right to review and comment on any such 
+publication prior to release of such publication.
+ 
+Page 5 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+8.           LIMITATION OF LIABILITY AND INDEMNIFICATION
+ 
+8.1         EXCEPT AS PROVIDED BELOW, NEITHER PARTY OR ANY THIRD PARTY 
+LICENSOR OF A PARTY SHALL BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, 
+PUNITIVE, INCIDENTAL, OR INDIRECT DAMAGES, OR ANY DAMAGES FOR LOST DATA, 
+BUSINESS INTERRUPTION, LOST PROFITS, LOST REVENUE, OR LOST BUSINESS, 
+ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED AND 
+BASED ON ANY THEORY OF LIABILITY, ARISING OUT OF THIS AGREEMENT, WHETHER OR 
+NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, AND 
+NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. IN 
+NO EVENT WILL THE AGGREGATE LIABILITY OF ANY PARTY UNDER THIS AGREEMENT 
+EXCEED THE TOTAL FEES PAID UNDER THIS AGREEMENT OR THE APPLICABLE SOW 
+DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE 
+CAUSE OF ACTION.
+ 
+8.2         Indemnification. Subject to Section 8.1 above, including 
+without limitation the aggregate liability of each Party, each Party (the 
+“Indemnifying Party”) shall indemnify and hold harmless the other Party, 
+and their respective directors, employees, consultants and agents (the 
+“Indemnified Parties”) from and against any and all liabilities, losses, 
+damages, costs, and other expenses (including reasonable attorneys’ fees) 
+(“Losses”) incurred by the Indemnified Parties as a result of any claim, 
+demand, action or proceeding by any third party against such Indemnified 
+Parties (each, a “Claim”) to the extent arising from or relating to any 
+material breach of any representation, warranty, covenant, or obligation of 
+the Indemnifying Party under this Agreement, or any gross negligence or 
+willful misconduct by the Indemnifying Party or any of its employees, 
+agents, or subcontractors, provided the Indemnifying Party is found liable 
+for such expenses as adjudicated in a final court of competent 
+jurisdiction, if the Indemnifying Party so chooses to go to a court of last 
+resort, otherwise the initial court of competent jurisdiction.
+ 
+8.3         Settlement. No settlement or compromise of a Claim subject to 
+the indemnification provision will be binding on either Party without prior 
+written consent. Such consent of settlement or compromise will not be 
+unreasonably withheld, conditioned or delayed. Neither party will admit 
+fault on behalf of the other Party without the prior written approval of 
+that party.
+ 
+9.           WARRANTIES AND DISCLAIMER
+ 
+9.1          Each Party represents and warrants to the other that: (i) it 
+has the full corporate or limited liability power, as applicable, to enter 
+into this Agreement and to perform its obligations hereunder; (ii) this 
+Agreement constitutes a legal, valid and binding obligation of such Party, 
+enforceable against such Party in accordance with its terms; and (iii) this 
+Agreement does not contravene, violate or conflict with any other agreement 
+of such Party.
+ 
+9.2          EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, ALL 
+MATERIALS, PRODUCTS AND SERVICES, IF ANY, ARE PROVIDED “AS IS,” “WHERE IS” 
+AND WITHOUT WARRANTY OF ANY KIND. EXCEPT AS SPECIFICALLY PROVIDED IN THIS 
+AGREEMENT, NEITHER PARTY MAKES, AND EACH PARTY EXPRESSLY DISCLAIMS, ANY 
+REPRESENTATIONS OR WARRANTIES IN CONNECTION WITH ANY AND ALL MATERIALS, 
+PRODUCTS AND SERVICES PROVIDED PURSUANT TO THIS AGREEMENT, WHETHER EXPRESS, 
+IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF 
+THIRD PARTY RIGHTS, TITLE, ANY WARRANTIES ARISING OUT OF A COURSE OF 
+PERFORMANCE, DEALING OR TRADE USAGE, AND THEIR EQUIVALENTS UNDER THE LAWS 
+OF ANY JURISDICTION.
+ 
+Page 6 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+10.         PUBLICITY
+ 
+Except as necessary to perform the services and except as limited below in 
+this Section, the parties agree they shall not disclose the existence or 
+the terms and conditions of this Agreement or any associated Statements of 
+Work to any third	party, except as	may be	required (i) to	implement or 
+enforce the terms of this Agreement; (ii) by legal procedure or by	law; or 
+(iii) by	an existing or potential investor, acquiring company, bank or 
+other financial institution, under appropriate non-disclosure terms in 
+connection with a merger, acquisition, financing, loan agreement or similar 
+corporate transaction; and the parties agree they shall not, except as 
+required by legal procedure or by law, without first obtaining the prior 
+written consent of the other party, (i) announce this Agreement in a press 
+release or promotional material, (ii) disclose TME RESEARCH as the source 
+of any data provided to COMPANY to any third party without the written 
+consent of TME RESEARCH; or (iii) use each other’s name, symbols or marks 
+in any form of publicity without the prior written consent of the other 
+party.
+ 
+11.         INDEPENDENT CONTRACTOR
+ 
+The relationship of the parties to each other under this Agreement is that 
+of independent contractors, and nothing contained herein will be construed 
+to constitute, create, or in any way be interpreted as, a joint venture, 
+partnership, or business organization of any kind. Except as expressly 
+provided for in this Agreement, under no circumstances will the employees 
+or agents of one party be considered employees or agents of the other 
+party. Neither party may act in a manner which expresses or implies a 
+relationship other than that of independent contractor, nor bind the other 
+party.
+ 
+12.         ASSIGNMENT
+ 
+Either party may assign this Agreement without the other party’s prior 
+written consent to a successor in interest by reason of merger, 
+acquisition, partnership, license agreement or otherwise; provided that no 
+assignment to a direct competitor of the other party will be permitted 
+without such other party’s prior written consent. Except as expressly 
+provided in this Section, neither party will have the right to assign this 
+Agreement or any of its rights or obligations hereunder without the prior 
+written consent of the other party, which consent will not be unreasonably 
+withheld, conditioned or delayed. Any attempt at assignment in violation	of 
+this Section shall be null and void.
+ 
+13.         DISPUTE RESOLUTION
+ 
+If a dispute arises between the parties relating to this Agreement, the 
+parties will meet and attempt to resolve the dispute in good faith. In the 
+event the dispute is not resolved through negotiation within ten business 
+days after said meeting, the parties will submit to confidential, 
+non-binding mediation before a mutually acceptable mediator. Each party 
+will designate at least one corporate officer with full authority to 
+resolve the dispute who will attend and participate in the mediation. If 
+the dispute remains unresolved after mediation, then each party will be 
+free to pursue any available remedy at law or in equity. Each party will 
+bear its own legal fees and any costs incurred under this Section.
+ 
+14.         GENERAL
+ 
+14.1        Notice. Any notice or communication required or permitted 
+hereunder shall be in writing and shall be deemed received (i) on the date 
+received if delivered by a reputable overnight delivery service, or (ii) 
+three days after the date postmarked if sent by first class, registered or 
+certified mail, with return receipt requested. Notice given under this 
+Section 15.1 shall be sent to the parties at the addresses first cited 
+above (or such other address as the applicable party may provide by written 
+notice):
+ 
+Page 7 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+14.2       Insurance. Each party will maintain in full force and effect 
+throughout the performance of this Agreement worker’s compensation, general 
+liability, automobile liability, and professional general or product 
+liability insurance coverage in amounts appropriate to conduct its business 
+and sufficient to cover its indemnification obligations hereunder, at its 
+sole cost and expense.
+ 
+14.3       Severability. If any term of this Agreement is declared 
+unenforceable, then the unenforceability thereof will not affect the 
+remaining terms of this Agreement, provided the commercial goals of the 
+Agreement or relevant SOW may be reasonably met.
+ 
+14.4       Waiver. Failure to enforce any of the terms or conditions of 
+this Agreement will not constitute a waiver of any such terms or 
+conditions, then or in the future, or of any other terms or conditions.
+ 
+14.5       Governing Law and Forum; Compliance with Law. This Agreement 
+will be governed by and construed in accordance with the laws of the State 
+of Pennsylvania, without regard to its conflict of laws provisions. The 
+parties hereby consent to the exclusive jurisdiction of the state and 
+federal courts located in the State of Pennsylvania.
+ 
+14.6       Compliance with Law. Each party is responsible for compliance 
+with all Applicable Laws pertaining to the performance of its obligations 
+under this Agreement, including without limitation HIPAA or any other 
+applicable law relating to security or privacy of information or the 
+exchange of health information.
+ 
+14.7        Entire Agreement. This Agreement, including any Statement(s) of 
+Work, amendments and attachments hereto, constitutes the entire 
+understanding of the parties hereto with respect to the subject matter 
+hereof and supersedes and replaces all prior contracts, agreements, and 
+understandings relating to the same subject matter, whether written or 
+oral. No waiver, consent, change or modification to this Agreement will be 
+binding, unless in writing and signed by duly authorized representatives of 
+TME RESEARCH and COMPANY. The Attachments and any amendments attached 
+hereto and referenced herein shall constitute an integral part of this 
+Agreement. Section titles and headings contained in this Agreement are 
+intended for convenience only and are not intended to effect the 
+interpretation or construction of any term or provision hereof. This 
+Agreement may be executed in counterparts. Those provisions of this 
+Agreement which, by their nature are meant to survive any termination of 
+this Agreement will so survive.
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement through 
+their duly authorized representatives as of the Effective Date.
+ 
+TME Research 	  	The National Reference Laboratory for
+Breast Health, Inc.
+  	  	  	  	 
+By: 	/s/ Mark Gittleman 	  	By: 	/s/ Kyle Guse
+Name: 	Mark Gittleman 	  	Name: 	Kyle Guse
+Title: 	President 	  	Title: 	CFO
+Date: 	9/1/14 	  	Date: 	9/15/14
+ 
+Page 8 of 8 	Confidential
+TME Research July 2014 Vers.02cf 	 
+ 
+
+ 
+
+ 
+
+ 
+ 
+EXHIBIT A
+Statement of Work
+ 
+TME Research, LLC
+and
+The National Reference Laboratory for Breast Health, Inc.
+ 
+Project: NextCyte Full Transcriptome Data Analysis of Patients with 
+Invasive Breast Cancer
+ 
+Terms and Conditions
+ 
+This Statement of Work, effective as of September 1, 2014, (the "Effective 
+Date of the Statement of Work"), is entered into pursuant to and under the 
+terms and conditions of the TME Research Master Services Agreement between 
+TME Research and The National Reference Laboratory for Breast Health, Inc. 
+effective as of August 29, 2014. The terms of the TME Research Master 
+Services Agreement ("Master Agreement") and the terms of this Statement of 
+Work shall apply to this project. Should there be any inconsistencies 
+between the terms, the terms of this Statement of Work shall take 
+precedence.
+ 
+Overall Obiectives/Scope of Work
+ 
+In accordance with the terms and conditions in the Master Agreement and the 
+terms of this SOW and any of its Exhibits or other agreed to documents duly 
+signed by representatives of the parties, the major objectives are as 
+defined below:
+ 
+Objective: To provide matched sets of de—identified tissue samples and 
+clinically annotated retrospective data on 100 breast cancer patients for 
+testing and evaluation of the NextCyte gene test
+ 
+Tasks include:
+ 
+· 	TME will provide to NRLBH tissue sample slides from formalin fixed 
+paraffin embedded (FFPE) blocks and matched de—identified clinically 
+annotated data (de—identified in accordance with HIPAA regulations) such as 
+patient age, tumor characteristics, nodal status, staging, recurrence and 
+death, as defined by NRLBH requirements and agreed to in writing by both 
+parties
+· 	NRLBH to use its NextCyte gene chip microarray test on the tissue 
+samples provided by TME and provide per sample results back to TME
+· 	NRLBH shall perform own data analysis and provide the results of such 
+testing and analysis to TME
+· 	TME will provide Consultant Services, at the rates stated below, 
+including interpretation of these data clinical value, and recommendations 
+for next steps, if desired by NRLBH
+  
+SOW for NextCyte Full Transcriptome Analysis of Patients for TME Research 	
+  	CONFIDENTIAL
+ 
+
+  	  	 
+
+ 
+
+  
+If mutually desirable and agreed upon by NRLBH and TME for the fees 
+outlined below for Consulting Services, TME principle investigators may 
+co—author publication/s of the results
+ 
+TME Tissue Samples with Clinical Annotations will be provided per the 
+description below:
+· 	100 FFPE de—identified (no patient identifiers) breast tissue samples 
+with clinically relevant annotations specific to the NRLBH testing 
+objective/s for NextCyte gene chip microarray test to include:
+o   50 from patients diagnosed with node positive disease with five year 
+minimum follow up
+o   50 from patients diagnosed with node negative disease with five year 
+minimum follow up
+o   Samples from up to 4 diverse breast specialist practices
+Clinical annotations will include traditional pathologic parameters and the 
+5year + follow up data, such parameters as requested by NRLBH and agreed to 
+in writing by TME.
+ 
+Tissue Sample/Data Use
+ 
+All of the data/samples/reports provided by TME to NRLBH, as documented 
+within this SOW, will be used for the sole purpose of establishing that 
+NextCyte gene chip microarray test alone and/or in conjunction with the 
+clinical and pathology report results can analyze breast cancer from FFPE 
+tissues samples in a retrospective cohort and predict:
+ 
+    1) Lymph node status
+    2) Five year recurrence
+    3) Systemic treatment impact
+ 
+The tissue samples, or any parts thereof, and/or annotated clinical data 
+provided by TME shall not be used for any other purpose(s) unless agreed to 
+in writing by TME prior to such use(s). The parties agree that the tissue 
+samples or any data provided by TME to NRLBH will not be used for subject 
+identification. The parties agree that certain other uses may require a 
+separate agreement, including separate costs, for such usage, that is 
+agreed upon by the parties.
+ 
+Deliverables and Timelines
+ 
+Deliverable 	  	Timeline
+  	  	 
+TME provide a total of 100 patient tissue samples plus matched clinical 
+data 	  	As soon as practically feasible after Master Agreement and SOW 
+signing and upon receipt of clinical data requirements from NRLBH
+  	  	 
+TME provide additional tissue samples plus clinical data to complete the 
+project (as needed and determined by NRLBH) 	  	As soon as practically 
+feasible after receipt of request
+  	  	 
+NRLBH to provide sample test results to TME 	  	Upon completion of testing
+  	  	 
+NRLBH provide to TME analysis and review of aggregate and analyzed data 	  	
+TBD
+  	  	 
+TME provide Consulting services 	  	TBD
+  
+SOW for NextCyte Full Transcriptome Analysis for TME Research 	   2 	
+CONFIDENTIAL
+ 
+
+  	  	 
+
+ 
+
+ 
+Compensation
+ 
+Based on the scope of the project outlined in this Statement of Work, the 
+total cost of this project will be $162,600, plus any additional fees for 
+Consulting Services billed at the hourly Consultant rate provided herein.
+ 
+Payment Schedule
+ 
+The parties agree to the payment amounts and due dates for such payments as 
+provided below. Payments shall be made by NRLBH by check to TME:
+ 
+TME Research
+Suite 302
+250 Cetronia Road
+Allentown, Pa. 18104
+ 
+Description of Services Provided 	  	Due Date 	  	Amount
+  	  	  	  	 
+Start—Up Costs:
+· Study Concept development including review of data requirements and 
+objectives, create data collection strategy, development of research 
+protocol and clinically annotated data collection tool and IRB submission 
+for PI and Sub—investigators
+· Licensing of/Access to/utilization of TME database for study purposes
+· Investigator site start up and training costs
+· PI site admin/closing costs/document storage, etc.
+· Investigator path lab start up and training costs
+  	At Master Agreement and SOW Signing, receipt of data requirements from 
+NRLBH 	  	$99,600
+  	  	  	  	 
+Slide Preparation & Delivery — Initial Delivery:
+· Study Supervision—Clinical Coordinator/project manager
+· Screening and enrollment of patients for inclusion
+· Pathology slide prep, shipping
+· Data extraction and organization from TME database
+  	At time of Initial Delivery of first 25 samples plus data sets 	  	
+$31,500
+  
+SOW for NextCyte Full Transcriptome Analysis for TME Research 	   3 	
+CONFIDENTIAL
+  
+
+  	  	 
+
+ 
+
+  
+Slide Preparation & Delivery — Final Delivery & Payment for any Additional 
+Slide Delivery:
+· Study Supervision—Clinical Coordinator/project manager
+· Screening and enrollment of patients for inclusion
+· Pathology slide prep, shipping,
+· Data extraction and delivery from TME database
+  	At time of final Delivery 	  	$31,500
+  	  	  	  	 
+Additional patient screening, data extraction, preparation slide and 
+shipping to meet stated objective of 100 evaluable patients 	  	Upon 
+Delivery 	  	$450 per slide set with annotated data (slide set defined as 
+set of FFPE slides provided for each patient)
+Consulting Services:
+• Analysis
+• Interpretation/recommendations
+• Publications
+  	TBD (as agreed to in writing by the parties) 	  	$500/hour/consultant
+ 
+Additional Terms
+ 
+In addition to the terms and conditions of the Master Agreement, the 
+parties agree:
+(1) 	that TME shall have the right to audit the processes/procedures used 
+by NRLBH to conduct the testing and to audit the results of the tests 
+reported by NRLBH. Such audit(s) will be conducted at a reasonable time and 
+place agreed to by the parties after such request for audit is made by TME. 
+All TME costs associated with such audit shall be borne by TME; and
+ 
+Administrative Detail
+     
+· 	All state and federal laws regarding privacy, including HIPAA, will be 
+followed in this engagement.
+· 	This Statement of Work is consistent with meeting the protections 
+stipulated by the Department of Health and Human Services' regulations 
+related to the payment for personal and/or management services set forth at 
+42 C.F.R. §1001.952(d). No health care providers will receive any payments, 
+or other remuneration, for the purpose of inducing them to utilize any TME 
+product or service.
+· 	TME represents and warrants that the fees charged to NRLBH are standard 
+and are at or below the rates charged to other TME customers for the same 
+or similar services. These rates are Fair Market Value (FMV) for the 
+expertise offered by TME.
+      
+SOW for NextCyte Full Transcriptome Analysis for TME Research 	   4 	
+CONFIDENTIAL
+     
+
+  	  	 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties have accepted and agreed to this Statement 
+of Work:
+  
+TME Research, LLC 	  	The National Reference Laboratory for Breast Health, 
+Inc.
+  	  	  	  	 
+By: 	/s/ Mark Gittleman 	  	By: 	/s/ Kyle Guse
+Name: 	Mark Gittleman 	  	Name: 	Kyle Guse
+Title: 	President 	  	Title: 	CFO
+Date: 	9/1/14 	  	Date: 	9/14/14
+ 
+SOW for NextCyte Full Transcriptome Analysis for TME Research 	   5 	
+CONFIDENTIAL
+  
+
+  	  	 

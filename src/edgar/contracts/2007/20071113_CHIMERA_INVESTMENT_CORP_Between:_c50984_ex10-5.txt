@@ -1,0 +1,925 @@
+ EX-10.5 4 c50984_ex10-5.htm
+
+Master Repurchase
+Agreement
+
+September 1996 Version
+
+Dated as of
+
+Between:
+
+and
+
+1. 	
+
+Applicability
+
+ 
+  	
+
+From time to time the parties hereto may enter into transactions in which 
+one party (Seller) agrees to transfer to the other (Buyer) securities 
+or other assets (Securities) against the transfer of funds by Buyer, with 
+a simultaneous agreement by Buyer to transfer to Seller such Securities at 
+a date certain or on demand, against the transfer of funds by Seller. Each 
+such transaction shall be referred to herein as a Transaction and, unless 
+otherwise agreed in writing, shall be governed by this Agreement, including 
+any supplemental terms or conditions contained in Annex I hereto and in any 
+other annexes identified herein or therein as applicable hereunder.
+
+ 
+2. 	
+
+Definitions
+
+ 
+  	 (a) 	
+
+Act of Insolvency, with respect to any party, (i) the commencement by 
+such party as debtor of any case or proceeding under any bankruptcy, 
+insolvency, reorganization, liquidation, moratorium, dissolution, 
+delinquency or similar law, or such party seeking the appointment or 
+election of a receiver, conservator, trustee, custodian or similar official 
+for such party or any substantial part of its property, or the convening of 
+any meeting of creditors for purposes of commencing any such case or 
+proceeding or seeking such an appointment or election, (ii) the 
+commencement of any such case or proceeding against such party, or another 
+seeking such an appointment or election, or the filing against a party of 
+an application for a protective decree under the provisions of the 
+Securities Investor Protection Act of 1970, which (A) is consented to or 
+not timely contested by such party, (B) results in the entry of an order 
+for relief, such an appointment or election, the issuance of such a 
+protective decree or the entry of an order having a similar effect, or (C) 
+is not dismissed within 15 days, (iii) the making by such party of a 
+general assignment for the benefit of creditors, or (iv) the admission in 
+writing by such party of such partys inability to pay such partys debts 
+as they become due;
+
+ 
+  	 (b) 	
+
+Additional Purchased Securities, Securities provided by Seller to Buyer 
+pursuant to Paragraph 4(a) hereof;
+
+ 
+------------------------------------------------------------------------
+
+  	 (c) 	
+
+Buyers Margin Amount, with respect to any Transaction as of any date, 
+the amount obtained by application of the Buyers Margin Percentage to the 
+Repurchase Price for such Transaction as of such date;
+
+ 
+  	 (d) 	
+
+Buyers Margin Percentage, with respect to any Transaction as of any 
+date, a percentage (which may be equal to the Sellers Margin Percentage) 
+agreed to by Buyer and Seller or, in the absence of any such agreement, the 
+percentage obtained by dividing the Market Value of the Purchased 
+Securities on the Purchase Date by the Purchase Price on the Purchase Date 
+for such Transaction;
+
+ 
+  	 (e) 	
+
+Confirmation, the meaning specified in Paragraph 3(b) hereof;
+
+ 
+  	 (f) 	
+
+Income, with respect to any Security at any time, any principal thereof 
+and all interest, dividends or other distributions thereon;
+
+ 
+  	 (g) 	
+
+Margin Deficit, the meaning specified in Paragraph 4(a) hereof;
+
+ 
+  	 (h) 	
+
+Margin Excess, the meaning specified in Paragraph 4(b) hereof;
+
+ 
+  	 (i) 	
+
+Margin Notice Deadline, the time agreed to by the parties in the relevant 
+Confirmation, Annex I hereto or otherwise as the deadline for giving notice 
+requiring same-day satisfaction of margin maintenance obligations as 
+provided in Paragraph 4 hereof (or, in the absence of any such agreement, 
+the deadline for such purposes established in accordance with market 
+practice);
+
+ 
+  	 (j) 	
+
+Market Value, with respect to any Securities as of any date, the price 
+for such Securities on such date obtained from a generally recognized 
+source agreed to by the parties or the most recent closing bid quotation 
+from such a source, plus accrued Income to the extent not included therein 
+(other than any Income credited or transferred to, or applied to the 
+obligations of, Seller pursuant to Paragraph 5 hereof) as of such date 
+(unless contrary to market practice for such Securities);
+
+ 
+  	 (k) 	
+
+Price Differential, with respect to any Transaction as of any date, the 
+aggregate amount obtained by daily application of the Pricing Rate for such 
+Transaction to the Purchase Price for such Transaction on a 360 day per 
+year basis for the actual number of days during the period commencing on 
+(and including) the Purchase Date for such Transaction and ending on (but 
+excluding) the date of determination (reduced by any amount of such Price 
+Differential previously paid by Seller to Buyer with respect to such 
+Transaction);
+
+ 
+  	 (l) 	
+
+Pricing Rate, the per annum percentage rate for determination of the 
+Price Differential;
+
+ 
+  	 (m) 	
+
+Prime Rate, the prime rate of U.S. commercial banks as published in The 
+Wall Street Journal (or, if more than one such rate is published, the 
+average of such rates);
+
+ 
+  	 (n) 	
+
+Purchase Date, the date on which Purchased Securities are to be 
+transferred by Seller to Buyer;
+
+ 
+  	 (o) 	
+
+Purchase Price, (i) on the Purchase Date, the price at which Purchased 
+Securities are transferred by Seller to Buyer, and (ii) thereafter, except 
+where Buyer and Seller agree otherwise, such price increased by the amount 
+of any cash transferred by Buyer to Seller pursuant to Paragraph 4(b) 
+hereof and decreased by the amount of any cash transferred by
+
+ 
+
+- 2 -
+
+------------------------------------------------------------------------
+
+  	
+
+Seller to Buyer pursuant to Paragraph 4(a) hereof or applied to reduce 
+Sellers obligations under clause (ii) of Paragraph 5 hereof;
+
+ 
+  	 (p) 	
+
+Purchased Securities, the Securities transferred by Seller to Buyer in a 
+Transaction hereunder, and any Securities substituted therefor in 
+accordance with Paragraph 9 hereof.
+
+ 
+  	  	
+
+The term Purchased Securities with respect to any Transaction at any time 
+also shall include Additional Purchased Securities delivered pursuant to 
+Paragraph 4(a) hereof and shall exclude Securities returned pursuant to 
+Paragraph 4(b) hereof; (q) Repurchase Date, the date on which Seller is 
+to repurchase the Purchased Securities from Buyer, including any date 
+determined by application of the provisions of Paragraph 3(c) or 11 hereof;
+
+ 
+  	 (r) 	
+
+Repurchase Price, the price at which Purchased Securities are to be 
+transferred from Buyer to Seller upon termination of a Transaction, which 
+will be determined in each case (including Transactions terminable upon 
+demand) as the sum of the Purchase Price and the Price Differential as of 
+the date of such determination;
+
+ 
+  	 (s) 	
+
+Sellers Margin Amount, with respect to any Transaction as of any date, 
+the amount obtained by application of the Sellers Margin Percentage to the 
+Repurchase Price for such Transaction as of such date;
+
+ 
+  	 (t) 	
+
+Sellers Margin Percentage, with respect to any Transaction as of any 
+date, a percentage (which may be equal to the Buyers Margin Percentage) 
+agreed to by Buyer and Seller or, in the absence of any such agreement, the 
+percentage obtained by dividing the Market Value of the Purchased 
+Securities on the Purchase Date by the Purchase Price on the Purchase Date 
+for such Transaction.
+
+ 
+3. 	
+
+Initiation; Confirmation; Termination
+
+ 
+  	 (a) 	
+
+An agreement to enter into a Transaction may be made orally or in writing 
+at the initiation of either Buyer or Seller. On the Purchase Date for the 
+Transaction, the Purchased Securities shall be transferred to Buyer or its 
+agent against the transfer of the Purchase Price to an account of Seller.
+
+ 
+  	 (b) 	
+
+Upon agreeing to enter into a Transaction hereunder, Buyer or Seller (or 
+both), as shall be agreed, shall promptly deliver to the other party a 
+written confirmation of each Transaction (a Confirmation). The 
+Confirmation shall describe the Purchased Securities (including CUSIP 
+number, if any), identify Buyer and Seller and set forth (i) the Purchase 
+Date, (ii) the Purchase Price, (iii) the Repurchase Date, unless the 
+Transaction is to be terminable on demand, (iv) the Pricing Rate or 
+Repurchase Price applicable to the Transaction, and (v) any additional 
+terms or conditions of the Transaction not inconsistent with this 
+Agreement. The Confirmation, together with this Agreement, shall constitute 
+conclusive evidence of the terms agreed between Buyer and Seller with 
+respect to the Transaction to which the Confirmation relates, unless with 
+respect to the Confirmation specific objection is made promptly after 
+receipt thereof. In the event of any conflict between the terms of such 
+Confirmation and this Agreement, this Agreement shall prevail.
+
+ 
+  	 (c) 	
+
+In the case of Transactions terminable upon demand, such demand shall be 
+made by Buyer or Seller, no later than such time as is customary in 
+accordance with market
+
+ 
+
+- 3 -
+
+------------------------------------------------------------------------
+
+  	
+
+ 
+
+practice, by telephone or otherwise on or prior to the business day on 
+which such termination will be effective. On the date specified in such 
+demand, or on the date fixed for termination in the case of Transactions 
+having a fixed term, termination of the Transaction will be effected by 
+transfer to Seller or its agent of the Purchased Securities and any Income 
+in respect thereof received by Buyer (and not previously credited or 
+transferred to, or applied to the obligations of, Seller pursuant to 
+Paragraph 5 hereof) against the transfer of the Repurchase Price to an 
+account of Buyer.
+ 
+4. 	
+
+Margin Maintenance
+
+ 
+  	 (a) 	
+
+If at any time the aggregate Market Value of all Purchased Securities 
+subject to all Transactions in which a particular party hereto is acting as 
+Buyer is less than the aggregate Buyers Margin Amount for all such 
+Transactions (a Margin Deficit), then Buyer may by notice to Seller 
+require Seller in such Transactions, at Sellers option, to transfer to 
+Buyer cash or additional Securities reasonably acceptable to Buyer 
+(Additional Purchased Securities), so that the cash and aggregate Market 
+Value of the Purchased Securities, including any such Additional Purchased 
+Securities, will thereupon equal or exceed such aggregate Buyers Margin 
+Amount (decreased by the amount of any Margin Deficit as of such date 
+arising from any Transactions in which such Buyer is acting as Seller).
+
+ 
+  	 (b) 	
+
+If at any time the aggregate Market Value of all Purchased Securities 
+subject to all Transactions in which a particular party hereto is acting as 
+Seller exceeds the aggregate Sellers Margin Amount for all such 
+Transactions at such time (a Margin Excess), then Seller may by notice to 
+Buyer require Buyer in such Transactions, at Buyers option, to transfer 
+cash or Purchased Securities to Seller, so that the aggregate Market Value 
+of the Purchased Securities, after deduction of any such cash or any 
+Purchased Securities so transferred, will thereupon not exceed such 
+aggregate Sellers Margin Amount (increased by the amount of any Margin 
+Excess as of such date arising from any Transactions in which such Seller 
+is acting as Buyer).
+
+ 
+  	 (c) 	
+
+If any notice is given by Buyer or Seller under subparagraph (a) or (b) of 
+this Paragraph at or before the Margin Notice Deadline on any business day, 
+the party receiving such notice shall transfer cash or Additional Purchased 
+Securities as provided in such subparagraph no later than the close of 
+business in the relevant market on such day. If any such notice is given 
+after the Margin Notice Deadline, the party receiving such notice shall 
+transfer such cash or Securities no later than the close of business in the 
+relevant market on the next business day following such notice.
+
+ 
+  	 (d) 	
+
+Any cash transferred pursuant to this Paragraph shall be attributed to such 
+Transactions as shall be agreed upon by Buyer and Seller.
+
+ 
+  	 (e) 	
+
+Seller and Buyer may agree, with respect to any or all Transactions 
+hereunder, that the respective rights of Buyer or Seller (or both) under 
+subparagraphs (a) and (b) of this Paragraph may be exercised only where a 
+Margin Deficit or Margin Excess, as the case may be, exceeds a specified 
+dollar amount or a specified percentage of the Repurchase Prices for such 
+Transactions (which amount or percentage shall be agreed to by Buyer and 
+Seller prior to entering into any such Transactions).
+
+ 
+
+- 4 -
+
+------------------------------------------------------------------------
+
+  	 (f) 	
+
+Seller and Buyer may agree, with respect to any or all Transactions 
+hereunder, that the respective rights of Buyer and Seller under 
+subparagraphs (a) and (b) of this Paragraph to require the elimination of a 
+Margin Deficit or a Margin Excess, as the case may be, may be exercised 
+whenever such a Margin Deficit or Margin Excess exists with respect to any 
+single Transaction hereunder (calculated without regard to any other 
+Transaction outstanding under this Agreement).
+
+ 
+5. 	
+
+Income Payments
+
+ 
+  	
+
+Seller shall be entitled to receive an amount equal to all Income paid or 
+distributed on or in respect of the Securities that is not otherwise 
+received by Seller, to the full extent it would be so entitled if the 
+Securities had not been sold to Buyer. Buyer shall, as the parties may 
+agree with respect to any Transaction (or, in the absence of any such 
+agreement, as Buyer shall reasonably determine in its discretion), on the 
+date such Income is paid or distributed either (i) transfer to or credit to 
+the account of Seller such Income with respect to any Purchased Securities 
+subject to such Transaction or (ii) with respect to Income paid in cash, 
+apply the Income payment or payments to reduce the amount, if any, to be 
+transferred to Buyer by Seller upon termination of such Transaction. Buyer 
+shall not be obligated to take any action pursuant to the preceding 
+sentence (A) to the extent that such action would result in the creation of 
+a Margin Deficit, unless prior thereto or simultaneously therewith Seller 
+transfers to Buyer cash or Additional Purchased Securities sufficient to 
+eliminate such Margin Deficit, or (B) if an Event of Default with respect 
+to Seller has occurred and is then continuing at the time such Income is 
+paid or distributed.
+
+ 
+6. 	
+
+Security Interest
+
+ 
+  	
+
+Although the parties intend that all Transactions hereunder be sales and 
+purchases and not loans, in the event any such Transactions are deemed to 
+be loans, Seller shall be deemed to have pledged to Buyer as security for 
+the performance by Seller of its obligations under each such Transaction, 
+and shall be deemed to have granted to Buyer a security interest in, all of 
+the Purchased Securities with respect to all Transactions hereunder and all 
+Income thereon and other proceeds thereof.
+
+ 
+7. 	
+
+Payment and Transfer
+
+ 
+  	
+
+Unless otherwise mutually agreed, all transfers of funds hereunder shall be 
+in immediately available funds. All Securities transferred by one party 
+hereto to the other party (i) shall be in suitable form for transfer or 
+shall be accompanied by duly executed instruments of transfer or assignment 
+in blank and such other documentation as the party receiving possession may 
+reasonably request, (ii) shall be transferred on the book-entry system of a 
+Federal Reserve Bank, or (iii) shall be transferred by any other method 
+mutually acceptable to Seller and Buyer.
+
+ 
+8. 	
+
+Segregation of Purchased Securities
+
+ 
+  	
+
+To the extent required by applicable law, all Purchased Securities in the 
+possession of Seller shall be segregated from other securities in its 
+possession and shall be identified as subject to this Agreement. 
+Segregation may be accomplished by appropriate identification on the books 
+and records of the holder, including a financial or securities intermediary 
+or a clearing corporation. All of Sellers interest in the Purchased 
+Securities shall pass to Buyer on the Purchase Date and, unless otherwise 
+agreed by Buyer and Seller, nothing in this Agreement shall preclude Buyer
+
+ 
+
+- 5 -
+
+------------------------------------------------------------------------
+
+  	
+
+ 
+
+from engaging in repurchase transactions with the Purchased Securities or 
+otherwise selling, transferring, pledging or hypothecating the Purchased 
+Securities, but no such transaction shall relieve Buyer of its obligations 
+to transfer Purchased Securities to Seller pursuant to Paragraph 3, 4 or 11 
+hereof, or of Buyers obligation to credit or pay Income to, or apply 
+Income to the obligations of, Seller pursuant to Paragraph 5 hereof.
+ 
+  	
+
+ 
+
+Required Disclosure for Transactions in Which the Seller Retains Custody of 
+the Purchased Securities
+
+Seller is not permitted to substitute other securities for those subject to 
+this Agreement and therefore must keep Buyers securities segregated at all 
+times, unless in this Agreement Buyer grants Seller the right to substitute 
+other securities. If Buyer grants the right to substitute, this means that 
+Buyers securities will likely be commingled with Sellers own securities 
+during the trading day. Buyer is advised that, during any trading day that 
+Buyers securities are commingled with Sellers securities, they [will]* 
+[may]** be subject to liens granted by Seller to [its clearing bank]* 
+[third parties]** and may be used by Seller for deliveries on other 
+securities transactions. Whenever the securities are commingled, Sellers 
+ability to resegregate substitute securities for Buyer will be subject to 
+Sellers ability to satisfy [the clearing]* [any]** lien or to obtain 
+substitute securities.
+
+  	
+
+ 
+
+* Language to be used under 17 C.F.R. ß403.4(e) if Seller is a government 
+securities broker or dealer other than a financial institution.
+  	  	** Language to be used under 17 C.F.R. ß403.5(d) if Seller is a 
+financial institution.
+ 
+9. 	
+
+Substitution
+
+ 
+  	 (a) 	
+
+Seller may, subject to agreement with and acceptance by Buyer, substitute 
+other Securities for any Purchased Securities. Such substitution shall be 
+made by transfer to Buyer of such other Securities and transfer to Seller 
+of such Purchased Securities. After substitution, the substituted 
+Securities shall be deemed to be Purchased Securities.
+
+ 
+  	 (b) 	
+
+In Transactions in which Seller retains custody of Purchased Securities, 
+the parties expressly agree that Buyer shall be deemed, for purposes of 
+subparagraph (a) of this Paragraph, to have agreed to and accepted in this 
+Agreement substitution by Seller of other Securities for Purchased 
+Securities; provided, however, that such other Securities shall have a 
+Market Value at least equal to the Market Value of the Purchased Securities 
+for which they are substituted.
+
+ 
+10. 	
+
+Representations
+
+ 
+  	
+
+Each of Buyer and Seller represents and warrants to the other that (i) it 
+is duly authorized to execute and deliver this Agreement, to enter into 
+Transactions contemplated hereunder and to perform its obligations 
+hereunder and has taken all necessary action to authorize such execution, 
+delivery and performance, (ii) it will engage in such Transactions as 
+principal (or, if agreed in writing, in the form of an annex hereto or 
+otherwise, in advance of any Transaction by the other party hereto, as 
+agent for a disclosed principal), (iii) the person signing this Agreement 
+on its behalf is duly authorized to do so on its behalf (or on behalf of 
+any such disclosed principal), (iv) it has obtained all authorizations of 
+any governmental body required in connection with this Agreement and the 
+Transactions hereunder and such authorizations are in full force and effect 
+and (v) the execution, delivery and performance of this Agreement and the 
+Transactions hereunder
+
+ 
+
+- 6 -
+
+------------------------------------------------------------------------
+
+  	
+
+will not violate any law, ordinance, charter, bylaw or rule applicable to 
+it or any agreement by which it is bound or by which any of its assets are 
+affected. On the Purchase Date for any Transaction Buyer and Seller shall 
+each be deemed to repeat all the foregoing representations made by it.
+
+ 
+11. 	
+
+Events of Default
+
+ 
+  	
+
+In the event that (i) Seller fails to transfer or Buyer fails to purchase 
+Purchased Securities upon the applicable Purchase Date, (ii) Seller fails 
+to repurchase or Buyer fails to transfer Purchased Securities upon the 
+applicable Repurchase Date, (iii) Seller or Buyer fails to comply with 
+Paragraph 4 hereof, (iv) Buyer fails, after one business days notice, to 
+comply with Paragraph 5 hereof, (v) an Act of Insolvency occurs with 
+respect to Seller or Buyer, (vi) any representation made by Seller or Buyer 
+shall have been incorrect or untrue in any material respect when made or 
+repeated or deemed to have been made or repeated, or (vii) Seller or Buyer 
+shall admit to the other its inability to, or its intention not to, perform 
+any of its obligations hereunder (each an Event of Default):
+
+ 
+  	 (a) 	
+
+The nondefaulting party may, at its option (which option shall be deemed to 
+have been exercised immediately upon the occurrence of an Act of 
+Insolvency), declare an Event of Default to have occurred hereunder and, 
+upon the exercise or deemed exercise of such option, the Repurchase Date 
+for each Transaction hereunder shall, if it has not already occurred, be 
+deemed immediately to occur (except that, in the event that the Purchase 
+Date for any Transaction has not yet occurred as of the date of such 
+exercise or deemed exercise, such Transaction shall be deemed immediately 
+canceled). The nondefaulting party shall (except upon the occurrence of an 
+Act of Insolvency) give notice to the defaulting party of the exercise of 
+such option as promptly as practicable.
+
+ 
+  	 (b) 	
+
+In all Transactions in which the defaulting party is acting as Seller, if 
+the nondefaulting party exercises or is deemed to have exercised the option 
+referred to in subparagraph (a) of this Paragraph, (i) the defaulting 
+partys obligations in such Transactions to repurchase all Purchased 
+Securities, at the Repurchase Price therefor on the Repurchase Date 
+determined in accordance with subparagraph (a) of this Paragraph, shall 
+thereupon become immediately due and payable, (ii) all Income paid after 
+such exercise or deemed exercise shall be retained by the nondefaulting 
+party and applied to the aggregate unpaid Repurchase Prices and any other 
+amounts owing by the defaulting party hereunder, and (iii) the defaulting 
+party shall immediately deliver to the nondefaulting party any Purchased 
+Securities subject to such Transactions then in the defaulting partys 
+possession or control.
+
+ 
+  	 (c) 	
+
+In all Transactions in which the defaulting party is acting as Buyer, upon 
+tender by the nondefaulting party of payment of the aggregate Repurchase 
+Prices for all such Transactions, all right, title and interest in and 
+entitlement to all Purchased Securities subject to such Transactions shall 
+be deemed transferred to the nondefaulting party, and the defaulting party 
+shall deliver all such Purchased Securities to the nondefaulting party.
+
+ 
+  	 (d) 	
+
+If the nondefaulting party exercises or is deemed to have exercised the 
+option referred to in subparagraph (a) of this Paragraph, the nondefaulting 
+party, without prior notice to the defaulting party, may:
+
+ 
+
+- 7 -
+
+------------------------------------------------------------------------
+
+  	  	
+
+(i)
+
+as to Transactions in which the defaulting party is acting as Seller, (A) 
+immediately sell, in a recognized market (or otherwise in a commercially 
+reasonable manner) at such price or prices as the nondefaulting party may 
+reasonably deem satisfactory, any or all Purchased Securities subject to 
+such Transactions and apply the proceeds thereof to the aggregate unpaid 
+Repurchase Prices and any other amounts owing by the defaulting party 
+hereunder or (B) in its sole discretion elect, in lieu of selling all or a 
+portion of such Purchased Securities, to give the defaulting party credit 
+for such Purchased Securities in an amount equal to the price therefor on 
+such date, obtained from a generally recognized source or the most recent 
+closing bid quotation from such a source, against the aggregate unpaid 
+Repurchase Prices and any other amounts owing by the defaulting party 
+hereunder; and
+ 
+  	  	
+
+(ii)
+
+as to Transactions in which the defaulting party is acting as Buyer, (A) 
+immediately purchase, in a recognized market (or otherwise in a 
+commercially reasonable manner) at such price or prices as the 
+nondefaulting party may reasonably deem satisfactory, securities 
+(Replacement Securities) of the same class and amount as any Purchased 
+Securities that are not delivered by the defaulting party to the 
+nondefaulting party as required hereunder or (B) in its sole discretion 
+elect, in lieu of purchasing Replacement Securities, to be deemed to have 
+purchased Replacement Securities at the price therefor on such date, 
+obtained from a generally recognized source or the most recent closing 
+offer quotation from such a source.
+ 
+  	  	
+
+Unless otherwise provided in Annex I, the parties acknowledge and agree 
+that (1) the Securities subject to any Transaction hereunder are 
+instruments traded in a recognized market, (2) in the absence of a 
+generally recognized source for prices or bid or offer quotations for any 
+Security, the nondefaulting party may establish the source therefor in its 
+sole discretion and (3) all prices, bids and offers shall be determined 
+together with accrued Income (except to the extent contrary to market 
+practice with respect to the relevant Securities).
+
+ 
+  	 (e) 	
+
+As to Transactions in which the defaulting party is acting as Buyer, the 
+defaulting party shall be liable to the nondefaulting party for any excess 
+of the price paid (or deemed paid) by the nondefaulting party for 
+Replacement Securities over the Repurchase Price for the Purchased 
+Securities replaced thereby and for any amounts payable by the defaulting 
+party under Paragraph 5 hereof or otherwise hereunder.
+
+ 
+  	 (f) 	
+
+For purposes of this Paragraph 11, the Repurchase Price for each 
+Transaction hereunder in respect of which the defaulting party is acting as 
+Buyer shall not increase above the amount of such Repurchase Price for such 
+Transaction determined as of the date of the exercise or deemed exercise by 
+the nondefaulting party of the option referred to in subparagraph (a) of 
+this Paragraph.
+
+ 
+  	 (g) 	
+
+The defaulting party shall be liable to the nondefaulting party for (i) the 
+amount of all reasonable legal or other expenses incurred by the 
+nondefaulting party in connection with or as a result of an Event of 
+Default, (ii) damages in an amount equal to the cost (including all fees, 
+expenses and commissions) of entering into replacement transactions and 
+entering into or terminating hedge transactions in connection with or as a 
+result of an Event of Default, and (iii) any other loss, damage, cost or 
+expense directly arising or resulting from the occurrence of an Event of 
+Default in respect of a Transaction.
+
+ 
+
+- 8 -
+
+------------------------------------------------------------------------
+
+  	(h) 	To the extent permitted by applicable law, the defaulting party 
+shall be liable to the nondefaulting party for interest on any amounts 
+owing by the defaulting party hereunder, from the date the defaulting party 
+becomes liable for such amounts hereunder until such amounts are (i) paid 
+in full by the defaulting party or (ii) satisfied in full by the exercise 
+of the nondefaulting partys rights hereunder. Interest on any sum payable 
+by the defaulting party to the nondefaulting party under this Paragraph 
+11(h) shall be at a rate equal to the greater of the Pricing Rate for the 
+relevant Transaction or the Prime Rate.
+  	  	 
+  	(i) 	The nondefaulting party shall have, in addition to its rights 
+hereunder, any rights otherwise available to it under any other agreement 
+or applicable law.
+  	  	 
+12. 	Single Agreement
+  	  	 
+  	Buyer and Seller acknowledge that, and have entered hereinto and will 
+enter into each Transaction hereunder in consideration of and in reliance 
+upon the fact that, all Transactions hereunder constitute a single business 
+and contractual relationship and have been made in consideration of each 
+other. Accordingly, each of Buyer and Seller agrees (i) to perform all of 
+its obligations in respect of each Transaction hereunder, and that a 
+default in the performance of any such obligations shall constitute a 
+default by it in respect of all Transactions hereunder, (ii) that each of 
+them shall be entitled to set off claims and apply property held by them in 
+respect of any Transaction against obligations owing to them in respect of 
+any other Transactions hereunder and (iii) that payments, deliveries and 
+other transfers made by either of them in respect of any Transaction shall 
+be deemed to have been made in consideration of payments, deliveries and 
+other transfers in respect of any other Transactions hereunder, and the 
+obligations to make any such payments, deliveries and other transfers may 
+be applied against each other and netted.
+  	 
+13. 	Notices and Other Communications
+  	  	 
+  	Any and all notices, statements, demands or other communications 
+hereunder may be given by a party to the other by mail, facsimile, 
+telegraph, messenger or otherwise to the address specified in Annex II 
+hereto, or so sent to such party at any other place specified in a notice 
+of change of address hereafter received by the other. All notices, demands 
+and requests hereunder may be made orally, to be confirmed promptly in 
+writing, or by other communication as specified in the preceding sentence.
+  	 
+14. 	Entire Agreement; Severability
+  	 
+  	This Agreement shall supersede any existing agreements between the 
+parties containing general terms and conditions for repurchase 
+transactions. Each provision and agreement herein shall be treated as 
+separate and independent from any other provision or agreement herein and 
+shall be enforceable notwithstanding the unenforceability of any such other 
+provision or agreement.
+  	 
+15. 	Non-assignability; Termination
+  	  	 
+  	(a) 	The rights and obligations of the parties under this Agreement and 
+under any Transaction shall not be assigned by either party without the 
+prior written consent of the other party, and any such assignment without 
+the prior written consent of the other party shall be null and void. 
+Subject to the foregoing, this Agreement and any Transactions shall be 
+binding
+
+
+- 9 -
+
+------------------------------------------------------------------------
+
+  	  	upon and shall inure to the benefit of the parties and their 
+respective successors and assigns. This Agreement may be terminated by 
+either party upon giving written notice to the other, except that this 
+Agreement shall, notwithstanding such notice, remain applicable to any 
+Transactions then outstanding.
+  	  	 
+  	(b) 	Subparagraph (a) of this Paragraph 15 shall not preclude a party 
+from assigning, charging or otherwise dealing with all or any part of its 
+interest in any sum payable to it under Paragraph 11 hereof.
+  	  	 
+16. 	Governing Law
+  	 
+  	This Agreement shall be governed by the laws of the State of New York 
+without giving effect to the conflict of law principles thereof.
+  	 
+17. 	No Waivers, Etc.
+  	 
+  	No express or implied waiver of any Event of Default by either party 
+shall constitute a waiver of any other Event of Default and no exercise of 
+any remedy hereunder by any party shall constitute a waiver of its right to 
+exercise any other remedy hereunder. No modification or waiver of any 
+provision of this Agreement and no consent by any party to a departure 
+herefrom shall be effective unless and until such shall be in writing and 
+duly executed by both of the parties hereto. Without limitation on any of 
+the foregoing, the failure to give a notice pursuant to Paragraph 4(a) or 
+4(b) hereof will not constitute a waiver of any right to do so at a later 
+date.
+  	 
+18. 	Use of Employee Plan Assets
+  	  	 
+  	(a) 	If assets of an employee benefit plan subject to any provision of 
+the Employee Retirement Income Security Act of 1974 (ERISA) are intended 
+to be used by either party hereto (the Plan Party) in a Transaction, the 
+Plan Party shall so notify the other party prior to the Transaction. The 
+Plan Party shall represent in writing to the other party that the 
+Transaction does not constitute a prohibited transaction under ERISA or is 
+otherwise exempt therefrom, and the other party may proceed in reliance 
+thereon but shall not be required so to proceed.
+  	  	 
+  	(b) 	Subject to the last sentence of subparagraph (a) of this Paragraph, 
+any such Transaction shall proceed only if Seller furnishes or has 
+furnished to Buyer its most recent available audited statement of its 
+financial condition and its most recent subsequent unaudited statement of 
+its financial condition.
+  	  	 
+  	(c) 	By entering into a Transaction pursuant to this Paragraph Seller 
+shall be deemed (i) to represent to Buyer that since the date of Sellers 
+latest such financial statements, there has been no material adverse change 
+in Sellers financial condition which Seller has not disclosed to Buyer, 
+and (ii) to agree to provide Buyer with future audited and unaudited 
+statements of its financial condition as they are issued, so long as it is 
+a Seller in any outstanding Transaction involving a Plan Party.
+  	  	 
+
+- 10 -
+
+------------------------------------------------------------------------
+
+19. 	Intent
+  	  	 
+  	 (a) 	
+
+The parties recognize that each Transaction is a repurchase agreement as 
+that term is defined in Section 101 of Title 11 of the United States Code, 
+as amended (except insofar as the type of Securities subject to such 
+Transaction or the term of such Transaction would render such definition 
+inapplicable), and a securities contract as that term is defined in 
+Section 741 of Title 11 of the United States Code, as amended (except 
+insofar as the type of assets subject to such Transaction would render such 
+definition inapplicable).
+
+ 
+  	 (b) 	
+
+It is understood that either partys right to liquidate Securities 
+delivered to it in connection with Transactions hereunder or to exercise 
+any other remedies pursuant to Paragraph 11 hereof is a contractual right 
+to liquidate such Transaction as described in Sections 555 and 559 of Title 
+11 of the United States Code, as amended.
+
+ 
+  	 (c) 	
+
+The parties agree and acknowledge that if a party hereto is an insured 
+depository institution, as such term is defined in the Federal Deposit 
+Insurance Act, as amended (FDIA), then each Transaction hereunder is a 
+qualified financial contract, as that term is defined in FDIA and any 
+rules, orders or policy statements thereunder (except insofar as the type 
+of assets subject to such Transaction would render such definition 
+inapplicable).
+
+ 
+  	 (d) 	
+
+It is understood that this Agreement constitutes a netting contract as 
+defined in and subject to Title IV of the Federal Deposit Insurance 
+Corporation Improvement Act of 1991 (FDICIA) and each payment entitlement 
+and payment obligation under any Transaction hereunder shall constitute a 
+covered contractual payment entitlement or covered contractual payment 
+obligation, respectively, as defined in and subject to FDICIA (except 
+insofar as one or both of the parties is not a financial institution as 
+that term is defined in FDICIA).
+
+ 
+20. 	
+
+Disclosure Relating to Certain Federal Protections
+
+ 
+  	
+
+The parties acknowledge that they have been advised that:
+
+ 
+  	 (a) 	
+
+in the case of Transactions in which one of the parties is a broker or 
+dealer registered with the Securities and Exchange Commission (SEC) under 
+Section 15 of the Securities Exchange Act of 1934 (1934 Act), the 
+Securities Investor Protection Corporation has taken the position that the 
+provisions of the Securities Investor Protection Act of 1970 (SIPA) do 
+not protect the other party with respect to any Transaction hereunder;
+
+ 
+  	 (b) 	
+
+in the case of Transactions in which one of the parties is a government 
+securities broker or a government securities dealer registered with the SEC 
+under Section 15C of the 1934 Act, SIPA will not provide protection to the 
+other party with respect to any Transaction hereunder; and
+
+ 
+  	 (c) 	
+
+in the case of Transactions in which one of the parties is a financial 
+institution, funds held by the financial institution pursuant to a 
+Transaction hereunder are not a deposit and therefore are not insured by 
+the Federal Deposit Insurance Corporation or the National Credit Union 
+Share Insurance Fund, as applicable.
+
+ 
+
+- 11 -
+
+------------------------------------------------------------------------
+
+[Name of Party] 	  	 [Name of Party] 	 
+By: 	  	  	By: 	  	 
+Title:   	  	  	Title:   	  	 
+Date: 	  	  	Date: 	  	 
+
+
+ 
+
+ 
+
+- 12 -
+
+------------------------------------------------------------------------

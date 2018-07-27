@@ -1,0 +1,543 @@
+ EX-10.8 15 a2234454zex-10_8.htm EX-10.8
+Exhibit 10.8
+ 
+STOCK PURCHASE AGREEMENT
+ 
+THIS AGREEMENT, dated as of               , (this Agreement), is entered 
+into by and between BioXcel Therapeutics, Inc., a Delaware corporation (the 
+Company), and the investors identified on Schedule 1 attached hereto (the 
+Investors).
+ 
+WHEREAS, the Investors desire to purchase shares of the Companys common 
+stock, par value $0.001 per share (the Common Stock), and the Company 
+desires to sell Common Stock to the Investors pursuant to the terms set 
+forth in this   Agreement.
+ 
+    NOW, THEREFORE, the parties agree as follows:
+ 
+  1.              Purchase and Sale. Subject to the provisions of this
+  Agreement, on  the  Closing Date (as hereinafter defined) the Company
+  shall sell to the Investors, and the Investors  shall purchase from the
+  Company, the number of shares of Common Stock set forth opposite such
+  Investors name on Schedule 1 annexed hereto, at a purchase price of $  
+  per share.
+ 
+  2.              Closing of Purchase and Sale.
+ 
+    2.1.         Closing; Closing Date. The purchase and sale of the Common
+    Stock pursuant to Section 1 (the Closing) shall take place at the
+    offices of BioXcel Therapeutics Inc., 780 East Main Street, Branford
+    CT, or at such other place as may be agreed upon by the Company and the
+    Investors, at 11:00 a.m. local time on the date of this Agreement or at
+    such other time as may be agreed upon by the Company and the Investors
+    (the Closing Date).
+ 
+    2.2.         Transactions at Closing. At the Closing, the Company shall
+    deliver to the Investors or their representatives certificates in the
+    name of each Investor representing the Common Stock being purchased
+    hereunder and each Investor shall deliver to the Company, by check or
+    wire transfer of immediately available funds, the amount of the
+    purchase price set forth opposite such Investors name on Schedule 1 
+    hereto, or such other consideration agreed upon by the Company.
+ 
+  3.              Representations and Warranties of the Company.   The
+  Company represents and warrants, as of the date of this Agreement,  
+  that:
+ 
+    3.1.         Organization, Standing and Qualification. The Company is a
+    corporation duly organized, validly existing and in  good  standing 
+    under  the  laws  of the  State of Delaware and has full corporate
+    power  and  authority  to own, lease and  operate its property  and 
+    assets and  to conduct its business as proposed to be conducted by it. 
+    The Company has all requisite corporate power and authority to enter
+    into and perform its obligations under this Agreement and to carry out
+    the transactions contemplated by this Agreement. The Company is duly
+    qualified to transact business and is in good standing in each
+    jurisdiction in which the failure to so qualify would have a material
+    adverse effect on the Company.
+ 
+    3.2.         Capitalization. The authorized capital stock of the
+    Company as of        , 2017, consisted of 100,000 shares of Common
+    Stock,       of which were issued and outstanding. As of       , 2017,
+    up to 12,500 shares of Common Stock may be acquired from the Company
+    pursuant to options, warrants, convertible securities or other
+    agreements.
+ 
+    3.3.         Validity of Shares.  The Common Stock, when issued, sold
+    and delivered in accordance with
+ 
+1
+------------------------------------------------------------------------
+
+ 
+    the terms of this Agreement, will be duly and validly issued, fully
+    paid and non-assessable.
+      
+    3.4.         Authorization; Approvals. All corporate action  on  the 
+    part  of  the Company necessary for the authorization, execution,
+    delivery and performance  of  all  its obligations under this Agreement
+    and for  the  authorization,  issuance  and  delivery  of  the Common
+    Stock has been (or will be) taken prior to the Closing.  This
+    Agreement,  when executed  and delivered by or on behalf of the
+    Company, will constitute the valid and legally binding  obligation of
+    the Company, legally enforceable against the Company  in  accordance 
+    with  its  terms, except (a) as limited by applicable bankruptcy,
+    insolvency, reorganization, moratorium , fraudulent conveyance or other
+    laws of general application  relating  to  or  affecting  the
+    enforcement of creditors rights generally or (b) as limited by laws
+    relating to the availability of specific performance,  injunctive 
+    relief  or other  equitable  remedies.  The Company  has obtained  or
+    will obtain prior to the Closing, all  necessary  consents,
+    authorizations,  approvals  and  orders, and has made all
+    registrations, qualifications,  designations,  declarations  or 
+    filings  with  all  federal, state or other relevant  governmental 
+    authorities  required  on the part  of the  Company  to be made prior
+    to the Closing in connection with  the  consummation  of  the 
+    transactions contemplated  by this Agreement.
+ 
+    3.5.         No Conflict with Other Instruments. The execution,
+    delivery  and  performance of this Agreement will not result in any 
+    violation  of,  be  in  conflict  with,  or constitute a default under
+    any terms or provision of: (a)  the  Companys  Certificate  of 
+    Incorporation,  as amended; (b) any judgment, decree  or order to which
+     the  Company  is a   party; (c) any agreement, contract,
+    understanding,  indenture  or other instrument  to which the  Company 
+    is a party, the effect of which would give rise to a material adverse
+    effect on the Company; or (d) any statute, rule  or governmental 
+    regulation  applicable to the  Company.
+ 
+    3.6.         Fees and Commissions. The Company has not retained, or
+    otherwise authorized to act, any finder, broker, agent, financial
+    advisor or other intermediary (each, an Intermediary) in connection
+    with the transactions contemplated by this Agreement and the Company
+    shall indemnify and hold harmless the Investors from liability for any
+    compensation to  any Intermediary retained or otherwise authorized  to 
+    act by,  or  on behalf of, the  Company,  and the fees and expenses of
+    defending against  such liability  or alleged   liability.
+ 
+  4.              Anti-dilution. In the event that, between       , 2017
+  and 2018, the Company issued or issues additional securities at a
+  purchase price of less than $   per share of common stock of Common Stock
+  (a Dilutive Issuance), the Investor will be issued additional shares of
+  Common Stock in accordance with the following formula:
+ 
+NS = CS * ((A+C) / (A+B))  CS
+ 
+    Where:
+ 
+       NS = The number of shares of Common Stock the Investor will receive
+       in addition to the shares issued under this Agreement;
+ 
+       CS = The number of shares of Common Stock issued to the Investor
+       under this Agreement;
+ 
+       A = The number of shares of Common Stock deemed to be outstanding
+       immediately prior to a Dilutive Issuance. This includes all
+       outstanding Common Stock, all outstanding preferred shares on an
+       as-converted basis, all outstanding options on an as-exercised basis
+       and all other securities convertible into Common Stock;
+ 
+       B = The aggregate consideration received by the Company with respect
+       to a Dilutive Issuance, divided by$  ; and
+ 
+2
+------------------------------------------------------------------------
+
+ 
+       C = The number of new shares of Common Stock issued in a Dilutive
+       Issuance.
+ 
+      The Investors rights under this Section 4 shall terminate upon the
+      consummation of an initial public offering of the Companys equity
+      securities and the listing of the Companys equity securities on a
+      national securities exchange.
+ 
+  5.              Representations and Warranties of the Investors. Each
+  Investor, severally and not jointly,  represents  and warrants,  as of
+  the date hereof, that:
+ 
+    5.1.         Authorization. The Investor has full power and authority
+    to enter into this Agreement. This Agreement, when executed and 
+    delivered  by  the  Investor,  will  constitute  a  valid and legally
+    binding obligation of the  Investor,  enforceable  against  the 
+    Investor  in accordance with its terms, except (a) as limited by
+    applicable bankruptcy, insolvency, reorganization, moratorium or
+    fraudulent conveyance and any other laws of general application
+    relating to or affecting the enforcement of creditors rights generally
+    or (b) as limited by laws relating to the availability of specific
+    performance, injunctive relief or other equitable remedies.
+ 
+    5.2.         Purchase Entirely for Own Account. The Investor
+    understands that the shares of Common Stock (the Shares) to be
+    acquired by the Investor are restricted securities and have not been
+    registered under the Securities Act or any applicable state securities
+    law and is acquiring the Shares as principal for its own account and
+    not with a view to or for distributing or reselling such Shares or any
+    part thereof in violation of the Securities Act or any applicable state
+    securities law, has no present intention of distributing any of such
+    Shares in violation of the Securities Act or any applicable state
+    securities law and has no direct or indirect arrangement or
+    understandings with any other persons to distribute or regarding the
+    distribution of such Shares in violation of the Securities Act or any
+    applicable state securities law. The Investor is acquiring the Shares
+    hereunder in the ordinary course of its business.
+ 
+    5.3.         Disclosure of Information. The Investor has had an
+    opportunity to discuss the Companys, business, management, financial
+    affairs and the terms and conditions of the  offering of the Shares
+    with the Companys management and has had an opportunity to review the
+    Companys facilities, and the Investor has been furnished with copies
+    of  documents  relating  thereto that the Investor has requested. The
+    foregoing, however, does not limit or modify the representations and
+    warranties of the Company in Section 2 of this Agreement or the right
+    of the Investors to rely thereon.·
+ 
+    5.4.         Lack of Liquidity. The Investor is presently able (a) to
+    bear the economic risk of the Investors investment in the Shares, (b)
+    to hold the Shares for an indefinite period of time and (c) to afford a
+    complete loss of the Investors investment.  The Investor has
+    sufficient liquid assets so that the illiquidity associated with the
+    Investors investment in the Shares will not cause any financial
+    difficulties for the Investor or affect the Investors ability to
+    provide for the Investors current needs and possible financial
+    contingencies. The Investor is able to bear the high degree of economic
+    risk of this investment including, but not limited to, the possible
+    complete loss of Investors entire investment and the limited
+    transferability of the Shares, which may make liquidation of this
+    investment impossible for the indefinite future. The Investors
+    commitment to speculative investments (including the investment by the
+    Investor in the Shares) is reasonable in relation to the Investors net
+    worth or investment portfolio.
+ 
+    5.5.         Knowledge and Experience. The Investor has such knowledge
+    and experience in financial and business matters that the Investor is
+    capable of evaluating the merits and risks of a speculative investment
+    which involves a high degree of risk of loss of the entire investment,
+ 
+3
+------------------------------------------------------------------------
+
+ 
+       such as an investment in the Shares, and of making an informed
+       investment decision with respect thereto.
+ 
+    5.6.         Restricted Securities. The Investor understands that the
+    Shares have not been, and will not be, registered under the Securities
+    Act of 1933, as amended (the Securities Act), by reason of a specific
+    exemption from the registration provisions of the Securities Act which
+    depends upon, among other things, the bona fide nature of the
+    investment intent and the accuracy of the Investors representations as
+    expressed herein. The Investor understands that the Shares are
+    restricted securities under applicable U.S. federal and state
+    securities laws and that, pursuant to these laws, the Investor must
+    hold the Shares indefinitely unless they are registered with the
+    Securities and Exchange Commission and qualified by state authorities
+    or an exemption from such registration and qualification requirements
+    is available.  The Investor  acknowledges that  the  Company  has  no 
+    obligation  to  register  or  qualify  the  Shares  for  resale. The
+    Investor further acknowledges that if  an exemption  from registration 
+    or qualification  is  available,  it may be conditioned on various
+    requirements including, but  not  limited  to,  the  time  and  manner 
+    of sale, the holding period for the Shares and on requirements relating
+    to the Company which are outside of the Investors control, and which
+    the Company is under no obligation and may not  be  able to satisfy.
+ 
+    5.7.         No Public Market. The Investor understands that no public
+    market now exists for the Shares and that the Company has made no
+    assurances that a public market will ever exist for the Shares.
+ 
+    5.8.         Legends. The Investor understands that the Shares and any
+    securities issued in respect of or exchange for the Shares may bear, in
+    addition to any legend required by the securities laws of any state to
+    the extent such laws are applicable to the Shares represented by the
+    certificate so legended, a legend similar to the following:
+ 
+       5.8.1.    THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT
+       BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933 (THE SECURITIES
+       ACT), AND HAVE BEEN ISSUED IN RELIANCE ON AN EXEMPTION FROM
+       REGISTRATION PROVIDED FROM REGULATIONS UNDER THE SECURITIES ACT. 
+       THE SECURITIES REPRESENTED BY THIS CERTIFICATE MAY NOT BE OFFERED OR
+       SOLD, DIRECTLY OR INDIRECTLY, EXCEPT (A) PURSUANT TO AND IN
+       CONFORMITY WITH (I) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE
+       SECURITIES ACT OR (II) ANY THEN AVAILABLE EXEMPTION FROM THE
+       REGISTRATION REQUIREMENTS UNDER THE SECURITIES ACT AND (B) PURSUANT
+       TO AND IN CONFORMITY WITH ANY APPLICABLE STATE SECURITIES OR BLUE
+       SKY LAWS. OTHER THAN PURSUANT TO AND IN CONFORMITY WITH AN EFFECTIVE
+       REGISTRATION STATEMENT UNDER THE SECURITIES ACT, NO SUCH OFFER OR
+       SALE OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE MAY BE MADE
+       UNLESS, IF REQUESTED BY IT, BIOXCEL THERAPEUTICS, INC. HAS RECEIVED
+       A WRITTEN LEGAL OPINION OF COUNSEL (SUCH COUNSEL AND OPINION
+       REASONABLY ACCEPTABLE TO IT) TO THE EFFECT THAT SUCH OFFER OR SALE
+       DOES NOT VIOLATE THE SECURITIES ACT OR ANY APPLICABLE STATE
+       SECURITIES OR BLUE SKY LAWS.
+ 
+    5.9.         Accredited Investor. The Investor is an accredited
+    investor as defined in Rule 501(a) of Regulation D promulgated under
+    the Securities Act.
+ 
+     5.10.           Foreign Investors.  If the  Investor  is not  a United
+      States person  (as defined by Section 7701(a)(30)  of the Code), the
+     Investor  hereby  represents  that  it has satisfied itself
+ 
+4
+------------------------------------------------------------------------
+
+ 
+    as  to the full observance of the laws of its jurisdiction  in
+    connection with any invitation to  subscribe  for the Shares or any use
+    of this Agreement, including (a) the legal requirements within its
+    jurisdiction for the purchase of the Shares,  (b) any  foreign 
+    exchange  restrictions applicable  to such purchase,  (c) any
+    governmental or other consents that may need to be obtained and (d) the
+    income tax and other tax consequences, if any, that may be relevant to
+    the purchase, holding, redemption, sale or transfer of the Shares. The
+    Investors subscription and payment for and continued beneficial
+    ownership of the Shares will not violate any applicable securities or
+    other laws of the Investors jurisdiction.
+ 
+    5.11.           No General Solicitation. Neither the Investor, nor any
+    of its officers, directors, managers, employees, agents, stockholders,
+    members or partners has, either directly or indirectly, including
+    through a broker or finder (a) engaged in any general solicitation or,
+    (b) published any advertisement in connection with the offer and sale
+    of the Shares.
+ 
+    5.12.           Exculpation Among Investors. The Investor acknowledges
+    that it is not relying upon any person, other than the Company and its
+    officers and directors, in making its investment or decision to invest
+    in the Company. The Investor agrees that neither any Investor nor the
+    respective controlling persons, officers, directors, partners, agents
+    or employees of any Investor shall be liable to any other Investor for
+    any action heretofore taken or omitted to be taken by any of them in
+    connection with the purchase of the Shares.
+ 
+    5.13.           Residence.  If the Investor is an individual, then the
+    Investor resides in the state, province or other jurisdiction
+    identified in the address of the Investor set forth on Schedule 1; if
+    the Investor is a partnership, corporation, limited liability company
+    or other entity, then the office, or offices of the Investor in which
+    its principal place of business is located is identified in the address
+    or addresses of the Investor set forth on Schedule 1.  The Investor is
+    a citizen of the United States of America or otherwise qualifies as a
+    holder of stock of an S corporation under the Code.
+ 
+  6.              [Registration Rights. If, at any time after the Closing,
+  the Company shall propose to file with the Commission a registration
+  statement under the Securities Act (whether for itself or in connection
+  with a sale of securities by any other stockholder) other than on Form
+  S-1 in connection with the Companys IPO (as defined herein), Forms S-4
+  or S-8 (or any successor to such forms), the Company shall give notice to
+  each Investor and include in such registration statement (and the
+  prospectus included therein) all or any part of the Shares that such
+  Purchaser requests to be registered; provided, however, that the Company
+  shall not be required to register the resale of any Shares pursuant to
+  that are eligible for resale pursuant to Rule 144 under the Securities
+  Act without any requirement for the Company to maintain current public
+  information and without any limitation on volume or manner of sale.]
+ 
+  7.              [Reports Under Exchange Act. With a view to making
+  available to the Investor the benefits of Rule 144 and any other rule or
+  regulation of the Commission that may at any time permit the Investor to
+  sell securities of the Company to the public without registration or
+  pursuant to a registration on Form S-3, the Company shall:
+ 
+    7.1.         make and keep available adequate current public
+    information, as those terms are understood and defined in Rule 144, at
+    all times after the effective date of the registration statement filed
+    by the Company for the IPO;
+ 
+    7.2.         use commercially reasonable efforts to file with the
+    Commission in a timely manner all reports and other documents required
+    of the Company under the Securities Act and the Securities Exchange Act
+    of 1934, as amended (the Exchange Act) (at any time after the Company
+    has become subject to such reporting requirements); and
+ 
+    7.3.         furnish to the Investor, so long as the Investor owns any
+    Shares, forthwith upon request (i) to the extent accurate, a written
+    statement by the Company that it has complied with the reporting
+    requirements of Rule 144 (at any time after ninety (90) days after the
+    effective date of the registration statement filed by the Company for
+    the IPO), the Securities Act, and the Exchange Act (at any time after
+    the Company has become subject to such reporting requirements), or that
+    it qualifies as a registrant whose securities may be resold pursuant to
+    Form S-3 (at any time after the Company so qualifies); and (ii) such
+    other information as may be reasonably requested in availing the
+    Investor of any rule or regulation of the Commission that permits the
+    selling of any such securities without registration (at any time after
+    the Company has become subject to the reporting requirements under the
+    Exchange Act) or pursuant to Form S-3 (at any time after the Company so
+    qualifies to use such form).]
+ 
+  8.              Lock-Up Agreement. Investors agree that, if Company
+  completes an IPO (the IPO) on or before December 31, 2018, Investors
+  will enter into a lock-up agreement for the benefit of such
+  underwriter(s) in accordance with this Section (the Lock-Up Agreement).
+  Pursuant to such Lock-Up Agreement, Investors will agree that they shall
+  not, during the period beginning on the date of the prospectus for the
+  delivery of shares of Common Stock pursuant to the IPO and ending either
+  (i) one hundred eighty (180) days thereafter, or (ii) if any Company
+  director, executive officer or stockholder is subject to any lock-up
+  agreement that ends on a date earlier than one hundred eighty (180) days
+  after the date of the prospectus for the delivery of shares of Common
+  Stock pursuant to the IPO, such earlier date: (a) offer, pledge, sell,
+  announce the intention to sell, contract to sell, sell any option or
+  contract to purchase, purchase any option or contract to sell, grant any
+  option, right or warrant to purchase, lend or otherwise transfer or
+  dispose of, any shares of Common Stock; (b) enter into any swap or other
+  arrangement that transfers to another Person, in whole or in part, any of
+  the economic consequences of ownership of shares of Common Stock; or (c)
+  make any demand for, or exercise any right with respect to, the
+  registration of any shares of Common Stock; in any case, whether any such
+  transaction is to be settled by delivery of shares of Common Stock or
+  other securities, in cash or otherwise. In addition, upon the Closing and
+  prior to the earlier of (x) the effectiveness of the restrictions set
+  forth in the Lock-Up Agreement, or (y) December 31, 2018, Investors agree
+  that it shall not transfer or dispose of any shares of Common Stock
+  (other than pursuant to this Agreement) unless and until the proposed
+  transferee(s) has agreed in writing to be bound by this Section with
+  respect to the shares of Common Stock acquired by such transferee. No
+  transfer in violation of the preceding sentence shall be of any force or
+  effect, and no such transfer shall be made or recorded on the books of
+  Company. Investor acknowledges that its covenants in this Section are a
+  material inducement for Company to enter
+   
+5
+------------------------------------------------------------------------
+
+ 
+  into this Agreement and to consummate this transaction.
+ 
+  9.              Modifications; Waiver Notices. All notices, requests,
+  consents and other communications herein shall be in writing and shall be
+  deemed to be delivered (i) on the date delivered, if personally
+  delivered; (ii) on the business day after the date sent, if sent by
+  recognized overnight courier service and (iii) on the fifth day after the
+  date sent, if mailed by first-class certified mail, postage prepaid and
+  return receipt requested , as follows, or to such other addresses as each
+  of the parties hereto may provide from time to time in writing to the
+  other parties:
+ 
+  If to the Company:
+ 
+  BioXcel Therapeutics Inc.
+  780 East Main Street
+  Branford, Connecticut 06405
+  Attention:   Company Secretary
+ 
+  If to the Investor(s):
+ 
+  At their respective addresses set forth in Schedule 1 hereto.
+ 
+  10.       Modifications; Waiver. Neither this Agreement nor any provision
+  hereof may be changed, waived, discharged or terminated orally or in
+  writing, except that any provision of this Agreement may be amended and
+  the observance of any such provision may be waived (either generally or
+  in a particular instance and either retroactively or prospectively)  with
+   (but only with) the written consent of (a) the Company and (b) the
+  holders of at least a majority of the Shares, provided, that, in the
+  event that any modification, amendment or waiver of any terms of this
+  Agreement that materially adversely affects the obligations and/or rights
+  of  an  Investor hereunder in a manner materially different than other
+  Investors hereto, such modification, amendment  or waiver  shall also
+  require the written  consent of the adversely affected Investor.
+ 
+  11.       Entire Agreement; Aggregation.  This Agreement, together with
+  the schedule attached hereto and made a part hereof contains the entire
+  agreement between the parties with respect to the transactions
+  contemplated hereby, and supersedes all negotiations, agreements,
+  representations, warranties, commitments, whether in writing or oral,
+  prior to the date hereof.
+ 
+  12.       Successors and Assigns. Except as otherwise expressly provided
+  in this Agreement, all of the terms of this Agreement shall be binding
+  upon and inure to the benefit of and be enforceable by the respective
+  successors, assigns and permitted transferees of the parties hereto.
+ 
+  13.       Execution and Counterparts. This Agreement may be executed in
+  any number of counterparts, each of which when so executed and delivered
+  shall be deemed an original, and all such counterparts together shall
+  constitute one instrument.
+ 
+  14.       Governing Law and Severability. This Agreement shall be
+  governed by the internal laws of the State of Connecticut, without regard
+  to principles of conflicts of law.  In the event any provision of this
+  Agreement or the application of any such provision to any party shall be
+  held by a court of competent jurisdiction to be contrary to law, the
+  remaining provisions of this Agreement shall remain in full force and
+  effect.
+ 
+  15.       Headings.  The descriptive headings of the sections hereof and
+  the schedule hereto are inserted
+   
+6
+------------------------------------------------------------------------
+
+   
+    for convenience only and do not constitute a part of this Agreement.
+ 
+[Signature Pages Follow]
+ 
+7
+------------------------------------------------------------------------
+
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of 
+the date first above written.
+ 
+ 
+ 
+BIOXCEL THERAPEUTICS, INC.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vimal Mehta, CEO
+ 
+ 
+ 
+INVESTOR(S)
+ 
+ 
+ 
+ 
+ 
+Name:
+ 
+ 
+ 
+By:
+ 
+8
+------------------------------------------------------------------------
+
+ 
+SCHEDULE 1
+Investors
+ 
+Name and Address
+ 
+Purchase Price
+ 
+Number of Shares
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+------------------------------------------------------------------------
+

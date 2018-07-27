@@ -1,0 +1,1281 @@
+ EX-10.6 8 d352136dex106.htm EX-10.6
+Exhibit 10.6
+
+BRITISH AMERICAN TOBACCO
+
+Rules of the 2007
+
+Long Term Incentive Plan
+
+Adopted by a resolution of the
+Board of Directors of
+British American Tobacco p.l.c.
+on 26 February 2007 and approved by Shareholders
+at the Annual General Meeting held on 26 April 2007
+and amended by the Board on 11 January 2008
+and amended by the Board on 22 February 2011 and
+approved by Shareholders at the
+Annual General Meeting held on 28 April 2011
+and amended by the Board on 24 February 2014
+and amended by the Board on 23 February 2015
+
+------------------------------------------------------------------------
+CONTENTS
+ 
+  	   	  	   	Page 	 
+ 1.
+   	DEFINITIONS AND INTERPRETATION 	   	  	1 	 
+ 2.
+   	GRANT OF AWARDS 	   	  	2 	 
+ 3.
+   	SOURCE OF SHARES 	   	  	3 	 
+ 4.
+   	TRANSFER OF SHARES TO PARTICIPANTS 	   	  	4 	 
+ 4A.
+   	CLAW-BACK 	   	  	7 	 
+ 5.
+   	TAKEOVER, RECONSTRUCTION AND WINDING-UP 	   	  	9 	 
+ 6.
+   	VARIATION OF CAPITAL 	   	  	10 	 
+ 6A.
+   	VESTED SHARE ACCOUNTS 	   	  	10 	 
+ 7.
+   	ALTERATIONS 	   	  	10 	 
+ 8.
+   	MISCELLANEOUS 	   	  	11 	 
+ APPENDIX 1: US SUB-PLAN 14
+   	  	13 	 
+ APPENDIX 2: CLAW-BACK
+   	  	15 	 
+ SCHEDULE: PERFORMANCE CONDITIONS
+   	  	17 	 
+
+------------------------------------------------------------------------
+1. 	DEFINITIONS AND INTERPRETATION
+ 
+(1) 	In this Plan, unless the context otherwise requires:-
+
+the Allocation Date means the date on which the Company granted an Award;
+
+Allocated Shares means any shares which are comprised in an Award (and 
+which have not been transferred, renounced or forfeited in accordance with 
+the Rules of the Plan);
+
+Award means a conditional option to receive shares in the Company on the 
+terms specified in the Plan;
+
+the Board means the board of directors of the Company or a committee of 
+the Board;
+
+Claw-back means the repayment of value by a Participant to the Company 
+(or another Group Company) in accordance with the provisions of Rule 4A and 
+Appendix 2;
+
+the Company means British American Tobacco plc (registered in England and 
+Wales No. 3407696)
+
+Control has the meaning given to it by section 995 of the Income Tax Act 
+2007;
+
+Financial Year means a financial year of the Company within the meaning 
+of section 390 of the Companies Act 2006;
+
+Internal Reorganisation any event, scheme or arrangement whereby another 
+company (the Acquiring Company) obtains Control of the Company and 
+immediately afterwards all or substantially all of the issued equity share 
+capital of the Acquiring Company is owned directly or indirectly, in 
+substantially the same proportions, by the persons who held the issued 
+equity share capital of the Company immediately prior to such event, scheme 
+or arrangement;
+
+the London Stock Exchange means the London Stock Exchange plc;
+
+Participant means a person who is granted an Award under the Plan 
+including (where the context so admits) the personal representatives of a 
+person who has died since the grant of an Award;
+
+Participating Company means the Company or any Subsidiary;
+
+the Performance Conditions means the conditions specified in the Schedule 
+or such other conditions as the Remuneration Committee may have specified 
+on the Allocation Date;
+
+the Performance Period means the three consecutive Financial Years of 
+which the first is the Financial Year in which the Allocation Date falls 
+(or such shorter period as may be specified in Rules 4 or 5 below);
+
+the Plan means The British American Tobacco 2007 Long Term Incentive Plan 
+as herein set out but subject to any alterations made under Rule 7 below;
+ 
+1
+
+------------------------------------------------------------------------
+Quarter Day means 31 March, 30 June, 30 September or 31 December;
+
+Remuneration Committee means the Remuneration Committee of the Board;
+
+Subsidiary means a body corporate which is a subsidiary of the Company 
+within the meaning of section 1159 of the Companies Act 2006;
+
+the Trustees means the trustees or trustee for the time being of any 
+employee trust established by the Company from time to time for the benefit 
+of (inter alia) employees of Participating Companies;
+
+UK Listing Authority means the Financial Services Authority as the 
+competent authority for listing in the United Kingdom under Part VI of the 
+Financial Services and Markets Act 2000;
+
+Vesting Date means the third anniversary of the Allocation Date or, if 
+earlier, the date on which an Award becomes exercisable pursuant to 
+sub-rule 4(1) or 4(2); and
+
+Vested Shares means Allocated Shares in respect of which the Performance 
+Conditions have been satisfied.
+ 
+(2) 	Any reference in the Plan to any enactment includes a reference to 
+that enactment as from time to time modified extended or re-enacted.
+ 
+(3) 	Where the context permits, the singular includes the plural and vice 
+versa and the masculine includes the feminine.
+ 
+2. 	GRANT OF AWARDS
+ 
+(1) 	Subject to sub-rules (2), (5), (7) and (8) below, the Board may grant 
+an Award to any employee of a Participating Company (including an employee 
+who is also a director) upon the terms set out in the Plan and upon such 
+other terms as the Board may specify.
+ 
+(2) 	Awards may only be granted within the period of six weeks following an 
+announcement of the Companys results for any period or at any other time 
+if the Board considers that there are exceptional circumstances which 
+justify the grant of one or more Awards at that time. No Awards may be 
+granted after more than 10 years after the date the Plan was adopted by the 
+Company.
+ 
+(3) 	No payment for the grant or exercise of an Award shall be made by a 
+Participant and accordingly any Award shall be granted by deed.
+ 
+(4) 	An Award granted to a Participant:
+ 
+  	(a) 	shall not, except as provided in Rule 4(2)(a) below, be capable of 
+being transferred by him; and
+ 
+  	(b) 	shall be forfeited by him forthwith if he is adjudged bankrupt.
+ 
+(5) 	The number of shares which may be conditionally allocated to an 
+employee in respect of each Performance Period shall not exceed such number 
+as has an aggregate market value equal to 400 per cent. of his basic salary
+.
+ 
+2
+
+------------------------------------------------------------------------
+(6) 	For the purposes of sub-rule (5) above:-
+ 
+  	(a) 	the market value of the shares shall be taken to be the closing mid 
+market price of such shares (as derived from the London Stock Exchange 
+Daily Official List) on either the dealing day immediately preceding the 
+Allocation Date or the average of several dealings within 30 days preceding 
+the Allocation Date, as determined by the Remuneration Committee; and
+ 
+  	(b) 	an employees basic salary shall be his basic pay (excluding 
+bonuses and benefits in kind) expressed as an annual rate, payable to him 
+by the Participating Companies as at the first day of the Financial Year in 
+which the Allocation Date falls (or, where the Participant was not employed 
+by a Participating Company on such date, as at the Allocation Date).
+ 
+(7) 	The Remuneration Committee shall be responsible for supervising the 
+operation of the Plan; no Awards may be made under the Plan until they have 
+been approved by the Remuneration Committee, and any changes to the rules 
+of the Plan or the operation of the Performance Conditions must be approved 
+by the Remuneration Committee.
+ 
+(8) 	The grant of any Award under the Plan shall be subject to the 
+provisions of the Model Code published by the UK Listing Authority and to 
+obtaining any approval or consent required under the provisions of the 
+Listing Rules published by the UK Listing Authority or the City Code on 
+Takeovers and Mergers, or of any regulation or enactment applicable to such 
+grant.
+ 
+3. 	SOURCE OF SHARES
+ 
+(1) 	The maximum number of shares which may be allocated under the Plan on 
+any day shall not, when added to the aggregate of the number of shares 
+which have been allocated in the previous 10 years under the Plan and under 
+any other discretionary employees share scheme adopted by the Company, 
+exceed such number as represents 5 per cent of the ordinary share capital 
+of the Company in issue immediately prior to that day.
+ 
+(2) 	The maximum number of shares which may be allocated under the Plan on 
+any day shall not, when added to the aggregate of the number of shares 
+which have been allocated in the previous 10 years under the Plan and under 
+any other employees share scheme adopted by the Company, exceed such 
+number as represents 10 per cent of the ordinary share capital of the 
+Company in issue immediately prior to that day.
+ 
+(3) 	In determining the limits in sub-rules (1) and (2), no account shall 
+be taken of any allocations where the right to acquire shares was released, 
+lapsed or otherwise became incapable of vesting.
+ 
+(4) 	References in this Rule 3 to the allocation of shares shall mean:
+ 
+  	(a) 	in the case of any share option scheme:
+ 
+  	(i) 	the placing of unissued shares under option; and
+ 
+3
+
+------------------------------------------------------------------------
+  	(ii) 	in so far as not taken into account under (i) above, any 
+subscription for shares which are issued for the purpose of satisfying any 
+option; and
+ 
+  	(b) 	in relation to other types of employees share scheme, the issue 
+and allotment of shares,
+
+and references to allocated shall be construed accordingly.
+ 
+(5) 	References in this Rule 3 to the issue and allotment of shares shall 
+include the transfer of shares from treasury and the subscription of shares 
+by the Trustees.
+ 
+(6) 	References in these Rules to the transfer of shares to a Participant 
+(or, where the context requires, to the Participants personal 
+representatives) shall be read to include the issue of shares to the 
+Participant (or to his personal representatives).
+ 
+(7) 	The Company and its Subsidiaries may provide funds to the Trustees to 
+enable the Trustees to purchase existing shares in the Company for the 
+purpose of the Plan, provided that no funds may be provided to enable the 
+Trustees to acquire shares in the Company if such acquisition would result 
+in the Trustees holding more than 5 per cent. of the ordinary share capital 
+of the Company in issue at that time.
+ 
+4. 	TRANSFER OF SHARES TO PARTICIPANTS
+ 
+(1) 	Subject to sub-rules (2) to (7) and Rule 5 below, an Award shall be 
+exercisable from the third anniversary of the Allocation Date up until the 
+day before the tenth anniversary of the Allocation Date, provided that the 
+Board may at its absolute discretion permit a Participant to exercise an 
+Award prior to the third anniversary of the Allocation Date if he is to be 
+transferred to work in another country and the Board consider that it would 
+be appropriate to allow the exercise of the Award in the light of local tax 
+or securities laws.
+ 
+(2) 	If any Participant:
+ 
+  	(a) 	dies either at a time when he is a director or an employee of a 
+Participating Company or at a time when he is entitled to exercise an Award 
+pursuant to sub-rule (2)(b) below, then the Award shall be exercisable 
+immediately, provided that, where the death occurs before the third 
+anniversary of the Allocation Date, the extent to which the Award may be 
+exercised shall be determined by reference to the operation of the 
+Performance Conditions; and the extent to which the Performance Conditions 
+have been satisfied shall be determined by the Board (at its absolute 
+discretion) as at the Quarter Day before he died;
+ 
+  	(b) 	ceases to be a director or an employee of a Participating Company 
+by reason of injury, illness, disability, redundancy (within the meaning of 
+the Employment Rights Act 1996) or for any other reason at the discretion 
+of the Board, then:
+ 
+  	(1) 	for all Participants other than members of the Board of Directors 
+and the Management Board (each as constituted from time to time), an Award 
+shall be exercisable immediately, provided that, where such cessation 
+occurs
+ 
+4
+
+------------------------------------------------------------------------
+  	 before the third anniversary of the Allocation Date, the extent to 
+which the Award may be exercised shall be determined by reference to the 
+operation of the Performance Conditions; and the extent to which the 
+Performance Conditions have been satisfied shall be determined by the Board 
+(at its absolute discretion) as at the Quarter Day before he so ceased; 
+provided further that, where the Award becomes exercisable within three 
+years of the Allocation Date as a result of the Participants redundancy, 
+or where the Board exercises its discretion to allow exercise, the number 
+of Allocated Shares in respect of which the Award may be exercised shall be 
+reduced (unless the Board determines that this is not appropriate in the 
+circumstances) to a pro rata number on the basis of the time which has 
+elapsed from the Allocation Date to the date of cessation of employment 
+(rounded up to the nearest whole month) as compared to three years; and
+ 
+  	(2) 	for Participants who are, at the time of such cessation, members of 
+the Board of Directors and the Management Board (each as constituted from 
+time to time), an Award shall be exercisable from the third anniversary of 
+the Allocation Date, as shall be determined by reference to the operation 
+of the Performance Conditions; provided that, where the Participant ceases 
+to be a director or an employee of a Participating Company by reason of the 
+Participants redundancy, or where the Board exercises its discretion to 
+allow exercise, the number of Allocated Shares in respect of which the 
+Award may be exercised shall be reduced (unless the Board determines that 
+this is not appropriate in the circumstances) to a pro rata number on the 
+basis of the time which has elapsed from the Allocation Date to the date of 
+cessation of employment (rounded up to the nearest whole month) as compared 
+to three years.
+ 
+(3) 	A Participant shall not be treated for the purposes of sub-rule (2) 
+above as ceasing to be a director or an employee of a Participating Company 
+until such time as he is no longer a director or employee of any of the 
+Participating Companies, and a female Participant who ceases to be such a 
+director or employee by reason of pregnancy or confinement and who 
+exercises her right to return to work under the Employment Rights Act 1996 
+before an Award has lapsed shall be treated for those purposes as not 
+having ceased to be such a director or employee.
+ 
+(4) 	Subject to sub-rules (5), (6) and (7) below:
+ 
+  	(a) 	unless sub-rule (2) above applies, the Award may (and must, if at 
+all) be exercised by the Participant giving notice in writing to the 
+Company at any time from the date the Vested Shares are capable of being 
+transferred up to and including the day before the tenth anniversary of the 
+Allocation Date, and unless the Board decides otherwise, any such notice 
+shall have effect only on receipt by the Company;
+ 
+5
+
+------------------------------------------------------------------------
+  	(b) 	if a Participant dies, the Award may (and must, if at all) be 
+exercised by the personal representatives of the deceased Participant 
+giving notice in writing to the Company to the extent permitted by sub-rule 
+(2) above during the 12 month period beginning with the date of his death, 
+but not after the day before the tenth anniversary of the Allocation Date;
+ 
+  	(c) 	if a Participant ceases to be a director or an employee in the 
+circumstances specified in sub-rule (2) above (other than death), the Award 
+may (and must, if at all) be exercised by the Participant giving notice in 
+writing to the Company to the extent permitted by those sub-rules within:
+ 
+  	(1) 	in the case of sub-rule (2)(b)(1) above, the 6 month period after 
+the date he so ceases, but not after the day before the tenth anniversary 
+of the Allocation Date; and
+ 
+  	(2) 	in the case of sub-rule (2)(b)(1) above, the 6 month period 
+following the third anniversary of the Allocation Date, but not after the 
+day before the tenth anniversary of the Allocation Date;
+ 
+  	(d) 	within 30 days after an Award has been exercised in accordance with 
+this sub-rule (45), the Company shall procure the transfer to the 
+Participant (or his nominee) of the number of shares in respect of which 
+the Award has been validly exercised. For the avoidance of doubt, such 
+person is not entitled to any dividend or other right or benefit paid or 
+payable on a share by reference to a record date before the Participant (or 
+his nominee) is registered as the holder of a share; and
+ 
+  	(e) 	notwithstanding any other provision of the Plan (including 
+sub-rules (5), (6) and (7)), an Award may not be exercised after the period 
+of ten years beginning with the Allocation Date (or such shorter period as 
+the Board may specify on the Allocation Date).
+ 
+(5) 	No transfer of shares shall be made under the Plan if the Board 
+considers that it would not be lawful or practicable in the relevant 
+jurisdiction and in any such case the Board may (at its absolute 
+discretion) decide that instead of receiving shares the Participant shall 
+instead receive a cash sum equal to the value of the shares (calculated by 
+reference to the middle market quotation of the shares on the dealing day 
+preceding the date the Award was exercised, as derived from the London 
+Stock Exchange Daily Official List) less such deductions as the Board may 
+decide are reasonable or necessary on account of any tax and/or social 
+security contributions.
+ 
+(6) 	In a case where any company is obliged to account for any tax and/or 
+any social security contributions recoverable from a Participant (together, 
+the Tax Liability) for which that Participant is liable by virtue of the 
+transfer of Vested Shares, the Company shall not be obliged to procure the 
+transfer of the shares unless it or the Participants employing company has 
+received on or prior to the transfer of the Vested Shares payment from the 
+Participant of an amount not less than the Tax Liability or unless that 
+Participant has entered into arrangements acceptable to the Participants 
+employing company to ensure that such a payment is made (whether by 
+authorising the sale of some or all of the shares on his behalf and the 
+payment to the employing company of an amount equal to the Tax Liability 
+out of the proceeds of sale or otherwise).
+ 
+6
+
+------------------------------------------------------------------------
+(7) 	The exercise of an Award and the transfer of any shares under the Plan 
+shall be subject to the provisions of the Model Code published by the UK 
+Listing Authority and to obtaining any approval or consent referred to in 
+sub-rule 2(8). Where the transfer of shares pursuant to an Award is 
+prohibited pursuant to the Model Code at any time, such transfer shall 
+instead take place as soon as reasonably practicable after it is no longer 
+prohibited by the Model Code.
+ 
+(8) 	As soon as reasonably practicable after the end of each Performance 
+Period, the Board will notify Participants of the extent to which the 
+Performance Conditions have been satisfied in respect of that Performance 
+Period and of the number of Vested Shares.
+ 
+(9) 	The Remuneration Committee may, at its discretion, determine that the 
+Participant shall be paid an amount equivalent to the dividends that the 
+Participant would have received over the period from the Allocation Date to 
+the Vesting Date in respect of those Allocated Shares comprised in an Award 
+(or part thereof) which becomes exercisable. No dividend equivalent amount 
+shall be paid under this sub-rule (10) in respect of Allocated Shares 
+comprised in the whole or any part of an Award which cannot be exercised. 
+Any dividend equivalent amount calculated pursuant to this sub-rule (9) 
+shall be paid in respect of the Award to which it relates on, or as soon as 
+reasonably practicable following, the relevant Vesting Date, subject to 
+such deductions as the Board may decide are reasonable or necessary on 
+account of any tax and/or social security contributions.
+ 
+(10) 	The number of Allocated Shares comprised in an Award granted on or 
+after 28 April 2011 may be reduced at any time prior to the Vesting Date 
+(including with the effect that the Award may be forfeited in full) to the 
+extent that the Remuneration Committee determines that there has been a 
+material misrepresentation by any person in relation to the performance of 
+the Company and/or the Participant, on the basis of which the Remuneration 
+Committee made its determination as to the extent to which any prior Award 
+granted to the Participant vested (the Prior Vested Award), and which the 
+Remuneration Committee considers justifies such reduction. Such material 
+misrepresentation may include (but shall not be limited to): (i) a 
+misstatement of the financial results and/or health of the Company; (ii) an 
+erroneous calculation in relation to the Companys results or other 
+performance benchmark; (iii) errors in the Companys financial statements; 
+or (iv) discrepancies in the financial accounts, whether or not arising 
+from fraud or reckless behaviour on the part of any director or employee of 
+the Company or any Participating Company (in each case in respect of any 
+Financial Year comprising the Performance Period relating to the Prior 
+Vested Award).
+ 
+4A. 	CLAW-BACK
+
+Claw-back events
+ 
+(1) 	In respect of an Award granted on or after 23 February 2015, the 
+Remuneration Committee may at any time prior to the second anniversary of 
+the Vesting Date of the Award determine that a Claw-back shall apply in 
+respect of the Award if the Remuneration Committee determines that:
+ 
+7
+
+------------------------------------------------------------------------
+  	(a) 	there has been a material misrepresentation in relation to the 
+performance of any Participating Company, relevant business unit and/or the 
+Participant on the basis of which the extent to which the Award vested was 
+determined (which may include, but shall not be limited to: (i) a 
+misstatement of the financial results and/or health of any Participating 
+Company; (ii) an erroneous calculation in relation to any Participating 
+Companys results or other performance benchmark; (iii) errors in any 
+Participating Companys financial statements; or (iv) discrepancies in the 
+financial accounts, and, for the avoidance of doubt, notwithstanding that 
+such misrepresentation may not arise from fraud or reckless behaviour); or
+ 
+  	(b) 	an erroneous calculation was made in assessing the extent to which 
+the
+  	Award 	vested,
+
+and, in either case, the Award vested in respect of a greater number of 
+Shares than would have been the case had there not been such a 
+misrepresentation or had such error not been made.
+ 
+(2) 	In respect of an Award granted on or after 23 February 2015, the 
+Remuneration Committee may at any time (whether before or after the Vesting 
+Date) determine that a Claw-back shall apply in respect of the Award where 
+the Participant is found to have committed at any time prior to the Vesting 
+Date, including prior to grant of the Award, an act or omission which 
+justifies, or in the opinion of the Remuneration Committee would have 
+justified, summary dismissal or service of notice of termination of office 
+or employment on the grounds of misconduct.
+
+
+Applying Claw-back
+ 
+(3) 	A Claw-back shall be applied in accordance with the provisions of 
+Appendix 2 (Operation of Claw-back).
+
+
+Lapse of Awards to give effect to claw-back of other awards
+ 
+(4) 	By participating in the Plan, the Participant acknowledges that the 
+Remuneration Committee may lapse any Award granted on or after 23 February 
+2015 to such extent as it determines to be necessary (including in full) in 
+order to give effect to a claw-back under the terms of the Plan or any 
+other employees share scheme or bonus scheme operated from time to time by 
+any Participating Company.
+
+
+No Claw-back following a Takeover
+ 
+(5) 	A Claw-back shall not apply at any time following any of the events 
+described in Rule 5(1), save where such event is an Internal Reorganisation 
+or where the determination that the Claw-back shall apply was made prior to 
+such event.
+ 
+8
+
+------------------------------------------------------------------------
+5. 	TAKEOVER, RECONSTRUCTION AND WINDING-UP
+ 
+(1) 	If any person:
+ 
+  	(a) 	obtains Control of the Company as a result of making a general 
+offer to acquire shares in the Company, or having obtained such Control 
+makes such an offer; or
+ 
+  	(b) 	if any person becomes bound or entitled to acquire shares under 
+sections 979 to 985 of the Companies Act 2006; or if under section 899 of 
+the Companies Act 2006 the Court sanctions a compromise or arrangement of 
+the Company; or
+ 
+  	(c) 	if the Company passes a resolution for voluntary winding up; or
+ 
+  	(d) 	if an order is made for the compulsory winding up of the Company;
+
+then, subject to sub-rules (2) to (6) of Rule 4, an Award may be exercised 
+within one month of the occurrence of the relevant event specified in this 
+sub-rule (or in the case of paragraph (a) above such longer period as the 
+Board may specify), but to the extent that it is not exercised within that 
+period shall (notwithstanding any other provision of the Plan) lapse on the 
+expiration of that period, PROVIDED THAT unless the Remuneration Committee 
+decides otherwise the number of Allocated Shares comprised in an Award 
+shall be reduced to a pro rata number on the basis of the time which has 
+elapsed from the Allocation Date to the date of the occurrence of the 
+relevant event specified in this sub-rule (rounded up to the nearest whole 
+month) as compared to three years, and the proportion which may then be 
+transferred shall be determined by reference to the operation of the 
+Performance Conditions (as determined by the Remuneration Committee at its 
+absolute discretion) up until the occurrence of the relevant event.
+ 
+(2) 	For the purposes of sub-rule (1) above, a person shall be deemed to 
+have obtained control of the Company if he and others acting in concert 
+with him have together obtained control of it.
+ 
+(3) 	A Participant may, in connection with one of the events described in 
+Rule 5(1), and by agreement with the acquiring company, release any Award 
+which has not lapsed (the Old Award) in consideration of the grant to him 
+of an Award (the New Award) which is determined by the Board to be 
+equivalent to the Old Award but relates to shares in a different company 
+(whether the company which has obtained Control of the Company itself or 
+some other company) within the period during which an Award would be 
+exercisable in accordance with Rule 5(1) or such longer period as the Board 
+may specify not exceeding six months.
+ 
+(4) 	In the event of an Internal Reorganisation, where the Board determines 
+that this Rule 5(4) shall apply, an existing Award shall not become 
+exercisable in accordance with Rule 5(1) but, with the agreement of the 
+Acquiring Company (as defined in the definition of Internal 
+Reorganisation), shall be automatically released in consideration for the 
+grant of a new Award which is determined by Board to be equivalent to the 
+existing Award but relates to shares in a different company (whether the 
+Acquiring Company itself or some other company).
+ 
+9
+
+------------------------------------------------------------------------
+(5) 	For the purposes of Rules 5(3) and 5(4) the provisions of the Plan 
+shall be construed as if:
+ 
+  	(a) 	the New Award is an Award granted under the Plan at the same time 
+as the existing Award;
+ 
+  	(b) 	unless the Board determines otherwise, the references to the 
+Company are to the company over whose shares the New Award is granted in 
+accordance with Rule 5(3) or 5(4) (as applicable);
+ 
+  	(c) 	the Performance Conditions shall apply in their original form 
+unless the Board determines that it would be appropriate for such 
+Performance Conditions to be varied or to be waived in full or in part; and
+ 
+  	(d) 	the New Award shall not become exercisable nor lapse by virtue of 
+the event pursuant to which it was granted.
+ 
+6. 	VARIATION OF CAPITAL
+ 
+(1) 	In the event of any increase or variation of the share capital of the 
+Company (whenever effected), a demerger of a substantial part of the 
+business of the group, special dividend or other similar event, the Board 
+may adjust the number of Allocated Shares in such manner as it considers 
+appropriate.
+ 
+(2) 	As soon as reasonably practicable after making any adjustment under 
+sub-rule (1) above, the Company shall give notice in writing thereof to any 
+Participant affected thereby.
+ 
+6A. 	VESTED SHARE ACCOUNTS
+ 
+(1) 	Legal title to any shares which are due to be transferred to the 
+Participant pursuant to the Plan may (notwithstanding any other Rule) be 
+transferred to a person (the Vested Share Account Provider) appointed by 
+the Company from time to time to hold legal title to such shares on behalf 
+of the Participant.
+ 
+(2) 	The Vested Share Account Provider shall receive and hold shares on 
+behalf of the Participant in accordance with such terms and conditions as 
+are agreed by the Company from time to time, and by participating in the 
+Plan the Participant irrevocably agrees to those terms and conditions 
+(which shall be available to the Participant on request to the Company).
+ 
+(3) 	The transfer of any shares to the Vested Share Account Provider shall 
+satisfy any obligation of the Company under the Plan to transfer shares to 
+the Participant (and references in the Plan to shares (or legal title 
+thereof) having been transferred to the Participant shall be read 
+accordingly).
+ 
+7. 	ALTERATIONS
+ 
+(1) 	Subject to sub-rules (2) and (4) below, the Board may at any time 
+alter any of the provisions of the Plan, or the terms of any Award granted 
+under it, in any respect.
+ 
+10
+
+------------------------------------------------------------------------
+(2) 	Subject to sub-rule (3) below, no alteration to the advantage of 
+Participants shall be made under sub-rule (1) above if it concerns 
+eligibility, the limit on participation, the terms on which Awards may be 
+exercised and the basis for their adjustment in the event of any increase 
+or variation of the share capital of the Company, without the prior 
+approval by ordinary resolution of the members of the Company in general 
+meeting.
+ 
+(3) 	Sub-rule (2) above shall not apply to any minor alteration to benefit 
+the administration of the Plan, to take account of a change in legislation 
+or to obtain or maintain favourable tax, exchange control or regulatory 
+treatment for Participants or potential participants or any Participating 
+Company.
+ 
+(4) 	No alteration to the disadvantage of any Participant shall be made 
+under sub-rule (1) above in respect of existing Awards unless:
+ 
+  	(a) 	the Company shall have invited every such Participant to give an 
+indication as to whether or not he approves the alteration, and
+ 
+  	(b) 	the alteration is approved by a majority of those Participants who 
+have given such an indication.
+ 
+(5) 	As soon as reasonably practicable after making any alteration under 
+sub-rule (1) above, the Company shall give notice in writing thereof to any 
+Participant affected thereby.
+ 
+8. 	MISCELLANEOUS
+ 
+(1) 	The rights and obligations of any individual under the terms of his 
+office or employment with any Participating Company shall not be affected 
+by his participation in the Plan or any right which he may have to 
+participate therein, and an individual who participates therein shall waive 
+any and all rights to compensation or damages in consequence of the 
+termination of his office or employment for any reason whatsoever (whether 
+lawfully or otherwise) insofar as those rights arise or may arise from his 
+ceasing to have rights under the Plan as a result of such termination.
+ 
+(2) 	In the event of any dispute or disagreement as to the interpretation 
+of the Plan, or as to any question or right arising from or related to the 
+Plan, the decision of the Board shall be final and binding upon all 
+persons.
+ 
+(3) 	Any notice or other communication under or in connection with the Plan 
+may be given by personal delivery or by sending the same by electronic 
+means or post, in the case of a company to its registered office (for the 
+attention of the company secretary), and in the case of an individual to 
+his last known address, or, where he is a director or employee of a 
+Participating Company, either to his last known address or to the address 
+of the place of business at which he performs the whole or substantially 
+the whole of the duties of his office or employment, and where a notice or 
+other communication is given by post, it shall be deemed to have been 
+received 72 hours after it was put into the post properly addressed and 
+stamped, and if by electronic means, when the sender receives electronic 
+confirmation of delivery or if not available, 24 hours after sending the 
+notice.
+ 
+11
+
+------------------------------------------------------------------------
+(4) 	By participating in the Plan, a Participant consents to the holding 
+and processing of personal data provided by the Participant to the Company 
+for all purposes relating to the operation of the Plan, including, but not 
+limited to administering and maintaining Participant records, providing 
+information to the Trustees, registrars, brokers, savings carrier or other 
+third party administrators of the Plan, providing information to future 
+purchasers of the Company or the business in which the Participant works 
+and transferring information about the Participant to a country or 
+territory outside the European Economic Area.
+ 
+(5) 	The Plan and all Awards granted under it shall be governed by and 
+construed in accordance with the law of England and Wales.
+ 
+12
+
+------------------------------------------------------------------------
+APPENDIX 1 - US SUB-PLAN
+ 
+1 	GENERAL
+ 
+1.1 	This US Sub-Plan shall be used for all Participants who are, or may 
+become prior to the Vesting Date, US taxpayers. In the event that a 
+Participant becomes a US taxpayer after the grant of an Award, such Award 
+may be modified in a manner consistent with this Sub-Plan.
+ 
+1.2 	The purpose of this Sub-Plan is to ensure that Awards made under the 
+Plan comply with the requirements of section 409A of Title 26 of the United 
+States Code (the Internal Revenue Code) and should be interpreted in a 
+manner consistent with such requirements. Notwithstanding the foregoing, 
+this Sub-Plan should also be interpreted and applied in a manner consistent 
+with other legal requirements under laws in relevant jurisdictions, 
+including but not limited to applicable securities laws.
+ 
+1.3 	Words and phrases defined in the Plan shall bear the same meaning in 
+this US Sub-Plan except as otherwise provided.
+ 
+1.4 	The rules of the Plan apply to this US Sub-Plan except as otherwise 
+provided for below.
+ 
+1.5 	The Board may amend any of the provisions of this US Sub-Plan to take 
+account of a change in US legislation, in particular in relation to section 
+409A of the US Internal Revenue Code.
+ 
+2 	GRANT OF AWARDS
+ 
+2.1 	The following new Rule 2(9) shall be added after Rule 2(8):
+
+The form of Award shall specify whether it is granted under the US 
+Sub-Plan.
+ 
+3 	TRANSFER OF SHARES TO PARTICIPANTS
+ 
+3.1 	The following Rule shall replace Rules 4(4)(a) to (c), and existing 
+Rules 4(4)(d) and (e) shall be renumbered accordingly:
+ 
+  	(a) 	subject to Rule 4(7) the Award shall be deemed to be exercised by 
+the Participant on the Vesting Date.
+ 
+3.2 	Rule 4(7) shall be replaced by the following:
+
+The exercise of an Award and the transfer of any shares under the Plan 
+shall be subject to the provisions of the Model Code published by the UK 
+Listing Authority and to obtaining any approval or consent referred to in 
+sub-rule 2(8). Where the exercise of the Award or the transfer of shares 
+pursuant to an Award is prohibited
+ 
+13
+
+------------------------------------------------------------------------
+pursuant to the Model Code at any time, such exercise shall be deemed to 
+take effect and the transfer shall instead take place as soon as reasonably 
+practicable after it is no longer prohibited by the Model Code and in any 
+event no later than the 15 March following the calendar year in which the 
+Vesting Date falls.
+ 
+14
+
+------------------------------------------------------------------------
+APPENDIX 2  OPERATION OF CLAW-BACK
+
+Claw-back prior to the transfer of shares in respect of an Award
+ 
+(1) 	Where the Remuneration Committee determines (pursuant to Rule 4A(2)) 
+that a Claw-back shall apply in respect of an Award prior to shares having 
+been transferred to the Participant pursuant to the Award (whether before 
+or after the Vesting Date), the Claw-back shall be applied by the 
+Remuneration Committee reducing the number of Allocated Shares comprised in 
+the Award by up to the number of shares determined by the Remuneration 
+Committee to be the excess number of shares in respect of which the Award 
+was granted and/or is outstanding (and the Award shall lapse to the extent 
+so reduced, which may be in full).
+
+
+Claw-back following the transfer of shares in respect of an Award
+ 
+(2) 	Where the Remuneration Committee determines (pursuant to Rule 4A(1) or 
+4A(2)) that a Claw-back shall apply in respect of an Award following shares 
+having been transferred to the Participant pursuant to the Award (a 
+Post-Transfer Claw-back), the Remuneration Committee shall determine:
+ 
+  	(a) 	the excess number of shares in respect of which the Award became 
+exercisable (the Excess Shares); and
+ 
+  	(b) 	the aggregate market value of such Excess Shares (as determined by 
+the Remuneration Committee) on the Vesting Date (the Equivalent Value).
+ 
+(3) 	In the case of a Post-Transfer Claw-back any cash payment made 
+pursuant to Rule 44(9) in respect of such Award shall be subject to the 
+Claw-back to the extent that the Remuneration Committee determines that 
+such cash payment relates to the Excess Shares.
+ 
+(4) 	A Post-Transfer Claw-back may be effected in such manner as may be 
+determined by the Remuneration Committee, and notified to the Participant, 
+including by any one or more of the following:
+ 
+  	(a) 	by reducing the number of shares and/or amount of cash in respect 
+of which an Outstanding Award vests or may vest (or has vested, but in 
+respect of which no shares have yet been transferred or cash payment made), 
+whether before or after the assessment of performance conditions in respect 
+of such Outstanding Award, by the number of Excess Shares and/or the 
+Equivalent Value (and such Outstanding Award shall lapse to the extent so 
+reduced);
+ 
+  	(b) 	by setting-off against any amounts payable by any Participating 
+Company to the Participant an amount up to the Equivalent Value (including 
+from any bonus payment which may otherwise become payable to the 
+Participant); and/or
+ 
+  	(c) 	
+by requiring the Participant to immediately transfer to the Company a 
+number of shares equal to the Excess Shares or a cash amount equal to the 
+Equivalent Value (which shall be an immediately payable debt due to the 
+Company), provided that the Remuneration Committee may reduce the number of 
+Excess Shares or the amount of the Equivalent Value subject to
+ 
+15
+
+------------------------------------------------------------------------
+  	 the Claw-back in order to take account of any Tax Liability (as defined 
+in Rule 44(6)) which arose on the Excess Shares (howsoever delivered to the 
+Participant).
+ 
+(5) 	In paragraph (4) above:
+
+Outstanding Award means any other Award under the Plan, any award or 
+option under any other employees share scheme operated from time to time 
+by any Participating Company (other than any award or options granted under 
+any arrangement which satisfies the provisions of Schedules 2 or 3, or 
+(unless the terms of such arrangement state that shares acquired thereunder 
+are subject to claw-back) 4 or 5 of the Income Tax (Earnings and Pensions) 
+Act 2003), or any bonus award under any bonus scheme operated from time to 
+time by any Participating Company, in each case which is either held by the 
+Participant at the time of a determination that a Claw-back shall be 
+applied or which are granted to the Participant following such a 
+determination; and
+
+vests shall include shares or cash subject to an award becoming due to be 
+transferred or paid, and in the case of an option, the option becoming 
+exercisable.
+ 
+16
+
+------------------------------------------------------------------------
+SCHEDULE : PERFORMANCE CONDITIONS
+FOR AWARDS MADE FROM MAY 2011 ONWARDS
+ 
+1. 	Subject to Rules 4 and 5 of the Plan, 25% of the Allocated Shares in 
+respect of a Performance Period may only be transferred to the extent the 
+condition specified in paragraph 5 below is satisfied; 25% of the Allocated 
+Shares in respect of a Performance Period may only be transferred to the 
+extent the condition specified in paragraph 6 below is satisfied; and the 
+remaining 50% of the Allocated Shares in respect of a Performance Period 
+may only be transferred to the extent the condition specified in paragraph 
+7 below is satisfied.
+ 
+2. 	For the purpose of the condition in paragraph 5 below:
+ 
+  	(a) 	The Total Shareholder Return of a company over any period is a 
+combination of its share price and dividend performance, which shall be 
+calculated as set out in paragraph 5(a) below.
+ 
+  	(b) 	The comparator companies are the constituents of the FTSE 100 Index 
+at the beginning of the Performance Period, excluding those companies which 
+are not quoted on the London Stock Exchange on the last day of the relevant 
+Performance Period.
+ 
+3. 	For the purposes of the condition in paragraph 6 below:
+ 
+  	(a) 	The Total Shareholder Return of a company over any period is a 
+combination of its share price and dividend performance, which shall be 
+calculated as set out in paragraph 5(a) below.
+ 
+  	(b) 	The comparator companies are:
+ 
+ Anheuser-Busch InBev
+   	Imperial Tobacco Group plc 	   	PepsiCo Inc
+ Campbell Soup Company
+   	Japan Tobacco 	   	Pernod Ricard
+ Carlsberg A/S
+   	Johnson & Johnson 	   	Philip Morris International
+ The Coca Cola Company
+   	Kellogg 	   	Procter & Gamble
+ Colgate-Palmolive
+   	Kimberley-Clark Corp 	   	Reckitt Benckiser plc
+ Groupe Danone plc
+   	Kraft Foods 	   	SABMiller
+ Diageo plc
+   	LVMH 	   	Sara Lee Corp
+ Heineken N.V.
+   	Nestle SA 	   	Unilever plc
+ HJ Heinz Company
+   	 	   	
+ 
+4. 	For the purpose of the condition in paragraph 7 below:
+ 
+  	(a) 	The earnings per share of the Company shall be calculated on such 
+basis as the Remuneration Committee may determine from time to time.
+ 
+  	(b) 	The Retail Prices Index is the general index of retail prices (for 
+all items) published by the UK Office for National Statistics or, if that 
+index is not published for the month in question, any substituted index 
+which is published.
+ 
+5.
+(a) 	
+The Total Shareholder Return of the Company and each of the relevant 
+comparator companies over the relevant Performance Period shall be
+ 
+17
+
+------------------------------------------------------------------------
+computed by comparing the average gross return index of the relevant 
+companies as calculated by Datastream (excluding Saturdays and Sundays) in 
+the three months preceding the beginning of the Performance Period with the 
+average gross return index (calculated in the same manner) in the 3 months 
+preceding the end of the Performance Period, provided that where Datastream 
+is unable to provide the necessary information, the Remuneration Committee 
+may rely upon such other sources of information as it considers 
+appropriate.
+ 
+  	(b) 	All such companies shall be ranked by the resulting Total 
+Shareholder Return figures, with the company with the highest figure having 
+the highest ranking, and median and upper quartile performance shall be 
+determined on such basis as the Remuneration Committee, acting reasonably, 
+may specify from time to time.
+ 
+  	(c) 	The percentage of the Allocated Shares to be transferred depends 
+upon the Companys Total Shareholder Return relative to the median and 
+upper quartile performance specified in paragraph (b) above, as follows:
+
+
+For Executive Board and Management Board members:
+ 
+The Companys Performance
+   	
+% Transferable
+ 1.Upper quartile or above
+   	25%
+ 2.Median
+   	6%
+ 3.Between upper quartile and median
+   	Pro-rata between 25% and 6% on the basis of Total Shareholder Return 
+performance
+ 4.Below median
+   	0%
+
+For LTIP participants below Management Board level:
+ 
+The Companys Performance
+   	
+% Transferable
+ 1.Upper quartile or above
+   	25%
+ 2.Median
+   	7.5%
+ 3.Between upper quartile and median
+   	Pro-rata between 25% and 7.5% on the basis of Total Shareholder Return 
+performance
+ 4.Below median
+   	0%
+ 
+  	(d) 	
+notwithstanding the provisions of paragraphs (a), (b) and (c) above, but 
+subject to Rules 4 and 5 of the Plan, no Allocated Shares may be
+ 
+18
+
+------------------------------------------------------------------------
+  	 transferred unless, in the opinion of the Remuneration Committee, the 
+underlying financial performance of the Company over the relevant 
+Performance Period has been satisfactory.
+ 
+6. 	The performance condition in this paragraph 6 will operate on exactly 
+the same basis as the condition in paragraph 5 above, except that the 
+comparator companies are those set out in paragraph 3(b) above.
+ 
+7. 	The performance condition in this paragraph 7 operates by calculating 
+the annualised compound growth in earnings per share for the Company in 
+excess of the increase in the Retail Prices Index, using the earnings per 
+share of the Company for the financial year preceding grant and for the 
+final financial year of the Performance Period as the basis of measurement. 
+Mathematically, it is expressed as follows:
+ 
+(a) 	X, the annualised compound growth in earnings per share for the 
+Company in excess of the increase in the Retail Price Index shall be 
+calculated in the following manner:
+ 
+E0 	   	  	= 	  	   	the earnings per share of the Company in the financial 
+year immediately preceding the financial year in which the Performance 
+Period begins
+E3 	   	  	= 	  	   	the earnings per share of the Company in the final 
+financial year of the Performance Period
+R0 	   	  	= 	  	   	the Retail Prices Index for the last month of the 
+financial year immediately preceding the Performance Period
+R3 	   	  	= 	  	   	the Retail Prices Index for the last month of the 
+final financial year of the Performance Period
+ 
+[LOGO]
+
+X = EPS Growth  RPI Growth
+ 
+19
+
+------------------------------------------------------------------------
+(b) 	The percentage of the Allocated Shares to be transferred pursuant to 
+the condition in this paragraph is shown in the following table (where X is 
+calculated as described in paragraph 7(a) above).
+
+For Executive Board and Management Board members:
+ 
+X
+   	
+% Transferable
+ 1. 8% pa or greater
+   	50%
+ 2. 3% pa
+   	8%
+ 3. Between 3% pa and 8% pa
+   	Pro-rata between 8% and 50%
+ 4. Less than 3% pa
+   	0%
+
+For participants below Management Board level:
+ 
+X
+   	
+% Transferable
+ 1. 8% pa or greater
+   	50%
+ 2. 3% pa
+   	10%
+ 3. Between 3% pa and 8% pa
+   	Pro-rata between 10% and 50%
+ 4. Less than 3% pa
+   	0%
+ 
+8. 	The Remuneration Committee may make such adjustments to the performance 
+conditions in this Schedule as it considers appropriate to take account of:
+ 
+  	(a) 	any increase or variation of the share capital of the Company;
+ 
+  	(b) 	any change to the accounting standards adopted by the Company;
+ 
+  	(c) 	there being no pre-tax earnings per share of the Company for any 
+relevant financial year;
+ 
+  	(d) 	any events which impact the comparator companies for the Total 
+Shareholder Return measure such as a merger or de-listing;
+ 
+  	(e) 	a change in the calculation of Total Shareholder Return;
+ 
+  	(f) 	the occurrence of an event specified in Rules 4 or 5 of the Plan; 
+or
+ 
+  	(g) 	any other factors which are in the opinion of the Remuneration 
+Committee relevant.
+ 
+20
+
+------------------------------------------------------------------------
+SCHEDULE : PERFORMANCE CONDITIONS
+FOR AWARDS MADE FROM MARCH 2014 ONWARDS
+ 
+1. 	Subject to Rules 4 and 5 of the Plan, 25% of the Allocated Shares in 
+respect of a Performance Period may only be transferred to the extent the 
+condition specified in paragraph 5 below is satisfied; 25% of the Allocated 
+Shares in respect of a Performance Period may only be transferred to the 
+extent the condition specified in paragraph 6 below is satisfied; and the 
+remaining 50% of the Allocated Shares in respect of a Performance Period 
+may only be transferred to the extent the condition specified in paragraph 
+7 below is satisfied.
+ 
+2. 	For the purpose of the condition in paragraph 5 below:
+ 
+  	(a) 	The Total Shareholder Return of a company over any period is a 
+combination of its share price and dividend performance, which shall be 
+calculated as set out in paragraph 5(a) below.
+ 
+  	(b) 	The comparator companies are:
+ 
+ Anheuser-Busch InBev
+   	Imperial Tobacco Group plc 	   	PepsiCo Inc
+ Campbell Soup Company
+   	Japan Tobacco 	   	Pernod Ricard
+ Carlsberg A/S
+   	Johnson & Johnson 	   	Philip Morris International
+ The Coca Cola Company
+   	Kellogg 	   	Procter & Gamble
+ Colgate-Palmolive
+   	Kimberley-Clark Corp 	   	Reckitt Benckiser plc
+ Groupe Danone plc
+   	LVMH 	   	SABMiller
+ Diageo plc
+   	Mondelez International 	   	Unilever plc
+ Heineken N.V.
+   	Nestle SA 	   	
+ 
+3. 	For the purpose of the condition in paragraph 6 below:
+ 
+  	(a) 	The Net Turnover (NTO) of the Company shall be calculated as the 
+compound annual growth measured on a constant currency basis.
+ 
+4. 	For the purpose of the condition in paragraph 7 below:
+ 
+  	(a) 	The earnings per share of the Company shall be calculated on such 
+basis as the Remuneration Committee may determine from time to time.
+ 
+5.
+(a) 	
+The Total Shareholder Return of the Company and each of the relevant 
+comparator companies over the relevant Performance Period shall be computed 
+by comparing the average gross return index of the relevant companies as 
+calculated by Datastream (excluding Saturdays and Sundays) in the three 
+months preceding the beginning of the Performance Period with the average 
+gross return index (calculated in the same manner) in the 3 months 
+preceding the end of the Performance Period, provided that where Datastream 
+is unable to provide the necessary information, the Remuneration Committee 
+may rely upon such other sources of information as it considers 
+appropriate.
+ 
+21
+
+------------------------------------------------------------------------
+  	(b) 	All such companies shall be ranked by the resulting Total 
+Shareholder Return figures, with the company with the highest figure having 
+the highest ranking, and median and upper quartile performance shall be 
+determined on such basis as the Remuneration Committee, acting reasonably, 
+may specify from time to time.
+ 
+  	(c) 	The percentage of the Allocated Shares to be transferred depends 
+upon the Companys Total Shareholder Return relative to the median and 
+upper quartile performance specified in paragraph (b) above, as follows:
+ 
+The Companys Performance
+   	
+% Transferable
+ 1.Upper quartile or above
+   	25%
+ 2.Median
+   	6%
+ 3.Between upper quartile and median
+   	Pro-rata between 25% and 6% on the basis of Total Shareholder Return 
+performance
+ 4.Below median
+   	0%
+ 
+  	(d) 	Notwithstanding the provisions of paragraphs (a), (b) and (c) 
+above, but subject to Rules 4 and 5 of the Plan, no Allocated Shares may be 
+transferred unless, in the opinion of the Remuneration Committee, the 
+underlying financial performance of the Company over the relevant 
+Performance Period has been satisfactory.
+ 
+6.
+(a) 	
+The performance condition in this paragraph 6 operates by calculating the 
+compound annual growth in the NTO of the Company, measured on a constant 
+currency basis.
+ 
+  	(b) 	The percentage of the Allocated Shares to be transferred depends 
+upon the Companys NTO growth as specified in paragraph (a) above, as 
+follows:
+ 
+The Companys performance
+   	
+% Transferable
+ 1. 5% pa or greater
+   	25%
+ 2. 2% pa
+   	6%
+ 3. Between 2% pa and 5% pa
+   	
+   Pro-rata between 6% and 25%
+ 4. Less than 2% pa
+   	0%
+ 
+  	(c) 	Notwithstanding the provisions of paragraphs (a) and (b) above, the 
+Remuneration Committee has the discretion to determine that no vesting will 
+occur for NTO unless the three year constant currency compound annual 
+growth rate of underlying operating profit exceeds the compound annual 
+growth rate of the threshold performance level for underlying operating 
+profit, as defined annually in the IEIS, as approved by the Board.
+ 
+22
+
+------------------------------------------------------------------------
+Compound annual growth is calculated as follows:
+ 
+NTO0 	   	  	= 	  	   	the NTO in the financial year immediately preceding 
+the financial year in which the Performance Period begins
+NTO3 	   	  	= 	  	   	the NTO in the final financial year of the 
+Performance Period
+ 
+ 
+[LOGO]
+ 
+7.
+(a) 	
+The performance condition in this paragraph 7 operates by calculating the 
+compound annual growth in adjusted diluted earnings per share for the 
+Company (measured at current exchange rate).
+ 
+  	(b) 	The percentage of the Allocated Shares to be transferred depends 
+upon the Companys adjusted diluted earnings per share growth as specified 
+in paragraph (a) above, as follows:
+ 
+X
+   	
+% Transferable
+1. 	  	
+ 10% pa or greater
+   	50%
+2. 	  	
+ 5% pa
+   	8%
+3. 	  	
+ Between 5% pa and 10% pa
+   	Pro-rata between 8% and 50%
+4. 	  	
+ Less than 5% pa
+   	0%
+
+Compound annual growth is calculated as follows:
+ 
+E0 	   	  	= 	  	   	the earnings per share of the Company in the financial 
+year immediately preceding the financial year in which the Performance 
+Period begins
+E3 	   	  	= 	  	   	the earnings per share of the Company in the final 
+financial year of the Performance Period
+ 
+[LOGO]
+ 
+23
+
+------------------------------------------------------------------------
+8. 	The Remuneration Committee may make such adjustments to the performance 
+conditions in this Schedule as it considers appropriate to take account of:
+ 
+  	(a) 	any increase or variation of the share capital of the Company;
+ 
+  	(b) 	any change to the accounting standards adopted by the Company;
+ 
+  	(c) 	there being no pre-tax earnings per share of the Company for any 
+relevant financial year;
+ 
+  	(d) 	any events which impact the comparator    companies for the Total 
+Shareholder Return measure such as a merger or de-listing;
+ 
+  	(e) 	a change in the calculation of Total Shareholder Return;
+ 
+  	(f) 	the occurrence of an event specified in Rules 4 or 5 of the Plan; 
+or
+ 
+  	(g) 	any other factors which are in the opinion of the Remuneration 
+Committee relevant.
+ 
+9.
+(a) 	
+After the conditions in paragraph 5, 6 and 7 have been assessed, the 
+Remuneration Committee may make such adjustment to the percentage of 
+Allocated Shares that are to be transferred pursuant to one or more of such 
+conditions as it considers appropriate to take account of any factors which 
+are in the opinion of the Remuneration Committee relevant.
+ 
+  	(b) 	An adjustment pursuant to this paragraph 9 may be either positive 
+(but, for the avoidance of doubt, not so that the adjusted percentage of 
+Allocated Shares to be transferred pursuant to any condition exceeds the 
+maximum percentage of Allocated Shares that may be transferred pursuant to 
+that condition, as set out in paragraph 1) or negative (including reducing 
+the percentage of Allocated Shares to be transferred to nil). For the 
+avoidance of doubt, where the Remuneration Committee makes any adjustment 
+pursuant to this paragraph 9 the percentage of Allocated Shares to be 
+transferred pursuant to any condition shall be the percentage as adjusted 
+by the Remuneration Committee notwithstanding the outcome of that condition 
+as set out in paragraph 5, 6 and/or 7 (as applicable).
+ 
+24

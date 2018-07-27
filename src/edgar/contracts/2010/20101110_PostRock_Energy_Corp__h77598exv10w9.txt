@@ -1,0 +1,913 @@
+ EX-10.9 2 h77598exv10w9.htm EX-10.9
+
+Exhibit 10.9
+
+EXECUTION
+
+
+ASSET SALE AGREEMENT
+
+(PostRock Energy Corporation)
+
+     THIS ASSET SALE AGREEMENT (this Agreement), dated as of September 
+21, 2010, is made by and between POSTROCK ENERGY CORPORATION, a Delaware 
+corporation (the Company), and ROYAL BANK OF CANADA, as Lender (as 
+defined below).
+
+
+R E C I T A L S:
+
+     A. Pursuant to that certain Third Amended and Restated Credit 
+Agreement, dated of even date herewith (as the same may hereafter be 
+amended, supplemented and restated, the Credit Agreement), among QUEST 
+EASTERN RESOURCE LLC, a Delaware limited liability company (Borrower), 
+Royal Bank of Canada, as lender (Lender), and Royal Bank of Canada, as 
+administrative agent and collateral agent (in its capacity as 
+administrative agent and collateral agent, the Administrative Agent), the 
+Lender agreed to make Loans for the account of the Borrower.
+
+     B. Pursuant to Section 4.01(b)(i) of the Credit Agreement, Borrower is 
+required to deliver to the Administrative Agent this Agreement executed by 
+the Company.
+
+     C. The Company has duly authorized the execution, delivery and 
+performance of this Agreement.
+
+     D. Company owns indirectly 100% of the equity of Borrower.
+
+     E. It is in the best interests of the Company to execute this 
+Agreement inasmuch as the Company will derive substantial direct and 
+indirect benefits from the loans made from time to time to or for the 
+account of the Borrower.
+
+     NOW THEREFORE, for good and valuable consideration, the receipt of 
+which is hereby acknowledged, and in order to fulfill the requirements of 
+the Credit Agreement, the Company agrees, for the benefit of Lender, as 
+follows:
+
+
+ARTICLE I
+DEFINITIONS
+
+     SECTION 1.1. Certain Terms. The following capitalized terms when used 
+in this Agreement, including its preamble and recitals, shall have the 
+following meanings (such definitions to be equally applicable to the 
+singular and plural forms thereof):
+
+     Administrative Agent is defined in Recital A.
+
+     Agreement is defined in the preamble.
+
+Page 1
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Amount of Loss shall mean (A) if the amount paid to Lender (whether 
+for principal, interest, fees, expenses, or otherwise) in connection with a 
+Qualifying Sale is (i) $*** or more, zero, (ii) if the amount paid is less 
+than $*** but equal to or more than $***, then the excess of $*** over the 
+amount paid to Lender in connection with a Qualifying Sale (excluding any 
+payment pursuant to this Agreement) but in no event to exceed $7,500,000, 
+and (iii) if the amount paid to Lender (whether for principal, interest, 
+fees, expenses or otherwise) in connection with a Non-Qualifying Sale is 
+less than $***, $7,500,000 and (B) in connection with the Companys 
+exercise of the Put Option, $7,500,000.
+
+     Borrower is defined in Recital A.
+
+     Business Day shall have the meaning set forth for such term in the 
+Credit Agreement; Business Days shall be the plural of Business Day.
+
+     Closing Date is defined in Section 2.1.
+
+     Company is defined in the preamble.
+
+     Company Share Payment Notice is defined in Section 2.1.
+
+     Company Shares means shares of common stock of the Company, $0,001 
+par value.
+
+     Credit Agreement is defined in Recital A.
+
+     Current Operating Agreement is defined in Section 4.2(d).
+
+     Deferred Payment Amount means, in connection with a Qualifying Sale 
+or a Non-Qualifying Sale, the amount or amounts of any purchase price 
+deferred, whether or not evidenced by a promissory note.
+
+     Escrowed Amount means, in connection with a Qualifying Sale or a 
+Non-Qualifying Sale, the amount or amounts placed in escrow against any 
+liabilities associated with the assets being sold, which amount will be 
+paid either to the buyer or the Lender, subject to Lenders obligation to 
+remit any released Escrowed Amount to the Company to the extent required 
+under Section 2.1(b) hereof.
+
+     Fees and Expenses is defined in Section 5.8.
+
+     Intercompany Loans means all outstanding intercompany loans made by 
+the Company or PESC to Borrower permitted under the Credit Agreement in the 
+aggregate not to exceed $2,000,000.
+
+     Lender is defined in the Recital A.
+
+     Loan Documents means the Loan Documents (as defined in the Credit 
+Agreement).
+
+     Marcellus Assets means the Marcellus shale gas properties owned by 
+Borrower and located in New York and West Virginia that constitute the real 
+property collateral mortgaged by Borrower to secure repayment of amounts 
+owing under the Credit Agreement and Note.
+
+Page 2
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Marcellus Pipeline means the gathering system owned and operated by 
+Borrower.
+
+     New Operating Agreement is defined in Section 4.2(d).
+
+     Non-Qualifying Sale means a sale made with the consent of Lender, 
+which sale would otherwise meet the definition of a Qualifying Sale, except 
+that the sale will result in a payment to the Lender of less than $*** 
+(excluding any payment made pursuant to this Agreement).
+
+     Note means the Note (as defined in the Credit Agreement).
+
+     Notice of Registered Holder is defined in Section 3.1.
+
+     Obligations means the Obligations (as defined in the Credit 
+Agreement).
+
+     PESC means PostRock Energy Services Corporation, a Delaware 
+corporation
+
+     Pipeline Purchase Price is defined in Section 4.3(b).
+
+     Pipeline Sale Circumstance and Pipeline Sale Circumstances are 
+defined in Section 4.3(b).
+
+     PMP is defined in the definition of QC Marcellus Assets
+
+     Proposed Non-Qualifying Sale is defined in Section 4.2(a).
+
+     Put Exercise Circumstance is defined in Section 4.2(b)
+
+     Put Option is defined in Section 4.2(b)
+
+     Put Transfer means the transfer of 100% of the equity interest in 
+Borrower by PESC to Lender, after and as a result of the Companys exercise 
+of the Put Option.
+
+     Qualifying Sale means (i) a voluntary sale of the Marcellus Assets 
+resulting in payment to the Lender of no less than $*** (excluding any 
+payment made pursuant to this Agreement) or (ii) a voluntary sale of a 
+controlling interest in the equity of Borrower resulting in a payment to 
+such equity holder of no less than $*** (excluding any payment made 
+pursuant to this Agreement; provided that any such sale involving an Escrow 
+Amount or a Deferred Payment Amount will constitute a Qualifying Sale only 
+if the other consideration for such sale includes cash proceeds that result 
+in an amount being paid to Lender on the Closing Date of at least $*** 
+(excluding any payment made pursuant to this Agreement).
+
+     QC Marcellus Assets means the Marcellus shale gas properties owned 
+by PostRock MidContinent Production, LLC, successor by merger to Bluestem 
+Pipeline, LLC and Quest Cherokee, LLC (PMP) located in New York and West 
+Virginia that constitute a portion of the real property collateral 
+mortgaged by PMP to secure repayment of amounts owing under the Borrowing 
+Base Credit Agreement, dated of even date herewith, by and among, PESC and 
+PMP, as borrowers, and Royal Bank of Canada, as administrative agent and 
+collateral agent.
+
+     Sale Process is defined in Section 4.1.
+
+Page 3
+
+------------------------------------------------------------------------
+
+
+ 
+
+     Taxes is defined in clause (a) of Section 2.7.
+
+     UCC means the Uniform Commercial Code as in effect in the State of 
+New York.
+
+     SECTION 1.2. Credit Agreement Definitions. Unless otherwise defined 
+herein or the context otherwise requires, capitalized terms used in this 
+Agreement, including its preamble and recitals, have the meanings provided 
+in the Credit Agreement.
+
+
+ARTICLE II
+LIMITED LOSS SHARING PROVISIONS
+
+     SECTION 2.1. Limited Loss Sharing.
+
+     (a) The Company hereby absolutely, unconditionally, and irrevocably 
+agrees to pay to Lender the Amount of Loss, if any, which Lender suffers as 
+a result of a Qualifying Sale or a Non-Qualifying Sale or to which Lender 
+is entitled hereunder in connection with the Put Transfer. The Company 
+shall have the option of paying such Amount of Loss, in cash or Company 
+Shares (or a combination thereof) at the closing of any Qualifying Sale, 
+Non-Qualifying Sale, or Put Transfer (the Closing; the date on which the 
+Closing occurs, the Closing Date). The Company shall notify the 
+Administrative Agent in writing at least five (5) Business Days in advance 
+of the Closing Date of its election to pay all or a portion of the Amount 
+of Loss in Company Shares (such notice whether to pay all or a portion of 
+the Amount of Loss or of the Pipeline Purchase Price, the Company Share 
+Payment Notice). The Company is not a guarantor of the Credit Agreement 
+and therefore the Company has no obligations of any kind related to the 
+Credit Agreement except those set forth in this Agreement that are 
+specifically related to a Qualifying Sale, a Non-Qualifying Sale, a Put 
+Transfer, and the matters set forth in Article IV.
+
+     (b) With regard to any Qualifying Sale or Non-Qualifying Sale that 
+involves an Escrowed Amount or a Deferred Payment Amount, the Amount of 
+Loss shall be calculated on the Closing Date excluding the Escrowed Amount 
+and the Deferred Payment Amount, but after repayment of any Intercompany 
+Loans, in any case. If upon disbursement of Escrowed Amount and/or the 
+Deferred Payment Amount, the amount of the payment to Lender would result 
+in Lender receiving more than Lender would be entitled to under this 
+Agreement, any excess shall be remitted by Lender to the Company within 
+five (5) Business Days (to the extent received by Lender, or if amounts in 
+respect of Deferred Payment Amount are received by the Company, the Company 
+may retain any such excess). For example, if the Marcellus Assets are sold 
+for $*** cash on the Closing Date, the Amount of Loss (after repayment of 
+all Intercompany Loans) will be $5,550,000 ($*** minus $***). If the 
+Marcellus Assets are sold for a total of $*** but $*** is paid in cash on 
+the Closing Date and $5,000,000 is placed in escrow and becomes the 
+Escrowed Amount, the Amount of Loss (after repayment of all Intercompany 
+Loans) calculated at the Closing Date will be $7,500,000 (the excess of 
+$*** minus $*** (subject to $7,500,000 maximum)). If the $5,000,000 in 
+Escrowed Amount is subsequently disbursed to the Lender, the Amount of Loss 
+will be recalculated (trued-up) based on a sale price of $*** and the 
+Amount of Loss as recalculated will be $5,550,000. Therefore, the Lender 
+will retain $3,050,000 of the Escrowed Amount and the Lender will remit to 
+the Company $1,950,000 within five (5) Business Days.
+
+Page 4
+
+------------------------------------------------------------------------
+
+
+ 
+
+     SECTION 2.2. Minimum Proceeds. Lender shall have no obligation, and 
+there is no agreement or understanding obligating Lender, to consent to a 
+sale that would constitute a Non-Qualifying Sale if Lender were to consent 
+to such sale. The Administrative Agents lien on the Marcellus Assets and 
+Borrowers equity held for the benefit of the Lender shall not be released 
+if less than $*** is paid to Lender (excluding any payment made to Lender 
+under this Agreement), except in connection with a Non-Qualifying Sale.
+
+     SECTION 2.3. Satisfaction of Obligations. Lender hereby absolutely, 
+unconditionally, and irrevocably agrees to accept in full payment of the 
+Obligations, (i) the Net Cash Proceeds received by Borrower (or Borrowers 
+equity holder, in the case of a sale of Borrowers equity) and paid to 
+Lender in connection with a Qualifying Sale or a Non-Qualifying Sale, 
+together with the Amount of Loss, if any, paid by the Company pursuant to 
+this Agreement (up to but not exceeding the amount of the Obligations at 
+the time then owing by Borrower to Lender), or (ii) in the case of an 
+exercise of the Put Option, the Put Transfer, together with any amount 
+payable pursuant to Section 4.2(b) of this Agreement (up to but not 
+exceeding the amount of the Obligations at any time then owing by Borrower 
+to Lender). Upon satisfactory evidence that such payments have been or will 
+be made to Lenders satisfaction, Lender will instruct the Administrative 
+Agent to execute and deliver on or prior to the Closing Date, to such party 
+as Borrower shall direct, all mortgage releases and uniform commercial code 
+financing statement termination statements covering the Borrowers 
+collateral, including the Marcellus Assets, and shall return to the Company 
+the certificates (if any) representing the equity of the Borrower owned 
+indirectly by the Company.
+
+     SECTION 2.4. Indemnification. The Company hereby absolutely, 
+unconditionally, and irrevocably indemnifies and holds harmless Lender for 
+any and all costs and expenses (including reasonable attorneys fees and 
+expenses) incurred by Lender in enforcing any rights against the Company 
+under this Agreement.
+
+     SECTION 2.5. Agreement Absolute, etc. This Agreement shall in all 
+respects be a continuing, absolute, unconditional and irrevocable 
+obligation of the Company, and shall remain in full force and effect until 
+the first to occur of (i) all Obligations (other than contingent 
+obligations, such as those for indemnification) of the Borrower have been 
+paid in full (ii) a Qualifying Sale or Non-Qualifying Sale shall have 
+occurred on the Closing Date; or (iii) the Company shall have exercised the 
+Put Option and all related obligations under the provisions of Article IV 
+have been satisfied. The Company may not rescind or revoke its obligations 
+hereunder. The liability of the Company under this Agreement shall be 
+absolute, unconditional (except as provided by the terms of this Agreement) 
+and irrevocable irrespective of: (1) any lack of validity, legality or 
+enforceability of the Credit Agreement, the Note or any other Loan 
+Document; (2) the failure of Lender (a) to assert any claim or demand or to 
+enforce any right or remedy against the Borrower or any other Person under 
+the provisions of the Credit Agreement, the Note, any other Loan Document 
+or otherwise, or (b) to exercise any right or remedy against any collateral 
+securing, any Obligations of the Borrower, (3) any change in the time, 
+manner or place of payment of, or in any other term of, all or any of the 
+Obligations of the Borrower, or any other extension, compromise or renewal 
+of any Obligations of the Borrower; (4) any reduction, limitation, 
+impairment or termination of any Obligations of the Borrower for any 
+reason, including any claim of waiver, release, surrender, alteration or 
+compromise, and shall not be subject to (and Company hereby waives any 
+right to or claim of) any defense or setoff,
+
+Page 5
+
+------------------------------------------------------------------------
+
+
+ 
+
+counterclaim, recoupment or termination whatsoever by reason of the 
+invalidity, illegality, nongenuineness, irregularity, compromise, 
+unenforceability of, or any other event or occurrence affecting, any 
+Obligations of the Borrower, or otherwise; (5) any amendment to, 
+rescission, waiver, or other modification of, or any consent to departure 
+from, any of the terms of the Credit Agreement, the Note or any other Loan 
+Document; (6) any addition, exchange, release, surrender or non-perfection 
+of any collateral, or any amendment to or waiver or release or addition of, 
+or consent to departure from, any guaranty held by the Administrative 
+Agent, Lender or any holder of the Note securing any of the Obligations of 
+the Borrower; (7) the insolvency or bankruptcy of, or similar event 
+affecting, the Borrower; or (8) any other circumstance which might 
+otherwise constitute a defense available to, or a legal or equitable 
+discharge of, the Borrower. The Company waives all rights and defenses 
+which may arise with respect to any of the foregoing, and the Company 
+waives any right to revoke this Agreement with respect to future 
+indebtedness.
+
+     SECTION 2.6. Reinstatement. The Company agrees that this Agreement 
+shall continue to be effective or be reinstated, as the case may be, if at 
+any time any payment (in whole or in part and whether in cash or by 
+issuance of Company Shares) of any of the Obligations is rescinded or must 
+otherwise be restored by the Administrative Agent, Lender or any holder of 
+the Note, upon the insolvency, bankruptcy or reorganization of Borrower, or 
+otherwise, all as though such payment had not been made.
+
+     SECTION 2.7. Waiver, etc. The Company hereby waives promptness, 
+diligence, notice of acceptance and any other notice with respect to any of 
+the Obligations of the Borrower and this Agreement and any requirement that 
+the Administrative Agent, the Lender or any holder of the Note protect, 
+secure, perfect or insure any security interest or Lien, or any property 
+subject thereto, or exhaust any right or take any action against the 
+Borrower, or any collateral securing the Obligations of the Borrower, as 
+the case may be.
+
+     SECTION 2.8. Waiver of Subrogation. Until the Obligations are paid in 
+full or satisfaction of the conditions specified in Section 2.3, and except 
+for Borrowers repayment of the Intercompany Loans, which may occur at any 
+time that this Agreement is in effect, the Company shall not enforce or 
+exercise any claim or other rights which it may now or hereafter acquire 
+against the Borrower that arise from the existence, payment, performance or 
+enforcement of Companys obligations under this Agreement or any other Loan 
+Document, including any right of subrogation, reimbursement, exoneration, 
+or indemnification, any right to participate in any claim or remedy of the 
+Administrative Agent or Lender against the Borrower or any collateral which 
+the Administrative Agent now has or hereafter acquires, whether or not such 
+claim, remedy or right arises in equity, or under contract, statute or 
+common law, including the right to take or receive from the Borrower, 
+directly or indirectly, in cash or other property or by set-off or in any 
+manner, payment or security on account of such claim or other rights. If 
+any amount shall be paid to Company in violation of the preceding sentence, 
+such amount shall be deemed to have been paid to Company for the benefit 
+of, and held in trust for, the Lender, and shall forthwith be paid to the 
+Administrative Agent for the benefit of the Lender by the Company to be 
+credited and applied upon the Obligations, whether matured or unmatured. 
+Company acknowledges that it will receive direct and indirect benefits from 
+the financing arrangements contemplated by the Credit Agreement and that 
+the waiver set forth in this Section is knowingly made in contemplation of 
+such benefits.
+
+Page 6
+
+------------------------------------------------------------------------
+
+
+ 
+
+     SECTION 2.9. Payments Free and Clear of Taxes, etc. The Company hereby 
+agrees that:
+
+     (a) All payments by Company hereunder shall be made in accordance with 
+Section 3.01 of the Credit Agreement free and clear of and without 
+deduction for any and all present or future taxes, duties, levies, imposts, 
+deductions, assessments, fees, withholdings or similar charges, and all 
+liabilities with respect thereto; excluding, in the case of the 
+Administrative Agent and the Lender, taxes imposed on or measured by its 
+net income (including any franchise taxes imposed on or measured by its net 
+income), by the jurisdiction (or any political subdivision thereof) under 
+the Laws of which the Administrative Agent or the Lender, as the case may 
+be, is organized or maintains its Lending Office (all such non-excluded 
+taxes, duties, levies, imposts, deductions, assessments, fees, withholdings 
+or similar charges, and liabilities being hereinafter referred to as 
+Taxes). In the event that any withholding or deduction from any payment to 
+be made by the Company hereunder is required in respect of any Taxes 
+pursuant to any applicable law, rule or regulation, then the Company will 
+(i) pay directly to the relevant authority the full amount required to be 
+so withheld or deducted; (ii) promptly forward to the Lender an official 
+receipt or other documentation satisfactory to the Lender evidencing such 
+payment to such authority; and (iii) pay to the Lender such additional 
+amount or amounts as is necessary to ensure that the net amount actually 
+received by the Lender will equal the full amount the Lender would have 
+received had no such withholding or deduction been required. Moreover, if 
+any Taxes are directly asserted against the Lender with respect to any 
+payment received by the Lender hereunder, the Lender may pay such Taxes and 
+the Company will promptly pay such additional amounts (including, if 
+incurred as a result of the Companys or the Borrowers action, omission or 
+delay, any penalties, interest or expenses) as is necessary in order that 
+the net amount received by the Lender after the payment of such Taxes 
+(including any Taxes on such additional amount) shall equal the amount the 
+Lender would have received had such Taxes not been asserted.
+
+     (b) If the Company fails to pay any Taxes when due to the appropriate 
+taxing authority or fails to remit to the Lender the required receipts or 
+other required documentary evidence, the Company shall indemnify the Lender 
+for any incremental Taxes, interest or penalties that may become payable by 
+the Lender as a result of any such failure.
+
+     (c) Without prejudice to the survival of any other agreement of the 
+Company hereunder, the agreements and obligations of the Company contained 
+in this Section 2.9 shall survive the payment in full of the principal of 
+and interest on the Loan.
+
+
+ARTICLE III
+PROVISIONS RELATING TO COMPANY SHARES
+
+     SECTION 3.1. Exercise of Option to Pay With Company Shares. As 
+provided in Section 2.1 after delivery of a Company Share Payment Notice, 
+the Company at its election may pay all or a portion of the Amount of Loss 
+by issuing to the Lender Company Shares. The amount of Company Shares to be 
+issued shall be calculated by taking the Amount of Loss to be paid using 
+Company Shares and dividing that amount by the average closing price of the 
+Companys publicly traded common stock during the prior thirty (30) 
+calendar day period before the date of the Company Share Payment Notice. 
+The resulting number, rounded up to the next whole number, is the number of 
+Company Shares to be issued to the Lender in full (or partial)
+
+Page 7
+
+------------------------------------------------------------------------
+
+
+ 
+
+payment of the Amount of Loss. Upon receipt of the Company Share Payment 
+Notice from the Company of its election to pay all or a portion of the 
+Amount of Loss in Company Shares, Lender shall within two (2) Business Days 
+prior to the Closing Date deliver a Notice of Registered Holder in the form 
+of Exhibit A hereto, identifying the person into whose name the Company 
+Shares are to be registered on the books of the Company (the Notice of 
+Registered Holder).
+
+     SECTION 3.2. Resale Registration Statement. Contemporaneously with the 
+execution of this Agreement, Lender and the Company shall enter into a 
+Registration Rights Agreement granting to Lender certain registration and 
+other rights.
+
+     SECTION 3.3. Certificate(s); No Fractional Shares. The Company shall, 
+as promptly as practicable, execute or cause to be executed and deliver to 
+Lender or its nominee a certificate or certificates representing the 
+aggregate number of Company Shares specified in the Company Share Payment 
+Notice. The stock certificate or certificates so delivered shall be in such 
+denominations as may be specified by the Lender (or its nominee) and shall 
+be registered in the name of Lender (or such nominee) as specified in the 
+Notice of Registered Holder. No fractional shares will be issued pursuant 
+to this Agreement.
+
+     SECTION 3.4. Expenses. The Company shall pay all expenses, in 
+connection with the preparation, execution and delivery of stock 
+certificates pursuant to this Agreement, except that, in case such stock 
+certificates are to be registered in a name or names other than the name of 
+the Lender, all stock transfer taxes payable upon the execution and 
+delivery of such stock certificate or certificates shall be paid by the 
+Lender at the time of delivering the Notice of Registered Holder described 
+in Section 3.1 above. In such case, the Lender shall deliver with such 
+notice evidence, satisfactory to the Company, that such taxes have been 
+paid.
+
+     SECTION 3.5. Shares to be Fully Paid and Nonassessable. The Company 
+covenants that all Company Shares which may be issued in connection with 
+this Agreement will be, upon issuance, fully paid and nonassessable.
+
+
+ARTICLE IV
+PROVISIONS RE SALE PROCESS, PUT OPTION, AND PIPELINE SALE
+
+     SECTION 4.1. Sale Process. Lender agrees and acknowledges that (i) the 
+bid solicitation and sale process being conducted by Robert W. Baird & 
+Company, under agreement with the Company (collectively, the Sale Process
+) for the sale of the Marcellus Assets (or for 100% of the equity of 
+Borrower) is an acceptable and reasonable process for generating 
+indications of interest and purchase offers with respect to the Marcellus 
+Assets (or 100% of the equity of Borrower); and (ii) in the event that the 
+Sale Process fails to result in indications of interest, written offers or 
+a contract for a Qualifying Sale or for a Non-Qualifying Sale or any sale, 
+neither the Company, nor PESC, nor the Borrower shall be liable to Lender 
+for such failure.
+
+     SECTION 4.2. Proposed Non-Qualifying Sales; Put Option.
+
+     (a) In the event that the Sale Process generates one or more written 
+offers for a sale of the Marcellus Assets or a sale of Borrowers equity 
+that would, if consented to and consummated, constitute a Non-Qualifying 
+Sale (a Proposed Non-Qualifying Sale), the
+
+Page 8
+
+------------------------------------------------------------------------
+
+
+ 
+
+Company may or may cause Borrower (or PESC as applicable) to give written 
+notice to Lender of such offer(s) and provide Lender with a copy of such 
+offer(s). Lender shall have ten (10) Business Days to deliver its written 
+consent to one or more of the Proposed Non-Qualifying Sales based upon such 
+offer(s) to Borrower, or to decline Lenders consent to any or all such 
+Proposed Non-Qualifying Sales. If Lender timely delivers its written 
+consent to one or more Proposed Non-Qualifying Sales, the Company shall (or 
+shall cause Borrower or PESC, as applicable to) use commercially reasonable 
+efforts to negotiate with the party or parties submitting offers to which 
+Lender has consented; provided however that neither the Company, nor PESC 
+shall be required to make representations and warranties in connection with 
+any such negotiations (except a representation by PESC to the effect that 
+PESC owns, and has the right to convey, 100% of the equity interest of 
+Borrower in connection with a sale of such equity interest). Additional 
+offers that would constitute a Proposed Non-Qualifying Sale may be 
+submitted by the Company to the Lender at any time. The Company shall (or 
+shall cause Borrower or PESC, as applicable to) use its commercially 
+reasonable efforts to consummate a Proposed Non-Qualifying Sale (or another 
+Qualifying Sale, as the case may be) that maximizes the value of the 
+Marcellus Assets or Borrowers equity, as the case may be, provided however 
+that neither the Company nor PESC shall be required to make representations 
+and warranties in connection with any such sale (except a representation by 
+PESC to the effect that PESC owns, and has the right to convey, 100% of the 
+equity interest of Borrower in connection with a sale of such equity 
+interest).
+
+     (b) In the event that (i) Lender does not timely consent to a Proposed 
+Non-Qualifying Sale; (ii) a Qualifying Sale or Non-Qualifying Sale fails to 
+close after the parties to such sale enter into a contract and such 
+contract is terminated; (iii) no written offer is received as a result of 
+the Sale Process on or before December 1, 2010; or (iv) no Qualifying Sale 
+or Non-Qualifying Sale has closed on or before December 21, 2010 (each 
+event specified in foregoing clauses (i)-(iv), a Put Exercise Circumstance
+), the Company and PESC shall be entitled, upon ten (10) calendar days 
+written notice to Lender, given at any time on or after the occurrence of a 
+Put Exercise Circumstance, to require that Lender receive PESCs transfer 
+of (and PESC shall so transfer) 100% of the equity in Borrower to Lender in 
+full satisfaction of all of Obligations owed to Lender and the Companys 
+obligations hereunder (the Put Option); provided, however, if the Put 
+Option is exercised, for purposes of this Agreement such exercise will 
+trigger an Amount of Loss equal to $7,500,000 minus the amount of any 
+Intercompany Loans. Such Amount of Loss shall be payable on the date the 
+transfer of 100% of the equity in Borrower to Lender occurs. Any Put 
+Transfer shall be made as is and without any representations and warranties 
+from PESC other than that PESC owns, and has the right to convey to Lender, 
+100% of the equity interest in Borrower. Upon the Companys exercise of the 
+Put Option, Lender shall take all actions necessary to facilitate the Put 
+Transfer, including without limitation, receiving the books and records of 
+Borrower, joining in the limited liability agreement of Borrower, and 
+signing an assignment of such equity interest or completing any power 
+relating to such equity interest in Borrower.
+
+     (c) In the event that the Put Option is exercised and the Put Transfer 
+occurs, the Company agrees to assist, and to cause PESC to assist, Lender 
+with respect to clearing title as to the Marcellus Assets in connection 
+with Lenders sale of the Marcellus Assets or of 100% of the equity 
+interest in Borrower.
+
+Page 9
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (d) In the event that Lender becomes the owner of the equity in 
+Borrower as a result of Companys or PESCs exercise of the Put Option 
+resulting in a Put Transfer, Lender acknowledges and agrees that the 
+Operating Agreement set forth in Exhibit B (the Current Operating 
+Agreement) will be terminated by Quest Cherokee, LLC (or its successor by 
+merger). The Company, at Lenders option (and provided that PMP is a 
+licensed operator at that time), shall cause PMP to enter into the 
+Operating Agreement set forth in Exhibit C (the New Operating Agreement) 
+and PMP shall operate the wells owned by Borrower that are part of the 
+Marcellus Assets until the earlier of (i) the date upon which Borrower no 
+longer owns such wells; or (ii) six (6) months from the date that Lender 
+becomes the owner of the equity in Borrower.
+
+     SECTION 4.3. Marcellus Pipeline Sale.
+
+     (a) As to any Qualifying Sale or Non-Qualifying Sale, Borrower shall 
+be entitled to contract with a buyer of the Marcellus Assets even if such 
+buyer does not contract to buy the QC Marcellus Assets contemporaneously 
+therewith. In the event that Borrower contracts with a buyer on such terms, 
+Borrower shall be entitled to exclude the Marcellus Pipeline from the 
+Marcellus Assets to be sold.
+
+     (b) In the event that (i) a Qualifying Sale or Non-Qualifying Sale 
+occurs but the QC Marcellus Assets are not sold contemporaneously with such 
+Qualifying Sale or Non-Qualifying Sale; or (ii) the Company or PESC 
+exercise the Put Option ((i) and (ii) collectively, the Pipeline Sale 
+Circumstances, singly a Pipeline Sale Circumstance), Lender agrees that 
+Borrower may sell the Marcellus Pipeline to PESC or its designee (and that 
+Lender shall cause Borrower to sell the Marcellus Pipeline to PESC or its 
+designee if Lender is the owner of Borrower as a result of Companys or 
+PESCs exercise of the Put Option), in either case for a purchase price of 
+$2,300,000 (the Pipeline Purchase Price). In the case of a Pipeline Sale 
+Circumstance arising under clause (i), such sale of the Marcellus Pipeline 
+shall occur on the Closing Date. In the case of a Pipeline Sale 
+Circumstance arising under clause (ii), such sale of the Marcellus Pipeline 
+shall occur as soon as practicable but in any event no later than ten (10) 
+Business Days from the date that the Company or PESC exercises the Put 
+Option. Lender agrees to take commercially reasonable action necessary to 
+facilitate such sale of the Marcellus Pipeline; provided however, the 
+Marcellus Pipeline will be sold as is and without any representations or 
+warranties from Lender.
+
+     (c) The Pipeline Purchase Price constitutes the release price to be 
+paid to Lender to release its liens on the Marcellus Pipeline. Any 
+Intercompany Loans will be credited against the Pipeline Purchase Price, 
+and any balance of the Pipeline Purchase Price shall be paid in cash.
+
+     SECTION 4.4. Intercompany Loans. Lender irrevocably agrees that before 
+any amount is paid to Lender (whether for principal, interest, fees, 
+expenses, or otherwise) in connection with a Qualifying Sale or a 
+Non-Qualifying Sale, all Intercompany Loans will be repaid in full with 
+proceeds from such Qualifying Sale or Non-Qualifying Sale, before any 
+amounts are paid to Lender.
+
+Page 10
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+ARTICLE V
+MISCELLANEOUS PROVISIONS
+
+     SECTION 5.1. Loan Document. This Agreement is a Loan Document executed 
+pursuant to the Credit Agreement and shall (unless otherwise expressly 
+indicated herein) be construed, administered and applied in accordance with 
+the terms and provisions thereof.
+
+     SECTION 5.2. Successors and Assigns. This Agreement benefits the 
+Lender, and its respective successors and assigns and binds the Company and 
+its successors and assigns. The rights of the Lender under this Agreement 
+may be transferred with any assignment of the Loan pursuant to and in 
+accordance with the terms of the Credit Agreement. The Credit Agreement 
+contains provisions governing assignments of the Loan.
+
+     SECTION 5.3. Amendments, etc. No amendment to or waiver of any 
+provision of this Agreement, nor consent to any departure by the Company 
+herefrom, shall in any event be effective unless the same shall be in 
+writing and signed by or on behalf of the party against whom it is sought 
+to be enforced and is in conformity with the requirements of Section 10.01 
+of the Credit Agreement. Each such waiver or consent shall be effective 
+only in the specific instance and for the specific purpose for which given.
+
+     SECTION 5.4. Addresses for Notices to the Company. All notices and 
+other communications hereunder to the Company shall be in writing and 
+mailed or delivered to it, addressed to it at the address set forth below 
+or at such other address as shall be designated by the Company in a written 
+notice to the Administrative Agent at the address specified in the Credit 
+Agreement complying as to delivery with the terms of this Section. All such 
+notices and other communications shall, when mailed, be effective when 
+deposited in the mail, addressed as aforesaid. The Companys address for 
+notices is:
+
+210 Park Avenue, Suite 2750
+Oklahoma City, Oklahoma 73102
+Attn: Chief Executive Officer
+
+Facsimile: (405) 702-7487
+Telephone: (405) 702-7756
+
+     SECTION 5.5. No Waiver; Remedies. In addition to, and not in 
+limitation of, Section 2.7, no failure on the part of the Lender or any 
+holder of a Note to exercise, and no delay in exercising, any right 
+hereunder shall operate as a waiver thereof, nor shall any single or 
+partial exercise of any right hereunder preclude any other or further 
+exercise thereof or the exercise of any other right. The remedies herein 
+provided are cumulative and not exclusive of any remedies provided by law.
+
+     SECTION 5.6. Section Captions. Section captions used in this Agreement 
+are for convenience of reference only, and shall not affect the 
+construction of this Agreement.
+
+     SECTION 5.7. Severability. Wherever possible, each provision of this 
+Agreement shall be interpreted in such manner as to be effective and valid 
+under applicable law, but if any provision of this Agreement shall be 
+prohibited by or invalid under such law, such provision
+
+Page 11
+
+------------------------------------------------------------------------
+
+
+ 
+
+shall be ineffective to the extent of such prohibition or invalidity, 
+without invalidating the remainder of such provision or the remaining 
+provisions of this Agreement.
+
+     SECTION 5.8. Fees and Expenses. Each party shall bear its own 
+attorneys fees, court costs and related expenses (the Fees and Expenses
+) in connection with its enforcement of this Agreement; provided however, 
+the prevailing party in any lawsuit or other action shall have the right to 
+payment of its reasonable out-of-pocket fees and expenses by the other 
+party.
+
+     SECTION 5.9. Specific Performance. Lender recognizes and acknowledges 
+that a breach by it of any covenants or agreements contained in this 
+Agreement will cause the Company to sustain damages for which the Company 
+would not have an adequate remedy at law for money damages, and therefore 
+Lender agrees that in the event of any such breach, the Company shall be 
+entitled to the remedy of specific performance of such covenants and 
+agreements and injunctive and other equitable relief in addition to any 
+other remedy to which the Company may be entitled, at law or in equity.
+
+     SECTION 5.10. Governing Law.
+
+     (a) THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE 
+WITH, THE LAW OF THE STATE OF NEW YORK APPLICABLE TO AGREEMENTS MADE AND TO 
+BE PERFORMED ENTIRELY WITHIN SUCH STATE.
+
+     (b) EACH OF THE COMPANY AND THE LENDER AGREES ANY LEGAL ACTION OR 
+PROCEEDING WITH RESPECT TO THIS AGREEMENT MAY BE BROUGHT IN THE COURTS OF 
+THE STATE OF NEW YORK SITTING IN THE BOROUGH OF NEW YORK OR OF THE UNITED 
+STATES FOR THE SOUTHERN DISTRICT OF NEW YORK AND APPELLATE COURTS FROM ANY 
+THEREOF, AND BY EXECUTION AND DELIVERY OF THIS AGREEMENT, EACH OF THE 
+COMPANY AND THE LENDER CONSENTS, FOR ITSELF AND IN RESPECT OF ITS PROPERTY, 
+TO THE NON-EXCLUSIVE JURISDICTION OF THOSE COURTS. THE COMPANY (1) 
+IRREVOCABLY WAIVES ANY OBJECTION, INCLUDING ANY OBJECTION TO THE LAYING OF 
+VENUE OR BASED ON THE GROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR 
+HEREAFTER HAVE TO THE BRINGING OF ANY ACTION OR PROCEEDING IN SUCH 
+JURISDICTION IN RESPECT OF THIS AGREEMENT, AND (2) IRREVOCABLY CONSENTS TO 
+THE SERVICE OF PROCESS OUT OF ANY OF THE AFOREMENTIONED COURTS IN ANY SUCH 
+ACTION OR PROCEEDING BY THE MAILING OF COPIES THEREOF BY CERTIFIED MAIL, 
+RETURN RECEIPT REQUESTED, POSTAGE PREPAID, AT ITS ADDRESS FOR NOTICES 
+DESIGNATED HEREIN. EACH OF THE COMPANY AND THE LENDER WAIVES PERSONAL 
+SERVICE OF ANY SUMMONS, COMPLAINT OR OTHER PROCESS, WHICH MAY BE MADE BY 
+ANY OTHER MEANS PERMITTED BY THE LAW OF SUCH STATE.
+
+     SECTION 5.11. Waiver of Jury Trial, Etc. EACH OF THE COMPANY AND THE 
+LENDER HEREBY (a) EXPRESSLY AND IRREVOCABLY WAIVES ANY RIGHT TO TRIAL BY 
+JURY OF ANY CLAIM, DEMAND, ACTION OR CAUSE OF ACTION ARISING UNDER THIS 
+AGREEMENT, OR THE TRANSACTIONS RELATED THERETO, IN EACH CASE WHETHER NOW 
+EXISTING OR HEREAFTER ARISING, AND WHETHER FOUNDED IN CONTRACT OR TORT OR 
+OTHERWISE; AND EACH OF THE COMPANY
+
+Page 12
+
+------------------------------------------------------------------------
+
+
+ 
+
+AND THE LENDER HEREBY AGREES AND CONSENTS THAT ANY SUCH CLAIM, DEMAND, 
+ACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY, 
+AND THAT THE COMPANY, THE ADMINISTRATIVE AGENT OR THE LENDER, AS THE CASE 
+MAY BE, MAY FILE AN ORIGINAL COUNTERPART OR A COPY OF THIS SECTION WITH ANY 
+COURT AS WRITTEN EVIDENCE OF THE CONSENT OF THE LENDER OR THE COMPANY, AS 
+THE CASE MAY BE, TO THE WAIVER OF ITS RIGHT TO TRIAL BY JURY; AND (b) 
+EXPRESSLY AND IRREVOCABLY WAIVES, TO THE MAXIMUM EXTENT NOT PROHIBITED BY 
+LAW, ANY RIGHT IT MAY HAVE TO CLAIM OR RECOVER IN ANY SUCH ACTION ANY 
+SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR DAMAGES OTHER 
+THAN, OR IN ADDITION TO, ACTUAL DAMAGES; PROVIDED THAT THE WAIVER CONTAINED 
+IN THIS SECTION 5.11 SHALL NOT APPLY TO THE EXTENT THAT THE PARTY AGAINST 
+WHOM DAMAGES ARE SOUGHT HAS ENGAGED IN GROSS NEGLIGENCE OR WILLFUL 
+MISCONDUCT.
+
+     SECTION 5.12. Entire Agreement. THIS AGREEMENT REPRESENTS THE FINAL 
+AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF 
+PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE 
+ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+
+[REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK
+SIGNATURES BEGIN ON NEXT PAGE.]
+
+Page 13
+
+------------------------------------------------------------------------
+
+
+ 
+
+     IN WITNESS WHEREOF, Company and Lender have caused this Agreement to 
+be duly executed and delivered by an officer duly authorized as of the date 
+first above written.
+  	  	  	  	 
+  	POSTROCK ENERGY CORPORATION,
+a Delaware corporation,
+as Company
+  	 
+  	By:   	/s/ David C. Lawler   	 
+  	  	David C. Lawler  	 
+  	  	Chief Executive Officer and President  	 
+ 
+
+ROYAL BANK OF CANADA
+  	  	  	  	 
+By:
+  	/s/ Leslie P. Vowell
+ 
+Leslie P. Vowell 	  	 
+ 
+  	Attorney-in-Fact 	  	 
+
+Singature Page
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+Exhibit A
+
+FORM OF NOTICE OF REGISTERED HOLDER
+
+     The undersigned, Royal Bank of Canada, the Lender described in that 
+certain Asset Sale Agreement dated as of September [__], 2010 among 
+PostRock Energy Corporation (the Company), Royal Bank of Canada, as 
+administrative agent and collateral agent, and Royal Bank of Canada, as 
+lender (the Agreement), hereby instructs the Company to issue the Company 
+Shares (as defined in the Agreement) as follows:
+
+     Please issue the certificate for the Company Shares in the name of and 
+in the following denominations:
+
+ 
+Denominations
+
+ 
+Print or type name
+
+ 
+Social Security or Employer Identification Number
+
+ 
+Street Address
+  	  	  	  	 
+ 
+City 	  	State 	  	Zip Code
+
+ROYAL BANK OF CANADA
+  	  	  	  	 
+By:
+  	  	  	 
+Name:
+  	
+ 
+  	 
+Title:
+  	
+ 
+  	 
+ 
+  	
+ 
+  	 
+
+Date:                                                             ,         
+  
+
+Exhibit A
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+Exhibit B
+
+CURRENT OPERATING AGREEMENT
+
+Exhibit B
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+Exhibit C
+
+NEW OPERATING AGREEMENT
+
+Exhibit C

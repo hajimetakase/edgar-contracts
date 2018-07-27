@@ -1,0 +1,2525 @@
+ EX-10.4 6 d260662dex104.htm EX-10.4
+Exhibit 10.4
+
+EXECUTION VERSION
+
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+by and between
+
+XEROX CORPORATION
+
+and
+
+CONDUENT INCORPORATED
+
+Dated as of December 30, 2016
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	  	  	   	Page 	 
+ARTICLE I 	   	 	 	
+ DEFINITIONS
+   	  	1 	  
+ SECTION 1.01.
+  	
+ Definitions
+   	  	1 	  
+ARTICLE II 	   	 	 	
+TRANSFERRED INTELLECTUAL PROPERTY RIGHTS AND TECHNOLOGY AND ASSUMPTION OF 
+LIABILITIES
+   	  	13 	  
+ SECTION 2.01.
+  	
+ Assignment of Intellectual Property Rights
+   	  	14 	  
+ SECTION 2.02.
+  	
+ Common Infrastructure Copyrights
+   	  	15 	  
+ SECTION 2.03.
+  	
+ Common Infrastructure Trade Secrets
+   	  	16 	  
+ SECTION 2.04.
+  	
+ Acceptance and Assumption of Transferred Intellectual Property Liabilities
+   	  	16 	  
+ SECTION 2.05.
+  	
+ Acceptance and Assumption by Xerox of Common Infrastructure Liabilities
+   	  	17 	  
+ SECTION 2.06.
+  	
+ Delayed Transfers; Wrong Pockets
+   	  	17 	  
+ARTICLE III 	   	 	 	
+ LICENSES FROM XEROX TO CONDUENT
+   	  	19 	  
+ SECTION 3.01.
+  	
+ License Grants
+   	  	19 	  
+ SECTION 3.02.
+  	
+ Have Made Rights
+   	  	22 	  
+ SECTION 3.03.
+  	
+ Sublicenses
+   	  	22 	  
+ SECTION 3.04.
+  	
+ Improvements
+   	  	23 	  
+ SECTION 3.05.
+  	
+ Xerox Restricted Patents
+   	  	23 	  
+ARTICLE IV 	   	 	 	
+ LICENSES FROM CONDUENT TO XEROX
+   	  	24 	  
+ SECTION 4.01.
+  	
+ License Grants
+   	  	24 	  
+ SECTION 4.02.
+  	
+ Have Made Rights
+   	  	27 	  
+ SECTION 4.03.
+  	
+ Sublicenses
+   	  	27 	  
+ SECTION 4.04.
+  	
+ Improvements
+   	  	27 	  
+ SECTION 4.05.
+  	
+ Conduent Restricted Patents
+   	  	28 	  
+ 
+i
+
+------------------------------------------------------------------------
+ARTICLE V 	   	 	 	
+ ADDITIONAL INTELLECTUAL PROPERTY RELATED MATTERS
+   	  	28 	  
+ SECTION 5.01.
+  	
+ Assignments and Licenses
+   	  	28 	  
+ SECTION 5.02.
+  	
+ Assistance By Employees
+   	  	28 	  
+ SECTION 5.03.
+  	
+ Inventor Compensation
+   	  	29 	  
+ SECTION 5.04.
+  	
+ No Implied Licenses
+   	  	29 	  
+ SECTION 5.05.
+  	
+ No Field Restrictions for Patent Licensing
+   	  	29 	  
+ SECTION 5.06.
+  	
+ No Obligation To Prosecute or Maintain Patents
+   	  	29 	  
+ SECTION 5.07.
+  	
+ Technical Assistance
+   	  	30 	  
+ SECTION 5.08.
+  	
+ Third-Party Infringement
+   	  	30 	  
+ SECTION 5.09.
+  	
+ Copyright Notices
+   	  	30 	  
+ SECTION 5.10.
+  	
+ No Challenge to Title
+   	  	30 	  
+ SECTION 5.11.
+  	
+ Group Members
+   	  	31 	  
+ARTICLE VI 	   	 	 	
+ CONFIDENTIAL INFORMATION
+   	  	31 	  
+ SECTION 6.01.
+  	
+ Contract Manufacturing
+   	  	31 	  
+ SECTION 6.02.
+  	
+ Source Code
+   	  	31 	  
+ SECTION 6.03.
+  	
+ Trade Secrets
+   	  	31 	  
+ARTICLE VII 	   	 	 	
+ LIMITATION OF LIABILITY AND WARRANTY DISCLAIMER
+   	  	32 	  
+ SECTION 7.01.
+  	
+ Limitation of Liability
+   	  	32 	  
+ SECTION 7.02.
+  	
+ Disclaimer of Representations and Warranties
+   	  	33 	  
+ARTICLE VIII 	   	 	 	
+ TRANSFERABILITY AND ASSIGNMENT
+   	  	33 	  
+ SECTION 8.01.
+  	
+ No Assignment or Transfer Without Consent
+   	  	33 	  
+ SECTION 8.02.
+  	
+ Divested Businesses
+   	  	34 	  
+ARTICLE IX 	   	 	 	
+REVOCATION AND TERMINATION OF LICENSE RIGHTS; TERMINATION
+   	  	35 	  
+ SECTION 9.01.
+  	
+ Termination by Both Parties
+   	  	35 	  
+ SECTION 9.02.
+  	
+ Termination prior to the Distribution
+   	  	35 	  
+ SECTION 9.03.
+  	
+ Effect of Termination; Survival
+   	  	35 	  
+ 
+ii
+
+------------------------------------------------------------------------
+ARTICLE X 	   	 	 	
+ FURTHER ASSURANCES
+   	  	35 	  
+ SECTION 10.01.
+  	
+ Further Assurances
+   	  	35 	  
+ARTICLE XI 	   	 	 	
+ MISCELLANEOUS
+   	  	36 	  
+ SECTION 11.01.
+  	
+ Counterparts; Entire Agreement; Corporate Power
+   	  	36 	  
+ SECTION 11.02.
+  	
+ Governing Law; Jurisdiction
+   	  	36 	  
+ SECTION 11.03.
+  	
+ Third-Party Beneficiaries
+   	  	37 	  
+ SECTION 11.04.
+  	
+ Notices
+   	  	37 	  
+ SECTION 11.05.
+  	
+ Export Control
+   	  	38 	  
+ SECTION 11.06.
+  	
+ Bankruptcy
+   	  	38 	  
+ SECTION 11.07.
+  	
+ Severability
+   	  	38 	  
+ SECTION 11.08.
+  	
+ Expenses
+   	  	39 	  
+ SECTION 11.09.
+  	
+ Headings
+   	  	39 	  
+ SECTION 11.10.
+  	
+ Survival of Covenants
+   	  	39 	  
+ SECTION 11.11.
+  	
+ Waivers of Default
+   	  	39 	  
+ SECTION 11.12.
+  	
+ Specific Performance
+   	  	39 	  
+ SECTION 11.13.
+  	
+ Amendments
+   	  	39 	  
+ SECTION 11.14.
+  	
+ Interpretation
+   	  	39 	  
+ 
+SCHEDULE A 	  	- 	  	Composite Intellectual Property Assignment Agreements
+SCHEDULE A1
+  	- 	  	Patent Assignment Agreement
+SCHEDULE A2
+  	- 	  	Trademark Assignment Agreement
+SCHEDULE A3
+  	- 	  	Copyright Assignment Agreement
+SCHEDULE B 	  	- 	  	Transferred Intellectual Property Rights
+SCHEDULE B1
+  	- 	  	Transferred Patents and Transferred IDs
+SCHEDULE B2
+  	- 	  	Transferred Software and Transferred Projects
+SCHEDULE B3
+  	- 	  	Transferred Internet Properties
+SCHEDULE B4
+  	- 	  	Transferred Trademarks
+SCHEDULE C 	  	- 	  	Retained Intellectual Property Rights
+SCHEDULE C1
+  	- 	  	Retained Tier 2 Patents and Retained Tier 2 IDs
+SCHEDULE C2
+  	- 	  	Retained Software and Retained Projects
+SCHEDULE D 	  	- 	  	Conduent R&D Divisions
+SCHEDULE E 	  	- 	  	Specified R&D Projects
+SCHEDULE F 	  	- 	  	Xerox R&D Divisions
+SCHEDULE G 	  	- 	  	Excluded R&D Projects
+SCHEDULE H 	  	- 	  	Tier 2 License Terms
+SCHEDULE I 	  	- 	  	Specified Purchase Patents, Specified Purchase IDs and 
+Specified Purchase Projects
+SCHEDULE J 	  	- 	  	Xerox Use Covenant
+ 
+iii
+
+------------------------------------------------------------------------
+THIS INTELLECTUAL PROPERTY AGREEMENT is dated as of December 30, 2016 (this 
+Agreement), by and between XEROX CORPORATION, a New York corporation (
+Xerox), and CONDUENT INCORPORATED, a New York corporation (Conduent).
+
+
+RECITALS
+
+WHEREAS, in connection with the contemplated Spin-Off of Conduent and 
+concurrently with the execution of this Agreement, Xerox and Conduent are 
+entering into a Separation and Distribution Agreement (the Separation 
+Agreement);
+
+WHEREAS it is the intent of the Parties that Xerox assign, and cause the 
+members of its Group to assign, certain intellectual property rights and 
+certain technology to Conduent, and that Conduent grant a license back to 
+Xerox in the assigned intellectual property rights, subject to the terms 
+and conditions set forth in this Agreement; and
+
+WHEREAS it is the intent of the Parties that Xerox license certain other 
+intellectual property rights to Conduent and that Conduent license certain 
+other intellectual property rights to Xerox.
+
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and 
+covenants contained in this Agreement, the Parties, intending to be legally 
+bound, hereby agree as follows:
+
+
+ARTICLE I
+
+DEFINITIONS
+
+SECTION 1.01. Definitions. As used in this Agreement, the following terms 
+have the following meanings:
+
+3POCM has the meaning set forth in Section 2.02(b).
+
+Administrative IP Proceedings has the meaning set forth in Section 5.02.
+
+Affiliate has the meaning ascribed thereto in the Separation Agreement.
+
+BPO Business has the meaning ascribed thereto in the Separation 
+Agreement.
+
+BPO Business Technology means all Technology used in designing, 
+developing, manufacturing, selling, providing or supporting products, 
+services and offerings of the BPO Business as they exist as of immediately 
+prior to the Distribution.
+
+Common Infrastructure Copyrights means copyrightable subject matter 
+embodied in works that relate to the common internal business operations of 
+the Xerox Business and the BPO Business as of or prior to the Distribution 
+Date, including
+ 
+1
+
+------------------------------------------------------------------------
+software, corporate policies, operating procedures, manager toolkits and 
+employee training materials. Common Infrastructure Copyrights do not 
+include (a) Copyrights in Xerox Commercial Software or Conduent Commercial 
+Software; (b) Copyrights in works that are used exclusively in or relate 
+exclusively to Xerox Products; or (c) Copyrights in works that are used 
+exclusively in or relate exclusively to Conduent Products.
+
+Common Infrastructure Liabilities means any Liabilities of either Party 
+or any member of either Partys Group (a) to the extent relating to, 
+arising out of or resulting from (1) any Common Infrastructure Copyrights 
+or (2) any Common Infrastructure Trade Secrets, and (b) arising or accrued 
+at or prior to the Distribution.
+
+Common Infrastructure Rights means Common Infrastructure Copyrights and 
+Common Infrastructure Trade Secrets;
+
+Common Infrastructure Trade Secrets means Trade Secrets that relate to 
+the common internal business operations of the Xerox Business and the BPO 
+Business as of or prior to the Distribution Date. Common Infrastructure 
+Trade Secrets do not include (a) trade secrets that are used in or relate 
+to Xerox Commercial Software or Conduent Commercial Software (including 
+source code); (b) Trade Secrets that are used exclusively in or relate 
+exclusively to Xerox Products; or (c) Trade Secrets that are used 
+exclusively in or relate exclusively to Conduent Products.
+
+Conduent Commercial Software means software that, as of immediately prior 
+to the Distribution, the BPO Business had (a) released to one or more third 
+parties for commercial sale, licensing, distribution or (if applicable) 
+beta testing, or (b) used to offer or provide a commercial service to one 
+or more third parties, including software as a service and hosted 
+solutions.
+
+Conduent Common Infrastructure Liability Percentage means 50%.
+
+Conduent Current Products means products, services or offerings actually 
+sold or offered by the BPO Business for commercial sale as of immediately 
+prior to the Distribution. Notwithstanding the foregoing, Conduent Current 
+Products shall not include Managed Print Services.
+
+Conduent Field means (a) Conduent Current Products, (b) Conduent Future 
+Products which are either actually sold or publicly offered for sale by 
+Conduent before January 1, 2020 or during a Development Extension, if 
+granted by Xerox, (c) Conduents new products, services or offerings which 
+are (i) developed from a Conduent R&D Project and (ii) either actually sold 
+or publicly offered for sale before January 1, 2022 or during a Development 
+Extension, if granted by Xerox, (d) Conduent Legacy Products, and (e) 
+reasonable extensions of, or improvements on, all of the items described in 
+clauses (a) through (d) of this definition.
+
+Conduent Future Products means new products, services or offerings that 
+(a) as of immediately prior to the Distribution, the BPO Business had a 
+business plan to offer for commercial sale before January 1, 2020, and (b) 
+are not reasonable extensions of, or improvements on, either Conduent 
+Current Products or Conduent Legacy Products. Notwithstanding the 
+foregoing, the Conduent Future Products shall not include Managed Print 
+Services.
+ 
+2
+
+------------------------------------------------------------------------
+Conduent Group has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Conduent Indemnitees has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Conduent Legacy Products means products, services or offerings that: (a) 
+are not actually offered by the BPO Business for commercial sale as of 
+immediately prior to the Distribution, (b) were at one time prior to the 
+Distribution actually offered for commercial sale by the BPO Business, and 
+(c) Conduent will support after the Distribution, including providing 
+warranty support, replacement components, repair services, bug fixes or 
+meeting contractual support obligations. Notwithstanding the foregoing, the 
+Conduent Legacy Products shall not include Managed Print Services.
+
+Conduent Patents means the Conduent Tier 1 Patents and the Conduent Tier 
+2 Patents.
+
+Conduent Products means all products, services or offerings of the 
+businesses in which Conduent or any member of its Group is or hereafter 
+becomes engaged, by, without limitation, designing, making, using, 
+distributing, selling, offering for sale, leasing, licensing, importing, 
+exporting, supplying, disposing of or otherwise distributing, through 
+multiple tiers of distribution, such products, services or offerings. The 
+term Conduent Products includes the Technology embodied in or used to 
+produce or deliver the products, services or offerings referred to in the 
+preceding sentence as well as marketing and other collateral materials 
+related thereto. Notwithstanding the foregoing, the Conduent Products shall 
+not include Managed Print Services.
+
+Conduent R&D Divisions means the Conduent research and development 
+divisions listed or described on Schedule D.
+
+Conduent R&D Projects means (a) the Specified R&D Projects and (b) 
+research or development projects underway prior to the Distribution within 
+the Conduent R&D Divisions that are not reasonable extensions of, or 
+improvements on, Conduent Current Products or Conduent Legacy Products. 
+Notwithstanding the foregoing, Conduent R&D Projects shall not include 
+research and development projects related to Managed Print Services.
+
+Conduent Restricted Patent means any Patent under which Conduent is 
+restricted from granting a license to Xerox pursuant to an agreement with a 
+third party.
+
+Conduent Tier 1 Patents means (a) the Transferred Tier 1 Patents, (b) 
+Patents with a First Effective Filing Date after the Distribution Date that 
+embody an invention disclosed in any of the Transferred Tier 1 IDs and (c) 
+every other Patent with a First Effective Filing Date prior to one year 
+after the Distribution Date, that is owned or controlled by Conduent or any 
+member of its Group as of or after the Distribution and
+ 
+3
+
+------------------------------------------------------------------------
+that as of or after the Distribution Conduent or any member of its Group 
+has the right under such Patent to grant licenses to Xerox of the scope 
+granted by Conduent and the members of the Conduent Group to Xerox and the 
+members of the Xerox Group in Article IV of this Agreement without the 
+payment of royalties or other consideration to any third parties (excluding 
+employees of Conduent and employees of members of its Group); provided, 
+however, that no Patent shall be considered a Conduent Tier 1 Patent if it 
+is a Conduent Restricted Patent.
+
+Conduent Tier 2 Patents means (a) the Transferred Tier 2 Patents, and (b) 
+Patents with a First Effective Filing Date after the Distribution Date that 
+embody an invention disclosed in any of the Transferred Tier 2 IDs; 
+provided, however, that no Patent shall be considered a Conduent Tier 2 
+Patent if it is a Conduent Tier 1 Patent or a Conduent Restricted Patent.
+
+Consents has the meaning ascribed thereto in the Separation Agreement.
+
+Copyrights means copyrights, copyright registrations and applications 
+therefor, moral rights and all other rights corresponding to the foregoing.
+
+Covenant Software has the meaning ascribed thereto in Schedule J to this 
+Agreement.
+
+Database Rights means statutory and common law rights in databases and 
+data collections (including knowledge databases, customer lists and 
+customer databases) arising under the laws of any jurisdiction, whether 
+registered or unregistered, and any applications for registration therefor.
+
+Development Extension means, with respect to a Partys Future Product or 
+a Partys R&D Project, an extension of the date by which such Future 
+Product or a product, service or offering developed from such R&D Project 
+must actually be sold commercially or be offered publicly for commercial 
+sale to be included in the definition of that Partys Primary Field. To 
+obtain a Development Extension, the requesting Party must make its request 
+in writing prior to January 1, 2020 and must provide a detailed description 
+of the proposed Future Product and the duration of the Development 
+Extension requested. The Party receiving a Development Extension request 
+must respond within 30 days of receiving the request. The receiving Partys 
+consent to the other Partys request for a Development Extension shall not 
+be unreasonably withheld or delayed. The receiving Partys failure to 
+timely respond to a Development Extension request made in accordance with 
+this provision will be deemed approval of the request.
+
+Distribution has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Distribution Date has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Divested Entity has the meaning set forth in Section 8.02.
+ 
+4
+
+------------------------------------------------------------------------
+Docket Files means electronic and paper copies (including originals) of 
+the following items to the extent they are in possession or control of 
+Xerox or any member of its Group as of the Distribution Date with respect 
+to each Transferred Patent: (a) assignment agreements from inventors to 
+Xerox or any member of the Xerox Group or the Conduent Group, (b) 
+declarations and powers of attorney relating to the prosecution of the 
+Transferred Patents, (c) invention submissions, (d) correspondence with all 
+patent offices together with a list, including contact information, of each 
+counsel and agent responsible for the prosecution or maintenance of the 
+Transferred Patents known to be in possession of Docket Files, and (e) the 
+original ribbon copy issued by the United States Patent and Trademark 
+Office, or, for foreign Patents, the original ribbon copy or certificate 
+issued by the applicable Governmental Authority.
+
+Excluded R&D Projects means the research and development projects listed 
+or described on Schedule G.
+
+Final Determination has the meaning ascribed thereto in the TMA.
+
+First Effective Filing Date means the earliest effective filing date in 
+the applicable country for any Patent or any Patent application. By way of 
+example, it is understood that the First Effective Filing Date for a United 
+States Patent is the earlier of (a) the actual filing date of the 
+application which issued into the Patent or (b) the priority date under 35 
+U.S.C. §119 or §120 for such Patent.
+
+Future Product means either a Xerox Future Product or a Conduent Future 
+Product, as the context requires.
+
+Governmental Approvals has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Governmental Authority has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Group has the meaning ascribed thereto in the Separation Agreement.
+
+Improvement to any Intellectual Property Right or Technology means (a) 
+with respect to Copyrights, any modifications, derivative works and 
+translations of works of authorship in any medium, (b) with respect to 
+Database Rights, any database that is created by extraction or use of 
+another database and (c) with respect to Technology, any improvement or 
+modification to the Trade Secrets that cover or are otherwise incorporated 
+into such Technology.
+
+Indemnitee has the meaning ascribed thereto in the Separation Agreement.
+
+Intellectual Property Liabilities means all Liabilities relating to, 
+arising out of or resulting from Intellectual Property Rights.
+ 
+5
+
+------------------------------------------------------------------------
+Intellectual Property Rights or IPR means the rights associated with 
+the following anywhere in the world: (a) Patents; (b) Trade Secrets; (c) 
+Copyrights; (d) Internet Properties; (e) Database Rights; (f) Trademarks; 
+and (g) any similar, corresponding or equivalent rights to any of the 
+foregoing. Intellectual Property Rights specifically excludes contractual 
+rights (including license grants from third parties) and also excludes the 
+tangible embodiment of any of the foregoing in subsections (a)  (g).
+
+Internet Properties means uniform resource locators and registered 
+internet domain names (including social media handles and Internet user 
+names).
+
+ITU Applications has the meaning ascribed thereto in Section 2.01 of this 
+Agreement.
+
+Law has the meaning ascribed thereto in the Separation Agreement.
+
+Liability has the meaning ascribed thereto in the Separation Agreement.
+
+Licensed Conduent IPR means (a) the Conduent Patents and (b) all 
+Intellectual Property Rights other than Patents and Trademarks (i) that are 
+owned by Conduent or a member of its Group immediately following the 
+Distribution or (ii) to the extent that Conduent or any member of its Group 
+has the right immediately following the Distribution to grant licenses to 
+Xerox of the scope granted by Conduent to Xerox in the corresponding 
+sections of Article IV without the payment of royalties or other 
+consideration to any third parties (excluding employees of Conduent and 
+employees of the members of its Group); provided, however, that no 
+Intellectual Property Right shall be considered Licensed Conduent IPR if 
+Conduent is restricted from granting Xerox a license under any such 
+Intellectual Property Right pursuant to an agreement with a third party.
+
+Licensed Conduent Source Code means source code versions of Conduent 
+software included in Licensed Conduent IPR.
+
+Licensed Xerox IPR means (a) the Xerox Patents and (b) all Intellectual 
+Property Rights other than Patents and Trademarks (i) that are owned by 
+Xerox or a member of its Group immediately following the Distribution or 
+(ii) to the extent that Xerox or any member of its Group has the right 
+immediately following the Distribution to grant licenses to Conduent of the 
+scope granted by Xerox to Conduent in the corresponding sections of Article 
+III without the payment of royalties or other consideration to any third 
+parties (excluding employees of Xerox and employees of the members of its 
+Group); provided, however, that no Intellectual Property Right shall be 
+considered Licensed Xerox IPR if Xerox is restricted from granting Conduent 
+a license under any such Intellectual Property Right pursuant to an 
+agreement with a third party.
+
+Licensed Xerox Source Code means source code versions of Xerox software 
+included in Licensed Xerox IPR.
+
+Licensor has the meaning set forth in Section 5.08.
+ 
+6
+
+------------------------------------------------------------------------
+Managed Print Services means a bundle of products or services offered 
+directly or indirectly to a customer (or potential customer) primarily for 
+the purpose of managing or optimizing the customers document output, which 
+may include needs assessment; selective or general replacement of hardware; 
+site optimization for performance, cost and service levels; management of 
+devices (move, add, change, or dispose); management and delivery of 
+supplies and consumables; provision of services, parts and supplies 
+required to operate new or existing hardware; delivery of break or fix 
+service; tracking and analysis of customer usage; and deployment of Xerox 
+Service Management (XSM) tools including the XSM suite and related 
+applications.
+
+Notifying Party has the meaning set forth in Section 5.08.
+
+Party means either party hereto, and Parties means both parties hereto.
+
+Patents means patents, designs and utility models, and applications 
+therefor (including any continuations, continuations-in-part, divisionals, 
+reissues, renewals, extensions or modifications for any of the foregoing).
+
+Person has the meaning ascribed thereto in the Separation Agreement.
+
+R&D Project means either a Xerox R&D Project or a Conduent R&D Project, 
+as the context requires.
+
+Retained Copyrights means the Retained Tier 1 Copyrights and the Retained 
+Tier 2 Copyrights.
+
+Retained Tier 1 Copyrights means all Copyrights that are included in 
+Licensed Xerox IPR (or would be included in Licensed Xerox IPR but for a 
+restriction on licensing pursuant to an agreement with a third party) other 
+than the Retained Tier 2 Copyrights, including Copyrights in or to (i) the 
+software identified in Schedule C2 hereto under the heading Retained Tier 
+1 Software, and (ii) the projects (and associated research documentation) 
+identified in Schedule C2 hereto under the heading Retained Tier 1 
+Projects. For the avoidance of doubt, Retained Tier 1 Copyrights do not 
+include any Transferred Copyrights.
+
+Retained Tier 1 IDs means every written invention disclosure submitted to 
+the Xerox Intellectual Property Department on or before the Distribution 
+Date other than the Transferred IDs and the Retained Tier 2 IDs.
+
+Retained Tier 1 Patents means all Xerox Patents other than the Retained 
+Tier 2 Patents.
+
+Retained Tier 1 Trade Secrets means all Trade Secrets that are included 
+in Licensed Xerox IPR (or would be included in Licensed Xerox IPR but for a 
+restriction on licensing pursuant to an agreement with a third party) other 
+than the Retained Tier 2 Trade Secrets, including Trade Secrets included in 
+or embodied by (a) the Retained Tier 1 IDs; (b) the software identified in 
+Schedule C2 hereto under the heading Retained Tier 1 Software, and (c) 
+the projects (and associated research documentation) identified in Schedule 
+C2 hereto under the heading Retained Tier 1 Projects. For the avoidance 
+of doubt, Retained Tier 1 Trade Secrets do not include any Transferred 
+Trade Secrets.
+ 
+7
+
+------------------------------------------------------------------------
+Retained Tier 2 Copyrights means all Copyrights in or to: (a) the 
+software identified in Schedule C2 hereto under the heading Retained Tier 
+2 Software and (b) the projects (and associated research documentation) 
+identified in Schedule C2 hereto under the heading Retained Tier 2 
+Projects.
+
+Retained Tier 2 IDs means the Xerox invention disclosures identified in 
+Schedule C1 hereto.
+
+Retained Tier 2 Patents means the Xerox Patents identified in Schedule C1 
+hereto.
+
+Retained Tier 2 Trade Secrets means (a) the Retained Tier 2 IDs, and (b) 
+the Trade Secrets included in or embodied by (i) the software identified in 
+Schedule C2 hereto under the heading as Retained Tier 2 Software and (ii) 
+the projects (and associated research code and documentation) identified in 
+Schedule C2 hereto under the heading Retained Tier 2 Projects.
+
+Retained Trade Secrets means the Retained Tier 1 Trade Secrets and the 
+Retained Tier 2 Trade Secrets.
+
+Security Interest means any mortgage, security interest, pledge, lien, 
+charge, claim, option, right to acquire, voting or other restriction, 
+right-of-way, covenant, condition, easement, encroachment, restriction on 
+transfer or other encumbrance of any nature whatsoever.
+
+Software Derivatives means a revision, reparation, adaptation, 
+enhancement, modification, translation, localization, abridgment, 
+condensation, expansion and any other form into which software may be 
+transformed or ported.
+
+Specified Purchase IDs means the invention disclosures identified in 
+Schedule I hereto under the heading Specified Purchase Patents and 
+Specified Purchase IDs.
+
+Specified Purchase Patents means the Patents identified in Schedule I 
+hereto under the heading Specified Purchase Patents and Specified Purchase 
+IDs.
+
+Specified Purchase Price has the meaning ascribed thereto in Schedule I 
+to this Agreement.
+
+Specified Purchase Projects means the projects (and associated research 
+code and documentation) identified in Schedule I hereto under the heading 
+Specified Purchase Projects.
+ 
+8
+
+------------------------------------------------------------------------
+Specified R&D Projects means the research and development projects listed 
+or described on Schedule E.
+
+Spin-Off has the meaning ascribed thereto in the Separation Agreement.
+
+Subsidiary has the meaning ascribed thereto in the Separation Agreement.
+
+Technology means tangible embodiments, whether in electronic, written or 
+other media, of copyrightable works, technology (including designs, design 
+and manufacturing documentation, engineering drawings, such as bill of 
+materials, build instructions and test reports), sales documentation (such 
+as marketing materials, installation manuals, service manuals, user 
+manuals) schematics, algorithms, routines, software, databases, laboratory 
+notebooks, development and lab equipment, processes, prototypes and 
+devices. Technology does not include Intellectual Property Rights, 
+including any Intellectual Property Rights in any of the foregoing.
+
+TLA means the Trademark License Agreement dated as of the date of this 
+Agreement among Xerox, Xerox Overseas, Inc. and Conduent.
+
+TMA means the Tax Matters Agreement dated as of the date of this 
+Agreement by and between Xerox and Conduent.
+
+Trade Secrets means information, including a formula, pattern, 
+compilation, program, device, method, technique or process, that (i) 
+derives independent economic value, actual or potential, from not being 
+generally known to, and not being readily ascertainable by proper means by, 
+other persons who can obtain economic value from its disclosure or use, and 
+(ii) is the subject of efforts that are reasonable under the circumstances 
+to maintain its secrecy, and all other rights in or to confidential 
+business or technical information. For the avoidance of doubt, confidential 
+invention disclosures shall be considered Trade Secrets.
+
+Trademarks means trademarks and service marks, including common law 
+marks, trade names, business names, designs, logos and trade dress, whether 
+registered or unregistered, and the goodwill appurtenant to each of the 
+foregoing.
+
+Transferred Copyrights means Copyrights in or to the BPO Business 
+Technology, whether registered or unregistered, that are owned by Xerox or 
+a member of its Group as of immediately prior to the Distribution and that 
+are primarily used in the BPO Business, including the Copyrights in or to 
+the software and projects (and associated research code and documentation) 
+identified in Schedule B2. Notwithstanding the foregoing, Transferred 
+Copyrights do not include (a) Copyrights in Xerox Commercial Software; (b) 
+Copyrights in works that are used exclusively in or relate exclusively to 
+Xerox Products; (c) the Common Infrastructure Copyrights; or (d) the 
+Retained Copyrights.
+
+Transferred Database Rights means Database Rights in and to the BPO 
+Business Technology that are owned by Xerox or a member of its Group as of 
+immediately prior to the Distribution and that are primarily used in the 
+BPO Business. Notwithstanding the foregoing, the Transferred Database 
+Rights shall not include any Retained Copyrights or Retained Trade Secrets.
+ 
+9
+
+------------------------------------------------------------------------
+Transferred IDs means the Transferred Tier 1 IDs and the Transferred Tier 
+2 IDs.
+
+Transferred Intellectual Property Liabilities means (a) all Liabilities 
+relating to, arising out of or resulting from the Transferred Intellectual 
+Property Rights and (b) the Conduent Common Infrastructure Liability 
+Percentage of any Common Infrastructure Liabilities.
+
+Transferred Intellectual Property Rights means (a) the Transferred 
+Patents, (b) the Transferred Copyrights, (c) the Transferred Internet 
+Properties, (d) the Transferred Database Rights, (e) the Transferred Trade 
+Secrets (including, for the avoidance of doubt, the Transferred IDs) and 
+(f) the Transferred Trademarks.
+
+Transferred Internet Properties means Internet Properties (a) identified 
+in Schedule B3 or (b) primarily used by the BPO Business, in each case 
+except for trademarks containing Xerox, or XBS or any transliteration 
+or translation thereof; any version of the Xerox and Design logo; or the 
+Xerox Signature.
+
+Transferred Patents means the Transferred Tier 1 Patents and the 
+Transferred Tier 2 Patents.
+
+Transferred Tier 1 Copyrights means all Copyrights that are included in 
+Licensed Conduent IPR (or would be included in Licensed Conduent IPR but 
+for a restriction on licensing pursuant to an agreement with a third party) 
+other than the Transferred Tier 2 Copyrights, including all Copyrights in 
+or to: (a) the software identified in Schedule B2 hereto under the heading 
+Transferred Tier 1 Software and (b) the projects (and associated research 
+code and documentation) identified in Schedule B2 hereto under the heading 
+Transferred Tier 1 Projects. For the avoidance of doubt, Copyrights in or 
+to any application that incorporates or utilizes core tools that are 
+included in Transferred Tier 1 Copyrights shall not be considered 
+Transferred Tier 1 Copyrights unless, independent of such applications 
+associated core tools, (i) the Copyrights in the application itself would 
+qualify as Transferred Tier 1 Copyrights under the immediately preceding 
+sentence, or (ii) the application itself is primarily used by the BPO 
+Business and is not identified in Schedule C2 hereto.
+
+Transferred Tier 1 IDs means the invention disclosures identified in 
+Schedule B1 hereto under the heading Transferred Tier 1 Patents and 
+Transferred Tier 1 IDs.
+
+Transferred Tier 1 Patents means the Patents identified in Schedule B1 
+hereto under the heading Transferred Tier 1 Patents and Transferred Tier 1 
+IDs.
+
+Transferred Tier 1 Trade Secrets means, except for the Transferred Tier 2 
+Trade Secrets, all Trade Secrets that are included the Licensed Conduent 
+IPR (or would
+ 
+10
+
+------------------------------------------------------------------------
+be included in Licensed Conduent IPR but for a restriction on licensing 
+pursuant to an agreement with a third party), including all Trade Secrets 
+included in or embodied by: (a) the Transferred Tier 1 IDs; (b) the 
+software identified in Schedule B2 hereto under the heading Transferred 
+Tier 1 Software and (c) the research projects (and associated research 
+code and documentation) identified in Schedule B2 hereto under the heading 
+Transferred Tier 1 Projects. For the avoidance of doubt, Trade Secrets 
+included in or embodied by any application that incorporates or utilizes 
+core tools that are included in Transferred Tier 1 Trade Secrets shall not 
+be considered Transferred Tier 1 Trade Secrets unless, independent of such 
+applications associated core tools, (i) the Trade Secrets in the 
+application itself would qualify as Transferred Tier 1 Trade Secrets under 
+the immediately preceding sentence, or (ii) the application itself is 
+primarily used by the BPO Business and is not identified in Schedule C2 
+hereto.
+
+Transferred Tier 2 Copyrights means all Copyrights in or to: (a) the 
+software identified in Schedule B2 to this Agreement under the heading 
+Transferred Tier 2 Software and (b) the projects (and associated research 
+documentation) identified in Schedule B2 hereto under the heading 
+Transferred Tier 2 Projects. For the avoidance of doubt, Copyrights in or 
+to any application that incorporates or utilizes core tools that are 
+included in Transferred Tier 2 Copyrights shall not be considered 
+Transferred Tier 2 Copyrights unless, independent of such applications 
+associated core tools, (i) the Copyrights in the application itself would 
+qualify as Transferred Tier 2 Copyrights under the immediately preceding 
+sentence, or (ii) the application itself is primarily used by the BPO 
+Business and is not identified in Schedule C2 hereto.
+
+Transferred Tier 2 IDs means the invention disclosures identified in 
+Schedule B1 hereto under the heading Transferred Tier 2 Patents and 
+Transferred Tier 2 IDs.
+
+Transferred Tier 2 Patents means the Patents identified in Schedule B1 
+hereto under the heading Transferred Tier 2 Patents and Transferred Tier 2 
+IDs.
+
+Transferred Tier 2 Trade Secrets means the Trade Secrets included in or 
+embodied by: (a) the Transferred Tier 2 IDs; (b) the software identified in 
+Schedule B2 hereto under the heading Transferred Tier 2 Software; and (c) 
+the projects (and associated research documentation) identified in Schedule 
+B2 hereto under the heading Transferred Tier 2 Projects. For the 
+avoidance of doubt, Trade Secrets included in or embodied by any 
+application that incorporates or utilizes core tools that are included in 
+Transferred Tier 2 Trade Secrets shall not be considered Transferred Tier 2 
+Trade Secrets unless, independent of such applications associated core 
+tools, (i) the Trade Secrets in the application itself would qualify as 
+Transferred Tier 2 Trade Secrets under the immediately preceding sentence, 
+or (ii) the application itself is primarily used by the BPO Business and is 
+not identified in Schedule C2 hereto.
+
+Transferred Trade Secrets means the Trade Secrets known to the Parties 
+that are owned by Xerox or a member of its Group as of immediately prior to 
+the Distribution and that are primarily used by the BPO Business, including 
+the Transferred
+ 
+11
+
+------------------------------------------------------------------------
+Tier 1 Trade Secrets and the Transferred Tier 2 Trade Secrets. For the 
+avoidance of doubt, Transferred Trade Secrets do not include: (a) any Trade 
+Secrets that are used exclusively in or relate exclusively to Xerox 
+Products; (b) Common Infrastructure Trade Secrets; or (c) Retained Trade 
+Secrets.
+
+Transferred Trademarks means all Trademarks which prior to the 
+Distribution Date were used solely with regard to products, services and 
+offerings of the BPO Business, including those trademarks identified in 
+Schedule B4, except for trademarks containing Xerox, or XBS or any 
+transliteration or translation thereof; any version of the Xerox and 
+Design logo; or the Xerox Signature; all of which are and shall remain 
+owned by Xerox.
+
+Xerox Business has the meaning ascribed thereto in the Separation 
+Agreement.
+
+Xerox Commercial Software means software that, as of immediately prior to 
+the Distribution, the Xerox Business had (a) released to one or more third 
+parties for commercial sale, licensing, distribution or (if applicable) 
+beta testing, or (b) used to offer or provide a commercial service to one 
+or more third parties, including software as a service and hosted 
+solutions.
+
+Xerox Common Infrastructure Liability Percentage means 50%.
+
+Xerox Current Products means products, services or offerings, including 
+Managed Print Services, actually sold or offered by the Xerox Business for 
+commercial sale as of immediately prior to the Distribution.
+
+Xerox Field means (a) Xerox Current Products, (b) Xerox Future Products 
+which are either actually sold or publicly offered for sale by Xerox before 
+January 1, 2020 or during a Development Extension, if granted by Conduent, 
+(c) Xeroxs new products, services or offerings which are (i) developed 
+from a Xerox R&D Project and (ii) either actually sold or publicly offered 
+for sale before January 1, 2022 or during a Development Extension, if 
+granted by Conduent, (d) Xerox Legacy Products, and (e) reasonable 
+extensions of, or improvements on, all of the items described in clauses 
+(a) through (d) of this definition.
+
+Xerox Future Products means new products, services or offerings, 
+including Managed Print Services, that (a) as of immediately prior to the 
+Distribution, the Xerox Business had a business plan to offer for 
+commercial sale before January 1, 2020, and (b) are not reasonable 
+extensions of, or improvements on, either Xerox Current Products or Xerox 
+Legacy Products.
+
+Xerox Group has the meaning ascribed thereto in the Separation Agreement.
+
+Xerox Indemnitees has the meaning ascribed thereto in the Separation 
+Agreement.
+ 
+12
+
+------------------------------------------------------------------------
+Xerox Legacy Products means products, services or offerings, including 
+Managed Print Services, that: (a) are not actually offered by the Xerox 
+Business for commercial sale as of immediately prior to the Distribution, 
+(b) were at one time prior to the Distribution actually offered for 
+commercial sale by the Xerox Business and (c) Xerox will support after the 
+Distribution, including providing warranty support, replacement components, 
+repair services, bug fixes or meeting contractual support obligations.
+
+Xerox Patents means every Patent other than the Transferred Patents (a) 
+with a First Effective Filing Date prior to one year after the Distribution 
+Date, or (b) with a First Effective Filing Date after the Distribution Date 
+which embodies an invention described in a written invention disclosure 
+submitted to the Xerox Intellectual Property Law Department on or before 
+the Distribution Date, that is owned or controlled by Xerox or any member 
+of its Group as of or after the Distribution and that as of or after the 
+Distribution Xerox or any member of its Group has the right under such 
+Patent to grant licenses to Conduent of the scope granted by Xerox and the 
+members of the Xerox Group to Conduent and the members of the Conduent 
+Group in Article III of this Agreement without the payment of royalties or 
+other consideration to any third parties (excluding employees of Xerox and 
+employees of members of its Group); provided, however, that no Patent shall 
+be considered a Xerox Patent if it is a Xerox Restricted Patent.
+
+Xerox Products means all products, services or offerings, including 
+Managed Print Services, of the businesses in which Xerox or any member of 
+its Group is or hereafter becomes engaged, by, without limitation, 
+designing, making, using, distributing, selling, offering for sale, 
+leasing, licensing, importing, exporting, supplying, disposing of or 
+otherwise distributing, through multiple tiers of distribution, such 
+products, services or offerings, including the business of making (but not 
+having made) third party products for third parties when Xerox or any 
+member of its Group is acting as a contract manufacturer or foundry for 
+such third parties. The term Xerox Products includes the Technology 
+embodied in or used to make or deliver the products, services or offerings 
+referred to in the preceding sentence as well as marketing and other 
+collateral materials related thereto.
+
+Xerox R&D Divisions means the Xerox research and development divisions 
+listed or described on Schedule F.
+
+Xerox R&D Projects means (a) the Excluded R&D Projects and (b) research 
+or development projects underway prior to the Distribution within the Xerox 
+R&D Divisions that are not reasonable extensions of, or improvements on, 
+Xerox Current Products or Xerox Legacy Products.
+
+Xerox Restricted Patent means any Patent under which Xerox is restricted 
+from granting a license to Conduent pursuant to an agreement with a third 
+party.
+ 
+13
+
+------------------------------------------------------------------------
+ARTICLE II
+
+TRANSFERRED INTELLECTUAL PROPERTY RIGHTS AND TECHNOLOGY AND ASSUMPTION OF 
+LIABILITIES
+
+SECTION 2.01. Assignment of Intellectual Property Rights. (a) Subject to 
+the terms and conditions of this Agreement, effective as of the 
+Distribution, Xerox hereby sells, assigns, transfers and conveys, and 
+agrees to cause the members of its Group to hereby, sell, assign, transfer 
+and convey, to Conduent all of the right, title and interest of the Xerox 
+Group in, to and under all Transferred Intellectual Property Rights, 
+subject to the licenses granted to Xerox and the members of its Group in 
+Article IV below and all other licenses granted or that a Party has an 
+obligation to grant under any such Intellectual Property Rights existing 
+and in full force and effect as of immediately prior to the Distribution 
+(subject to the terms and conditions contained in each such license). 
+Without limitation to the generality of the foregoing, with respect to any 
+United States intent-to-use trademark applications included in the 
+Transferred Intellectual Property Rights (ITU Applications), the 
+assignment granted hereunder accompanies the transfer of the business or 
+portion of the business of the assignor to which such ITU Applications 
+pertain, and that business is ongoing and existing, or the transfer of such 
+ITU Applications shall not be effective until the expiration of any period 
+during which the assignment thereof would impair, under applicable federal 
+law, the registrability of such ITU Applications or the validity or 
+enforceability of registrations issuing from such ITU Applications. The 
+assignment of Transferred Intellectual Property Rights herein includes all 
+of Xeroxs and its Group members right, title and interest in and to any 
+and all proceeds, causes of action and rights of recovery against third 
+parties for past and future infringement, misappropriation or other 
+violation or impairment of any of the Transferred Intellectual Property 
+Rights. The Parties shall, and shall cause their respective Group members 
+(as applicable) to, execute intellectual property assignments in a form 
+substantially similar to that attached as Schedule A1 (the Patent 
+Assignment Agreement), Schedule A2 (the Trademark Assignment Agreement), 
+and Schedule A3 (the Copyright Assignment), as well as such additional 
+case specific assignments as deemed appropriate to carry out the intent of 
+the Parties, as applicable (collectively, the Intellectual Property 
+Assignment Agreements), for recordation with the appropriate Governmental 
+Authority.
+
+(b) Recording Change of Ownership of the Transferred Intellectual Property 
+Rights. Conduent shall have the sole responsibility, at its sole cost and 
+expense, to file the Intellectual Property Assignment Agreements and any 
+other forms or documents as required to record the assignment of any 
+Transferred Intellectual Property Rights from Xerox and the members of its 
+Group to Conduent; provided, however, that, upon written request, Xerox 
+shall provide reasonable assistance to Conduent to record the assignment, 
+at Conduents sole cost and expense.
+
+(c) Responsibility for Transferred Patents. Xerox shall pay all fees 
+incurred and respond to all office actions due with respect to the 
+Transferred Patents up to and including the Distribution Date. Conduent 
+shall, in its sole discretion, pay all fees incurred and respond to all 
+office actions due with respect to the Transferred Patents after the 
+Distribution Date. At or prior to the Distribution, Xerox shall provide 
+Conduent with a listing, in a form to be agreed upon by the Parties, of: 
+(i) all known responses to office
+ 
+14
+
+------------------------------------------------------------------------
+actions and fees due with respect to the Transferred Patents in all 
+relevant jurisdictions with due dates within 120 days of the Distribution 
+Date; and (ii) a copy of all hard-copy or digitally stored Docket Files 
+relating to the Transferred Patents, unless such files are in the 
+possession of Xeroxs outside counsel or agents, in which case Xerox shall 
+send written instructions to its counsel and agents directing them to act 
+in accordance with Conduents instructions with respect to such files.
+
+(d) Purchase of Certain Transferred Patents. The Parties hereby expressly 
+agree that, as consideration for the sale, assignment, transfer and 
+conveyance of the Specified Purchase Patents, Specified Purchase IDs and 
+Specified Purchase Projects included in the Transferred Intellectual 
+Property Rights pursuant to this Section 2.01, Conduent (or any applicable 
+member of its Group) shall pay to Xerox (or any applicable member of its 
+Group) an amount equal to the Specified Purchase Price, at such time and by 
+such method as shall reasonably be agreed by the Parties.
+
+SECTION 2.02. Common Infrastructure Copyrights. (a) Common Infrastructure 
+Copyrights shall be co-owned by Xerox and Conduent. Accordingly, each 
+Party, or the applicable member of its Group, transfers and assigns (as 
+assignor) to the other Party (as assignee), effective as of the 
+Distribution Date, an undivided one-half part of the whole right, title, 
+and interest in Common Infrastructure Copyrights owned by the assignor as 
+of the Distribution Date, such undivided one-half part to be held and 
+enjoyed by the assignee, as fully and entirely as the same would have been 
+held and enjoyed by the assignor if this transfer had not been made. Upon a 
+Partys written request, the other Party (and, to the extent necessary, the 
+members of its Group) shall execute documents confirming the assignment of 
+such co-ownership interest to the requesting Party. Subject to Article VI, 
+each co-owner shall be free to exploit the Common Infrastructure Copyrights 
+without further consent and without accounting to the other co-owner. Each 
+Party shall indemnify, defend and hold harmless the other Party, each other 
+member of the other Partys Group, and each of their respective former and 
+current directors, officers and employees, and each of the heirs, 
+executors, successors and assigns of any of the foregoing from and against 
+any and all Liabilities arising out of or resulting from the indemnifying 
+Partys or any member of its Groups exploitation of the Common 
+Infrastructure Copyrights following the Distribution.
+
+(b) The Parties acknowledge that some of the materials associated with 
+Common Infrastructure Copyrights (e.g., documents, PowerPoint slides, photo 
+libraries, etc.) may also contain third party-owned copyrighted material (
+3POCM) such as fonts, images and graphics, which are licensed to a Party. 
+This provision therefore does not extend to such 3POCM, and each Party is 
+solely responsible for obtaining its own licenses to the 3POCM. Each Party 
+shall indemnify, defend and hold harmless the other Party, each other 
+member of the other Partys Group, and each of their respective former and 
+current directors, officers and employees, and each of the heirs, 
+executors, successors and assigns of any of the foregoing from and against 
+any and all claims by third parties arising out of or relating to the 
+indemnifying Partys or any member of its Groups use or exploitation of 
+3POCM following the Distribution.
+ 
+15
+
+------------------------------------------------------------------------
+(c) Notwithstanding the foregoing, and except as expressly permitted by the 
+TLA, the use of any Common Infrastructure Copyrights by or for one Party, 
+and any works related to, or based upon, any of the Common Infrastructure 
+Copyrights, may not contain any references to the other Party or any member 
+of its Group (or any of its or their marks, names, trade dress, logos or 
+other source or business identifiers), the other Partys or any member of 
+its Groups publications, personnel (including senior management) or 
+management structures, or any other indication (other than the verbatim or 
+paraphrased reproduction of the content) that such works are based upon any 
+Common Infrastructure Copyrights that originated with the other Party or 
+any member of its Group.
+
+(d) Neither Xerox nor Conduent shall have any obligation to the other to 
+(i) notify of any changes or proposed changes to any of the Common 
+Infrastructure Copyrights, (ii) include the other in any consideration of 
+proposed changes to any of the Common Infrastructure Copyrights, (iii) 
+provide draft changes of any of the Common Infrastructure Copyrights to the 
+other for review or comment or (iv) provide the other with any updated 
+materials relating to any of the Common Infrastructure Copyrights.
+
+SECTION 2.03. Common Infrastructure Trade Secrets. Common Infrastructure 
+Trade Secrets shall be co-owned by Xerox and Conduent. Accordingly, each 
+Party, or the applicable member of its Group, transfers and assigns (as 
+assignor) to the other Party (as assignee), effective as of the 
+Distribution Date, an undivided one-half part of the whole right, title, 
+and interest in Common Infrastructure Trade Secrets owned by the assignor 
+as of the Distribution Date, such undivided one-half part to be held and 
+enjoyed by the assignee, as fully and entirely as the same would have been 
+held and enjoyed by the assignor if this transfer had not been made. Upon a 
+Partys written request, the other Party (and, to the extent necessary, the 
+members of its Group) shall execute documents confirming the assignment of 
+such co-ownership interest to the requesting Party. Subject to Article VI, 
+below, each co-owner shall be free to exploit the Common Infrastructure 
+Trade Secrets without further consent and without accounting to the other 
+co-owner. Notwithstanding the foregoing, neither of the joint owners 
+(Conduent, Xerox) shall make a Common Infrastructure Trade Secret public or 
+otherwise destroy or impair the Trade Secret status of a Common 
+Infrastructure Trade Secret without the advance, written consent of the 
+other joint owner. Each Party shall indemnify, defend and hold harmless the 
+other Party, each other member of the other Partys Group, and each of 
+their respective former and current directors, officers and employees, and 
+each of the heirs, executors, successors and assigns of any of the 
+foregoing from and against any and all Liabilities arising out of or 
+resulting from the indemnifying Partys or any member of its Groups 
+exploitation of the Common Infrastructure Trade Secrets following the 
+Distribution.
+
+SECTION 2.04. Acceptance and Assumption of Transferred Intellectual 
+Property Liabilities. Subject to the terms and conditions of this 
+Agreement, effective as of the Distribution, Conduent shall, and shall 
+cause the applicable members of its Group to, accept, assume and agree 
+faithfully to perform, discharge and fulfill the Transferred Intellectual 
+Property Liabilities in accordance with their respective terms. Conduent 
+shall, and shall cause the applicable members of its Group to, be 
+responsible for all Transferred Intellectual Property Liabilities, 
+regardless of when or where such Transferred
+ 
+16
+
+------------------------------------------------------------------------
+Intellectual Property Liabilities arose or arise, or whether the facts on 
+which they are based occurred prior to, at or subsequent to the 
+Distribution, regardless of where or against whom such Transferred 
+Intellectual Property Liabilities are asserted or determined or whether 
+asserted or determined prior to the date of this Agreement. Notwithstanding 
+the foregoing, for the avoidance of doubt, the scope of Conduents 
+obligations with respect to any Common Infrastructure Liabilities shall be 
+co-extensive with, and not greater than, the scope of Xeroxs obligations 
+with respect to Common Infrastructure Liabilities.
+
+SECTION 2.05. Acceptance and Assumption by Xerox of Common Infrastructure 
+Liabilities. Subject to the terms and conditions of this Agreement, 
+effective as of the Distribution, Xerox shall, and shall cause the 
+applicable members of its Group to, accept, assume and agree faithfully to 
+perform, discharge and fulfill the Xerox Common Infrastructure Liability 
+Percentage of any Common Infrastructure Liabilities in accordance with 
+their respective terms. Xerox shall, and shall cause the applicable members 
+of its Group to, be responsible for the Xerox Common Infrastructure 
+Liability Percentage of any Common Infrastructure Liabilities, regardless 
+of where such Common Infrastructure Liabilities arose, or whether such 
+Common Infrastructure Liabilities are asserted or determined prior to or 
+after the date of this Agreement.
+
+SECTION 2.06. Delayed Transfers; Wrong Pockets. (a) In the event that it is 
+discovered after the Distribution that there was an omission of (i) the 
+transfer or conveyance by Xerox (or a member of the Xerox Group) or the 
+acceptance or assumption by Conduent (or a member of the Conduent Group) of 
+any Transferred Intellectual Property Right, Transferred Intellectual 
+Property Liability, Common Infrastructure Right or Common Infrastructure 
+Liability, as the case may be, or (ii) the transfer or conveyance by one 
+Party (or any other member of its Group) to, or the acceptance or 
+assumption by, the other Party (or any other member of its Group) of any 
+Intellectual Property Right, Intellectual Property Liability, Common 
+Infrastructure Right or Common Infrastructure Liability, as the case may 
+be, that, had the Parties given specific consideration to such Intellectual 
+Property Right, Intellectual Property Liability, Common Infrastructure 
+Right or Common Infrastructure Liability prior to the Distribution, would 
+have otherwise been so transferred, conveyed, accepted or assumed, as the 
+case may be, pursuant to this Agreement, the Parties shall use reasonable 
+best efforts to promptly effect such transfer, conveyance, acceptance or 
+assumption of such Intellectual Property Right, Intellectual Property 
+Liability, Common Infrastructure Right or Common Infrastructure Liability. 
+Any transfer, conveyance, acceptance or assumption made pursuant to this 
+Section 2.06(a) shall be treated by the Parties for all purposes as if it 
+had occurred as of the Distribution, except as otherwise required by 
+applicable Law or a Final Determination.
+
+(b) In the event that it is discovered after the Distribution that there 
+was a transfer or conveyance by Xerox (or a member of the Xerox Group) to, 
+or the acceptance or assumption by, Conduent (or a member of the Conduent 
+Group) of any Transferred Intellectual Property Right, Transferred 
+Intellectual Property Liability, Common Infrastructure Right or Common 
+Infrastructure Liability, as the case may be, that should not have been 
+transferred, the Parties shall use reasonable best efforts to promptly 
+transfer or convey such Transferred Intellectual Property Right, 
+Transferred
+ 
+17
+
+------------------------------------------------------------------------
+Intellectual Property Liability, Common Infrastructure Right or Common 
+Infrastructure Liability back to the transferring or conveying Party or to 
+rescind any acceptance or assumption of such Transferred Intellectual 
+Property Right, Transferred Intellectual Property Liability, Common 
+Infrastructure Right or Common Infrastructure Liability, as the case may 
+be. Any transfer or conveyance made or acceptance or assumption rescinded 
+pursuant to this Section 2.06(b) shall be treated by the Parties for all 
+purposes as if such Transferred Intellectual Property Right, Transferred 
+Intellectual Property Liability, Common Infrastructure Right or Common 
+Infrastructure Liability had never been originally transferred, conveyed, 
+accepted or assumed, as the case may be, except as otherwise required by 
+applicable Law or a Final Determination.
+
+(c) To the extent that any transfer or conveyance of any Intellectual 
+Property Right or Common Infrastructure Right or acceptance or assumption 
+of any Intellectual Property Liability or Common Infrastructure Liability 
+required by this Agreement to be so transferred, conveyed, accepted or 
+assumed shall not have been effected as of the Distribution Date, the 
+Parties shall use reasonable best efforts to effect such transfer, 
+conveyance, acceptance or assumption as promptly following the Distribution 
+Date as shall be practicable. Nothing in this Agreement shall be deemed to 
+require the transfer or conveyance of any Intellectual Property Rights or 
+Common Infrastructure Rights or the acceptance or assumption of any 
+Intellectual Property Liabilities or Common Infrastructure Liabilities 
+which by their terms or operation of Law cannot be so transferred, 
+conveyed, accepted or assumed; provided, however, that the Parties shall 
+use reasonable best efforts to obtain any necessary Consents for the 
+transfer, conveyance, acceptance or assumption (as applicable) of all 
+Transferred Intellectual Property Rights, Transferred Intellectual Property 
+Liabilities, Common Infrastructure Rights and Common Infrastructure 
+Liabilities required by this Agreement to be so transferred, conveyed, 
+accepted or assumed; provided further that neither Party nor any member of 
+its Group shall be required to contribute capital, pay or grant any 
+consideration or concession in any form (including providing any letter of 
+credit, guaranty or other financial accommodation) to any Person in order 
+to obtain or make any such Consent. In the event that any such transfer, 
+conveyance, acceptance or assumption (as applicable) has not been completed 
+effective as of and after the Distribution Date, the Party retaining such 
+Transferred Intellectual Property Right, Transferred Intellectual Property 
+Liability, Common Infrastructure Right or Common Infrastructure Liability 
+(or the member of the Partys Group retaining such Transferred Intellectual 
+Property Right, Transferred Intellectual Property Liability, Common 
+Infrastructure Right or Common Infrastructure Liability) shall thereafter 
+hold such Intellectual Property Right or Common Infrastructure Right for 
+the use and benefit of the Party entitled thereto (at the expense of the 
+Party entitled thereto) and retain such Intellectual Property Liability or 
+Common Infrastructure Liability for the account, and at the expense, of the 
+Party by whom such Intellectual Property Liability or Common Infrastructure 
+Liability should have been assumed or accepted pursuant to this Agreement, 
+and take such other actions as may be reasonably requested by the Party to 
+which such Intellectual Property Right or Common Infrastructure Right 
+should have been transferred or conveyed, or by whom such Intellectual 
+Property Liability or Common Infrastructure Liability should have been 
+assumed or accepted, as the case may be, in order to place such Party, 
+insofar as reasonably possible, in the same position as would have existed 
+had such Transferred
+ 
+18
+
+------------------------------------------------------------------------
+Intellectual Property Right, Transferred Intellectual Property Liability, 
+Common Infrastructure Right or Common Infrastructure Liability been 
+transferred, conveyed, accepted or assumed (as applicable) as contemplated 
+by this Agreement, including possession, use, risk of loss, potential for 
+gain/loss and control over such Transferred Intellectual Property Right, 
+Transferred Intellectual Property Liability, Common Infrastructure Right or 
+Common Infrastructure Liability. As and when any such Transferred 
+Intellectual Property Right, Transferred Intellectual Property Liability, 
+Common Infrastructure Right or Common Infrastructure Liability becomes 
+transferable, the Parties shall use reasonable best efforts to promptly 
+effect such transfer, conveyance, acceptance or assumption (as applicable). 
+Any transfer, conveyance, acceptance or assumption made pursuant to this 
+Section 2.06(c) shall be treated by the Parties for all purposes as if it 
+had occurred as of the Distribution Date, except as otherwise required by 
+applicable Law or a Final Determination.
+
+(d) The Party retaining any Transferred Intellectual Property Right, 
+Transferred Intellectual Property Liability, Common Infrastructure Right or 
+Common Infrastructure Liability due to the deferral of the transfer and 
+conveyance of such Intellectual Property Right or Common Infrastructure 
+Right or the deferral of the acceptance and assumption of such Intellectual 
+Property Liability or Common Infrastructure Liability pursuant to this 
+Section 2.06 or otherwise shall not be obligated by this Agreement, in 
+connection with this Section 2.06, to expend any money or take any action 
+that would require the expenditure of money (other than reasonable 
+out-of-pocket expenses, attorneys fees and recording or similar fees, all 
+of which shall be promptly reimbursed by the Party or the member of the 
+Partys Group entitled to such Intellectual Property Right or Common 
+Infrastructure Right or intended to assume such Intellectual Property 
+Liability or Common Infrastructure Liability, as applicable) unless and to 
+the extent the Party or the member of the Partys Group entitled to such 
+Intellectual Property Right or Common Infrastructure Right or intended to 
+assume such Intellectual Property Liability or Common Infrastructure 
+Liability, as applicable, advances or agrees to reimburse it for the 
+applicable expenditures.
+
+
+ARTICLE III
+
+LICENSES FROM XEROX TO CONDUENT
+
+SECTION 3.01. License Grants. Xerox hereby grants, and agrees to cause the 
+members of the Xerox Group to hereby grant, to Conduent and the members of 
+the Conduent Group the following personal, irrevocable (except as set forth 
+in Article VIII and Article IX), non-exclusive (except as set forth in 
+Section 3.01(a) of Schedule H), worldwide, royalty-free and 
+non-transferable (except as set forth in Article VIII) licenses under the 
+Licensed Xerox IPR subject to the terms of this Agreement as follows:
+
+(a) Patents.
+
+(i) Under the Retained Tier 1 Patents that are included in Licensed Xerox 
+IPR, to do the following with regard to Conduent Products solely within
+ 
+19
+
+------------------------------------------------------------------------
+the Conduent Field: (A) to make (including the right to practice any 
+methods, processes and procedures), (B) to have made (subject to Section 
+3.02), and (C) to use, lease, sell, offer for sale and import.
+
+(ii) Under the Retained Tier 2 Patents that are included in Licensed Xerox 
+IPR, solely for uses in accordance with the license terms set forth in 
+Section 3.01(a) of Schedule H hereto.
+
+(iii) The Xerox Patent licenses set forth in this Section 3.01(a) shall 
+terminate, with respect to each individual licensed Xerox Patent, upon the 
+expiration of its term.
+
+(b) Trademarks. As to certain Trademarks owned by Xerox or the members of 
+its Group as of the Distribution Date, Xerox agrees to grant, and to cause 
+Xerox Overseas, Inc. to grant, Conduent a license as set forth in the TLA. 
+To the extent there is a conflict between the terms of this Agreement and 
+the TLA, the terms of the TLA shall control.
+
+(c) Copyrights.
+
+(i) Under the Retained Tier 1 Copyrights that are included in Licensed 
+Xerox IPR, (A) to reproduce and have reproduced (subject to Section 3.02) 
+the works of authorship included therein and derivative works thereof 
+prepared by or on behalf of Conduent, in whole or in part, solely as part 
+of Conduent Products in the Conduent Field, (B) to prepare derivative works 
+or have derivative works prepared for it based upon such works of 
+authorship solely to create Conduent Products in the Conduent Field, (C) to 
+distribute (by any means and using any technology, whether now known or 
+unknown) copies of the works of authorship included therein (and derivative 
+works thereof prepared by or on behalf of Conduent) to the public by sale 
+or other transfer of ownership or by rental, lease or lending, solely as 
+part of Conduent Products in the Conduent Field, (D) to perform (by any 
+means and using any technology, whether now known or unknown, including 
+electronic transmission) and display the works of authorship included 
+therein (and derivative works thereof prepared by or on behalf of 
+Conduent), in all cases solely as part of Conduent Products in the Conduent 
+Field, and (E) to use such works of authorship (and derivative works 
+thereof prepared by or on behalf of Conduent) to design, develop, make and 
+have made (subject to Section 3.02), sell and support solely as part of 
+Conduent Products in the Conduent Field.
+
+(ii) Under the Retained Tier 2 Copyrights that are included in Licensed 
+Xerox IPR, solely for uses in accordance with the license terms set forth 
+in Section 3.01(c) of Schedule H hereto.
+
+(iii) The Copyright licenses set forth in this Section 3.01(c) shall 
+terminate, with respect to each individual licensed Copyright, upon the 
+expiration of its term.
+ 
+20
+
+------------------------------------------------------------------------
+(iv) The Parties acknowledge that some of the materials licensed under this 
+Section 3.01(c) (e.g., documents, PowerPoint slides, photo libraries, etc.) 
+also contain 3POCM such as fonts, images and graphics, which are licensed 
+to Xerox but that might not be sub-licensable to Conduent. The license 
+granted under this Section 3.01(c), therefore, does not extend to the use 
+of such 3POCM, and Conduent is solely responsible for obtaining its own 
+licenses to the 3POCM. Conduent shall also indemnify, defend and hold 
+harmless Xerox, each other member of the Xerox Group, and each of their 
+respective former and current directors, officers and employees, and each 
+of the heirs, executors, successors and assigns of any of the foregoing 
+from and against any and all claims by third parties arising out of or 
+relating to Conduents or any member of its Groups use or exploitation of 
+the 3POCM following the Distribution.
+
+(d) Database Rights. Under the Database Rights that are included in 
+Licensed Xerox IPR, solely to extract data from the databases included 
+therein and to use such data (and Improvements thereof prepared by or on 
+behalf of Conduent) solely to design, develop, make and have made (subject 
+to Section 3.02), sell and support Conduent Products in the Conduent Field. 
+The license set forth in this Section 3.01(d) shall expire upon expiration 
+of the term of each licensed Database Right unless terminated earlier by 
+operation of Law.
+
+(e) Trade Secrets.
+
+(i) Under the Retained Tier 1 Trade Secrets that are included in Licensed 
+Xerox IPR, solely to design, develop, make and have made (subject to 
+Section 3.02), sell and maintain Conduent Products in the Conduent Field.
+
+(ii) Under the Retained Tier 2 Trade Secrets that are included in Licensed 
+Xerox IPR, solely for uses in accordance with the license terms set forth 
+in Section 3.01(e) of Schedule H hereto.
+
+(iii) Since laboratory notebooks being retained by Xerox may contain 
+information about a mix of Xerox and Conduent IPR, Xerox shall retain such 
+laboratory notebooks in accordance with Xeroxs current retention policy 
+for Xerox laboratory notebooks, and Xerox shall provide Conduent with 
+timely access to such laboratory notebooks during normal business hours 
+upon reasonable request. The Trade Secret licenses set forth in this 
+Section 3.01(e) shall continue until a valid occurrence of an exception to 
+the confidentiality obligations set forth in Section 7.09 of the Separation 
+Agreement or Section 6.03 below.
+
+(f) Third-Party Licenses. With respect to Intellectual Property Rights 
+licensed to Xerox or the members of its Group by a third party, the license 
+grants set forth in this Article III shall be subject to all of the terms, 
+conditions and restrictions set forth in the relevant license agreement 
+between Xerox (or a member of its Group, as the case may be) and such third 
+party. Licenses to Conduent under Intellectual Property Rights owned by a 
+third party shall expire or terminate on the expiration or termination of 
+the term of the corresponding license agreement between such third party 
+and Xerox (or the member of its Group, as the case may be).
+ 
+21
+
+------------------------------------------------------------------------
+(g) Access Methods. Conduent acknowledges and agrees that, subsequent to 
+the Distribution Date, Conduent and the members of its Group may no longer 
+use de-encryption algorithms or other access methods that were previously 
+provided by Xerox to internal Xerox users to enable those internal Xerox 
+users to use locked or encrypted copies of Xerox Commercial Software or 
+other software, except to the extent necessary to continue using those 
+copies rightfully in use before the Distribution Date. Xerox acknowledges 
+and agrees to allow Conduent, or a member of its Group, after the 
+Distribution Date, reasonable access to any of the Licensed Xerox IPR, 
+materials or data licensed to them in this Article III.
+
+(h) Software. Without limiting the generality of the foregoing licenses 
+granted in this Section 3.01, or the transfer of rights with respect to 
+software transferred to Conduent pursuant to the Separation Agreement, such 
+licenses include the right to use, modify (including creating Software 
+Derivatives), and reproduce in source code and object code form such 
+software (and Improvements thereof made by or on behalf of Conduent) solely 
+to create Conduent Products in the Conduent Field, and to sell and maintain 
+such software, in source code and object code form, as part of such 
+Conduent Products.
+
+(i) Termination of Licenses to a Non-Group Member. Except as otherwise 
+expressly set forth herein, any and all licenses granted by Xerox to a 
+member of the Conduent Group hereunder shall terminate immediately at the 
+time such entity ceases to be a member of the Conduent Group.
+
+SECTION 3.02. Have Made Rights. Subject to Section 3.02 of Schedule H 
+hereto, the licenses to Conduent and the members of its Group in Section 
+3.01 above include the right to have contract manufacturers and foundries 
+manufacture Conduent Products based substantially on Conduent designs, 
+solely for Conduent or the members of its Group (including private label or 
+OEM versions of such Conduent Products) solely within the Conduent Field, 
+and are not intended to include foundry or contract manufacturing 
+activities that Conduent or any member of its Group may undertake on behalf 
+of third parties, whether directly or indirectly.
+
+SECTION 3.03. Sublicenses. The licenses granted to Conduent and the members 
+of its Group in Section 3.01 above shall not include any right to grant any 
+sublicenses except as follows:
+
+(a) Group Members. Conduent may grant sublicenses to members of its Group, 
+even if they become members of its Group after the Distribution Date, 
+solely within the scope of its licenses in Section 3.01 above and with no 
+right for such members of its Group to grant further sublicenses other than 
+(i) to another member of the Conduent Group, even if it becomes a member of 
+the Conduent Group after the Distribution Date; provided, however, that any 
+such sublicense shall only be effective for such time as such entity 
+remains a member of the Conduent Group, and (ii) as provided in Section 
+3.03(c), below.
+ 
+22
+
+------------------------------------------------------------------------
+(b) Duration. Any sublicense granted pursuant to Section 3.03(a) above may 
+be made effective retroactively, but shall not be effective for any time 
+prior to the sublicensee becoming a member of the Conduent Group, and shall 
+only be effective for such times that such entity remains a member of the 
+Conduent Group.
+
+(c) For Resale and End Users. Conduent and the members of its Group may 
+grant sublicenses to its distributors, resellers, OEM (Original Equipment 
+Manufacturer) customers, VAR (Value-added Reseller) customers, VAD 
+(Value-added Distributor) customers, downstream systems integrators and 
+other downstream channels of distribution solely with respect to the 
+distribution of Conduent Products to end users and solely within the scope 
+of the licenses set forth in Section 3.01(c) and Section 3.01(d) above with 
+no further right to sublicense; provided, however, that any such sublicense 
+by a member of the Conduent Group shall only be effective for such times 
+that such sublicensing entity remains a member of the Conduent Group.
+
+SECTION 3.04. Improvements. As between Xerox and the members of its Group 
+on the one hand, and Conduent and the members of its Group on the other 
+hand, Conduent and the members of its Group hereby retain all right, title 
+and interest, including all Intellectual Property Rights and Common 
+Infrastructure Rights, in and to any Improvements made by or on behalf of 
+Conduent or the members of its Group from and after the Distribution Date 
+(a) to any of the Transferred Intellectual Property Rights and Common 
+Infrastructure Copyrights, or Technology related thereto, or (b) in the 
+exercise of the licenses granted to it by Xerox and the members of its 
+Group in this Article III, subject in each case only to the ownership 
+interests of Xerox, the members of its Group and third parties in the 
+underlying Intellectual Property Rights that are improved. Conduent shall 
+not have any obligation under this Agreement to notify Xerox or the members 
+of the Xerox Group of any such Improvements made by or on behalf of it or 
+the members of its Group or to disclose or license any such Improvements to 
+Xerox or the members of its Group.
+
+SECTION 3.05. Xerox Restricted Patents. Xerox hereby covenants on its own 
+behalf and on behalf of the members of its Group that, unless obligated to 
+do so by any third party agreement existing as of the Distribution Date, it 
+will not assert against Conduent or any member of the Conduent Group any 
+Xerox Restricted Patent to the extent that it would have been licensed 
+hereunder but for the restriction against Xerox or the members of the Xerox 
+Group licensing such Patent to Conduent contained in a third party 
+agreement. Such covenant shall only be with respect to any conduct that 
+would have otherwise been licensed hereunder. Such covenant shall be 
+effective to the extent permitted by the third party agreement.
+
+SECTION 3.06. Infrastructure Grant. Subject to the terms of this Agreement, 
+Xerox hereby grants, and agrees to cause the members of the Xerox Group to 
+hereby grant, to Conduent and the members of the Conduent Group a personal, 
+irrevocable (except as set forth in Article VIII and Article IX), 
+non-exclusive, worldwide,
+ 
+23
+
+------------------------------------------------------------------------
+royalty-free and non-transferable (except as set forth in Article VIII) 
+license under the Licensed Xerox IPR to use, compile, execute, display, 
+perform, modify, maintain, repair, reproduce, support and translate 
+Technology of Xerox, or a member of the Xerox Group, or Conduent, or a 
+member of the Conduent Group, in existence as of the Distribution Date, and 
+reasonable extensions of or improvements thereto, for carrying out internal 
+business operations of the BPO Business to the extent that (i) such 
+Technology was used by the BPO Business as of or prior to the Distribution 
+Date in such internal business operations, and (ii) no Xerox Current 
+Product that is made available to Conduent on commercially reasonable terms 
+by Xerox is a reasonable substitute for such Technology.
+
+
+ARTICLE IV
+
+LICENSES FROM CONDUENT TO XEROX
+
+SECTION 4.01. License Grants. Conduent hereby grants, and agrees to cause 
+the members of the Conduent Group to hereby grant, to Xerox and the members 
+of the Xerox Group the following personal, irrevocable (except as set forth 
+in Article VIII and Article IX), non-exclusive, worldwide, royalty-free and 
+non-transferable (except as set forth in Article VIII) licenses under the 
+Licensed Conduent IPR subject to the terms of this Agreement as follows:
+
+(a) Patents.
+
+(i) Under the Conduent Tier 1 Patents that are included in Licensed 
+Conduent IPR, to do the following with regard to Xerox Products solely 
+within the Xerox Field: (A) to make (including the right to practice any 
+methods, processes and procedures), (B) to have made (subject to Section 
+4.02), and (C) to use, lease, sell, offer for sale and import.
+
+(ii) Under the Conduent Tier 2 Patents that are included in Licensed 
+Conduent IPR, solely for uses in accordance with the license terms set 
+forth in Section 4.01(a) of Schedule H hereto.
+
+(iii) The Conduent Patent licenses set forth in this Section 4.01(a) shall 
+terminate, with respect to each individual licensed Conduent Patent, upon 
+the expiration of its term.
+
+(b) Copyrights.
+
+(i) Under the Transferred Tier 1 Copyrights that are included in Licensed 
+Conduent IPR, (A) to reproduce and have reproduced (subject to Section 
+4.02) the works of authorship included therein and derivative works thereof 
+prepared by or on behalf of Xerox, in whole or in part, solely as part of 
+Xerox Products in the Xerox Field, (B) to prepare derivative works or have 
+derivative works prepared for it based upon such works of authorship solely 
+to create Xerox Products in the Xerox Field, (C) to distribute (by any 
+means and using any technology, whether now known or unknown) copies of the 
+works of authorship included therein (and derivative works thereof prepared 
+by or on behalf of Xerox)
+ 
+24
+
+------------------------------------------------------------------------
+to the public by sale or other transfer of ownership or by rental, lease or 
+lending, solely as part of Xerox Products in the Xerox Field, (D) to 
+perform (by any means and using any technology, whether now known or 
+unknown, including electronic transmission) and display the works of 
+authorship included therein (and derivative works thereof prepared by or on 
+behalf of Xerox), in all cases solely as part of Xerox Products in the 
+Xerox Field, and (E) to use such works of authorship (and derivative works 
+thereof prepared by or on behalf of Xerox) to design, develop, make and 
+have made (subject to Section 4.02), sell and support solely as part of 
+Xerox Products in the Xerox Field.
+
+(ii) Under the Transferred Tier 2 Copyrights that are included in Licensed 
+Conduent IPR, solely for uses in accordance with the license terms set 
+forth in Section 4.01(b) of Schedule H hereto.
+
+(iii) The Copyright licenses set forth in this Section 4.01(b) shall 
+terminate, with respect to each individual licensed Copyright, upon the 
+expiration of its term.
+
+(iv) The Parties acknowledge that some of the materials licensed under this 
+provision (e.g., documents, PowerPoint slides, photo libraries, etc.) also 
+contain 3POCM such as fonts, images and graphics, which are licensed to 
+Conduent but that might not be sub-licensable to Xerox. The license granted 
+under this Section 4.01(b), therefore, does not extend to the use of such 
+3POCM, and Xerox is solely responsible for obtaining its own licenses to 
+the 3POCM. Xerox shall also indemnify, defend and hold harmless Conduent, 
+each other member of the Conduent Group, and each of their respective 
+former and current directors, officers and employees, and each of the 
+heirs, executors, successors and assigns of any of the foregoing from and 
+against any and all claims by third parties arising out of or relating to 
+Xeroxs or any member of its Groups use or exploitation of the 3POCM 
+following the Distribution.
+
+(c) Database Rights. Under the Database Rights that are included in 
+Licensed Conduent IPR, solely to extract data from the databases included 
+therein and to use such data (and Improvements thereof prepared by or on 
+behalf of Xerox) solely to design, develop, make and have made (subject to 
+Section 4.02), sell and support Xerox Products in the Xerox Field. The 
+license set forth in this Section 4.01(c) shall expire upon expiration of 
+the term of each licensed Database Right unless terminated earlier by 
+operation of Law.
+
+(d) Trade Secrets.
+
+(i) Under the Transferred Tier 1 Trade Secrets that are included in 
+Licensed Conduent IPR, solely to design, develop, make and have made 
+(subject to Section 4.02), sell and maintain Xerox Products in the Xerox 
+Field.
+ 
+25
+
+------------------------------------------------------------------------
+(ii) Under the Transferred Tier 2 Trade Secrets that are included in 
+Licensed Conduent IPR, solely for uses in accordance with the license terms 
+set forth in Section 4.01(d) of Schedule H hereto.
+
+(iii) Since laboratory notebooks being retained by Conduent may contain 
+information about a mix of Xerox and Conduent IPR, Conduent shall retain 
+such laboratory notebooks for the period of time required by Conduents 
+current retention policy for Conduent laboratory notebooks, or 10 years, 
+whichever is longer, and Conduent shall provide Xerox with timely access to 
+such laboratory notebooks during normal business hours upon reasonable 
+request. The Trade Secret licenses set forth in this Section 4.01(d) shall 
+continue until a valid occurrence of an exception to the confidentiality 
+obligations set forth in Section 7.09 of the Separation Agreement or 
+Section 6.03 below.
+
+(e) Third-Party Licenses. With respect to Intellectual Property Rights 
+licensed to Conduent or the members of its Group by a third party, the 
+license grants set forth in this Article IV shall be subject to all of the 
+terms, conditions and restrictions set forth in the relevant license 
+agreement between Conduent (or a member of its Group, as the case may be) 
+and such third party. Licenses to Xerox under Intellectual Property Rights 
+owned by a third party shall expire or terminate on the expiration or 
+termination of the term of the corresponding license agreement between such 
+third party and Conduent (or the member of its Group, as the case may be).
+
+(f) Access Methods. Xerox acknowledges and agrees that, subsequent to the 
+Distribution Date, Xerox and the members of its Group may no longer use 
+de-encryption algorithms or other access methods that were previously 
+provided by the BPO Business to internal Xerox users to enable those 
+internal Xerox users to use locked or encrypted copies of Conduent 
+Commercial Software or other software, except to the extent necessary to 
+continue using those copies rightfully in use before the Distribution Date. 
+Conduent acknowledges and agrees to allow Xerox, or a member of its Group, 
+after the Distribution Date, reasonable access to any of the Licensed 
+Conduent IPR, materials or data licensed to them in this Article IV.
+
+(g) Software. Without limiting the generality of the foregoing licenses 
+granted in this Section 4.01, or the transfer of rights with respect to 
+software transferred to Xerox pursuant to the Separation Agreement, such 
+licenses include the right to use, modify (including creating Software 
+Derivatives), and reproduce in source code and object code form such 
+software (and Improvements thereof made by or on behalf of Xerox) solely to 
+create Xerox Products in the Xerox Field, and to sell and maintain such 
+software, in source code and object code form, as part of such Xerox 
+Products.
+
+(h) Termination of Licenses to a Non-Group Member. Except as otherwise 
+expressly set forth herein, any and all licenses granted by Conduent to a 
+member of the Xerox Group hereunder shall terminate immediately at the time 
+such entity ceases to be a member of the Xerox Group.
+ 
+26
+
+------------------------------------------------------------------------
+SECTION 4.02. Have Made Rights. Subject to Section 4.02 of Schedule H 
+hereto, the licenses to Xerox and the members of its Group in Section 4.01 
+above shall include the right to have contract manufacturers and foundries 
+manufacture Xerox Products based substantially on Xerox designs, solely for 
+Xerox or the members of its Group (including private label or OEM versions 
+of such Xerox Products) solely within the Xerox Field, and are not intended 
+to include foundry or contract manufacturing activities that Xerox or any 
+member of its Group may undertake on behalf of third parties, whether 
+directly or indirectly.
+
+SECTION 4.03. Sublicenses. The licenses granted to Xerox and the members of 
+its Group in Section 4.01 above shall not include any right to grant any 
+sublicenses except as follows:
+
+(a) Group Members. Xerox may grant sublicenses to members of its Group, 
+even if they become members of its Group after the Distribution Date, 
+solely within the scope of its licenses in Section 4.01 above and with no 
+right for such members of its Group to grant further sublicenses other than 
+(i) to another member of the Xerox Group, even if it becomes a member of 
+the Xerox Group after the Distribution Date; provided, however, that any 
+such sublicense shall only be effective for such time as such entity 
+remains a member of the Xerox Group, and (ii) as provided in Section 
+4.03(c), below.
+
+(b) Duration. Any sublicense granted pursuant to Section 4.03(a) above may 
+be made effective retroactively, but shall not be effective for any time 
+prior to the sublicensee becoming a member of the Xerox Group, and shall 
+only be effective for such times that such entity remains a member of the 
+Xerox Group.
+
+(c) For Resale and End Users. Xerox and the members of its Group may grant 
+sublicenses to its distributors, resellers, OEM (Original Equipment 
+Manufacturer) customers, VAR (Value-added Reseller) customers, VAD 
+(Value-added Distributor) customers, downstream systems integrators and 
+other downstream channels of distribution solely with respect to the 
+distribution of Xerox Products to end users and solely within the scope of 
+the licenses set forth in Section 4.01(b) and 4.01(c) above with no further 
+right to sublicense; provided, however, that any such sublicense by a 
+member of the Xerox Group shall only be effective for such times that such 
+sublicensing entity remains a member of the Xerox Group.
+
+SECTION 4.04. Improvements. As between Conduent and the members of its 
+Group on the one hand, and Xerox and the members of its Group on the other 
+hand, Xerox and the members of its Group hereby retain all right, title and 
+interest, including all Intellectual Property Rights, in and to any 
+Improvements made by or on behalf of Xerox or the members of its Group from 
+and after the Distribution Date (a) to any of the Transferred Intellectual 
+Property Rights and Common Infrastructure Copyrights, and Technology 
+related thereto, or (b) in the exercise of the licenses granted to it by 
+Conduent and the members of its Group in this Article IV, subject in each 
+case only to the ownership interests of Conduent, the members of its Group 
+and third parties in the underlying Intellectual Property Rights that are 
+improved. Xerox shall not have any
+ 
+27
+
+------------------------------------------------------------------------
+obligation under this Agreement to notify Conduent or the members of the 
+Conduent Group of any such Improvements made by or on behalf of it or the 
+members of its Group or to disclose or license any such Improvements to 
+Conduent or the members of its Group.
+
+SECTION 4.05. Conduent Restricted Patents. Conduent hereby covenants on its 
+own behalf and on behalf of the members of its Group that, unless obligated 
+to do so by any third party agreement existing as of the Distribution Date, 
+it will not assert against Xerox or any member of the Xerox Group any 
+Conduent Restricted Patent to the extent that it would have been licensed 
+hereunder but for the restriction against Conduent or the members of the 
+Conduent Group licensing such Patent to Xerox contained in a third party 
+agreement. Such covenant shall only be with respect to any conduct that 
+would have otherwise been licensed hereunder. Such covenant shall be 
+effective to the extent permitted by the third party agreement.
+
+SECTION 4.06. Infrastructure Grant. Subject to the terms of this Agreement, 
+Conduent hereby grants, and agrees to cause the members of the Conduent 
+Group to hereby grant, to Xerox and the members of the Xerox Group a 
+personal, irrevocable (except as set forth in Article VIII and Article IX), 
+non-exclusive, worldwide, royalty-free and non-transferable (except as set 
+forth in Article VIII) license under the Licensed Conduent IPR to use, 
+compile, execute, display, perform, modify, maintain, repair, reproduce, 
+support and translate Technology of Conduent, or a member of the Conduent 
+Group, or Xerox, or a member of the Xerox Group, in existence as of the 
+Distribution Date, and reasonable extensions of or improvements thereto, 
+for carrying out internal business operations of the Xerox Business to the 
+extent that (i) such Technology was used by the Xerox Business as of or 
+prior to the Distribution Date in such internal business operations, and 
+(ii) no Conduent Current Product that is made available to Xerox on 
+commercially reasonable terms by Conduent is a reasonable substitute for 
+such Technology.
+
+
+ARTICLE V
+
+ADDITIONAL INTELLECTUAL PROPERTY RELATED MATTERS
+
+SECTION 5.01. Assignments and Licenses. No Party or any member of its Group 
+may assign or grant a license in or to any of its Intellectual Property 
+Rights licensed to the other Party or any member of its Group pursuant to 
+Article III or Article IV, unless such assignment or grant is made subject 
+to the licenses granted herein. For the avoidance of doubt, a non-exclusive 
+license grant shall be deemed subject to the licenses granted herein.
+
+SECTION 5.02. Assistance By Employees. Each of Xerox and Conduent agree to 
+use reasonable best efforts to make available, upon written request, the 
+former, current and future directors, officers, employees, other personnel 
+and agents of the Persons in its respective Group and any books, records or 
+other documents within its control or that it otherwise has the ability to 
+make available, to the extent that such Person (giving consideration to 
+business demands of such directors, officers, employees,
+ 
+28
+
+------------------------------------------------------------------------
+other personnel and agents) or books, records or other documents may 
+reasonably be required in connection with any Administrative IP Proceeding 
+or threatened or contemplated Administrative IP Proceeding (including 
+preparation for any such Administrative IP Proceeding) in which either 
+Xerox or Conduent or any Person or Persons in its Group, as applicable, may 
+from time to time be involved. Any actual and reasonable out-of-pocket 
+expenses associated with such assistance shall be borne by the Party 
+involved in the Administrative IP Proceeding. For the purposes of this 
+Section 5.02, Administrative IP Proceedings shall mean the prosecution 
+of, and other patent or trademark office proceedings (e.g., reissue, 
+reexamination, interference, inter partes review, post-grant review, etc.) 
+regarding, the other Partys Patent applications, Patents, Trademarks and 
+other Intellectual Property Rights.
+
+SECTION 5.03. Inventor Compensation. Each Party will be responsible for 
+providing inventor incentive compensation, if any, to its and its Group 
+members employees in accordance with its own internal policies and any 
+applicable laws and regulations. To the extent that a Party bases an 
+inventors incentive compensation on a Patent or a Patent application of 
+the other Party, the Parties will reasonably cooperate by providing to each 
+other relevant information about their Patents for which one or more 
+inventors are employees of the other Party. To the extent that inventor 
+compensation is specified by local law, such as in Germany and Japan, the 
+Parties will reasonably cooperate in providing information to each other in 
+order to enable each Party to calculate inventor compensation. No Party 
+shall have any obligation to provide any inventor incentive compensation to 
+an employee of the other Party except as required by law. Any information 
+provided under this Section 5.03 shall be subject to Section 6.03 and 
+Section 7.09 of the Separation Agreement.
+
+SECTION 5.04. No Implied Licenses. Nothing contained in this Agreement 
+shall be construed as conferring any rights (including the right to 
+sublicense) by implication, estoppel or otherwise, under any Intellectual 
+Property Rights, other than as expressly granted in this Agreement, and all 
+other rights under any Intellectual Property Rights licensed to a Party or 
+the members of its Group hereunder are expressly reserved by the Party 
+granting the license. The Party receiving the license hereunder 
+acknowledges and agrees that the Party (or the applicable member of its 
+Group) granting the license is the sole and exclusive owner of the 
+Intellectual Property Rights so licensed.
+
+SECTION 5.05. No Field Restrictions for Patent Licensing. Except as 
+expressly set forth in this Agreement, each Party and the members of its 
+Group shall be free to grant licenses of any sort under any of its owned 
+Conduent Patents or Xerox Patents (as the case may be) to any third party 
+without restriction as to field of use.
+
+SECTION 5.06. No Obligation To Prosecute or Maintain Patents. Except as 
+expressly set forth in this Agreement, no Party or any member of its Group 
+shall have any obligation to seek, perfect or maintain any protection for 
+any of its Intellectual Property Rights. Without limiting the generality of 
+the foregoing, except as expressly set forth in this Agreement, no Party or 
+any member of its Group shall have any obligation to file any Patent 
+application, to prosecute any Patent, or secure any Patent rights or to 
+maintain any Patent in force.
+ 
+29
+
+------------------------------------------------------------------------
+SECTION 5.07. Technical Assistance. Except as expressly set forth in this 
+Agreement, in the Separation Agreement or any other mutually executed 
+agreement between the Parties or any of the members of their respective 
+Groups, no Party or any member of its Group shall be required to provide 
+the other Party with any technical assistance or to furnish any other Party 
+with, or obtain on their behalf, any documents, materials or other 
+information or Technology.
+
+SECTION 5.08. Third-Party Infringement. No Party or any member of its Group 
+shall have any obligation hereunder to institute or maintain any action or 
+suit against third parties for infringement or misappropriation of any 
+Intellectual Property Rights in or to any Technology licensed to the other 
+Party hereunder, or to defend any action or suit brought by a third party 
+which challenges or concerns the validity of any of such Intellectual 
+Property Rights or which claims that any Technology licensed to the other 
+Party or any member of its Group hereunder infringes or constitutes a 
+misappropriation of any Intellectual Property Rights of any third party. 
+Except as set forth in Section 6.03(b) of the TLA, each Party (the 
+Notifying Party) may, but shall not be required to, notify the other Party 
+(the Licensor) in writing upon learning that a third party may be 
+infringing, misappropriating or otherwise violating or impairing any 
+Intellectual Property Rights of the Licensor that are licensed to the 
+Notifying Party under this Agreement. Such notification shall set forth in 
+reasonable specificity the identity of the suspected infringing third party 
+and the nature of the suspected infringement. The Notifying Party shall not 
+take any steps to contact any such third party without the Licensors prior 
+written permission, and the Licensor shall have the sole discretion to 
+determine whether and in what manner to address any actual or suspected 
+unauthorized Third-Party use and shall be exclusively entitled to any 
+remedies, including monetary damages, related thereto or resulting 
+therefrom. In the event that the Licensor decides to initiate any claim 
+against any third party, the Notifying Party shall reasonably cooperate 
+with the Licensor, subject to Section 5.04. Any actual and reasonable 
+out-of-pocket expenses associated with such cooperation shall be borne by 
+the Licensor, expressly excluding the value of the time of the Notifying 
+Partys personnel (regarding which the Parties shall agree on a case by 
+case basis with respect to reasonable compensation).
+
+SECTION 5.09. Copyright Notices. Notwithstanding anything to the contrary 
+herein, as to works in which Conduent or any member of its Group owns the 
+Copyright, to the extent any such works contain Copyright notices which 
+indicate Xerox or any member of its Group as the Copyright owner, Conduent 
+may, but shall not be required to, change such notices.
+
+SECTION 5.10. No Challenge to Title. Each Party agrees that it shall not 
+(and shall cause the members of its Group not to), for any reason, during 
+the term of the licenses granted in Article III and Article IV, either 
+itself do or authorize any third party to do any of the following anywhere 
+in the world with respect to any Intellectual Property Rights licensed to 
+it or the members of its Group hereunder: (a) represent to any third party 
+in any manner that it owns or has any ownership rights in such Intellectual 
+Property Rights; (b) apply for any registration of such Intellectual 
+Property Rights (including federal, state and national registrations); or 
+(c) impair, dispute or contest the validity, enforceability or 
+registrability of the other Partys (or any of the members of such other 
+Partys Group) right, title and interest in and to such Intellectual 
+Property Rights.
+ 
+30
+
+------------------------------------------------------------------------
+SECTION 5.11. Xerox Use Covenant. Xerox agrees that it will not use the 
+Retained Tier 2 Copyrights in or to the Covenant Software or the Retained 
+Tier 2 Trade Secrets included in or embodied by the Covenant Software, in 
+each case solely with respect to the uses identified in Schedule J hereto.
+
+SECTION 5.12. Group Members. Each Party shall cause the members of its 
+Group to comply with all applicable provisions of this Agreement.
+
+
+ARTICLE VI
+
+CONFIDENTIAL INFORMATION
+
+SECTION 6.01. Contract Manufacturing. Notwithstanding anything to the 
+contrary herein, each Party agrees that, in exercising its Have-Made 
+rights (by Conduent, pursuant to Section 3.02, or by Xerox, pursuant to 
+Section 4.02), each Party and the members of its Group may only disclose 
+Trade Secrets licensed from the other Party or a member of its Group in 
+Article III or Article IV to the extent expressly permitted by this 
+Agreement, and then only if it has executed a written confidentiality 
+agreement with the third party contract manufacturer with appropriate, 
+industry standard terms, and in all cases containing terms and conditions 
+pertaining to the protection of proprietary and confidential information no 
+less restrictive than those set forth in this Article VI and Section 7.09 
+of the Separation Agreement.
+
+SECTION 6.02. Source Code. In addition to the provisions of Section 7.09 of 
+the Separation Agreement, Xerox shall maintain the confidentiality of all 
+information and documents related to all Licensed Conduent Source Code and 
+Conduent shall maintain the confidentiality of all information and 
+documents related to all Licensed Xerox Source Code until the expiration of 
+any Copyright therein. Each Party shall use (and shall cause the members of 
+its Group to use) the same degree of care as it uses to protect its own 
+proprietary source code, but in any case no less than a reasonable degree 
+of care, to prevent unauthorized use, dissemination or publication of the 
+source code. Any third party disclosure necessary to make commercial use of 
+the source code shall be made only under a confidentiality agreement with 
+terms no less restrictive than those of this Article VI. Source code shall 
+cease to qualify as confidential information if it (a) becomes publicly 
+available without breach of this Agreement, or (b) is obtained by the 
+licensed party from a third party lawfully in possession of the source code 
+and which provides the source code without breach of any duty of 
+confidentiality owed directly or indirectly to the source code owner 
+(either Xerox or Conduent, as may be applicable). Notwithstanding the 
+provisions of this Section 6.02, each Party and the members of its Group 
+may disclose the source code of the other Party and the members of its 
+Group if required by law, regulation or court order provided that the Party 
+seeking to disclose provides to the other Party notice and a reasonable 
+opportunity to object to, limit or condition the disclosure (e.g., to limit 
+the disclosure to the minimum necessary to comply with the law, regulation 
+or court order and for the disclosure to be made under protective order or 
+other order of confidentiality).
+ 
+31
+
+------------------------------------------------------------------------
+SECTION 6.03. Trade Secrets. In addition to the provisions of Section 7.09 
+of the Separation Agreement, Xerox shall maintain the confidentiality of 
+the Transferred Trade Secrets, the Trade Secrets licensed under Section 
+4.01(d) above and the Common Infrastructure Trade Secrets, and Conduent 
+shall maintain the confidentiality of the Common Infrastructure Trade 
+Secrets and the Trade Secrets licensed under Section 3.01(e) above. Each 
+Party shall use (and shall cause the members of its Group to use) the same 
+degree of care as it uses to protect its own Trade Secrets, but in any case 
+no less than a reasonable degree of care, to prevent unauthorized use, 
+dissemination or publication of the Trade Secrets licensed to such Party 
+under Section 4.01(d) or Section 3.01(e) above, the Common Infrastructure 
+Trade Secrets and, as to Xerox only, the Transferred Trade Secrets. Any 
+third party disclosure by either Party necessary to exploit the Trade 
+Secrets licensed to such Party under Section 4.01(d) or Section 3.01(e) 
+above or the Common Infrastructure Trade Secrets shall be made only under a 
+confidentiality agreement with terms no less restrictive than those of this 
+Article VI. A Trade Secret shall cease to qualify as confidential 
+information if it (a) becomes publicly available without breach of this 
+Agreement, or (b) is obtained from a third party lawfully in possession of 
+the Trade Secret and which provides the Trade Secret without breach of any 
+duty of confidentiality owed directly or indirectly to the Trade Secret 
+owner (either Xerox or Conduent, as may be applicable). For the avoidance 
+of doubt, neither Party shall seek registration of a Patent based on any 
+invention disclosure licensed to such Party under Section 4.01(d) or 
+Section 3.01(e) above. Notwithstanding the provisions of this Section 6.03, 
+each Party and the members of its Group may disclose the Trade Secret 
+information of the other Party and the members of its Group (i) if required 
+by law, regulation or court order provided that the Party seeking to 
+disclose provides notice and a reasonable opportunity to object to, limit 
+or condition the disclosure (e.g., to limit the disclosure to the minimum 
+necessary to comply with the law, regulation or court order and for the 
+disclosure to be made under protective order or other order of 
+confidentiality), or (ii) with the other Partys prior written consent.
+
+
+ARTICLE VII
+
+LIMITATION OF LIABILITY AND WARRANTY DISCLAIMER
+
+SECTION 7.01. Limitation of Liability. Except as may expressly be set forth 
+in this Agreement, none of Xerox, Conduent or any other member of either 
+Group shall in any event have any Liability to the other or to any other 
+member of the others Group, or to any other Xerox Indemnitee or Conduent 
+Indemnitee, as applicable, under this Agreement (i) with respect to any 
+matter to the extent that such Party seeking indemnification or any member 
+of its Group has engaged in any knowing violation of Law or fraud in 
+connection therewith or (ii) for any indirect, special, punitive or 
+consequential damages, whether or not caused by or resulting from 
+negligence or breach of obligations hereunder and whether or not informed 
+of the possibility of the existence of such damages; provided, however, 
+that the provisions of this Section 7.01(ii) shall not limit (a) a Partys 
+indemnification obligations with respect to any Liability any
+ 
+32
+
+------------------------------------------------------------------------
+Indemnitee may have to any third party not affiliated with any member of 
+the Xerox Group or the Conduent Group for any indirect, special, punitive 
+or consequential damages, or (b) the damages available to a Party for (i) 
+infringement or misappropriation of its Intellectual Property Rights by the 
+other Party or any member of the other Partys Group, or (ii) breaches of 
+Article VI.
+
+SECTION 7.02. Disclaimer of Representations and Warranties. Each of Xerox 
+(on behalf of itself and each other member of the Xerox Group) and Conduent 
+(on behalf of itself and each other member of the Conduent Group) 
+understands and agrees that, except as expressly set forth in this 
+Agreement, no Party is representing or warranting in any way, including any 
+implied warranties of merchantability, fitness for a particular purpose, 
+title, registerability, allowability, enforceability or non-infringement, 
+as to any Intellectual Property Rights or Intellectual Property Liabilities 
+transferred or assumed as contemplated hereby, as to the sufficiency of the 
+Intellectual Property Rights or Intellectual Property Liabilities 
+transferred or assumed hereby for the conduct and operations of the BPO 
+Business or the Xerox Business, as applicable, as to any Governmental 
+Approvals or other Consents required in connection therewith or in 
+connection with any past transfers of the Intellectual Property Rights or 
+assumptions of the Intellectual Property Liabilities, as to the value or 
+freedom from any Security Interests of, or any other matter concerning, any 
+Intellectual Property Rights or Intellectual Property Liabilities of such 
+Party, or as to the absence of any defenses or rights of set-off or freedom 
+from counterclaim with respect to any claim or other Intellectual Property 
+Rights, of any such Party, or as to the legal sufficiency of any 
+assignment, document or instrument delivered hereunder to convey title to 
+any Intellectual Property Rights or thing of value upon the execution, 
+delivery and filing hereof or thereof. Except as may expressly be set forth 
+herein, any such Intellectual Property Rights are being transferred on an 
+as is, where is basis and the respective transferees shall bear the 
+economic and legal risks that (a) any conveyance shall prove to be 
+insufficient to vest in the transferee good and marketable title, free and 
+clear of any Security Interest, and (b) any necessary Governmental 
+Approvals or other Consents are not obtained or that any requirements of 
+Laws or judgments are not complied with.
+
+
+ARTICLE VIII
+
+TRANSFERABILITY AND ASSIGNMENT
+
+SECTION 8.01. No Assignment or Transfer Without Consent. Except as 
+expressly set forth in this Agreement, neither this Agreement nor any of 
+the rights, interests or obligations under this Agreement, including the 
+Intellectual Property Rights licenses granted pursuant to this Agreement, 
+shall be assigned, in whole or in part, by operation of Law or otherwise by 
+either Party or any member of its Group without the prior written consent 
+of the other Party. Any purported assignment without such consent shall be 
+void. Subject to the preceding sentences, this Agreement will be binding 
+upon, inure to the benefit of, and be enforceable by, the Parties and their 
+respective successors and assigns. Notwithstanding the foregoing, either 
+Party may assign this Agreement without consent in connection with (a) a 
+merger transaction in which such Party is not the surviving entity and the 
+surviving entity acquires or assumes all or substantially all of
+ 
+33
+
+------------------------------------------------------------------------
+such Partys assets, or (b) the sale of all or substantially all of such 
+Partys assets; provided, however, that the assignee expressly assumes in 
+writing all of the obligations of the assigning Party under this Agreement, 
+and the assigning Party provides written notice and evidence of such 
+assignment and assumption to the non-assigning Party. For the avoidance of 
+doubt, in no event will the licenses granted in this Agreement extend to 
+products, product lines, services, apparatus, devices, systems, components, 
+hardware, software, processes, solutions, any combination of the foregoing, 
+or other offerings of the assignee existing on or before the date of the 
+transaction described in clauses (a) or (b) of the preceding sentence, 
+except to the extent that they were licensed under the terms of this 
+Agreement prior to such transaction.
+
+SECTION 8.02. Divested Businesses. In the event a Party divests a business 
+by (a) spinning off a member of its Group by its sale or other disposition 
+to a third party, (b) reducing ownership or control in a member of its 
+Group so that it no longer qualifies as a member of its Group under this 
+Agreement, or (c) selling or otherwise transferring a line of business to a 
+third party, and provided that (1) the divested entity/line of business is 
+maintained as a separate corporate entity or the entity/line of business is 
+merged with the acquiring entity but maintained as a separately 
+identifiable line of business, and (2) the divested entity/line of business 
+includes at least one marketable product or service in a product or service 
+line and tangible assets having a net value of at least $25,000,000; (each 
+such divested entity/line of business, a Divested Entity), the Divested 
+Entity shall retain those licenses granted to it under this Agreement 
+provided that the license granted shall be limited in the 12 months 
+immediately following such divestiture to a volume of licensed products or 
+services having an aggregate selling price equal to no more than the 
+aggregate selling prices of such products or services by said Divested 
+Entity in the 12 months preceding such divestiture plus 10%; and shall be 
+limited, in each of the successive 12-month periods following such transfer 
+or spin off, to a volume of licensed products or services having an 
+aggregate selling price equal to no more than the limit for the immediately 
+preceding 12-month period plus 10%. The retention of any license grants are 
+subject to the Divested Entitys and, in the event it is acquired by a 
+third party, such third partys execution and delivery to the 
+non-transferring Party, within 90 days of the effective date of such 
+assignment, of a duly authorized, written undertaking, agreeing to be bound 
+by the applicable terms of this Agreement. For the avoidance of doubt, in 
+no event shall any license retained by a former entity/line of business (as 
+the case may be) by virtue of the divestiture of a Divested Entity (i) be 
+broader than the licenses originally conveyed to a Party under the terms of 
+this Agreement, or (ii) apply to any products, product lines, services, 
+apparatus, devices, systems, components, hardware, software, processes, 
+solutions, any combination of the foregoing, or other offerings of any 
+third party acquirer, other than the Conduent Products or the Xerox 
+Products (as the case may be) that were transferred to the former 
+entity/line of business under the divestiture of a Divested Entity, or 
+(iii) convey any further rights under this Section 8.02 after the initial 
+divestiture of a Divested Entity. For the avoidance of doubt, in the event 
+that the divested entity/line of business is not a Divested Entity, then 
+the licenses granted to the divested entity/line of business shall 
+terminate as of the date the divested entity/line of business is divested.
+ 
+34
+
+------------------------------------------------------------------------
+ARTICLE IX
+
+REVOCATION AND TERMINATION OF LICENSE RIGHTS; TERMINATION
+
+SECTION 9.01. Termination by Both Parties. Subject to Section 9.02, this 
+Agreement may not be terminated except by an agreement in writing signed by 
+a duly authorized officer of each of the Parties.
+
+SECTION 9.02. Termination prior to the Distribution. This Agreement may be 
+terminated by Xerox at any time, in its sole discretion, prior to this 
+Distribution. In the event of any termination of this Agreement prior to 
+the Distribution, neither Party (nor any of its directors or officers) 
+shall have any Liability or further obligation to the other Party under 
+this Agreement.
+
+SECTION 9.03. Effect of Termination; Survival. Except with respect to 
+termination of the Agreement under Section 9.02, notwithstanding anything 
+in this Agreement to the contrary, Section 5.05, Article VI, Article VII, 
+this Section 9.03 and Article XI shall survive any termination of this 
+Agreement.
+
+
+ARTICLE X
+
+FURTHER ASSURANCES
+
+SECTION 10.01. Further Assurances. (a) In addition to the actions 
+specifically provided for elsewhere in this Agreement, each of the Parties 
+shall use reasonable best efforts, prior to, on and after the Distribution 
+Date, to take, or cause to be taken, all actions, and to do, or cause to be 
+done, all things, reasonably necessary, proper or advisable under 
+applicable Laws and agreements to consummate and make effective the 
+transactions contemplated by this Agreement.
+
+(b) Without limiting the foregoing, prior to, on and after the Distribution 
+Date, each Party shall cooperate with the other Party, without any further 
+consideration, but at the expense of the requesting Party, (i) to execute 
+and deliver, or use reasonable best efforts to execute and deliver, or 
+cause to be executed and delivered, all instruments, including any 
+instruments of conveyance, assignment and transfer as such Party may 
+reasonably be requested to execute and deliver by the other Party, (ii) to 
+make, or cause to be made, all filings with, and to obtain, or cause to be 
+obtained, all Consents of any Governmental Authority or any other Person 
+under any permit, license, agreement, indenture or other instrument, and 
+(iii) to take, or cause to be taken, all such other actions as such Party 
+may reasonably be requested to take by the other Party from time to time, 
+consistent with the terms of this Agreement, in order to effectuate the 
+provisions and purposes of this Agreement and any transfers of Intellectual 
+Property Rights or assignments and assumptions of Transferred Intellectual 
+Property Liabilities and Common Infrastructure Liabilities hereunder.
+
+(c) On or prior to the Distribution Date, Xerox and Conduent, in their 
+respective capacities as direct and indirect shareholders of their 
+respective Subsidiaries, shall each ratify any actions that are reasonably 
+necessary or desirable to be taken by Conduent or any other member of the 
+Xerox Group, as the case may be, to effectuate the transactions 
+contemplated by this Agreement.
+ 
+35
+
+------------------------------------------------------------------------
+ARTICLE XI
+
+MISCELLANEOUS
+
+SECTION 11.01. Counterparts; Entire Agreement; Corporate Power. (a) This 
+Agreement may be executed in one or more counterparts, all of which 
+counterparts shall be considered one and the same agreement, and shall 
+become effective when one or more counterparts have been signed by each 
+Party and delivered to the other Party. This Agreement may be executed by 
+facsimile or PDF signature and scanned and exchanged by electronic mail, 
+and such facsimile or PDF signature or scanned and exchanged copies shall 
+constitute an original for all purposes.
+
+(b) This Agreement and the Appendices, Exhibits and Schedules hereto 
+contain the entire agreement between the Parties with respect to the 
+subject matter hereof and supersede all previous agreements, negotiations, 
+discussions, writings, understandings, commitments and conversations with 
+respect to such subject matter, and there are no agreements or 
+understandings between the Parties with respect to the subject matter 
+hereof other than those set forth or referred to herein or therein.
+
+(c) Xerox represents on behalf of itself and each other member of the Xerox 
+Group, and Conduent represents on behalf of itself and each other member of 
+the Conduent Group, as follows:
+
+(i) each such Person has the requisite corporate or other power and 
+authority and has taken all corporate or other action necessary in order to 
+execute, deliver and perform this Agreement and to consummate the 
+transactions contemplated hereby; and
+
+(ii) this Agreement has been duly executed and delivered by it and 
+constitutes, or will constitute, a valid and binding agreement of it 
+enforceable in accordance with the terms thereof.
+
+SECTION 11.02. Governing Law; Jurisdiction. This Agreement shall be 
+governed by, and construed in accordance with, the Laws of the State of New 
+York, regardless of the Laws that might otherwise govern under applicable 
+principles of conflicts of Laws thereof. Each Party irrevocably consents to 
+the exclusive jurisdiction, forum and venue of the Commercial Division of 
+the Supreme Court of the State of New York, New York County and the United 
+States District Court for the Southern District of New York over any and 
+all claims, disputes, controversies or disagreements between the Parties or 
+any of their respective Subsidiaries, Affiliates, successors and assigns 
+under or related to this Agreement or any document executed pursuant to 
+this Agreement or any of the transactions contemplated hereby or thereby.
+ 
+36
+
+------------------------------------------------------------------------
+SECTION 11.03. Third-Party Beneficiaries. Except as otherwise expressly set 
+forth herein, the provisions of this Agreement are solely for the benefit 
+of the Parties hereto and are not intended to confer upon any Person except 
+the Parties hereto any rights or remedies hereunder, and there are no 
+third-party beneficiaries of this Agreement and this Agreement shall not 
+provide any third person with any remedy, claim, liability, reimbursement, 
+cause of action or other right in excess of those existing without 
+reference to this Agreement.
+
+SECTION 11.04. Notices. All notices or other communications under this 
+Agreement shall be in writing and shall be deemed to be duly given when (a) 
+delivered in person, (b) on the date received, if sent by a nationally 
+recognized delivery or courier service or (c) upon the earlier of confirmed 
+receipt or the fifth business day following the date of mailing if sent by 
+registered or certified mail, return receipt requested, postage prepaid, 
+addressed as follows:
+
+If to Xerox, to:
+
+Xerox Corporation
+P.O. Box 4505, 45 Glover Avenue
+Norwalk, CT 06850
+Attn: General Counsel
+Facsimile: 203-849-5152
+
+with a copy to:
+
+Cravath, Swaine & Moore LLP
+Worldwide Plaza
+825 Eighth Avenue
+New York, NY 10019
+Attn: 	Robert I. Townsend III
+     	Eric L. Schiele
+     	O. Keith Hallam III
+email: 	rtownsend@cravath.com
+     	eschiele@cravath.com
+     	khallam@cravath.com
+Facsimile: 212-474-3700
+
+If to Conduent, to:
+
+Conduent Incorporated
+233 Mount Airy Road, Suite 100
+Basking Ridge, New Jersey
+Attn: General Counsel
+ 
+37
+
+------------------------------------------------------------------------
+with a copy to:
+
+Cravath, Swaine & Moore LLP
+Worldwide Plaza
+825 Eighth Avenue
+New York, NY 10019
+Attn: 	Robert I. Townsend III
+     	Eric L. Schiele
+     	O. Keith Hallam III
+email: 	rtownsend@cravath.com
+     	eschiele@cravath.com
+     	khallam@cravath.com
+Facsimile: 212-474-3700
+
+Either Party may, by notice to the other Party, change the address to which 
+such notices are to be given.
+
+SECTION 11.05. Export Control. Each Party agrees that it shall comply with 
+all applicable national and international laws and regulations relating to 
+export control in its country(ies), if any, involving any commodities, 
+software, services or technology within the scope of this Agreement.
+
+SECTION 11.06. Bankruptcy. The Parties acknowledge and agree that all 
+rights and licenses granted by the other under or pursuant to this 
+Agreement are, and shall otherwise be deemed to be, for purposes of Section 
+365(n) of the United States Bankruptcy Code, as amended (the Bankruptcy 
+Code), licenses of rights to intellectual property as defined under 
+Section 101 of the Bankruptcy Code. The Parties agree that, notwithstanding 
+anything else in this Agreement, Xerox and the members of the Xerox Group 
+and Conduent and the members of the Conduent Group, as licensees of such 
+intellectual property rights under this Agreement, shall retain and may 
+fully exercise all of its rights and elections under the Bankruptcy Code 
+(including Xeroxs and the Xerox Group members and Conduents and the 
+Conduent Group members right to the continued enjoyment of the rights and 
+licenses respectively granted by under this Agreement).
+
+SECTION 11.07. Severability. If any provision of this Agreement or the 
+application thereof to any Person or circumstance is determined by a court 
+of competent jurisdiction to be invalid, void or unenforceable, the 
+remaining provisions hereof, or the application of such provision to 
+Persons or circumstances or in jurisdictions other than those as to which 
+it has been held invalid or unenforceable, shall remain in full force and 
+effect and shall in no way be affected, impaired or invalidated thereby, so 
+long as the economic or legal substance of the transactions contemplated 
+hereby is not affected in any manner materially adverse to either Party. 
+Upon any such determination, any such provision, to the extent determined 
+to be invalid, void or unenforceable, shall be deemed replaced by a 
+provision that such court determines is valid and enforceable and that 
+comes closest to expressing the intention of the invalid, void or 
+unenforceable provision.
+ 
+38
+
+------------------------------------------------------------------------
+SECTION 11.08. Expenses. Except as expressly set forth in this Agreement, 
+all third-party fees, costs and expenses paid or incurred in connection 
+with the provisions of this Agreement will be paid by the Party incurring 
+such fees or expenses, whether or not the Distribution is consummated, or 
+as otherwise agreed by the Parties.
+
+SECTION 11.09. Headings. The article, section and paragraph headings 
+contained in this Agreement are for reference purposes only and shall not 
+affect in any way the meaning or interpretation of this Agreement.
+
+SECTION 11.10. Survival of Covenants. Except as expressly set forth in this 
+Agreement, the covenants in this Agreement and the Liabilities for the 
+breach of any obligations in this Agreement shall survive the Spin-Off and 
+shall remain in full force and effect.
+
+SECTION 11.11. Waivers of Default. No failure or delay of any Party (or the 
+applicable member of its Group) in exercising any right or remedy under 
+this Agreement shall operate as a waiver thereof, nor shall any single or 
+partial exercise of any such right or power, or any abandonment or 
+discontinuance of steps to enforce such right or power, or any course of 
+conduct, preclude any other or further exercise thereof or the exercise of 
+any other right or power. Waiver by any Party of any default by the other 
+Party of any provision of this Agreement shall not be deemed a waiver by 
+the waiving Party of any subsequent or other default.
+
+SECTION 11.12. Specific Performance. Notwithstanding the procedures set 
+forth in Article IX, in the event of any actual or threatened default in, 
+or breach of, any of the terms, conditions and provisions of this 
+Agreement, the affected Party shall have the right to specific performance 
+and injunctive or other equitable relief of its rights under this 
+Agreement, in addition to any and all other rights and remedies at Law or 
+in equity, and all such rights and remedies shall be cumulative. The other 
+Party shall not oppose the granting of such relief on the basis that money 
+damages are an adequate remedy. The Parties agree that the remedies at Law 
+for any breach or threatened breach hereof, including monetary damages, are 
+inadequate compensation for any loss and that any defense in any action for 
+specific performance that a remedy at Law would be adequate is waived. Any 
+requirements for the securing or posting of any bond with such remedy are 
+waived.
+
+SECTION 11.13. Amendments. No provisions of this Agreement shall be deemed 
+waived, amended, supplemented or modified by any Party, unless such waiver, 
+amendment, supplement or modification is in writing and signed by the 
+authorized representative of each Party.
+
+SECTION 11.14. Interpretation. Words in the singular shall be held to 
+include the plural and vice versa and words of one gender shall be held to 
+include the other gender as the context requires. The terms hereof, 
+herein, herewith and words of similar import, unless otherwise stated, 
+shall be construed to refer to this Agreement as a whole (including all of 
+the schedules hereto) and not to any particular provision of this
+ 
+39
+
+------------------------------------------------------------------------
+Agreement. Article, Section or Schedule references are to the articles, 
+sections and schedules of or to this Agreement unless otherwise specified. 
+Any capitalized terms used in any Schedule to this Agreement but not 
+otherwise defined therein shall have the meaning as defined in this 
+Agreement. Any definition of or reference to any agreement, instrument or 
+other document herein (including any reference herein to this Agreement) 
+shall be construed as referring to such agreement, instrument or other 
+document as from time to time amended, supplemented or otherwise modified 
+from time to time (subject to any restrictions on such amendments, 
+supplements or modifications set forth herein). The word including and 
+words of similar import when used in this Agreement shall mean including, 
+without limitation, unless the context otherwise requires or unless 
+otherwise specified. The word or shall not be exclusive.
+
+
+[SIGNATURE PAGES FOLLOW]
+ 
+40
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the Parties have caused this Intellectual Property 
+Agreement to be executed by their duly authorized representatives.
+ 
+XEROX CORPORATION
+By: 	  	/s/ Leslie F. Varon
+  	Name: 	  	Leslie F. Varon
+  	Title: 	  	Chief Financial Officer
+ 
+CONDUENT INCORPORATED
+By: 	  	/s/ Brian Webb-Walsh
+  	Name: 	  	Brian Webb-Walsh
+  	Title: 	  	Chief Financial Officer
+ 

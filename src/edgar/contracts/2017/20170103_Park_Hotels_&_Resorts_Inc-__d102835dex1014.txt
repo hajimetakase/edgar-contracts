@@ -1,0 +1,672 @@
+ EX-10.14 11 d102835dex1014.htm EX-10.14
+Exhibit 10.14
+
+FORM OF STOCKHOLDERS AGREEMENT
+
+DATED AS OF [●]
+
+AMONG
+
+PARK HOTELS & RESORTS INC.
+
+AND
+
+THE OTHER PARTIES HERETO
+
+------------------------------------------------------------------------
+Table of Contents
+ 
+  	   	  	   	Page 	 
+ ARTICLE I. INTRODUCTORY MATTERS
+   	  	1 	  
+   1.1
+   	Defined Terms 	   	  	1 	  
+   1.2
+   	Construction 	   	  	3 	  
+ ARTICLE II. CORPORATE GOVERNANCE MATTERS
+   	  	3 	  
+   2.1
+   	Election of Directors 	   	  	3 	  
+ ARTICLE III. INFORMATION; VCOC
+   	  	5 	  
+   3.1
+   	Books and Records; Access 	   	  	5 	  
+   3.2
+   	Certain Reports 	   	  	5 	  
+   3.3
+   	VCOC 	   	  	5 	  
+ ARTICLE IV. GENERAL PROVISIONS
+   	  	7 	  
+   4.1
+   	Termination 	   	  	7 	  
+   4.2
+   	Notices 	   	  	8 	  
+   4.3
+   	Amendment; Waiver 	   	  	8 	  
+   4.4
+   	Further Assurances 	   	  	9 	  
+   4.5
+   	Assignment 	   	  	9 	  
+   4.6
+   	Third Parties 	   	  	9 	  
+   4.7
+   	Governing Law 	   	  	9 	  
+   4.8
+   	Jurisdiction; Waiver of Jury Trial 	   	  	9 	  
+   4.9
+   	Specific Performance 	   	  	9 	  
+   4.10
+   	Entire Agreement 	   	  	10 	  
+   4.11
+   	Severability 	   	  	10 	  
+   4.12
+   	Table of Contents, Headings and Captions 	   	  	10 	  
+   4.13
+   	Grant of Consent 	   	  	10 	  
+   4.14
+   	Counterparts 	   	  	10 	  
+   4.15
+   	Effectiveness 	   	  	10 	  
+   4.16
+   	No Recourse 	   	  	10 	  
+ 
+i
+
+------------------------------------------------------------------------
+FORM OF STOCKHOLDERS AGREEMENT
+
+This Stockholders Agreement is entered into as of            , 2016 by and 
+among Park Hotels & Resorts Inc., a Delaware corporation (the Company), 
+and each of the other parties identified on the signature pages hereto (the 
+Investor Parties).
+
+
+BACKGROUND:
+
+WHEREAS, Hilton Worldwide Holdings Inc. (Hilton) has distributed its 
+entire interest in the Company by way of a dividend of all outstanding 
+shares of the Companys Common Stock (as defined below) owned by Hilton to 
+holders of Hilton Common Stock (as defined below).
+
+NOW, THEREFORE, the parties agree as follows:
+
+
+ARTICLE I.
+INTRODUCTORY MATTERS
+
+1.1 Defined Terms. In addition to the terms defined elsewhere herein, the 
+following terms have the following meanings when used herein with initial 
+capital letters:
+
+Affiliate has the meaning set forth in Rule 12b-2 promulgated under the 
+Exchange Act, as in effect on the date hereof.
+
+Agreement means this Stockholders Agreement, as the same may be amended, 
+supplemented, restated or otherwise modified from time to time in 
+accordance with the terms hereof.
+
+Beneficially Own has the meaning set forth in Rule 13d-3 promulgated 
+under the Exchange Act.
+
+Blackstone Designee has the meaning set forth in Section 2.1(b).
+
+Blackstone Designator means the Blackstone Party, or any group of 
+Blackstone Parties collectively, then holding of record a majority of 
+Common Stock held of record by all Blackstone Parties.
+
+Blackstone Entities means the entities comprising the Blackstone Parties 
+and their Affiliates.
+
+Blackstone Parties means the entities listed on the signature pages 
+hereto under the heading Blackstone Parties and any other Blackstone 
+Entities that may from time to time become parties hereto.
+
+Board means the board of directors of the Company.
+
+------------------------------------------------------------------------
+Business Day means a day other than a Saturday, Sunday, federal or New 
+York State holiday or other day on which commercial banks in New York City 
+are authorized or required by law to close.
+
+Company has the meaning set forth in the Preamble.
+
+Common Stock means the shares of common stock, par value $0.01 per share, 
+of the Company, and any other stock of the Company into which outstanding 
+shares of such stock is reclassified or reconstituted and any other common 
+stock of the Company.
+
+Control (including its correlative meanings, Controlled by and under 
+common Control with) means possession, directly or indirectly, of the 
+power to direct or cause the direction of management or policies (whether 
+through ownership of securities or partnership or other ownership 
+interests, by contract or otherwise) of a Person.
+
+Director means any director of the Company.
+
+Exchange Act means the Securities Exchange Act of 1934, as amended, and 
+the rules and regulations promulgated thereunder, as the same may be 
+amended from time to time.
+
+Governmental Authority means any nation or government, any state or other 
+political subdivision thereof, and any entity exercising executive, 
+legislative, judicial, regulatory or administrative functions of or 
+pertaining to government.
+
+Hilton Common Stock means the shares of common stock, par value $0.01 per 
+share, of Hilton, and any other stock of Hilton into which outstanding 
+shares of such stock is reclassified or reconstituted and any other common 
+stock of Hilton.
+
+Investor Parties has the meaning set forth in the Preamble.
+
+IPO means the initial public offering of Hilton.
+
+Law means any statute, law, regulation, ordinance, rule, injunction, 
+order, decree, governmental approval, directive, requirement, or other 
+governmental restriction or any similar form of decision of, or 
+determination by, or any interpretation or administration of any of the 
+foregoing by, any Governmental Authority.
+
+Person means an individual, a partnership, a corporation, a limited 
+liability company, an association, a joint stock company, a trust, a joint 
+venture, an unincorporated organization, or other form of business 
+organization, whether or not regarded as a legal entity under applicable 
+Law, or any Governmental Authority or any department, agency or political 
+subdivision thereof.
+
+Plan Asset Regulation has the meaning set forth in Section 3.3.
+
+Pre-IPO Owners means the Blackstone Entities and the other Persons who 
+held Hilton Common Stock at the time of the IPO and any Affiliate thereof 
+that shall become a holder of any Hilton Common Stock.
+ 
+2
+
+------------------------------------------------------------------------
+Subsidiary means, with respect to any Person, any corporation, limited 
+liability company, partnership, association or other business entity of 
+which: (i) if a corporation, a majority of the total voting power of shares 
+of stock entitled (without regard to the occurrence of any contingency) to 
+vote in the election of directors, representatives or trustees thereof is 
+at the time owned or Controlled, directly or indirectly, by that Person or 
+one or more of the other Subsidiaries of that Person or a combination 
+thereof; or (ii) if a limited liability company, partnership, association 
+or other business entity, a majority of the total voting power of stock (or 
+equivalent ownership interest) of the limited liability company, 
+partnership, association or other business entity is at the time owned or 
+Controlled, directly or indirectly, by that Person or one or more 
+Subsidiaries of that Person or a combination thereof. For purposes hereof, 
+a Person or Persons shall be deemed to have a majority ownership interest 
+in a limited liability company, partnership, association or other business 
+entity if such Person or Persons shall be allocated a majority of limited 
+liability company, partnership, association or other business entity gains 
+or losses or shall be or Control the managing member, managing director or 
+other governing body or general partner of such limited liability company, 
+partnership, association or other business entity.
+
+Total Number of Directors means the total number of directors comprising 
+the Board.
+
+Transfer (including its correlative meanings, Transferor, Transferee 
+and Transferred) shall mean, with respect to any security, directly or 
+indirectly, to sell, contract to sell, give, assign, hypothecate, pledge, 
+encumber, grant a security interest in, offer, sell any option or contract 
+to purchase, purchase any option or contract to sell, grant any option, 
+right or warrant to purchase, lend or otherwise transfer or dispose of any 
+economic, voting or other rights in or to such security. When used as a 
+noun, Transfer shall have such correlative meaning as the context may 
+require.
+
+VCOC Investor has the meaning set forth in Section 3.3.
+
+1.2 Construction. The language used in this Agreement will be deemed to be 
+the language chosen by the parties to express their mutual intent, and no 
+rule of strict construction will be applied against any party. Unless the 
+context otherwise requires: (a) or is disjunctive but not exclusive, (b) 
+words in the singular include the plural, and in the plural include the 
+singular, and (c) the words hereof, herein, and hereunder and words 
+of similar import when used in this Agreement refer to this Agreement as a 
+whole and not to any particular provision of this Agreement, and Section 
+references are to this Agreement unless otherwise specified.
+
+
+ARTICLE II.
+CORPORATE GOVERNANCE MATTERS
+
+2.1 Election of Directors.
+
+(a) Following the Closing Date, the Blackstone Designator shall have the 
+right, but not the obligation, to designate, and the individuals nominated 
+for election as Directors by or at the direction of the Board or a 
+duly-authorized committee thereof shall include, a
+ 
+3
+
+------------------------------------------------------------------------
+number of individuals such that, upon the election of each such individual, 
+and each other individual nominated by or at the direction of the Board or 
+a duly-authorized committee of the Board, as a Director and taking into 
+account any Director continuing to serve as such without the need for 
+re-election, the number of Blackstone Designees (as defined below) serving 
+as Directors of the Company will be equal to: (i) if the Pre-IPO Owners 
+collectively Beneficially Own 50% or more of the total Common Stock as of 
+the record date for such meeting, 50% of the Total Number of Directors, 
+rounded down to the nearest whole number; (ii) if the Pre-IPO Owners 
+collectively Beneficially Own at least 40% (but less than 50%) of the total 
+Common Stock as of the record date for such meeting, 40% of the Total 
+Number of Directors, rounded down to the nearest whole number; (iii) if the 
+Pre-IPO Owners collectively Beneficially Own at least 30% (but less than 
+40%) of the total Common Stock as of the record date for such meeting, 30% 
+of the Total Number of Directors, rounded down to the nearest whole number; 
+(iv) if the Pre-IPO Owners collectively Beneficially Own at least 20% (but 
+less than 30%) of the total Common Stock as of the record date for such 
+meeting, either (A) 20% of the Total Number of Directors, rounded down to 
+the nearest whole number, if the Total Number of Directors is 10 or 
+greater, or (B) the lowest whole number that is greater than 20% of the 
+Total Number of Directors if the Total Number of Directors is less than 10; 
+and (v) if the Pre-IPO Owners collectively Beneficially Own at least 5% 
+(but less than 20%) of the total Common Stock as of the record date for 
+such meeting, the lowest whole number that is greater than 10% of the Total 
+Number of Directors.
+
+(b) If at any time the Blackstone Designator has designated fewer than the 
+total number of individuals that the Blackstone Designator is then entitled 
+to designate pursuant to Section 2.1(a), the Blackstone Designator shall 
+have the right to designate such additional individuals which it is 
+entitled to so designate, in which case, any individuals nominated by or at 
+the direction of the Board or any duly-authorized committee thereof for 
+election as Directors to fill any vacancy on the Board shall include such 
+designees, and the Company shall use its best efforts to (x) effect the 
+election of such additional designees, whether by increasing the size of 
+the Board or otherwise, and (y) cause the election of such additional 
+designees to fill any such newly-created vacancies or to fill any other 
+existing vacancies. Each such individual whom the Blackstone Designator 
+shall actually designate pursuant to this Section 2.1 and who is thereafter 
+elected and qualifies to serve as a Director shall be referred to herein as 
+a Blackstone Designee.
+
+(c) In the event that a vacancy is created at any time by the death, 
+disability, retirement or resignation of any Blackstone Designee, any 
+individual nominated by or at the direction of the Board or any 
+duly-authorized committee thereof to fill such vacancy shall be, and the 
+Company shall use its best efforts to cause such vacancy to be filled, as 
+soon as possible, by a new designee of the Blackstone Designator, and the 
+Company shall take, to the fullest extent permitted by law, at any time and 
+from time to time, all actions necessary to accomplish the same.
+
+(d) The Company shall, to the fullest extent permitted by law, include in 
+the slate of nominees recommended by the Board at any meeting of 
+stockholders called for the purpose of electing directors, the persons 
+designated pursuant to this Section 2.1 and use its reasonable best efforts 
+to cause the election of each such designee to the Board, including 
+nominating each such individual to be elected as a Director as provided 
+herein, recommending such individuals election and soliciting proxies or 
+consents in favor thereof.
+ 
+4
+
+------------------------------------------------------------------------
+ARTICLE III.
+INFORMATION; VCOC
+
+3.1 Books and Records; Access. The Company shall, and shall cause its 
+Subsidiaries to, permit the Blackstone Entities and their respective 
+designated representatives, at reasonable times and upon reasonable prior 
+notice to the Company, to review the books and records of the Company or 
+any of such Subsidiaries and to discuss the affairs, finances and condition 
+of the Company or any of such Subsidiaries with the officers of the Company 
+or any such Subsidiary; provided, however, that the Company shall not be 
+required to disclose any privileged information of the Company so long as 
+the Company has used commercially reasonable efforts to enter into an 
+arrangement pursuant to which it may provide such information to the 
+Blackstone Entities without the loss of any such privilege.
+
+3.2 Certain Reports. The Company shall deliver or cause to be delivered to 
+the Blackstone Entities, at their request:
+
+(a) to the extent otherwise prepared by the Company, operating and capital 
+expenditure budgets and periodic information packages relating to the 
+operations and cash flows of the Company and its Subsidiaries; and
+
+(b) to the extent otherwise prepared by the Company, such other reports and 
+information as may be reasonably requested by the Blackstone Entities; 
+provided, however, that the Company shall not be required to disclose any 
+privileged information of the Company so long as the Company has used 
+commercially reasonable efforts to enter into an arrangement pursuant to 
+which it may provide such information to the Blackstone Entities without 
+the loss of any such privilege.
+
+3.3 VCOC. With respect to each Blackstone Entity that is intended to 
+qualify its direct or indirect investment in the Company as a venture 
+capital investment as defined in the Department of Labor regulations 
+codified at 29 CFR Section 2510.3-101 (the Plan Asset Regulation) (each, 
+a VCOC Investor), for so long as the VCOC Investor, directly or through 
+one or more subsidiaries, continues to hold any shares of Common Stock (or 
+other securities of the Company into which such shares of Common Stock may 
+be converted or for which such shares of Common Stock may be exchanged), 
+without limitation or prejudice of any the rights provided to the 
+Blackstone Entities hereunder, the Company shall, with respect to each such 
+VCOC Investor:
+
+(a) provide each VCOC Investor or its designated representative with:
+
+(i) upon reasonable notice and at mutually convenient times, the right to 
+visit and inspect any of the offices and properties of the Company and its 
+Subsidiaries and inspect and copy the books and records of the Company and 
+its Subsidiaries;
+ 
+5
+
+------------------------------------------------------------------------
+(ii) as soon as available and in any event within 45 days after the end of 
+each of the first three quarters of each fiscal year of the Company, 
+consolidated balance sheets of the Company and its Subsidiaries as of the 
+end of such period, and consolidated statements of income and cash flows of 
+the Company and its Subsidiaries for the period then ended prepared in 
+conformity with generally accepted accounting principles in the United 
+States applied on a consistent basis, except as otherwise noted therein, 
+and subject to the absence of footnotes and to year-end adjustments;
+
+(iii) as soon as available and in any event within 120 days after the end 
+of each fiscal year of the Company, a consolidated balance sheet of the 
+Company and its Subsidiaries as of the end of such year, and consolidated 
+statements of income and cash flows of the Company and its Subsidiaries for 
+the year then ended prepared in conformity with generally accepted 
+accounting principles in the United States applied on a consistent basis, 
+except as otherwise noted therein, together with an auditors report 
+thereon of a firm of established national reputation;
+
+(iv) to the extent the Company is required by law or pursuant to the terms 
+of any outstanding indebtedness of the Company to prepare such reports, any 
+annual reports, quarterly reports and other periodic reports pursuant to 
+Section 13 or 15(d) of the Exchange Act, actually prepared by the Company 
+as soon as available; and
+
+(v) upon written request by the VCOC Investor, copies of all materials 
+provided to the Board, subject to appropriate protections with respect to 
+confidentiality and preservation of attorney-client privilege;
+
+provided, that, in each case, if the Company makes the information 
+described in clauses (ii), (iii) and (iv) of this clause (a) available 
+through public filings on the EDGAR System or any successor or replacement 
+system of the U.S. Securities and Exchange Commission, the delivery of such 
+information shall be deemed satisfied;
+
+(b) make appropriate officers and/or Directors of the Company available, 
+and cause the officers and directors of its Subsidiaries to be made 
+available, periodically and at such times as reasonably requested by each 
+VCOC Investor, upon reasonable notice and at mutually convenient times, for 
+consultation with such VCOC Investor or its designated representative with 
+respect to matters relating to the business and affairs of the Company and 
+its Subsidiaries;
+
+(c) to the extent that the VCOC Investor requests to receive such 
+information and rights, and to the extent consistent with applicable law, 
+rule, regulation or listing standards (and with respect to events which 
+require public disclosure, only following the Companys public disclosure 
+thereof through applicable securities law filings or otherwise), inform 
+each VCOC Investor or its designated representative in advance with respect 
+to any significant corporate actions, and to provide (or cause to be 
+provided) each VCOC Investor or its designated representative with the 
+right to consult with the Company and its Subsidiaries with respect to such 
+actions should the VCOC Investor elect to do so, provided however, that 
+this right to
+ 
+6
+
+------------------------------------------------------------------------
+consult must be exercised within five (5) days after the Company informs 
+the VCOC Investor of the proposed corporate action and provided further 
+that the Company shall be under no obligation to provide the VCOC Investor 
+with any material non-public information with respect to such corporate 
+action; and
+
+(d) provide each VCOC Investor or its designated representative with such 
+other rights of consultation which the VCOC Investors counsel may 
+determine in writing to be reasonably necessary under applicable legal 
+authorities promulgated after the date hereof to qualify its investment in 
+the Company as a venture capital investment for purposes of the Plan 
+Asset Regulation, provided that the parties agree that any such rights of 
+consultation shall be of a nature consistent with those granted above and 
+nothing in this Agreement shall be deemed to require the Company to grant 
+to the VCOC Investor any additional rights with respect to the governance 
+or management of the Company.
+
+The Company agrees to consider, in good faith, the recommendations of each 
+VCOC Investor or its designated representative in connection with the 
+matters on which it is consulted as described above in this Section 3.3, 
+recognizing that the ultimate discretion with respect to all such matters 
+shall be retained by the Company.
+
+In the event a VCOC Investor or any of its Affiliates Transfers all or any 
+portion of their investment in the Company to an Affiliated entity that is 
+intended to qualify as a venture capital operating company (as defined in 
+the Plan Asset Regulation), such Transferee shall be afforded the same 
+rights with respect to the Company afforded to the VCOC Investor hereunder 
+and shall be treated, for such purposes, as a third party beneficiary 
+hereunder.
+
+In the event that the Company ceases to qualify as an operating company 
+(as defined in the first sentence of 2510.3-101(c)(1) of the Plan Asset 
+Regulation), or the investment in the Company by a VCOC Investor does not 
+qualify as a venture capital investment as defined in the Plan Asset 
+Regulation, then the Company and each Blackstone Entity will cooperate in 
+good faith to take all reasonable actions necessary, subject to applicable 
+law, to preserve the VCOC status of each VCOC Investor or the qualification 
+of the investment as a venture capital investment, it being understood 
+that such reasonable actions shall not require a VCOC Investor to purchase 
+or sell any investments.
+
+
+ARTICLE IV.
+GENERAL PROVISIONS
+
+4.1 Termination. Except for Section 3.3, this Agreement shall terminate on 
+the earlier to occur of (i) such time as the Blackstone Designator is no 
+longer entitled to designate a Director pursuant to Section 2.1(a) and (ii) 
+the delivery of a written notice by the Blackstone Designator to the 
+Company requesting that this Agreement terminate. The VCOC Investors shall 
+advise the Company when they collectively first cease to beneficially own 
+any of the Companys Common Stock or other securities of the Company into 
+which such shares of Common Stock may be converted or for which such shares 
+of Common Stock may be exchanged, whereupon Section 3.3 hereof shall 
+terminate.
+ 
+7
+
+------------------------------------------------------------------------
+4.2 Notices. Any notice, designation, request, request for consent or 
+consent provided for in this Agreement shall be in writing and shall be 
+either personally delivered, or mailed first class mail (postage prepaid) 
+or sent by reputable overnight courier service (charges prepaid) to the 
+Company at the address set forth below and to any other recipient at the 
+address indicated on the Companys records, or at such address or to the 
+attention of such other Person as the recipient party has specified by 
+prior written notice to the sending party. Notices and other such documents 
+will be deemed to have been given or made hereunder when sent by facsimile 
+(receipt confirmed) delivered personally, five (5) days after deposit in 
+the U.S. mail and one (1) day after deposit with a reputable overnight 
+courier service.
+
+The Companys address is:
+
+Park Hotels & Resorts Inc.
+1600 Tysons Boulevard, Suite 1000
+McLean, VA 22102
+Attention: General Counsel
+Fax:
+
+with a copy (not constituting notice) to:
+
+Wilmer Cutler Pickering Hale and Dorr LLP
+60 State Street
+Boston, MA 02109
+Attention: Mark G. Borden
+                 Jay E. Bothwick
+Fax: (617) 526-5000
+
+The Blackstone Entities address is:
+
+The Blackstone Group L.P.
+345 Park Avenue
+New York, NY 10154
+Attention: Tyler Henritze
+Fax: (212) 583-5191
+
+with a copy (not constituting notice) to:
+
+Simpson Thacher & Bartlett LLP
+425 Lexington Avenue
+New York, NY 10017
+Attention: Brian M. Stadler
+                 Christopher R. May
+Fax: (212) 455-2502
+
+4.3 Amendment; Waiver. This Agreement may be amended, supplemented or 
+otherwise modified only by a written instrument executed by the Company and 
+the other parties hereto. Neither the failure nor delay on the part of any 
+party hereto to exercise any right,
+ 
+8
+
+------------------------------------------------------------------------
+remedy, power or privilege under this Agreement shall operate as a waiver 
+thereof, nor shall any single or partial exercise of any right, remedy, 
+power or privilege preclude any other or further exercise of the same or of 
+any other right, remedy, power or privilege, nor shall any waiver of any 
+right, remedy, power or privilege with respect to any occurrence be 
+construed as a waiver of such right, remedy, power or privilege with 
+respect to any other occurrence. No waiver shall be effective unless it is 
+in writing and is signed by the party asserted to have granted such waiver.
+
+4.4 Further Assurances. The parties hereto will sign such further 
+documents, cause such meetings to be held, resolutions passed, exercise 
+their votes and do and perform and cause to be done such further acts and 
+things necessary, proper or advisable in order to give full effect to this 
+Agreement and every provision hereof. To the fullest extent permitted by 
+law, the Company shall not directly or indirectly take any action that is 
+intended to, or would reasonably be expected to result in, Blackstone or 
+any Blackstone Entity being deprived of the rights contemplated by this 
+Agreement.
+
+4.5 Assignment. This Agreement will inure to the benefit of and be binding 
+on the parties hereto and their respective successors and permitted 
+assigns. This Agreement may not be assigned without the express prior 
+written consent of the other parties hereto, and any attempted assignment, 
+without such consents, will be null and void; provided, however, that, 
+without the prior written consent of the Company, a Blackstone Party may 
+assign this Agreement to an Affiliate that becomes a party hereto.
+
+4.6 Third Parties. Except as provided for in Article II and Section 3.3 
+with respect to any Blackstone Entity, this Agreement does not create any 
+rights, claims or benefits inuring to any person that is not a party hereto 
+nor create or establish any third party beneficiary hereto.
+
+4.7 Governing Law. This Agreement shall be governed by and construed in 
+accordance with the laws of the State of Delaware, without regard to 
+principles of conflicts of laws thereof.
+
+4.8 Jurisdiction; Waiver of Jury Trial. In any judicial proceeding 
+involving any dispute, controversy or claim arising out of or relating to 
+this Agreement, each of the parties unconditionally accepts the 
+jurisdiction and venue of the courts of the State of Delaware or if 
+jurisdiction over the matter is vested exclusively in federal courts, the 
+United States District Court for the District of Delaware, and the 
+appellate courts to which orders and judgments thereof may be appealed. In 
+any such judicial proceeding, the parties agree that in addition to any 
+method for the service of process permitted or required by such courts, to 
+the fullest extent permitted by law, service of process may be made by 
+delivery provided pursuant to the directions in Section 4.2. EACH OF THE 
+PARTIES HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW 
+TRIAL BY JURY IN ANY JUDICIAL PROCEEDING INVOLVING ANY DISPUTE, CONTROVERSY 
+OR CLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT.
+
+4.9 Specific Performance. Each party hereto acknowledges and agrees that in 
+the event of any breach of this Agreement by any of them, the other parties 
+hereto would be irreparably harmed and could not be made whole by monetary 
+damages. Each party accordingly
+ 
+9
+
+------------------------------------------------------------------------
+agrees to waive the defense in any action for specific performance that a 
+remedy at law would be adequate and agrees that the parties, in addition to 
+any other remedy to which they may be entitled at law or in equity, shall 
+be entitled to specific performance of this Agreement without the posting 
+of bond.
+
+4.10 Entire Agreement. This Agreement sets forth the entire understanding 
+of the parties hereto with respect to the subject matter hereof. There are 
+no agreements, representations, warranties, covenants or understandings 
+with respect to the subject matter hereof or thereof other than those 
+expressly set forth herein and therein. This Agreement supersedes all other 
+prior agreements and understandings between the parties with respect to 
+such subject matter.
+
+4.11 Severability. If any provision of this Agreement, or the application 
+of such provision to any Person or circumstance or in any jurisdiction, 
+shall be held to be invalid or unenforceable to any extent, (i) the 
+remainder of this Agreement shall not be affected thereby, and each other 
+provision hereof shall be valid and enforceable to the fullest extent 
+permitted by law, (ii) as to such Person or circumstance or in such 
+jurisdiction such provision shall be reformed to be valid and enforceable 
+to the fullest extent permitted by law and (iii) the application of such 
+provision to other Persons or circumstances or in other jurisdictions shall 
+not be affected thereby.
+
+4.12 Table of Contents, Headings and Captions. The table of contents, 
+headings, subheadings and captions contained in this Agreement are included 
+for convenience of reference only, and in no way define, limit or describe 
+the scope of this Agreement or the intent of any provision hereof.
+
+4.13 Grant of Consent. Any vote, consent or approval of, or designation by, 
+or other action of, the Blackstone Designator hereunder shall be effective 
+if notice of such vote, consent, approval, designation or action is 
+provided in accordance with Section 4.2 by the Blackstone Party or Parties 
+holding of record a majority of the Common Stock then held of record by 
+Blackstone Parties as of the latest date any such notice is so provided.
+
+4.14 Counterparts. This Agreement and any amendment hereto may be signed in 
+any number of separate counterparts, each of which shall be deemed an 
+original, but all of which taken together shall constitute one Agreement 
+(or amendment, as applicable).
+
+4.15 Effectiveness. This Agreement shall become effective upon the Closing 
+Date.
+
+4.16 No Recourse. This Agreement may only be enforced against, and any 
+claims or cause of action that may be based upon, arise out of or relate to 
+this Agreement, or the negotiation, execution or performance of this 
+Agreement may only be made against the entities that are expressly 
+identified as parties hereto and no past, present or future Affiliate, 
+director, officer, employee, incorporator, member, manager, partner, 
+stockholder, agent, attorney or representative of any party hereto shall 
+have any liability for any obligations or liabilities of the parties to 
+this Agreement or for any claim based on, in respect of, or by reason of, 
+the transactions contemplated hereby.
+ 
+10
+
+------------------------------------------------------------------------
+[Remainder Of Page Intentionally Left Blank]
+ 
+11
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties hereto have executed this Stockholders 
+Agreement on the day and year first above written.
+ 
+COMPANY:
+PARK HOTELS & RESORTS INC.
+By: 	  	
+ 
+Name: 	  	
+Title: 	  	
+ 
+[Signature Page to BX-Park Stockholders Agreement]
+
+------------------------------------------------------------------------
+BLACKSTONE PARTIES:
+[BLACKSTONE PARTIES]
+ 
+[Signature Page to BX-Park Stockholders Agreement]

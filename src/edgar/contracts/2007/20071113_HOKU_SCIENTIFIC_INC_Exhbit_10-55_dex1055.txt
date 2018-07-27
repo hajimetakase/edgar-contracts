@@ -1,0 +1,4016 @@
+ EX-10.55 5 dex1055.htm ENGINEERING SERVICES AND TECHNOLOGY TRANSFER 
+AGREEMENT
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Exhbit 10.55
+
+
+
+HOKU MATERIALS, INC.
+
+
+- and -
+
+
+DYNAMIC ENGINEERING INC
+ 
+------------------------------------------------------------------------
+
+
+ENGINEERING SERVICES & TECHNOLOGY TRANSFER AGREEMENT NUMBER:
+0743.01
+ 
+------------------------------------------------------------------------
+ 
+PROCESS: 	   	TRICHLOROSILANE
+PROJECT : 	   	
+HOKU MATERIALS, INC.
+POCATELLO, IDAHO, USA
+POLYSILICON PLANT
+ 
+ 
+ 
+DEI Agreement Number: 0743.01 	  	- 1/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+TABLE OF CONTENTS
+ 
+
+ Article 1 Definitions
+
+   	3
+
+ Article 2 Purpose of this Agreement
+
+   	5
+
+ Article 3 Grant of license
+
+   	6
+
+ Article 4 DEIs INFORMATION
+
+   	7
+
+ Article 5 Disclosure of technical information under the license, scope and
+ schedule
+
+   	7
+
+ Article 6 CLIENTs undertaking
+
+   	8
+
+ Article 7 Assistance and services from DEI
+
+   	9
+
+ Article 8 Financials
+
+   	11
+
+ Article 9 Warranties and liabilities
+
+   	14
+
+ Article 10 Indemnification Obligations
+
+   	17
+
+ Article 11 Insurance
+
+   	17
+
+ Article 12 Confidentiality
+
+   	19
+
+ Article 13 Other agreements
+
+   	21
+
+ Article 14 Assignment
+
+   	22
+
+ Article 15 Miscellaneous
+
+   	23
+
+ Article 16 Notices
+
+   	24
+
+ Article 17 Conciliation, arbitration
+
+   	24
+
+ Article 18 Effective Date, termination
+
+   	25
+
+ SCHEDULE 1  PROCESS BOOK  DESIGN PACKAGE SPECIFICATION
+
+   	28
+
+ SCHEDULE 2  DETAILED ENGINEERING DOCUMENTS TO BE TRANSMITTED TO DEI
+
+   	34
+
+ SCHEDULE 3  PERFORMANCE GUARANTEES
+
+   	35
+
+ SCHEDULE 4  DEI PATENTS
+
+   	51
+ 
+DEI Agreement Number: 0743.01 	  	- 1/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+SCHEDULE 3PERFORMANCE GUARANTEES
+ 
+A 	DEFINITIONS
+ 
+B 	CONDITIONS OF PERFORMANCE GUARANTEES
+ 
+C 	DEIs ASSISTANCERULES OF CONDUCT OF DEI ADVISORS
+ 
+  	1. 	Assistance during the initial stages of operation of the LICENSED 
+UNIT
+  	2. 	Rules of conduct of DEIs advisors
+ 
+D 	START-UP AND TESTING
+ 
+  	1. 	Inspection, ADSORBENT loading and Start-up
+  	2. 	PERFORMANCES TEST PERIOD proceedings
+  	3. 	Substitute PERFORMANCE GUARANTEES
+ 
+E 	DELAYS and INTERRUPTIONS
+ 
+F 	FAILURE TO MEET PERFORMANCE GUARANTEES
+ 
+G 	MODIFICATIONS TO THE LICENSED UNIT
+ 
+H 	[RESERVED]
+ 
+I 	PERFORMANCE GUARANTEES FIGURES
+ 
+  	1. 	CHARGE specifications
+  	2. 	Make up products specifications
+  	3. 	PRODUCT definition
+  	4. 	PERFORMANCE GUARANTEES
+
+
+J ROYALTY CALCULATION COMPUTATION
+ 
+------------------------------------------------------------------------
+ 
+DEI Agreement Number: 0743.01 	  	- 1/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+It is agreed by and between:
+
+
+Dynamic Engineering, Inc., a company organized under the laws of the State 
+of Michigan in the United States of America and having its main office at 
+215 Broadus Road, Suite 100, Sturgis, MI 49091-1384 United States of 
+America (hereinafter referred to as DEI); and
+
+
+Hoku Materials, Inc., a company organized under the laws of the State of 
+Delaware in the United States of America, having its main office at One 
+Hoku Way, Pocatello, Idaho 83204, (hereinafter referred to as CLIENT)
+
+
+WHEREAS:
+
+CLIENT is constructing and intends to operate a manufacturing facility 
+capable of producing approximately 2,500 metric tons of polysilicon per 
+annum in Pocatello, Idaho (the PROJECT). CLIENT wishes to procure the 
+basic engineering package and related services for the production of 
+trichlorosilane, and corresponding license for the PROJECT.
+
+
+CLIENT desires to procure the detailed process engineering for the 
+production of trichlorosilane, on-site services related to the installation 
+and operation of the process for producing trichlorosilane, including 
+inspection and training on its JOBSITE of certain facilities exploiting the 
+PROCESS from DEI.
+
+
+DEI is a professional engineering firm and an international provider of 
+technologies and specialized services to the chemical industry with 
+specific knowledge, experience and intellectual property related to the 
+production and purification of trichlorosilane, including the PROCESS and 
+the LICENSED UNIT (as defined herein).
+
+
+CLIENT is interested in receiving, for the purpose of the engineering, 
+construction and subsequent operation of the PROJECT, the appropriate 
+rights and technical information from DEI.
+
+
+DEI is willing to (A) engineer the PROCESS; (B) work with CLIENT and its 
+AFFILIATES and CONTRACTORS, to integrate the PROCESS and the LICENSED UNIT 
+into the PROJECT; (C) deliver the PROCESS BOOK; and (D) grant to CLIENT the 
+required non-exclusive license rights and technical information related to 
+the PROCESS and the LICENSED UNIT, subject to the terms and conditions 
+provided herein.
+
+
+In order to accelerate project execution, DEI may initiate the process 
+design work and to begin the preparation of the PROCESS BOOK prior to the 
+date CLIENT
+DEI Agreement Number: 0743.01 	  	- 2/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+will be ready to acquire the license to the LICENSED UNIT pursuant to this 
+Agreement.
+
+
+NOW, THEREFORE, in consideration of the promises and mutual covenants 
+herein contained, the parties hereto agree to the following:
+
+
+Article 1 Definitions
+
+
+Except as otherwise expressly provided, the following terms as used herein 
+shall have the meanings assigned to them in this article and shall include 
+the plural as well as the singular:
+
+
+ACCEPTANCE DATE means the date of completion by DEI of its obligations 
+under this Agreement in respect of the PERFORMANCES TEST PERIOD according 
+to Sections B, D-2 and D-3 of the Schedule hereafter.
+
+
+AFFILIATE shall mean, in relation with any one of the parties, any 
+company which, directly or indirectly, controls, is controlled by, or is 
+under common control with such party. For the purposes of this definition 
+of AFFILIATE , control means one owns another by more than fifty 
+percent (50%) of voting shares or voting power.
+
+
+AGREEMENT means this Engineering Services & Technology Transfer Agreement 
+Number 0743.01, including all appendices, schedules, annexes, and exhibits 
+hereto.
+
+
+CONFIDENTIAL INFORMATION means all information, including but not limited 
+to TECHNICAL INFORMATION and the PROCESS BOOK, which may be of a technical, 
+commercial, or other nature, whether written or oral, provided, directly or 
+indirectly, by DEI to CLIENT, or by CLIENT to DEI under this Agreement, or 
+which CLIENT or DEI, as applicable, might acquire or discover during visits 
+to facilities of DEI or CLIENT, as applicable, or third parties where such 
+information is designed or exploited, or during discussions with DEI or 
+CLIENT, together with all analyses, compilations, forecasts, studies or 
+other documents that contain or otherwise reflect such information.
+
+
+CONTRACTOR means any company selected by CLIENT who shall conduct or 
+perform engineering, procurement, supply, construction or commissioning for 
+the PROJECT, including, without limitation, The Shaw Group Inc., JH Kelly 
+LLC, Graeber Engineering Consultants GmbH, MSA Apparatus for the 
+Construction of Chemical Equipment, Ltd., Chemical Design, Inc., and each 
+of their respective AFFILIATES and subcontractors.
+ 
+DEI Agreement Number: 0743.01 	  	- 3/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+CUT-OFF DATE shall mean the date of third anniversary of the EFFECTIVE 
+DATE.
+
+
+DEI PATENTS shall mean all of DEIs patents and pending patent 
+applications listed on Schedule 4 to this AGREEMENT.
+
+
+DEI SUBCONTRACTORS shall mean all contractors and consultants hired by 
+DEI to perform any portion of DEIs work pursuant to this AGREEMENT.
+
+
+DESIGN CAPACITY of the LICENSED UNIT shall mean 20,000 metric tons per 
+annum of trichlorosilane, based on a stream factor of 7,776 operating hours 
+per annum and 24 hours per day.
+
+
+EFFECTIVE DATE shall mean the date of the last signature of this 
+Agreement between the parties.
+
+
+INTELLECTUAL PROPERTY means all algorithms, application programming 
+interfaces (APIs), apparatus, concepts, Confidential Information, data, 
+databases and data collections, designs, diagrams, documentation, drawings, 
+flow charts, formulae, gate arrays, ideas and inventions (whether or not 
+patentable or reduced to practice), IP cores, know-how, materials, 
+marketing and development plans, marks (including brand names, product 
+names, logos, and slogans), methods, models, net lists, network 
+configurations and architectures, photomasks, procedures, processes, 
+protocols, schematics, semiconductor devices, software code (in any form 
+including source code and executable or object code), specifications, 
+subroutines, techniques, test vectors, tools, uniform resource identifiers 
+including uniform resource locators (URLs), user interfaces, web sites, 
+works of authorship, and other forms of technology.
+
+
+INTELLECTUAL PROPERTY RIGHTS means all past, present, and future rights 
+of the following types, which may exist or be created under the laws of any 
+jurisdiction in the world: (a) rights associated with works of authorship, 
+including exclusive exploitation rights, copyrights, moral rights, and mask 
+work rights; (b) trademark and trade name rights and similar rights; (c) 
+trade secret rights; (d) patent and industrial property rights; (e) other 
+proprietary rights in Intellectual Property of every kind and nature; and 
+(f) rights in or relating to registrations, renewals, extensions, 
+combinations, divisions, and reissues of, and applications for, any of the 
+rights referred to in clauses (a) through (e) of this sentence.
+
+
+JOBSITE means the construction site of the PROJECT located at Pocatello, 
+Idaho, USA.
+DEI Agreement Number: 0743.01 	  	- 4/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+KICK-OFF DATE shall mean the date of the last of the following 
+occurances: last signature of this Agreement between the parties; receipt 
+of down payment by DEI; confirmation of raw material, utilities and site 
+conditions.
+
+
+LICENSED UNIT means the facilities that DEI will design for CLIENT, and 
+which will be constructed and operated at JOBSITE by CLIENT, using the 
+PROCESS under license from DEI under this Agreement.
+
+
+PERFORMANCE GUARANTEES means the guaranteed performance of the LICENSED 
+UNIT as specified in Schedule 3 to this Agreement.
+
+
+PROCESS shall mean the Trichlorosilane (TCS) manufacturing and 
+purification process licensed by DEI which [*] to meet the guaranteed 
+quality and production volume specifications set forth in this AGREEMENT.
+
+
+PROCESS BOOK means the deliverable file of DEIs Basic Process Design as 
+described in Schedule 1 hereof.
+
+
+STANDARD SCOPE means the content description of the PROCESS BOOK 
+containing (1) the process information necessary to ensure that the 
+detailed engineering, procurement, expediting, inspection and construction 
+of the LICENSED UNIT will not deviate from the PERFORMANCE GUARANTEES of 
+the LICENSED UNIT and (2) the typical basic procedures necessary to ensure 
+that control, operation and maintenance of the LICENSED UNIT (mainly 
+start-up, shut-down and emergency procedures) will not deviate from the 
+PERFORMANCE GUARANTEES of the LICENSED UNIT.
+
+
+TECHNICAL INFORMATION means the technical data and knowledge related to 
+or useful for the commercial practice of the PROCESS in DEIs possession 
+prior to the date of remittance of the PROCESS BOOK.
+
+
+WORK PRODUCT means, collectively, the PROCESS BOOK, the TECHNICAL 
+INFORMATION, the PROCESS, and the LICENSED UNIT.
+
+
+Article 2 Purpose of this Agreement
+ 
+2.1 	The purpose of this Agreement is to define the terms and conditions 
+under which DEI shall (A) prepare and deliver to CLIENT the PROCESS BOOK; 
+(B) engineer and design the PROCESS and the LICENSED UNIT; and (C) grant a 
+license to the LICENSED UNIT using the PROCESS for the purpose of producing 
+polysilicon, as more fully described in Article 3 of this AGREEMENT.
+DEI Agreement Number: 0743.01 	  	- 5/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+2.2 	As between DEI and CLIENT, CLIENT will at all times remain solely 
+responsible for the detailed engineering, procurement, expediting, 
+inspection, construction, alteration, reconstruction, operation and 
+maintenance of the overall PROJECT; provided, however, that DEI will at all 
+times remain solely responsible for the warranties and guarantees it is 
+providing to CLIENT with respect to the WORK PRODUCT pursuant to this 
+Agreement, subject to DEIs maximum liability limit set forth in Article 
+9.3.
+
+
+Article 3 Grant of license
+ 
+3.1 	As of the EFFECTIVE DATE, and so long as CLIENT is not in default of 
+its obligations hereunder:
+ 
+  	a) 	DEI hereby grants to CLIENT a non-exclusive right to use the 
+TECHNICAL INFORMATION disclosed in accordance with Article 4 hereof to 
+design, build, operate and maintain the LICENSED UNIT using the PROCESS.
+ 
+  	b) 	Except as specified in Article 14.1 hereof, this license is not 
+transferable.
+ 
+  	c) 	Subject to its maximum liability described in Article 9.3, DEI 
+further agrees to indemnify and hold CLIENT harmless from suit with regards 
+to the foregoing grant or to the use and/or sale of the products made using 
+the PROCESS from any infringement suit under any patent owned or controlled 
+by DEI or its affiliated companies or to which and to the extent and 
+subject to the terms that DEI has the right to extend such indemnity.
+ 
+3.2 	
+
+DEI unconditionally grants to CLIENT a non-exclusive, perpetual, 
+irrevocable (except as set forth in Article 18.5 below), worldwide, 
+fully-paid right and license, with the right to sublicense to its 
+AFFILIATES through multiple levels of AFFILIATE sublicensees in (i) DEIs 
+INTELLECTUAL PROPERTY RIGHTS related to the manufacture and purification of 
+Trichlorosilane and (ii) any and all WORK PRODUCT (whether or not 
+identified or described in this Agreement, and including, without 
+limitation, the DEI PATENTS), solely for purposes of (a) using the WORK 
+PRODUCT as necessary in accordance with the CONFIDENTIALITY limitations 
+described in Article 12, for the timely construction of one (1) 
+Trichlorosilane facility at JOBSITE, and (b) to use, make, have made, sell, 
+offer to sell, import, and otherwise exploit any product based on, 
+embodying, incorporating, or derived from the LICENSED UNIT. 
+Notwithstanding the foregoing, nothing contained in the license grant 
+herein shall be construed or interpreted to allow CLIENT or its AFFILIATES 
+to (i) breach, circumvent, or fail to comply with the confidentiality 
+requirements set forth in this Agreement (in this regard, CLIENT agrees to 
+obtain signed agreements from any of its AFFILIATES that bind the 
+AFFILIATES to the confidentiality provisions), or (ii) to provide any 
+CONFIDENTIAL INFORMATION to third parties, except for
+
+DEI Agreement Number: 0743.01 	  	- 6/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	
+CLIENTs CONTRACTORS who have signed confidentiality agreements with 
+CLIENT, and otherwise permitted pursuant to Article 12 hereof.
+ 
+3.3 	Except as provided herein, DEI grants no other rights, whether express 
+or implied, by operation of law or otherwise. In particular, no right is 
+granted herein to CLIENT for the manufacture or sale of any specified 
+catalysts, adsorbents or special equipments if any, unless otherwise 
+provided in Article 3.1 above.
+
+
+Article 4 DEIs INFORMATION
+ 
+4.1 	Promptly after execution of this Agreement, DEI shall make TECHNICAL 
+INFORMATION in its possession available to CLIENT as specified in the 
+PROCESS BOOK to enable the CONTRACTORS to complete the detailed engineering 
+of the PROJECT and to begin ordering long lead-time equipment necessary for 
+the construction, installation and operation of the LICENSED UNIT.
+ 
+4.2 	At the request of CLIENT, DEI will make every reasonable effort to 
+arrange for CLIENTs representatives to visit the facilities of other users 
+of the PROCESS for the purpose of observing and better understanding the 
+TECHNICAL INFORMATION; provided, however, that any such observation will 
+not expose CLIENT to any confidential information or trade secrets of a 
+third party.
+
+
+Article 5 Disclosure of technical information under the license, scope and 
+schedule
+ 
+5.1 	DEI shall, within the scope and the time schedule specified below, 
+prepare and deliver the PROCESS BOOK to CLIENT.
+ 
+5.2 	Scope of the PROCESS BOOK
+ 
+  	a) 	The content description of the PROCESS BOOK is specified in Schedule 
+1 hereof.
+ 
+  	b) 	DEI shall in no event be responsible for the supply to CLIENT of any 
+other services than those provided for herein or for the supply of goods 
+and/or services by others, such as, but not limited to, supply by 
+CONTRACTORS, vendors, fabricators, manufacturers or any other third 
+parties, of detailed engineering work, procurement, expediting, inspection, 
+equipments construction of acceptance thereof.
+
+
+5.3 Time schedule
+ 
+  	a) 	DEI shall complete the [*] within [*] after the KICK-OFF DATE.
+ 
+  	b) 	DEI shall complete the [*] and [*] [*] after the KICK-OFF DATE.
+ 
+  	c) 	DEI shall complete the [*] and [*] within [*] after the KICK-OFF 
+DATE.
+DEI Agreement Number: 0743.01 	  	- 7/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	d) 	DEI shall complete the [*] within [*] after the KICK-OFF DATE.
+ 
+  	e) 	DEI shall complete the [*] within [*] after the KICK-OFF DATE.
+ 
+  	f) 	DEI shall complete the [*] and the [*] within [*] after the KICK-OFF 
+DATE.
+ 
+  	g) 	DEI shall complete the entire [*], which shall include the foregoing 
+items (a)  (d) and the [*] within [*] after the KICK-OFF DATE.
+ 
+5.4 	The PROCESS BOOK shall be written in English.
+
+
+Article 6 CLIENTs undertaking
+ 
+6.1 	The LICENSED UNIT shall be constructed and operated in all material 
+respects in conformity with TECHNICAL INFORMATION.
+ 
+6.2 	CLIENT undertakes to obtain the prior written approval of DEI if it 
+desires:
+ 
+  	a) 	to depart from the undertaking made in Article 6.1, or,
+ 
+  	b) 	to use TECHNICAL INFORMATION for any other purpose than the design, 
+the construction, the operation and the maintenance of the LICENSED UNIT.
+ 
+6.3 	DEI shall have the right to have a process-holder plate of mutually 
+agreeable size affixed to the control room panel of the LICENSED UNIT at a 
+mutually agreeable place.
+ 
+6.4 	Until the CUT-OFF DATE:
+ 
+  	a) 	DEI representatives shall have the right to visit the LICENSED UNIT. 
+The times of such visits and their duration shall be mutually agreed upon.
+ 
+  	b) 	CLIENT will permit technical visits of the LICENSED UNIT during 
+normal business hours by third parties as specified from time to time by 
+DEI, provided, however, that all such third parties representatives or 
+visitors shall (A) not be CLIENTs competitors, as determined by CLIENT in 
+its sole discretion, and (B) agree in writing to CLIENTs safety and 
+secrecy rules then in force in the LICENSED UNIT and to any other 
+reasonable requirement of CLIENT prior to accessing the LICENSED UNIT.
+ 
+  	c) 	CLIENT will permit DEI to take pictures of the LICENSED UNIT and 
+enable DEI to use those pictures for promotional purposes, subject to 
+reasonable limitations and prior approval by CLIENT to maintain the secrecy 
+of CLIENTs operations and facilities.
+DEI Agreement Number: 0743.01 	  	- 8/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+6.5 	The PERFORMANCES GUARANTEEs stated in Schedule 3 are subject to:
+ 
+  	a) 	DEIs participation prior to, during the start-up of the LICENSED 
+UNIT, during the initial operation and during the PERFORMANCES TEST PERIOD, 
+as described in Sections C and D of the attached Schedule 3, and
+ 
+  	b) 	for those equipments and supplies designated as qualified in the 
+Process Book, the selection by CLIENT of vendors only from the list of 
+qualified vendors listed in said Process Book, or such other vendors that 
+are reasonably acceptable to DEI.
+
+
+Article 7 Assistance and services from DEI
+ 
+7.1 	Promptly after execution of this Agreement, during a Kick-Off Meeting 
+(the first meeting held after the KICK-OFF DATE) held at CONTRACTOR 
+facilities, the parties will mutually agree on a coordination procedure, 
+and on a time schedule. The parties will also schedule the other meetings 
+as described below.
+ 
+Weeks after KICK-OFF DATE
+   	
+Name of Meeting
+   	Location of Meetings
+
+ [*]
+
+   	Kick-off meeting & Basic Engineering review 	   	CONTRACTORS SITE
+
+ [*]
+
+   	Review of deliverables per 5.3(a) 	   	Michigan, USA
+
+ [*]
+
+   	Review of deliverables per 5.3(c) 	   	CLIENT or CONTRACTORS SITE
+
+ [*]
+
+   	Review of deliverables per 5.3(d) 	   	Michigan, USA
+
+ [*]
+
+   	Review of deliverables per 5.3(f) 	   	CLIENT or CONTRACTORS SITE
+ 
+7.2 	Review of Detailed Engineering Documents
+ 
+  	a) 	Promptly after their completion, the documents listed in Schedule 2 
+shall be submitted to DEI at DEIs offices in order to allow their 
+examination for conformity with the process specifications and design 
+furnished hereunder. All such documents shall be treated as the 
+CONFIDENTIAL INFORMATION of CLIENT pursuant to this AGREEMENT.
+ 
+  	b) 	Except as otherwise agreed between the parties these documents will 
+be in English language.
+ 
+  	c) 	Save as agreed during the Kick-off meeting, DEI will complete such 
+examination within 15 (fifteen) working days from the date of DEIs receipt 
+of said documents and will notify such completion to CLIENT, whether or not 
+DEI has remarks to convey. CLIENT shall have no obligation to update or 
+revise the documents listed
+ 
+DEI Agreement Number: 0743.01 	  	- 9/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	     	in Schedule 2 or to incorporate any of DEIs comments to such 
+documents unless the comments and/or revisions are reasonably consistent 
+with the specifications or data previously provided by DEI. DEIs failure 
+to provide any comments within such fifteen (15) day period shall be deemed 
+as DEIs acceptance of the documents, which shall satisfy DEIs approval 
+requirement set forth in Section B-2(a)(iv) of Schedule 3.
+ 
+7.3 	Consultations by DEI
+ 
+  	a) 	After delivery of the PROCESS BOOK, DEI will provide consultation to 
+CLIENT, and/or to CONTRACTOR as necessary for the purpose of clarifications 
+related to the PROCESS BOOK, answering questions related to completing the 
+detailed design.
+ 
+  	b) 	In the event that CLIENT requests in writing consultation from DEI 
+beyond the man-days described in Article a) and/or to be held outside DEIs 
+office, DEI agrees to provide such consultation which shall be compensated 
+by CLIENT in accordance with DEIs then-applicable base rates; in addition 
+corresponding pre-approved and reasonable travel expenses of DEIs 
+personnel shall be borne by CLIENT.
+ 
+7.4 	Any assistance and service that DEI shall render under this Agreement 
+shall comply with generally accepted engineering practices.
+ 
+7.5 	DEI shall not utilize any SUBCONTRACTORS without prior written 
+approval from CLIENT, which shall not be unreasonably withheld.
+ 
+7.6 	All personnel provided by DEI shall be English speaking and expert in 
+the PROCESS. DEI shall give all necessary explanations to CLIENTs 
+personnel for the proper understanding of the PROCESS operation.
+ 
+7.7 	Assistance during the initial stages of operation of the LICENSED 
+UNIT. Under the conditions set forth in Section C-1, D-1 and D-2 of 
+Schedule 3, a team of DEI advisors shall be in attendance during start-up 
+and initial operations and, subject to the provisions set forth in Schedule 
+3, until the end of the last PERFORMANCE PROBE permitted under Section F of 
+Schedule 3. It is the policy of DEI to have concern for the safety, health, 
+and environment of its employees. Employees visiting a client facility are 
+instructed to follow established safety procedures and advise CLIENT of any 
+potential hazards that they believe may prevent the performance of their 
+tasks in a safe manner. To the extent appropriate, CLIENT, in turn, is 
+requested to take corrective action. Should no action be taken or, if in 
+the judgment of the DEI employee the hazard still exists, the employee may 
+elect to stop work until the hazard is eliminated.
+ 
+DEI Agreement Number: 0743.01 	  	- 10/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+7.8 	Hazardous Materials  Suspension of Services. Both parties acknowledge 
+that DEIs scope of services does not include any services related to the 
+presence of any hazardous or toxic materials. In the event DEI or any other 
+party encounters any hazardous or toxic materials, or should it become 
+known to DEI that such materials may be present on or about the jobsite or 
+any adjacent areas that may affect the performance of DEIs services, DEI 
+may, at its option and without liability for consequential or any other 
+damages, suspend performance of its services under this Agreement until 
+CLIENT retains qualified consultants or contractors to identify and abate 
+or remove the hazardous or toxic materials and warrants that the jobsite is 
+in full compliance with all applicable laws and regulations.
+ 
+7.9 	Jobsite Safety. Neither the professional activities of DEI, nor the 
+presence of DEI or its employees and subconsultants at a 
+construction/project site, shall relieve the General Contractor of its 
+obligations, duties and responsibilities including, but not limited to, 
+construction means, methods, sequence, techniques or procedures necessary 
+for performing, superintending and coordinating the Work in accordance with 
+the contract documents and any health or safety precautions required by any 
+regulatory agencies. DEI and its personnel have no authority to exercise 
+any control over any construction contractor or its employees in connection 
+with their work or any health or safety programs or procedures. CLIENT 
+agrees that General Contractor shall be solely responsible for jobsite 
+safety, and warrants that this intent shall be carried out in CLIENTs 
+contract with the General Contractor. CLIENT also agrees that CLIENT, DEI 
+and DEIs subconsultants shall be indemnified by the General Contractor and 
+shall be made additional insureds under the General Contractors policies 
+of general liability insurance.
+ 
+7.10 	Further Services. At CLIENTs request, DEI is prepared to execute a 
+mutually acceptable Service Contract under which it shall render, after the 
+assistance foreseen in Article 7.7 is terminated, continuous assistance to 
+technically support the on-going operation of the LICENSED UNIT by the 
+CLIENT, through a close follow-up of the LICENSED UNIT operation or through 
+further specific studies aimed at improving its performance or adapting its 
+operation to any new situation.
+
+
+Article 8 Financials
+ 
+8.1 	Services.
+ 
+  	a) 	CLIENT agrees to pay DEI for the performance and delivery of DEIs 
+services to provide the Work Product and all other services under this 
+Agreement, including, without limitation the PROCESS BOOK and the services 
+pursuant to Article 7 on a fully reimbursable basis for the rates, costs, 
+expenses, fees, and other consideration set forth on Schedule 5 
+(collectively, the SERVICE FEES); provided, however, that the aggregate 
+SERVICE FEES under this AGREEMENT
+ 
+DEI Agreement Number: 0743.01 	  	- 11/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	     	shall not exceed [*] ([*]) (the MAXIMUM SERVICE FEE). In the 
+event that the SERVICE FEES are less than the MAXIMUM SERVICE FEE, DEI 
+shall be entitled to [*] of the savings up to a maximum of [*].
+ 
+  	b) 	In the event CLIENT decides, in particular under Articles 7.1 or 7.3 
+hereof, to request modifications in the scope of work such as changes in 
+design basis, request for additional services or request for a change in 
+the nature of services offered, DEI will only implement such changes if DEI 
+agrees to do so and after agreeing to the associated change order 
+(including impact on the MAXIMUM SERVICE FEE and delivery schedule).
+ 
+  	c) 	This amount shall be invoiced by DEI as follows:
+ 
+  	     	[*] of the MAXIMUM SERVICE FEE shall be invoiced at the EFFECTIVE 
+DATE (the INITIAL SERVICE FEE PAYMENT).
+ 
+  	     	All accrued and unpaid SERVICE FEES shall be invoiced upon 
+delivery and acceptance by CLIENT of the [*] (the PHASE 1 PAYMENT).
+ 
+  	     	All SERVICE FEES that have accrued since the PHASE 1 PAYMENT shall 
+be invoiced upon delivery and acceptance by CLIENT of the [*] and [*] (the 
+PHASE 2 PAYMENT).
+ 
+  	     	All SERVICE FEES that have accrued since the PHASE 2 PAYMENT shall 
+be invoiced upon delivery and acceptance by CLIENT the [*] and [*] (the 
+PHASE 3 PAYMENT).
+ 
+  	     	All SERVICE FEES that have accrued since the PHASE 3 PAYMENT shall 
+be invoiced upon delivery and acceptance by CLIENT of the [*] (the PHASE 4 
+PAYMENT).
+ 
+  	     	All SERVICE FEES that have accrued since the PHASE 4 PAYMENT shall 
+be invoiced upon delivery and acceptance by CLIENT of the entire [*] (the 
+PHASE 5 PAYMENT)
+ 
+  	     	All SERVICE FEES that have accrued since the PHASE 5 PAYMENT minus 
+the INITIAL SERVICE FEE PAYMENT shall be invoiced upon the successful [*] 
+(the PHASE 6 PAYMENT).
+ 
+  	     	CLIENT shall withhold [*] of the invoiced amounts from each of the 
+PHASE 1 PAYMENT, the PHASE 2 PAYMENT, the PHASE 3 PAYMENT, the PHASE 4 
+PAYMENT, the PHASE 5 PAYMENT, and the PHASE 6 PAYMENT (such amount, the 
+RETAINAGE). The RETAINAGE shall be paid in full to DEI upon the 
+successful completion of the [*].
+ 
+8.2 	Royalty.
+ 
+  	a) 	In addition to the SERVICE FEES, CLIENT shall pay to DEI a royalty 
+for the rights granted under Article 3.1 above (the ROYALTY). The ROYALTY 
+is to be
+ 
+DEI Agreement Number: 0743.01 	  	- 12/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	     	calculated in accordance with Section J of Schedule 3; provided, 
+however, that the minimum ROYALTY is [*] (the MINIMUM ROYALTY), and the 
+maximum aggregate ROYALTY is [*] (the MAXIMUM ROYALTY). The ROYALTY shall 
+be invoiced by DEI upon the successful completion of the [*] and execution 
+by DEI and CLIENT of Annex B to Schedule 3 attached hereto, which the 
+parties agree to execute in good faith.
+ 
+  	b) 	The payment of such paid-up royalty shall relieve CLIENT of further 
+payment of royalties hereunder with respect to the license granted pursuant 
+to Article 3.1 of this Agreement.
+ 
+  	c) 	Notwithstanding anything to the contrary herein, CLIENT shall have 
+no obligation to pay any ROYALTY to DEI, and any ROYALTY previously paid 
+shall be refunded to CLIENT, if all of the DEI PATENTS, as applicable to 
+such ROYALTY, are adjudged through a final and non-appealable judgment, 
+ruling or decision, as applicable, of the United States Patent and 
+Trademark Office, or any court, arbitration or government authority having 
+jurisdiction over the subject matter thereof, to be invalid or 
+unpatentable, or to be infringing on the INTELLECTUAL PROPERTY RIGHTS of a 
+third party.
+ 
+8.3 	Payment  invoicing.
+ 
+  	a) 	In its invoices, DEI shall designate the payer (aka CLIENT) as 
+follows:
+
+Hoku Materials, Inc.
+One Hoku Way
+Pocatello, Idaho 83204
+Attn: Karl Taft
+ 
+  	b) 	DEI shall transmit the invoices to the following address:
+ 
+  	i) 	if it concerns royalties under Article 8.2:
+
+Hoku Materials, Inc.
+One Hoku Way
+Pocatello, Idaho 83204
+Attn: Karl Taft
+ 
+  	ii) 	if it concerns assistance and services under Article 8.1:
+
+Hoku Materials, Inc.
+One Hoku Way
+Pocatello, Idaho 83204
+Attn: Karl Taft
+ 
+  	c) 	All sums payable under this Agreement shall be paid in US Dollars, 
+in the USA, by bank transfer within 30 (thirty) days from invoice date at 
+the bank account specified
+ 
+DEI Agreement Number: 0743.01 	  	- 13/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	     	on the invoice. All invoices shall include documentation of 
+SERVICE FEES in reasonable detail.
+ 
+  	d) 	[*] shall be due on any late payment.
+ 
+  	iii) 	[*],
+ 
+  	iv) 	[*]
+ 
+  	e) 	Such possible interest in arrears shall be invoiced by DEI following 
+CLIENTs payment of the principal and DEI is hereby excused from giving any 
+prior specific notice.
+ 
+  	f) 	DEI shall not be obligated to deliver to CLIENT any additional 
+Technical Information, Improvements or to continue to provide technical 
+assistance and services if any portion of the SERVICE FEES or ROYALTY or 
+other amounts due hereunder from CLIENT are not paid on or before (and 
+remain unpaid following) the applicable due date for such payment.
+ 
+  	g) 	This provision cannot be deemed as being a waiver of any of DEI 
+possible rights to enforce any payment when payable.
+ 
+  	h) 	Except if DEIs liability is involved as per Article 9.3 hereafter, 
+any sum received by DEI under this Agreement shall be definitively acquired 
+by DEI.
+ 
+  	i) 	CLIENT agrees not to offset any sum owed to DEI against any sum DEI 
+could owe CLIENT on any ground whatsoever.
+
+
+Article 9 Warranties and liabilities
+ 
+9.1 	Warranties. DEI warrants to CLIENT that:
+ 
+  	a) 	DEI will not, in the course of performing its services and 
+obligations under this Agreement, infringe or misappropriate, and none of 
+the WORK PRODUCT nor any element thereof will or does infringe or 
+misappropriate, any INTELLECTUAL PROPERTY RIGHT of any third party;
+ 
+  	b) 	neither the WORK PRODUCT nor any element thereof will be subject to 
+any restriction, mortgage, lien, claim, pledge, security interest, or 
+encumbrance when delivered by DEI to CLIENT;
+ 
+  	c) 	DEI has full right, power, and authority to enter into and perform 
+this Agreement without the consent of any third party, including the right 
+to grant all licenses granted by DEI in this Agreement;
+ 
+  	d) 	All individuals and entities that contribute to or participate in 
+the conception, creation, or development of the WORK PRODUCT will have 
+unconditionally and irrevocably assigned all of their right, title, and 
+interest in and to the WORK PRODUCT (and all INTELLECTUAL PROPERTY RIGHTS 
+thereto) to DEI (or
+ 
+DEI Agreement Number: 0743.01 	  	- 14/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	     	directly to CLIENT) before being allowed to begin performing any 
+of the services under this Agreement;
+ 
+  	e) 	DEI will comply with all laws, regulations, and ordinances 
+applicable to DEIs performance of its services under this Agreement and 
+DEIs other obligations under this Agreement, including export control 
+laws, and has obtained (or before performing any services under this 
+Agreement will obtain) all governmental permits and licenses required for 
+DEI to perform its services under this Agreement and DEIs other 
+obligations under this Agreement;
+ 
+  	f) 	DEI has the requisite skills, experience and expertise necessary to 
+perform its obligations pursuant to this Agreement;
+ 
+  	g) 	DEI will take all necessary or reasonable precautions to prevent 
+injury to any person (including CLIENTs employees) or damage to any 
+property (including CLIENTs property) during the term of this Agreement; 
+and
+ 
+  	h) 	Subject to Schedule 3, if the LICENSED UNIT is constructed and 
+operated in accordance with the PROCESS BOOK, the PERFORMANCE GUARANTEES 
+specified in Schedule 3 will be met.
+ 
+  	i) 	Except as stated in this Article (a) through above, DEI makes no 
+other warranties, express or implied, by operation of law or otherwise, 
+with respect to the licenses granted hereunder, including any other 
+guarantees relating to the catalysts, equipment or material to be used in 
+the LICENSED UNIT or any warranty of merchantability or fitness for any 
+other use.
+ 
+9.2 	Each Party represents and warrants to the other Party that on the 
+Effective Date:
+ 
+  	a) 	it is an independent legal entity duly organized, validly existing 
+in good standing under the laws of the place of its establishment or 
+incorporation;
+ 
+  	b) 	it has full authority to enter into this Agreement and to perform 
+its obligations hereunder;
+ 
+  	c) 	it has authorized its representative to sign this Agreement and from 
+and after the Effective Date the provisions of this Agreement shall be 
+legally binding upon it;
+ 
+  	d) 	its execution of this Agreement and its performance of its 
+obligations hereunder: (i) will not violate any provision of its business 
+license, articles of incorporation, articles of association or similar 
+organizational documents; (ii) will not violate any applicable laws or any 
+governmental authorization or approval; and (iii) will not violate or 
+result in a default under any contract to which it is a party or to which 
+it is subject;
+ 
+  	e) 	no lawsuit, arbitration or other legal or governmental proceeding is 
+pending or, to its knowledge, threatened against it that would affect its 
+ability to perform its obligations under this Agreement; and
+ 
+DEI Agreement Number: 0743.01 	  	- 15/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	f) 	it has disclosed to the other Party all documents issued by any 
+governmental department that may have a material adverse effect on its 
+ability to fully perform its obligations under this Agreement.
+ 
+9.3 	Liabilities.
+ 
+  	a) 	In the event the performances of the PROCESS do not reach the 
+PERFORMANCE GUARANTEES, DEI shall promptly redesign, or engineer, at its 
+sole cost, the PROCESS, including the LICENSED UNIT and any non-conforming 
+equipment, until the PROCESS meets the PERFORMANCE GUARANTEES. 
+Notwithstanding the foregoing, CLIENT may terminate this AGREEMENT and be 
+entitled to keep the RETAINAGE if DEI is unable achieve the PERFORMANCE 
+GUARANTEES within 52 weeks after the READY FOR START-UP DATE (as defined in 
+Schedule 3).
+ 
+  	b) 	In no event shall either Party be liable for or obligated in any 
+manner for special, consequential or indirect damages including, but not 
+limited to, loss of profit or loss of use. This Article shall apply whether 
+the cause of actions relates to this Agreement or arises out of the 
+services performed by DEI under this Agreement.
+ 
+  	c) 	Notwithstanding any provision in this agreement to the contrary, 
+DEIs MAXIMUM LIABILITY (including the liability of its agents, employees, 
+and officers) for any DAMAGES shall not exceed in the aggregate [*]. The 
+term DAMAGES shall include any claims, costs, damages, attorney fees 
+incurred by CLIENT, losses, and expenses for which DEI is or may be legally 
+liable, whether arising from actual or alleged negligence or any other 
+tort, breach of contract, breach of representation or warranty, breach of 
+performance guarantees, indemnification under Article 10, and any other 
+legal theory of liability. Said [*] limit includes any DAMAGES arising from 
+the death or personal injury to any of CLIENTs employees or agents or any 
+third parties. The parties acknowledge that the rates charged by DEI to 
+CLIENT reflect the parties agreement that DEIs maximum exposure for any 
+and all damages, individually and cumulatively, arising under this 
+Agreement or the performance of the Agreement shall not exceed said [*] 
+limit. CLIENT agrees to file no complaint (whether in a court of competent 
+jurisdiction or arbitration or otherwise) that seeks more than the 
+aggregate of [*] in DAMAGES (including attorney fees). CLIENT further 
+agrees to indemnify and hold DEI harmless from any DAMAGES (as defined 
+above) in excess of said [*] that arise out of this Agreement or DEIs 
+performance under this Agreement (including claims that DEI acted 
+negligently), whether the DAMAGES arise from claims by CLIENT or any third 
+party.
+ 
+DEI Agreement Number: 0743.01 	  	- 16/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Article 10 Indemnification Obligations
+ 
+10.1 	Subject to Article 9.3 above, DEI will indemnify and hold harmless 
+CLIENT and its AFFILIATES, customers, CONTRACTORS, employees, and agents 
+from and against any and all liabilities, losses, damages, costs, and other 
+expenses (including reasonable attorneys and expert witnesses costs and 
+fees) arising from or relating to breach of any representation, warranty, 
+covenant, or obligation of DEI in this Agreement or intentional misconduct 
+or negligence by DEI or DEIs agents or subcontractors in performing their 
+services under this Agreement.
+ 
+10.2 	CLIENT will indemnify and hold harmless DEI and its AFFILIATES, 
+employees, and agents from and against any and all liabilities, losses, 
+damages, costs, and other expenses (including attorneys and expert 
+witnesses costs and fees) arising from or relating to any breach of any 
+representation, warranty, covenant, or obligation of CLIENT in this 
+Agreement or any intentional misconduct or negligence by CLIENT or any of 
+CLIENTs agents or subcontractors in performing their services under this 
+Agreement. In the event of any third-party claim, demand, suit, or action 
+(a Claim) for which DEI (or any of its AFFILAITES, employees, or agents) 
+is or may be entitled to indemnification hereunder, DEI may, at its option, 
+require CLIENT to defend such Claim at CLIENTs sole expense.
+ 
+10.3 	The party claiming indemnification pursuant to Article 10.1 or 10.1 
+above, as applicable (the Indemnitee) will promptly advise the other 
+party (the Indemnitor) in writing of any Claim and of the commencement 
+against it of any suit made or brought against the Indemnitee.
+ 
+10.4 	Neither DEI nor CLIENT shall settle nor compromise any such suit 
+without the written consent of the other party if the settlement or 
+compromise obliges the other party to make any payment or part with any 
+property or assume any obligation or grant any licenses or other rights or 
+be subject to any injunction by reason of such settlement or compromise.
+
+
+Article 11 Insurance
+ 
+11.1 	CONTRACTORS LIABILITY INSURANCE. DEI shall purchase and maintain 
+such insurance as will protect it from the claims set forth below which may 
+arise out of or result from DEIs performance and furnishing of the Work 
+Product under this Agreement whether such operations be by DEI or by any of 
+its subcontractors or by anyone directly or indirectly employed by any of 
+them, or by anyone for whose acts any of them may be liable. Except for 
+workers compensation, employers liability, and professional liability, 
+such policies shall name CLIENT as an additional insured,
+ 
+DEI Agreement Number: 0743.01 	  	- 17/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	a) 	WORKMENS COMPENSATION. Claims under workers compensation, 
+disability benefit, and other similar employee benefit acts which are 
+applicable to the work to be performed pursuant to this Agreement.
+ 
+  	b) 	CLAIMS FOR EMPLOYEE INJURY. Claims for damages because of bodily 
+injury, occupational sickness or disease, or death of DEIs employees under 
+any applicable employers liability law.
+ 
+  	c) 	CLAIMS FOR INJURY TO OTHERS. Claims for damages because of bodily 
+injury or death of any person other than DEIs employees.
+ 
+  	d) 	OTHER CLAIMS. Claims for damages insured by customary personal 
+injury liability coverage which are sustained (1) by any person as a result 
+of an offense directly or indirectly related to the employment of such 
+person by DEI or (2) by any other person.
+ 
+  	e) 	DAMAGE TO PROPERTY. Claims for damages, other than to the LICENSED 
+UNIT itself, because of injury to or destruction of tangible property, 
+including loss of use therefrom.
+ 
+  	f) 	OPERATION OF MOTOR VEHICLE. Claims for damages because of bodily 
+injury or death of any person or property damage arising out of the 
+ownership, maintenance or use of any motor vehicle.
+ 
+  	g) 	CONTRACTUAL LIABILITY. Claims arising out of the indemnity 
+obligation assumed by DEI under this Agreement
+ 
+  	h) 	PROFESSIONAL LIABILITY. Claims for professional negligence arising 
+out of engineering services rendered by DEI.
+ 
+11.2 	INSURANCE LIMITS. DEIs Comprehensive General Liability, Workers 
+Compensation, Automobile Liability insurance, and Professional Liability 
+Insurance, as required by Article 11.1, shall be written for the limits of 
+liability or amounts of coverage set forth below. DEI insurance may be 
+arranged under a single policy for the full limits required or by a 
+combination of underlying policies with the balance provided by Excess or 
+Umbrella Liability policies.
+ 
+  	a) 	Commercial General Liability with limits of coverage of $5,000,000 
+general aggregate, $5,000,000 products/completed operations aggregate, and 
+$5,000,000 personal and advertising injury.
+ 
+  	b) 	Business Automobile Liability insurance covering all owned, hired, 
+and non-owned vehicles used in the operations of Contractor with limits of 
+coverage of a Combined Single Limit of $1,000,000 per accident for bodily 
+injury and property damage.
+ 
+  	c) 	Workers Compensation Insurance and/or Longshoremens and 
+Harborworkers Compensation Insurance as required by law and regulations 
+applicable to and covering employees of Contractor engaged in the 
+performance of the Services in compliance with the laws of every state in 
+which the Services is being performed.
+ 
+DEI Agreement Number: 0743.01 	  	- 18/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	     	Policy must be endorsed to provide Maritime Coverage, Voluntary 
+Workers Compensation and Stop Gap Liability.
+ 
+  	d) 	Employers Liability Insurance (Coverage B) with limits of coverage 
+of: $1,000,000 per accident, bodily injury by accident; $1,000,000 Policy 
+Limit, bodily injury by disease; and $1,000,000 per employee, bodily injury 
+by disease.
+ 
+  	e) 	Contractual Liability Insurance covering DEIs indemnification 
+obligations hereunder, with coverage limits of $5,000,000.
+ 
+  	f) 	Professional Liability coverage of $5,000,000 for DEIs errors and 
+omissions in performing its services under this AGREEMENT.
+ 
+11.3 	CANCELLATION OF INSURANCE. The foregoing policies shall contain a 
+provision that the coverages afforded under the policies will not be 
+canceled, that renewal will not be refused, and that the amount of coverage 
+will not be reduced below the limits specified above until at least thirty 
+(30) days prior written notice has been given to CLIENT. A Certificate of 
+Insurance showing such coverages to be in force shall be filed with CLIENT 
+prior to commencement of the work pursuant to this Agreement.
+
+
+Article 12 Confidentiality
+ 
+12.1 	CLIENT and DEI shall use the CONFIDENTIAL INFORMATION only for the 
+purposes of performing their respective obligations under this Agreement, 
+and in accordance with the licenses granted herein. No other use is 
+permitted without the prior written consent of DEI or CLIENT, as the case 
+may be.
+ 
+12.2 	All CONFIDENTIAL INFORMATION received hereunder shall be kept 
+confidential and shall not, without the prior written consent of the 
+disclosing party, be disclosed by the receiving party, in any manner 
+whatsoever, in whole or in part. Moreover, CLIENT and DEI shall each only 
+disclose the CONFIDENTIAL INFORMATION to its officers, directors and 
+employees who need to know such CONFIDENTIAL INFORMATION for the PURPOSE, 
+who are informed by CLIENT or DEI, as applicable, of the confidential 
+nature of the CONFIDENTIAL INFORMATION and who shall be bound to act in 
+accordance with the terms and conditions of this Agreement.
+ 
+12.3 	CLIENT and DEI each hereby agree that, subject to CLIENTs license 
+rights granted in this agreement, the CONFIDENTIAL INFORMATION disclosed 
+hereunder is and will remain the property of the disclosing party and that 
+drawings or other written, printed or electronic data included therein are 
+not to be copied or reproduced, mechanically or otherwise, without the 
+express permission of the disclosing party, except for such copies that the 
+receiving party reasonably requires for the PURPOSE.
+DEI Agreement Number: 0743.01 	  	- 19/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+12.4 	The term CONFIDENTIAL INFORMATION shall not include such 
+information furnished hereunder that the receiving party can prove:
+ 
+  	a) 	was, at the time of disclosure, in the public domain or which 
+subsequently enters the public domain through no act or failure to act by 
+the receiving party; or
+ 
+  	b) 	was developed by or was in the possession of the receiving party 
+prior to being furnished to the receiving party by the disclosing party or 
+on its behalf, provided that the source of such CONFIDENTIAL INFORMATION 
+was not known to the receiving party to be prohibited from disclosing the 
+CONFIDENTIAL INFORMATION to CLIENT by a legal, contractual or fiduciary 
+obligation to the disclosing party; or
+ 
+  	c) 	was or became available to the receiving party on a non-confidential 
+basis from a third party that is not known to the receiving party to be 
+prohibited from disclosing the CONFIDENTIAL INFORMATION to the receiving 
+party by a legal, contractual or fiduciary obligation to the disclosing 
+party.
+ 
+     	However, in situations a) through c) above (the NON-CONFIDENTIAL 
+INFORMATION), DEI and CLIENT each undertake not to disclose all such 
+NON-CONFIDENTIAL INFORMATION lawfully in its possession that implicates 
+CONFIDENTIAL INFORMATION.
+ 
+12.5 	Ownership of Instruments of Service  All reports, drawings, 
+specifications, computer files, field data, notes and other documents and 
+instruments prepared by DEI as instruments of service shall remain the 
+property of DEI.
+ 
+12.6 	The exceptions of Article 12.4 shall not apply to any information 
+furnished hereunder which:
+ 
+  	a) 	Is specific and, at the time of its disclosure hereunder, merely 
+embraced by general information within the exceptions, or
+ 
+  	b) 	Is a combination of features of the Confidential Information, unless 
+the combination itself, its principle of operation and method of use are 
+within the exceptions.
+ 
+12.7 	Despite the restrictions on disclosure contained in this Agreement, 
+but only to the extent necessary for the PURPOSE, the receiving party may 
+disclose part of the CONFIDENTIAL INFORMATION to the following third 
+parties:
+ 
+  	a) 	a vendor of commodity equipment or materials or a supplier of 
+construction labor who will receive only a minor or non-critical portion of 
+the Confidential Information and who, prior to such disclosure, has signed 
+an agreement with CLIENT or DEI containing restrictions on use and 
+disclosure at least equivalent to those contained in this Agreement; or
+ 
+  	b) 	any other third party, including but not limited to, any CONTRACTOR, 
+manufacturer of specially-designed equipment, PROJECT lender or investor, 
+or
+DEI Agreement Number: 0743.01 	  	- 20/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+     	any of CLIENTs customers, who, prior to such disclosure, has signed 
+an agreement with CLIENT or DEI containing appropriate restrictions on use 
+and disclosure.
+ 
+12.8 	In the event that CLIENT or DEI, as applicable, who is provided with 
+the CONFIDENTIAL INFORMATION pursuant to this Agreement becomes legally 
+compelled (by oral questions, interrogatories, requests for information or 
+documents, subpoena, civil investigative demand or similar process) to 
+disclose any of the CONFIDENTIAL INFORMATION to third parties other than 
+those identified above, the receiving party will provide to the disclosing 
+party with prompt notice so that such party may seek a protective order or 
+other appropriate remedy and/or waive compliance with the provisions of 
+this Agreement. In any such event, the receiving party will use its best 
+efforts to ensure that the CONFIDENTIAL INFORMATION will be accorded 
+confidential treatment.
+ 
+12.9 	Should either party finally decide not to sign and/or perform this 
+Agreement, such party will promptly return to the other party or destroy, 
+at the disclosing partys option, all of the CONFIDENTIAL INFORMATION in 
+the receiving partys possession (including, all originals, and all copies 
+and derivations therefrom, in any medium); provided, however, that the 
+receiving party may retain one copy of the CONFIDENTIAL INFORMATION in a 
+locked and limited access file for the sole purpose of determining the 
+receiving partys compliance under this Agreement. If requested by the 
+disclosing party, an appropriate officer of the receiving party will 
+certify to the disclosing party that all such material has been so returned 
+or destroyed.
+ 
+12.10 	Upon expiration or termination of this agreement, each receiving 
+party will promptly return to each disclosing party or destroy, at each 
+disclosing partys option, all of the CONFIDENTIAL INFORMATION in each 
+receiving partys possession, except operating, maintenance and testing 
+manuals (including, all originals, and all copies and derivations 
+therefrom, in any medium); provided, however, that the receiving party may 
+retain one copy of the CONFIDENTIAL INFORMATION in a locked and limited 
+access file for the sole purpose of determining the receiving partys 
+compliance under this Agreement. If requested by the disclosing party, an 
+appropriate officer of the receiving party will certify to the disclosing 
+party that all such material has been so returned or destroyed.
+
+
+Article 13 Other agreements
+ 
+13.1 	This Agreement sets forth the entire understanding between the 
+parties relating to the use by CLIENT of the PROCESS in the LICENSED UNIT 
+and replaces and renders void all prior agreements between them concerning 
+the subject matter contained herein.
+DEI Agreement Number: 0743.01 	  	- 21/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+13.2 	No amendment to this Agreement shall be effective unless in writing 
+and executed by the parties. No such amendment shall be effected by the 
+acknowledgment or acceptance of purchase orders, shipping instruction 
+forms, order confirmation forms, general terms of sale or of purchase or 
+any other documents between the parties containing terms or conditions at 
+variance with this Agreement.
+
+
+Article 14 Assignment
+ 
+14.1 	This Agreement is not assignable in whole or in part by either party 
+without the previous written consent of the other party; provided, however, 
+that it may be assigned by either party without such consent to
+ 
+  	a) 	any Affiliate of the assigning party, or
+ 
+  	b) 	a successor of the assigning party in its business, or in the part 
+of its business concerned by this Agreement, provided that such successor 
+is not a competitor of the non-assigning party.
+ 
+14.2 	The assignment shall not be effective unless and until the assignee 
+undertakes in writing to take over all rights and obligations of the 
+assignor set forth in this Agreement.
+ 
+14.3 	Confidentiality obligations between the Parties under Article 12 
+above shall survive any assignment of this Agreement.
+ 
+14.4 	Notwithstanding anything to the contrary in this Article 14 , DEI 
+hereby acknowledges and consents to CLIENTs assignment, in connection with 
+CLIENTs financing of the construction, development and operation of the 
+PROJECT, as collateral security for its obligations relating thereto, of 
+all of CLIENTs rights, title and interest in, to and under this Agreement 
+(the Assigned Interests) to the financial institution named as Collateral 
+Agent for the Secured Parties (as defined below) (together with its 
+successors, designees and assigns in such capacity, the Agent) pursuant 
+to a Security Agreement to be made by CLIENT in connection with such 
+financing in favor of the Agent for the benefit of certain secured parties 
+described therein (the Secured Parties) and in that certain Collateral 
+Agency and Intercreditor Agreement (as amended, restated, supplemented or 
+otherwise modified from time to time, the Intercreditor Agreement) to be 
+made in connection with such financing among CLIENT, Hoku Materials 
+Holdings, Inc., the Agent, and the other Secured Parties party thereto.
+ 
+14.5 	Except as set forth below, DEI further consents to the transfer of 
+CLIENTs interest under this Agreement to the Agent or any purchaser, 
+successor, assignee and/or designee (a Subsequent Transferee) of the 
+Assigned Interests at a foreclosure sale or by a conveyance by CLIENT in 
+lieu of foreclosure and agrees that,
+DEI Agreement Number: 0743.01 	  	- 22/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+     	notwithstanding any provision hereof to the contrary, upon such 
+foreclosure, sale or conveyance, the Agent or such Subsequent Transferee 
+shall be substituted for CLIENT under this Agreement and DEI shall perform 
+its obligations hereunder in favor of the Agent or the Subsequent 
+Transferee, as the case may be. Notwithstanding the foregoing, in no event 
+shall DEI be deemed to have consented to any such transfer, unless the 
+Subsequent Transferee agrees, in writing, to be bound to the terms of this 
+Agreement, including but not limited to its confidentiality provisions, and 
+until such written agreement is obtained, any such transfer shall be null 
+and void.
+ 
+14.6 	In furtherance of Articles 14.4 and 14.5, DEI agrees to sign and 
+deliver to the Agent a Consent and Agreement in substantially the form of 
+Schedule 6 attached hereto (the CONSENT), subject to DEIs opportunity to 
+add language that protects the CONFIDENTIAL INFORMATION, and subject to 
+Agents review and further modification.
+
+
+Article 15 Miscellaneous
+ 
+15.1 	Nothing in this Agreement can be construed as granting or 
+transferring any proprietorship of whatsoever kind under any information 
+and data furnished by DEI hereunder.
+ 
+15.2 	Neither the failure nor any delay on the part of either party in the 
+exercise of any right, power or privilege under this Agreement or the 
+documents referred herein shall operate as a waiver of such right, power or 
+privilege.
+ 
+15.3 	If any provisions of this Agreement or any document executed in 
+connection herewith is held invalid or unenforceable by any court of 
+competent jurisdiction, the other provisions of this Agreement shall remain 
+in full force and effect.
+ 
+15.4 	Either Party shall have the right to make oral or written reference 
+to the subject matter of this Agreement but not to its provisions when 
+dealing with third parties, except to the extent required by governmental 
+authority or court of competent jurisdiction.
+ 
+15.5 	Remedies. CLIENTS and DEIS remedies for any breach of this 
+Agreement by the other Party will include damages, injunctive relief, 
+specific performance, and restitution. The Parties acknowledge that any 
+breach of this Agreement would cause irreparable injury to the other Party 
+for which monetary damages would not be an adequate remedy and, therefore, 
+each Party agrees that the other Party will be entitled to injunctive 
+relief (including specific performance). The rights and remedies provided 
+to each Party in this Agreement are cumulative and in addition to any other 
+rights and remedies available to such Party at law or in equity. 
+Notwithstanding
+DEI Agreement Number: 0743.01 	  	- 23/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+     	anything to the contrary in Article 17, CLIENT or DEI may immediately 
+bring an action for injunctive relief against the other Party in any state 
+or federal court located in the State of Idaho, in which case Idaho law 
+shall govern such dispute, without regard to Idahos laws concerning 
+conflicts of law, and the other Party agrees to submit to the jurisdiction 
+of such court.
+
+
+Article 16 Notices
+ 
+16.1 	Any notice hereunder must be in writing and will be deemed to have 
+been duly given when (a) delivered by hand (with written confirmation of 
+receipt), (b) sent by telecopy (with written confirmation of receipt), or 
+(c) received by the addressee, if sent by a recognized delivery service 
+(receipt requested). All notices shall be addressed as set forth below (or 
+to such other addresses and telecopy numbers as a party may designate by 
+notice to the other party):
+ 
+  	a) 	if to DEI:
+
+Dynamic Engineering, Inc.
+215 Broadus St, Suite 100
+Sturgis, MI, 49091, USA.
+For the attention of the Director of Legal Affairs
+ 
+  	b) 	if to CLIENT:
+
+HOKU MATERIALS, INC.
+One Hoku Way
+Pocatello, Idaho 83204
+for the attention of Karl Taft
+
+
+with a copy to:
+HOKU SCIENTIFIC, INC.
+1075 Opakapaka Street
+Kapolei, Hawaii 96707
+Attention: Dustin Shindo, CEO
+ 
+16.2 	Communications relative to transmittal of technical documentation 
+shall be forwarded to such individual as the considered Party may designate 
+from time to time.
+
+
+Article 17 Conciliation, arbitration
+ 
+17.1 	DISPUTE RESOLUTION. If any controversy or Claim arises out of or 
+relates to this Agreement, or breach thereof, the parties agree to the 
+following procedure:
+DEI Agreement Number: 0743.01 	  	- 24/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	a) 	DIRECT NEGOTIATION. The Parties shall initially attempt to resolve 
+the dispute by direct negotiation in an amicable manner.
+ 
+  	b) 	MEDIATION. If the Parties fail to reach agreement by direct 
+negotiation within thirty (30) days from the commencement of negotiation, 
+the parties will submit the dispute to non-binding mediation under the 
+Rules of the American Arbitration Association. The mediation shall be held 
+in the county and state where the Project is located, unless otherwise 
+agreed to by the parties in writing.
+ 
+  	c) 	ARBITRATION. If the Parties cannot settle the dispute by non-binding 
+mediation within 60 days from the commencement of mediation, the dispute 
+shall be settled by arbitration in accordance with the Arbitration Rules of 
+the American Arbitration Association then in effect unless the parties 
+mutually agree otherwise. In any such arbitration proceeding, either party 
+may join any third party who participated in the Project who is or may be 
+necessary to resolution of the dispute. Such arbitration proceeding shall 
+be held in the county and state where the Project is located, unless 
+otherwise agreed to by the parties in writing.
+ 
+  	d) 	DEMAND FOR ARBITRATION. Notice of the demand for arbitration shall 
+be filed in writing with the other Party to this Agreement and with the 
+American Arbitration Association within 60 days after the Parties fail to 
+reach agreement by non-binding mediation.
+ 
+  	e) 	DISCOVERY BEFORE ARBITRATION. Prior to any arbitration hearing, 
+discovery shall be limited to: interrogatories; requests for production of 
+documents; exchange of written reports prepared by expert witnesses 
+retained by any party to the proceeding; depositions of such expert 
+witnesses; and depositions of no more than ten (10) witnesses by each 
+party, unless otherwise agreed to by the parties in writing. The Parties 
+shall be entitled to take such discovery from third parties as agreed to or 
+as ordered or approved by the arbitrator(s).
+ 
+  	f) 	JUDGMENT. Judgment upon the award rendered by the arbitrators shall 
+be final and may be entered in any court having lawful jurisdiction 
+thereof.
+ 
+  	g) 	PERFORMANCE PENDING RESOLUTION OF DISPUTE. Unless otherwise agreed 
+in writing, DEI shall continue its services and maintain its progress 
+during any dispute resolution proceedings, and CLIENT shall continue to 
+make payments to DEI in accord with this Agreement.
+
+
+The validity and effect of this Agreement shall be interpreted under the 
+laws of the State of Idaho of the United States, without regard to its 
+rules governing conflict of laws.
+
+
+Article 18 Effective Date, termination
+ 
+18.1 	The terms and conditions herein set forth shall become binding upon 
+the Parties on the EFFECTIVE DATE.
+DEI Agreement Number: 0743.01 	  	- 25/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+18.2 	This Agreement shall be in full force and effect as long as the 
+LICENSED UNIT shall operate and it may not be terminated except that, if 
+one Party makes a gross breach in performing an obligation under this 
+Agreement, the other Party may, after a 30 (thirty) days advance written 
+notice, terminate this Agreement if the defaulting Party has not taken 
+proper measures to remedy its failure.
+ 
+18.3 	In addition to the foregoing, this Agreement may be terminated by 
+CLIENT or DEI if the other Party is adjudged bankrupt, or if the other 
+party makes a general assignment for the benefit of its creditors, or if a 
+receiver is appointed on account of the partys insolvency, or if the other 
+Party persistently or repeatedly refuses or fails, except in cases for 
+which an extension of time is provided, to supply enough properly skilled 
+workmen or proper materials, or if the other Party fails to make proper 
+payment under this Agreement or to subcontractors or for materials or 
+labor, or persistently disregards laws, ordinances, rules, regulations or 
+orders of any public authority having jurisdiction, or otherwise is guilty 
+of a substantial violation of this Agreement. In such event, either CLIENT 
+or DEI, as the case may be, may, without prejudice to any right or remedy 
+and after giving the other Party seven (7) days written notice, during 
+which period the other Party fails to cure the violation, terminate this 
+Agreement and pursue all remedies available to, as applicable, CLIENT or 
+DEI at law or in equity.
+ 
+18.4 	Upon seven days written notice to DEI, CLIENT may, without cause and 
+without prejudice to any other right or remedy of CLIENT, elect to 
+terminate the Agreement. In such case, DEI shall be paid for:
+ 
+  	a) 	Completed and accepted Work Product executed in accord with this 
+Agreement prior to the effective date of termination;
+ 
+  	b) 	Reasonable expenses sustained prior to the effective date of 
+termination in performing services and furnishing labor, materials, or 
+equipment as required by this Agreement in connection with uncompleted Work 
+Product (the reasonable expenses for labor shall be billed and paid in 
+accordance with the rates set forth on Schedule 5);
+ 
+  	c) 	Reasonable expenses incurred by DEI directly attributable to 
+termination; and
+ 
+  	d) 	Any royalty fees and costs due under Article 8 or reasonably 
+expected to be due if the CLIENT constructs a facility at JOBSITE to 
+produce polysilicon.
+ 
+18.5 	If this Agreement is terminated because of breach by CLIENT of 
+provisions of Article 8 (failure to make a payment when due subject to any 
+cure period) or Article 12 (Confidentiality), CLIENT hereby undertakes that 
+it will discontinue the use of the PROCESS, the PROCESS BOOK, and any 
+CONFIDENTIAL INFORMATION.
+ 
+18.6 	In any other case of termination, neither party shall have any 
+further right of obligations under this Agreement, except:
+DEI Agreement Number: 0743.01 	  	- 26/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	a) 	CLIENT shall remain liable under Article 8 for any ROYALTIES, 
+SERVICE FEES, and costs accrued before termination (as explained in Article 
+18.4 above).
+ 
+  	b) 	DEI and CLIENT rights and obligations under Article 15.4 (Reference) 
+hereof shall remain in effect and
+ 
+  	c) 	CLIENTs rights under Article 3 (Grant of license) shall remain in 
+effect to the extent of any fully paid license(s) acquired by CLIENT.
+ 
+18.7 	In no event shall termination of this Agreement:
+ 
+  	a) 	relieve CLIENT or DEI of its restrictions on use, duplication and 
+disclosure of TECHNICAL INFORMATION under Article 12 (Confidentiality) 
+hereof, or
+ 
+  	b) 	affect DEI and CLIENT rights and obligations under Article 17 
+(Conciliation-Arbitration) hereof.
+ 
+18.8 	A Schedule of 41 pages is attached herewith forming a part of this 
+Agreement; however, if a term or provision of this Agreement is to conflict 
+with the content of the Schedule, this Agreement shall prevail.
+ 
+18.9 	Neither Party shall be deemed to be in default or otherwise 
+responsible for delays or failures in performance resulting from acts of 
+God, acts of war or civil disturbance, epidemics, governmental action or 
+inaction, fires, earthquakes, or other causes beyond the affected Partys 
+reasonable control.
+ 
+------------------------------------------------------------------------
+DEI Agreement Number: 0743.01 	  	- 27/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+SCHEDULE 1  PROCESS BOOK  DESIGN PACKAGE SPECIFICATION
+
+
+INTRODUCTION
+ 
+1. 	PROCESS SPECIFICATIONS SECTION
+ 
+  	1.1 	Basis of design
+ 
+  	1.1.1 	Duty of unit
+ 
+  	1.1.2 	Feeds specification
+ 
+  	1.1.3 	Products specification
+ 
+  	1.1.4 	Battery limit conditions
+ 
+  	1.1.5 	Utilities conditions and site information
+ 
+  	1.1.6 	Operating conditions
+ 
+  	1.2 	Unit description
+The process flows, the major equipment items and their purpose or function, 
+the control loops are described based on the process flow diagrams.
+ 
+  	1.3 	Material balances
+Detailed material balances based on expected performances of the process, 
+including impurities, to show TCS product meeting product specification.
+ 
+  	1.4 	Physical and thermal properties of main process streams
+ 
+  	1.5 	Specifications of catalysts and chemicals
+Nature of catalysts, main characteristics, quantities (initial load or 
+consumption).
+ 
+  	1.6 	Utilities
+Estimated figures developed from heat and material balances using assumed 
+usual efficiency figures for the equipment involved in the utility balance.
+ 
+  	1.7 	Waste effluents
+Composition, flow rate, type of treatment or disposal.
+ 
+  	1.8 	Mandatory, recommended and potential suppliers
+ 
+  	1.9 	Documents to be transmitted to DEI for comments or information
+ 
+  	1.10 	Materials of construction
+DEI Agreement Number: 0743.01 	  	- 28/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+2. 	EQUIPMENT PROCESS SPECIFICATIONS SECTION
+
+The Process specifications are given exclusive of any mechanical 
+specification, except for flange rating.
+ 
+  	2.1 	Equipment list
+ 
+  	2.2 	Vessels
+
+
+The Process specifications include a sketch showing the inside dimensions, 
+nozzles size and location, internals arrangement, type of material and 
+recommended corrosion allowance, operating and design conditions, 
+insulation requirement, flange type and rating according to ANSI. 
+Additional sketches showing the process design of the internals are 
+provided.
+ 
+  	2.2.1 	Drums
+ 
+  	2.2.2 	Columns
+ 
+  	2.2.3 	Reactors
+ 
+  	2.3 	Heat exchange equipment
+
+
+The Process specifications include flow rate, applicable physical 
+properties of process streams, fouling factors, heat duty, type of material 
+and recommended corrosion allowance on process side, operating and design 
+conditions, recommended type.
+Vaporization tables showing liquid and vapor rates and physical properties 
+are provided when applicable.
+ 
+  	2.3.1 	Heat exchangers
+ 
+  	2.3.2 	Air coolers
+ 
+  	2.3.3 	Heaters
+ 
+  	2.4 	Rotating machines
+
+
+The Process specifications include operating and design flow rates, 
+applicable physical properties of process streams, operating conditions, 
+available NPSH, type of material on process side, recommended type. Driver 
+recommended type, estimated rated power and operating load are provided.
+ 
+  	2.4.1 	Pumps
+  	
+  	2.4.2 	Compressors
+ 
+  	2.5 	Miscellaneous equipment
+ 
+3. 	PIPING PROCESS SPECIFICATIONS SECTION
+
+Process piping is concerned exclusive of utility piping.
+ 
+DEI Agreement Number: 0743.01 	  	- 29/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Process specifications are given exclusive of any mechanical specification 
+with exception to flange rating according to ANSI.
+ 
+  	3.1 	General notes
+ 
+  	3.1.1 	Recommendations
+ 
+  	3.1.2 	Process piping classes
+(type of material corrosion allowance, flange type and rating)
+ 
+  	3.1.3 	Piping identification system
+ 
+  	3.2 	Piping process specifications
+
+Flow rate, applicable physical properties of process streams, operating and 
+design conditions, process piping classes.
+ 
+4. 	INSTRUMENTATION PROCESS SPECIFICATIONS SECTION
+
+Process specifications are given exclusive of any mechanical specification.
+ 
+  	4.1 	Instruments
+
+Applicable operating conditions and physical properties of process streams, 
+trip and set points for alarms are provided.
+ 
+  	4.1.1 	Flow
+ 
+  	4.1.2 	Level
+ 
+  	4.1.3 	Pressure
+ 
+  	4.1.4 	Temperature
+ 
+  	4.1.5 	Miscellaneous (when applicable)
+ 
+  	4.2 	Valves
+
+Applicable operating conditions and physical properties of process streams, 
+action of the measured variable, position in case of air failure are 
+provided.
+ 
+  	4.2.1 	Control
+ 
+  	4.2.2 	On/off
+ 
+  	4.2.3 	Miscellaneous
+ 
+  	4.3 	Pressure safety valves
+
+Flow rate, operating conditions, applicable physical properties of 
+emergency streams are provided in each emergency case.
+ 
+  	4.4 	Alarms
+
+Only on client request for separate alarm list.
+ 
+DEI Agreement Number: 0743.01 	  	- 30/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	4.5 	Analysis point
+
+List and types to be used.
+ 
+  	4.6 	Analyzers (when applicable)
+ 
+  	4.7 	Hand switch
+ 
+  	4.8 	Shutdown logic and sequence logic (when applicable)
+ 
+  	4.9 	Special loops description (when applicable)
+ 
+5. 	DIAGRAMS SECTION
+ 
+  	5.1 	Symbols and standards
+
+Symbols and standards will be to standard professional engineering 
+standards and will be agreed to at the KICK OFF meeting.
+ 
+  	5.2 	Process flow diagrams
+
+The process flow diagrams show the major equipment with the identification 
+numbers, the main process streams with a number referring to the material 
+balances, the main control loops, the operating temperatures and pressures 
+and estimated duties for heat exchangers and furnaces.
+ 
+  	5.3 	Piping and instrumentation diagrams
+
+I.S.A standard is used for instrumentation symbols and identification. 
+Process piping exclusive of utilities piping is identified according to a 
+code showing the serial number, nominal size, type of material, corrosion 
+allowance, flange type and ANSI rating.
+ 
+6. 	OPERATING INSTRUCTIONS SECTION
+ 
+  	6.1 	Preface of section 6
+ 
+  	6.1.1 	General
+ 
+  	6.1.2 	Compulsory instructions and reference documents
+ 
+  	6.2 	Purpose of the Process
+ 
+  	6.3 	Chemical reactions and catalysts
+ 
+  	6.3.1 	Introduction
+ 
+  	6.3.2 	Chemical reactions
+ 
+  	6.3.3 	Catalyst
+ 
+  	6.3.4 	Process variables
+ 
+DEI Agreement Number: 0743.01 	  	- 31/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	6.4 	Preparation for start-up
+ 
+  	6.4.1 	Chronology of operations
+ 
+  	6.4.2 	Equipment and unit inspection
+ 
+  	6.4.3 	Preliminary operations
+ 
+  	6.4.4 	Drying out of the unit (when applicable)
+ 
+  	6.4.5 	Catalyst loading (when applicable)
+ 
+  	6.4.6 	Special operations (when applicable)
+ 
+  	6.5 	First start-up
+ 
+  	6.5.1 	Status of the unit
+ 
+  	6.5.2 	Chronology of start-up operations
+ 
+  	6.5.3 	} Title and content of chapters to be defined according to the 
+Process
+ 
+  	6.6 	Operation of the Unit
+ 
+  	6.6.1 	Summary of operating conditions
+ 
+  	6.6.2 	Control philosophy of the Process
+ 
+  	6.6.3 	Operating parameters
+ 
+  	6.6.4 	Adjustment of operating conditions
+ 
+  	6.6.5 	Putting the spare reactor into service (when applicable)
+ 
+  	6.6.6 	Putting the spare column into service (when applicable)
+ 
+  	6.6.7 	Troubleshooting (when applicable)
+ 
+  	6.7 	Shutdown and restart of the Unit
+ 
+  	6.7.1 	Normal shutdown
+ 
+  	6.7.2 	Unit restart
+ 
+  	6.7.3 	Emergency shutdown
+ 
+  	6.8 	Adsorbent and Catalyst specifications and special procedures
+ 
+  	6.8.1 	Manufacturer
+ 
+  	6.8.2 	Adsorbent specifications (when applicable)
+ 
+  	6.8.3 	Catalyst specifications (when applicable)
+ 
+  	6.8.4 	Packaging, handling and storage
+ 
+DEI Agreement Number: 0743.01 	  	- 32/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	6.8.5 	} Title and content of chapters to be defined according to the 
+Process
+ 
+  	6.9 	Hazardous and toxic materials
+
+Information on hazardous and toxic substances.
+ 
+  	6.10 	Analytical control
+
+Analytical methods, reference number for standard methods (like ASTM) or 
+full description for specific methods. List of streams to be analysed, list 
+of test for each stream, frequency.
+ 
+  	6.10.1 	Recommended methods and frequency
+ 
+  	6.10.2 	Analytical methods
+------------------------------------------------------------------------
+DEI Agreement Number: 0743.01 	  	- 33/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+SCHEDULE 2  DETAILED ENGINEERING DOCUMENTS TO BE TRANSMITTED TO DEI
+
+(as per Article 7.2).
+ 
+3-a 	For comments (2 copies):
+
+- [*]
+
+- [*]
+
+- [*]
+
+[*]
+
+- [*]
+ 
+3-b 	For information (1 copy):
+
+- [*]
+
+- [*]
+
+- [*]
+
+- [*]
+
+- [*]
+
+- [*]
+ 
+3-c 	Notwithstanding anything to the contrary herein, the foregoing 
+detailed engineering documents shall be limited to those documents related 
+to the PROCESS. CLIENT shall have no obligation to provide any other design 
+documents to DEI pursuant to this AGREEMENT.
+------------------------------------------------------------------------
+DEI Agreement Number: 0743.01 	  	- 34/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+SCHEDULE 3  PERFORMANCE GUARANTEES
+
+ADEFINITIONS
+ 
+A-1 	In addition to the definitions given in Article 1 here above:
+ 
+  	a) 	ADSORBENT means individually or collectively the adsorbent 
+specified hereafter, or any other one that may be timely recommended by 
+DEI.
+ 
+  	b) 	CATALYST means individually or collectively the catalyst specified 
+hereafter, or any other one that may be timely recommended by DEI.
+ 
+  	c) 	CHARGE means, among the feed materials processable in the LICENSED 
+UNIT, the feed material which shall be charged to the LICENSED UNIT to 
+perform the PERFORMANCES TEST PERIOD (as defined hereafter), and which 
+shall have the characteristics specified hereafter.
+ 
+  	d) 	PERIOD means [*].
+ 
+  	e) 	PRODUCT means individually or collectively the effluent material 
+from the LICENSED UNIT having the characteristics given hereafter.
+ 
+  	f) 	PERFORMANCES PROBE means the comparison of the actual performances 
+measured during the PERFORMANCES TEST PERIOD with the PERFORMANCE 
+GUARANTEES herein set forth.
+ 
+  	g) 	PERFORMANCES TEST PERIOD means [*] of the LICENSED UNIT in 
+accordance with the PROCESS BOOK during which the LICENSED UNIT shall be 
+under checking and its actual performances measured.
+ 
+  	h) 	MECHANICAL COMPLETION means the successful completion of 
+mechanical construction of the LICENSED UNIT, in all material respects in 
+accordance with the engineering design specifications furnished by DEI and 
+such detailed design as furnished to or approved by DEI pursuant to Article 
+7.2 of the Agreement, including but not limited to [*]
+ 
+  	i) 	READY FOR START-UP DATE means the date when, after [*].
+ 
+  	j) 	START-UP DATE means the date when, after [*].
+ 
+DEI Agreement Number: 0743.01 	  	- 35/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+BCONDITIONS OF PERFORMANCE GUARANTIES
+ 
+B-1 	DEI guarantees that, subject to the terms and conditions hereafter, 
+the LICENSED UNIT shall meet the PERFORMANCE GUARANTEES shown in the 
+Section I hereafter.
+ 
+B-2 	DEI shall be discharged from any responsibility with regard to any 
+guarantee in the following situations provided that such situation directly 
+affects the performance of the LICENSED UNIT if:
+ 
+  	a) 	Detailed engineering, construction or operation of the LICENSED UNIT 
+(i) is not in accordance with DEIs data and instructions or the LICENSED 
+UNIT is subsequently modified, (ii) employs, for those equipments and 
+supplies designated as qualified in the PROCESS BOOK, vendors (1) outside 
+the list of qualified vendors listed in the PROCESS BOOK or (2) that have 
+not been mutually agreed upon in writing by CLIENT and DEI, (iii) employs 
+defective materials, equipment or standards, or (iv) uses specifications or 
+data that have not been provided by DEI, or otherwise approved in writing 
+by DEI.
+ 
+  	b) 	CLIENT declines to have the team of DEI advisors acting as specified 
+in Sections C-1 or D-1 hereafter.
+ 
+  	c) 	CLIENT declines to have the modifications to the LICENSED UNIT made 
+as requested by DEI under Section G-1 hereafter.
+ 
+  	d) 	The LICENSED UNIT is operated under conditions different from those 
+either specified by DEI or approved in writing by DEI.
+ 
+B-3 	DEI shall be considered to have fulfilled PERFORMANCE GUARANTEES in 
+any of the following events:
+ 
+  	a) 	CLIENT declines to have a PERIOD conducted;
+ 
+  	b) 	A PERFORMANCE PROBE has demonstrated that any of the PERFORMANCE 
+GUARANTEES have been equaled or exceeded during the corresponding PERIOD;
+ 
+  	c) 	Any of the PERFORMANCE GUARANTEES has not been reached but:
+ 
+  	- 	CLIENT is in material breach of any of the payment provisions set 
+forth herein, or
+ 
+  	- 	DEI has already spent its maximum financial liability as set forth in 
+Article 9.3.c of this Agreement, or
+ 
+DEI Agreement Number: 0743.01 	  	- 36/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	- 	CLIENT has refused to comply with DEIs request to replace (or to 
+regenerate as the case may be) a CATALYST and/or ADSORBENT charge which has 
+been damaged by an operating trouble as contemplated in Section D-2-f 
+hereafter.
+ 
+  	d) 	Whenever, without fault of DEI:
+ 
+  	- 	the first PERFORMANCES TEST PERIOD has not been started within [*] 
+from the READY FOR START-UP DATE, or
+ 
+  	- 	the PERFORMANCES TEST PERIOD has not been completed within [*] from 
+same date, or
+ 
+  	- 	CLIENT has materially failed to perform its obligations in the manner 
+set forth in Section D-2-a hereof.
+ 
+  	e) 	CLIENT doe not perform its obligations in accordance with SCHEDULE 
+3.
+
+
+CDEIs ASSISTANCERULES OF CONDUCT OF DEI ADVISORS
+ 
+C-1 	Assistance during the initial stages of operation of the LICENSED UNIT
+ 
+  	a) 	CLIENT shall give DEI a 3 (three) months advance notice of the 
+expected MECHANICAL COMPLETION date.
+ 
+  	b) 	Prior to departure of DEI advisors, DEI will confirm to CLIENT and 
+CLIENT will approve in writing no later than 2 (two) weeks prior to the 
+expected MECHANICAL COMPLETION date, hotel accommodation, local 
+transportation means, possible luggage excess, final composition of the DEI 
+team of advisors, arrival schedule, work organization, on-site facilities, 
+etc.
+
+
+Two (2) DEI advisors shall be present during the following steps:
+ 
+  	- 	inspection established in Section D-1-a hereafter,
+ 
+  	- 	CATALYST and/or ADSORBENT loading operation, if any, referred to in 
+Section D-1-b hereafter,
+
+DEIs complete team (at least one advisor and a Chief Start-up Advisor) 
+shall be present during the following steps:
+ 
+DEI Agreement Number: 0743.01 	  	- 37/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	- 	start-up preparation referred to in section D-1-c hereafter,
+ 
+  	- 	CATALYST and/or ADSORBENT pre-treatment, if any, as described in 
+Section D-1-c hereafter,
+ 
+  	- 	LICENSED UNIT adjustment as described in Section D-1-d hereafter,
+ 
+  	- 	PERFORMANCES TEST PERIOD(s), until the end of the last PERFORMANCE 
+PROBE permitted hereunder.
+ 
+  	c) 	In case of replacement of one of its advisors, DEI undertakes that 
+the new designated advisor shall have the same ability as the replaced one 
+to perform its job under this Agreement.
+ 
+C-2 	Rules of conduct of DEI advisors
+ 
+  	a) 	CLIENT shall be solely in charge of the operations and operating 
+personnel and DEI personnel shall have no authority whatsoever to direct or 
+cause CLIENT or CLIENT personnel to act. All DEI personnel must comply with 
+the regulations then in force at the LICENSED UNIT (safety, secrecy, etc.). 
+CLIENT shall give DEI personnel full facilities and put at their disposal 
+all reasonable means to fulfil their duty.
+ 
+  	b) 	LICENSED UNIT operations must be substantially in accordance with 
+the Operating Instructions furnished to CLIENT by DEI or by DEI Chief 
+Start-up advisor from time to time at the job site. Upon request by CLIENT, 
+DEI personnel shall give full and clear explanation of any such advice and 
+the basis thereof.
+ 
+  	c) 	If CLIENT disagrees with any advice given by DEI, it will state such 
+disagreement in writing with the basis hereof. In the event CLIENT and DEI 
+fail to reconcile their differences of opinion and CLIENT fails to follow 
+the advice, DEI Chief Start-up Advisor will so notify CLIENT in writing.
+ 
+  	d) 	During the Start-up and the initial operation of the LICENSED UNIT 
+and during the PERFORMANCES TEST PERIOD, DEI personnel shall have full 
+discretion to check at reasonable time all instrumentation, data, charts, 
+test results, records and operating logbooks and shall have free access to 
+the control-labs for the purpose of examining the analysis being 
+undertaken.
+ 
+DEI Agreement Number: 0743.01 	  	- 38/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	e) 	Upon request of DEI Chief Start-up Advisor, CLIENT shall provide a 
+sample of any material treated or produced by the LICENSED UNIT or employed 
+in it in order that DEI may have such sample analyzed at its own expense.
+ 
+  	f) 	In the event that the analytical results obtained by the Parties 
+conflict with each other, a sample of the considered product shall be 
+submitted to a mutually agreed upon laboratory. The findings of this 
+laboratory shall be accepted as final and the fees and expenses of such 
+laboratory shall be shared by DEI and CLIENT.
+
+
+DSTART-UP AND TESTING
+
+D-1 Inspection, CATALYST and/or ADSORBENT loading, and Start-up
+
+All the PERFORMANCE GUARANTEES given herein shall be void if DEI 
+representatives are not present in the LICENSED UNIT continuously during 
+the following steps; provided, however, that DEI will exercise its best 
+efforts to be present for such steps when provided reasonable advance 
+notice by CLIENT:
+ 
+  	a) 	Inspection. Prior to the MECHANICAL COMPLETION, DEI will inspect the 
+LICENSED UNIT including the vessels, the piping and the internal parts of 
+the critical equipment such as reactors, columns and the like to verify 
+conformity with process specifications and operation requirements and will 
+establish a list of requested modifications, if any.
+ 
+  	b) 	CATALYST AND/OR ADSORBENT loading. The CATALYST and/or ADSORBENT 
+loading (if any) shall be performed in the presence of DEI advisors after 
+inspection of the internals.
+ 
+  	c) 	Start-up preparation. Promptly after the satisfactory completion of 
+the inspection by DEI under D-1-a above, CLIENT will perform the 
+preparation for start-up according to DEIs instructions. This includes 
+tightness tests, drying, warming and associated activities. Upon completion 
+of Start-up preparation, DEI shall issue a READY FOR START-UP Certificate 
+according to DEI procedures (form in Annex A), for CLIENT approval.
+ 
+  	d) 	Start-up. Promptly after READY FOR START-UP, CLIENT will perform 
+CATALYST and/or ADSORBENT activation if any and put the LICENSED UNIT 
+on-stream according to DEIs instructions when CHARGE, raw materials, 
+utilities and the like are available in suitable quality and in quantities 
+not less than the minimum necessary for a proper operation of the PROCESS.
+DEI Agreement Number: 0743.01 	  	- 39/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+CLIENT shall then conduct such preliminary periods of operation as DEI may 
+deem necessary for adjustment of the LICENSED UNIT.
+ 
+  	e) 	Performance test procedure. Prior to the first PERFORMANCES TEST 
+PERIOD, DEI shall establish and CLIENT shall approve, the procedure for the 
+PERFORMANCES TEST PERIOD, including:
+ 
+  	- 	the program of testing, sampling, and analysis,
+ 
+  	- 	the analytical methods that shall actually be used and the accuracy 
+of such methods,
+ 
+  	- 	the data logging,
+ 
+  	- 	any specific calibration of measures or correction factors that may 
+be used.
+ 
+  	f) 	Preparation for the PERFORMANCES TEST PERIOD. When CHARGE, raw 
+materials, utilities and the like can be continuously provided in the 
+quantities and qualities specified by DEI to run the LICENSED UNIT at the 
+capacity for which the PERFORMANCE GUARANTEES have been established, CLIENT 
+will complete the adjustments required by DEI up to the point where the 
+LICENSED UNIT shall be in a steady state of operation and ready for the 
+PERFORMANCES TEST PERIOD.
+ 
+  	g) 	Miscellaneous- first steps of operation. During this start-up 
+period, CLIENT will have the LICENSED UNIT shutdown or operated under the 
+various operating conditions that DEI advisors may reasonably request. It 
+is understood that they will, as far as possible, take into account the 
+local circumstances and the commercial requirements of the LICENSED UNIT; 
+especially any shut-down shall be made at mutual convenience.
+
+
+D-2 PERFORMANCES TEST PERIOD proceedings:
+ 
+  	a) 	As soon as the LICENSED UNIT is ready for the PERFORMANCES TEST 
+PERIOD and immediately upon the first reasonable request from DEI, CLIENT 
+shall begin the PERFORMANCE TEST PERIOD. DEI advisors made available under 
+Section C-1-a hereof shall be at all times in attendance prior to and 
+during the PERFORMANCE TEST PERIODS. Otherwise, Section E-1 shall apply.
+ 
+  	b) 	During this period, the LICENSED UNIT shall be operated and 
+controlled in accordance with the procedure set up beforehand as foreseen 
+in Section D-1-e.
+DEI Agreement Number: 0743.01 	  	- 40/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	c) 	A portion of all the samples collected and all the records made 
+during the PERFORMANCES TEST PERIOD, shall be retained until all analysis 
+and examinations are completed and the PERFORMANCES PROBE made.
+ 
+  	d) 	All results shall be examined jointly by the Parties. DEI shall 
+issue a complete PERFORMANCE PROBE report setting forth those results and 
+indicating whether the PERFORMANCE GUARANTEES have been met, for approval 
+by CLIENT.
+ 
+  	     	If the PERFORMANCE GUARANTEES have been met, CLIENT and DEI shall 
+sign the PERFORMANCES PROBE Certificate, substantially in the form 
+specified in Annex B hereof.
+ 
+  	e) 	The performances that shall be taken into account for comparison 
+with the PERFORMANCE GUARANTEES shall be the average of the data obtained 
+during the whole PERIOD under consideration.
+ 
+  	f) 	If DEI ascertains that certain damages have been caused to the 
+CATALYST and/or ADSORBENT charge, then DEI shall have the right to require 
+CLIENT either to replace or to regenerate it before commencing a PERIOD.
+
+
+D-3 Substitute PERFORMANCE GUARANTEES
+ 
+  	a) 	At any time prior to completion of a PERIOD, CLIENT may request of 
+DEI in writing substitute PERFORMANCE GUARANTEES to those of Section I 
+hereof on the basis of CLIENTs desire to process a different feed material 
+that is not within the specified parameters for CHARGE.
+ 
+  	b) 	If DEI believes, in its sole reasonable discretion, that such 
+alternate feed material can be processed in the LICENSED UNIT using the 
+PROCESS and no additional studies or pilot plant work is necessary, DEI 
+will propose reasonable substitute PERFORMANCE GUARANTEES to those of 
+Section I hereof, based on the alternate feed material.
+ 
+  	c) 	Within 30 (thirty) days from receipt of the substitute PERFORMANCE 
+GUARANTEES, CLIENT must elect in writing to either accept the substitute 
+PERFORMANCE GUARANTEES or retain the original PERFORMANCE GUARANTEES.
+DEI Agreement Number: 0743.01 	  	- 41/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+EDELAYS AND INTERRUPTIONS
+ 
+E-1 	Should the PERFORMANCES TEST PERIOD have to be delayed, CLIENT shall 
+bear any and all DEIs expenses so involved by the presence of DEIs 
+personnel except in the event such delay is solely caused by DEI, provided 
+that in any such event, the periods set forth in Section B-3-d shall be 
+extended for a time equal to the duration of said delay.
+ 
+E-2 	If a PERIOD has been interrupted or disturbed for causes beyond DEIs 
+control, and provided that the period established in Section B-3-d is not 
+terminated, a new PERIOD shall be conducted but, at DEIs option, the 
+testing time before the interruption or disturbance may be included in this 
+new PERIOD.
+
+
+FFAILURE TO MEET PERFORMANCE GUARANTEES
+ 
+     	If, for reasons substantially attributable to DEI the PERFORMANCE 
+GUARANTEES have not been obtained during a first PERIOD, DEI shall have the 
+right to request that up to [*] be conducted provided that:
+ 
+  	a) 	When additional [*] are concerned, none shall be allowed to be made 
+after [*] (excepting the time such PERIOD could not be conducted for 
+reasons beyond the control of DEI),
+ 
+  	b) 	In order to allow DEI to determine the cause of failure and to 
+decide of further adjustments, the provisions of Section D-1 shall apply.
+ 
+  	c) 	The test procedures of any additional PERIOD shall be those of the 
+original corresponding one.
+
+
+GMODIFICATIONS TO THE LICENSED UNIT
+ 
+G-1 	Until completion of the last PERIOD permitted hereunder, DEI may 
+request CLIENT in writing to have modifications or additions or 
+replacements made to the LICENSED UNIT in order to correct deficiencies in 
+LICENSED UNIT performance, provided that such amendments shall, as far as 
+possible, take into account the local circumstances and the commercial 
+requirements of the LICENSED UNIT and not result in an appreciable 
+alteration of the cost or profitability of the LICENSED UNIT.
+ 
+G-2 	At CLIENTs request DEI shall advise CLIENT on the effect of such 
+modifications, additions or replacements.
+ 
+G-3 	
+
+When such amendments are required due to errors attributable to DEI, DEI 
+shall carry out, free of charge, the process-engineering studies necessary 
+for making
+
+DEI Agreement Number: 0743.01 	  	- 42/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	
+those, as may be required to correct such error, within DEIs aggregate 
+liability limitation under Article 9.3c of this Agreement.
+
+
+H[RESERVED]
+
+
+IPERFORMANCE GUARANTEES
+ 
+I-1 	CHARGE Specifications
+ 
+     	The PERFORMANCE GUARANTEES are based on the CHARGE with the 
+following raw materials compositions:
+
+I-1.1. [*]
+ 
+  	  	Item 	  	Parameter w/w
+  	
+
+ [*]
+
+  	[*]
+
+
+I-1.2. [*]
+
+[*]
+ 
+  	  	Item3 	  	Parameter v/v
+  	  	  	  	[*]
+  	
+
+ [*]
+
+  	  	  	[*]
+
+
+I-1.3. [*]
+
+[*]
+ 
+  	  	Item 	  	Parameter v/v
+  	
+
+ [*]
+
+  	[*]
+ 
+     	The impurities profiles for each raw material shall be finalized in 
+writing and signed by the CLIENT and DEI at the KICK-OFF DATE.
+DEI Agreement Number: 0743.01 	  	- 43/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+I-2 	[*] Specifications
+ 
+     	The PERFORMANCE GUARANTEES are based on the [*] with the following 
+composition:
+ 
+Item 	   	[*] to
+Purification
+Parameter v/v
+
+ [*]
+
+   	TBD
+
+ [*]
+
+   	TBD
+
+ [*]
+
+   	TBD
+
+ [*]
+
+   	TBD
+
+ [*]
+
+   	TBD
+
+ Minor Impurities
+
+   	TBD
+ 
+I-3 	[Reserved]
+ 
+I-4 	PRODUCT Definition
+ 
+     	The PRODUCT is the Trichlorosilane material leaving the LICENSED UNIT 
+having the average properties listed below:
+ 
+  	  	  	 
+Type 	   	Bulk elements 	   	Value 	   	Unit
+  	  	  	 
+
+ Acceptors
+
+   	[*] 	   	[*] 	   	[*]
+  	  	  	 
+
+ Donors
+
+   	[*] 	   	[*] 	   	[*]
+  	  	  	 
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+  	  	  	 
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+  	  	  	 
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+  	  	  	 
+
+ [*]
+
+   	[*] 	   	[*] 	   	[*]
+ 
+I-5 	PERFORMANCES GUARANTEESPURITY
+
+When the LICENSED UNIT is fed with appropriate quantities of CHARGE and 
+with all necessary raw materials, as set forth in DEI Operating 
+Instructions, when it is operated under the conditions prescribed by DEI, 
+then the LICENSED UNIT shall be capable to process [*] of the quantity of 
+CHARGE retained as design capacity in DEI Process-Book,
+ 
+DEI Agreement Number: 0743.01 	  	- 44/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+a) the total [*] content (including trace [*] and [*] of less than [*] 
+total) in the PRODUCT shall not be less than [*], [*] being [*].
+
+b) the total [*] content in the PRODUCT shall not be more than [*], [*] 
+being [*].
+
+c) the total [*] content in the PRODUCT shall not be more than [*], [*].
+
+d) the total [*] content in the PRODUCT shall not be more than [*], [*].
+
+e) the total [*] content in the PRODUCT shall not be more than [*], [*] 
+being [*].
+
+
+The foregoing purity guarantees I-5(a)-(e) shall be measured by a third 
+party laboratory that is reasonably acceptable to CLIENT and DEI.
+ 
+I-6 	PERFORMANCES GUARANTEESPRODUCTION RATES AND RECOVERY
+ 
+  	1. 	The production rate is the amount of [*] produced by the UNIT. For a 
+2,500 tpa Polysilicon plant, the UNIT produces a minimum of [*].
+ 
+  	2. 	Product Recovery is the guaranteed product recovery for [*] for the 
+UNIT. The UNIT recovers a minimum of [*] of the [*] as [*].
+ 
+  	     	The recovery for PERFORMANCE GUARANTEES purposes shall be computed 
+as follows:
+
+Recovery = Amount of [*]
+                      Amount of [*]
+
+
+J  ROYALTY CALCULATION
+ 
+  	     	The Royalty amount shall be M1 and M2 and the greater of M3 and 
+M4. The aggregate value of royalty, including M1, M2 and the greater of M3 
+or M4, shall not exceed the maximum royalty specified in Article a) of this 
+Agreement.
+ 
+J-1 	PERFORMANCES ROYALTY CALCULATION  Production Rates and Recovery
+ 
+  	a) 	Capacity Flexibility. If, during the last [*] permitted under 
+Section F, the UNIT has processed C per cent of the design capacity of [*], 
+instead of [*] as shown in Section I-6 above, the following computation 
+shall be made where M1, is quoted in US$:
+
+M1 = [*]
+ 
+DEI Agreement Number: 0743.01 	  	- 45/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+  	b) 	If, during the last [*] permitted under Section F, the UNIT has 
+recovered R1 per cent of the [*] instead of [*] as shown in Section I-6 
+above, the following computation shall be made where M2, is quoted in US$:
+
+M2 = [*]
+ 
+J-2 	PERFORMANCES ROYALTY CALCULATION  Purity
+
+If, during the last [*] permitted under Section F:
+ 
+  	a) 	the quantity of [*] in the PRODUCT has been S1 (as a percentage, 
+including less than [*] and [*] total) instead of [*], as shown in section 
+I-5a) above,
+ 
+  	     	The following computation shall be made where (M3) is quoted in 
+US$:
+
+M3 = [*]
+ 
+  	b) 	the quantity of total [*] content in the PRODUCT has been S2 (in 
+[*]) instead of [*], as shown in section I-5b) above,
+ 
+  	     	the quantity of total [*] content in the PRODUCT has been S3 (in 
+[*]) instead of [*] as [*], as shown in section I-5c) above,
+ 
+  	     	the quantity of total [*] content in the PRODUCT has been S4 (in 
+[*]) rather than [*] as [*], as shown in section I-5d) above,
+ 
+  	     	the quantity of total Metals content in the PRODUCT has been S5 
+(in [*]) rather than [*] as shown in section I-5e) above,
+ 
+  	     	The following computation shall be made where (M4) is quoted in 
+US$:
+
+M4 = [*]
+ 
+  	The 	aggregate value of royalty, including M1, M2, and the greater of M3 
+or M4, shall not exceed the maximum royalty specified in Article a) of this 
+Agreement.
+ 
+------------------------------------------------------------------------
+DEI Agreement Number: 0743.01 	  	- 46/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+ANNEX A TO SCHEDULE 3
+ 
+Time: 	   	 
+Date:
+ 
+Page:
+   	
+49 /1
+
+
+CERTIFICATE
+READY-FOR-START-UP-DATE
+ 
+Contractor:
+ 
+Location  Country:
+ 
+Agreement Number:
+ 
+Date of Agreement :
+ 
+Between DEI and :
+
+Job references
+ 
+DEI Reference Number:
+ 
+Client:
+ 
+Location:
+ 
+Unit:
+ 
+  	 	  	
+
+Ready-for-Start-Up-Date:
+
+  	     	Unit is considered as READY FOR START-UP on
+ 
+Day 	   	Month 	   	Year
+  	   	  	   	 
+
+
+The Ready-for-Start-up-Date corresponds to:
+ 
+  	- 	for catalytic units: the date when, after mechanical completion, the 
+catalysts have been loaded in the unit, the reaction section has been 
+connected with the rest of the unit, and the isolation devices removed or 
+deactivated.
+  	- 	for adsorption units: the date when, after mechanical completion, the 
+adsorbents have been loaded in the unit,
+  	- 	for non catalytic units: the date when, after mechanical completion, 
+the feed has been injected in the unit for the first time.
+ 
+  	 	  	
+
+Date of Performance Test:
+
+  	     	In accordance with the above-referenced Agreement, the PERFORMANCE 
+TEST shall be performed as soon as unit has been started, with operating 
+conditions adjusted, and within . days after this Ready-for-Start-up-Date.
+ 
+For DEI
+DEI Representative:
+ 
+ 
+ 
+  	For
+Date: 	  	Date:
+
+Copy:     Contractor, Client, DEI
+ 
+DEI Agreement Number: 0743.01 	  	- 47/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+ANNEX B TO SCHEDULE 3
+
+
+FORM OF PERFORMANCES PROBE CERTIFICATE
+ 
+Chrono: 	   	 
+Date: 	   	 
+Page: 	   	50 /1
+
+
+PERFORMANCES PROBE*
+Contractor:
+ 
+Location  Country:
+ 
+Agreement Number:
+ 
+Date of Agreement :
+ 
+Between DEI and :
+
+Job references
+ 
+DEI Reference Number:
+ 
+Client:
+ 
+Location:
+ 
+Unit:
+
+In accordance with the above Agreement, a PERFORMANCES TEST PERIOD has been 
+performed at _____________% feed capacity, from __________________ to 
+__________________( ___________hours).
+ 
+* 	PRODUCT PROBE in former agreement
+ 
+CC: 	-Contractor
+     	-Client
+     	-DEI
+ 
+DEI Agreement Number: 0743.01 	  	- 48/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Comparison between results and PERFORMANCE GUARANTEES is summarized here 
+after:
+ 
+  	  	 
+
+ Charge (Feed)
+
+   	TEST RESULTS
+ 
+   	DESIGN
+   	Average Figures 	   	/ Range 	  
+  	  	 	 
+
+ Feed Rate or % Capacity:
+
+   	  	   	  	   	 
+  	  	 	 
+ Main Characteristics:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   	  	   	 	   	 
+  	  	  	 
+
+ Product specifications
+
+   	  	   	  	   	PERFORMANCE GUARANTEES
+  	  	 	 
+  	   	  	   	  	   	 
+
+
+All PERFORMANCE GUARANTEES figures (Product specifications and Production) 
+have been satisfied.
+ 
+For DEI
+DEI Representative:
+ 
+ 
+ 
+ 
+  	For
+Date: 	  	Date:
+
+Copy:
+DEI Agreement Number: 0743.01 	  	- 49/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+ANNEX C TO SCHEDULE 3
+
+
+CLIENTs ANNUAL CAPACITY DECLARATION FOR THE YEAR             
+ 
+Time:
+Date:
+ 
+Contractor:
+ 
+State  Town  Location:
+ 
+Agreement Number:
+ 
+Date of Agreement :
+ 
+Between DEI and :
+
+
+
+    Job references
+ 
+DEI Job number:
+ 
+Client:
+ 
+Location:
+ 
+LICENSED UNIT:
+ 
+Quantity of charge 	  	  	  	 
+Quantity of product 	  	  	  	 
+Stream factor 	  	  	  	 
+Royalty paid (cumulative) 	  	  	  	 
+Royalty due (cumulative) 	  	  	  	 
+Royalty due (for this year) 	  	  	  	 
+ 
+DEI Agreement Number: 0743.01 	  	- 50/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+SCHEDULE 4  DEI PATENTS
+ 
+1. 	U.S. Patent Application Serial No. 60/968,703
+Title: PROCESS FOR PRODUCING TRICHLOROSILANE
+Process for preparing high purity Trichlorosilane from by-products of the 
+primary reaction utilizing Silicon and/or by-products of the improved 
+Siemens process
+ 
+2. 	U.S. Patent Application Serial No. 60/968,679
+Title: SILICON AND CATALYST MATERIAL PREPARATION IN A PROCESS FOR PRODUCING 
+TRICHLOROSILANE
+Process for preparing trichlorosilane by reacting silicon with hydrogen 
+chloride and catalysts
+DEI Agreement Number: 0743.01 	  	- 51/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+SCHEDULE 5  DEIs SERVICE FEES
+
+The SERVICE FEES to be paid by CLIENT to DEI shall include the following:
+
+1. Compensation for providing the WORK PRODUCT shall be billed and paid by 
+CLIENT per the attached Job Classification and Compensation Schedule, which 
+shows the fully computed Base Rate, Payroll Burden, Overhead Costs, per 
+hour (each as defined below) for each direct labor hour worked by DEIs 
+personnel, plus all fee and profit being charged by DEI.
+
+
+2. Travel Expenses
+Travel and living expenses incurred for personnel assignments will be 
+billed at actual costs. Per Diem may be used for long-term assignments. 
+Mileage charges for use of personal or company car will be at the current 
+IRS allowable rate.
+
+
+3. Expenses (In-house Reimbursables)
+  	a). 	All of the following expenses are included in a charge of [*] per 
+billable hour.
+
+Dynamic Engineering, Inc. reproduction and prints
+Communications (local & long distance telephone, fax, e-mail)
+Office equipment, materials and consumables
+CAD and Engineering Computers
+ 
+  	b). 	Certain higher-level third party computer programs used for 
+simulation, analysis and design shall be billed at a charge of [*] per hour 
+of use. This includes, but is not limited to, [*].
+ 
+  	c). 	The following expenses shall be billed at cost:
+
+Courier service and overnight mail
+On-site communications such as local cellular phone service
+Electronic copies on media
+ 
+  	d). 	The following expenses shall be billed at cost [*]:
+
+Outside reproduction and printing (including blueprinting)
+Sub consultants, subcontracted, and special services
+Equipment and materials purchased specifically to perform the work of the 
+project
+DEI Agreement Number: 0743.01 	  	- 52/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Annex A to Schedule 5Job Classification and Compensation Schedule
+
+
+PROFESSIONAL, TECHNICAL AND PROJECT STAFF
+
+
+Services performed by Dynamic Engineering, Inc. shall be compensated at the 
+following hourly billing rates:
+ 
+Position*
+   	
+Hourly Billing
+Rate
+   	Position* 	   	
+Hourly Billing
+Rate
+
+ Engineer/Specialist I/II
+
+   	[*] 	   	Drafter I/II 	   	[*]
+
+ Engineer/Specialist III
+
+   	[*] 	   	Drafter III 	   	[*]
+
+ Engineer/Specialist IV
+
+   	[*] 	   	Drafter IV 	   	[*]
+
+ Engineer/Specialist V
+
+   	[*] 	   	Designer I 	   	[*]
+
+ Engineer/Specialist VI
+
+   	[*] 	   	Designer II 	   	[*]
+
+ Engineer/Specialist VII
+
+   	[*] 	   	Designer III 	   	[*]
+
+ Principal in Charge
+
+   	[*] 	   	Designer IV 	   	[*]
+
+ Engineering Assistant
+
+   	[*] 	   	TCS Engineering
+Specialist III
+   	[*]
+ TCS Engineering
+ Specialist II
+   	[*] 	   	TCS Engineering
+Specialist I
+   	[*]
+
+
+*Based on National Society of Professional Engineers (NSPE) position 
+descriptions as edited by Dynamic Engineering, Inc. Certain individuals 
+with special expertise may be charged out at a rate independent of the Rate 
+Schedule.
+DEI Agreement Number: 0743.01 	  	- 53/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Schedule 6
+
+FORM OF CONSENT AND AGREEMENT
+
+
+This CONSENT AND AGREEMENT, dated as of [            ], 2007 (as amended, 
+restated, supplemented or otherwise modified from time to time, this 
+Consent), is entered into by and among DYNAMIC ENGINEERING INC., a 
+Michigan corporation (together with its successors and assigns, the 
+Contracting Party), HOKU MATERIALS, INC., a Delaware corporation 
+(together with its successors and assigns, the Borrower), and [           
+ ], in its capacity as Collateral Agent for the Secured Parties (as defined 
+below) (together with its successors, designees and assigns in such 
+capacity, the Agent) under the Intercreditor Agreement (as defined 
+below).
+
+
+RECITALS
+
+A. The Borrower has entered into a Credit Agreement, dated as of [          
+  ], 2007 (as amended, restated, supplemented or otherwise modified from 
+time to time, the Credit Agreement), by and among the Borrower, the 
+financial institutions from time to time parties thereto as lenders, and [  
+          ], as administrative agent (the Administrative Agent).
+
+
+B. The Contracting Party has entered into ENGINEERING SERVICES & TECHNOLOGY 
+TRANSFER AGREEMENT NUMBER: 0743.01, dated as of [            ], 2007, (as 
+amended, restated, supplemented or otherwise modified from time to time, 
+the Contract), with the Borrower.
+
+
+C. The Borrower intends to finance certain costs in connection with the 
+development, construction, operation, maintenance and ownership of a 
+polysilicon producing processing plant with a nominal capacity of 2,000 
+metric tons per year, located in Pocatello, Idaho (the Project), with 
+funds borrowed by the Borrower pursuant to the terms of the Credit 
+Agreement.
+
+
+E. As collateral security for all obligations of the Borrower to the 
+Secured Parties (as defined below), the Borrower has, inter alia, assigned 
+all of its rights, title and interest (the Assigned Interests) in, to and 
+under the Contract to the Agent pursuant to a Security Agreement, dated as 
+of [            ], 2007 (as amended, restated, supplemented or otherwise 
+modified from time to time, the Security Agreement), made by the Borrower 
+in favor of the Agent for the benefit of certain secured parties described 
+therein (the Secured Parties) and in that certain Collateral Agency and 
+Intercreditor Agreement, dated as of [            ], 2007 (as amended, 
+restated, supplemented or otherwise modified from time to time, the 
+Intercreditor Agreement), among the Borrower, Hoku Materials Holdings, 
+Inc., the Agent, the Administrative Agent, the Contracting Party and the 
+other Secured Parties party thereto.
+
+
+F. Pursuant to the terms of the Intercreditor Agreement, the Secured 
+Parties have appointed the Agent as collateral agent on their behalf and 
+authorized the Agent to take
+DEI Agreement Number: 0743.01 	  	- 54/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+certain actions and exercise such powers under the Secured Obligation 
+Documents (as defined in the Intercreditor Agreement) as are provided for 
+therein.
+
+
+G. The Borrower has requested that the Contracting Party and the other 
+parties hereto execute and deliver this Consent in fulfillment of certain 
+obligations of the Borrower under the Credit Agreement.
+
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing premises and for good and 
+valuable consideration, the receipt and sufficiency of which is hereby 
+acknowledged, and intending to be legally bound, the parties hereto agree 
+as follows:
+
+1. Consent and Agreements.
+
+(a) Subject to the terms and conditions of this Consent, the Contracting 
+Party acknowledges and consents to the assignment as collateral security to 
+the Agent, for the benefit of the Secured Parties, of the Assigned 
+Interests. The Contracting Party further acknowledges the right of Agent or 
+any designee of Agent, in exercise of Agents rights and remedies as a 
+secured creditor of Borrower, to make all demands, give all notices, take 
+all actions and exercise all rights of Borrower under the Contract.
+
+(b) The Agent shall be entitled (but not obligated) to cure any defaults of 
+the Borrower under the Contract in accordance with the provisions hereof. 
+Upon receipt by the Contracting Party of written notice from the Agent, the 
+Contracting Party agrees to (i) accept such cure by the Agent and, subject 
+to the terms and conditions of the Contract and cure of such defaults, to 
+render to the Secured Parties all performance due by it under the Contract 
+and this Consent, and (ii) act solely on the instructions of the Agent, not 
+the Borrower, with respect to the exercise of the Borrowers rights under 
+the relevant Contract. The Contracting Party agrees to make all payments to 
+be made by it under the Contract directly to the Agent for the benefit of 
+the Secured Parties upon receipt of the Agents written instructions to do 
+so and any such payments made to the Agent by the Contracting Party shall 
+be deemed to have been made by the Contracting Party in fulfillment of the 
+Contracting Partys obligations to the Borrower under the Contract.
+
+(c) In all cases except as provided in the Contract or required by law, and 
+in accordance with Section 1(e) hereof, the Contracting Party will not, 
+without the prior written consent of the Agent (such consent not to be 
+unreasonably withheld), (i) cancel or terminate the Contract or suspend 
+performance of its services thereunder, or consent to or accept any 
+cancellation, termination or suspension thereof by the Borrower, (ii) amend 
+the Contract [NOTE: Exceptions will be limited to Change Orders otherwise 
+permitted under the Credit Agreement], or (iii) sell, assign or otherwise 
+dispose (by operation of law or otherwise) of any part of its rights, title 
+or interest in the Contract. The Contracting Party agrees to deliver copies 
+of all notices of default, notices of the suspension of performance by
+DEI Agreement Number: 0743.01 	  	- 55/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Contracting Party, notices of force majeure or requests for change orders 
+delivered by Contracting Party to Borrower under or pursuant to the 
+Contract to the Agent promptly upon delivery thereof.
+
+(d) The Contracting Party will not terminate or suspend performance of the 
+Contract on account of any default or breach of the Borrower thereunder 
+without written notice to the Agent and first providing to the Agent (i) 30 
+days from the date notice of default or breach is delivered to the Agent to 
+cure such default if such default is the failure to pay amounts to the 
+Contracting Party which are due and payable under the Contract, or (ii) a 
+reasonable period, but not fewer than 60 days, to cure such breach or 
+default if the breach or default cannot be cured by the payment of money to 
+the Contracting Party so long as the Agent, the Borrower or their 
+respective designee shall have commenced to cure the breach or default 
+promptly following such notice and in any case within such 60-day period 
+and thereafter diligently pursues such cure to completion (but in any event 
+within not more than 120 days) and during such cure period performs all 
+monetary obligations under the Contract and all other obligations under the 
+Contract are performed by the Borrower or the Agent or their respective 
+designees. For the avoidance of doubt and solely for the purposes of the 
+preceding sentence, amounts not paid and subject to a dispute in good faith 
+by the Borrower shall not be deemed to be a payment default. The 
+Contracting Party shall not hinder the Agents or its designees efforts, 
+and shall provide reasonable cooperation to the Agent and its designees, in 
+effecting any cure of any default or breach of the Borrower under the 
+Contract. Except in the event of a payment default under the Contract, if 
+possession of the Project is necessary to cure such breach or default, and 
+the Agent or its designees or assignees declares the Borrower in default 
+under the Credit Agreement and within the 60-day period described above 
+commences foreclosure proceedings, the Agent or its designees or assignees 
+shall be allowed a reasonable period to complete such proceedings so long 
+as (A) the Agent proceeds diligently and in good faith to do so and during 
+such period performs all monetary obligations under the Contract, and (B) 
+all other obligations under the relevant Contract are performed by the 
+Borrower or the Agent or their respective designees. If the Agent or its 
+designees or assignees are prohibited by any court order or bankruptcy or 
+insolvency proceedings from curing the default or from commencing or 
+prosecuting foreclosure proceedings, the foregoing time periods shall be 
+extended by the period of such prohibition so long as (1) the Agent 
+proceeds diligently and in good faith to address such impediments and 
+during such period performs all monetary obligations under the Contract, 
+and (2) all other obligations under the Contract are performed by the 
+Borrower or the Agent or their respective designees. The Contracting Party 
+consents to the transfer of the Borrowers interest under each Contract to 
+the Agent or any purchaser, successor, assignee and/or designee (a 
+Subsequent Transferee) of the Assigned Interests at a foreclosure sale by 
+judicial or nonjudicial foreclosure and sale or by a conveyance by the 
+Borrower in lieu of foreclosure and agrees that, notwithstanding
+DEI Agreement Number: 0743.01 	  	- 56/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+any provision of the Contract to the contrary, upon such foreclosure, sale 
+or conveyance, the Agent or such Subsequent Transferee shall be substituted 
+for the Borrower under the Contract and the Contracting Party (a) shall 
+recognize the Agent or the Subsequent Transferee, as the case may be, as 
+its counter-party under the Contract, and (b) perform its obligations under 
+the Contract in favor of the Agent or the Subsequent Transferee, as the 
+case may be; provided that the Agent or such Subsequent Transferee (i) has 
+elected to assume the rights and obligations of the Borrower (including the 
+obligation to cure any then existing payment and performance defaults, but 
+excluding any obligation to cure any then existing performance defaults 
+which by their nature are incapable of being cured and which default that 
+is incapable of being cured does not materially and adversely affect the 
+rights of the Contracting Party under the Contract) under the Contract, and 
+(ii) would reasonably be expected to have the capability to perform the 
+Borrowers obligations under the Contract.
+
+(e) Subject to payment of all amounts due and unpaid to the Contracting 
+Party and cure of all then existing payment and performance defaults, but 
+excluding any obligation to cure any then existing performance defaults 
+which by their nature are incapable of being cured and which default that 
+is incapable of being cured does not materially and adversely affect the 
+rights of the Contracting Party under the Contract, in the event the 
+Contract is rejected or terminated by a trustee or debtor in possession in 
+any bankruptcy or insolvency proceeding, or if the Contract is terminated 
+for any reason other than a default which could have been but was not cured 
+by the Agent as provided in Section 1(e) hereof, and if, within 45 days 
+after such rejection or termination, the Agent shall so request, the 
+Contracting Party shall execute and deliver to the Agent a new Contract 
+having substantially identical terms to the Contract (subject to any 
+conforming changes necessitated by the substitution of parties and such 
+changes as may be necessary to compensate the Contracting Party for 
+schedule and cost adjustments resulting from the passage of time).
+
+(f) In the event the Agent or its designees or assignees elect to perform 
+the Borrowers obligations under a Contract or a new Contract is entered 
+into as provided above in Sections 1(e) or (f), respectively, the liability 
+of the Agent, or its designees or assignees, as the case may be, to the 
+Contracting Party for the performance of obligations under such Contract, 
+and the sole recourse of the Contracting Party in seeking the enforcement 
+of such obligations, shall be limited to such parties rights, title and 
+interest in the Project.
+
+(g) Except as provided in Sections 1(e), (f) and (g) above, neither the 
+Agent, its designees or assignees shall have any obligation or liability 
+under the Contract, nor shall the Agent, its designees or assignees be 
+obligated to perform any of the obligations or duties of the Borrower under 
+the Contract or to take any action or collect or enforce any claim for 
+payment or performance of the Assigned Interests. Within 30 or 60 days, as 
+the case may be pursuant to Section 1(e), of
+DEI Agreement Number: 0743.01 	  	- 57/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+being notified by the Contracting Party that a Borrower default or breach 
+has occurred under the Contract, the Agent shall notify the Contracting 
+Party of its intent whether or not to cure any such Borrower default or 
+breach. In the event the Agent fails to notify the Contracting Party within 
+the time period described in the foregoing sentence that the Agent will 
+cure such default or breach, the Contracting Party shall be entitled to 
+assume that the Agent has elected not to cure such default or breach and 
+the Contracting Party may then exercise all rights that the Contracting 
+Party would have under the Contract, without regard to the provisions of 
+this Consent. In the absence of such notice, no performance by the Agent, 
+its designees or assignees under or pursuant to this Consent or otherwise 
+(whether to cure a Borrower default or exercise rights under any provision 
+hereof or otherwise) shall be construed as an assumption by the Agent, its 
+designees or assignees of the obligations and duties of the Borrower under 
+the Contract, unless otherwise expressly agreed in writing by the Agent, 
+its assignees or designees, as the case may be. The Agent shall have the 
+right to assign all or a pro rata interest in a Contract or a new Contract 
+entered into pursuant to Section 1(f) to a person or entity to whom the 
+Project is transferred, provided such transferee (i) assumes the 
+obligations of the Borrower (or the Secured Parties) under such Contract 
+and cure of any material defaults under such Contract has been effected as 
+provided herein, and (ii) would reasonably be expected to have the 
+capability to perform the Borrowers obligations under such Contract. Upon 
+such assignment, the Agent and the Secured Parties (including their agents 
+and employees) shall be released from any further liability thereunder to 
+the extent of the interest assigned.
+
+
+2. Borrowers Acknowledgment. The Borrower acknowledges and agrees that the 
+Contracting Party is authorized to act in accordance with the Agents 
+exercise of the Borrowers rights in accordance with this Consent, and the 
+Contracting Party may rely on any notice or instruction by the Agent in the 
+purported exercise of the Agents rights and remedies hereunder.
+
+
+3. Legal Opinion. The Contracting Party hereby agrees to deliver to the 
+Agent a legal opinion (which may be from a senior in-house counsel), dated 
+as of the dated hereof, substantially in form attached hereto as Exhibit A.
+
+
+4. Payment of Monies. The Contracting Party hereby agrees to make all 
+payments to be made by it to the Borrower under the Contract by wire 
+transfer directly to:
+ 
+  	(a) 	for all payments not covered by clause (b) hereof:
+
+[            ]
+
+ABA [            ]
+
+[            ]
+
+Account Number: [            ]
+
+FFC: Account No. [            ]
+DEI Agreement Number: 0743.01 	  	- 58/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+REF: [Hoku Materials] Revenue Account; or
+
+(b) for all payments of liquidated damages and insurance proceeds:
+
+
+[                                    ]
+
+ABA [                        ]
+
+[                                    ]
+
+Account Number: [            ]
+
+FFC: Account No. [            ]
+
+REF: [Hoku Materials] Loss Proceeds Account,
+
+and any notices to [Depositary Bank] may be given to the following address:
+
+[                                    ]
+
+[                                    ]
+
+[                                    ]
+
+[                                    ]
+
+Attn: [                                    ]
+
+Telephone: [                            ]
+
+Facsimile: [                            ]
+
+Notwithstanding the foregoing, (i) if the Agent shall notify the 
+Contracting Party in writing that an Event of Default under the Credit 
+Agreement has occurred and is continuing, the Contracting Party shall make 
+all payments to be made by it to the Borrower under the Contract directly 
+to the Agent, for the benefit of the Secured Parties, to an account 
+designated by the Agent in such written notice, and (ii) if any person has 
+elected to become a Subsequent Transferee, then the Contracting Party shall 
+make all payments to be made by it to the Borrower under the Contract 
+directly to such Subsequent Transferee. Any payments made by the 
+Contracting Party as provided under this Section 4 shall be deemed to have 
+been made by the Contracting Party in fulfillment of the Contracting 
+Partys obligations under the Contract.
+
+
+5. Representations and Warranties. The Contracting Party hereby represents 
+and warrants, for the benefit of the Agent and the Secured Parties, as of 
+the date hereof, that:
+
+
+(a) it (i) is duly organized, validly existing and in good standing under 
+the laws of [                    ], and (ii) has all requisite 
+organizational power and authority necessary to execute, deliver and 
+perform its obligations under this Consent and the Contract;
+ 
+DEI Agreement Number: 0743.01 	  	- 59/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+(b) the execution, delivery and performance by the Contracting Party of the 
+Contract and this Consent have been duly authorized by all necessary 
+corporate action, and do not and will not require any further consents or 
+approvals which have not been obtained, or violate any provision of any 
+law, regulation, order, judgment, injunction or similar matters or breach 
+any agreement presently in effect with respect to or binding on the 
+Contracting Party, except for such breaches, defaults, or violations as 
+will not, either individually or in the aggregate, result in a material 
+adverse effect on the ability of the Contracting Party to perform its 
+obligations under this Consent or the Contract;
+
+(c) each of this Consent and the Contract constitutes legal, valid and 
+binding obligations of the Contracting Party, enforceable against the 
+Contracting Party in accordance with their respective terms, except to the 
+extent that enforceability may be limited by applicable bankruptcy, 
+insolvency, moratorium, reorganization or other similar laws affecting the 
+enforcement of creditors rights or by the effect of general equitable 
+principles (regardless of whether such enforceability is considered in a 
+proceeding in equity or at law);
+
+(d) no authorizations, approvals or consents of any governmental or 
+regulatory authority or agency or any other person, and no filings or 
+registrations with any governmental authority or agency, are necessary for 
+the execution, delivery or performance by the Contracting Party of this 
+Consent, or for the validity or enforceability thereof, except for any 
+authorizations, approvals, consents or filings which (i) have been made or 
+obtained prior to the date hereof and are in full force and effect, or (ii) 
+are obtainable in the ordinary course of business and are set forth on 
+Exhibit B to this Consent;
+
+(e) except pursuant to this Consent and as expressly set forth in the 
+Contract, the Contracting Party has not consented to any pledge, assignment 
+or other transfer of any interest in the Contract;
+
+(f) the Contract is in full force and effect and has not been amended, 
+supplemented or modified (except as otherwise disclosed in writing to the 
+Agent); and
+
+(g) the Borrower has fulfilled all of its material obligations which are 
+currently due under the Contract, and there are no breaches or unsatisfied 
+conditions presently existing (or which would exist after the passage of 
+time and/or giving of notice) that would allow the Contracting Party to 
+terminate the Contract.
+
+
+6. Limitation of Liability. The Contracting Party shall have no liability 
+under this Consent to the Borrower. With respect to any undertaking by the 
+Contracting Party which is susceptible to enforcement by specific 
+enforcement as described in Section 7, where the Agent would receive the 
+full benefit of this Consent through such specific performance, the Agent 
+shall limit its remedy to specific performance. With respect to any other 
+undertaking, acknowledgment, representation and warranty or other provision 
+of this Consent, the Agents remedies shall not be so limited, provided 
+that the Agent and the
+ 
+DEI Agreement Number: 0743.01 	  	- 60/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+Borrower agree that the Contracting Partys aggregate liability for 
+monetary damages under this Consent and the Contract shall be limited as 
+provided in the Contract. Under no circumstances shall the Contracting 
+Party have any liability for any punitive, exemplary, consequential, 
+indirect, incidental, or special damages (including by way of example, but 
+not by way of limitation, loss of profits, nonpayment of principal or 
+interest on loans, and cost of capital under the Credit Agreement).
+
+
+7. Specific Performance. The Contracting Party acknowledges and agrees that 
+the Borrower, the Agent, the Secured Parties and any Subsequent Transferee 
+may be damaged irreparably in the event any of the provisions set forth in 
+Sections 1 and 4 of this Consent (the Applicable Provisions) are not 
+performed in accordance with their specific terms or are otherwise 
+breached. Accordingly, the Contracting Party agrees that the Borrower, the 
+Agent and/or any Subsequent Transferee may seek to enforce specifically 
+this Consent and the Applicable Provisions in any action instituted in any 
+court of the United States or any state thereof having jurisdiction over 
+the parties hereto and the matter hereof (subject to the provisions set 
+forth in Section 9), in addition to any other remedy to which it may be 
+entitled, at law or in equity.
+
+
+8. Governing Law. This Consent shall be governed by, and construed and 
+interpreted in accordance with, the laws of the State of New York, United 
+States of America, excluding its conflicts of law provisions (other than 
+Sections 5-1401 and 5-1402 of the General Obligations Law of the State of 
+New York).
+
+
+9. Submission to Jurisdiction. The parties hereto submit to the 
+nonexclusive jurisdiction of the United States District Court for the 
+Southern District of New York and of any New York State court sitting in 
+New York City for purposes of all legal proceedings arising out of or 
+relating to this Consent or the transactions contemplated hereby. Each of 
+the parties hereto irrevocably waives, to the fullest extent permitted by 
+law, any objection which it may now or hereafter have to the laying of the 
+venue of any such proceeding brought in such a court and any claim that any 
+such proceeding brought in such a court has been brought in an inconvenient 
+forum.
+
+
+10. Counterparts. This Consent and any amendments, waivers, consents or 
+supplements hereto or in connection herewith may be executed in any number 
+of counterparts and by different parties hereto in separate counterparts, 
+each of which when so executed and delivered shall be deemed an original, 
+but all such counterparts together shall constitute but one and the same 
+instrument; signature pages may be detached from multiple separate 
+counterparts and attached to a single counterpart so that all signature 
+pages are physically attached to the same document.
+
+
+11. Severability. In case any one or more of the provisions contained in 
+this Consent should be invalid, illegal or unenforceable in any respect, 
+the validity, legality and enforceability of the remaining provisions shall 
+not in any way be affected or impaired thereby.
+ 
+DEI Agreement Number: 0743.01 	  	- 61/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+12. Amendment, Waiver. Neither this Consent nor any of the terms hereof may 
+be terminated, amended, supplemented, waived or modified except by an 
+instrument in writing signed by the Contracting Party, the Borrower and the 
+Agent.
+
+
+13. Notices. All notices required or permitted hereunder shall be in 
+writing and shall be effective (a) upon receipt if hand delivered, (b) upon 
+receipt if sent by facsimile and (c) if otherwise delivered, upon the 
+receipt thereof. Any such notices to the Contracting Party or the Borrower 
+shall be delivered to their respective addresses as specified in the 
+Contract. Any such notices to the Agent shall be addressed as follows:
+
+
+[                                ]
+
+[                                ]
+
+[                                ]
+
+Attn: [                                ]
+
+Telephone No.: [                                ]
+
+Telecopy No.: [                                ]
+
+If any notice is tendered to an addressee and the delivery thereof is 
+refused by such addressee, such notice shall be effective upon such tender. 
+Any party shall have the right to change its address for notice hereunder 
+to any other location within the continental United States by providing 30 
+days notice to the other parties in the manner set forth hereinabove.
+
+
+14. Third Party Beneficiaries. This Consent and the representations, 
+covenants and agreements contained herein are and shall be held to be for 
+the sole benefit of the parties hereto and the Secured Parties, and their 
+respective successors and assigns.
+
+
+15. Interpretation. All references in this Consent to any document, 
+instrument or agreement (a) shall include all exhibits, schedules and other 
+attachments thereto, and (b) shall include all documents, instruments or 
+agreements issued or executed in replacement thereof in accordance with the 
+terms thereof.
+
+
+[SIGNATURE PAGE FOLLOWS]
+ 
+DEI Agreement Number: 0743.01 	  	- 62/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+IN WITNESS WHEREOF, the parties hereto, by their officers duly authorized, 
+intending to be legally bound, have caused this Consent and Agreement to be 
+duly executed and delivered as of the date first above written.
+ 
+HOKU MATERIALS, INC,
+By: 	  	
+Name: 	  	
+Title: 	  	
+[                                                                 ]
+By: 	  	
+Name: 	  	
+Title: 	  	
+[                                         ],
+as Agent for the Secured Parties
+By: 	  	
+Name: 	  	
+Title: 	  	
+ 
+DEI Agreement Number: 0743.01 	  	- 63/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+EXHIBIT A
+
+FORM OF OPINION OF CONTRACTING PARTYS COUNSEL
+
+[Letterhead of                                     ]
+
+[Date]
+
+[Agent]
+
+[                                ]
+
+[                                ]
+
+[                                ]
+
+Ladies and Gentlemen:
+
+[We/I] have acted as counsel for [                                ], a [    
+                            ] (the Company), in connection with that 
+certain [Contract and Consent] (collectively, the Contracts). Capitalized 
+terms used and not otherwise defined herein shall have the respective 
+meanings specified in the Consent.
+
+
+This letter is being delivered to you in satisfaction of the condition set 
+forth in Section 3 of the Consent.
+
+
+In this connection, [we/I] have examined such certificates of public 
+officials, certificates of officers of the Company and copies certified to 
+[our/my] satisfaction of corporate documents and records of the Company and 
+of other papers, and have made such other investigations, as [we/I] have 
+deemed relevant and necessary as a basis for [our/my] opinions hereinafter 
+set forth. [We/I] have relied upon such certificates of public officials 
+and of officers of the Company with respect to the accuracy of material 
+factual matters contained therein which were not independently established.
+
+
+Based on the foregoing, it is [our/my] opinion that:
+
+
+1. The Company is a corporation duly incorporated and validly existing in 
+good standing under the laws of [                        ].
+
+2. The Contracts have been duly authorized by all requisite corporate 
+action and duly executed and delivered by authorized officers of the 
+Company, and are valid obligations of the Company, legally binding upon and 
+enforceable against the Company in accordance with their respective terms, 
+except as such enforceability may be limited by (a) bankruptcy, insolvency, 
+reorganization or other similar laws affecting the enforcement of 
+creditors rights generally, and (b) general principles of equity 
+(regardless of whether such enforceability is considered in a proceeding in 
+equity or at law).
+
+
+3. The execution and delivery of the Contracts, and fulfillment of and 
+compliance with the respective provisions of the Contracts, do not conflict 
+with, or result in a breach of the terms, conditions or provisions of, or 
+constitute a default under, or result in any
+ 
+DEI Agreement Number: 0743.01 	  	- 64/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+violation of, or result in the creation of any lien upon any of the 
+properties or assets of the Company pursuant to, or require any 
+authorization, consent, approval, exemption, or other action by or notice 
+to or filing with any court, administrative or governmental body or other 
+person or entity pursuant to, the charter or by-laws of the Company, any 
+applicable law, statute, rule or regulation or (insofar as is known to us 
+after having made due inquiry with respect thereto) any agreement, 
+instrument, order, judgment or decree to which the Company is a party or 
+otherwise subject.
+
+
+Very truly yours,
+ 
+DEI Agreement Number: 0743.01 	  	- 65/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+EXHIBIT B
+
+AUTHORIZATIONS AND APPROVALS
+
+[Contracting Party To Provide, If Any]
+ 
+DEI Agreement Number: 0743.01 	  	- 66/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	
+
+------------------------------------------------------------------------
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED 
+BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND 
+EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT 
+OF 1934, AS AMENDED.
+
+CONFIDENTIAL
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+executed in duplicate by their duly authorized representatives as of the 
+day and year last written below.
+ 
+DYNAMIC ENGINEERING INC 	  	 	  	HOKU MATERIALS, INC.
+By 	  	/s/ W. Lee Kennedy 	  	 	  	By 	  	/s/ Dustin M. Shindo
+Name printed 	  	W. Lee Kennedy 	  	 	  	Name printed 	  	Dustin M. Shindo
+Title 	  	President 	  	 	  	Title 	  	Chief Executive Officer
+Date 	  	10/6/07 	  	 	  	Date 	  	10/5/2007
+By 	  	/s/ Patricia S. Kennedy 	  	 	  	By 	  	/s/ Darryl S. Nakamoto
+Name printed 	  	Patricia S. Kennedy 	  	 	  	Name printed 	  	Darryl S. 
+Nakamoto
+Title 	  	Treasurer 	  	 	  	Title 	  	Chief Financial Officer
+Date 	  	10-6-07 	  	 	  	Date 	  	10/5/2007
+ 
+DEI Agreement Number: 0743.01 	  	- 67/69 - 	  	 
+Tech Transfer Agreement 	  	 	  	

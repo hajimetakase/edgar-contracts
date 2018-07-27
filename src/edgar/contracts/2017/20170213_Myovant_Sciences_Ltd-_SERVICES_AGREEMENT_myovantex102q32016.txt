@@ -1,0 +1,897 @@
+ EX-10.2 3 myovantex102q32016.htm EXHIBIT 10.2
+
+
+
+
+Exhibit 10.2
+
+
+EXECUTION COPY
+
+
+SERVICES AGREEMENT
+
+
+This Services Agreement (the “Agreement”) is entered into effective as of 
+November 11, 2016 (the “Effective Date”), by and between Roivant Sciences 
+GmbH, a company with limited liability organized under the laws of the 
+country of Switzerland (“Service Provider”) and Myovant Sciences GmbH, a 
+company with limited liability organized under the laws of the country of 
+Switzerland (“Service Recipient”).
+
+
+RECITALS
+
+
+WHEREAS, Service Recipient is a biotechnology company focused on acquiring, 
+developing and commercializing late-stage endocrinology drug candidates, 
+including non-strategic endocrinology assets from large pharmaceutical 
+companies, distressed endocrinology drug candidates from small biotech 
+companies, endocrinology drugs or novel approaches from universities, and 
+high-risk endocrinology projects abandoned by conventional 
+biopharmaceutical firms;
+
+
+WHEREAS, Service Provider is capable of providing preparatory services in 
+relation to the identification of potential endocrinology drug asset 
+candidates, managing the performance of clinical trials or other research 
+and development activities, performing or evaluating scientific and 
+statistical analyses, and various administrative matters; and
+
+
+WHEREAS, Service Recipient desires to engage the services of Service 
+Provider, and the Service Provider is willing to provide such services in 
+consideration for a fee.
+
+
+NOW, THEREFORE, in consideration of the mutual covenants, rights and 
+obligations set forth herein and other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the parties 
+hereto agree as follows:
+
+
+1.
+DEFINITIONS
+1.1
+Affiliate. “Affiliate” shall mean any Person, whether de jure or de facto, 
+other than a Party, that directly or indirectly owns, is owned by or is 
+under common ownership with a Party to the extent of at least 50 percent of 
+the equity having the power to vote on or direct the affairs of the entity, 
+and any Person actually controlled by, controlling, or under common control 
+with a Party.
+
+------------------------------------------------------------------------
+
+
+
+
+1.2
+Costs. “Costs” shall mean the fully-burdened cost incurred by the Service 
+Provider and its Affiliates during any applicable month to provide the 
+Services.  For purposes of this definition, the fully-burdened cost 
+includes without limitation: (i) the costs of any materials used in 
+providing the Services; (ii) the salary, benefits (if any) (including 
+without limitation, medical plans and 401(k) or other retirement plans), 
+and employment taxes (if any) of all the Service Provider’s employees 
+involved in providing such services (excluding, however, any compensation 
+that is provided to an employee or independent contractor in the form of 
+equity instruments, options to acquire stock (stock options), rights with 
+respect to (or determined by reference to) equity instruments or stock 
+options, or any non-cash compensation provided by a third party to an 
+employee or independent contractor); (iii) related overhead expenses 
+(including, without limitation, cost of facilities and utilities costs, 
+insurance, and the cost of all general support, operational and business 
+services); (iv) any and all licensing fees paid or payable to Third Parties 
+for any intellectual property incorporated into such services; and (v) any 
+depreciation, amortization or other cost recovery for financial accounting 
+purposes related to assets of the Service Provider to the extent such 
+assets are used in providing the Services; provided, however, that the 
+fully-burdened cost shall not include costs incurred by the Service 
+Provider to engage a Third Party for the purpose of providing Services 
+pursuant to Section 3.4 of the Agreement.
+1.3
+Marks. “Marks” shall mean and include trademarks, service marks, trade 
+names, domain names, trade dress, logos, and similar designations, whether 
+registered or unregistered, and all applications and registrations 
+therefor.
+1.4
+Party. “Party” shall mean Service Provider or Service Recipient, and 
+“Parties” shall mean Service Provider and Service Recipient collectively.
+1.5
+Person. “Person” shall mean and include any individual, corporation, trust, 
+estate, partnership, joint venture, company, association, governmental 
+bureau or agency, or any other entity regardless of the type or nature 
+thereof.
+1.6
+Third Party. “Third Party” shall mean any entity other than a Party or an 
+Affiliate.
+1.7
+Works. “Works” shall mean any work product, technical knowledge, creations, 
+know-how, formulations, recipes, specifications, rights, devices, drawings, 
+instructions, expertise, trade practices, customer lists, computer data, 
+source codes, analytical and quality control data, Marks, copyrights, 
+commercial information, inventions, works of authorship, designs, methods, 
+processes, technology, patterns, techniques, data, , patents, trade 
+secrets, copyrights, related contracts, licenses and agreements and the 
+like, and all other intellectual property created, authored, composed, 
+invented, discovered, performed, perfected, provided, acquired or learned 
+by the Service Provider, whether solely or jointly with others, whether 
+patented, patentable or not, whether in written form or otherwise, whether 
+disclosed to Service Provider by either Service Recipient or otherwise, in 
+performing its obligations under this Agreement, in each case, that (i) 
+relates to intellectual property or potential intellectual property 
+originating from research and development of Service Recipient or its 
+affiliate’s drug products or portfolio candidates, and (ii) arises out of 
+services provided directly or indirectly (e.g., through an employee, 
+consultant clinical research organization, other vendor or other Third 
+Party engaged by the Service Provider) in connection with such research and 
+development.
+
+------------------------------------------------------------------------
+
+
+
+
+1.8
+Year. “Year” shall mean the 12-month period ending on March 31.
+2.
+ENGAGEMENT.
+      Subject to the terms of this Agreement, the Service Recipient hereby
+      engages the Service Provider to perform the services set forth on
+      Exhibit A attached hereto (the “Services”). Any additional services
+      requested by the Service Recipient that are not included within the
+      Services shall, if mutually agreed upon by the Parties, each in its
+      sole discretion, be negotiated and included in this Agreement through
+      amendments to Exhibit A hereto. The scope of the Service Provider’s
+      authority shall be specifically limited to those activities outlined
+      in this Agreement.
+
+
+3.
+RELATIONSHIP OF THE PARTIES.
+3.1
+The Parties are each independent contractors and not joint venturers, 
+partners, agents, or representatives of the other. The Service Provider 
+shall perform the Services for the Service Recipient under this Agreement 
+as an independent contractor and neither the Service Provider nor its 
+employees, subcontractors or agents shall be deemed to be agents, servants 
+or employees of the Service Recipient, nor shall the Service Provider and 
+the Service Recipient be deemed or construed solely by this Agreement to be 
+partners or joint venturers. The Service Provider shall have exclusive 
+control over the direction and conduct of its employees in carrying out the 
+activities required under this Agreement.
+3.2
+Neither the Service Provider nor its employees, subcontractors or agents 
+shall have the authority to (i) negotiate the terms of or execute contracts 
+and agreements of the Service Recipient (including letters of intent, even 
+if non-binding), provided the Service Provider may suggest incorporating 
+certain non-core agreement terms within the parameters and guidelines 
+provided by Service Recipient; (ii) hire personnel for the Service 
+Recipient; (iii) exercise binding authority with respect to the operations 
+of the Service Recipient; (iv) make binding recommendations to the Service 
+Recipient; (v) make decisions or have decision-making rights with respect 
+to the Service Recipient; (vi) hold itself out as representing the Service 
+Recipient or as having the authority to negotiate the terms of or conclude 
+contracts on behalf of the Service Recipient or (vii) perform services for 
+the Service Recipient that are not covered by this Agreement.
+3.3
+The Service Provider and its employees, subcontractors or agents shall have 
+the authority to (i) provide advice, assistance, direction and 
+recommendations to the Service Recipient with respect to its operations; 
+(ii) make recommendations on key points of contracts, without having the 
+power to negotiate the terms of or conclude contracts or agreements on 
+behalf of the Service Recipient; (iii) participate in discussions on 
+contracts and agreements; (iv) arrange transactions between the Service 
+Recipient and other parties, provided that the Service Provider does not 
+make any actual decisions or participate in substantive activities, such as 
+negotiations with respect to the terms of such transactions, provided the 
+Service Provider may suggest incorporating certain non-core agreement terms 
+within the parameters and guidelines provided by Service Recipient; and (v) 
+contact banks in connection with raising capital for the Service Recipient, 
+without having, in any circumstance, the power to negotiate the terms of or 
+conclude contracts or agreements on behalf of the Service Recipient in 
+connection with raising capital for the Service Recipient.
+
+------------------------------------------------------------------------
+
+
+
+
+3.4
+Engagement of Third Parties. The Service Provider may, with the prior 
+consent of the Service Recipient, engage such persons, corporations, or 
+other entities as it reasonably deems necessary for the purpose of 
+performing Services under this Agreement; provided, however, that the 
+Service Provider shall remain responsible for the performance of all such 
+Services and shall be considered to engage with such persons, corporations, 
+or other entities in its own name and on its own behalf.
+4.
+FEES AND EXPENSES.
+4.1
+The Service Recipient shall pay the Service Provider a fee in accordance 
+with Exhibit B attached hereto for the Services provided hereunder. The 
+rates specified in Exhibit B attached hereto shall be reviewed and may be 
+updated from time to time by the Parties. Fees for Services performed by 
+the Service Provider will be billed by the Service Provider on a monthly 
+basis. All other costs for Third Party services shall be billed, by or on 
+behalf of the Service Provider, to the Service Recipient, in such manner 
+and format and with such supporting information as the Parties may 
+reasonably agree from time to time. Payment for undisputed invoices 
+received by the Service Recipient shall be due within sixty (60) days after 
+the billing date. Any fees and expenses not paid by the due date thereof 
+shall accrue interest at the safe harbor interest rate based on the 
+applicable Federal rate as set forth in U.S. Treasury Regulations Section 
+1.482-2(a)(2)(iii)(B). All fees and expenses shall be invoiced and payable 
+in U.S. dollars.
+4.2
+Yearly Reconciliation. The Parties shall perform a yearly reconciliation 
+for the compensation amounts paid as follows:
+      a.
+Administrative Services Yearly Reconciliation.
+           i.
+As soon as reasonably practicable following the close of each Year during 
+the Term of this Agreement, the Parties will calculate the total service 
+fee with respect to the activities listed in Exhibit A, subsection 1 
+(“Administrative and Support Services”) owing under this Agreement for the 
+Year (the “Exhibit B Administrative Services Fees”) by calculating the 
+Service Provider’s Costs with respect to such services and applying the 
+mutually agreed mark-up percentage for such services determined in 
+accordance with Exhibit B, and adding the amount of any third-party costs 
+reimbursable under Exhibit B paragraph (c) that relate to such services. As 
+soon as reasonably practicable following the close of each Year, the 
+Parties shall also calculate the total amount of service fees actually paid 
+for the Year under Section 4.1 with respect to the activities listed in 
+Exhibit A, subsection 1 (“Administrative and Support Services”), adding the 
+amount of any third-party costs reimbursable under Exhibit B paragraph (c) 
+that relate to such services (the “Actual Administrative Services Fees”).
+           ii.
+If, for any Year, the total Actual Administrative Services Fees is greater 
+than the Exhibit B Administrative Services Fees for such services, there 
+shall be deemed to exist an excess of service fee in an amount equal to the 
+difference between the total Actual Administrative Services Fees and the 
+total Exhibit B Administrative Services Fees for the Year (hereinafter 
+“Administrative Services Excess”).
+
+------------------------------------------------------------------------
+
+
+
+
+           iii.
+If, for any Year, the total Actual Administrative Services Fees is less 
+than the total Exhibit B Administrative Services Fees, there shall be 
+deemed to exist a shortfall in an amount equal to the difference between 
+the total Exhibit B Administrative Services Fees and the total Actual 
+Administrative Services Fees (hereinafter “Administrative Services 
+Shortfall”).
+     b.
+Other Services Yearly Reconciliation.
+           i.
+As soon as reasonably practicable following the close of each Year during 
+the Term of this Agreement, the Parties will calculate the total service 
+fee with respect to the activities listed in Exhibit A, subsection 2 
+(“Other Services”) owing under this Agreement for the Year (the “Exhibit B 
+Other Services Fees”) by calculating the Service Provider’s Costs with 
+respect to such services and applying the mutually agreed mark-up 
+percentage for such services determined in accordance with Exhibit B, and 
+adding the amount of any third-party costs reimbursable under Exhibit B 
+paragraph (c) that relate to such services. As soon as reasonably 
+practicable following the close of each Year, the Parties shall also 
+calculate the total amount of service fees actually paid for the Year under 
+Section 4.1 with respect to the activities listed in Exhibit A, subsection 
+1 (“Other Services”), adding the amount of any third-party costs 
+reimbursable under Exhibit B paragraph (c) that relate to such services 
+(the “Actual Other Services Fees”).
+           ii.
+If, for any Year, the total Actual Other Services Fees is greater than the 
+Exhibit B Other Services Fees for such services, there shall be deemed to 
+exist an excess of service fee in an amount equal to the difference between 
+the total Actual Other Services Fees and the total Exhibit B Other Services 
+Fees for the Year (hereinafter “Other Services Excess”).
+           iii.
+If, for any Year, the total Actual Other Services Fees is less than the 
+total Exhibit B Other Services Fees, there shall be deemed to exist a 
+shortfall in an amount equal to the difference between the total Exhibit B 
+Other Services Fees and the total Actual Other Services Fees (hereinafter 
+“Other Services Shortfall”).
+     c.
+Settlement of Excess or Shortfall Amounts.
+            i.
+If, for any Year, (1) the sum of the Administrative Services Shortfall and 
+the Other Services Shortfall exceeds (2) the sum of the Administrative 
+Services Excess and the Other Services Excess (such excess amount, the “Net 
+Shortfall”), the Service Recipient shall pay such Net Shortfall to Service 
+Provider within thirty (30) days after the Exhibit B Administrative 
+Services Fees, Exhibit B Other Services Fees, Actual Administrative 
+Services Fees, and Actual Other Services Fees have been calculated for such 
+Year.
+
+------------------------------------------------------------------------
+
+
+
+
+            ii.
+If, for any Year, (1) the sum of the Administrative Services Excess and the 
+Other Services Excess exceeds (2) the sum of the Administrative Services 
+Shortfall and the Other Services Shortfall (such excess amount, the “Net 
+Excess”), the Service Provider may (x) treat such Net Excess, in whole or 
+in part, as a contribution to the capital of the Service Provider; or (y) 
+treat such Net Excess, in whole or in part, as an overpayment to the 
+Service Provider that must be repaid to the Service Recipient within 30 
+days after the end of the Year.
+4.3
+Withholding. Service Recipient shall be entitled to deduct from any 
+payments to Service Provider the amount of any withholding taxes with 
+respect to such amounts payable, or any taxes in each case required to be 
+withheld by Service Recipient to the extent that Service Recipient pays to 
+the appropriate governmental authority on behalf of Service Provider such 
+taxes, levies, or charges. Service Recipient shall, upon the request of 
+Service Provider, deliver to Service Provider proof of payment of all such 
+taxes, levies, and other charges and the appropriate documentation that is 
+necessary to obtain a tax credit, to the extent such tax credit can be 
+obtained.
+5.
+ACCESS TO BOOKS AND RECORDS.
+      Service Provider shall maintain books and records pertaining to the
+      Services provided in any Year pursuant to this Agreement for ten (10)
+      Years following the performance of such Services and shall make them
+      available for inspection and audit, at Service Recipient’s expense,
+      by a mutually acceptable independent certified public accounting firm
+      during normal business hours upon reasonable prior written notice to
+      Service Provider.
+
+
+6.
+CONFIDENTIAL INFORMATION
+6.1
+Obligations. The Parties acknowledge that, from time to time, one Party 
+(the “Disclosing Party”) may disclose to the other Party (the “Receiving 
+Party”) information that is marked as “proprietary,” or “confidential,” or 
+which would, under the circumstances, be understood by a reasonable person 
+to be proprietary and nonpublic (“Confidential Information”). The Receiving 
+Party shall retain such Confidential Information in confidence. Each Party 
+shall use at least the same procedures and degree of care that it uses to 
+protect its own Confidential Information of like importance, including 
+those procedures used when disclosing Confidential Information to Third 
+Parties, and in no event less than reasonable care.
+6.2
+Exceptions. Nothing in this Agreement shall prevent the disclosure by the 
+Receiving Party or its employees of Confidential Information that:
+      a.
+Prior to the transmittal thereof to Receiving Party was of general public 
+knowledge;
+      b.
+Becomes, subsequent to the time of transmittal to Receiving Party, a matter 
+of general public knowledge otherwise than as a consequence of a breach by 
+Receiving Party of any obligation under this Agreement;
+      c.
+Is made public by Disclosing Party;
+
+------------------------------------------------------------------------
+
+
+
+
+      d.
+Was in the possession of Receiving Party in documentary form prior to the 
+time of disclosure thereof to Receiving Party by Disclosing Party, and is 
+held by Receiving Party free of any obligation of confidence to Disclosing 
+Party or any Third Party; or
+      e.
+Is received in good faith from a Third Party having the right to disclose 
+it, who, to the best of Receiving Party’s knowledge, did not obtain the 
+same from Disclosing Party and who imposed no obligation of secrecy on 
+Receiving Party with respect to such information.
+6.3
+No Unauthorized Use. The Receiving Party shall refrain from using or 
+exploiting any and all Confidential Information for any purposes or 
+activities other than those contemplated in this Agreement or any other 
+written agreement entered into by and between the Parties.
+6.4
+Survival. The Parties’ obligations under this Article 6 shall survive the 
+termination of this Agreement for any reason whatsoever.
+7.
+OWNERSHIP OF INTANGIBLE PROPERTY
+      Service Provider agrees that all right, title and interest in and to
+      any and all Works will be owned exclusively by the Service Recipient.
+      All Works, as applicable, shall be considered “works made for hire”
+      to the extent permitted under applicable copyright law and will be
+      considered the sole property of the Service Recipient. To the extent
+      such Works are not considered “works made for hire,” all right,
+      title, and interest to such Works, including, but not limited to, all
+      copyrights, patents, trademarks, rights of publicity, and trade
+      secrets, is hereby assigned by Service Provider to the Service
+      Recipient and the Service Provider agrees, at the Service Recipient’s
+      expense, to execute any documents requested by the Service Recipient
+      or any successor in interest to the Service Recipient, at any time in
+      relation to such assignment. Service Provider further acknowledges
+      and agrees that any and all derivative works, developments, or
+      improvements based on the Works, shall also be deemed Works and all
+      right, title and interest therein shall be exclusively owned by the
+      Service Recipient. Service Provider shall cooperate with the Service
+      Recipient and any of its Affiliates, at no additional cost to such
+      parties (whether during or after the term of this Agreement), in the
+      confirmation, registration, protection and enforcement of the rights
+      and property of the Service Recipient and its successors in interest
+      in such Works. The Service Provider shall be entitled to use the
+      Works only for purposes of performing the Services. The Service
+      Provider shall not at any time do or cause to be done, or fail to do
+      or cause to be done, any act or thing, directly or indirectly,
+      contesting or in any way impairing Service Recipient’s right, title,
+      or interest in the Intangible Property. Every use of any Works (and
+      any derivative works, developments, or improvements based on the
+      Works) by Service Provider shall inure to the benefit of Service
+      Recipient.
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+8.
+USE OF TRADEMARKS
+      The Service Recipient shall grant the Service Provider a right to use
+      its Marks only in connection with the Services, provided that if the
+      Service Recipient provides the Service Provider with reasonable
+      written trademark guidelines governing the use of the Service
+      Recipient’s Marks (which guidelines may be updated by the Service
+      Recipient from time to time with prior written notice to the Service
+      Provider), the Service Provider’s use of such Marks shall be subject
+      to such written guidelines so provided. Notwithstanding the
+      foregoing, the Service Provider will comply with all of the Service
+      Recipient’s reasonable instructions and quality control requirements
+      regarding Service Provider’s use of the Marks. The Service Provider
+      acknowledges that any of the Service Recipient’s Marks are owned and
+      licensed solely and exclusively by the Service Recipient, and agrees
+      to use such Marks only in the form and with appropriate legends as
+      described by the Service Recipient. All use of the Marks and
+      associated goodwill will inure to the benefit of the Service
+      Recipient. All rights not expressly granted are reserved to the
+      Service Recipient. The Service Provider shall not remove, cover, or
+      modify any proprietary rights notice or legend placed by the other
+      party on materials used in connection with this Agreement.
+
+
+9.
+INDEMNIFICATION; LIMITATION OF LIABILITY
+9.1
+The Service Provider, to the maximum extent permitted by law, shall defend, 
+protect, indemnify and hold the Service Recipient and its officers, 
+employees and directors, as the case may be (“Indemnified Parties”), 
+harmless from and against any and all losses, demands, damages (including, 
+without limitation, special, consequential and punitive damages awarded to 
+Third Parties), claims, liabilities, interest, awards, actions or causes of 
+action, suits, judgments, settlements and compromises relating thereto, and 
+all reasonable attorney’s fees and other fees and expenses in connection 
+therewith (“Losses”) which may be incurred by an Indemnified Party, arising 
+out of, due to, or in connection with, directly or indirectly, the 
+provision of the Services or failure to provide the Services under this 
+Agreement, except to the extent that such Losses are the result of the 
+gross negligence or willful misconduct of an Indemnified Party.
+9.2
+The Service Provider’s liability for aggregate Losses under this Agreement 
+for any cause whatsoever, and regardless of the form of action, whether in 
+contract or in tort, shall be limited to the payments made by the Service 
+Recipient under this Agreement for the specific Service that allegedly 
+caused or was related to the Losses during the period in which the alleged 
+Losses were incurred. In no event shall the Service Provider be liable for 
+any Losses caused by the Service Recipient’s failure to perform the Service 
+Recipient’s obligations under this Agreement.
+9.3
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR AT LAW OR IN 
+EQUITY, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR PUNITIVE, SPECIAL, 
+INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES TO THE OTHER PARTY OR ANY 
+OTHER PERSON (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS 
+PROFITS, BUSINESS INTERRUPTION, ACTIONS OF THIRD PARTIES OR ANY OTHER LOSS) 
+ARISING FROM OR RELATING TO ANY CLAIM MADE UNDER THIS AGREEMENT OR THE 
+PROVISION OR THE FAILURE TO PROVIDE THE SERVICES.
+
+------------------------------------------------------------------------
+
+
+
+
+10.
+TERM AND TERMINATION
+10.1
+Term. This Agreement shall commence on the Effective Date and continue 
+until terminated by either Party in accordance with this Section 10.1. 
+Either party may terminate this Agreement at its discretion by giving 
+written notice to the other party at least sixty (60) days before the 
+proposed termination date. Section 12.14 and Article 6 shall survive the 
+termination of this Agreement. The Service Recipient hereby specifically 
+agrees and acknowledges that all obligations of the Service Provider to 
+provide any and all Services shall immediately cease upon termination of 
+this Agreement. The Service Provider hereby specifically agrees and 
+acknowledges that all of its rights to use Marks pursuant to Article 8 of 
+this Agreement shall immediately cease upon termination of this Agreement. 
+To the extent permitted by applicable law, neither Party shall be liable to 
+the other Party for, and each Party hereby expressly waives any right to, 
+any termination compensation of any kind or character whatsoever, to which 
+such Party may be entitled solely by virtue of termination of this 
+Agreement.
+10.2
+Rights and Duties on Termination. Upon termination of this Agreement for 
+any reason, each Party shall cease all use of the other Party’s 
+Confidential Information, and Service Recipient shall pay Service Provider 
+all accrued and unpaid fees for Services performed through the date of 
+termination.
+11.
+COMPLIANCE WITH LAWS
+11.1
+General Compliance. The Parties shall at all times strictly comply with all 
+applicable laws, rules, regulations, and governmental orders, now or 
+hereafter in effect, relating to their performance of this Agreement. Each 
+Party further agrees to make, obtain, and maintain in force at all times 
+during the term of this Agreement, all filings, registrations, reports, 
+licenses, permits, and authorizations (collectively, “Authorizations”) 
+required under applicable law, regulation, or order for such Party to 
+perform its obligations under this Agreement. Service Recipient shall 
+provide Service Provider with such assistance as Service Provider may 
+reasonably request in making or obtaining any such Authorizations.
+12.
+GENERAL PROVISIONS
+12.1
+Notices. Any and all notices, elections, offers, acceptances, and demands 
+permitted or required to be made under this Agreement shall be in writing, 
+signed by the Party giving such notice, election, offer, acceptance, or 
+demand and shall be delivered personally, by messenger, courier service, 
+telecopy, first class mail or similar transmission, to the Party, at its 
+address on file with the other Party or at such other address as may be 
+supplied in writing. The date of personal delivery or the date of mailing, 
+as the case may be, shall be the date of such notice, election, offer, 
+acceptance, or demand.
+
+------------------------------------------------------------------------
+
+
+
+
+12.2
+Force Majeure. If the performance of any part of this Agreement by either 
+Party, or of any obligation under this Agreement, is prevented, restricted, 
+interfered with, or delayed by reason of any cause beyond the reasonable 
+control of the Party liable to perform, unless conclusive evidence to the 
+contrary is provided, the Party so affected shall, on giving written notice 
+to the other Party, be excused from such performance to the extent of such 
+prevention, restriction, interference, or delay, provided that the affected 
+Party shall use its reasonable best efforts to avoid or remove such causes 
+of nonperformance and shall continue performance with the utmost dispatch 
+whenever such causes are removed. When such circumstances arise, the 
+Parties shall discuss what, if any, modification of the terms of this 
+Agreement may be required in order to arrive at an equitable solution.
+12.3
+Successors and Assigns. This Agreement may not be assigned or otherwise 
+conveyed by any Party without the prior written consent of the other Party; 
+provided however that such prior written consent will not be required for 
+an assignment to an Affiliate of either Party. This Agreement shall be 
+binding on and inure to the benefit of the Parties hereto and their 
+respective successors, successors in title and assigns to the extent that 
+such assignment is permitted under this paragraph.
+12.4
+Entire Agreement, Amendments. This Agreement constitutes the entire 
+agreement between the Parties with respect to the subject matter hereof, 
+and supersedes all prior agreements, understandings, and communications 
+between the Parties, whether oral or written, relating to the same subject 
+matter. No change, modification, or amendment of this Agreement shall be 
+valid or binding on the Parties unless such change or modification shall be 
+in writing signed by the Party or Parties against whom the same is sought 
+to be enforced.
+12.5
+Remedies Cumulative. The remedies of the Parties under this Agreement are 
+cumulative and shall not exclude any other remedies to which the Party may 
+be lawfully entitled.
+12.6
+Other Persons. Nothing in this Agreement shall be construed to prevent or 
+prohibit the Service Provider from providing services to any other Person 
+or from engaging in any other business activity.
+12.7
+Not for the Benefit of Third Parties. This Agreement is for the exclusive 
+benefit of the Parties to this Agreement and not for the benefit of any 
+Third Party.
+12.8
+Further Assurances. Each Party hereby covenants and agrees that it shall 
+execute and deliver such deeds and other documents as may be required to 
+implement any of the provisions of this Agreement.
+12.9
+No Waiver. The failure of any Party to insist on strict performance of a 
+covenant hereunder or of any obligation hereunder shall not be a waiver of 
+such Party’s right to demand strict compliance therewith in the future, nor 
+shall the same be construed as a novation of this Agreement.
+12.10
+Integration. This Agreement constitutes the full and complete agreement of 
+the Parties.
+12.11
+Captions. Titles or captions of articles and paragraphs contained in this 
+Agreement are inserted only as a matter of convenience and for reference, 
+and in no way define, limit, extend, or describe the scope of this 
+Agreement or the intent of any provision hereof.
+12.12
+Number and Gender. Whenever required by the context, the singular number 
+shall include the plural, the plural number shall include the singular, and 
+the gender of any pronoun shall include all genders.
+
+------------------------------------------------------------------------
+
+
+
+
+12.13
+Counterparts. This Agreement may be executed in multiple copies, each one 
+of which shall be an original and all of which shall constitute one and the 
+same document, binding on the Parties, and each Party hereby covenants and 
+agrees to execute all duplicates or replacement counterparts of this 
+Agreement as may be required.
+12.14
+Governing Law and Jurisdiction. THIS AGREEMENT AND THE LEGAL RELATIONS 
+BETWEEN THE PARTIES HERETO SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE 
+WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD TO ANY CONFLICT OF 
+LAWS RULES. THE COURTS LOCATED WITHIN THE STATE OF NEW YORK SHALL HAVE 
+EXCLUSIVE JURISDICTION OVER ANY AND ALL DISPUTES BETWEEN THE PARTIES 
+HERETO, WHETHER IN LAW OR EQUITY, ARISING OUT OF OR RELATING TO THIS 
+AGREEMENT AND THE AGREEMENTS, INSTRUMENTS AND DOCUMENTS CONTEMPLATED HEREBY 
+AND THE PARTIES CONSENT TO AND AGREE TO SUBMIT TO THE EXCLUSIVE 
+JURISDICTION OF SUCH COURTS. EACH OF THE PARTIES HEREBY WAIVES AND AGREES 
+NOT TO ASSERT IN ANY SUCH DISPUTE, TO THE FULLEST EXTENT PERMITTED BY 
+APPLICABLE LAW, ANY CLAIM THAT (A) SUCH PARTY IS NOT PERSONALLY SUBJECT TO 
+THE JURISDICTION OF SUCH COURTS, (B) SUCH PARTY AND SUCH PARTY’S PROPERTY 
+IS IMMUNE FROM ANY LEGAL PROCESS ISSUED BY SUCH COURTS OR (C) ANY 
+LITIGATION OR OTHER PROCEEDING COMMENCED IN SUCH COURTS IS BROUGHT IN AN 
+INCONVENIENT FORUM.
+12.15
+Computation of Time. Whenever the last day for the exercise of any 
+privilege or the discharge of any duty hereunder shall fall on a Saturday, 
+Sunday, or any public or legal holiday, whether local or national, the 
+Party having such privilege or duty shall have until 5:00 p.m. (EST or, if 
+in effect in New York, EDT) on the next succeeding business day to exercise 
+such privilege, or to discharge such duty.
+12.16
+Severability. In the event any provision, clause, sentence, phrase, or word 
+hereof, or the application thereof in any circumstances, is held to be 
+invalid or unenforceable, such invalidity or unenforceability shall not 
+affect the validity or enforceability of the remainder hereof, or of the 
+application of any such provision, sentence, clause, phrase, or word in any 
+other circumstances.
+12.17
+Costs and Expenses. Unless otherwise provided in this Agreement, each Party 
+shall bear all fees and expenses incurred in performing its obligations 
+under this Agreement.
+12.18
+Provisions of Law. A reference in this Agreement to a provision of law, 
+regulation, rule, official directive, request, or guideline (whether or not 
+having the force of law) of any governmental, intergovernmental or 
+supranational body, agency, department or regulatory, self-regulatory, or 
+other authority or organization is a reference to that provision as amended 
+or re-enacted currently or in the future.
+12.19
+Meaning in Notices. Unless a contrary indication appears, a term used in 
+any notice given under or in connection with this Agreement has the same 
+meaning in that notice as in this Agreement.
+(The remainder of this page has been intentionally left blank)
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be 
+executed by their duly authorized officers effective as of the date first 
+above written.
+
+
+ROIVANT SCIENCES GMBH
+ 
+MYOVANT SCIENCES GMBH
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/s/ Marianne Romeo Dinsmore
+ 
+/s/ Ruben Masar
+      By: Marianne Romeo Dinsmore
+ 
+      By: Ruben Masar
+      Title: Managing Director
+ 
+      Title: Secretary
+      Date: 13 February 2017
+ 
+      Date: 13 February 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+EXHIBIT A
+
+
+SERVICES PROVIDED
+
+
+1.
+Administrative and Support Services. Various administrative and supportive 
+services, which may include, but are not limited to:
+            (a) Payroll
+            (b) Accounts Receivable
+            (c) Accounts Payable
+            (d) General Administrative
+              (e) Corporate and Public Relations (including advertising,
+              investor relations and/or financial marketing)
+            (f) Meeting Coordination and Travel Planning
+            (g) Accounting and Auditing
+            (h) Tax
+            (i) Budgeting
+            (j) Treasury Activities
+            (k) Staffing and Recruiting
+            (l) Training and Employee Development
+            (m) Benefits
+            (n) Information and Technology Services
+            (o) Legal Services
+            (p) Insurance Claims Management
+            (q) Purchasing
+
+
+
+       
+      And other similar services.
+
+
+2.
+Other Services
+      Administrative, research and development services whether provided
+      directly or by engaging employees, agents, consultants, contract
+      research organizations, vendors or any other Third Party, including,
+      but not limited to:
+
+
+      (a)
+Preparatory assistance in respect of the identification/location of 
+potential drug asset candidates
+      (b)
+Perform/oversee due diligence to evaluate a drug candidate (including, but 
+not limited to, studying the compound, market demand, potential 
+opportunities and competitive landscape with respect to such drug candidate 
+and probability of commercial success of such drug candidate)
+      (c)
+Engage, manage and oversee external consultants, whether individuals or 
+consulting companies, in connection with in-depth analyses of potential 
+drug investment opportunities and other activities relating to drugs and 
+drug candidates
+
+------------------------------------------------------------------------
+
+
+
+
+      (d)
+Form recommendations regarding potential drug investment opportunities and 
+deliver recommendations to the board of directors of the Service Recipient
+      (e)
+Provide the board of directors of the Service Recipient with advice in 
+connection with the acquisition of drug assets and, if necessary, assist in 
+communications between the board of directors of the Service Recipient and 
+the sellers of the relevant drug asset in order for the Service Recipient 
+to negotiate and conclude agreements to acquire drug assets and related 
+intellectual property
+      (f)
+Participate in meetings with regulatory authorities related to drug assets 
+of Service Recipient (within the parameters and guidelines provided by 
+Service Recipient)
+      (g)
+Develop a plan for clinical testing with respect to a drug asset, identify 
+appropriate contract research organizations to be used in connection with 
+such clinical testing and contract with such contract research 
+organizations (within the parameters and guidelines provided by Service 
+Recipient)
+      (h)
+Select manufacturers to manufacture small batch sample of drug product for 
+purposes of clinical trials and contract with such manufacturers (within 
+the parameters and guidelines provided by Service Recipient)
+      (i)
+Manage and oversee clinical trials and drug manufacturing to the extent 
+such clinical trials and drug manufacturing costs do not exceed established 
+cost parameters set by Service Recipient
+      (j)
+Gather and analyze data obtained in connection with clinical trials and 
+present such information to the board of directors of the Service Recipient
+      (k)
+Conduct final filings to obtain regulatory approvals with respect to a drug 
+asset
+The Service Provider shall provide such other services as are agreed with 
+the Service Recipient from time to time.
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+EXHIBIT B
+
+
+CALCULATION OF COMPENSATION FOR SERVICES PROVIDED
+
+
+The fees set forth in this Exhibit B represent the entire amount to be paid 
+by the Service Recipient in connection with the Service Provider’s 
+provision of the Services, and any and all other costs and expenses 
+associated with the Services or the Agreement. In addition, the fees set 
+forth in this Exhibit B include any and all applicable federal, state or 
+local sales or use tax payable in connection with the Services or the 
+Agreement.
+
+
+Except as otherwise agreed to by the Parties from time to time, Service 
+Recipient shall compensate Service Provider for its Services rendered and 
+Costs incurred under this Agreement in accordance with the following:
+
+
+      (a)
+Service Recipient shall reimburse Service Provider for its Costs, excluding 
+third-party costs as provided in (c), incurred in providing the 
+Administrative and Support Services described in Exhibit A or in making, 
+obtaining, and maintaining in force the Authorizations as described in 
+Section 11.1, and shall further pay Service Provider a mark-up on such 
+costs. The mark-up shall be based on the mark-up percentage that the 
+Parties mutually agree is consistent with the financial returns of 
+independent companies performing similar services. The Parties shall review 
+and (if necessary) update the mark-up percentage on an annual basis.
+      (b)
+Service Recipient shall reimburse Service Provider for its Costs, excluding 
+third-party costs as provided in (c), incurred in providing the Other 
+Services described in Exhibit A, and shall further pay Service Provider a 
+mark-up on such costs. The mark-up shall be based on the mark-up percentage 
+that the Parties mutually agree is consistent with the financial returns of 
+independent companies performing similar services. The Parties shall review 
+and (if necessary) update the mark-up percentage on an annual basis.
+      (c)
+If the Service Provider engages a third party pursuant to Section 3.4 
+hereof, the Service Recipient shall reimburse the Service Provider for all 
+reasonable and actual out-of-pocket costs incurred by the Service Provider 
+in connection with such engagement.
+
+

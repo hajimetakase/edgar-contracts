@@ -1,0 +1,947 @@
+ EX-10.1 5 ex_101.htm
+
+
+
+
+                                                                                                                        Exhibit 10.1
+
+
+                                    RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC.,
+
+                                                   as Purchaser,
+
+                                                GMAC MORTGAGE, LLC,
+
+                                                   as Servicer,
+
+                                     WALNUT GROVE MORTGAGE LOAN TRUST 2003-A,
+
+                                                    as Seller,
+
+                                      GMACM HOME EQUITY LOAN TRUST 2007-HE3,
+
+                                                    as Issuer,
+
+                                                        and
+
+                                     THE BANK OF NEW YORK TRUST COMPANY, N.A.,
+
+                                               as Indenture Trustee
+
+
+
+
+                                   ____________________________________________
+
+                                         MORTGAGE LOAN PURCHASE AGREEMENT
+                                   ____________________________________________
+
+
+
+                                           Dated as of October 26, 2007
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+ARTICLE I             DEFINITIONS................................................................................2
+
+         Section 1.1           Definitions.......................................................................2
+         Section 1.2           Other Definitional Provisions.....................................................2
+
+ARTICLE II            SALE OF MORTGAGE LOANS AND RELATED PROVISIONS..............................................3
+
+         Section 2.1           Sale of Mortgage Loans............................................................3
+         Section 2.2           [Reserved]........................................................................5
+         Section 2.3           Payment of Purchase Price.........................................................5
+
+ARTICLE III           REPRESENTATIONS AND WARRANTIES; REMEDIES FOR BREACH........................................5
+
+         Section 3.1           Representations and Warranties....................................................5
+
+ARTICLE IV            SELLERS' COVENANTS........................................................................14
+
+         Section 4.1           Covenants of the Seller..........................................................14
+
+ARTICLE V             SERVICING.................................................................................15
+
+         Section 5.1           Servicing........................................................................15
+
+ARTICLE VI            LIMITATION ON LIABILITY OF THE SELLERS....................................................15
+
+         Section 6.1           Limitation on Liability of the Seller............................................15
+
+ARTICLE VII           TERMINATION...............................................................................15
+
+         Section 7.1           Termination......................................................................15
+
+ARTICLE VIII          MISCELLANEOUS PROVISIONS..................................................................15
+
+         Section 8.1           Amendment........................................................................15
+         Section 8.2           Governing Law....................................................................15
+         Section 8.3           Notices..........................................................................16
+         Section 8.4           Severability of Provisions.......................................................17
+         Section 8.5           Relationship of Parties..........................................................17
+         Section 8.6           Counterparts.....................................................................18
+         Section 8.7           Further Agreements...............................................................18
+         Section 8.8           Intention of the Parties.........................................................18
+         Section 8.9           Successors and Assigns; Assignment of this Agreement.............................18
+         Section 8.10          Survival.........................................................................18
+
+EXHIBIT 1 MORTGAGE LOAN SCHEDULE            Exhibit 1
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+         This Mortgage Loan Purchase  Agreement  (the  "Agreement"),  dated as of October  26, 2007,  is made among
+GMAC  Mortgage,  LLC ("GMACM" or the  "Servicer"),  Walnut Grove Mortgage Loan Trust 2003-A,  as seller  ("WG Trust
+2003" or the "Seller"),  Residential  Asset Mortgage  Products,  Inc., as purchaser (the  "Purchaser"),  GMACM Home
+Equity Loan Trust 2007-HE3,  as issuer (the "Issuer"),  and The Bank of New York Trust Company,  N.A., as indenture
+trustee (the "Indenture Trustee").
+
+
+                                                    WITNESSETH:
+
+         WHEREAS,  GMACM,  in the ordinary  course of its business  acquires and  originates  home equity loans and
+acquired or  originated  all of the home equity loans listed on the Mortgage  Loan  Schedule  attached as Exhibit 1
+hereto (the "Mortgage Loans");
+
+         WHEREAS,  GMACM sold the  Mortgage  Loans to Walnut Grove  Funding,  LLC  ("Walnut  Grove")  pursuant to a
+Mortgage Loan Purchase Agreement (the "Walnut Grove Purchase Agreement"),  dated as of January 31,  2003 (each date
+of sale, a "Prior  Transfer Date") among Walnut Grove,  as purchaser,  GMACM,  as seller,  WG Trust 2003, as Issuer
+and Bank One, National Association, as trustee;
+
+         WHEREAS,  Walnut Grove sold the Mortgage  Loans to WG Trust 2003 pursuant to a Trust  Agreement,  dated as
+of January 31, 2003, between Walnut Grove, as depositor and Wilmington Trust Company, as owner trustee;
+
+         WHEREAS,  WG Trust  2003 owns the  Cut-Off  Date  Principal  Balances  and the Related  Documents  for the
+Mortgage Loans identified on the Mortgage Loan Schedule  attached as Exhibit 1 hereto,  including rights to (a) any
+property  acquired  by  foreclosure  or deed in lieu of  foreclosure  or  otherwise,  and  (b) the  proceeds of any
+insurance policies covering the Mortgage Loans;
+
+         WHEREAS,  the parties hereto desire that:  (i) WG Trust 2003 sell the Cut-Off Date  Principal  Balances of
+the  Mortgage  Loans to the  Purchaser on the Closing Date  pursuant to the terms of this  Agreement  and (iii) the
+Seller and GMACM make certain representations and warranties on the Closing Date;
+
+         WHEREAS,  pursuant to the Trust Agreement,  the Purchaser will sell the Mortgage Loans and transfer all of
+its rights under this Agreement to the Issuer on the Closing Date;
+
+         WHEREAS, pursuant to the terms of the Servicing Agreement, the Servicer will service the Mortgage Loans;
+
+         WHEREAS, pursuant to the terms of the Trust Agreement, the Issuer will issue the Certificates;
+
+         WHEREAS,  pursuant to the terms of the  Indenture,  the Issuer will issue the Notes,  secured by the Trust
+Estate;
+
+         NOW,  THEREFORE,  in consideration of the mutual covenants herein  contained,  the parties hereto agree as
+follows:
+
+                                                     ARTICLE I
+
+                                                    DEFINITIONS
+
+         Section 1.1       Definitions.  For  all  purposes  of  this  Agreement,  except  as  otherwise  expressly
+provided herein or unless the context  otherwise  requires,  capitalized  terms not otherwise  defined herein shall
+have the meanings  assigned to such terms in the  Definitions  contained in Appendix A to the Indenture dated as of
+October  26, 2007 (the  "Indenture"),  between  the Issuer and the  Indenture  Trustee,  which is  incorporated  by
+reference herein.  All other capitalized terms used herein shall have the meanings specified herein.
+
+         Section 1.2       Other  Definitional  Provisions.  All terms  defined  in this  Agreement  shall have the
+defined  meanings  when  used in any  certificate  or other  document  made or  delivered  pursuant  hereto  unless
+otherwise defined therein.
+
+         As used in this Agreement and in any  certificate or other document made or delivered  pursuant  hereto or
+thereto,  accounting  terms not  defined  in this  Agreement  or in any such  certificate  or other  document,  and
+accounting terms partly defined in this Agreement or in any such  certificate or other document,  to the extent not
+defined,  shall have the respective meanings given to them under generally accepted accounting  principles.  To the
+extent that the  definitions  of accounting  terms in this  Agreement or in any such  certificate or other document
+are inconsistent with the meanings of such terms under generally accepted  accounting  principles,  the definitions
+contained in this Agreement or in any such certificate or other document shall control.
+
+         The words  "hereof,"  "herein,"  "hereunder" and words of similar import when used in this Agreement shall
+refer to this  Agreement  as a whole and not to any  particular  provision of this  Agreement;  Section and Exhibit
+references  contained in this  Agreement  are  references to Sections and Exhibits in or to this  Agreement  unless
+otherwise specified;  the term "including" shall mean "including without limitation";  "or" shall include "and/or";
+and the term "proceeds" shall have the meaning ascribed thereto in the UCC.
+
+         The  definitions  contained in this  Agreement are  applicable to the singular as well as the plural forms
+of such terms and to the masculine as well as the feminine and neuter genders of such terms.
+
+         Any  agreement,  instrument or statute  defined or referred to herein or in any  instrument or certificate
+delivered  in  connection  herewith  means such  agreement,  instrument  or  statute as from time to time  amended,
+modified or  supplemented  and includes (in the case of agreements or  instruments)  references to all  attachments
+thereto and  instruments  incorporated  therein;  references to a Person are also to its permitted  successors  and
+assigns.
+
+                                                    ARTICLE II
+
+                                   SALE OF MORTGAGE LOANS AND RELATED PROVISIONS
+
+         Section 2.1       Sale of Mortgage Loans.
+
+                  (a) WG Trust 2003,  by the execution and delivery of this  Agreement,  does hereby sell,  assign,
+set over, and otherwise  convey to the Purchaser,  without  recourse,  all of its right,  title and interest in, to
+and under the  following,  and wherever  located:  (i) the Mortgage  Loans  (including  the Cut-Off Date  Principal
+Balances of the Mortgage Loans),  all interest accruing thereon,  all monies due or to become due thereon,  and all
+collections  in respect  thereof  received on or after the Cut-Off Date (other than interest  thereon in respect of
+any period prior to the Cut-Off Date);  (ii) the WG Trust 2003's  interest in any insurance  policies in respect of
+the Mortgage Loans; and (iii) all proceeds of the foregoing.
+
+                  (b) In  connection  with the  conveyance  by  WG Trust  2003 of the  Mortgage  Loans,  the Seller
+further agrees, at its own expense,  on or prior to the Closing Date with respect to the Principal  Balances of the
+Mortgage  Loans,  to indicate in its books and records  that the  respective  Mortgage  Loans have been sold to the
+Purchaser  pursuant to this  Agreement.  The Servicer agrees to deliver to the Purchaser true and complete lists of
+all of the Mortgage  Loans sold by the Seller  specifying  for each Mortgage  Loan (i) its account  number and (ii)
+its Cut-Off Date Principal  Balance.  The Mortgage Loan Schedule  indicating such  information  with respect to the
+Mortgage  Loans shall be marked as Exhibit 1 to this Agreement and is hereby  incorporated  into and made a part of
+this Agreement.
+
+                  (c) In connection  with the conveyance by WG Trust 2003 of the Mortgage Loans,  GMACM shall,  (A)
+with respect to each  Mortgage  Loan,  on behalf of the Purchaser  deliver to, and deposit with the  Custodian,  at
+least five (5) Business Days before the Closing  Date,  the original  Mortgage  Note  endorsed or assigned  without
+recourse in blank (which  endorsement  shall contain  either an original  signature or a facsimile  signature of an
+authorized  officer of GMACM),  or, with respect to any Mortgage  Loan as to which the original  Mortgage  Note has
+been  permanently  lost or  destroyed  and has not been  replaced,  a Lost  Note  Affidavit,  and any  modification
+agreement  or  amendment  to such  Mortgage  Note and (B)  except as  provided  in clause  (A) with  respect to the
+Mortgage Notes, deliver the Mortgage Files to the Servicer.
+
+         Within the time  period for the review of each  Mortgage  Note set forth in Section  2.2 of the  Custodial
+Agreement,  if a material defect in any Mortgage Note is discovered  which may materially and adversely  affect the
+value of the related  Mortgage Loan, or the interests of the Indenture  Trustee (as pledgee of the Mortgage Loans),
+the Noteholders,  the  Certificateholders  in such Mortgage Loan, including GMACM's failure to deliver the Mortgage
+Note to the  Custodian on behalf of the Indenture  Trustee,  GMACM shall cure such defect,  repurchase  the related
+Mortgage Loan at the Repurchase  Price or substitute an Eligible  Substitute  Loan therefor upon the same terms and
+conditions  set forth in Section 3.1 hereof for  breaches of  representations  and  warranties  as to the  Mortgage
+Loans,  provided that the Seller shall have the option to substitute an Eligible  Substitute Loan or Loans for such
+Mortgage Loan only if such  substitution  occurs within two years  following the Closing Date. If a material defect
+in any of the  documents  in the  Mortgage  File  held by the  Servicer  is  discovered  which may  materially  and
+adversely affect the value of the related  Mortgage Loan, or the interests of the Indenture  Trustee (as pledgee of
+the Mortgage Loans), the Noteholders,  the  Certificateholders  in such Mortgage Loan, including GMACM's failure to
+deliver  such  documents  to the  Servicer  on behalf of the  Indenture  Trustee,  GMACM  shall  cure such  defect,
+repurchase the related  Mortgage Loan at the Repurchase  Price or substitute an Eligible  Substitute  Loan therefor
+upon the same terms and conditions set forth in Section 3.1 hereof for breaches of  representations  and warranties
+as to the Mortgage  Loans,  provided  that the Seller shall have the option to  substitute  an Eligible  Substitute
+Loan or Loans for such Mortgage Loan only if such substitution occurs within two years following the Closing Date.
+
+         Upon sale of the Mortgage  Loans,  the  ownership of each  Mortgage  Note,  each related  Mortgage and the
+contents  of the  related  Mortgage  File shall be vested in the  Purchaser  and the  ownership  of all records and
+documents  with respect to the Mortgage  Loans that are prepared by or that come into the  possession of the Seller
+or by the Servicer under the Servicing  Agreement shall  immediately  vest in the Purchaser,  and shall be promptly
+delivered to the Servicer and retained  and  maintained  in trust by the Servicer  (except for the Mortgage  Notes,
+which shall be retained by the  Custodian) at the will of the  Purchaser,  in such  custodial  capacity  only.  The
+Seller's records will accurately reflect the sale of each Mortgage Loan sold by it to the Purchaser.
+
+         The  Purchaser  hereby  acknowledges  its  acceptance  of all right,  title and  interest to the  property
+conveyed to it pursuant to this Section 2.1.
+
+                  (d) The parties  hereto intend that the  transactions  set forth herein  constitute a sale by the
+Seller to the  Purchaser  of each of the Seller'  right,  title and  interest in and to their  respective  Mortgage
+Loans and other  property as and to the extent  described  above.  In the event the  transactions  set forth herein
+are deemed not to be a sale,  the Seller hereby grants to the Purchaser a security  interest in all of the Seller's
+right,  title and interest in, to and under all accounts,  chattel papers,  general  intangibles,  contract rights,
+payment intangibles,  certificates of deposit, deposit accounts, instruments,  documents, letters of credit, money,
+advices of credit,  investment  property,  goods and other property  consisting of, arising under or related to the
+Mortgage Loans and such other property,  to secure all of the Seller's  obligations  hereunder,  and this Agreement
+shall and hereby does  constitute a security  agreement  under  applicable  law. The Seller agrees to take or cause
+to be taken such actions and to execute such documents,  including the filing of any  continuation  statements with
+respect  to the UCC-1  financing  statements  filed with  respect to the  Mortgage  Loans by the  Purchaser  on the
+Closing Date, and any  amendments  thereto  required to reflect a change in the name or corporate  structure of the
+Seller or the filing of any additional  UCC-1  financing  statements  due to the change in the principal  office or
+jurisdiction  of  incorporation  of the Seller,  as are  necessary to perfect and protect the  Purchaser's  and its
+assignees'  interests  in  each  Mortgage  Loan  and the  proceeds  thereof.  The  Servicer  shall  file  any  such
+continuation statements on a timely basis.
+
+                  (e) In  connection  with the  assignment  of any Mortgage  Loan  registered  on the MERS® System,
+GMACM further agrees that it will cause,  at GMACM's own expense,  as soon as  practicable  after the Closing Date,
+the MERS®  System to  indicate  that such  Mortgage  Loan has been  assigned by GMACM to the  Indenture  Trustee in
+accordance  with this  Agreement  or the Trust  Agreement  for the  benefit of the  Noteholders  by  including  (or
+deleting,  in the case of Mortgage Loans which are  repurchased in accordance with this Agreement) in such computer
+files (a) the specific code which  identifies  the Indenture  Trustee as the assignee of such Mortgage Loan and (b)
+the series  specific code in the field "Pool Field" which  identifies  the series of the Notes issued in connection
+with the Mortgage  Loans.  GMACM agrees that it will not alter the codes  referenced in this paragraph with respect
+to any Mortgage  Loan during the term of this  Agreement  unless and until such  Mortgage  Loan is  repurchased  in
+accordance with the terms of this Agreement.
+
+         Section 2.2       [Reserved]..
+
+         Section 2.3       Payment of Purchase Price.
+
+                  (a) The  sale of the  Mortgage  Loans  shall  take  place on the  Closing  Date,  subject  to and
+simultaneously  with the deposit of the Mortgage Loans into the Trust Estate,  and the issuance of the  Securities.
+The purchase  price for the Mortgage  Loans to be paid by the  Purchaser to the Seller on the Closing Date shall be
+an amount equal to  $257,952,104.44  in  immediately  available  funds,  in respect of the Cut-Off  Date  Principal
+Balances thereof.
+
+                  (b) In  consideration  of the sale of the  Mortgage  Loans by the Seller to the  Purchaser on the
+Closing Date, the Purchaser  shall pay to the Seller on the Closing Date by wire transfer of immediately  available
+funds to a bank account  designated  by the Seller,  the amount  specified  above in paragraph (a) for the Mortgage
+Loans; provided, that such payment may be on a net funding basis if agreed by the Seller and the Purchaser.
+
+
+                                                    ARTICLE III
+
+                                          REPRESENTATIONS AND WARRANTIES;
+                                                REMEDIES FOR BREACH
+
+         Section 3.1       Representations  and Warranties.The  Servicer  represents and warrants to the Purchaser,
+as of the Closing Date (or if otherwise specified below, as of the date so specified):
+
+         (a)      As to the Servicer:
+
+                           (i)      GMACM is a limited  liability  company duly organized,  validly existing and in
+good  standing  under the laws of the  jurisdiction  governing  its  creation  and  existence  and is or will be in
+compliance  with the laws of each state in which any  Mortgaged  Property  is located  to the extent  necessary  to
+ensure the enforceability of each Mortgage Loan;
+
+                           (ii)     GMACM has the power and  authority  to make,  execute,  deliver and perform its
+obligations under this Agreement and all of the transactions  contemplated under this Agreement,  and has taken all
+necessary corporate action to authorize the execution, delivery and performance of this Agreement;
+
+                           (iii)    GMACM is not  required  to  obtain  the  consent  of any  other  Person  or any
+consents,  licenses,  approvals or  authorizations  from, or registrations  or declarations  with, any governmental
+authority,  bureau or agency in connection with the execution,  delivery,  performance,  validity or enforceability
+of this  Agreement,  except  for  such  consents,  licenses,  approvals  or  authorizations,  or  registrations  or
+declarations, as shall have been obtained or filed, as the case may be;
+
+                           (iv)     The execution and delivery of this Agreement by GMACM and its  performance  and
+compliance  with the terms of this  Agreement  will not violate  GMACM's  Certificate  of  Formation  or  Operating
+Agreement  or  constitute  a material  default (or an event  which,  with notice or lapse of time,  or both,  would
+constitute a material  default)  under, or result in the material  breach of, any material  contract,  agreement or
+other instrument to which GMACM is a party or which may be applicable to GMACM or any of its assets;
+
+                           (v)      No  litigation  before any court,  tribunal or  governmental  body is currently
+pending,  or to the  knowledge of GMACM  threatened,  against GMACM or with respect to this  Agreement  that in the
+opinion of GMACM has a  reasonable  likelihood  of  resulting  in a  material  adverse  effect on the  transactions
+contemplated by this Agreement;
+
+                           (vi)     [Reserved];
+
+                           (vii)    This Agreement to which it is a party,  constitutes a legal,  valid and binding
+obligation of GMACM,  enforceable  against  GMACM in accordance  with its terms,  except as  enforceability  may be
+limited by applicable  bankruptcy,  insolvency,  reorganization,  moratorium or other similar laws now or hereafter
+in effect  affecting the  enforcement  of  creditors'  rights in general and except as such  enforceability  may be
+limited by general  principles  of equity  (whether  considered  in a proceeding  at law or in equity) or by public
+policy with respect to indemnification under applicable securities laws;
+
+                           (viii)   [Reserved]; and
+
+                           (ix)     GMACM is not in  default  with  respect  to any order or decree of any court or
+any order,  regulation or demand of any federal,  state, municipal or governmental agency, which default might have
+consequences  that would  materially and adversely  affect the condition  (financial or otherwise) or operations of
+GMACM or its  properties  or might  have  consequences  that would  materially  adversely  affect  its  performance
+hereunder;
+
+         (b)      As to each  Mortgage  Loan (except as otherwise  specified  below) as of the Closing Date (except
+as otherwise specified below):
+
+                           (i)      The  information  set forth in the Mortgage  Loan Schedule with respect to each
+Mortgage  Loan or the  Mortgage  Loans  is true  and  correct  in all  material  respects  as of the  date or dates
+respecting which such information is initially furnished;
+
+                           (ii)     With respect to each of the Mortgage Loans:  (A) the related  Mortgage Note and
+the Mortgage had not been  assigned or pledged,  except for any  assignment  or pledge that has been  satisfied and
+released,  (B) immediately  prior to the  assignment of the Mortgage  Loans to Walnut  Grove,  GMACM had good title
+thereto and (C)  immediately  prior to such  assignment,  GMACM was the sole owner and holder of the Mortgage  Loan
+free and clear of any and all liens,  encumbrances,  pledges,  or security  interests  (other than, with respect to
+any Mortgage Loan in a second lien  position,  the lien of the related  first  mortgage) of any nature and had full
+right and authority,  under all governmental and regulatory  bodies having  jurisdiction  over the ownership of the
+applicable Mortgage Loan, to sell and assign the same pursuant to the related Walnut Grove Purchase Agreement;
+
+                           (iii)    [Reserved];
+
+                           (iv)     To the  best of  GMACM's  knowledge,  there  is no  valid  offset,  defense  or
+counterclaim of any obligor under any Mortgage Note or Mortgage;
+
+                           (v)      To the best of GMACM's  knowledge,  there is no  delinquent  recording or other
+tax or fee or assessment lien against any related Mortgaged Property;
+
+                           (vi)     To the best of GMACM's knowledge,  there is no proceeding pending or threatened
+for the total or partial condemnation of the related Mortgaged Property;
+
+                           (vii)    To the best of GMACM's  knowledge,  there are no mechanics' or similar liens or
+claims which have been filed for work,  labor or material  affecting the related  Mortgaged  Property which are, or
+may be liens prior or equal to, or  subordinate  with,  the lien of the related  Mortgage,  except  liens which are
+fully insured against by the title insurance policy referred to in clause (xi);
+
+                           (viii)   As of the  Cut-Off  Date no  Mortgage  Loan was 30 days or more  delinquent  in
+payment of principal or interest;
+
+                           (ix)     [Reserved];
+
+                           (x)      The  related  Mortgage  Note and the  related  Mortgage at the time it was made
+complied in all material respects with applicable  local,  state and federal laws,  including,  but not limited to,
+applicable predatory lending laws;
+
+                           (xi)     A  title  search  or  other  assurance  of  title  customary  in  the  relevant
+jurisdiction was obtained with respect to each Mortgage Loan;
+
+                           (xii)    None of the  Mortgaged  Properties is a mobile home or a  manufactured  housing
+unit that is not permanently attached to its foundation;
+
+                           (xiii)   As of the Cut-Off Date, (a) no more than approximately  19.67%, 6.06% and 5.23%
+of the Mortgage  Loans,  by Cut-Off Date  Principal,  are secured by Mortgaged  Properties  located in  California,
+Florida and Texas, respectively;
+
+                           (xiv)    As of the Cut-Off  Date,  the Combined  Loan-to-Value  Ratio for each  Mortgage
+Loan was not in excess of 100.00%;
+
+                           (xv)     [Reserved];
+
+                           (xvi)    As of the  Cut-Off  Date,  no more than  approximately  27.13% of the  Mortgage
+Loans, by Cut-Off Date Principal Balance,  are secured by Mortgaged  Properties which may have been appraised using
+a  statistical  property  evaluation  method and most of the  appraisals  on such  Mortgaged  Properties  have been
+delivered by Basis100 Inc. (also known as Solimar);  no more than  approximately  1.83% of the Mortgage  Loans,  by
+Cut-Off Date Principal Balance,  are secured by Mortgaged  Properties which may have been appraised using the GMACM
+Stated Value method;  no more than  approximately  0.17% of the Mortgage Loans, by Cut-Off Date Principal  Balance,
+are  secured  by  Mortgaged  Properties  which  may  have  been  appraised  using a tax  assessment;  no more  than
+approximately 9.75% of the Mortgage Loans, by Cut-Off Date Principal Balance,  are secured by Mortgaged  Properties
+which may have been  appraised  using a broker price  opinion;  no more than  approximately  51.01% of the Mortgage
+Loans, by Cut-Off Date Principal Balance,  are secured by Mortgaged  Properties which may have been appraised using
+a URAR Form 1004; no more than approximately  0.68% of the Mortgage Loans, by Cut-Off Date Principal  Balance,  are
+secured  by  Mortgaged  Properties  which  may  have  been  appraised  using a  Drive-By  Form  704;  no more  than
+approximately 1.53% of the Mortgage Loans, by Cut-Off Date Principal Balance,  are secured by Mortgaged  Properties
+which may have been appraised using Form 1025; no more than  approximately  1.79% of the Mortgage Loans, by Cut-Off
+Date Principal  Balance,  are secured by Mortgaged  Properties  which may have been  appraised  using Form 1073; no
+more than approximately  0.15% of the Mortgage Loans, by Cut-Off Date Principal  Balance,  are secured by Mortgaged
+Properties which may have been appraised using Form 1075 (With Exterior);  no more than approximately  5.77% of the
+Mortgage  Loans,  by Cut-Off  Date  Principal  Balance,  are secured by  Mortgaged  Properties  which may have been
+appraised  using Form 2055 (Exterior  Only);  no more than  approximately  0.02% of the Mortgage  Loans, by Cut-Off
+Date Principal Balance,  are secured by Mortgaged  Properties which may have been appraised using a Form 2055 (with
+Interior  Inspection);  and none of the Mortgage Loans, by Cut-Off Date Principal Balance, are secured by Mortgaged
+Properties  which may have been  appraised  using a Form 2065;  no more than  approximately  0.17% of the  Mortgage
+Loans, by Cut-Off Date Principal Balance,  are secured by Mortgaged  Properties which may have been appraised using
+Form 2075;
+
+                           (xvii)   Within a loan type,  and except as required by  applicable  law,  each Mortgage
+Note and each Mortgage is an enforceable obligation of the related Mortgagor;
+
+                           (xviii)  To the best knowledge of GMACM, the physical  property subject to each Mortgage
+is free of material damage and is in acceptable repair;
+
+                           (xix)    GMACM has not received a notice of default of any senior  mortgage loan related
+to a Mortgaged Property which has not been cured by a party other than the Servicer;
+
+                           (xx)     None of the Mortgage Loans is a reverse mortgage loan;
+
+                           (xxi)    No Mortgage Loan has an original term to maturity in excess of 360 months;
+
+                           (xxii)   As of the Cut-Off  Date,  all of the Mortgage  Loans are fixed rate.  As of the
+Cut-Of Date,  43.90% of the Mortgage  Loans,  by Cut-Off Date  Principal,  are Balloon  Mortgage  Loans.  As of the
+Cut-Off Date,  the Loan Rates on the Mortgage  Loans range between 4.25% and 18.475%.  As of the Cut-Off Date,  the
+weighted average Loan Rate for the Mortgage Loans is  approximately  9.047%.  The weighted  average  remaining term
+to scheduled  maturity of the Mortgage  Loans on a contractual  basis as of the Cut-Off Date is  approximately  221
+months;
+
+                           (xxiii)  (A) Each Mortgaged  Property  consists of a single parcel of real property with
+a single family or two- to four-family  residence erected thereon, or an individual  condominium unit, planned unit
+development  unit,  manufactured  housing  unit  or a  townhouse.  (B) With  respect  to the  Mortgage  Loans,  (a)
+ approximately  78.21% (by Cut-Off  Date  Principal  Balance)  are secured by real  property  with a single  family
+residence  erected  thereon,  (b) approximately  13.27% (by Cut-Off  Date  Principal  Balance)  are secured by real
+property improved by planned  development  units,  (c) approximately  5.76% (by Cut-Off Date Principal Balance) are
+secured by real  property  improved by  individual  condominium  units,  (d) approximately  2.75% (by Cut-Off  Date
+Principal  Balance)  are  secured by real  property  with a two- to  four-family  residence  erected  thereon,  and
+(e) approximately 0.01% (by Cut-Off Date Principal Balance) are secured by real property improved by townhouses;
+
+                           (xxiv)   As of the Cut-Off Date, no  Mortgage Loan had a principal  balance in excess of
+$79,521.37.
+
+                           (xxv)    No  more  than  approximately  95.30%  of  the  Mortgage  Loans,  by  aggregate
+Principal Balance as of the Cut-Off Date, are secured by second liens;
+
+                           (xxvi)   A policy of hazard insurance and flood insurance,  if applicable,  was required
+from the Mortgagor for the Mortgage Loan when the Mortgage Loan was originated;
+
+                           (xxvii)  Other than with  respect to a payment  default,  there is no material  default,
+breach,  violation or event of  acceleration  existing under the terms of any Mortgage Note or Mortgage and, to the
+best of  GMACM's  knowledge,  no event  which,  with  notice  and  expiration  of any grace or cure  period,  would
+constitute a material default,  breach,  violation or event of acceleration under the terms of any Mortgage Note or
+Mortgage,  and no such  material  default,  breach,  violation  or event of  acceleration  has been waived by GMACM
+involved in originating or servicing the related Mortgage Loan;
+
+                           (xxviii)   [Reserved];
+
+                           (xxix)   With respect to each  Mortgage  Loan  secured by a second  lien,  either (a) no
+consent for such Mortgage  Loan was required by the holder or holders of the related  prior lien,  (b) such consent
+has been  obtained and is contained  in the related  Mortgage  File or (c) no  consent for such  Mortgage  Loan was
+required by relevant law;
+
+                           (xxx)    With respect to each Mortgage Loan, to the extent  permitted by applicable law,
+the related  Mortgage  contains a customary  provision for the  acceleration of the payment of the unpaid Principal
+Balance of the Mortgage Loan in the event the related  Mortgaged  Property is sold without the prior consent of the
+mortgagee thereunder;
+
+                           (xxxi)   No  Mortgage  Loan  provides  for  payments  that are subject to  reduction  by
+withholding taxes levied by foreign (non-United States) sovereign government;
+
+                           (xxxii)  None of the Mortgage  Loans are "high cost loans" subject to the Home Ownership
+and Equity Protection Act of 1994;
+
+                           (xxxiii) As of the Cut-Off  Date,  none of the  Mortgage  Loans are "High Cost Loans" or
+"Covered  Loans" (as such terms are defined in the version of Appendix E to the Standard & Poor's  LEVELS  Glossary
+in effect as of the Closing Date);
+
+                           (xxxiv)  None of the Mortgage Loans are secured by Mortgaged  Properties  located in the
+State of Georgia;
+
+                           (xxxv)   Each  Mortgage  Loan   constitutes   a  "qualified   mortgage"   under  Section
+860G(a)(3)(A) of the Code and Treasury Regulation Section  1.860G-2(a)(1),  (2), (4), (5), (6), (7) and (9) without
+reliance  on the  provisions  of Treasury  Regulations  Section  1.860G-2(a)(3)  or  Treasury  Regulations  Section
+1.860G-2(f)(2)  or any other  provision  that would allow a Mortgage  Loan to be treated as a "qualified  mortgage"
+notwithstanding  its failure to meet the requirements of Section  860G(a)(3)(A) of the Code and Treasury Regulation
+Section 1.860G-2(a)(1), (2), (4), (5), (6), (7) and (9);
+
+                           (xxxvi)  GMACM used no selection  procedures that identified the Mortgage Loans as being
+less desirable or valuable than other  comparable  mortgage  loans  originated or acquired by GMACM under the GMACM
+Home Equity  Program.  The Mortgage Loans are  representative  of GMACM's  portfolio of home equity lines of credit
+that were originated under the GMACM Home Equity Program;
+
+                           (xxxvii) No  fraud  or  misrepresentation  of  a  material  fact  with  respect  to  the
+origination  of a  Mortgage  Loan has taken  place on the part of GMACM and to the best of  GMACM's  knowledge,  no
+fraud or  misrepresentation  of a material fact with respect to the  origination of a Mortgage Loan has taken place
+on the  part  of any  third  party,  including  without  limitation  the  related  mortgagor,  connected  with  the
+origination of a Mortgage Loan; and
+
+                           (xxxviii)        No borrower  obtained a prepaid  single  premium  credit  life,  credit
+disability,  credit  unemployment  or credit  property  insurance  policy in connection with the origination of the
+Mortgage Loans.
+
+                  With respect to this Section 3.1(b),  representations  made by GMACM with respect to the Mortgage
+Loans are made by GMACM in its capacity as Servicer.
+
+         (c)      [Reserved].
+
+         (d)      WG Trust  2003  Representations  and  Warranties.  The  Seller  represents  and  warrants  to the
+Purchaser:
+
+         (I)      As to the Seller:
+
+                           (i)      WG Trust 2003 is a Delaware  statutory trust duly organized,  validly  existing
+and in good standing under the laws of the State of Delaware;
+
+                           (ii)     WG Trust  2003 has the  power  and  authority  to make,  execute,  deliver  and
+perform  its  obligations  under this  Agreement  to which it is a party and all of the  transactions  contemplated
+under this Agreement,  and has taken all necessary  action to authorize the execution,  delivery and performance of
+this Agreement;
+
+                           (iii)    WG Trust  2003 is not required to obtain the consent of any other Person or any
+consents,  licenses,  approvals or  authorizations  from, or registrations  or declarations  with, any governmental
+authority,  bureau or agency in connection with the execution,  delivery,  performance,  validity or enforceability
+of this  Agreement,  except  for  such  consents,  licenses,  approvals  or  authorizations,  or  registrations  or
+declarations, as shall have been obtained or filed, as the case may be;
+
+                           (iv)     The  execution  and  delivery  of  this  Agreement  and  its   performance  and
+compliance  with  the  terms of this  Agreement  will not  violate  WG Trust  2003's  organizational  documents  or
+constitute  a material  default (or an event  which,  with notice or lapse of time,  or both,  would  constitute  a
+material  default)  under,  or  result in the  material  breach  of,  any  material  contract,  agreement  or other
+instrument to which WG Trust 2003 is a party or which may be applicable to WG Trust 2003 or any of its assets;
+
+                           (v)      No  litigation  before any court,  tribunal or  governmental  body is currently
+pending,  or to the knowledge of WG Trust 2003 threatened,  against WG Trust 2003 or with respect to this Agreement
+that in the opinion of WG Trust 2003 has a reasonable  likelihood of resulting in a material  adverse effect on the
+transactions contemplated by this Agreement;
+
+                           (vi)     This Agreement  constitutes a legal,  valid and binding  obligation of WG Trust
+2003,  enforceable  against WG Trust 2003 in accordance with its terms,  except as enforceability may be limited by
+applicable  bankruptcy,  insolvency,  reorganization,  moratorium  or other similar laws now or hereafter in effect
+affecting the  enforcement  of  creditors'  rights in general and except as such  enforceability  may be limited by
+general  principles  of equity  (whether  considered  in a proceeding at law or in equity) or by public policy with
+respect to indemnification under applicable securities laws;
+
+                           (vii)    This Agreement  constitutes a valid transfer and assignment to the Purchaser of
+all right,  title and interest of WG Trust 2003 in and to the Mortgage Loans,  including the Cut-Off Date Principal
+Balances  with  respect to the  Mortgage  Loans,  all monies due or to become  due with  respect  thereto,  and all
+proceeds of such Cut-Off Date Principal Balances with respect to the Mortgage Loans; and
+
+                           (viii)   WG Trust  2003 is not in  default  with  respect  to any order or decree of any
+court or any order,  regulation or demand of any federal,  state,  municipal or governmental  agency, which default
+might have  consequences  that would  materially  and adversely  affect the  condition  (financial or otherwise) or
+operations of WG Trust 2003 or its properties or might have  consequences  that would  materially  adversely affect
+its performance hereunder.
+
+         (II).....As to the Mortgage Loans as of the Closing Date:
+
+                           (i)      With  respect to the  Mortgage  Loans:  (A) the related  Mortgage  Note and the
+Mortgage  have not been  assigned or pledged,  except for any  assignment  or pledge  that has been  satisfied  and
+released,  (B) immediately  prior to the assignment of the Mortgage Loans to the Purchaser,  WG Trust 2003 had good
+title  thereto and (C) WG Trust  2003 is the sole owner and holder of the  Mortgage  Loan free and clear of any and
+all liens,  encumbrances,  pledges,  or security  interests  (other than,  with  respect to any Mortgage  Loan in a
+second lien  position,  the lien of the related  first  mortgage)  of any nature and has full right and  authority,
+under all  governmental and regulatory  bodies having  jurisdiction  over the ownership of the applicable  Mortgage
+Loans to sell and assign the same pursuant to this Agreement;
+
+                           (ii)     For each  Mortgage  Loan,  the related  Mortgage  File contains or will contain
+each of the documents and  instruments  specified to be included  therein in the  definition of "Mortgage  File" in
+Appendix A to the Indenture  (it being  understood  that the Custodian  maintains the Mortgage Note related to each
+Mortgage  File and the Servicer  maintains  the remainder of the items to be included in the Mortgage File pursuant
+to the terms of this Agreement);
+
+                           (iii)    WG Trust 2003 has not  transferred the Mortgage Loans to the Purchaser with any
+intent to hinder, delay or defraud any of its creditors; and
+
+                           (iv)     No  instrument  of release  or waiver has been  executed  by  WG Trust  2003 in
+connection  with the Mortgage  Loans,  and no Mortgagor  has been  released by WG Trust  2003, in whole or in part,
+from its obligations in connection therewith.
+
+         (e)......Remedies.  Upon  discovery by the Seller or the Servicer or upon notice from the  Purchaser,  the
+Issuer, the Owner Trustee,  the Indenture Trustee or the Custodian,  as applicable,  of a breach of the Seller's or
+GMACM's  respective  representations  or warranties in paragraphs (a) or (d)(I) above that materially and adversely
+affects the  interests  of the  Securityholders,  in any Mortgage  Loan,  the Seller  shall,  within 90 days of its
+discovery  or its receipt of notice of such breach,  either (i) cure such breach in all  material  respects or (ii)
+to the extent that such breach is with  respect to a Mortgage  Loan or a Related  Document,  either (A)  repurchase
+such Mortgage Loan from the Issuer at the  Repurchase  Price,  or (B)  substitute  one or more Eligible  Substitute
+Loans for such Mortgage Loan, in each case in the manner and subject to the conditions  and  limitations  set forth
+below.
+
+         Upon  discovery  by the  Seller or the  Servicer  or upon  notice  from the  Purchaser,  the  Issuer,  the
+Servicer,  the Owner Trustee,  the Indenture Trustee or the Custodian,  as applicable,  of a breach of the Seller's
+or GMACM's  representations  or  warranties in paragraphs  (b) or (d)(II)  above  (including,  for the avoidance of
+doubt,  material damage to the physical property caused by the wildfires in Southern  California in connection with
+paragraph  (b)(xviii)  above),  with respect to any Mortgage  Loan, or upon the  occurrence of a Repurchase  Event,
+that materially and adversely affects the interests of the  Securityholders  or the Purchaser in such Mortgage Loan
+(notice  of which  shall be given to the  Purchaser  by the  Seller or the  Servicer,  if it  discovers  the same),
+notwithstanding  the  Seller's or GMACM's lack of knowledge  with respect to the  substance of such  representation
+and  warranty,  GMACM or the Seller  shall,  as  applicable,  within 90 days after the earlier of its  discovery or
+receipt of notice  thereof,  or, if such breach has the effect of making the Mortgage  Loan fail to be a "qualified
+mortgage"  within the meaning of Section  860G of the Internal  Revenue  Code,  within 90 days after the  discovery
+thereof by either the Seller, the Servicer,  the Issuer, the Owner Trustee,  the Indenture Trustee or the Purchaser
+either cure such breach or Repurchase  Event in all material  respects or either (i) repurchase  such Mortgage Loan
+from the  Issuer at the  Repurchase  Price,  or (ii)  substitute  one or more  Eligible  Substitute  Loans for such
+Mortgage Loan, in each case in the manner and subject to the  conditions set forth below,  provided that the Seller
+shall have the option to  substitute  an  Eligible  Substitute  Loan or Loans for such  Mortgage  Loan only if such
+substitution  occurs within two years  following the Closing Date. The Repurchase  Price for any such Mortgage Loan
+repurchased  by the  Seller  shall be  deposited  or caused to be  deposited  by the  Servicer  into the  Custodial
+Account.  Any purchase of a Mortgage Loan due to a Repurchase Event shall be the obligation of the Seller.
+
+         In furtherance  of the foregoing,  if the Seller is not a member of MERS and the Mortgage is registered on
+the MERS®  System,  the Seller,  at its own expense  and  without any right of  reimbursement,  shall cause MERS to
+execute and deliver an  assignment  of the Mortgage in  recordable  form to transfer the Mortgage  from MERS to the
+Seller and shall cause such Mortgage to be removed from  registration  on the MERS® System in accordance with MERS'
+rules and regulations.
+
+         In the event that the Seller  elects to  substitute  an  Eligible  Substitute  Loan or Loans for a Deleted
+Loan  pursuant to this  Section  3.1,  the Seller  shall  deliver to the  Custodian  on behalf of the Issuer,  with
+respect to such Eligible  Substitute Loan or Loans, the original  Mortgage Note, with the Mortgage Note endorsed as
+required under the definition of "Mortgage File" and shall deliver the other  documents  required to be part of the
+Mortgage File to the Servicer.  No  substitution  will be made in any calendar month after the  Determination  Date
+for such month.  Monthly  Payments  due with  respect to  Eligible  Substitute  Loans in the month of  substitution
+shall not be part of the Trust  Estate and will be retained by the  Servicer  and  remitted by the  Servicer to the
+Seller on the next  succeeding  Payment  Date,  provided  that a payment at least equal to the  applicable  Monthly
+Payment  for such  month  in  respect  of the  Deleted  Loan has been  received  by the  Issuer.  For the  month of
+substitution,  distributions  to the Note Payment  Account  pursuant to the  Servicing  Agreement  will include the
+Monthly  Payment due on a Deleted  Loan for such month and  thereafter  the Seller  shall be entitled to retain all
+amounts  received in respect of such Deleted  Loan.  The  Servicer  shall amend or cause to be amended the Mortgage
+Loan Schedule to reflect the removal of such Deleted Loan and the  substitution of the Eligible  Substitute Loan or
+Loans and the Servicer  shall  deliver the amended  Mortgage  Loan  Schedule to the Owner  Trustee,  the  Indenture
+Trustee.  Upon such  substitution,  the  Eligible  Substitute  Loan or Loans  shall be subject to the terms of this
+Agreement  and  the  Servicing  Agreement  in  all  respects,   the  Seller  shall  be  deemed  to  have  made  the
+representations  and warranties with respect to the Eligible  Substitute Loan contained herein set forth in Section
+3.1(b) (other than clauses  (viii)  (xiii),  (xxiv),  (xxv)(B),  (xxvi) and (xxvii)  thereof and other than clauses
+(iii) and (ix) thereof in the case of Eligible  Substitute  Loans  substituted by WG Trust 2003);  the Seller shall
+be deemed to have made the  representations  and  warranties  set forth in  Section  3.1(d)(II);  as of the date of
+substitution,  and the Seller shall be deemed to have made a  representation  and warranty  that each Mortgage Loan
+so substituted is an Eligible  Substitute  Loan as of the date of  substitution.  In addition,  the Seller shall be
+obligated  to  repurchase  or  substitute  for any  Eligible  Substitute  Loan as to which a  Repurchase  Event has
+occurred as provided  herein.  In connection  with the  substitution of one or more Eligible  Substitute  Loans for
+one or more Deleted  Loans,  the Servicer  shall  determine the amount (such  amount,  a  "Substitution  Adjustment
+Amount"),  if any, by which the aggregate principal balance of all such Eligible Substitute Loans as of the date of
+substitution  is less than the  aggregate  principal  balance of all such Deleted Loans (after  application  of the
+principal  portion of the Monthly Payments due in the month of substitution  that are to be distributed to the Note
+Payment  Account in the month of  substitution).  The Seller shall  deposit the amount of such  shortfall  into the
+Custodial Account on the date of substitution, without any reimbursement therefor.
+
+         Notwithstanding  the  foregoing,  with  respect  to any  Mortgage  Loan  for  which a  breach  of  Section
+3.1(b)(xv)  has  occurred,  no  substitutions  will be allowed  unless the Seller pays to the  Servicer,  an amount
+sufficient  to indemnify  the Trust Fund,  Purchaser,  Issuer and Indenture  Trustee  against any losses,  damages,
+penalties,  fines,  forfeitures,  reasonable and necessary legal fees and related costs, judgments, and other costs
+and expenses resulting from any claim,  demand,  defense or assertion based on or grounded upon, or resulting from,
+a breach of such representation.
+
+         Upon receipt by the Indenture  Trustee on behalf of the Issuer and the Custodian of written  notification,
+signed by a Servicing  Officer,  of the deposit of such  Repurchase  Price or of such  substitution  of an Eligible
+Substitute  Loan (together  with the complete  related  Mortgage  File) and deposit of any applicable  Substitution
+Adjustment Amount as provided above, the Custodian,  on behalf of the Indenture  Trustee,  shall (i) release to the
+Seller the related  Mortgage  Note for the Mortgage  Loan being  repurchased  or  substituted  for,  (ii) cause the
+Servicer  to release to the Seller any  remaining  documents  in the  related  Mortgage  File which are held by the
+Servicer,  and (iii) the Indenture  Trustee on behalf of the Issuer shall execute and deliver such  instruments  of
+transfer or assignment  prepared by the Servicer,  in each case without recourse,  as shall be necessary to vest in
+the Seller or its respective  designee such Mortgage Loan released  pursuant  hereto and  thereafter  such Mortgage
+Loan shall not be an asset of the Issuer.
+
+         It is  understood  and agreed that the  obligation  of the Seller to cure any breach,  or to repurchase or
+substitute  for any Mortgage Loan as to which such a breach has occurred and is  continuing,  shall  constitute the
+sole remedy respecting such breach available to the Purchaser,  the Issuer,  the  Certificateholders  (or the Owner
+Trustee  on behalf of the  Certificateholders)  and the  Noteholders  (or the  Indenture  Trustee  on behalf of the
+Noteholders) against the Seller.
+
+         It is understood and agreed that the  representations  and warranties set forth in this Section 3.1  shall
+survive delivery of the respective Mortgage Notes to the Issuer or the Custodian.
+
+         In the event that WG Trust does not comply with its  obligations to repurchase  mortgage loans pursuant to
+this  Agreement,  GMACM shall  repurchase any such mortgage loans but only to the extent that WG Trust is obligated
+to do so hereunder.
+
+                                                    ARTICLE IV
+
+                                                SELLERS' COVENANTS
+
+         Section 4.1       Covenants  of the Seller.  The Seller  hereby  covenants  that,  except for the transfer
+hereunder,  it will not sell,  pledge,  assign or transfer to any other Person, or grant,  create,  incur or assume
+any Lien on any  Mortgage  Loan,  or any interest  therein.  The Seller shall notify the Issuer (in the case of the
+Mortgage Loans,  as assignee of the Purchaser),  of the existence of any Lien (other than as provided above) on any
+Mortgage Loan  immediately  upon discovery  thereof;  and the Seller shall defend the right,  title and interest of
+the Issuer (in the case of the Mortgage  Loans,  as assignee of the  Purchaser) in, to and under the Mortgage Loans
+against all claims of third parties claiming through or under the Seller;  provided,  however, that nothing in this
+Section  4.1  shall be  deemed to apply to any Liens for  municipal  or other  local  taxes and other  governmental
+charges if such  taxes or  governmental  charges  shall not at the time be due and  payable or if the Seller  shall
+currently be contesting the validity thereof in good faith by appropriate Proceedings.
+
+                                                     ARTICLE V
+
+                                                     SERVICING
+
+         Section 5.1       Servicing.   GMACM  shall  service  the  Mortgage   Loans  pursuant  to  the  terms  and
+conditions of the  Servicing  Agreement  and the Program  Guide and shall  service the Mortgage  Loans  directly or
+through one or more sub-servicers in accordance therewith.
+
+                                                    ARTICLE VI
+
+                                      LIMITATION ON LIABILITY OF THE SELLERS
+
+         Section 6.1       Limitation on Liability of the Seller.  None of the  directors,  officers,  employees or
+agents of GMACM or WG Trust 2003 shall be under any liability to the  Purchaser or the Issuer,  it being  expressly
+understood that all such liability is expressly  waived and released as a condition of, and as  consideration  for,
+the  execution  of this  Agreement.  Except as and to the extent  expressly  provided in the  Servicing  Agreement,
+GMACM and WG Trust 2003 shall not be under any liability to the Issuer,  the Owner Trustee,  the Indenture  Trustee
+or the Securityholders.  GMACM or WG Trust 2003 and any director,  officer,  employee or agent of GMACM or WG Trust
+2003 may rely in good faith on any document of any kind prima facie  properly  executed and submitted by any Person
+respecting any matters arising hereunder.
+
+                                                    ARTICLE VII
+
+                                                    TERMINATION
+
+         Section 7.1       Termination.   The  obligations  and   responsibilities  of  the  parties  hereto  shall
+terminate upon the termination of the Trust Agreement.
+
+                                                   ARTICLE VIII
+
+                                             MISCELLANEOUS PROVISIONS
+
+         Section 8.1       Amendment.  This  Agreement  may be amended  from time to time by the parties  hereto by
+written  agreement,  provided that the Servicer and the Indenture Trustee shall have received an Opinion of Counsel
+to the effect that such amendment will not result in an Adverse REMIC Event).
+
+         Section 8.2       Governing  Law. THIS  AGREEMENT  SHALL BE GOVERNED BY AND  CONSTRUED IN ACCORDANCE  WITH
+THE LAWS OF THE STATE OF NEW YORK,  WITHOUT REGARD TO THE CONFLICT OF LAW PRINCIPLES  THEREOF,  OTHER THAN SECTIONS
+5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW, AND THE OBLIGATIONS,  RIGHTS AND REMEDIES OF THE PARTIES
+HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+         Section 8.3       Notices.  All  demands,  notices and  communications  hereunder  shall be in writing and
+shall be deemed to have been duly given if personally  delivered at or mailed by registered mail,  postage prepaid,
+addressed as follows:
+
+                  (a) if to the GMACM:
+
+                               GMAC Mortgage, LLC
+                               100 Witmer Road
+                               Horsham, Pennsylvania  10944
+                               Attention: Barry Bier, Executive Vice President
+                               Re:    GMACM Home Equity Loan Trust 2007-HE3;
+
+                  (b) if to WG Trust 2003:
+
+                               Walnut Grove Mortgage Loan Trust 2003-A
+                               c/o Wilmington Trust Company
+                               1100 North Market Street
+                               Wilmington, Delaware 19890
+                               Attention: Walnut Grove Mortgage Loan Trust 2003-A
+                               Re:    GMACM Home Equity Loan Trust 2007-HE3;
+
+                  (c) if to the Purchaser:
+
+                               Residential Asset Mortgage Products, Inc.
+                               8400 Normandale Lake Boulevard
+                               Minneapolis, Minnesota 55437
+                               Attention:   President
+                               Re:    GMACM Home Equity Loan Trust 2007-HE3;
+
+                  (d) if to the Indenture Trustee:
+
+                               The Bank of New York Trust Company, N.A.
+                               2 North LaSalle Street, Suite 1020
+                               Chicago, Illinois 60602
+                               Attention: Structured Finance Services - GMACM Home Equity Loan Trust Series
+                               2007-HE3;
+
+                  (e) if to the Issuer:
+
+                               c/o Wilmington Trust Company, as Owner Trustee
+                               Rodney Square North
+                               1100 North Market Street
+                               Wilmington, Delaware 19890-0001
+                               Telecopier:  212-312-3215
+                               Re:    Corporate Trust Services - GMACM Home Equity Loan Trust 2007-HE3;
+
+
+or, with respect to any of the foregoing Persons, at such other address as may hereafter be furnished to the
+other foregoing Persons in writing.
+
+         Section 8.4       Severability  of  Provisions.  If  any  one  or  more  of  the  covenants,   agreements,
+provisions  or terms of this  Agreement  shall be held  invalid  for any reason  whatsoever,  then such  covenants,
+agreements,  provisions or terms shall be deemed severable from the remaining covenants, agreements,  provisions or
+terms of this Agreement and shall in no way affect the validity of  enforceability  of the other provisions of this
+Agreement.
+
+         Section 8.5       Relationship  of Parties.  Nothing  herein  contained  shall be deemed or  construed  to
+create a partnership or joint venture among the parties  hereto,  and the services of GMACM shall be rendered as an
+independent contractor and not as agent for the Purchaser.
+
+         Section 8.6       Counterparts.  This  Agreement  may be executed in any number of  counterparts,  each of
+which, when so executed,  shall be deemed to be an original and such counterparts,  together,  shall constitute one
+and the same agreement.
+
+         Section 8.7       Further  Agreements.  The parties  hereto each agree to execute and deliver to the other
+such  additional  documents,  instruments  or  agreements  as may be necessary or  appropriate  to  effectuate  the
+purposes of this Agreement.
+
+         Section 8.8       Intention  of  the  Parties.  It is  the  intention  of  the  parties  hereto  that  the
+Purchaser  will be  purchasing  on the  Closing  Date,  and the Seller  will be selling on the  Closing  Date,  the
+Mortgage  Loans,  rather than the  Purchaser  providing a loan to the Seller  secured by the Mortgage  Loans on the
+Closing  Date.  Accordingly,  the  parties  hereto  each intend to treat this  transaction  for federal  income tax
+purposes as a sale by the Seller,  and a purchase by the  Purchaser,  of the  Mortgage  Loans on the Closing  Date.
+The  Purchaser and the Issuer shall each have the right to review the Mortgage  Loans and the Related  Documents to
+determine  the  characteristics  of the Mortgage  Loans which will affect the federal  income tax  consequences  of
+owning the Mortgage  Loans,  and the Seller shall  cooperate with all reasonable  requests made by the Purchaser or
+the Issuer in the course of such review.
+
+         Section 8.9       Successors and Assigns; Assignment of this Agreement.
+
+                  (a) This  Agreement  shall bind and inure to the  benefit of and be  enforceable  by the  parties
+hereto and their respective  permitted  successors and assigns.  The obligations of the Seller under this Agreement
+cannot be assigned or delegated to a third party  without the consent of the  Purchaser,  which consent shall be at
+the Purchaser's sole discretion;  provided,  that the Seller may assign its obligations  hereunder to any Affiliate
+of the Seller,  to any Person  succeeding  to the  business  of the Seller,  to any Person into which the Seller is
+merged and to any Person  resulting from any merger,  conversion or  consolidation  to which the Seller is a party.
+The parties hereto  acknowledge  that the Purchaser is acquiring the Mortgage Loans for the purpose of contributing
+them to the GMACM Home Equity Loan Trust 2007-HE3.
+
+                  (b) As an inducement to the Purchaser and the Issuer to purchase the Mortgage  Loans,  the Seller
+acknowledges  and consents to (i) the  assignment by the Purchaser to the Issuer of all of the  Purchaser's  rights
+against the Seller  pursuant to this Agreement  insofar as such rights relate to the Mortgage Loans  transferred to
+the  Issuer  and to the  enforcement  or  exercise  of any right or remedy  against  the  Seller  pursuant  to this
+Agreement by the Issuer,  (ii) the  enforcement or exercise of any right or remedy  against the Seller  pursuant to
+this  Agreement  by or on behalf of the Issuer and (iii) the Issuer's  pledge of its interest in this  Agreement to
+the Indenture  Trustee and the enforcement by the Indenture  Trustee of any such right or remedy against the Seller
+following  an Event of Default  under the  Indenture.  Such  enforcement  of a right or remedy by the  Issuer,  the
+Owner  Trustee or the Indenture  Trustee,  as  applicable,  shall have the same force and effect as if the right or
+remedy had been enforced or exercised by the Purchaser or the Issuer directly.
+
+         Section 8.10      Survival.  The  representations  and  warranties  made  herein  by the  Seller  and  the
+provisions of Article VI hereof shall survive the purchase of the Mortgage Loans hereunder.
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+         IN WITNESS  WHEREOF,  the  parties  hereto  have caused  their  names to be signed to this  Mortgage  Loan
+Purchase  Agreement by their  respective  officers  thereunto  duly  authorized  as of the day and year first above
+written.
+
+
+                                                     RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., as Purchaser
+
+
+
+                                                     By:________________________________________________
+                                                        Name: Patricia C. Taylor
+                                                        Title:   Vice President
+
+
+
+                                                     GMAC MORTGAGE, LLC,
+                                                           as Seller and Servicer
+
+
+
+                                                     By:________________________________________________
+                                                        Name:
+                                                        Title:
+
+
+
+                                                     WALNUT GROVE MORTGAGE LOAN
+                                                     TRUST 2003-A, as Seller
+
+                                                     By:   WILMINGTON TRUST COMPANY,
+                                                              not in its individual capacity but solely as
+                                                              Owner Trustee
+
+
+
+                                                     By:________________________________________________
+                                                        Name:
+                                                        Title:
+
+
+
+                                      [Signatures Continue On Following Page]
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                                     GMACM HOME EQUITY LOAN TRUST 2007-HE3, as Issuer
+
+                                                     By:   WILMINGTON TRUST COMPANY,
+                                                              not in its individual capacity but solely as
+                                                              Owner Trustee
+
+
+
+                                                     By:______________________________________________
+                                                           Name:
+                                                           Title:
+
+
+
+                                                     THE BANK OF NEW YORK TRUST COMPANY, N.A., NOT IN ITS
+                                                     INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE
+
+
+
+                                                     By:______________________________________________
+                                                           Name:
+                                                           Title:
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+                                                     EXHIBIT 1
+                                              MORTGAGE LOAN SCHEDULE
+
+                                            [On file with the Servicer]
+
+
+
+
+------------------------------------------------------------------------

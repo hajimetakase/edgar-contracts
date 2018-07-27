@@ -1,0 +1,907 @@
+ EX-10.1 2 airg-ex101_346.htm EX-10.1
+ 
+Exhibit 10.1
+
+ASSET PURCHASE AGREEMENT
+
+This Asset Purchase Agreement (this “Agreement”), dated as of April 7, 
+2017, is entered into by and between MCA Financial Group, Ltd., as the 
+appointed receiver for Antenna Plus, LLC (“Seller”), and Airgain, Inc., a 
+Delaware corporation (“Buyer”).
+
+RECITALS
+
+WHEREAS, Seller wishes to sell and assign to Buyer, and Buyer wishes to 
+purchase and assume from Seller, the rights and obligations of Seller to 
+the Purchased Assets and the Assumed Liabilities (as defined herein), 
+subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements 
+hereinafter set forth and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the parties 
+hereto agree as follows:
+
+ARTICLE I
+PURCHASE AND SALE
+
+Section 1.01 Purchase and Sale of Assets. Subject to the terms and 
+conditions set forth herein, Seller shall sell, assign, transfer, convey 
+and deliver to Buyer, and Buyer shall purchase from Seller, free and clear 
+of any mortgage, pledge, lien, charge, security interest, claim or other 
+encumbrance (“Encumbrances”), other than Permitted Encumbrances (as defined 
+below), all of Seller’s right, title and interest in and to all of the 
+assets of Seller, wherever located and whether now existing or hereafter 
+acquired (other than the Excluded Assets) (collectively, the “Purchased 
+Assets”), including, without limitation, the assets set forth on Schedules 
+1.01a-f attached hereto. As used herein, “Permitted Encumbrances” means, 
+collectively: (i) any Encumbrance arising in connection with the Assumed 
+Liabilities (as defined below); (ii) any Encumbrance arising in connection 
+with that certain Ruling on Ownership of New Antenna Design issued by Judge 
+Roger E. Brodman with respect to the matter captioned William J. 
+Liimatainen v. Kevin M. Thill, et al., Maricopa County Superior Court Case 
+No. CV2016-000743 (the “Ruling”) or any appeal thereof or any of the 
+matters set forth therein; or (iii) any Encumbrance with respect to which, 
+as of the Closing Date and after reasonable investigation (which reasonable 
+investigation shall be satisfied upon review of UCC lien searches, federal 
+and state tax lien searches and judgment searches conducted in Maricopa 
+County, Arizona and Lafayette County, Wisconsin within sixty (60) days 
+prior to the Closing Date), the Seller, Stacie Witten and/or Karrilyn M. 
+Thomas have no actual knowledge.
+
+Section 1.02 Excluded Assets.  Notwithstanding the foregoing, the Purchased 
+Assets shall not include: (i) all cash and cash equivalents, bank accounts 
+and securities of Seller; (ii) the organizational documents, minute books, 
+tax returns, books of account or other records having to do with the 
+organization of Seller; (iii) the rights which accrue or will accrue to 
+Seller under this Agreement and the other agreements, instruments and 
+documents required to be delivered hereunder; and (iv) any structures or 
+non-movable assets of Seller located on the Thill’s Concho Valley, Arizona 
+property (collectively, the “Excluded Assets”).
+
+Section 1.03 Assumption of Liabilities. Subject to the terms and conditions 
+set forth herein, Buyer shall assume and agrees to pay, perform and 
+discharge those liabilities and obligations set forth on (i) Schedule 1.03a 
+attached hereto which are not past-due as of the Effective Time, and (ii) 
+Schedule 1.03b attached hereto to the extent relating to circumstances or 
+events occurring after the Closing Date which are not based on or do not 
+result from any liability, obligation or delinquency arising on or before 
+the Closing Date. (collectively, the “Assumed Liabilities”).  Other than 
+the Assumed Liabilities, Buyer shall not assume any liabilities or 
+obligations of Seller of any kind, whether known or unknown, contingent, 
+matured or otherwise, whether currently existing or hereinafter created.
+ 
+
+ 
+
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+Section 1.04 Purchase Price. The aggregate purchase price for the Purchased 
+Assets shall be $$6,383,500.00 (the “Purchase Price”), plus the assumption 
+of the Assumed Liabilities. Buyer shall pay the Purchase Price to Seller at 
+the Closing in cash, by wire transfer of immediately available funds in 
+accordance with the wire transfer instructions set forth in writing by 
+Seller to Buyer.
+
+Section 1.05 Purchase Price Adjustment.
+
+(a)Defined Terms. As used in this Section 1.05, the following terms shall 
+have the meanings set forth below.
+
+(i)“Closing Working Capital” means (x) the Current Assets of Seller less 
+(y) the Current Liabilities of Seller, in each case, determined as of the 
+Effective Time.
+
+(ii)“Current Assets” means inventory and current accounts receivable of 
+Seller included in the Purchased Assets.
+
+(iii)“Current Liabilities” means accounts payable and any other current 
+liabilities of Seller included in the Assumed Liabilities.
+
+(iv)“Target Working Capital” means $931,737.04, which amount is calculated 
+and based upon the Seller’s unaudited balance sheet as at February 6, 2017 
+(“Balance Sheet”).
+
+(b)Post-Closing Adjustment. Within thirty (30) days after the Closing Date, 
+Buyer shall prepare and deliver to Seller a statement setting forth its 
+calculation of Closing Working Capital (the “Closing Working Capital 
+Statement”) using the same principles, policies and practices which were 
+used in the Balance Sheet. The post-closing adjustment shall be an amount 
+equal to the Closing Working Capital minus the Target Working Capital (the 
+“Post-Closing Adjustment”).
+
+(c)Examination and Review.
+
+(i)After receipt of the Closing Working Capital Statement, Seller shall 
+have fifteen (15) days (the “Review Period”) to review the Closing Working 
+Capital Statement. During the Review Period, Seller and its accountants 
+shall have full access to the relevant books and records of Buyer, the 
+personnel of, and work papers prepared by, Buyer and/or its accountants to 
+the extent that they relate to the Closing Working Capital Statement and to 
+such historical financial information (to the extent in Buyer’s possession) 
+relating to the Closing Working Capital Statement as Seller may reasonably 
+request for the purpose of reviewing the Closing Working Capital Statement 
+and to prepare a Statement of Objections; provided, that such access shall 
+be in a manner that does not interfere with the normal business operations 
+of Buyer.
+
+(ii)On or prior to the last day of the Review Period, Seller may object to 
+the Closing Working Capital Statement by delivering to Buyer a written 
+statement setting forth Seller’s objections in reasonable detail, 
+indicating each disputed item or amount and the basis for Seller’s 
+disagreement therewith (the “Statement of Objections”). If Seller fails to 
+deliver a Statement of Objections before the expiration of the Review 
+Period, then the Closing Working Capital Statement and the Post-Closing 
+Adjustment, as the case may be, reflected in the Closing Working Capital 
+Statement shall be deemed to have been accepted by Seller. If Seller 
+delivers a Statement of Objections before the expiration of the Review 
+Period, then Buyer and Seller shall negotiate in good faith to resolve such 
+objections within fifteen (15) days after the delivery of a Statement of 
+Objections (the “Resolution Period”), and, if the same are so resolved 
+within the Resolution Period, then the Post-Closing Adjustment and the 
+Closing Working Capital Statement with such changes as may have been 
+previously agreed in writing by Buyer and Seller, shall be final and 
+binding upon the parties hereto.
+
+(iii)If Seller and Buyer fail to reach an agreement with respect to all of 
+the matters set forth in a Statement of Objections before expiration of the 
+Resolution Period, then any amounts remaining in dispute (“Disputed Amounts
+”) shall be submitted for resolution to an impartial recognized firm of 
+independent certified public accountants as mutually agreed upon in writing 
+by Seller and Buyer (the “Independent Accountant”) who, acting as experts 
+and not
+
+2
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+
+arbitrators, shall resolve the Disputed Amounts only and make any 
+adjustments to the Post-Closing Adjustment, as the case may be, and the 
+Closing Working Capital Statement. The parties hereto agree that all 
+adjustments shall be made without regard to materiality. The Independent 
+Accountant shall only decide the specific items under dispute by the 
+parties and their decision for each Disputed Amount must be within the 
+range of values assigned to each such item in the Closing Working Capital 
+Statement and the Statement of Objections, respectively.
+
+(iv)The fees and expenses of the Independent Accountant shall be paid by 
+Seller and Buyer based upon the percentage that the amount actually 
+contested but not awarded to Seller or Buyer, respectively, bears to the 
+aggregate amount actually contested by Seller and Buyer.
+
+(v)The Independent Accountant shall make a determination as soon as 
+practicable within fifteen (15) days (or such other time as the parties 
+hereto shall agree in writing) after their engagement, and their resolution 
+of the Disputed Amounts and their adjustments to the Closing Working 
+Capital Statement and/or the Post-Closing Adjustment shall be final and 
+binding upon the parties hereto.
+
+(vi)If the Post-Closing Adjustment is a positive number, then Buyer shall 
+pay to Seller an amount equal to the Post-Closing Adjustment by wire 
+transfer of immediately available funds to an account designated in writing 
+by Seller to Buyer. If the Post-Closing Adjustment is a negative number, 
+then Seller shall pay to Buyer an amount equal to the Post-Closing 
+Adjustment by wire transfer of immediately available funds to an account 
+designated in writing by Buyer to Seller. Any payment of the Post-Closing 
+Adjustment shall be due within five (5) days after the final determination 
+of the Closing Working Capital Statement and the Post-Closing Adjustment in 
+accordance with this Section 1.05(c).
+
+(d)Adjustments for Tax Purposes. Any payments made pursuant to this 
+Section 1.05 shall be treated as an adjustment to the Purchase Price by the 
+parties for tax purposes, unless otherwise required by applicable law and 
+shall be allocable to and treated as an adjustment to the Class VI asset 
+allocation on Schedule 1.06 attached hereto except to the extent there is 
+an allocation to Class VII in which case it shall first be treated as an 
+adjustment to the Class VII asset class.
+
+Section 1.06 Allocation of Purchase Price. Seller and Buyer agree to 
+allocate the Purchase Price among the Purchased Assets for all purposes 
+(including tax and financial accounting) as set forth on Schedule 1.06 
+attached hereto. Buyer and Seller shall file all tax returns (including 
+amended returns and claims for refund) and information reports in a manner 
+consistent with such allocation.
+
+Section 1.07 Withholding Tax. Buyer shall be entitled to deduct and 
+withhold from the Purchase Price all taxes that Buyer may be required to 
+deduct and withhold under any applicable tax law. All such withheld amounts 
+shall be treated as delivered to Seller hereunder.
+
+ARTICLE II
+CLOSING
+
+Section 2.01 Closing. The closing of the transactions contemplated by this 
+Agreement (the “Closing”) shall take place remotely by April 27, 2017, 
+which date is no later than the date specified by the Court in the Order 
+approving the Sale Procedures including such date as may be agreed to by 
+the Seller and Buyer as more specifically set forth in such Order (the “
+Closing Date”).  The consummation of the transactions contemplated by this 
+Agreement shall be deemed to occur at 12:00 a.m. on the Closing Date (the “
+Effective Time”).
+
+Section 2.02 Closing Deliverables.
+
+(a)At the Closing, Seller shall deliver to Buyer the following:
+
+(i)a bill of sale in the form of Exhibit A attached hereto (the “Bill of 
+Sale”) and duly executed by Seller, transferring the Purchased Assets to 
+Buyer free and clear of any and all Encumbrances other than Permitted 
+Encumbrances;
+
+3
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+
+(ii)an assignment and assumption agreement in the form of Exhibit B 
+attached hereto (the “Assignment and Assumption Agreement”) and duly 
+executed by Seller, effecting the assignment to and assumption by Buyer of 
+the Purchased Assets and the Assumed Liabilities;
+
+(iii)an assignment of intellectual property in the form of Exhibit C 
+attached hereto (the “Intellectual Property Assignment”) and duly executed 
+by Seller, transferring all of Seller’s right, title and interest in and to 
+the patents, patent applications and all other intellectual property rights 
+of Seller included in the Purchased Assets to Buyer free and clear of all 
+Encumbrances other than Permitted Encumbrances; and
+
+(iv)the original books and records included in the Purchased Assets (or, to 
+the extent originals are not available, copies), and all other tangible 
+Purchased Assets, and copies of any books and records included in the 
+Excluded Assets, to the extent that such books and records are in Seller’s 
+possession.
+
+(b)At the Closing, Buyer shall deliver to Seller the following:
+
+(i)the Purchase Price;
+
+(ii)the Assignment and Assumption Agreement duly executed by Buyer; and
+
+(iii)the Intellectual Property Assignment duly executed by Buyer.
+
+Seller and Buyer further agree that, at Closing, they will execute and 
+deliver any further documents and instruments of transfer reasonably 
+requested by the other party for the purpose of transferring and conveying 
+to Buyer, all property and rights to be transferred and conveyed by this 
+Agreement.
+
+ARTICLE III
+COVENANTS
+
+Section 3.01 Further Assurances. Following the Closing, each of the parties 
+hereto shall execute and deliver such additional documents, instruments, 
+conveyances and assurances and take such further actions as may be 
+reasonably required to carry out the provisions hereof and give effect to 
+the transactions contemplated by this Agreement and the documents to be 
+delivered hereunder.
+
+Section 3.02 Bulk Sales Laws. The parties hereby waive compliance with the 
+provisions of any bulk sales, bulk transfer or similar laws of any 
+jurisdiction that may otherwise be applicable with respect to the sale of 
+any or all of the Purchased Assets to Buyer.
+
+Section 3.03 Taxes.  All transfer, documentary, sales, use, stamp, 
+registration, value added and other such taxes and fees (including any 
+penalties and interest) incurred in connection with this Agreement and the 
+documents to be delivered hereunder shall be borne and paid by Buyer when 
+due; provided, however, such taxes shall exclude any and all federal and 
+state net income taxes attributable to the net taxable income, gain, loss 
+and items thereof allocable to the Seller and/or its members pursuant to 
+applicable federal and state income tax laws arising from the transactions 
+contemplated by this Agreement.  Buyer shall, at its own expense, timely 
+file any tax return or other document with respect to such taxes or fees 
+payable by Buyer. Buyer shall hold Seller harmless from and against any and 
+all taxes assessed or imposed on the Purchased Assets after Closing or as a 
+result of the Buyer’s ownership of the Purchased Assets on and after the 
+Closing Date hereof.  Upon Buyer’s request, the Seller shall reasonably 
+cooperate with Buyer in obtaining a tax clearance certificate for Seller 
+from the Arizona Department of Revenue pursuant to ARS Section 42-1110; 
+provided, however, that if such tax clearance certificate is not received 
+by the Closing Date, then Buyer shall waive any requirement that such tax 
+clearance certificate be obtained.
+
+Section 3.04 Public Announcements. Unless otherwise required by applicable 
+law, neither party hereto shall make any public announcements regarding 
+this Agreement or the transactions contemplated hereby without the prior 
+written consent of the other party (which consent shall not be unreasonably 
+withheld or delayed).
+
+4
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+
+Section 3.05 Operation of Business. Commencing on the date of this 
+Agreement and continuing until the Closing (the “Executory Period”), except 
+as contemplated by this Agreement or in connection with the Ruling, Seller 
+shall not incur any obligation or liability other than in the ordinary 
+course of business, shall continue to operate the business in a manner 
+consistent with past practices, and shall timely and fully discharge all of 
+its debts, obligations and liabilities incurred during the Executory Period 
+as they come due, other than with respect to amounts contested by Seller in 
+good faith.
+
+Section 3.06 Accounts Receivable.  After Closing, Seller shall reasonably 
+cooperate with Buyer with respect to Buyer’s collection of the accounts 
+receivable of the business which are outstanding as of the Closing Date.  
+To the extent any of such accounts receivable are collected by Seller on or 
+after the Closing Date, Seller shall immediately remit such amounts to 
+Buyer and all of such accounts receivable collected by Seller and/or Buyer 
+after Closing shall be applied to the customer debtor's oldest accounts 
+receivable first.
+
+Section 3.07 Third Party Consents.  During the Executory Period, the 
+parties hereto shall cooperate in obtaining all necessary approvals from 
+all applicable governmental authorities and other third parties to the 
+transactions contemplated by this Agreement.
+
+Section 3.08 Seller Employees.  As of the Closing Date, Seller shall 
+terminate the employment of all employees of Seller, and, at Buyer’s sole 
+discretion, Buyer may offer employment, on an “at will” basis, to any or 
+all of such employees. Seller and Buyer shall reasonably cooperate with 
+each other with respect to the transition of any employees of Seller who 
+are hired by Buyer and the compliance with all applicable laws in 
+connection therewith. Seller will be responsible for, and Buyer shall have 
+no obligations whatsoever for, all wages, benefits and/or other payment 
+obligations, including accrued vacation and sick time, of the Seller’s 
+employees. Buyer will be responsible for all wages, benefits and/or other 
+payment obligations, including accrued vacation and sick time, of the 
+employees of Seller hired by Buyer, to the extent arising from and accruing 
+during the period after the Closing Date.
+
+Section 3.09 Access to Information. For a period commencing on the date of 
+this Agreement and continuing until the date that is 120 days after the 
+Closing, Seller shall provide Buyer, at Buyer’s sole cost and expense, with 
+reasonable access (for the purpose of examining and copying), during normal 
+business hours and after scheduling such access at least five (5) days in 
+advance, and in a manner that does not unreasonably interfere with Seller’s 
+business, to the personnel, books and records of Seller related to the 
+business of Antenna Plus, LLC, the Purchased Assets and the Assumed 
+Liabilities with respect to periods or occurrences prior to or on the 
+Closing Date that the Buyer reasonably needs to comply with reporting, 
+disclosure, filing or other requirements imposed on the Buyer by all 
+applicable governmental authorities having jurisdiction over the Buyer in 
+connection with the transactions contemplated by this Agreement, including, 
+without limitation, any requirement under applicable securities laws to 
+provide audited financial statements of Seller not later than 71 calendar 
+days following the due date of any Form 8-K required to be filed by Buyer 
+in connection with the Closing. Seller shall reasonably cooperate with 
+Buyer and Buyer's independent public accountants, at Buyer’s sole cost and 
+expense, in connection with the completion of any audit or review of the 
+historical financial statements of Seller, post-Closing financial 
+statements of Buyer, and/or disclosure document of Buyer in connection with 
+its compliance with applicable securities laws.
+
+Section 3.10 Update to Schedules. At the Closing, Seller shall deliver to 
+Buyer updated Schedules to this Agreement, in such form and substance as 
+Buyer and Seller mutually agree in good faith, that reflect any changes to 
+the Purchased Assets, the Assumed Liabilities and/or the Purchase Price 
+allocation that occur between the date of this Agreement and Closing.
+
+ARTICLE IV
+DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+
+Section 4.01 Disclaimer of Warranties. EXCEPT AS OTHERWISE EXPRESSLY SET 
+FORTH IN THIS AGREEMENT WITH RESPECT TO THE PURCHASED ASSETS BEING FREE AND 
+CLEAR OF ANY AND ALL ENCUMBRANCES OTHER THAN PERMITTED ENCUMBRANCES, SELLER 
+MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, AS TO ANY MATTER 
+WHATSOEVER, INCLUDING, BUT NOT LIMITED TO:  THE TITLE TO THE PURCHASED 
+ASSETS; THE CONDITION, DESIGN OR QUALITY OF THE PURCHASED ASSETS; THE 
+FITNESS OF THE PURCHASED ASSETS FOR USE OR FOR A PARTICULAR PURPOSE; THE 
+MERCHANTABILITY OF THE PURCHASED ASSETS;
+
+5
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+
+COMPLIANCE OF THE PURCHASED ASSETS WITH THE REQUIREMENTS OF ANY LAWS, 
+RULES, SPECIFICATIONS OR CONTRACTS PERTAINING THERETO; PATENT INFRINGEMENT; 
+LATENT DEFECTS; THE QUALITY OF THE MATERIAL OR WORKMANSHIP OF THE PURCHASED 
+ASSETS OR THE CONFORMITY OF THE PURCHASED ASSETS TO THE PROVISIONS AND 
+SPECIFICATIONS OF ANY PURCHASE ORDER RELATING THERETO; THE OPERATION, USE 
+OR PERFORMANCE OF THE PURCHASED ASSETS; OR ANY OTHER REPRESENTATION OR 
+WARRANTY OF ANY KIND, NATURE OR DESCRIPTION, EXPRESS OR IMPLIED, WITH 
+RESPECT TO THE OWNERSHIP, OPERATION, USE OR PERFORMANCE OF THE PURCHASED 
+ASSETS.
+
+Section 4.02 Limitation of Liability. NONE OF MCA FINANCIAL GROUP, LTD., 
+ANTENNA PLUS, LLC, ANY OF THEIR RESPECTIVE AFFILIATES OR ANY OF THEIR 
+RESPECTIVE CURRENT OR FORMER OFFICERS, DIRECTORS, MEMBERS OR AGENTS SHALL 
+HAVE ANY LIABILITY TO BUYER OR ANY PERSONS WHOMSOEVER (INCLUDING LESSEES OR 
+PURCHASERS OF ALL OR ANY OF THE PURCHASED ASSETS) FOR ANY CLAIM, LOSS, 
+DAMAGE OR EXPENSE (INCLUDING ATTORNEY FEES) OF ANY KIND OR NATURE, WHETHER 
+SPECIAL, CONSEQUENTIAL, ECONOMIC OR OTHERWISE, CAUSED OR ALLEGED TO BE 
+CAUSED DIRECTLY, INDIRECTLY, INCIDENTAL OR CONSEQUENTIALLY BY THIS 
+AGREEMENT, THE PURCHASED ASSETS (INCLUDING ANY PART THEREOF OR PRODUCTS 
+THEREFROM, BY ANY INADEQUACY OF THE PURCHASED ASSETS OR DEFECT OR 
+DEFICIENCY THEREIN) OR THE ASSUMED LIABILITIES, BY ANY INCIDENT WHATSOEVER 
+ARISING IN STRICT LIABILITY OR OTHERWISE FROM ANY PERSON’S NEGLIGENCE OR 
+OTHERWISE, OR FOR ANY LOSS OF BUSINESS OR DAMAGE WHATSOEVER AND HOWSOEVER 
+CAUSED, OR ARISING OUT OF THIS AGREEMENT, THE PURCHASED ASSETS OR THE 
+ASSUMED LIABILITIES. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS 
+AGREEMENT, NOTHING HEREIN SHALL RELEASE, SETTLE, WAIVE, DISCHARGE, SATISFY, 
+IMPAIR OR AFFECT IN ANY WAY THE CLAIMS OR DEFENSES IN THE LITIGATION 
+CAPTIONED LIIMATAINEN V. THILL, CASE NO. 2016-000743, CURRENTLY PENDING 
+BEFORE THE MARICOPA COUNTY SUPERIOR COURT.
+
+ARTICLE V
+MISCELLANEOUS
+
+Section 5.01 Expenses. All costs and expenses incurred in connection with 
+this Agreement and the transactions contemplated hereby shall be paid by 
+the party incurring such costs and expenses.
+
+Section 5.02 Notices. All notices, requests, consents, claims, demands, 
+waivers and other communications hereunder shall be in writing and shall be 
+deemed to have been given: (i) when delivered by hand (with written 
+confirmation of receipt); (ii) when received by the addressee if sent by a 
+nationally recognized overnight courier (receipt requested); (iii) on the 
+date sent by facsimile or e-mail of a PDF document (with confirmation of 
+transmission) if sent during normal business hours of the recipient, and on 
+the next business day if sent after normal business hours of the recipient; 
+or (iv) on the third day after the date mailed, by certified or registered 
+mail, return receipt requested, postage prepaid. Such communications must 
+be sent to the respective parties at the following addresses (or at such 
+other address for a party as shall be specified in a notice given in 
+accordance with this Section 5.02):
+ 
+If to Seller:
+MCA Financial Group, Ltd.,
+ 
+as the appointed receiver for Antenna Plus, LLC
+ 
+4909 N. 44th Street
+ 
+Phoenix, Arizona 85018
+ 
+Attention: Morrie Aaron
+ 
+Facsimile: (480) 287-9058
+ 
+E-mail: maaron@mca-financial.com
+ 
+ 
+
+6
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+with a copy to (which shall not constitute notice):
+Quarles & Brady LLP
+ 
+One Renaissance Square
+ 
+Two North Central Avenue
+ 
+Phoenix, Arizona 85004
+ 
+Attention: W. Scott Jenkins, Jr.
+ 
+Facsimile: (602) 420-5031
+ 
+Email: scott.jenkins@quarles.com
+ 
+ 
+If to Buyer:
+Airgain, Inc.
+ 
+3611 Towne Centre Court, Suite 150
+ 
+San Diego, CA 92130
+ 
+Attention: Leo Johnson
+ 
+Facsimile: 760-579-0892
+ 
+E-mail: LJohnson@airgain.com
+ 
+ 
+with a copy to (which shall not constitute notice):
+Latham & Watkins LLP
+ 
+12670 High Bluff Drive
+ 
+San Diego, CA 92130
+ 
+Attention: Matthew T. Bush
+ 
+Facsimile: 858-523-5450
+ 
+E-mail: Matt.Bush@lw.com
+
+Section 5.03 Headings. The headings in this Agreement are for reference 
+only and shall not affect the interpretation of this Agreement.
+
+Section 5.04 Severability. If any term or provision of this Agreement is 
+invalid, illegal or unenforceable in any jurisdiction, such invalidity, 
+illegality or unenforceability shall not affect any other term or provision 
+of this Agreement or invalidate or render unenforceable such term or 
+provision in any other jurisdiction.
+
+Section 5.05 Entire Agreement. This Agreement, together with the exhibits 
+and schedules attached hereto and incorporated herein by this reference and 
+the other documents to be delivered hereunder, constitute the sole and 
+entire agreement of the parties to this Agreement with respect to the 
+subject matter contained herein, and supersede all prior and 
+contemporaneous understandings and agreements, both written and oral, with 
+respect to such subject matter. In the event of any inconsistency between 
+the statements in the body of this Agreement and the documents to be 
+delivered hereunder, the statements in the body of this Agreement will 
+control.
+
+Section 5.06 Successors and Assigns. This Agreement shall be binding upon 
+and shall inure to the benefit of the parties hereto and their respective 
+successors and permitted assigns. Neither party may assign its rights or 
+obligations hereunder without the prior written consent of the other party, 
+which consent shall not be unreasonably withheld or delayed; provided, 
+however, that Seller agrees that, prior to Closing, Buyer may assign its 
+rights and obligations under this Agreement to another legal entity of 
+which Buyer is the majority owner. No assignment shall relieve the 
+assigning party of any of its obligations hereunder.
+
+Section 5.07 No Third-party Beneficiaries. This Agreement is for the sole 
+benefit of the parties hereto and their respective successors and permitted 
+assigns and nothing herein, express or implied, is intended to or shall 
+confer upon any other person or entity any legal or equitable right, 
+benefit or remedy of any nature whatsoever under or by reason of this 
+Agreement.
+
+Section 5.08 Amendment and Modification. This Agreement may only be 
+amended, modified or supplemented by an agreement in writing signed by each 
+party hereto.
+
+7
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+
+Section 5.09 Waiver. No waiver by any party of any of the provisions hereof 
+shall be effective unless explicitly set forth in writing and signed by the 
+party so waiving. No waiver by any party shall operate or be construed as a 
+waiver in respect of any failure, breach or default not expressly 
+identified by such written waiver, whether of a similar or different 
+character, and whether occurring before or after that waiver. No failure to 
+exercise, or delay in exercising, any right, remedy, power or privilege 
+arising from this Agreement shall operate or be construed as a waiver 
+thereof; nor shall any single or partial exercise of any right, remedy, 
+power or privilege hereunder preclude any other or further exercise thereof 
+or the exercise of any other right, remedy, power or privilege.
+
+Section 5.10 Governing Law. This Agreement shall be governed by and 
+construed in accordance with the internal laws of the State of Arizona 
+without giving effect to any choice or conflict of law provision or rule 
+(whether of the State of Arizona or any other jurisdiction).
+
+Section 5.11 Submission to Jurisdiction. Any legal suit, action or 
+proceeding arising out of or based upon this Agreement or the transactions 
+contemplated hereby may be instituted in the federal courts of the United 
+States of America or the courts of the State of Arizona in each case 
+located in the County of Maricopa, and each party irrevocably submits to 
+the exclusive jurisdiction of such courts in any such suit, action or 
+proceeding.
+
+Section 5.12 Waiver of Jury Trial. Each party acknowledges and agrees that 
+any controversy which may arise under this Agreement is likely to involve 
+complicated and difficult issues and, therefore, each such party 
+irrevocably and unconditionally waives any right it may have to a trial by 
+jury in respect of any legal action arising out of or relating to this 
+Agreement or the transactions contemplated hereby.
+
+Section 5.13 Specific Performance. The parties agree that irreparable 
+damage would occur if any provision of this Agreement were not performed in 
+accordance with the terms hereof and that the parties shall be entitled to 
+specific performance of the terms hereof, in addition to any other remedy 
+to which they are entitled at law or in equity.
+
+Section 5.14 Counterparts. This Agreement may be executed in two or more 
+counterparts, each of which shall be deemed an original, but all of which 
+together shall be deemed to be one and the same agreement. A signed copy of 
+this Agreement delivered by facsimile, e-mail or other means of electronic 
+transmission shall be deemed to have the same legal effect as delivery of 
+an original signed copy of this Agreement.
+
+(SIGNATURE PAGE(S) FOLLOW)
+ 
+ 
+ 
+
+8
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+executed as of the date first written above by their respective officers 
+thereunto duly authorized.
+ 
+MCA FINANCIAL GROUP, LTD., as the appointed receiver for Antenna Plus, LLC
+ 
+ 
+By
+/s/ Stacie Witten
+Name:
+Stacie Witten
+Title:
+Receiver
+ 
+ 
+AIRGAIN, INC.
+ 
+ 
+By
+/s/ Charles Myers
+Name:
+Charles Myers
+Title:
+Chief Executive Officer
+ 
+ 
+ 
+
+(Signature Page to Asset Purchase Agreement)
+------------------------------------------------------------------------
+ 
+EXHIBIT A
+
+Bill of Sale
+
+THIS BILL OF SALE, dated as of April ___, 2017, is being delivered pursuant 
+to Section 2.02(a)(i) of that certain Asset Purchase Agreement, dated as of 
+April 7, 2017 (the “Purchase Agreement”), by and between MCA Financial 
+Group, Ltd., as the appointed receiver for Antenna Plus, LLC, an Arizona 
+limited liability company (“Seller”), and Airgain, Inc., a Delaware 
+corporation (“Buyer”).
+
+For good and valuable consideration, the receipt and adequacy of which are 
+hereby acknowledged, Seller does hereby grant, bargain, transfer, sell, 
+assign, convey and deliver to Buyer all of Seller’s right, title and 
+interest in and to the tangible personal property included in the Purchased 
+Assets (as defined in the Purchase Agreement), to have and to hold the same 
+unto Buyer, its successors and assigns, forever.
+
+Buyer acknowledges that Seller makes no representation or warranty with 
+respect to the assets being conveyed hereby except as specifically set 
+forth in the Purchase Agreement.
+
+IN WITNESS WHEREOF, Seller has caused this Bill of Sale to be executed as 
+of the date first written above.
+ 
+MCA FINANCIAL GROUP, LTD., as the appointed receiver for Antenna Plus, LLC
+ 
+ 
+By
+ 
+Name:
+ 
+Title:
+ 
+ 
+ 
+
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+EXHIBIT B
+
+Assignment and Assumption Agreement
+
+THIS ASSIGNMENT AND ASSUMPTION AGREEMENT (this “Agreement”), dated as of 
+April ___, 2017, is entered into by and between MCA Financial Group, Ltd., 
+as the appointed receiver for Antenna Plus, LLC, an Arizona limited 
+liability company (“Seller”), and Airgain, Inc., a Delaware corporation (“
+Buyer”).
+
+WHEREAS, Seller and Buyer have entered into a certain Asset Purchase 
+Agreement, dated as of April 7, 2017 (the “Purchase Agreement”), pursuant 
+to which, among other things, Seller has agreed to assign to Buyer all of 
+Seller’s rights, title and interests in and to the intangible assets 
+included in the Purchased Assets (as defined in the Purchase Agreement), 
+and Buyer has agree to accept such assignment, subject to the terms and 
+conditions of the Purchase Agreement;  
+
+WHEREAS, pursuant to the Purchase Agreement, Buyer has agreed to assume all 
+of Seller’s duties and obligations included in the Assumed Liabilities (as 
+defined in the Purchase Agreement), subject to the terms and conditions of 
+the Purchase Agreement; and
+
+WHEREAS, this Agreement is being entered into pursuant to Section 
+2.02(a)(ii) of the Purchase Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set 
+forth herein and for good and valuable consideration, the receipt and 
+sufficiency of which is hereby acknowledged, the parties hereby agree as 
+follows:
+
+1.Definitions.  All capitalized terms used in this Agreement but not 
+otherwise defined herein are given the meanings set forth in the Purchase 
+Agreement.
+
+2.Assignment.  Seller hereby sells, assigns, grants, conveys and transfers 
+to Buyer all of Seller’s right, title and interest in and to the intangible 
+assets included in the Purchased Assets, and Buyer hereby accepts such 
+assignment.
+
+3.Assumption.  Buyer hereby assumes all of Seller’s duties and obligations 
+included in the Assumed Liabilities and agrees to pay, perform and 
+discharge, as and when due, all of the obligations of Seller included in 
+the Assumed Liabilities accruing on and after the Effective Time.
+
+4.Terms of the Purchase Agreement.  The terms of the Purchase Agreement, 
+including, but not limited to, the representations, warranties, covenants, 
+agreements and indemnities relating to the Purchased Assets and the Assumed 
+Liabilities are incorporated herein by this reference.  The parties hereto 
+acknowledge and agree that the representations, warranties, covenants, 
+agreements and indemnities contained in the Purchase Agreement shall not be 
+superseded hereby but shall remain in full force and effect to the full 
+extent provided therein. In the event of any conflict or inconsistency 
+between the terms of the Purchase Agreement and the terms of this 
+Agreement, the terms of the Purchase Agreement shall govern.
+
+5.Governing Law.  This Agreement shall be governed by and construed in 
+accordance with the internal laws of the State of Arizona without giving 
+effect to any choice or conflict of law provision or rule (whether of the 
+State of Arizona or any other jurisdiction).
+
+6.Counterparts.  This Agreement may be executed in counterparts, all of 
+which shall be considered one and the same agreement and shall become 
+effective when one or more counterparts have been signed by each party and 
+delivered to each other party.  A signed copy of this Agreement delivered 
+by facsimile, e-mail or other means of electronic transmission shall be 
+deemed to have the same legal effect as delivery of an original signed copy 
+of this Agreement.
+
+(SIGNATURE PAGE(S) FOLLOW)
+
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+executed as of the date first written above by their respective officers or 
+other representatives thereunto duly authorized.
+ 
+MCA FINANCIAL GROUP, LTD., as the appointed receiver for Antenna Plus, LLC
+ 
+ 
+By
+ 
+Name:
+ 
+Title:
+ 
+ 
+ 
+AIRGAIN, INC.
+ 
+ 
+By
+ 
+Name:
+ 
+Title:
+ 
+ 
+
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+EXHIBIT C
+
+Intellectual Property Assignment Agreement
+
+THIS INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT (this “Agreement”), dated 
+as of April ___, 2017, is entered into by and between MCA Financial Group, 
+Ltd., as the appointed receiver for Antenna Plus, LLC, an Arizona limited 
+liability company (“Seller”), and Airgain, Inc., a Delaware corporation (“
+Buyer”).
+
+WHEREAS, Seller and Buyer have entered into a certain Asset Purchase 
+Agreement, dated as of April 7, 2017 (the “Purchase Agreement”), pursuant 
+to which, among other things, Seller has agreed to assign to Buyer all of 
+Seller’s rights, title and interests in and to certain intellectual 
+property of Seller, and Buyer has agree to accept such assignment, subject 
+to the terms and conditions of the Purchase Agreement; and
+
+WHEREAS, this Agreement is being entered into for recording with the United 
+States Patent and Trademark Office pursuant to Section 2.02(a)(iii) of the 
+Purchase Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set 
+forth herein and for good and valuable consideration, the receipt and 
+sufficiency of which is hereby acknowledged, the parties hereby agree as 
+follows:
+
+1.Assignment.  Seller hereby sells, assigns, grants, conveys and transfers 
+to Buyer, and Buyer hereby accepts, all of Seller’s worldwide right, title 
+and interest in and to:
+
+(a)the patents and patent applications set forth on Schedule 1 hereto and 
+all issuances, divisions, continuations, continuations-in-part, reissues, 
+extensions, reexaminations, and renewals thereof;
+
+(b)all rights of any kind whatsoever of Seller accruing under any of the 
+foregoing provided by applicable law of any jurisdiction, by international 
+treaties and conventions, and otherwise throughout the world;  
+
+(c)any and all royalties, fees, income, payments, and other proceeds now or 
+hereafter due or payable with respect to any and all of the foregoing; and
+
+(d)any and all claims and causes of action, with respect to any of the 
+foregoing, whether accruing before, on, or after the date hereof, including 
+all rights to and claims for damages, restitution, and injunctive and other 
+legal and equitable relief for past, present, and future infringement, 
+dilution, misappropriation, violation, misuse, breach, or default, with the 
+right but no obligation to sue for such legal and equitable relief and to 
+collect, or otherwise recover, any such damages.
+
+2.Recordation. Seller hereby authorizes the Commissioner for Patents in the 
+United States Patent and Trademark Office to record and register this 
+Agreement upon request by Buyer.  
+
+3.Terms of the Purchase Agreement.  The terms of the Purchase Agreement, 
+including, but not limited to, the representations, warranties, covenants, 
+agreements and indemnities relating to the Purchased Assets and the Assumed 
+Liabilities are incorporated herein by this reference.  The parties hereto 
+acknowledge and agree that the representations, warranties, covenants, 
+agreements and indemnities contained in the Purchase Agreement shall not be 
+superseded hereby but shall remain in full force and effect to the full 
+extent provided therein.  In the event of any conflict or inconsistency 
+between the terms of the Purchase Agreement and the terms of this 
+Agreement, the terms of the Purchase Agreement shall govern.
+
+4.Governing Law.  Except to the extent that federal law preempts state law 
+with respect to the matters covered hereby, this Agreement shall be 
+governed by and construed in accordance with the internal laws of the State 
+of Arizona without giving effect to any choice or conflict of law provision 
+or rule (whether of the State of Arizona or any other jurisdiction).
+ 
+
+ 
+
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+5.Counterparts.  This Agreement may be executed in counterparts, all of 
+which shall be considered one and the same agreement and shall become 
+effective when one or more counterparts have been signed by each party and 
+delivered to each other party.  A signed copy of this Agreement delivered 
+by facsimile, e-mail or other means of electronic transmission shall be 
+deemed to have the same legal effect as delivery of an original signed copy 
+of this Agreement.
+
+(SIGNATURE PAGE(S) FOLLOW)
+ 
+ 
+ 
+
+C-2
+QB\43503538.9
+------------------------------------------------------------------------
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+executed as of the date first written above by their respective officers 
+thereunto duly authorized.
+ 
+MCA FINANCIAL GROUP, LTD., as the appointed receiver for Antenna Plus, LLC
+ 
+ 
+By
+ 
+Name:
+ 
+Title:
+ 
+ 
+ 
+AIRGAIN, INC.
+ 
+ 
+By
+ 
+Name:
+ 
+Title:
+ 
+ 
+
+QB\43503538.9

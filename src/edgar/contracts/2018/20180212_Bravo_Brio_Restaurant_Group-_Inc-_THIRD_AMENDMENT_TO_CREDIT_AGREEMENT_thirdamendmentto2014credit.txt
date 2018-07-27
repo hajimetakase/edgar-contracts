@@ -1,0 +1,506 @@
+ EX-10.1 2 thirdamendmentto2014credit.htm EXHIBIT 10.1
+
+
+
+
+
+
+THIRD AMENDMENT TO CREDIT AGREEMENT
+
+
+This THIRD AMENDMENT TO CREDIT AGREEMENT, dated as of February 9, 2018 
+(this “Agreement”), is by and among BRAVO BRIO RESTAURANT GROUP, INC., an 
+Ohio corporation (the “Borrower”), the Lenders party hereto and WELLS FARGO 
+BANK, NATIONAL ASSOCIATION, as administrative agent to the Lenders (in such 
+capacity, the “Administrative Agent”). All capitalized terms used herein 
+and not otherwise defined herein shall have the meanings given to such 
+terms in the Credit Agreement (as defined below).
+
+
+RECITALS
+
+
+A.    The Lenders have extended credit to the Borrower pursuant to that 
+certain Credit Agreement dated as of November 5, 2014 (as amended, 
+restated, supplemented or otherwise modified from time to time, the “
+Credit Agreement”), entered into by and among the Borrower, the Guarantors, 
+the Lenders and the Administrative Agent.
+
+
+B.    The Credit Parties have requested that the Administrative Agent and 
+the Lenders make certain amendments to the Credit Agreement.
+
+
+C.     The Administrative Agent and the Lenders have agreed to do so, but 
+only pursuant to the terms set forth herein.
+
+
+AGREEMENT
+
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants 
+hereinafter contained, and for other good and valuable consideration, the 
+receipt and sufficiency of which are hereby acknowledged, the parties 
+hereto agree as follows:
+
+
+1.    Estoppel, Acknowledgement and Reaffirmation. Each of the Credit 
+Parties hereby acknowledges and agrees that, as of February 7, 2018, (a) 
+the aggregate principal amount of the Revolving Exposure under the Credit 
+Agreement was $11,390,834.00 (consisting of Revolving Loans in an aggregate 
+principal amount of $4,000,000.00, Swingline Loans in an aggregate 
+principal amount of $4,500,000.00 and LOC Obligations in an aggregate 
+principal amount of $2,890,834.00) and (b) the aggregate principal amount 
+of the Term Loan under the Credit Agreement was $30,000,000.00, each of 
+which constitutes a valid and subsisting obligation of the Credit Parties 
+to the Lenders that is not subject to any credits, offsets, defenses, 
+claims, counterclaims or adjustments of any kind. Each of the Credit 
+Parties acknowledges its obligations under the Credit Documents, reaffirms 
+that each of the Liens and security interests created and granted in or 
+pursuant to the Security Documents is valid and subsisting and agrees that 
+this Agreement shall in no manner impair or otherwise adversely affect such 
+obligations, Liens or security interests, except as explicitly set forth 
+herein.
+
+
+2.    Amendments to Credit Agreement. Effective as of the Effective Date 
+(as defined below), the Credit Agreement shall be amended as follows:
+
+
+      (a)     The following definitions are hereby added to Section 1.1 of
+      the Credit Agreement in their appropriate alphabetical order:
+
+
+            “Cash Flow Forecast” shall have the meaning set forth in
+            Section 5.1(d).     
+
+
+            “Third Amendment Effective Date” means February 9, 2018.
+
+
+      (b)    The definition of “Consolidated EBITDA” in Section 1.1 of the
+      Credit Agreement is hereby amended by (i) deleting the word “and”
+      immediately prior to clause (b)(viii) and (ii) inserting new clauses
+      numbered (b)(ix) and (b)(x) immediately after clause (b)(viii) to
+      read as follows:
+
+
+
+
+------------------------------------------------------------------------
+
+
+            (ix) litigation settlement payments arising in connection with
+            the Mamdooh Hussein and Robert Andressu lawsuits in an amount
+            not to exceed $1,400,000 in the aggregate in the fiscal year
+            ended on or about December 31, 2018 and (x) legal fees and
+            expenses not constituting Transaction Costs in an amount not to
+            exceed $3,500,000 in the aggregate in the fiscal year ended on
+            or about December 31, 2017,
+
+
+      (c)    The definition of “Liquidity” in Section 1.1 of the Credit
+      Agreement is hereby deleted in its entirety.    
+
+
+      (d)     Section 2.7(b) is hereby amended by adding a new clause (vii)
+      to read as follows:
+
+
+            (vii)    Excess Cash. If at any time after the Third Amendment
+            Effective Date the sum of the Credit Parties’ cash and Cash
+            Equivalents exceeds $3,000,000 (such amount determined on an
+            aggregate book balance basis with respect to all accounts of
+            the Credit Parties) as of the end of any Business Day
+            (excluding any cash or Cash Equivalents denominated in a
+            currency other than Dollars), and such excess continues for a
+            period of three (3) consecutive Business Days, then the
+            Borrower shall on the next Business Day pay in $500,000
+            increments an amount sufficient to extinguish such excess for
+            application to: (1) first the outstanding Swingline Loans, (2) 
+            second the outstanding Revolving Loans (without a corresponding
+            permanent reduction in the Revolving Committed Amount), (3) 
+            third Cash Collateralize the LOC Obligations and (4) fourth the
+            Term Loan in the inverse order of maturities of the remaining
+            amortization payments pursuant to Section 2.2(b). Within the
+            parameters of the applications set forth above, prepayments
+            shall be applied first to Alternate Base Rate Loans and then to
+            LIBOR Rate Loans in direct order of Interest Period maturities.
+            All prepayments under this Section 2.7(b)(vii) shall be subject
+            to Section 2.16 and be accompanied by interest on the principal
+            amount prepaid through the date of prepayment.
+
+
+      (e)    Section 5.1 of the Credit Agreement is hereby amended by
+      adding the following as new clauses (d) and (e) to such section:
+
+
+            (d)    Weekly Cash Flows. Commencing on the Third Amendment
+            Effective Date and continuing on the second Business Day
+            following each week thereafter, a cash flow forecast for the
+            Borrower and its Consolidated Subsidiaries for the
+            then-following 13-week period (each, a “Cash Flow Forecast”),
+            prepared in good faith by the Borrower upon assumptions
+            believed by the Borrower to be reasonable under the
+            circumstances, together with a reconciliation of actual cash
+            flows of the Borrower and its Consolidated Subsidiaries against
+            the immediately preceding Cash Flow Forecast and showing any
+            deviations on a cumulative basis and providing a written
+            explanation of the variances, prepared by the Borrower and in
+            the form, and with such detail (including any material
+            assumptions), as reasonably acceptable to the Administrative
+            Agent and the Lenders;
+
+
+            (e)    Monthly Reports. As soon as practicable and in any event
+            within ten (10) Business Days after the end of each month (i)
+            monthly reports, prepared in good faith by the Borrower based
+            upon assumptions believed by the Borrower to be reasonable
+            under the circumstances, providing an analysis of the financial
+            performance of the Borrower and its Consolidated Subsidiaries
+            compared against the projections of the Borrower and its
+            Consolidated Subsidiaries and (ii) a certificate of a
+            Responsible Officer providing calculations in reasonable detail
+            required to indicate compliance with Section 5.9(c) as of the
+            last day of such period. For the avoidance of doubt, such
+            monthly reports and certificates shall be in addition to, and
+            not in lieu of, any other reports or certificates required
+            under this Section 5;
+
+
+      (f)    Section 5.9(c) of the Credit Agreement is hereby amended and
+      restated in its entirety to read as follows:
+
+
+
+
+------------------------------------------------------------------------
+
+
+            (c)    Minimum Consolidated EBITDA. As of the end of each
+            calendar month ending during the following periods,
+            Consolidated EBITDA on a trailing twelve-month basis shall be
+            not less than:
+
+
+Period
+Minimum Consolidated EBITDA
+Second Amendment Effective Date through November 30, 2017
+$15,000,000
+December 31, 2017
+$18,000,000
+January 1, 2018 through July 1, 2018
+$16,000,000
+July 2, 2018 and thereafter
+$19,000,000
+
+      (g)    Section 5.9(d) of the Credit Agreement is hereby amended and
+      restated in its entirety to read as follows:
+
+
+            (d)    [Reserved.]
+
+
+3.    Amendment Fee. In consideration of the Lenders’ agreements set forth 
+herein, the Credit Parties shall pay to the Administrative Agent, for the 
+ratable account of each Lender, an amendment fee of 0.25% of the aggregate 
+principal amount of the Revolving Committed Amount and Term Loan, which fee 
+shall be fully-earned and non-refundable as of the Effective Date (the “
+Amendment Fee”). The Amendment Fee shall be due and payable on the 
+Effective Date as a condition precedent to the effectiveness of this 
+Agreement.
+
+
+4.    Conferences with Lenders. The Credit Parties shall make themselves 
+and Piper Jaffray & Co. available to the Administrative Agent and Lenders 
+for weekly telephone conferences as may be reasonably requested by the 
+Administrative Agent to provide updates on the Credit Parties’ financial 
+performance and such other matters as the Administrative Agent and Lenders 
+may reasonably request.
+
+
+5.    Reaffirmation of Second Amendment Obligations. Each of the Credit 
+Parties hereby acknowledges and reaffirms its obligations under Section 7 
+(Agent Financial Advisor) of that certain Waiver and Second Amendment to 
+Credit Agreement dated as of August 1, 2017 by and among the Credit 
+Parties, the Administrative Agent and the Lenders.   
+
+
+6.    Payment of Fees and Expenses. The Credit Parties shall reimburse the 
+Administrative Agent and the Lenders for all reasonable and documented fees 
+and expenses of the Administrative Agent and the Lenders (including without 
+limitation, all fees and expenses of counsel to the Administrative Agent 
+and Focus Management Group USA, Inc. (the “Agent Financial Advisor”)) 
+incurred in connection with the Credit Documents, including without 
+limitation this Agreement.
+
+
+7.    Effectiveness; Conditions Precedent. This Agreement shall become 
+effective as of the date hereof (the “Effective Date”) when, and only when, 
+each of the following conditions shall have been satisfied or waived, in 
+the sole discretion of the Administrative Agent:
+
+
+      (a)    The Administrative Agent shall have received counterparts of
+      this Agreement duly executed by each of the Credit Parties, the
+      Lenders and the Administrative Agent.
+
+
+      (b)    The Administrative Agent shall have received the Amendment
+      Fee.
+
+
+      (c)    The Administrative Agent and the Lenders shall have received a
+      Cash Flow Forecast for the 13-week period commencing on the Effective
+      Date.
+
+
+      (d)    The Administrative Agent shall have received such certificates
+      of resolutions or other action, incumbency certificates and/or other
+      certificates of Responsible Officers of each Credit Party as the
+      Administrative Agent may require evidencing the identity, authority
+      and capacity of each Responsible Officer
+
+
+
+
+------------------------------------------------------------------------
+
+
+      thereof authorized to act as a Responsible Officer in connection with
+      this Agreement and the other Credit Documents to which such Credit
+      Party is a party.
+
+
+      (e)    The Administrative Agent shall have received reimbursement
+      from the Credit Parties for all reasonable and documented fees and
+      costs (including without limitation reasonable fees and costs of
+      counsel to the Administrative Agent and the Agent Financial Advisor)
+      incurred in connection with the Credit Documents and this Agreement
+      through the Effective Date.
+
+
+8.    Incorporation of Agreement. Except as specifically modified herein, 
+the terms of the Credit Documents shall remain in full force and effect. 
+The execution, delivery and effectiveness of this Agreement shall not 
+operate as a waiver of any right, power or remedy of the Administrative 
+Agent or any Lender under the Credit Documents, or constitute a waiver or 
+amendment of any provision of the Credit Documents, except as expressly set 
+forth herein. The breach in any material respect of any provision or 
+representation under this Agreement shall constitute an immediate Event of 
+Default, and this Agreement shall constitute a Credit Document.
+
+
+9.    Representations and Warranties. Each of the Credit Parties represents 
+and warrants to the Administrative Agent and the Lenders as follows:
+
+      (a)    No Default or Event of Default exists on and as of the
+      Effective Date.
+
+      (b)    After giving effect to this Agreement, the representations and
+      warranties of the Credit Parties contained in the Credit Documents
+      are true, accurate and complete on and as of the Effective Date to
+      the same extent as though made on and as of such date except to the
+      extent such representations and warranties specifically relate to an
+      earlier date (in which case they shall be true, accurate and complete
+      as of such earlier date).
+
+      (c)    Each of the Credit Parties has the full power and authority to
+      enter into, execute and deliver this Agreement and perform its
+      obligations hereunder, under the Credit Agreement, and under each of
+      the Credit Documents to which it is a party. The execution, delivery
+      and performance by each of the Credit Parties of this Agreement, and
+      the performance by each of the Credit Parties of the Credit Agreement
+      and each other Credit Document to which it is a party, in each case,
+      are within such Person’s powers and have been authorized by all
+      necessary corporate, limited liability or partnership action of such
+      Person.
+
+      (d)    This Agreement has been duly executed and delivered by such
+      Person and constitutes such Person’s legal, valid and binding
+      obligations, enforceable in accordance with its terms, except as such
+      enforceability may be subject to (i) bankruptcy, insolvency,
+      reorganization, fraudulent conveyance or transfer, moratorium or
+      similar laws affecting creditors’ rights generally and (ii) general
+      principles of equity (regardless of whether such enforceability is
+      considered in a proceeding at law or in equity).
+
+      (e)    No consent, approval, authorization or order of, or filing,
+      registration or qualification with, any court or Governmental
+      Authority or third party is required in connection with the
+      execution, delivery or performance by such Person of this Agreement.
+
+      (f)    The execution and delivery of this Agreement does not (i)
+      violate, contravene or conflict with any provision of its
+      organizational documents or (ii) materially violate, contravene or
+      conflict with any laws applicable to it or any of its Subsidiaries.
+
+      (g)    The Obligations are not reduced or modified by this Agreement
+      and are not subject to any offsets, defenses or counterclaims.
+
+
+10.    Release. In consideration of the Administrative Agent’s and the 
+Lenders’ willingness to enter into this Agreement, each of the Credit 
+Parties hereby releases and forever discharges the Administrative Agent, 
+the Lenders and each of their respective predecessors, successors, assigns, 
+officers, managers, directors, employees, agents, attorneys, 
+representatives and affiliates (hereinafter, all of the above collectively 
+referred to as the “Lender Group”) from any and all claims, counterclaims, 
+demands, damages, debts, suits, liabilities, actions and causes of action 
+of any
+
+
+
+
+------------------------------------------------------------------------
+
+
+nature whatsoever, whether arising at law or in equity, whether known or 
+unknown, whether liability be direct or indirect, liquidated or 
+unliquidated, whether absolute or contingent, foreseen or unforeseen, and 
+whether or not heretofore asserted, which any of the Credit Parties may 
+have or claim to have against any member of the Lender Group arising prior 
+to the Effective Date.
+
+
+11.    No Third Party Beneficiaries. This Agreement and the rights and 
+benefits hereof shall inure to the benefit of each of the parties hereto 
+and their respective successors and assigns. No other Person shall have or 
+be entitled to assert rights or benefits under this Agreement.
+
+
+12.    Entirety. This Agreement and the other Credit Documents embody the 
+entire agreement among the parties hereto and supersede all prior 
+agreements and understandings, oral or written, if any, relating to the 
+subject matter hereof. This Agreement and the other Credit Documents 
+represent the final agreement between the parties and may not be 
+contradicted by evidence of prior, contemporaneous or subsequent oral 
+agreements of the parties.
+
+
+13.    Counterparts; Electronic Delivery. This Agreement may be executed in 
+any number of counterparts, each of which when so executed and delivered 
+shall be deemed an original, and it shall not be necessary in making proof 
+of this Agreement to produce or account for more than one such counterpart. 
+Delivery of an executed counterpart of this Agreement by facsimile or other 
+electronic means shall be effective as an original.
+
+
+14.    No Actions, Claims, Etc. As of the date hereof, each of the Credit 
+Parties hereby acknowledges and confirms that it has no knowledge of any 
+actions, causes of action, claims, demands, damages and liabilities of 
+whatever kind or nature, in law or in equity, against any member of the 
+Lender Group arising from any action by such Persons, or failure of such 
+Persons to act under the Credit Documents on or prior to the date hereof.
+
+
+15.    Governing Law. This Agreement and the rights and obligations of the 
+parties hereunder shall be governed by and interpreted in accordance with 
+the laws of the State of New York (including Section 5-1401 and Section 
+5-1402 of the General Obligations Law of the State of New York), without 
+regard to conflicts or choice of law principles that would require 
+application of the laws of another jurisdiction, and applicable United 
+States federal law.
+
+
+16.    Consent to Jurisdiction; Service of Process; Waiver of Jury Trial. 
+The jurisdiction, service of process and waiver of jury trial provisions 
+set forth in the Credit Agreement are hereby incorporated by reference, 
+mutatis mutandis.
+
+
+17.    Further Assurances. Each of the parties hereto agrees to execute and 
+deliver, or to cause to be executed and delivered, all such instruments as 
+may reasonably be requested to effectuate the intent and purposes, and to 
+carry out the terms, of this Agreement.
+
+
+18.    Miscellaneous.
+
+      (a)    Section headings in this Agreement are included herein for
+      convenience of reference only and shall not constitute a part of this
+      Agreement for any other purpose.
+
+
+      (b)    Wherever possible, each provision of this Agreement shall be
+      interpreted in such a manner as to be effective and valid under
+      applicable law, but if any provision of this Agreement shall be
+      prohibited by or invalid under applicable law, such provision shall
+      be ineffective to the extent of such prohibition or invalidity,
+      without invalidating the remainder of such provision or the remaining
+      provisions of this Agreement.
+
+
+      (c)    Except as otherwise provided in this Agreement, if any
+      provision contained in this Agreement is in conflict with, or
+      inconsistent with, any provision in the Credit Documents, the
+      provision contained in this Agreement shall govern and control.
+
+
+
+[Signature pages follow]
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+duly executed as of the date first above written.
+
+
+Each of the parties hereto has caused a counterpart of this Agreement to be 
+duly executed and delivered as of the date first above written.
+
+
+BORROWER:    BRAVO BRIO RESTAURANT GROUP, INC.
+
+                                    By:    /s/ Diane D. Reed            
+                                    Name: Diane D. Reed
+                                    Title:    Chief Financial Officer
+                                     
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+ADMINISTRATIVE
+AGENT AND LENDERS:            WELLS FARGO BANK, NATIONAL ASSOCIATION,
+                                    as Administrative Agent and Lender
+
+                                    By:    /s/ Reginald T. Dawson          
+                                              
+                                    Name: Reginald T. Dawson               
+                                             
+                              Title: Senior Vice President                 
+                                
+
+
+BANK OF AMERICA, N.A.                        
+                        
+By:    /s/ Kelly Werbecki                    
+Name:    Kelly Werbecki            
+                              Title:    Vice President                    
+
+
+                                    THE HUNTINGTON NATIONAL BANK
+                        
+By:    /s/ Neil Corry-Roberts         
+Name:    Neil Corry-Roberts            
+Title:    Senior Vice President    
+                                                            
+
+
+                                    KEYBANK NATIONAL ASSOCIATION
+
+By:    /s/ Stephen J. Jones            
+Name:    Stephen J. Jones            
+Title:    Senior Vice President        
+
+

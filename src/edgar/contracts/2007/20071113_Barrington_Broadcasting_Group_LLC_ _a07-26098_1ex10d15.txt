@@ -1,0 +1,1779 @@
+ EX-10.15 3 a07-26098_1ex10d15.htm EX-10.15
+Exhibit 10.15
+ 
+JOINT SALES AGREEMENT
+ 
+THIS JOINT SALES AGREEMENT  (this Agreement) is made as of this 31st day 
+of August 2007, (the Effective Date), by and among Barrington Traverse 
+City LLC, a Delaware limited liability company (Sales Agent) and Tucker 
+Broadcasting of Traverse City, Inc. (Station Licensee), a Delaware 
+corporation.
+ 
+W I T N E S S E T H:
+ 
+WHEREAS, Sales Agent is a party to that certain Asset Purchase Agreement, 
+by and among Max Media LLC and MTC License LLC (collectively, Sellers) 
+and Sales Agent, dated as of the date hereof (the Station Purchase 
+Agreement) pursuant to which Sales Agent has agreed to purchase certain 
+assets of the Sellers related to the television broadcast stations WGTU, 
+channel 29, Traverse City, Michigan (WGTU) and WGTQ, channel 8, Sault 
+Ste. Marie, Michigan (WGTQ and together with WGTU, the Stations) each 
+serving the Traverse City/Cadillac, Michigan market;
+ 
+WHEREAS, Sales Agent and Station Licensee are parties to that certain 
+Assignment and Assumption Agreement, dated as of the date hereof (the 
+Assignment and Assumption Agreement), pursuant to which Sales Agent has 
+assigned certain of its rights under the Station Purchase Agreement to 
+Station Licensee, including the right to purchase the FCC licenses (the 
+FCC Licenses) for, and the assets of, the Stations;
+ 
+WHEREAS, in order to better and more efficiently promote the economic and 
+business development of the Stations following the closing of the 
+transactions contemplated by the Station Purchase Agreement, the parties 
+desire to enter into this Agreement as of and with respect to the period 
+following the Base Date (as defined below); and
+ 
+WHEREAS, simultaneously with the execution and delivery of this Agreement, 
+the parties hereto are entering into that certain Shared Services 
+Agreement, with respect to which Sales Agent shall provide certain services 
+and make available to the Station Licensee certain technical and other 
+facilities (the Shared Services Agreement).
+ 
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual 
+promises, undertakings, covenants and agreements of the parties contained 
+in this Agreement, the parties hereto, intending to be legally bound, 
+hereby agree as follows:
+ 
+ARTICLE I
+ 
+DEFINITIONS
+ 
+Section 1.1       Terms Defined in this Section.  The following terms, as 
+used in this Agreement, shall have the meanings set forth in this Section:
+ 
+------------------------------------------------------------------------
+
+ 
+Affiliate means, with respect to any Person, (a) any other Person that, 
+directly or indirectly through one or more intermediaries, controls, is 
+controlled by, or is under common control with such Person, or (b) an 
+officer or director of such Person or of an Affiliate of such Person within 
+the meaning of clause (a) of this definition.  For purposes of clause (a) 
+of this definition, without limitation, (i) a Person shall be deemed to 
+control another Person if such Person (A) has sufficient power to enable 
+such Person to elect a majority of the board of directors (or comparable 
+governing body) of such Person, or (B) owns a majority of the beneficial 
+interests in income and capital of such Person, and (ii) a Person shall be 
+deemed to control any partnership of which such Person is a general 
+partner.
+ 
+Applicable Law means any of the Communications Act, the FCC Rules, and 
+all other federal, state and local constitutions, laws, statutes, codes, 
+rules, regulations, ordinances, judgments, orders, decrees and the like of 
+any governmental entity, including common law.
+ 
+Base Date means the date on which the closing of the Station Purchase 
+Agreement shall have occurred.
+ 
+Communications Act means the Communications Act of 1934, as amended, as 
+in effect from time to time.
+ 
+FCC means the Federal Communications Commission or any successor agency 
+thereto.
+ 
+FCC Rules means the rules and published policies of the FCC, as in effect 
+from time to time.
+ 
+ Market means the Nielsen Designated Market Area that encompasses the 
+Stations.
+ 
+Network means any national television network party to any network 
+affiliation agreement to which Licensee is a party with respect to the 
+Station.
+ 
+Obligations of Sales Agent means any and all obligations and duties of 
+Sales Agent under (i) this Agreement, and (ii) the Shared Services 
+Agreement.
+ 
+ Person includes, without limitation, natural persons, corporations, 
+business trusts, associations, companies, joint ventures, and partnerships.
+ 
+Third Party Claim means any action, suit, claim or legal, administrative, 
+arbitration, mediation, governmental or other proceeding or investigation, 
+other than any brought by a party to this Agreement or an Affiliate of a 
+party to this Agreement.
+ 
+ Transaction Documents means this Agreement, the Shared Services 
+Agreement, the Option Agreement, the Letter Agreement, the Station Purchase 
+Agreement, the Assignment and Assumption Agreement and the other documents, 
+agreements and instruments executed by the parties hereto and thereto in 
+connection therewith.
+ 
+Section 1.2       Additional Defined Terms.  In addition to the defined 
+terms in the preamble, recitals and Section 1.1 hereof, the following is a 
+list of terms used in this Agreement and a reference to the section or 
+schedule hereof in which such term is defined:
+ 
+2
+------------------------------------------------------------------------
+
+ 
+Term
+ 
+Section/Schedule
+ 
+ 
+ 
+Acquisition Financing Arrangement
+ 
+      Schedule 3.1
+Advertisements
+ 
+      Section 4.1
+Broadcast Material
+ 
+      Section 4.3
+Defense Counsel
+ 
+      Section 8.3
+Defense Notice
+ 
+      Section 8.3
+Delivered Programming
+ 
+      Section 4.2
+Designated Expenses
+ 
+      Schedule 3.1
+Direct Claim
+ 
+      Section 8.3(e)
+Disclosure Statement
+ 
+      Section 5.2(c)
+Indemnified Party
+ 
+      Section 8.3
+Indemnifying Party
+ 
+      Section 8.3
+Initial Term
+ 
+      Section 2.1(a)
+Licensee Revenue Share
+ 
+      Section 3.1(a)
+Loss
+ 
+      Section 8.1
+Net Sales Revenue
+ 
+      Schedule 3.1
+Operating Budget
+ 
+      Section 5.1(d)
+Option Agreement
+ 
+      Section 2.2(a)
+Other Expenses
+ 
+      Schedule 3.1
+Policy Statement
+ 
+      Section 4.3
+Premises
+ 
+      Section 5.4
+Principal Agreements
+ 
+      Schedule 3.1
+PSAs
+ 
+      Section 4.4
+Ratings Agencies
+ 
+      Section 5.1(j)
+Sales Agent Assignee
+ 
+      Section 9.3
+Sales Agent Indemnified Party
+ 
+      Section 8.2
+Station Indemnified Party
+ 
+      Section 8.1
+Term
+ 
+      Section 2.1(b)
+Trade Agreements
+ 
+      Section 4.5
+ 
+ARTICLE II
+ 
+TERM
+ 
+Section 2.1       Term.
+ 
+(a)   Initial Term.  This Agreement shall be deemed effective, and the 
+initial term hereof shall commence, on and as of the Base Date and such 
+initial term (the Initial Term) shall continue until the eighth (8th) 
+anniversary of the Base Date, unless terminated in accordance with Section 
+2.2 below.
+ 
+(b)   Renewal Term.  This Agreement shall be renewed automatically for an 
+additional term of eight (8) years commencing on the day following the 
+expiration of the Initial Term (the Initial Term and any such renewal terms 
+hereinafter referred to as the Term); provided, however, that this 
+Agreement may be terminated by Sales Agent, on the one hand, or Station 
+Licensee, on the other, prior to the expiration of the Initial Term by 
+delivery to the other party of 180 days prior written notice of such 
+termination, which notice may be given by such
+ 
+3
+------------------------------------------------------------------------
+
+ 
+party to the other party commencing on the date which is seven (7) years 
+and six (6) months after the Base Date.
+ 
+Section 2.2       Termination.
+ 
+(a)   Mutual Agreement.  This Agreement may be terminated at any time by 
+mutual agreement of the parties hereto.  This Agreement shall terminate 
+upon the Option Closing (as such term is defined in the Option Agreement) 
+under that certain Option Agreement, dated as of the date hereof, by and 
+between Station Licensee and Sales Agent, as such agreement may be amended 
+from time to time pursuant to the terms thereof (the Option Agreement).
+ 
+(b)   Termination by Station Licensee or  Sales Agent.  This Agreement may 
+be terminated by Station Licensee or Sales Agent, by written notice to the 
+other, upon the occurrence of any of the following events; provided that 
+any such termination shall be effective as of the date thirty (30) days 
+after such notice:
+ 
+(i)            this Agreement has been declared invalid under Applicable 
+Law or illegal in whole or substantial part by an order or decree of an 
+administrative agency or court of competent jurisdiction which is not 
+subject to appeal or further administrative or judicial review, and the 
+parties, acting in good faith, are unable to agree upon a modification of 
+the Agreement so as to cause the Agreement to comply with Applicable Law; 
+or
+ 
+(ii)           there has been a change in the Communications Act or the FCC 
+Rules that causes this Agreement in its entirety to be in violation thereof 
+and the applicability of such change is not subject to appeal or further 
+administrative review; and the parties, acting in good faith, are unable to 
+agree upon a modification of the Agreement so as to cause the Agreement to 
+comply with the Communications Act or the FCC Rules as so changed.
+ 
+(c)   Termination by Sales Agent.  This Agreement may be terminated by 
+Sales Agent, by written notice to Station Licensee, upon the occurrence of 
+any of the following events, provided that any such termination shall be 
+effective as of the date thirty (30) days after such notice and provided 
+further that if there is an exercise of the Option (as defined in the 
+Option Agreement) under the Option Agreement prior to any such termination 
+or during the 30-day period thereafter, the termination hereunder shall not 
+be effective until the either of (i) the Option Closing (as defined in the 
+Option Agreement) or (ii) the termination of the Option Agreement:
+ 
+(i)            if Sales Agent is not then in material breach and Station 
+Licensee is in material breach under this Agreement or the Shared Services 
+Agreement (other than a breach by Station Licensee of any of its payment 
+obligations under the Shared Services Agreement) and Station Licensee has 
+failed to cure such breach within thirty (30) days after receiving written 
+notice of such breach from Sales Agent, or if Sales Agent is not then in 
+material breach and Station Licensee breaches any of its payment 
+obligations to Sales Agent under the Shared Services Agreement (other than 
+any such payment obligation that is being contested in good faith) which 
+breach shall not have been cured within fifteen (15) days after receiving 
+written notice of such breach from Sales Agent;
+ 
+(ii)           if Station Licensee or any Affiliate of Station Licensee 
+makes a general assignment for the benefit of creditors, files, or has 
+filed against it, a petition for
+ 
+4
+------------------------------------------------------------------------
+
+ 
+bankruptcy, reorganization or an arrangement for the benefit of creditors, 
+or for the appointment of a receiver, trustee, or similar creditors 
+representative for the property or assets of Station Licensee or any 
+Affiliate of Station License under any federal or state insolvency law 
+which, if filed against Station Licensee or any Affiliate of Station 
+Licensee, has not been dismissed within thirty (30) days thereof; or
+ 
+(iii)          upon and at any time following termination of the Option 
+Agreement.
+ 
+(d)   Termination by Station Licensee.  This Agreement may be terminated by 
+Station Licensee, by written notice to Sales Agent, upon the occurrence of 
+any of the following events, provided that any such termination shall be 
+effective as of the date thirty (30) days after such notice and provided 
+further that if there is an exercise of the Option under the Option 
+Agreement prior to any such termination or during the 30-day period 
+thereafter, the termination hereunder shall not be effective until the 
+either of (i) the Option Closing or (ii) the termination of the Option 
+Agreement:
+ 
+(i)            if Station Licensee is not then in material breach and Sales 
+Agent breaches any of its obligations under this Agreement or the Shared 
+Services Agreement which breach reasonably could be expected to result in 
+the revocation or non-renewal of the Stations FCC Licenses and such breach 
+shall not have been cured within thirty (30) days after receiving written 
+notice of such breach from Station Licensee, or if Sales Agent breaches any 
+of its payment obligations to Station Licensee (other than any such payment 
+obligation that is being contested in good faith) which breach shall not 
+have been cured within fifteen (15) days after receiving written notice of 
+such breach from Station Licensee;
+ 
+(ii)           if Sales Agent or any of its Affiliates makes a general 
+assignment for the benefit of creditors, files, or has filed against it a 
+petition for bankruptcy, reorganization or an arrangement for the benefit 
+of creditors, or for the appointment of a receiver, trustee, or similar 
+creditors representative for the property or assets of Sales Agent or any 
+of its Affiliates under any federal or state insolvency law which, if filed 
+against Sales Agent or any of its Affiliates, has not been dismissed within 
+thirty (30) days thereof; or
+ 
+(iii)          upon and at any time following termination of the Option 
+Agreement.
+ 
+Section 2.3       Certain Matters Upon Termination. 
+ 
+(a)   Continuing Obligations.  No expiration or termination of this 
+Agreement shall terminate the obligations of any party hereto to indemnify 
+the other parties for Third Party Claims under Section 8 of this Agreement, 
+or limit or impair any partys rights to receive payments due and owing 
+hereunder on or before the effective date of such termination.
+ 
+(b)   Cooperation.  Notwithstanding anything to the contrary contained in 
+this Agreement, if this Agreement is terminated pursuant to the second 
+sentence of Section 2.2(a) following the Option Closing, the parties shall 
+cooperate with each other as may be reasonably requested to effect an 
+allocation of the revenues and expenses for any partial calendar month
+ 
+5
+------------------------------------------------------------------------
+
+ 
+resulting from such termination or to effect any working capital payment 
+required in connection with such allocation or a related transfer of 
+control pursuant to the Option Agreement.
+ 
+ARTICLE III
+ 
+CONSIDERATION
+ 
+Section 3.1       Licensee Revenue Share. 
+ 
+(a)   As consideration for the right of Sales Agent to market and sell air 
+time made available under this Agreement, with respect to each calendar 
+month during the Term, Sales Agent shall pay over to Station Licensee an 
+amount equal to seventy percent (70%) of the total amount of Net Sales 
+Revenue for the applicable calendar month (the Licensee Revenue Share).  
+Sales Agent shall retain the remaining thirty percent (30%) of the total 
+amount of Net Sales Revenue for such calendar month as its commission with 
+respect to its sales agency, programming and other duties hereunder. 
+ 
+(b)   The Licensee Revenue Share shall be due and payable on the fifteenth 
+(15th) day of each calendar month and shall be calculated with respect to 
+the immediately preceding calendar month in accordance with Schedule 3.1.  
+The Licensee Revenue Share shall be prorated for any partial calendar month 
+during the Term.
+ 
+ARTICLE IV
+ 
+SCOPE OF SERVICES
+ 
+Section 4.1       Sales and Related Services.  Except as expressly provided 
+to the contrary herein, Station Licensee retains Sales Agent on an 
+exclusive basis for the Term to market and sell all forms of regional and 
+local spot advertising, sponsorships, direct response advertising, paid 
+programming (including infomercials), and all long-form advertising 
+broadcast on the Stations and all advertising on any Internet site 
+maintained by or on behalf of the Stations during the Term (the 
+Advertisements).  Subject to the  terms of Schedule 3.1, national spot 
+advertising broadcast on the Stations shall continue to be sold by the 
+Stations national rep firm as selected from time to time by Station 
+Licensee.  Station Licensee shall provide to Sales Agent and its employees 
+such information as Sales Agent may reasonably request to support the 
+marketing and sale of the Advertisements and the collection of accounts 
+receivable with respect thereto.  Sales Agent also shall be responsible for 
+the Stations traffic, billing and collection functions for the 
+Advertisements.  Sales Agent shall designate an adequate number of its 
+personnel to perform such services for the Stations.  Sales Agent shall 
+conduct the sales and traffic functions for the Stations in accordance with 
+standard practice in the industry.  Sales Agent and Station Licensee shall 
+periodically review the personnel needs and job functions of the persons 
+designated by Sales Agent to perform its obligations under this Agreement 
+and implement such changes as they mutually agree are appropriate.  
+Revenues from the sale of the Advertisements shall be allocated between 
+Sales Agent and Station Licensee as set forth in Section 3.  Sales Agent 
+may sell the Advertisements in combination with any other broadcast 
+stations of its choosing; provided, however, that under no circumstances 
+may Sales Agent require advertisers to purchase time on the Stations and 
+any other station together.  Subject to Section 4.3, the placement, 
+duration and rates of the Advertisements shall be determined by Sales 
+Agent.  The value of commercial time bartered in
+ 
+6
+------------------------------------------------------------------------
+
+ 
+exchange for programming shall be excluded from the definition of Net Sales 
+Revenue.  Network compensation and retransmission fees payable in 
+connection with the Stations shall be included in the computation of Net 
+Sales Revenue.
+ 
+Section 4.2       Delivered Programming.  Commencing on the Base Date, 
+Sales Agent shall provide to the Station Licensee for broadcast, simulcast 
+or rebroadcast on the Stations, as applicable, local news and other 
+programming as described more particularly in Schedule 4.2 hereof (the 
+Delivered Programming), which Delivered Programming shall be less than 25 
+hours per week and less than 15% of the Stations broadcast hours for any 
+week.  Sales Agent shall be responsible for obtaining the rights to 
+broadcast the Delivered Programming on the Stations and for paying all 
+costs incurred in obtaining such rights.  To the extent permission is 
+required to rebroadcast any Delivered Programming under Section 325 of the 
+Communications Act, Sales Agent hereby grants Station Licensee such 
+permission.  The Delivered Programming shall be subject to Sales Agents 
+editorial judgment and the requirements of Section 4.3, including but not 
+limited to the right of rejection or preemption of Station Licensee.  All 
+Delivered Programming shall be in conformity in all material respects with 
+standards established by Station Licensee and consistent with similar 
+programming broadcast on Sales Agents own television broadcast stations 
+and shall otherwise conform to all Applicable Law, including the 
+Communications Act, the FCC Rules and the intellectual property rights of 
+third parties.   
+ 
+Section 4.3       Content Policies.  All material furnished by Sales Agent 
+for broadcast on the Stations, including all Delivered Programming and 
+Advertisements (collectively, Broadcast Material) shall comply with 
+applicable federal, state and local regulations and policies, including 
+commercial limits in childrens programming.  Station Licensee shall have 
+the right to preempt any Broadcast Material to present program material of 
+greater local or national importance.  Station Licensee may reject any 
+Broadcast Material if it reasonably determines that the broadcast of such 
+material would violate Applicable Law or would otherwise be contrary to the 
+public interest.  Station Licensee shall promptly notify Sales Agent of any 
+such rejection, preemption, or rescheduling and shall cooperate with Sales 
+Agent in efforts to fulfill commitments to advertisers and syndicators.  
+Schedule 4.3 sets forth Station Licensees statement of policy (the 
+Policy Statement) with regard to the Broadcast Material.  Sales Agent 
+shall ensure that the Broadcast Materials are in compliance with the terms 
+of this Agreement and the Policy Statement.
+ 
+Section 4.4       Public Service Announcements. Sales Agent acknowledges 
+that the Stations have in the past provided time on the Stations for the 
+promotion of public service organizations in the form of public service 
+announcements (PSAs), and agrees that it will release spot time to 
+Station Licensee for the broadcast of PSAs at times and in amounts 
+consistent with the Stations past practices and consistent with Sales 
+Agents operating policies applicable to the broadcast of PSAs.  Station 
+Licensee and Sales Agent shall cooperate in good faith concerning the 
+placement of the PSAs to be broadcast on the Stations; provided, however, 
+that Station Licensee shall be ultimately responsible for selecting, 
+obtaining and scheduling PSAs for broadcast on the Stations.
+ 
+Section 4.5       Trade and Barter Spots.  On or as soon as reasonably 
+practicable after the Base Date, Station Licensee shall deliver to the 
+Sales Agent a list, which is accurate and complete in all material 
+respects, of all contracts for the sale of advertising time on the Stations 
+for non-cash consideration that are in effect as of, and will extend 
+beyond, the Base Date (Trade
+ 
+7
+------------------------------------------------------------------------
+
+ 
+Agreements).  Sales Agent shall comply with and honor all such Trade 
+Agreements, if and to the extent that Trade Agreement spots may be 
+broadcast on a preemptible basis.  The dollar value of advertising time on 
+the Stations provided to advertisers pursuant to Trade Agreements shall not 
+be included in the computation and determination of Net Sales Revenue for 
+purposes of this Agreement.  After the Base Date Sales Agent and Station 
+Licensee shall have the right to enter into new contracts for the sale of 
+Advertisements for non-cash consideration, provided that the parties agree 
+to each such Trade Agreement and provided further that the dollar value of 
+such advertising time on the Stations for such Trade Agreements shall be 
+included in the computation and determination of Net Sales Revenue for 
+purposes of this Agreement.  The parties shall mutually agree as to the use 
+of the non-cash consideration received for each new Trade Agreement.  For 
+purposes of this Section 4.5, the term Trade Agreement applies only to 
+the bartering of advertising in return for goods and services other than 
+programming.
+ 
+Section 4.6       Accounts Receivable.  Notwithstanding anything to the 
+contrary contained herein, any accounts receivable or revenue received by 
+Sales Agent in respect of the operation of the Stations during the period 
+prior to the Base Date, in respect of which the Sellers received a credit 
+to the purchase price under the Station Purchase Agreement or to which the 
+Sellers are entitled pursuant to the Station Purchase Agreement, if any, 
+shall not be included in Net Sales Revenue.
+ 
+Section 4.7       Monthly Reports; Books and Records.  The following 
+obligations shall begin on the first day of the first full calendar month 
+beginning after the Base Date:
+ 
+(a)   On or before the twentieth (20th) day of each calendar month during 
+the Term, Sales Agent shall furnish Station Licensee with a report 
+regarding Sales Agents sales by advertiser, of the Advertisements for the 
+previous calendar month.  Without limiting Schedule 3.1 hereof, Station 
+Licensee shall have the right to review the books and records of Sales 
+Agent at reasonable times and upon reasonable notice, with respect to the 
+sale of Advertisements and any other sales by Sales Agent in connection 
+with or related to its sale of the Advertisements for the Stations.
+ 
+(b)   Station Licensee shall furnish to Sales Agent information each month 
+with respect to Station Expenses.   Upon reasonable prior notice, Sales 
+Agent shall have the right at all reasonable times to review (and the 
+right, at Sales Agents expense, to make copies of) the books and records 
+of Station Licensee, provided that the foregoing access shall not interfere 
+unreasonably with the Stations business.  
+ 
+(c)   The audit and inspection rights of Sales Agent under this Section 4.7 
+shall survive any termination or expiration of this Agreement for a period 
+of two (2) years.
+ 
+Section 4.8       Control.  Notwithstanding anything to the contrary in 
+this Agreement, the parties hereto acknowledge and agree that during the 
+Term, Station Licensee will maintain ultimate control and authority over 
+the Stations, including, specifically, control and authority over the 
+Stations operations, finances, personnel and programming.  Without 
+limiting the generality of the foregoing, nothing contained in this 
+Agreement shall be deemed to limit the control and authority of Station 
+Licensee with respect to the selection, development and acquisition of any 
+and all programming to be broadcast over the Stations, as well as the 
+payment therefor, other than
+ 
+8
+------------------------------------------------------------------------
+
+ 
+those payments of Sales Agent associated with the Delivered Programming.  
+To that end, Station Licensee shall (a) have exclusive authority for the 
+negotiation, preparation, execution and implementation of any and all 
+programming agreements for the Stations, and (b) retain and hire or utilize 
+whatever employees Station Licensee reasonably deems appropriate or 
+necessary to fulfill those programming functions.  Sales Agent shall not 
+represent, warrant or hold itself out as the licensee of the Stations, and 
+all sales material prepared by Sales Agent for the sale of advertising time 
+on the Stations shall identify Station Licensee as the licensee of the 
+Stations using mutually agreeable wording and references.  Sales Agent 
+shall sell advertising time and enter into all agreements for the sale of 
+time on the Stations and for the Delivered Programming in its own name.
+ 
+ARTICLE V
+ 
+OTHER OBLIGATIONS OF THE PARTIES
+ 
+Section 5.1       Responsibilities of Station Licensee.  Station Licensee, 
+at its expense, shall be responsible for and perform the following 
+obligations with respect to the business and operations of the Stations 
+during the Term, in accordance with and subject to the following 
+provisions:
+ 
+(a)   Station Licensee shall continue to maintain full control over the 
+operations of the Stations, including programming editorial policies, 
+employees of Station Licensee and Station Licensee-controlled facilities.  
+Station Licensee shall be responsible for, and shall comply in all material 
+respects with all applicable provisions of the Communications Act, the FCC 
+Rules and all other Applicable Law with respect to the operation of the 
+Stations.  Station Licensee shall file in a timely and complete manner all 
+reports and applications required to be filed with the FCC or any other 
+governmental body.
+ 
+(b)   Station Licensee shall maintain in effect policies of insurance 
+insuring the assets and the business of the Station in accordance with good 
+industry practices.
+ 
+(c)   Station Licensee shall use, operate, and maintain all of its assets 
+in a commercially reasonable manner.  If any loss, damage, impairment, 
+confiscation or condemnation of any of such assets occurs, Station Licensee 
+shall use commercially reasonable efforts and cooperate with Sales Agent to 
+repair, replace, or restore the assets to their prior condition as soon 
+thereafter as possible, and Station Licensee shall use the proceeds of any 
+claim under any insurance policy to repair, replace or restore any of the 
+assets of the Stations that are lost, damaged, impaired or destroyed.
+ 
+(d)   Station Licensee shall be responsible for payment of all operating 
+costs of the Stations (excluding those costs to be borne by Sales Agent in 
+accordance with Section 5.2), including the cost of electricity, other 
+utilities and rental or other payments with respect to any real property 
+leased by Station Licensee, taxes, the Services Fee (as defined in the 
+Shared Services Agreement) and the salaries, insurance, and other costs for 
+all personnel employed by Station Licensee and, without limiting the 
+foregoing, shall pay all other Station Expenses.  Promptly following the 
+Base Date, but in no event more than thirty (30) days thereafter, Station 
+Licensee shall provide Sales Agent copies of the operating budgets of the 
+Stations (collectively, the
+ 
+9
+------------------------------------------------------------------------
+
+ 
+Operating Budget), which shall reflect Station Licensees good faith 
+budget of reasonable and customary capital and other expenses necessary to 
+the operations of the Stations and not otherwise contemplated by the 
+Designated Expenses, as determined by Station Licensee in its sole 
+discretion.  Station Licensee shall provide updated copies of the Operating 
+Budget each year during the Term, identifying adjustments from year to 
+year. 
+ 
+(e)   Subject to the Obligations of Sales Agent, Station Licensee shall pay 
+when due all music rights payments (including, without limitation, music 
+performance rights, synchronization rights, and master use rights), if any, 
+in connection with the broadcast and/or transmission of all announcements, 
+including the Advertisements, and programming on the Stations, other than 
+the Delivered Programming.
+ 
+(f)   Station Licensee shall be solely responsible for all costs and 
+expenditures associated with the procuring of programming to be aired on 
+the Stations, other than those associated with the Delivered Programming.  
+Station Licensee shall pay over to Sales Agent all funds received by 
+Station Licensee each year from the Network and any other program 
+syndicator or supplier for promotion of the Network and other programming 
+on other stations or media, and Sales Agent shall use all such funds solely 
+for their intended promotional or other similar purposes and in accordance 
+with Section 4(b) of the Shared Services Agreement.  Station Licensee shall 
+cooperate with Sales Agent in filing any necessary forms or reports 
+required to obtain co-op reimbursement or other funds to which Sales Agent 
+is entitled under this Section 5.1(f).  For the purposes of Schedule 3.1 
+hereof, Sales Agents receipt of promotional or co-op payments identified 
+in this Section 5.1(f) shall not be considered a part of Net Sales Revenue 
+and its expenditures of such promotional or co-op payments shall not be 
+considered an expense for purposes of calculating Net Sales Revenue.  To 
+the extent that any network or program service agreement of Station 
+Licensee provides that, in exchange for cash payment, additional spot time 
+that otherwise would be used by such network or program service may be 
+released for local sales by the Stations, Station Licensee, upon request by 
+the Sales Agent, will obtain the release of such commercial spot inventory 
+for the placement of Advertisements by the Sales Agent, subject to Sales 
+Agent paying to Station Licensee the cash amount required for such release.
+ 
+(g)   Subject to the provisions of any network affiliation or other 
+programming agreement to which Station Licensee is a party, Station 
+Licensee shall consult and cooperate with Sales Agent in the negotiation, 
+maintenance and enforcement of retransmission consent agreements with 
+cable, satellite and other multichannel video providers.  Station Licensee, 
+in consultation with Sales Agent, shall exercise its rights to mandatory 
+carriage and retransmission consent for cable television and other 
+multichannel video providers in a manner that ensures the maximum possible 
+distribution of the Stations signal on cable, direct-broadcast-satellite 
+and other multichannel video programming distributors serving communities 
+located in the Market.
+ 
+(h)   Station Licensee shall not take any action or unreasonably omit to 
+take any action that would be reasonably likely to result in a (i) 
+revocation, non-renewal or material impairment of the FCC Licenses, (ii) 
+material adverse effect upon the Stations transmitters, antennae and other 
+material assets included in the Stations transmission facilities or (iii) 
+material breach or default under the terms of any of the agreements to 
+which Station Licensee is a party on and as of the date hereof.
+ 
+10
+------------------------------------------------------------------------
+
+ 
+(i)   Station Licensee shall list Sales Agent as the exclusive sales 
+representative for the Advertisements in all applicable trade listings and 
+advertising and promotional material if and when such listings and material 
+are published by Station Licensee. 
+ 
+(j)   To the extent permitted under the terms of any applicable agreement, 
+Station Licensee shall provide to Sales Agent such routine ratings 
+information and ratings reports with respect to the Stations as are 
+customarily prepared or obtained by the Stations in the ordinary course of 
+business as Sales Agent may reasonably request from time to time.  Except 
+as otherwise agreed by the parties hereto, Station Licensee shall maintain 
+(including timely payment of all fees) any agreements with A.C. Nielsen 
+Company or its affiliates or other ratings information providers 
+customarily used by the Stations as a source of local station research 
+information for the Stations (collectively, the Ratings Agencies).  At 
+Sales Agents request, Station Licensee shall use its commercially 
+reasonable efforts to assist Sales Agent in obtaining from the Ratings 
+Agencies permission to use the Stations ratings information and reports in 
+connection with the sale of the Advertisements.
+ 
+(k)   During the Term, Station Licensee shall not:  (i) engage in any 
+business other than the business of owning and operating the Stations; (ii
+) incur any liabilities or obligations, except those liabilities and 
+obligations incurred in connection with its business conducted in 
+compliance with clause (i) of this Section 5.1(k); (iii) incur any 
+indebtedness for borrowed money, including guaranteeing or becoming a 
+surety with respect to the indebtedness of another Person; (iv) file a 
+voluntary petition in bankruptcy, any petition or answer seeking for itself 
+any reorganization, arrangement, composition, readjustment of debt, 
+liquidation or dissolution or similar relief under any present or future 
+insolvency statute, law or regulation of any jurisdiction; petition or 
+apply to any tribunal for any receiver, custodian or any trustee for 
+substantially all of its properties or assets; file any answer to any such 
+petition admitting or not contesting the material allegations of any such 
+petition sufficient to support the grant or approval of any such order, 
+judgment or decree; seek, approve or consent to any such proceeding or in 
+the appointment of any trustee, receiver, sequestrator, custodian, 
+liquidator or fiscal agent for it or substantially all of its properties or 
+assets; or take any action for the purpose of effecting any of the 
+foregoing; or be the subject of an order entered appointing any such 
+trustee, receiver, custodian, liquidator or fiscal agent, or (v) amend or 
+modify any provision of that certain Agreement by and between Station 
+Licensee and Tucker Media and Management Consulting L.L.C., as its sole 
+shareholder, dated as of the date hereof (the Tucker Management Agreement
+).
+ 
+(l)   During the Term, Station Licensee shall cooperate with Sales Agent 
+and, upon request by Sales Agent, use commercially reasonable efforts to 
+assist Sales Agent in making and prosecuting any claims for indemnification 
+pursuant to the Station Purchase Agreement relating to any assets of the 
+Stations owned, leased or held by Station Licensee which are or may be 
+subject to claims under the Station Purchase Agreement, and Sales Agent 
+shall reimburse Station Licensee for reasonable costs and expenses in 
+connection with any such cooperation afforded pursuant to this Section 
+5.1(l). 
+ 
+(m)   During the Term, Station Licensee shall provide to Sales Agent upon 
+the written request of Sales Agent (but no more often than once each fiscal 
+quarter) a true and accurate listing of the outstanding equity interests of 
+Station Licensee and the holders thereof.  Station Licensee acknowledges 
+that Sales Agent may provide such information to its lenders.  
+ 
+11
+------------------------------------------------------------------------
+
+ 
+Section 5.2       Responsibilities of Sales Agent.  Sales Agent, at its 
+expense and subject to the provisions of Schedule 3.1, shall be responsible 
+for and perform the following obligations with respect to the marketing and 
+sale of the Advertisements during the Term in accordance with and subject 
+to the following provisions:
+ 
+(a)   Sales Agent shall be solely responsible for (i) all commissions to 
+its employees, agencies or representatives and other expenses incurred in 
+its marketing and sale of the Advertisements; (ii) all expenses incurred in 
+its performance of traffic, billing and collections functions with respect 
+to the Advertisements;  (iii) any other fees incurred in performing its 
+obligations under this Agreement; and (iv) all fees related to the software 
+used for sales, traffic, billing and similar functions including any fees 
+charged by the provider to make Sales Agents software interface in the 
+most efficient manner with the Stations master control equipment.
+ 
+(b)   Sales Agent shall be solely responsible for the salaries, taxes and 
+related costs for all personnel employed by Sales Agent in the sale of the 
+Advertisements and the collection of accounts receivable (including 
+salespeople, billing personnel and traffic personnel).
+ 
+(c)   Sales Agent shall cooperate with Station Licensee and use 
+commercially reasonable efforts to assist Station Licensee in complying 
+with the provisions of the Communications Act and FCC Rules regarding 
+political advertising, including compliance with Station Licensees 
+statement disclosing political advertising rates and practices for 
+purchasers of political advertising consistent with Applicable Law (
+Disclosure Statement).  Sales Agent shall supply such information promptly 
+to Station Licensee as may be necessary to comply with the public 
+inspection file, lowest unit rate, equal opportunities and reasonable 
+access requirements of the Communications Act and FCC Rules.  If the 
+Stations fail to meet the political time obligations under the 
+Communications Act and FCC Rules based on the advertising sold by Sales 
+Agent, then, to the extent reasonably necessary to enable Station Licensee 
+to cause the Stations to comply with such political time obligations, Sales 
+Agent shall release advertising availabilities to Station Licensee; 
+provided, however, that all revenues realized by Station Licensee from the 
+sale of such advertising time shall be immediately paid to Sales Agent and 
+shall be considered a part of its Net Sales Revenue.
+ 
+(d)   All Broadcast Material shall comply in all material respects with the 
+Policy Statement, the Communications Act, the FCC Rules and other 
+Applicable Law and shall not violate the intellectual property rights of 
+any Person.  All services to be provided and all obligations to be 
+performed by Sales Agent hereunder shall comply in all material respects 
+with all Applicable Law, including without limitation the Communications 
+Act and FCC Rules, and standards of performance customary for the broadcast 
+television industry.
+ 
+Section 5.3       Delivery of Broadcast Material.  All Broadcast Material 
+shall be delivered to the Stations in a format to be mutually agreed upon 
+by the parties hereto, in a form ready for broadcast on the Stations 
+existing playback equipment, and with quality suitable for broadcast.  
+Station Licensee shall not be required to provide production services or to 
+copy, reformat or otherwise manipulate material furnished by Sales Agent 
+other than inserting tape cartridges or similar broadcast-ready media into 
+machinery or computers for broadcast.
+ 
+12
+------------------------------------------------------------------------
+
+ 
+Section 5.4       Provision of Office Space.  Station Licensee shall 
+provide to employees and agents of Sales Agent and its Affiliates the right 
+to access and use space designated for Sales Agents use in the Stations 
+studio buildings (the Premises) as reasonably necessary for Sales Agents 
+performance of the Obligations of Sales Agent under this Agreement, so long 
+as the provision of such space does not unreasonably interfere with the 
+conduct of the business or operations of the Stations.  When on the 
+Premises, Sales Agents personnel shall be subject to the reasonable 
+direction and control of the management personnel of Station Licensee.  
+Station Licensee shall make available to Sales Agent for use without fee or 
+charge all facilities and equipment of the Stations.
+ 
+Section 5.5       Access to Information.  In order to ensure compliance 
+with the Communications Act, the FCC Rules and other Applicable Law, 
+Station Licensee shall be entitled to review at its reasonable discretion 
+from time to time any Broadcast Material that Station Licensee may 
+reasonably request.  Sales Agent also shall maintain and deliver to the 
+Stations such records and information required by the FCC Rules to be 
+placed in the public inspection files of the Stations pertaining to the 
+sale of political programming and advertisements, in accordance with the 
+provisions of Sections 73.1940 and 73.3526 of the FCC Rules, and to the 
+sale of sponsored programming addressing political issues or controversial 
+issues of public importance, in accordance with the provisions of Section 
+73.1212 of the FCC Rules.  Sales Agent shall furnish to Station Licensee 
+upon request any other information that is reasonably necessary to enable 
+Station Licensee to prepare any records or reports required by the FCC or 
+other governmental entities.  Nothing in this Section 5.5 shall entitle 
+Station Licensee to review the internal corporate or financial records of 
+Sales Agent.  Station Licensee shall keep confidential any information 
+obtained from Sales Agent in connection with this Agreement, except as and 
+to the extent required by Applicable Law.  If this Agreement is terminated, 
+Station Licensee shall return to Sales Agent all information obtained by it 
+from Sales Agent in connection with this Agreement.  This Section 5.5 shall 
+survive any termination or expiration of this Agreement for a period of 
+three (3) years.
+ 
+Section 5.6       Noncompete. Station Licensee covenants and agrees, on 
+behalf of itself and its Affiliates, that during the Term, neither it nor 
+any or its Affiliates will, without the prior written consent of Sales 
+Agent, directly or indirectly, own, manage, operate, control, or engage or 
+participate in the ownership, management, operation, or control of, or be 
+connected as a shareholder, partner, or joint venturer with, any business 
+or organization which engages in the business of television broadcasting 
+within the Market, other than the Stations.  Notwithstanding the foregoing, 
+the ownership of an equity interest of five percent (5%) or less of a 
+publicly traded company that does not otherwise constitute control over 
+such company shall not be prohibited.
+ 
+ARTICLE VI
+ 
+REPRESENTATIONS AND WARRANTIES OF STATION LICENSEE
+ 
+Station Licensee represents and warrants to Sales Agent as follows:
+ 
+Section 6.1       Authorization and Binding Obligation.  The execution, 
+delivery, and performance of this Agreement by Station Licensee has been 
+duly authorized by all necessary organizational action on the part of 
+Station Licensee.  This Agreement has been duly executed and delivered by 
+Station Licensee and constitutes the legal, valid, and binding obligation 
+of it,
+ 
+13
+------------------------------------------------------------------------
+
+ 
+enforceable against it in accordance with its terms except as the 
+enforceability thereof may be limited by bankruptcy, insolvency, fraudulent 
+transfer, reorganization, moratorium, insolvency, reorganization, or other 
+similar laws of general application affecting the enforcement of creditors 
+rights or by general principles of equity limiting the availability of 
+equitable remedies.
+ 
+Section 6.2       Absence of Conflicting Agreements or Consents.  The 
+execution, delivery, and performance by Station Licensee of this Agreement 
+and the documents contemplated hereby (with or without the giving of 
+notice, the lapse of time, or both): (a) will not conflict with the 
+organizational documents of Station Licensee; (b) to the actual knowledge 
+of Station Licensee, does not conflict with, result in a breach of, or 
+constitute a default under any law, judgment, order, ordinance, injunction, 
+decree, rule, regulation, or ruling of any court or governmental 
+instrumentality applicable to Station Licensee, (c) does not conflict with, 
+constitute grounds for termination of, result in a breach of, constitute a 
+default under, or accelerate or permit the acceleration of any performance 
+required by the terms of any agreement, instrument, license, or permit to 
+which Station Licensee is a party or by which it is bound as of the date 
+hereof; and (d) will not create any claim, lien, charge, or encumbrance 
+upon any of the assets of the Stations owned by Station Licensee, other 
+than any lien for current taxes, payments of which are not yet due and 
+payable, or liens in respect of pledges or deposits under workers 
+compensation laws or similar legislation, carriers, warehousemens, 
+mechanics, laborers and materialmens and similar liens, if the 
+obligations secured by such liens are not then delinquent or are being 
+contested in good faith by appropriate proceedings.
+ 
+ARTICLE VII
+ 
+REPRESENTATIONS AND WARRANTIES OF SALES AGENT
+ 
+Sales Agent represents and warrants to Station Licensee as follows:
+ 
+Section 7.1       Authorization and Binding Obligation.  The execution, 
+delivery, and performance of this Agreement by Sales Agent have been duly 
+authorized by all necessary organizational action on the part of such 
+party.  This Agreement has been duly executed and delivered by Sales Agent 
+and constitutes the legal, valid, and binding obligation of such party, 
+enforceable against such party in accordance with its terms except as the 
+enforceability thereof may be limited by bankruptcy, insolvency, fraudulent 
+transfer, reorganization, moratorium, insolvency, reorganization or other 
+similar laws of general application affecting the enforcement of creditors 
+rights or by general principles of equity limiting the availability of 
+equitable remedies.
+ 
+Section 7.2       Absence of Conflicting Agreements and Required Consents.  
+The execution, delivery, and performance by Sales Agent of this Agreement 
+and the documents contemplated hereby (with or without the giving of 
+notice, the lapse of time, or both):  (a) will not conflict with the 
+governing documents of Sales Agent; (b) to the actual knowledge of Sales 
+Agent, does not conflict with, result in a breach of, or constitute a 
+default under, any law, judgment, order, ordinance, injunction, decree, 
+rule, regulation, or ruling of any court or governmental instrumentality 
+applicable to such party; and (c) does not conflict with, constitute 
+grounds for termination of, result in a breach of, constitute a default 
+under, or accelerate or permit the acceleration of any performance required 
+by the terms of, any agreement, instrument, license or permit to which 
+Sales Agent is a party or by which it is bound as of the date hereof.
+ 
+14
+------------------------------------------------------------------------
+
+ 
+ARTICLE VIII
+ 
+INDEMNIFICATION AND REMEDIES
+ 
+Section 8.1       By Sales Agent. Sales Agent shall, jointly and severally, 
+indemnify, defend and hold harmless Station Licensee and any employee, 
+director, member, manager, officer, stockholder, or agent of Station 
+Licensee, or any of its Affiliates, successors or assignees (exclusive of 
+Sales Agent and its Affiliates and agents) (each, a Station Indemnified 
+Party), from and against, and reimburse and pay to such Station 
+Indemnified Party as incurred, any loss, liability, damage or expense 
+(including reasonable legal expenses and costs and any cost or expense 
+arising from or incurred in connection with any action, suit, proceeding, 
+claim or judgment) relating to any matter described in this Section 8.1, or 
+in enforcing the indemnity provided by this Section 8.1 (any such amount 
+being a Loss), which any such Station Indemnified Party may suffer, 
+sustain or become subject to, in any way arising from, relating to, or as a 
+result of:
+ 
+(a)   any act or omission, event or occurrence that was or shall be caused 
+by Sales Agent, its agents or Affiliates (including any predecessor in 
+interest thereto) relating to the business of Sales Agent or the Stations;
+ 
+(b)   any omission by Sales Agent or breach by Sales Agent (including any 
+predecessor in interest to Sales Agent) of any of its obligations 
+hereunder; or
+ 
+(c)   any Broadcast Material.
+ 
+The obligations of Sales Agent under this Section 8.1 shall survive any 
+termination or expiration of this Agreement. The obligations of Sales Agent 
+under this Section 8.1 shall be direct and not conditioned or conditional 
+upon Station Licensees pursuit of remedies against any other party, 
+including the Sellers pursuant to the Station Purchase Agreement, and 
+irrespective of Station Licensees rights under the Station Purchase 
+Agreement, Station Licensee shall have the right to elect to proceed 
+against Sales Agent in the first instance without any requirement to first 
+proceed against the Sellers or any such third party.
+ 
+Notwithstanding anything to the contrary contained herein, in no event 
+shall Sales Agent be liable under this Section 8.1 for punitive, treble, 
+exemplary, consequential, special or other damages that are not actual 
+damages in accordance with Applicable Law.
+ 
+Section 8.2       By Station Licensee. Except with respect to or to the 
+extent of any Loss subject to indemnification pursuant to the terms and 
+subject to the conditions of Section 8.1 and subject to the limitations set 
+forth in Section 11(b) of the Shared Services Agreement, Station Licensee 
+shall, jointly and severally, indemnify, defend and hold harmless Sales 
+Agent and any employee, director, member, manager, officer, stockholder or 
+agent of Sales Agent, or any of its Affiliates, successors or assignees 
+(each, a Sales Agent Indemnified Party) from and against, and reimburse 
+and pay to such Sales Agent Indemnified Party, as incurred, any Loss, which 
+any such Sales Agent Indemnified Party may suffer, sustain or become 
+subject to, in any way arising from, relating to, or as a result of:
+ 
+15
+------------------------------------------------------------------------
+
+ 
+(a)   any libel, slander, illegal competition or trade practice, 
+infringement of trademarks, trade names, or program titles, violation of 
+rights of privacy, and infringement of copyrights and proprietary rights 
+resulting from or relating to all material broadcast on the Station 
+following the Base Date other than the Broadcast Material and with respect 
+to which Station Licensee had notice or otherwise should have been 
+reasonably aware; and
+ 
+(b)   the actions or omissions of Station Licensees employees and 
+representatives in performing their duties under this Agreement or in 
+acting outside the scope of their employment, which actions or omissions 
+constitute willful misconduct or gross negligence.
+ 
+Section 8.3       Procedure.
+ 
+(a)   If any Person entitled to indemnification under this Agreement (an 
+Indemnified Party) asserts a claim for indemnification for, or receives 
+notice of the assertion or commencement of any Third Party Claim as to 
+which such Indemnified Party intends to seek indemnification under this 
+Agreement, such Indemnified Party shall give reasonably prompt written 
+notice of such claim to the party from whom indemnification is to be sought 
+(an Indemnifying Party), together with a statement of any available 
+information regarding such claim. The Indemnifying Party shall have the 
+right, upon written notice to the Indemnified Party (the Defense Notice) 
+within fifteen (15) days after receipt from the Indemnified Party of notice 
+of such claim, to conduct at its expense the defense against such Third 
+Party Claim in its own name, or if necessary in the name of the Indemnified 
+Party (which notice shall specify the counsel the Indemnifying Party will 
+appoint to defend such claim (Defense Counsel); provided, however, that 
+the Indemnified Party shall have the right to approve the Defense Counsel, 
+which approval shall not be unreasonably withheld or delayed). The parties 
+hereto agree to cooperate fully with each other in connection with the 
+defense, negotiation or settlement of any Third Party Claim. If the 
+Indemnifying Party delivers a Defense Notice to the Indemnified Party, the 
+Indemnified Party will cooperate with and make available to the 
+Indemnifying Party such assistance and materials as may be reasonably 
+requested by the Indemnifying Party, all at the expense of the Indemnifying 
+Party.
+ 
+(b)   If the Indemnifying Party shall fail to give a Defense Notice, it 
+shall be deemed to have elected not to conduct the defense of the subject 
+Third Party Claim, and in such event the Indemnified Party shall have the 
+right to conduct such defense in good faith. If the Indemnified Party 
+defends any Third Party Claim, then the Indemnifying Party shall reimburse 
+the Indemnified Party for the costs and expenses of defending such Third 
+Party Claim upon submission of periodic bills. If the Indemnifying Party 
+elects to conduct the defense of the subject Third Party Claim, the 
+Indemnified Party may participate, at his or its own expense, in the 
+defense of such Third Party Claim; provided, however, that such Indemnified 
+Party shall be entitled to participate in any such defense with separate 
+counsel at the expense of the Indemnifying Party if (i) so requested by the 
+Indemnifying Party to participate or (ii) in the reasonable opinion of 
+counsel to the Indemnified Party, a conflict or potential conflict exists 
+between the Indemnified Party and the Indemnifying Party that would make 
+such separate representation advisable; and provided, further, that the 
+Indemnifying Party shall not be required to pay for more than one counsel 
+for all Indemnified Parties in connection with any Third Party Claim.
+ 
+16
+------------------------------------------------------------------------
+
+ 
+(c)   Regardless of which party defends a Third Party Claim, the other 
+party shall have the right at its expense to participate in the defense of 
+such Third Party Claim, assisted by counsel of its own choosing. The 
+Indemnified Party shall not compromise, settle, default on, or admit 
+liability with respect to a Third Party Claim without the prior written 
+consent of the Indemnifying Party, which consent shall not be unreasonably 
+withheld or delayed, and, if the Indemnified Party settles, compromises, 
+defaults on, or admits liability with respect to a Third Party Claim except 
+in compliance with the foregoing, the Indemnified Party will be liable for 
+all Losses paid or incurred in connection therewith and the Indemnifying 
+Party shall have no obligation to indemnify the Indemnified Party with 
+respect thereto. The Indemnifying Party shall not compromise or settle a 
+Third Party Claim without the consent of the Indemnified Party, which 
+consent shall not be unreasonably withheld or delayed, unless such 
+compromise or settlement includes as a term thereof an unconditional 
+release of the Indemnified Party and such compromise or release does not 
+impose any non-monetary obligations on the Indemnified Party other than 
+immaterial administrative obligations (and all monetary obligations are 
+subject to the indemnification provisions of this Agreement), in which case 
+the consent of the Indemnified Party shall not be required.
+ 
+(d)   After any final decision, judgment or award shall have been rendered 
+by a court or governmental entity of competent jurisdiction and the 
+expiration of the time in which to appeal therefrom, or after a settlement 
+shall have been consummated, or after the Indemnified Party and the 
+Indemnifying Party shall have arrived at a mutually binding agreement with 
+respect to a Third Party Claim hereunder, the Indemnified Party shall 
+deliver to the Indemnifying Party notice of any sums due and owing by the 
+Indemnifying Party pursuant to this Agreement with respect to such matter 
+and the Indemnifying Party shall be required to pay all of the sums so due 
+and owing to the Indemnified Party by wire transfer of immediately 
+available funds within ten (10) business days after the date of such 
+notice.
+ 
+(e)   It is the intent of the parties that all direct claims by an 
+Indemnified Party against a party not arising out of Third Party Claims 
+shall be subject to and benefit from the terms of this Section 8.3. Any 
+claim under this Section 8.3 by an Indemnified Party for indemnification 
+other than indemnification against a Third Party Claim (a Direct Claim) 
+will be asserted by giving the Indemnifying Party reasonably prompt written 
+notice thereof, and the Indemnifying Party will have a period of 20 days 
+within which to satisfy such Direct Claim. If the Indemnifying Party does 
+not so respond within such 20 day period, the Indemnifying Party will be 
+deemed to have rejected such claim, in which event the Indemnified Party 
+will be free to pursue such remedies as may be available to the Indemnified 
+Party under this Section 8.
+ 
+(f)   A failure by an Indemnified Party to give timely, complete, or 
+accurate notice as provided in this Section 8.3 shall not affect the rights 
+or obligations of either party hereunder except to the extent that, as a 
+result of such failure, any party entitled to receive such notice was 
+deprived of its right to recover any payment under its applicable insurance 
+coverage or was otherwise materially adversely affected or damaged as a 
+result of such failure to give timely, complete, and accurate notice.
+ 
+(g)   The parties shall use their commercially reasonable efforts to 
+collect the proceeds of any insurance that would have the effect of 
+reducing any Losses (in which case such proceeds shall reduce such Losses). 
+To the extent any Losses of an Indemnified Party are reduced
+ 
+17
+------------------------------------------------------------------------
+
+ 
+by receipt of payment under insurance policies or from third parties not 
+affiliated with the Indemnified Party, such payments (net of the expenses 
+of the recovery thereof) shall be credited against such Losses and, if 
+indemnification payments shall have been received prior to the collection 
+of such proceeds, the Indemnified Party shall remit to the Indemnifying 
+Party the amount of such proceeds (net of the cost of collection thereof) 
+to the extent of indemnification payments received in respect of such 
+Losses. The indemnification obligations hereunder shall survive any 
+termination of this Agreement.
+ 
+Section 8.4       Services Unique. The parties hereby agree that the 
+services to be provided by the parties under this Agreement are unique and 
+that substitutes therefor cannot be purchased or acquired in the open 
+market. For that reason, the parties would be irreparably damaged in the 
+event of a material breach of this Agreement by the another party. 
+Accordingly, to the extent permitted by the Communications Act and the FCC 
+Rules then in effect, the parties may request that a decree of specific 
+performance be issued by a court of competent jurisdiction, enjoining the 
+another party to observe and to perform such other partys covenants, 
+conditions, agreements and obligations hereunder, and the parties hereby 
+agree neither to oppose nor to resist the issuance of such a decree on the 
+grounds that there may exist an adequate remedy at law for any material 
+breach of this Agreement.
+ 
+Section 8.5       Exclusivity. After the Base Date, the indemnification 
+provided by this Section 8 shall be the sole and exclusive remedy of either 
+of Sales Agent and Station Licensee against the other party hereto for any 
+claim arising out of a breach of any representation, warranty, covenant or 
+agreement herein or otherwise in connection with this Agreement; provided, 
+that this Section 8.5 shall not prohibit (a) injunctive relief (including 
+specific performance) pursuant to Section 8.4 or if available under 
+Applicable Law or (b) any other remedy available at law or in equity for 
+any fraud committed in connection with this Agreement.
+ 
+ARTICLE IX
+ 
+MISCELLANEOUS
+ 
+Section 9.1       No Partnership or Joint Venture. This Agreement is not 
+intended to be, and shall not be construed as, an agreement to form a 
+partnership or a joint venture between the parties. Except as otherwise 
+specifically provided in this Agreement, no party shall be authorized to 
+act as an agent of or otherwise to represent any other party hereto.
+ 
+Section 9.2       Confidentiality. Each party hereto agrees that it will 
+not at any time during or after the termination of this Agreement disclose 
+to others or use, except as duly authorized in connection with the conduct 
+of the business or the rendering of services hereunder, any secret or 
+confidential information of the other parties. To the extent required by 
+the Communications Act and FCC Rules, each party shall place a copy of this 
+Agreement in its public inspection file and shall consult with the other 
+party and agree upon the confidential and proprietary information herein 
+that shall be redacted from such copy.
+ 
+Section 9.3       Assignment; Benefit; Binding Effect. No party may assign 
+this Agreement or delegate its obligations under this Agreement without the 
+prior written consent of the other parties. Notwithstanding anything to the 
+contrary contained herein, (a) Sales Agent may assign its
+ 
+18
+------------------------------------------------------------------------
+
+ 
+rights and obligations under this Agreement to any successor in interest as 
+the operator or licensee of television broadcast stations WPBN(TV) and 
+WTOM(TV) or purchaser of all or substantially all of the assets of such 
+stations (each a Sales Agent Assignee) upon written notice to Station 
+Licensee; provided, however, that such Sales Agent Assignee shall also 
+assume the rights and obligations of the Option Holder (as defined in the 
+Option Agreement) under the Option Agreement, and provided that Sales 
+Agent, as assignor, shall guarantee, and remain responsible for, the full 
+and complete performance of its Sales Agent Assignee and any subsequent 
+assignee of Sales Agent Assignee and (b) Station Licensee shall assign this 
+Agreement and all of its rights and obligations hereunder to any Person to 
+which the FCC Licenses are transferred or assigned with the prior written 
+consent of Sales Agent, which consent shall not be unreasonably withheld, 
+provided that as a condition to such transfer or assignment (i) this 
+Agreement, the Shared Services Agreement, the Option Agreement and all of 
+Station Licensees rights and obligations hereunder and thereunder are 
+assigned to such Person, which assignments are to be effective 
+simultaneously, (ii) such Person is legally and financially qualified to be 
+the holder of the FCC Licenses and (iii) such Person executes and delivers 
+to the Sales Agent an instrument in form and substance reasonably 
+acceptable to Sales Agent, accepting such assignments of this Agreement, 
+the Shared Services Agreement, the Option Agreement and the rights and 
+obligations of Station Licensee hereunder and thereunder and agreeing to 
+pay, discharge and perform the obligations and liabilities of Station 
+Licensee hereunder and thereunder in accordance with the terms hereof and 
+thereof and such other documents and instruments as Sales Agent may 
+reasonably request. This Agreement shall be binding upon and inure to the 
+benefit of the parties hereto and their respective successors and permitted 
+assigns. Any permitted assignee of a party hereto shall be a party to this 
+Agreement for all purposes hereof.
+ 
+Section 9.4       Force Majeure. Any delay or interruption in the broadcast 
+operation of the Stations, in whole or in part, due to acts of God, 
+strikes, lockouts, material or labor restrictions, governmental action, 
+riots, natural disasters or any other cause not reasonably within the 
+control of a party shall not constitute a breach of this Agreement, and no 
+party shall be liable to any other party for any liability or obligation 
+with respect thereto.
+ 
+Section 9.5       Further Assurances. The parties hereto shall take any 
+actions and execute any other documents that may be necessary or desirable 
+to the implementation and consummation of this Agreement.
+ 
+Section 9.6       Press Release. No party hereto shall publish any press 
+release, make any other public announcement or otherwise communicate with 
+any news media concerning this Agreement or the transactions contemplated 
+hereby without the prior written consent of the other parties hereto; 
+provided, however, that nothing contained herein shall prevent any party 
+from promptly making all filings with governmental authorities as may, in 
+its judgment, be required or advisable in connection with the execution and 
+delivery of this Agreement or the consummation of the transactions 
+contemplated hereby.
+ 
+Section 9.7       Unenforceability. If one or more provisions of this 
+Agreement or the application thereof to any Person or circumstances shall 
+be invalid or unenforceable to any extent, the remainder of this Agreement 
+and the application of such provisions to other Persons or circumstances 
+shall not be affected thereby and shall be enforced to the greatest extent 
+permitted by Applicable Law, except that, if such invalidity or 
+unenforceability should change the basic
+ 
+19
+------------------------------------------------------------------------
+
+ 
+economic positions of the parties hereto, they shall negotiate in good 
+faith such changes in other terms as shall be practicable in order to 
+restore them to their prior positions. In the event that the FCC alters or 
+modifies its rules or policies in a fashion which would raise substantial 
+and material questions as to the validity of any provision of this 
+Agreement, the parties shall negotiate in good faith to revise any such 
+provision of this Agreement in an effort to comply with all applicable FCC 
+Rules while attempting to preserve the intent of the parties as embodied in 
+the provisions of this Agreement. The parties hereto agree that, upon the 
+request of either of them, they will join in requesting the view of the 
+staff of the FCC, to the extent necessary, with respect to the revision of 
+any provision of this Agreement in accordance with the foregoing.
+ 
+Section 9.8       Notices. All notices, demands, and requests required or 
+permitted to be given under the provisions of this Agreement shall be (a) 
+in writing, (b) delivered by personal delivery, or sent by commercial 
+delivery service or registered or certified mail, return receipt requested, 
+(c) deemed to have been given on the date of personal delivery or the date 
+set forth in the records of the delivery service or on the return receipt, 
+and (d) addressed as set forth on Schedule 9.8.
+ 
+Section 9.9       Governing Law. This Agreement shall be construed and 
+governed in accordance with the laws of New York without reference to the 
+conflict of laws principles thereof.
+ 
+Section 9.10     Captions. The captions in this Agreement are for 
+convenience only and shall not be considered a part of, or effect the 
+construction or interpretation of any provision of, this Agreement.
+ 
+Section 9.11     Gender and Number. Words used herein, regardless of the 
+gender and number specifically used, shall be deemed and construed to 
+include any other gender, masculine, feminine, or neuter, and any other 
+number, singular or plural, as the context requires.
+ 
+Section 9.12     Counterparts and Facsimile Signatures. This Agreement may 
+be executed in any number of counterparts, each of which shall be deemed an 
+original but all of which together shall constitute one and the same 
+instrument. This Agreement shall be legally binding and effective upon 
+delivery of facsimile signatures.
+ 
+Section 9.13     Entire Agreement. This Agreement and the attachments and 
+Schedules hereto (which are hereby incorporated by reference and made a 
+part hereof), [the Assignment and Assumption Agreement], the Shared 
+Services Agreement, the Option Agreement and the letter agreement dated as 
+of the date hereof from Sales Agent to Station Licensee (the Letter 
+Agreement), when executed and delivered by the parties thereto, 
+collectively represent the entire understanding and agreement among the 
+parties hereto with respect to the subject matter hereof and thereof and 
+supersede all prior agreements with respect to the subject matter hereof 
+and thereof. Notwithstanding anything to the contrary contained herein or 
+in any of the other Transaction Documents and, without limiting any of the 
+other rights or remedies of the parties hereunder or under any of the 
+Transaction Documents, the parties acknowledge and agree that Sales Agent 
+may offset any amount owed by Station Licensee to Sales Agent pursuant to 
+any of the Transaction Documents as a credit against any amount owed by 
+Sales Agent to Station Licensee pursuant to any of the Transaction 
+Documents. No term or provision hereof may be changed, modified, terminated 
+or discharged (other than in accordance with its terms), in whole or
+ 
+20
+------------------------------------------------------------------------
+
+ 
+in part, except by a writing which is dated and signed by the parties 
+hereto. No waiver of any of the provisions or conditions of this Agreement 
+or of any of the rights, powers or privileges of a party hereto shall be 
+effective or binding unless in writing and signed by the party claimed to 
+have given or consented to such waiver.
+ 
+Section 9.14     Other Definitional Provisions. The terms hereof, 
+herein and hereunder and terms of similar import will refer to this 
+Agreement as a whole and not to any particular provision of this Agreement. 
+Section references contained in this Agreement are references to Sections 
+in this Agreement, unless otherwise specified. Each defined term used in 
+this Agreement has a comparable meaning when used in its plural or singular 
+form. Each gender-specific term used in this Agreement has a comparable 
+meaning whether used in a masculine, feminine or gender-neutral form. 
+Whenever the term including is used in this Agreement (whether or not 
+that term is followed by the phrase but not limited to or without 
+limitation or words of similar effect) in connection with a listing of 
+items within a particular classification, that listing will be interpreted 
+to be illustrative only and will not be interpreted as a limitation on, or 
+an exclusive listing of, the items within that classification.
+ 
+ 
+[THE REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]
+ 
+21
+------------------------------------------------------------------------
+
+ 
+IN WITNESS WHEREOF, this Joint Sales Agreement has been executed by the 
+parties hereto effective as of the date first written above.
+ 
+ 
+SALES AGENT:
+ 
+ 
+ 
+Barrington Traverse City LLC
+ 
+ 
+ 
+ 
+ 
+By:
+  /s/ Paul M. McNicol
+ 
+ 
+  
+ Name: Paul M. McNicol
+ 
+  
+ Title: Senior Vice President/Secretary
+ 
+ 
+ 
+ 
+ 
+STATION LICENSEE:
+ 
+ 
+ 
+ 
+ 
+Tucker Broadcasting of Traverse City, Inc.
+ 
+ 
+ 
+ 
+ 
+By:
+  /s/ Benjamin W. Tucker
+ 
+ 
+  
+ Name: Benjamin W. Tucker
+ 
+  
+ Title: President
+ 
+------------------------------------------------------------------------
+
+ 
+SCHEDULE 3.1
+ 
+I.              Net Sales Revenue.
+ 
+A.            For purposes of this Agreement, the term Net Sales Revenue 
+means (i) all gross revenue received by Sales Agent or Station Licensee for 
+all Advertisements, less agency, buying service or other sales commissions 
+paid to or withheld by an advertiser, agency or service, as the case may 
+be, and (ii) any other amounts designated for inclusion in the calculation 
+of Net Sales Revenue pursuant to the terms and subject to the conditions of 
+this Agreement.
+ 
+II.            Station Expenses; Payments.
+ 
+A. In the event that due to the performance of the Stations and the 
+resulting revenues of the Stations with respect to any given month during 
+the Term, the total aggregate amount of Designated Expenses and Other 
+Expenses exceeds the amount of the Licensee Revenue Share for such month, 
+Sales Agent shall pay to Station Licensee the differential of such amounts. 
+Any expenses incurred by Station Licensee that do not constitute Designated 
+Expenses or Other Expenses (including obligations pursuant to a credit or 
+loan facility that is not designated as an Acquisition Financing 
+Arrangement as provided below) shall remain solely the obligation of 
+Station Licensee.
+ 
+B. For purposes of this Agreement:
+ 
+(a)           Designated Expenses shall mean the sum of the actual 
+out-of-pocket payments and expenses of Station Licensee for the following: 
+(i) utilities associated with the Stations transmitting facilities 
+together with all other expenses, including rental payments, payable by 
+Station Licensee under any lease for real property on which the Stations 
+are located or used exclusively for the operation of the Stations, (ii) 
+salaries for up to two of the Stations full-time employees, one of which 
+shall be the station manager and hourly rates for accounting and human 
+resource services, all at reasonable and customary rates for such employees 
+or services, (iii) expenses related to maintenance and filings with respect 
+to the FCC Licenses in respect of the Stations and other expenses of 
+compliance with FCC Rules and other Applicable Law in connection with the 
+operation of the Stations, including reasonable and customary attorneys 
+fees of Station Licensee incurred in connection therewith, (iv) property 
+taxes on any real property, personal property and leased property on which 
+the Stations are located or used exclusively for the operation of the 
+Stations, (v) in the event that Station Licensee shall have elected to 
+borrow the purchase price with respect to its acquisition under the Station 
+Purchase Agreement (pursuant to the Assignment and Assumption Agreement) 
+pursuant to a credit agreement or other financing arrangement contemplated 
+by that certain Commitment Letter, dated as of August 31, 2007, from Banc 
+of America Securities LLC, Wachovia Bank, National Association, Wachovia 
+Capital Markets, LLC and CIT Lending Services Corporation in favor of 
+Tucker Broadcasting of Traverse City, Inc., or any other financing 
+arrangement provided by, or entered into with, Pilot Group L.P. or an 
+Affiliate thereof (an Acquisition Financing
+ 
+2
+------------------------------------------------------------------------
+
+ 
+Arrangement), the payments due by Station Licensee pursuant to such 
+Acquisition Financing Arrangement, other than those payments due pursuant 
+to such Acquisition Financing Agreement to the extent arising out of the 
+failure of Station Licensee to make a timely payment thereunder for which 
+Station Licensee had received timely payment hereunder or otherwise to the 
+extent arising out of actions or omissions of Station Licensee in breach of 
+such Acquisition Financing Arrangement (provided, that any payments under 
+this clause shall be made directly to Station Licensee), (vi) premiums and 
+other out-of-pockets costs and expenses relating to any insurance that 
+Station Licensee is required to maintain pursuant to the terms of the 
+Option Agreement, (vii) all music rights payments required to be paid by 
+Station Licensee (including music performance rights, synchronization 
+rights, and master use rights), in connection with the broadcast and/or 
+transmission of all announcements and programming on the Stations, 
+including the Advertisements (but excluding the Delivered Programming, 
+which shall be the responsibility of Sales Agent), (viii) all payments for 
+the acquisition or licensing of programming during the Term, including 
+television network payments, (ix) payments or distributions pursuant to the 
+Tucker Management Agreement, as in effect on the date hereof, (x) amounts 
+payable under the Shared Services Agreement with Sales Agent, (xi) amounts 
+payable under the lease agreements listed on Exhibit A attached hereto, and 
+(xii) any costs or expense actually incurred by Station Licensee as a 
+result of complying with its obligation to broadcast the Broadcast 
+Material.
+ 
+(b)           Other Expenses shall mean expenses that are reasonably 
+necessary or customary in the operation and maintenance of the Stations, 
+which have been consented to in advance by Sales Agent, provided that 
+Station Licensee shall have no obligation under this Agreement to incur any 
+Other Expenses in the absence of such consent and agreement to reimburse 
+under this subparagraph (b).
+ 
+C.            Station Expenses shall mean, collectively, Designated 
+Expenses, Other Expenses, expenses in accordance with the Operating Budget, 
+and any other expenses, distributions or payment obligations that are not 
+contemplated by the Operating Budget.
+ 
+D. In order to promote the administration of the payment obligations 
+between the parties under this Agreement and the Shared Services Agreement 
+(individually and collectively, the Principal Agreements), the parties 
+agree that (i) the amounts due and payable by one party under any of the 
+Principal Agreements may be offset against any outstanding payment 
+obligation by the other party under any of the Principal Agreements; and (
+ii) to the extent reasonably practicable, Sales Agent shall deliver to 
+Station Licensee in connection with the payment of the Licensee Revenue 
+Share a single statement reflecting the respective payment obligations of 
+the parties under each of the Principal Agreements, which statement shall 
+reflect any offsetting amounts.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+SCHEDULE 4.2
+ 
+SCHEDULE OF DELIVERED PROGRAMMING
+ 
+Commencing on the Base Date, Sales Agent shall be permitted to provide the 
+Delivered Programming in accordance with the terms and subject to the 
+conditions of this Agreement. Notwithstanding anything herein to the 
+contrary, the obligations of Station Licensee set forth in this Schedule 
+4.2 shall be subject to Station Licensees rights under Sections 4.2, 4.3, 
+4.4 and 4.8 of this Agreement.
+ 
+At any time and from time to time following the Base Date, Sales Agent may 
+designate by written notice to Station Licensee the days and times during 
+which the Delivered Programming shall be broadcast on the Stations, and 
+Station Licensee shall commence the broadcast of such Delivered Programming 
+no later than 14 days following its receipt of such notice, so long as (i) 
+the duration of such Delivered Programming, together with the duration of 
+all other Delivered Programming broadcast on the applicable Station, does 
+not exceed 15% of such Stations weekly broadcast schedule and (ii) the 
+broadcast of such Delivered Programming during the days and times specified 
+by Sales Agent does not conflict with the contractual obligations of 
+Station Licensee.
+ 
+At any time and from time to time following the Base Date, Sales Agent may 
+designate, by written notice to Station Licensee, existing programming 
+broadcast on the Stations that, effective upon receipt of such notice, 
+shall constitute Delivered Programming for all purposes under this 
+Agreement (such existing programming so designated by Sales Agent, the 
+Converted Programming). At Sales Agents election, such notice may specify 
+changes to the days and times during which such Converted Programming shall 
+be broadcast on the Stations and Station Licensee shall broadcast such 
+Converted Programming during the days and times specified by Sales Agent no 
+later than 14 days following its receipt of such notice, so long as (i) the 
+duration of such Converted Programming, together with the duration of all 
+other Delivered Programming broadcast on the applicable Station, is less 
+than 15% of such Stations weekly broadcast schedule and (ii) the broadcast 
+of such Converted Programming during the days and times specified by Sales 
+Agent does not conflict with the contractual obligations of Station 
+Licensee. Subject to receipt of any required consent, Station Licensee 
+shall assign to Sales Agent as promptly as practicable following receipt of 
+Sales Agents written notice Station Licensees rights and interests in the 
+Converted Programming. Station Licensee shall use commercially reasonable 
+efforts to obtain the consent of any third parties required in connection 
+with any such assignment.
+ 
+If the FCC changes its rules or policies in a manner that allows Sales 
+Agent to provide Delivered Programming that exceeds 15% of the Stations 
+broadcast hours for any week, at the request of Sales Agent, Station 
+Licensee shall cooperate in good faith with Sales Agent to agree upon one 
+or more additional time periods during which Sales Agent shall be permitted 
+to provide additional Delivered Programming for broadcast on the Stations, 
+but in no event shall the aggregate duration of all Delivered Programming, 
+including such additional time periods, exceed the total amount of 
+Delivered Programming as may be permitted by the FCC after giving effect to 
+such change in the FCC Rules.
+ 
+------------------------------------------------------------------------
+
+ 
+Upon no less than 14 days prior written notice from Sales Agent to Station 
+Licensee, Sales Agent may change the date and times that the Delivered 
+Programming shall be broadcast on the Stations and Station Licensee agrees 
+to broadcast the Delivered Programming in accordance with such revised 
+schedule.
+ 
+2
+------------------------------------------------------------------------
+
+ 
+SCHEDULE 4.3
+ 
+POLICY STATEMENT FOR BROADCAST MATERIAL
+ 
+Sales Agent agrees to cooperate with Station Licensee in the broadcasting 
+of programs of high quality and, for this purpose, to observe the following 
+policies in the preparation, writing, production and delivery of Broadcast 
+Material.
+ 
+CONTROVERSIAL ISSUE. Any discussion of controversial issues of public 
+importance shall be reasonably balanced with the presentation of 
+contrasting viewpoints in the course of overall programming; no attacks on 
+the honesty, integrity, or like personal qualities of any person or group 
+of persons shall be made; and Station programs (other than public forum or 
+talk features) are not to be used as a forum for editorializing about 
+individual candidates. If such events occur, Licensee may require that 
+responsive programming be aired.
+ 
+NO PLUGOLA OR PAYOLA. The mention of any business activity or plug for 
+any commercial, professional, or other related endeavor, except where 
+contained in an actual commercial message of a sponsor, is prohibited.
+ 
+ELECTION PROCEDURES. At least ninety (90) days before the start of any 
+primary or regular election campaign, Sales Agent will clear with Station 
+Licensee the rate Sales Agent will charge for the time to be sold to 
+candidates for public office and/or their supporters to make certain that 
+the rate charged is in conformity with Applicable Law and Station 
+Licensees policy.
+ 
+PROGRAMMING PROHIBITIONS. Sales Agent shall not knowingly broadcast any of 
+the following programs or announcements:
+ 
+        (a)  False Claims. False or unwarranted claims for any product or
+        service.
+         
+        (b)  Unfair Imitation. Infringements of another advertisers rights
+        through plagiarism or unfair imitation of either program idea or
+        copy, or any other unfair competition.
+         
+        (c)  Commercial Disparagement. Any unlawful disparagement of
+        competitors or competitive goods.
+         
+        (d)  Obscenity/Indecency/Profanity. Any programs or announcements
+        that are obscene or indecent, as those terms are interpreted and
+        applied by the FCC or any programs or announcements that are
+        slanderous, obscene, profane, vulgar, repulsive or offensive,
+        either in theme or treatment.
+         
+        (e)  Price Disclosure. Any price mentions except as permitted by
+        Licensees policies current at the time.
+         
+        (f)  Unauthorized Testimonials. Any testimonials which cannot be
+        authenticated.
+ 
+------------------------------------------------------------------------
+
+ 
+        (g)  Descriptions of Bodily Functions. Any continuity which
+        describes in a repellent manner internal bodily functions or
+        symptomatic results or internal disturbances, and no reference to
+        matters which are not considered acceptable topics in social
+        groups.
+         
+        (h)  Conflict Advertising. Any advertising matter or announcement
+        which may, in the reasonable opinion of Station Licensee, be
+        injurious or prejudicial to the interest of the public, the
+        Stations, or honest advertising and reputable business in general.
+         
+        (i)  Fraudulent or Misleading Advertisement. Any advertisement
+        matter, announcement, or claim which Sales Agent knows to be
+        fraudulent, misleading, or untrue.
+         
+LOTTERIES. Announcements giving any information about lotteries or games 
+prohibited by Applicable Law are prohibited.
+ 
+RELIGIOUS PROGRAMMING RESTRICTIONS. The subject of religion and references 
+to particular faiths, tenants, and customs shall be treated with respect at 
+all times. Broadcast Material shall not be used as medium for attack on any 
+faith, denomination, or sect or upon any individual or organization.
+ 
+CREDIT TERMS ADVERTISING. Any advertising of credit terms shall be made 
+over the Station in accordance with Applicable Law.
+ 
+NO ILLEGAL ANNOUNCEMENTS. No announcements or promotion prohibited by 
+Applicable Law shall be made over the Stations. At Station Licensees 
+request, any game, contest, or promotion relating to or to be presented 
+over the Stations must be fully stated and explained in advance to Station 
+Licensee, which reserves the right in its sole discretion to reject any 
+game, contest, or promotion.
+ 
+LICENSEE DISCRETION PARAMOUNT. In accordance with the responsibilities of 
+Station Licensee under the Communications Act and the FCC Rules, Station 
+Licensee reserves the right to reject or terminate any Broadcast Material 
+proposed to be presented or being presented over the Stations which is in 
+conflict with the policy of Station Licensee or which in the reasonable 
+judgment of Station Licensee would not serve the public interest.
+ 
+PROGRAMMING IN WHICH SALES AGENT HAS A FINANCIAL INTEREST. Sales Agent 
+shall advise Station Licensee with respect to any Broadcast Material 
+concerning goods or services in which Sales Agent has a material financial 
+interest. Any announcements for such goods and services for which Sales 
+Agent charges less than its regular rate shall clearly identify Sales 
+Agents financial interest.
+ 
+MISCELLANEOUS.
+ 
+(a)  Waiver. To the extent legally permissible, the parties may jointly 
+waive any of the foregoing policies in specific instances if, in their 
+opinion, good broadcasting in the public interest is served.
+ 
+2
+------------------------------------------------------------------------
+
+ 
+(b)  Prior Consent. In any case where questions of policy or interpretation 
+arise, Sales Agent will attempt in good faith to submit the same to Station 
+Licensee for decision before making any commitments in connection 
+therewith.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+SCHEDULE 9.8
+ 
+NOTICES
+ 
+                If to Station Licensee:
+                 
+    Tucker Broadcasting of Traverse City, Inc.
+    Attention:  Ben Tucker, President
+    9434 N. Sunset Ridge
+    Fountain Hills, AZ 85268
+    Phone:  (480)836-2181
+    Email:  bentucker13@cox.net
+     
+    With a copy (which shall not constitute notice) to:
+     
+    Pillsbury Winthrop Shaw Pittman LLP
+    2300 N Street, NW
+    Washington, DC 20037-1122
+    Attention:  Clifford M. Harrington
+    Phone:  202-663-8525
+    Fax:  202-663-8007
+     
+     
+            If to Sales Agent:
+             
+    Barrington Traverse City, LLC
+45 Fifth Avenue
+24th Floor
+New York, NY  10151
+    Attention:  Paul McNicol
+    Fax:  (212) 486-2896
+     
+    with a copy (which shall not constitute notice) to:
+     
+    Barrington Broadcasting LLC
+    2500 West Higgins Road, Suite 880
+    Hoffman Estates, IL 60195
+    Attention:  K. James Yager
+    Fax:  847-755-3045
+ 
+------------------------------------------------------------------------
+
+ 
+       and
+        
+Covington & Burling
+1201 Pennsylvania Avenue, N.W.
+Washington, DC 20004-2401
+Attention:  Eric Dodson Greenberg, Esq.
+Phone: (202) 662-5193
+Fax: (202) 662-6291
+ 
+2
+------------------------------------------------------------------------
+
+ 
+Exhibit A
+ 
+1. Office Lease dated as of March 1, 2003 between Goldfinger, LLC, and 
+Scanlan Communications, Inc., as amended by that certain Amendment and 
+Assignment of Lease Agreement dated October 16, 2003 among Max Media of 
+Traverse City LLC, Goldfinger, LLC and Scanlan Communications, Inc.
+ 
+2.             Land Lease dated July 12, 2006 between CC Michigan, LLC 
+d/b/a/ Charter Communications and Max Media of Traverse City LLC for land 
+commonly known as Charter Communications Headend Site.
+ 
+3.             Lease Agreement dated September 30, 1982 (as amended on 
+March 1, 2003) between Seller and Ted Joubran for office space located at 
+205 E. Front St., Traverse City, MI. As amended.
+ 
+4.             Lease Agreement dated February 20, 2004 between Max Media of 
+Traverse City LLC and H&N Storage Facilities LLC, d/b/a Silver Lake Self 
+Storage for Space #0334, for an approximately 12x40 unit, located at 5215 
+Curtis Road, Traverse City, MI.
+ 
+5.             Storage Agreement dated January 16, 2004 between Seller and 
+ProFile, LLC for document storage.
+ 
+3
+------------------------------------------------------------------------

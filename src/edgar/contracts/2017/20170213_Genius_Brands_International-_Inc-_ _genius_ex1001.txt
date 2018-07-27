@@ -1,0 +1,794 @@
+ EX-10.1 4 genius_ex1001.htm FORM OF WARRANT EXERCISE AGREEMENT
+Exhibit 10.1
+ 
+WARRANT EXERCISE AGREEMENT
+ 
+This Warrant Exercise Agreement (this “Agreement”), dated as of February 9, 
+2017, is by and between Genius Brands International, Inc. a Nevada 
+corporation (the “Company”), and the undersigned holder (the “Holder”) of 
+warrants to purchase shares of the Company’s common stock, par value $0.001 
+per share (the “Common Stock”), issued by the Company, which warrant is 
+exercisable until November 3, 2020 at an exercise price (the “Exercise 
+Price”) of $3.30 per share (the “Original Warrant”).
+ 
+WHEREAS, the Holder’s Original Warrant is exercisable into a number of 
+shares of Common Stock as set forth on such Holder’s signature page hereto 
+(the “Warrant Shares”);
+ 
+WHEREAS, the Holder wishes to exercise such Original Warrant in full and, 
+immediately prior to such exercise and in consideration of the Holder’s 
+exercise of such Original Warrant, the Company has agreed to issue the 
+Holder, in addition to the shares of Common Stock to which such exercising 
+Holder is entitled, (i) a new warrant identical to the Original Warrants 
+except that the termination date of such warrants shall be five years after 
+the Closing Date (the “Reload Warrants”) and, (ii) depending on the number 
+of Original Warrants exercised by all holders of the Original Warrants in 
+the aggregate as more fully set forth in Section 2.1(b), a new warrant 
+identical to the Original Warrants except that (x) the exercise price of 
+such warrant shall be "$[ ][1], subject to adjustment hereunder", (y) such 
+warrant shall not be exercisable for six months and one day after the 
+Closing Date (the "Initial Exercisability Date") and (z) the termination 
+date of such warrants shall be five years after the Initial Exercisability 
+Date (the “Market Price Warrants” and collectively with the Reload 
+Warrants, the “New Warrants”). The shares of Common Stock underlying the 
+New Warrants are referred to herein as the "New Warrant Shares" and 
+collectively with the New Warrants, the "Securities". The number of shares 
+of Common Stock underlying the Reload Warrants and Market Price Warrants 
+issued with respect to each exercised Original Warrant shall be as 
+determined pursuant to Section 2.1(b), it being understood that Nasdaq 
+rules prevent the Company from issuing Reload Warrants exercisable for more 
+than an aggregate of 801,728 shares of Common Stock without first obtaining 
+approval of its stockholders.
+ 
+NOW, THEREFORE, IN CONSIDERATION of the mutual covenants contained in this 
+Agreement, and for good and valuable consideration the receipt and adequacy 
+of which are hereby acknowledged, the Holder and the Company agree as 
+follows:
+ 
+ARTICLE I
+DEFINITIONS
+ 
+Section 1.1 Definitions. Capitalized terms not defined in this Agreement 
+shall have the meanings ascribed to such terms in the Warrant.
+ 
+ARTICLE II
+EXERCISE OF EXISTING WARRANTS
+ 
+Section 2.1 Exercise of Warrants. (a) Subject to the conditions in Section 
+2.3 below, the Company and the Holder hereby agree that the Holder shall 
+exercise all of the Original Warrants at the current Exercise Price per 
+share, for aggregate cash proceeds to the Company in the amount set forth 
+on the Holder’s signature page hereto, pursuant to the terms of the 
+Original Warrants. Holder shall execute and deliver the aggregate cash 
+exercise price for such Original Warrants to the bank account set forth on 
+the Company’s signature page hereto within two business days after notice 
+from the Company that the condition set forth in Section 2.3 has been met 
+and the Company shall deliver the Warrant Shares to the Holder via the 
+Depository Trust Company Deposit or Withdrawal at Custodian system pursuant 
+to the terms of the Original Warrants, but pursuant to wire transfer 
+instructions set forth on the Holder’s signature page hereto. The date of 
+the closing of the exercise of the Original Warrants shall be referred to 
+as the “Closing Date”.
+ 
+ 
+__________________
+[1] Insert exercise price equal to 105% of the market price on the date 
+this Agreement is signed as determined in compliance with applicable Nasdaq 
+rules and regulations.
+  	1 	 
+
+ 
+ 
+(b) If 801,728 or fewer of the Original Warrants are exercised by all 
+holders of such Original Warrants, then each exercising Holder shall 
+receive one Reload Warrant for each Original Warrant exercised by such 
+Holder and no Market Price Warrants. If more than 801,728 Original Warrants 
+are exercised in the aggregate, then the number of shares of Common Stock 
+underlying the Reload Warrants and Market Price Warrants to be received by 
+Holder shall be determined as follows:
+ 
+The number of shares of Common Stock underlying the Reload Warrants to be 
+received by such Holder shall be determined by multiplying 801,728 by a 
+fraction, the numerator of which shall be the number of Original Warrants 
+exercised by such Holder and the denominator of which shall be the number 
+of Original Warrants exercised at the closing by all holders of Original 
+Warrants. The number of shares of Common Stock underlying the Market Price 
+Warrants to be received by Holder shall be determined first (a) by 
+determining the total number of shares of Common Stock underlying the 
+Market Price Warrants to be issued to all exercising holders of the 
+Original Warrants, which number shall be determined by subtracting 801,728 
+from the total number of Original Warrants exercised by all holders thereof 
+and then (b) multiplying the total number of Market Price Warrants to be 
+issued by a fraction, the numerator of which shall be the number of 
+Original Warrants exercised by Holder and the denominator of which shall be 
+the number of Original Warrants exercised at the closing by all holders of 
+Original Warrants.
+ 
+Section 2.2 Issuance of New Warrants. Within 3 Trading Days of the Closing 
+Date, the Company shall deliver to the Holder the New Warrants to which 
+such Holder is entitled.
+ 
+Section 2.3 Legends; Restricted Securities. (a) The Holder understands that 
+the New Warrants and the shares of Common Stock underlying New Warrants are 
+not, and will not be, registered under the Securities Act of 1933, as 
+amended (the “Securities Act”), or the securities laws of any state and, 
+accordingly, each certificate, if any, representing such securities shall 
+bear a legend substantially similar to the following:
+   
+  “THIS SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE
+  COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN
+  EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED
+  (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD
+  EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE
+  SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A
+  TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE
+  SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS.
+  THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN
+  ACCOUNT WITH A REGISTERED BROKER-DEALER OR OTHER LOAN WITH A FINANCIAL
+  INSTITUTION THAT IS AN “ACCREDITED INVESTOR” AS DEFINED IN RULE 501(a)
+  UNDER THE SECURITIES ACT OR OTHER LOAN SECURED BY SUCH SECURITIES.”
+ 
+(b)       Certificates evidencing shares of Common Stock underlying the New 
+Warrants shall not contain any legend (including the legend set forth in 
+Section 2.3(a) hereof), (i) while a registration statement covering the 
+resale of such Common Stock is effective under the Securities Act, (ii) 
+following any sale of such Common Stock pursuant to Rule 144, (iii) if such 
+Common Stock is eligible for sale under Rule 144, without the requirement 
+for the Company to be in compliance with the current public information 
+required under Rule 144 as to such Common Stock and without volume or 
+manner-of-sale restrictions, (iv) if such Common Stock may be sold under 
+Rule 144 and the Company is then in compliance with the current public 
+information required under Rule 144 as to such Common Stock, or (v) if such 
+legend is not required under applicable requirements of the Securities Act 
+(including judicial interpretations and pronouncements issued by the staff 
+of the Securities and Exchange Commission (the “Commission”)). The Company 
+shall cause its counsel to issue a legal opinion to the transfer agent 
+promptly after the Delegend Date (as defined below) if required by the 
+Company and/or the transfer agent to effect the removal of the legend 
+hereunder, which opinion shall be in form and substance reasonably 
+acceptable to the Holder. If such Common Stock may be sold under Rule 144 
+without the requirement for the Company to be in compliance with the 
+current public information required under Rule 144 or if such legend is not 
+otherwise required under applicable requirements of the Securities Act 
+(including judicial interpretations and pronouncements issued by the staff 
+of the Commission) then such Common Stock shall be issued free of all 
+legends. The Company agrees that following the Delegend Date or at such 
+time as such legend is no longer required under this Section
+ 
+ 
+ 
+  	2 	 
+
+ 
+ 
+2.3(b), it will, no later than three (3) Trading Days following the 
+delivery by a Holder to the Company or the transfer agent of a certificate 
+representing the Common Stock underlying the New Warrants issued with a 
+restrictive legend (such third Trading Day, the “Legend Removal Date”), 
+deliver or cause to be delivered to such Holder a certificate representing 
+such shares that is free from all restrictive and other legends or, at the 
+request of the Holder shall credit the account of the Holder’s prime broker 
+with the Depository Trust Company System as directed by such Holder. The 
+Company may not make any notation on its records or give instructions to 
+the transfer agent that enlarge the restrictions on transfer set forth in 
+this Section 2.3(b). “Delegend Date” means the earliest of the date that 
+(a) a registration statement with respect to the Common Stock has been 
+declared effective by the Commission or (b) all of the Common Stock has 
+been sold pursuant to Rule 144 or may be sold pursuant to Rule 144 without 
+the requirement for the Company to be in compliance with the current public 
+information required under Rule 144 and without volume or manner-of-sale 
+restrictions or (c) following the six (6) month anniversary of (I) the 
+Closing Date if a New Warrant is exercised pursuant to a cashless exercise 
+or (II) the date of the related cash exercise of the New Warrants provided, 
+in each case that the holder of the New Warrants or the Common Stock, as 
+the case may be, is not an Affiliate of the Company, the Company is in 
+compliance with the current public information required under Rule 144 (“
+Current Public Information Requirement”) and all such Common Stock may be 
+sold pursuant to Rule 144 or an exemption from registration under Section 
+4(a)(1) of the Securities Act without volume or manner-of-sale 
+restrictions; provided, further, however, that if the Company fails to 
+comply with the Current Public Information Requirement at any time 
+following the applicable six (6) month anniversary set forth above and the 
+one (1) year anniversary of the Closing Date, the Company shall promptly 
+provide notice to the Holder and the Holder undertakes not to sell such 
+Common Stock pursuant to Rule 144 until the Company notifies the Holder 
+that it has regained compliance with the Current Public Information 
+Requirement; and provided further, that if a delegending is in effect 
+solely as the result of the effectiveness of a registration statement 
+covering the resale of any Common Stock, the Holder undertakes not to sell 
+any such Common Stock if the Holder is notified or otherwise becomes aware 
+that such registration statement has been withdrawn or suspended, contains 
+a material misstatement or omission or has become stale. Each Holder, 
+severally and not jointly with the other Holders, agrees with the Company 
+that such Holder will sell or transfer any New Warrants or shares of Common 
+Stock underlying New Warrants pursuant to either the registration 
+requirements of the Securities Act, including any applicable prospectus 
+delivery requirements, or an exemption therefrom, and that if such 
+securities are sold pursuant to a registration statement, they will be sold 
+in compliance with the plan of distribution set forth therein, and 
+acknowledges that the removal of the restrictive legend from certificates 
+representing any such securities as set forth in this Section 2.3 or 
+otherwise is predicated upon the Company’s reliance upon this 
+understanding.
+ 
+Section 2.4 Filing of Form 8-K and Amendment to Registration Statement. 
+Prior to 5:00 pm ET on the Trading Day following the date hereof, the 
+Company shall issue a Current Report on Form 8-K, reasonably acceptable to 
+the Holder disclosing the material terms of the transactions contemplated 
+hereby, which shall include this Agreement (the “8-K Filing”). From and 
+after the issuance of the 8-K Filing, the Company represents to the Holder 
+that it shall not be in possession of any material, nonpublic information 
+received from the Company, any of its Subsidiaries or any of their 
+respective officers, directors, employees or agents, that is not disclosed 
+in the 8-K Filing. In addition, effective upon the filing of the 8-K 
+Filing, the Company acknowledges and agrees that any and all 
+confidentiality or similar obligations under any agreement, whether written 
+or oral, between the Company, any of its Subsidiaries or any of their 
+respective officers, directors, affiliates, employees or agents, on the one 
+hand, and the Holder or any of its affiliates, on the other hand, shall 
+terminate. The Company shall not, and shall cause each of its Subsidiaries 
+and its and each of their respective officers, directors, employees and 
+agents, not to, provide the Holder with any material, nonpublic information 
+regarding the Company or any of its Subsidiaries from and after the date 
+hereof without the express prior written consent of the Holder. To the 
+extent that the Company, any of its Subsidiaries or any of their respective 
+officers, directors, employees or agents, delivers any material, non-public 
+information to the Holder without such Holder’s consent, the Company hereby 
+covenants and agrees that such Holder shall not have any duty of 
+confidentiality with respect to, or a duty not to trade on the basis of, 
+such material, non-public information. Such 8-K Filing shall be 
+incorporated by reference into the registration statement on Form S-3 (No. 
+333-208540) (the “Registration Statement”), thereby updating the prospectus 
+included therein.
+ 
+ 
+ 
+  	3 	 
+
+ 
+ 
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES
+ 
+Section 3.1 Representations and Warranties of the Company. The Company 
+hereby makes the representations and warranties set forth below to the 
+Holder that as of the date of its execution of this Agreement:
+ 
+(a) Authorization; Enforcement. The Company has the requisite corporate 
+power and authority to enter into and to consummate the transactions 
+contemplated by this Agreement and otherwise to carry out its obligations 
+hereunder and thereunder. The execution and delivery of this Agreement by 
+the Company and the consummation by it of the transactions contemplated 
+hereby have been duly authorized by all necessary action on the part of 
+such Company and no further action is required by such Company, its board 
+of directors or its stockholders in connection therewith. This Agreement 
+has been duly executed by the Company and, when delivered in accordance 
+with the terms hereof will constitute the valid and binding obligation of 
+the Company enforceable against the Company in accordance with its terms 
+except (i) as limited by general equitable principles and applicable 
+bankruptcy, insolvency, reorganization, moratorium and other laws of 
+general application affecting enforcement of creditors’ rights generally, 
+(ii) as limited by laws relating to the availability of specific 
+performance, injunctive relief or other equitable remedies and (iii) 
+insofar as indemnification and contribution provisions may be limited by 
+applicable law.
+ 
+(b) Organization. The Company is a duly organized and validly existing 
+corporation in good standing under the laws of the State of Nevada.
+ 
+(c) Registration Statement. The Warrant Shares are registered for issuance 
+and resale by the Holder on the Registration Statement and the Company 
+knows of no reasons why such registration statement shall not remain 
+available for the issuance and resale of such Warrant Shares for the 
+foreseeable future. The Company shall use commercially reasonable efforts 
+to keep the Registration Statement effective and available for use by the 
+Holder until all Warrant Shares are sold by the Holder.
+ 
+(d) No Conflicts. The execution, delivery and performance of this Agreement 
+by the Company and the consummation by the Company of the transactions 
+contemplated hereby do not and will not: (i) conflict with or violate any 
+provision of the Company’s certificate or articles of incorporation, bylaws 
+or other organizational or charter documents, or (ii) conflict with, or 
+constitute a default (or an event that with notice or lapse of time or both 
+would become a default) under, result in the creation of any lien upon any 
+of the properties or assets of the Company, or give to others any rights of 
+termination, amendment, acceleration or cancellation (with or without 
+notice, lapse of time or both) of, any material agreement, credit facility, 
+debt or other material instrument (evidencing Company debt or otherwise) or 
+other material understanding to which the Company is a party or by which 
+any property or asset of the Company is bound or affected, or (iii) 
+conflict with or result in a violation of any law, rule, regulation, order, 
+judgment, injunction, decree or other restriction of any court or 
+governmental authority to which the Company is subject (including federal 
+and state securities laws and regulations), or by which any property or 
+asset of the Company is bound or affected.
+ 
+(e) Disclosure. Except with respect to the material terms and conditions of 
+the transactions contemplated by this Agreement, the Company confirms that 
+neither it nor any other Person acting on its behalf has provided any of 
+Holder or their agents or counsel with any information that it believes 
+constitutes or might constitute material, non-public information. The 
+Company understands and confirms that the Holder will rely on the foregoing 
+representation in effecting transactions in securities of the Company. All 
+of the disclosure furnished by or on behalf of the Company to the Holder 
+regarding the Company and its Subsidiaries, their respective businesses and 
+the transactions contemplated hereby, including but not limited to the 
+disclosure set forth in the SEC Reports, is true and correct and does not 
+contain any untrue statement of a material fact or omit to state any 
+material fact necessary in order to make the statements made therein, in 
+light of the circumstances under which they were made, not misleading. As 
+used herein, “SEC Reports” means all reports, schedules, forms, statements 
+and other documents required to be filed by the Company with the Commission 
+pursuant to the reporting requirements of the 1934 Act, including all 
+exhibits included therein and financial statements, notes and schedules 
+thereto and documents incorporated by reference therein.
+ 
+ 
+ 
+ 
+  	4 	 
+
+ 
+ 
+(f) Issuance of Securities. The issuance of the New Warrants are duly 
+authorized and, upon issuance in accordance with the terms of this 
+Agreement, the New Warrants shall be validly issued and free from all 
+preemptive or similar rights (except for those which have been validly 
+waived prior to the date hereof), taxes, liens and charges and other 
+encumbrances with respect to the issue thereof. As of the Closing Date, a 
+number of shares of Common Stock shall have been duly authorized and 
+reserved for issuance which equals or exceeds the maximum number of Warrant 
+Shares issuable upon exercise of the New Warrants (without taking into 
+account any limitations on the exercise of the New Warrants set forth 
+therein). Upon exercise of the New Warrants in accordance with the New 
+Warrants, the Warrant Shares when issued will be validly issued, fully paid 
+and nonassessable and free from all preemptive or similar rights, taxes, 
+liens, charges and other encumbrances with respect to the issue thereof, 
+with the holders being entitled to all rights accorded to a holder of 
+Common Stock. Assuming the accuracy of each of the representations and 
+warranties set forth in Section 3.2 of this Agreement, the offer and 
+issuance by the Company of the New Warrants is exempt from registration 
+under the 1933 Act.
+ 
+(g) No General Solicitation. Neither the Company, nor any of its 
+Subsidiaries or affiliates, nor any Person acting on its or their behalf, 
+has engaged in any form of general solicitation or general advertising 
+(within the meaning of Regulation D) in connection with the offer or sale 
+of the New Warrants.
+ 
+(h) No Integrated Offering. None of the Company, its Subsidiaries or any of 
+their affiliates, nor any Person acting on their behalf has, directly or 
+indirectly, made any offers or sales of any security or solicited any 
+offers to buy any security, under circumstances that would require 
+registration of the issuance of any of the New Warrants or the shares of 
+Common Stock underlying the New Warrants (collectively, the “Securities”) 
+under the 1933 Act, whether through integration with prior offerings or 
+otherwise, or cause this offering of the Securities to require approval of 
+shareholders of the Company for purposes of the 1933 Act or any applicable 
+shareholder approval provisions, including, without limitation, under the 
+rules and regulations of any exchange or automated quotation system on 
+which any of the securities of the Company are listed or designated for 
+quotation. None of the Company, its Subsidiaries, their affiliates nor any 
+Person acting on their behalf will take any action or steps that would 
+require registration of the issuance of any of the Securities under the 
+1933 Act or cause the offering of any of the Securities to be integrated 
+with other offerings for purposes of any such applicable shareholder 
+approval provisions.
+ 
+(i) No Disqualification Events. With respect to Securities to be offered 
+and sold hereunder in reliance on Rule 506(b) under the 1933 Act ("
+Regulation D Securities"), none of the Company, any of its predecessors, 
+any affiliated issuer, any director, executive officer, other officer of 
+the Company participating in the offering hereunder, any beneficial owner 
+of 20% or more of the Company's outstanding voting equity securities, 
+calculated on the basis of voting power, nor any promoter (as that term is 
+defined in Rule 405 under the 1933 Act) connected with the Company in any 
+capacity at the time of sale (each, an "Issuer Covered Person" and, 
+together, "Issuer Covered Persons") is subject to any of the "Bad Actor" 
+disqualifications described in Rule 506(d)(1)(i) to (viii) under the 1933 
+Act (a "Disqualification Event"), except for a Disqualification Event 
+covered by Rule 506(d)(2) or (d)(3). The Company has exercised reasonable 
+care to determine whether any Issuer Covered Person is subject to a 
+Disqualification Event. The Company has complied, to the extent applicable, 
+with its disclosure obligations under Rule 506(e), and has furnished to the 
+Buyers a copy of any disclosures provided thereunder.
+ 
+Section 3.2 Representations and Warranties of the Holder. The Holder hereby 
+makes the representations and warranties set forth below to the Company 
+that as of the date of its execution of this Agreement:
+ 
+(a) Due Authorization. The Holder represents and warrants that (i) the 
+execution and delivery of this Agreement by it and the consummation by it 
+of the transactions contemplated hereby have been duly authorized by all 
+necessary action on its behalf and (ii) this Agreement has been duly 
+executed and delivered by the Holder and constitutes the valid and binding 
+obligation of the Holder, enforceable against it in accordance with its 
+terms.
+ 
+(b) No Conflicts. The execution, delivery and performance of this Agreement 
+by the Holder and the consummation by the Holder of the transactions 
+contemplated hereby do not and will not: (i) conflict with or violate any 
+provision of the Holder’s organizational or charter documents, or (ii) 
+conflict with or result in a violation of any agreement, law, rule, 
+regulation, order, judgment, injunction, decree or other restriction of any 
+court or governmental authority which would interfere with the ability of 
+the Holder to perform its obligations under this Agreement.
+ 
+ 
+ 
+ 
+ 
+  	5 	 
+
+ 
+ 
+(c) Access to Information. The Holder acknowledges that it has had the 
+opportunity to review this Agreement and the SEC Reports and has been 
+afforded (i) the opportunity to ask such questions as it has deemed 
+necessary of, and to receive answers from, representatives of the Company 
+concerning the terms and conditions of the exercise of the Existing 
+Warrants and the merits and risks of investing in the Warrant Shares; (ii) 
+access to information about the Company and its financial condition, 
+results of operations, business, properties, management and prospects 
+sufficient to enable it to evaluate its investment; and (iii) the 
+opportunity to obtain such additional information that the Company 
+possesses or can acquire without unreasonable effort or expense that is 
+necessary to make an informed investment decision with respect to the 
+investment. The Holder acknowledges and agrees that neither Chardan Capital 
+Markets, LLC (the “Advisor”) nor any Affiliate of the Advisor has provided 
+the Holder with any information or advice with respect to the Securities 
+nor is such information or advice necessary or desired. Neither the Advisor 
+nor any Affiliate has made or makes any representation as to the Company or 
+the quality of the securities issued and issuable hereunder and the Advisor 
+and any Affiliate may have acquired non-public information with respect to 
+the Company which the Holder agrees need not be provided to it. In 
+connection with the issuance of the securities hereunder to the Holder, 
+neither the Advisor nor any of its Affiliates has acted as a financial 
+advisor or fiduciary to the Holder.
+ 
+(d) Holder Status. The Holder is an “accredited investor” as defined in 
+Rule 501 under the Securities Act.
+ 
+(e) Knowledge. The Holder, either alone or together with its 
+representatives, has such knowledge, sophistication and experience in 
+business and financial matters so as to be capable of evaluating the merits 
+and risks of the prospective investment in the Warrant Shares, and has so 
+evaluated the merits and risks of such investment. The Holder is able to 
+bear the economic risk of an investment in the Warrant Shares and, at the 
+present time, is able to afford a complete loss of such investment.
+ 
+ARTICLE IV
+MISCELLANEOUS
+   
+  Section 4.1 Leak-Out Restrictions.
+ 
+(a)                For a period commencing on the date hereof and ending 
+ninety (90) days after the Closing Date (the “Leak-Out Period”), the Holder 
+agrees, on behalf of itself and each affiliate (as defined in Rule 405 
+under the Securities Act) of such Holder which (x) had knowledge of the 
+transactions contemplated hereby, (y) has or shares discretion relating to 
+such Holder’s investments or trading or information concerning such 
+Holder’s investments, including in respect of the securities issuable 
+hereunder, or (z) is subject to such Holder’s review or input concerning 
+such affiliate’s investments or trading (collectively, “Trading Affiliates
+”), not to sell, dispose or otherwise transfer, directly or indirectly, 
+(including, without limitation, any sales, short sales, swaps or any 
+derivative transactions that would be equivalent to any sales or short 
+positions) shares of Common Stock on any Trading Day during the Leak-Out 
+Period; provided, however, that these trading restrictions shall not apply 
+to any sale, disposal or other transfer at a price at or greater than $5.00 
+per share (as appropriately adjusted for any stock split, reverse stock 
+split, stock dividend or other reclassification or combination of the 
+Common Stock occurring after the date hereof). As used herein, “Trading Day
+” means a day on which the principal Trading Market is open for trading and 
+“Trading Market” means any of the following markets or exchanges on which 
+the Common Stock is listed or quoted for trading on the date in question: 
+the NYSE MKT, the NASDAQ Stock Market, the New York Stock Exchange, OTCQB 
+or OTCQX (or any successors to any of the foregoing). To assist the Company 
+in assuring compliance by the Holder and its Trading Affiliates with the 
+provisions of this Section 4.1(a), the Company may from time to time, 
+deliver a written request (which may be by email) at any time during the 
+Leak-Out Period requesting that the Holder provide (i) trading records of 
+any direct or indirect sales of Common Stock (as contemplated above) by the 
+Holder and its Trading Affiliates during the period beginning on the date 
+hereof and ending on the earlier of (x) the date of such request and (y) 
+the end of the Leak-Out Period or (ii) records showing the number of shares 
+of Common Stock held by the Holder and its Trading Affiliates as of the 
+earlier of (x) the date of such request and (y) the end of the Leak-Out 
+Period. Upon receipt of any such request, the Holder shall provide such 
+information no later than three Trading Days after the date of the 
+applicable request. Notwithstanding anything to the contrary, the Company 
+may not make more than five requests for information pursuant to this 
+Section 4.1(a); provided, that any request made to a Trading Affiliate of 
+the Holder shall count as a request made to the Holder.
+ 
+ 
+ 
+ 
+  	6 	 
+
+ 
+(b)                The Company hereby represents and warrants as of the 
+date hereof and covenants and agrees from and after the date hereof that 
+none of the terms offered to any other holder of Original Warrants (each, 
+an "Other Holder") with respect to any restrictions on the sale of Common 
+Stock substantially in the form of this Agreement (or any amendment, 
+modification, waiver or release thereof) (each a “Settlement Document”), is 
+or will be more favorable to such Other Holder than those of the Holder and 
+this Agreement. If, and whenever on or after the date hereof, the Company 
+enters into a Settlement Document, then (i) the Company shall provide 
+notice thereof to the Holder promptly following the occurrence thereof and 
+(ii) the terms and conditions of this Agreement shall be, without any 
+further action by the Holder or the Company, automatically amended and 
+modified in an economically and legally equivalent manner such that the 
+Holder shall receive the benefit of the more favorable terms and/or 
+conditions (as the case may be) set forth in such Settlement Document, 
+provided that upon written notice to the Company at any time the Holder may 
+elect not to accept the benefit of any such amended or modified term or 
+condition, in which event the term or condition contained in this Agreement 
+shall apply to the Holder as it was in effect immediately prior to such 
+amendment or modification as if such amendment or modification never 
+occurred with respect to the Holder. The provisions of this paragraph shall 
+apply similarly and equally to each Settlement Document.
+     
+    Section 4.2 Subsequent Equity Sales.
+     
+    (a)               From the date hereof until 90 days after the Closing
+    Date, neither the Company nor any subsidiary shall issue, enter into
+    any agreement to issue or announce the issuance or proposed issuance of
+    any shares of Common Stock or Common Stock Equivalents. As used herein
+    “Common Stock Equivalents” means any securities of the Company or the
+    Subsidiaries which would entitle the holder thereof to acquire at any
+    time Common Stock, including, without limitation, any debt, preferred
+    stock, right, option, warrant or other instrument that is at any time
+    convertible into or exercisable or exchangeable for, or otherwise
+    entitles the holder thereof to receive, Common Stock.
+     
+    (b)               From the date hereof until such time as no Purchaser
+    holds any of the New Warrants, the Company shall be prohibited from
+    effecting or entering into an agreement to effect any issuance by the
+    Company or any of its subsidiaries of Common Stock or Common Stock
+    Equivalents (or a combination of units thereof) involving a Variable
+    Rate Transaction. “Variable Rate Transaction” means a transaction in
+    which the Company (i) issues or sells any debt or equity securities
+    that are convertible into, exchangeable or exercisable for, or include
+    the right to receive additional shares of Common Stock either (A) at a
+    conversion price, exercise price or exchange rate or other price that
+    is based upon and/or varies with the trading prices of or quotations
+    for the shares of Common Stock at any time after the initial issuance
+    of such debt or equity securities, or (B) with a conversion, exercise
+    or exchange price that is subject to being reset at some future date
+    after the initial issuance of such debt or equity security upon the
+    occurrence of specified or contingent events directly or indirectly
+    related to the business of the Company or the market for the Common
+    Stock or (ii) enters into any agreement, including, but not limited to,
+    an equity line of credit, whereby the Company may issue securities at a
+    future determined price, provided that nothing herein shall prevent the
+    Company from entering into agreements providing for customary
+    price-only adjustment full ratchet, half ratchet or weighted average
+    anti-dilution provisions or customary price and share adjustment
+    weighted average anti-dilution provisions. Any Purchaser shall be
+    entitled to obtain injunctive relief against the Company to preclude
+    any such issuance, which remedy shall be in addition to any right to
+    collect damages. The provisions of this Section 4.2(b) may be waived or
+    amended by the Company and holders of the New Warrants then outstanding
+    representing a majority in the interest of all such New Warrants.
+     
+    (c)               Notwithstanding the foregoing, this Section 4.2 shall
+    not apply in respect of an Exempt Issuance, except that no Variable
+    Rate Transaction shall be an Exempt Issuance. As set used herein “
+    Exempt Issuance” means the issuance of (a) shares of Common Stock or
+    options to employees, independent contractors, vendors, officers or
+    directors of the Company pursuant to any stock or option or similar
+    plan duly adopted for such purpose, by a majority of the non-employee
+    members of the Board of Directors or a majority of the members of a
+    committee of non-employee directors established for such purpose for
+    services rendered to the Company including but not limited to the
+    Company’s 2015 Incentive Plan, Amended 2015 Incentive Plan and Vendor
+    Stock Issuance Plan, (b) securities upon the exercise or exchange of or
+    conversion of any Securities issued hereunder and/or other securities
+    exercisable or exchangeable for or convertible into shares of Common
+    Stock issued and outstanding on the date of this Agreement, provided
+    that such securities have not been amended since the date of this
+    Agreement to increase the number of such securities or to decrease the
+    exercise price, exchange price or conversion price of such securities
+    (other than in connection with stock splits or combinations) or to
+    extend the term of such securities, and (c) securities issued pursuant
+    to acquisitions, strategic transactions or a transaction with vendors
+    or other non-affiliated business partners approved by a majority of the
+    disinterested directors of the Company, provided that any such issuance
+    shall only be to a Person (or to the equityholders of a Person) which
+    is, itself or through its subsidiaries, an operating company or an
+    owner of an asset in a business synergistic with the business of the
+    Company and shall provide to the Company additional benefits in
+    addition to the investment of funds, but shall not include a
+    transaction in which the Company is issuing securities primarily for
+    the purpose of raising capital or to an entity whose primary business
+    is investing in securities; provided, however, that any securities
+    issued to independent contractors, venders or non-affiliated business
+    partners shall only be considered to be Exempt Issuances to the extent
+    they are issued as "restricted securities" (as defined in Rule 144).
+     
+     
+     
+     
+     
+  	7 	 
+
+ 
+     
+Section 4.3 Notices. Any and all notices or other communications or 
+deliveries required or permitted to be provided hereunder shall be made by 
+email to the email address of Holders set forth on Holders’ signature page.
+ 
+Section 4.4 Survival. All warranties and representations (as of the date 
+such warranties and representations were made) made herein or in any 
+certificate or other instrument delivered by it or on its behalf under this 
+Agreement shall be considered to have been relied upon by the parties 
+hereto and shall survive the issuance of the Warrants. This Agreement shall 
+inure to the benefit of and be binding upon the successors and permitted 
+assigns of each of the parties; provided however that no party may assign 
+this Agreement or the obligations and rights of such party hereunder 
+without the prior written consent of the other parties hereto.
+ 
+Section 4.5 Execution. This Agreement may be executed in two or more 
+counterparts, all of which when taken together shall be considered one and 
+the same agreement and shall become effective when counterparts have been 
+signed by each party and delivered to the other party, it being understood 
+that both parties need not sign the same counterpart. In the event that any 
+signature is delivered by facsimile transmission, such signature shall 
+create a valid and binding obligation of the party executing (or on whose 
+behalf such signature is executed) with the same force and effect as if 
+such facsimile signature page were an original thereof.
+ 
+Section 4.6 Severability. If any provision of this Agreement is held to be 
+invalid or unenforceable in any respect, the validity and enforceability of 
+the remaining terms and provisions of this Agreement shall not in any way 
+be affected or impaired thereby and the parties will attempt to agree upon 
+a valid and enforceable provision that is a reasonable substitute therefor, 
+and upon so agreeing, shall incorporate such substitute provision in this 
+Agreement.
+ 
+Section 4.7 Governing Law. All questions concerning the construction, 
+validity, enforcement and interpretation of this Agreement shall be 
+determined pursuant to the Governing Law provision of the Warrant.
+ 
+Section 4.8 Entire Agreement. The Agreement, together with the exhibits and 
+schedules thereto, contain the entire understanding of the parties with 
+respect to the subject matter hereof and supersede all prior agreements and 
+understandings, oral or written, with respect to such matters, which the 
+parties acknowledge have been merged into such documents, exhibits and 
+schedules.
+ 
+Section 4.9 Construction. The headings herein are for convenience only, do 
+not constitute a part of this Agreement and shall not be deemed to limit or 
+affect any of the provisions hereof. The language used in this Agreement 
+will be deemed to be the language chosen by the parties to express their 
+mutual intent, and no rules of strict construction will be applied against 
+any party.
+ 
+Section 4.10 Fees and Expenses. Except as expressly set forth herein, each 
+party shall pay the fees and expenses of its advisers, counsel, accountants 
+and other experts, if any, and all other expenses incurred by such party 
+incident to the negotiation, preparation, execution, delivery and 
+performance of this Agreement. The Company shall pay all transfer agent 
+fees, stamp taxes and other taxes and duties levied in connection with the 
+delivery of any Warrant Shares.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  	8 	 
+
+ 
+ 
+IN WITNESS WHEREOF, the undersigned have executed this Warrant Exercise 
+Agreement as of the date first written above.
+ 
+ 
+COMPANY:
+ 
+ 
+GENIUS BRANDS INTERNATIONAL, INC.
+ 
+ 
+By:  _______________________________
+Name:   ____________________________
+Title:  ______________________________
+ 
+  
+Bank Account and Wire Instructions
+ 
+Bank Name: 	U.S. Bank
+  	 
+Bank Address: 	633 W. Fifth Street
+  	29th Floor
+  	Los Angeles, CA 90071
+  	213-615-6625
+  	 
+ABA No. 	XXXXXXXX
+  	 
+A/C No. 	XXXXXXXX
+ 
+Beneficiary name and address:
+ 
+Genius Brands International, Inc.
+DBA A Squared Entertainment, LLC
+301 N. Canon Drive #305
+Beverly Hills, CA 90210
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  	9 	 
+
+ 
+ 
+
+[PURCHASER SIGNATURE PAGES TO GENIUS BRANDS INTERNATIONAL
+WARRANT EXERCISE AGREEMENT]
+ 
+IN WITNESS WHEREOF, the undersigned have caused this Agreement to be duly 
+executed by their respective authorized signatories as of the date first 
+indicated above.
+ 
+  	  	 
+Name of Holder: 	  	
+ 
+  	  	 
+Signature of Authorized Signatory of Holder: 	  	
+ 
+  	  	 
+Name of Authorized Signatory: 	  	
+ 
+  	  	 
+Title of Authorized Signatory: 	  	
+ 
+  	  	 
+Email Address of Holder: 	  	
+ 
+  	  	 
+Number of  Warrants Held: 	  	
+ 
+  	  	 
+Number of  Warrants to be exercised: 	  	
+ 
+  	  	 
+Aggregate Exercise Price of  Warrants to be Exercised: 	  	
+ 
+  	  	 
+  	 
+Warrant Shares underlying  Warrants: 	  	                                   
+                  
+  	  	  	  	 
+ DWAC Instructions for Warrant Shares to be issued upon exercise of
+ Existing Warrants:_________________
+  
+  
+ Number of New Warrants to be issued to Holder:                            
+ 
+ 
+Address for Delivery of New Shares for Holder: 
+_______________________________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  	10 	 

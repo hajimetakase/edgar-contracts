@@ -1,0 +1,1832 @@
+ EX-10.20 5 d638429dex1020.htm EX-10.20
+Exhibit 10.20
+
+
+HOLDINGS GUARANTEE AND PLEDGE AGREEMENT
+
+dated and effective as of
+
+December 20, 2013
+
+between
+
+AP GAMING HOLDINGS, LLC,
+as Holdings
+
+and
+
+CITICORP NORTH AMERICA, INC.,
+as Agent
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+ 
+  	   	Page 	 
+
+ ARTICLE I DEFINITIONS
+
+   	  	1 	  
+
+   SECTION 1.01. Credit Agreement
+
+   	  	1 	  
+
+   SECTION 1.02. Other Defined Terms
+
+   	  	2 	  
+
+ ARTICLE II GUARANTEE
+
+   	  	5 	  
+
+   SECTION 2.01. The Guarantee
+
+   	  	5 	  
+
+ ARTICLE III PLEDGE OF EQUITY INTERESTS
+
+   	  	7 	  
+
+   SECTION 3.01. Pledge
+
+   	  	7 	  
+
+   SECTION 3.02. Delivery of Pledged Collateral
+
+   	  	9 	  
+
+   SECTION 3.03. Representations and Warranties
+
+   	  	9 	  
+
+   SECTION 3.04. Covenants
+
+   	  	10 	  
+
+   SECTION 3.05. Registration in Nominee Name; Denominations
+
+   	  	11 	  
+
+   SECTION 3.06. Financing Statements
+
+   	  	11 	  
+
+   SECTION 3.07. Certification of Pledged Borrower Stock
+
+   	  	12 	  
+
+   SECTION 3.08. Voting Rights; Dividends and Interest, Etc
+
+   	  	12 	  
+
+   SECTION 3.09. Powers Coupled with an Interest
+
+   	  	14 	  
+
+ ARTICLE IV [RESERVED]
+
+   	  	14 	  
+
+ ARTICLE V REMEDIES
+
+   	  	14 	  
+
+   SECTION 5.01. Remedies Upon Default
+
+   	  	14 	  
+
+   SECTION 5.02. Application of Proceeds
+
+   	  	15 	  
+
+   SECTION 5.03. Securities Act, Etc
+
+   	  	16 	  
+
+ ARTICLE VI MISCELLANEOUS
+
+   	  	17 	  
+
+   SECTION 6.01. Notices
+
+   	  	17 	  
+
+   SECTION 6.02. Security Interest Absolute
+
+   	  	17 	  
+
+   SECTION 6.03. Limitation by Law
+
+   	  	17 	  
+
+   SECTION 6.04. Binding Effect; Several Agreement
+
+   	  	17 	  
+
+   SECTION 6.05. Successors and Assigns
+
+   	  	17 	  
+
+   SECTION 6.06. Agents Fees and Expenses
+
+   	  	18 	  
+
+   SECTION 6.07. Agent Appointed Attorney-in-Fact
+
+   	  	18 	  
+
+   SECTION 6.08. GOVERNING LAW
+
+   	  	19 	  
+
+   SECTION 6.09. Waivers; Amendment; Extension of Time
+
+   	  	19 	  
+
+   SECTION 6.10. WAIVER OF JURY TRIAL
+
+   	  	20 	  
+
+   SECTION 6.11. Severability
+
+   	  	20 	  
+
+   SECTION 6.12. Counterparts
+
+   	  	20 	  
+
+   SECTION 6.13. Headings
+
+   	  	20 	  
+
+   SECTION 6.14. Jurisdiction; Consent to Service of Process
+
+   	  	20 	  
+
+   SECTION 6.15. Termination or Release
+
+   	  	21 	  
+
+   SECTION 6.16. Compliance with Gaming Laws
+
+   	  	22 	  
+
+   SECTION 6.17. Subject to Any Applicable Intercreditor Agreement
+
+   	  	23 	  
+ 
+i
+
+------------------------------------------------------------------------
+TABLE OF CONTENTS
+(Continued)
+ 
+  	   	Page 	 
+
+   SECTION 6.18. Other First Lien Obligations
+
+   	  	23 	  
+
+   SECTION 6.19. Person Serving as Agent
+
+   	  	24 	  
+
+   SECTION 6.20. General Authority of the Agent
+
+   	  	25 	  
+
+   SECTION 6.21. Application of Gaming Laws
+
+   	  	25 	  
+ 
+
+ Schedules
+
+   	
+
+ Schedule I Description of Pledged Borrower Stock
+
+   	
+
+ Exhibits
+
+   	
+
+ Exhibit I Form of Other First Lien Secured Party Consent
+
+   	
+ 
+ii
+
+------------------------------------------------------------------------
+This HOLDINGS GUARANTEE AND PLEDGE AGREEMENT, dated and effective as of 
+December 20, 2013, is between AP GAMING HOLDINGS, LLC, a Delaware limited 
+liability company (Holdings), and CITICORP NORTH AMERICA, INC., as 
+collateral agent (together with its successors and permitted assigns in 
+such capacity, the Agent) for the benefit of the Secured Parties (as 
+defined below).
+
+
+W I T N E S S E T H :
+
+WHEREAS, pursuant to the First Lien Credit Agreement, dated as of the date 
+hereof (as amended, restated, supplemented, waived or otherwise modified 
+from time to time, the Credit Agreement), among Holdings, AP Gaming I, 
+LLC, a Delaware limited liability company and a Subsidiary of Holdings 
+(together with its successors, the Borrower), the Lenders party thereto 
+from time to time, Citicorp North America, Inc., as administrative agent 
+(together with its successors and assigns in such capacity, the Credit 
+Agreement Agent), and the other parties thereto, the Lenders and the 
+Issuing Banks have agreed to extend credit to the Borrower upon the terms 
+and subject to the conditions set forth therein, including the execution 
+and delivery of this Agreement;
+
+WHEREAS, Holdings is the legal and beneficial owner of the Pledged 
+Collateral (as hereinafter defined) issued by the Borrower and will derive 
+substantial benefits from the extension of credit to the Borrower pursuant 
+to the Credit Agreement; and
+
+WHEREAS, Holdings is willing to execute and deliver this Agreement in order 
+to induce the Lenders and the Issuing Banks to extend such credit under the 
+Credit Agreement and to induce the holders of any other Other First Lien 
+Obligations to make extensions of credit under the applicable Other First 
+Lien Agreements, as applicable.
+
+Accordingly, the parties hereto agree as follows:
+
+
+ARTICLE I
+
+Definitions
+
+SECTION 1.01. Credit Agreement.
+
+(a) Capitalized terms used in this Agreement and not otherwise defined 
+herein have the respective meanings assigned thereto in the Credit 
+Agreement. All terms referred to herein that are defined in Article 9 of 
+the New York UCC (as defined herein) and not defined in this Agreement or 
+the Credit Agreement have the meanings specified in Article 9 of the New 
+York UCC. The term instrument shall have the meaning specified in Article 
+9 of the New York UCC.
+
+(b) The rules of construction specified in Section 1.02 of the Credit 
+Agreement also apply to this Agreement.
+ 
+1
+
+------------------------------------------------------------------------
+SECTION 1.02. Other Defined Terms. As used in this Agreement, the following 
+terms have the meanings specified below:
+
+Agent has the meaning assigned to such term in the introductory paragraph 
+of this Agreement.
+
+Agreement means this Holdings and Guarantee and Pledge Agreement, as 
+amended, restated, supplemented, waived or otherwise modified from time to 
+time.
+
+Applicable First Lien Representative means the Applicable Authorized 
+Representative as defined in the First Lien Intercreditor Agreement upon 
+and during the effectiveness thereof. The Applicable First Lien 
+Representative shall be the Credit Agreement Agent unless and until another 
+person is designated as the Applicable First Lien Representative pursuant 
+to the First Lien Intercreditor Agreement.
+
+Authorized Representative means (i) the Credit Agreement Agent with 
+respect to the Credit Agreement and (ii) with respect to any Series of 
+Other First Lien Obligations, the duly authorized representative of the 
+Secured Parties of such Series of Other First Lien Obligations designated 
+as Authorized Representative for such Secured Parties in the related 
+Other First Lien Secured Party Consent delivered to the Agent.
+
+Borrower has the meaning assigned to such term in the recitals of this 
+Agreement.
+
+Credit Agreement has the meaning assigned to such term in the recitals of 
+this Agreement.
+
+Credit Agreement Agent has the meaning assigned to such term in the 
+recitals of this Agreement.
+
+Credit Agreement Loan Obligations means the Loan Obligations as defined 
+in the Credit Agreement.
+
+Credit Agreement Secured Obligations means the Obligations as defined 
+in the Credit Agreement.
+
+Credit Agreement Secured Parties means the Secured Parties as defined 
+in the Credit Agreement.
+
+Event of Default means an Event of Default under and as defined in the 
+Credit Agreement or any Other First Lien Agreement.
+
+Federal Securities Laws has the meaning assigned to such term in Section 
+5.03.
+
+First Lien Intercreditor Agreement means a Permitted Pari Passu 
+Intercreditor Agreement as defined in the Credit Agreement (as amended, 
+restated, supplemented or otherwise modified from time to time).
+
+Guaranteed Obligations has the meaning assigned to such term in Section 
+2.01.
+ 
+2
+
+------------------------------------------------------------------------
+Holdings has the meaning assigned to such term in the introductory 
+paragraph of this Agreement.
+
+Intercreditor Agreement means a First Lien Intercreditor Agreement (upon 
+and during the effectiveness thereof) or a Permitted Junior Intercreditor 
+Agreement (upon and during the effectiveness thereof), as the case may be.
+
+Loan Documents means (a) the Credit Agreement, (b) all Other First Lien 
+Agreements, (c) the Security Documents and (d) for purposes of Section 5.02 
+and Section 6.06 only, the First Lien Intercreditor Agreement (upon and 
+during the effectiveness thereof).
+
+Nevada Gaming Authority has the meaning assigned to such term in Section 
+6.16(a).
+
+Nevada Gaming Laws has the meaning assigned to such term in Section 
+6.16(a).
+
+New York UCC means the Uniform Commercial Code as from time to time in 
+effect in the State of New York.
+
+Other First Lien Agreement means any indenture, credit agreement 
+(excluding the Credit Agreement) or other agreement, document or 
+instrument, pursuant to which any Loan Party has or will incur Other First 
+Lien Obligations; provided that, in each case, the Indebtedness thereunder 
+has been designated as Other First Lien Obligations pursuant to and in 
+accordance with Section 6.18.
+
+Other First Lien Obligations means (a) the due and punctual payment by 
+any Loan Party of (i) the unpaid principal of and interest (including 
+interest accruing during the pendency of any bankruptcy, insolvency, 
+receivership or other similar proceeding, regardless of whether allowed or 
+allowable as a claim in such proceeding) on Indebtedness under any Other 
+First Lien Agreement, when and as due, whether at maturity, by 
+acceleration, upon one or more dates set for prepayment or otherwise, and 
+(ii) all other monetary obligations of such Loan Party to any Secured Party 
+under any Other First Lien Agreement, including obligations to pay fees, 
+expense reimbursement obligations and indemnification obligations, whether 
+primary, secondary, direct, contingent, fixed or otherwise (including 
+monetary obligations incurred during the pendency of any bankruptcy, 
+insolvency, receivership or other similar proceeding, regardless of whether 
+allowed or allowable as a claim in such proceeding), (b) the due and 
+punctual performance of all other obligations of such Loan Party under or 
+pursuant to any Other First Lien Agreement and (c) the due and punctual 
+payment and performance of all the obligations of each other Loan Party 
+under or pursuant to any Other First Lien Agreement.
+
+Other First Lien Secured Parties means, collectively, the holders of 
+Other First Lien Obligations and any Authorized Representative with respect 
+thereto.
+
+Other First Lien Secured Party Consent means a consent substantially in 
+the form of Exhibit I to this Agreement (or such other form as the Agent 
+may agree) executed by the Authorized Representative of any holders of 
+Other First Lien Obligations pursuant to Section 6.18.
+ 
+3
+
+------------------------------------------------------------------------
+Permitted Liens means Liens that are (a) permitted by Article VIA of the 
+Credit Agreement and (b) not prohibited by any Other First Lien Agreement.
+
+Pledged Borrower Stock has the meaning assigned to such term in Section 
+3.01.
+
+Pledged Collateral has the meaning assigned to such term in Section 3.01.
+
+Pledged Securities means any promissory notes, stock certificates or 
+other certificated securities now or hereafter included in the Pledged 
+Collateral, including all certificates, instruments or other documents 
+representing or evidencing any Pledged Collateral.
+
+Prior Agent has the meaning assigned to such term in Section 6.19.
+
+Regulation S-X Excluded Collateral has the meaning assigned to such term 
+in Section 3.01.
+
+Requirement of Law means, as to any person, any law, treaty, rule, 
+regulation, statute, order, ordinance, decree, judgment, consent decree, 
+writ, injunction, settlement agreement or governmental requirement enacted, 
+promulgated or imposed or entered into or agreed by any Governmental 
+Authority or Gaming Authority (including Gaming Laws), in each case 
+applicable to or binding upon such person or any of its property or assets 
+or to which such person or any of its property or assets is subject.
+
+Rule 3-16 has the meaning assigned to such term in Section 3.01.
+
+Secured Obligations means, collectively, the Credit Agreement Secured 
+Obligations and any Other First Lien Obligations, or any of the foregoing 
+(but, excluding, in each case, any Excluded Swap Obligations).
+
+Secured Parties means the persons holding any Secured Obligations and in 
+any event including (i) all Credit Agreement Secured Parties and (ii) all 
+Other First Lien Secured Parties.
+
+Security Documents has the meaning assigned to such term in the Credit 
+Agreement and any analogous term in any Other First Lien Agreement (but, 
+with respect to the Secured Obligations of any Series, the term Security 
+Documents shall not include any document which by its terms is solely for 
+the benefit of the holders of one or more other Series of Secured 
+Obligations and not such Series of Secured Obligations)
+
+Series means (a) with respect to the Secured Parties, each of (i) the 
+Credit Agreement Secured Parties (in their capacities as such) and (ii) the 
+Other First Lien Secured Parties that become subject to this Agreement and 
+the First Lien Intercreditor Agreement after the date hereof that are 
+represented by a common Authorized Representative (in its capacity as such 
+for such Other First Lien Secured Parties) and (b) with respect to any 
+Secured Obligations, each of (i) the Credit Agreement Secured Obligations 
+and (ii) the Other First Lien Obligations incurred pursuant to any Other 
+First Lien Agreement, which pursuant to any Other First Lien Secured Party 
+Consent, are to be represented hereunder by a common Authorized 
+Representative (in its capacity as such for such Other First Lien 
+Obligations).
+ 
+4
+
+------------------------------------------------------------------------
+Specified Excluded Collateral means, solely with respect to any Series of 
+Other First Lien Obligations, any asset that is not intended to be 
+collateral with respect to such Series pursuant to the terms of the Other 
+First Lien Agreement governing such Series (including the Regulation S-X 
+Excluded Collateral to the extent applicable to such Series in accordance 
+with the last paragraph of Section 3.01).
+
+Successor Agent has the meaning assigned to such term in Section 6.19.
+
+Termination Date means the Termination Date as defined in the Credit 
+Agreement.
+
+
+ARTICLE II
+
+Guarantee
+
+SECTION 2.01. The Guarantee.
+
+(a) Guarantee of Secured Obligations. Holdings unconditionally guarantees 
+to the Agent, jointly and severally with the other Guarantors, as a primary 
+obligor and not merely as a surety, the due and punctual payment and 
+performance of the Secured Obligations (such guarantee obligations of 
+Holdings, the Guaranteed Obligations) for the benefit of the Secured 
+Parties. Holdings further agrees that the Guaranteed Obligations may be 
+extended or renewed, in whole or in part, without notice to or further 
+assent from it, and that it will remain bound upon its guarantee 
+notwithstanding any extension or renewal of any Guaranteed Obligation. 
+Holdings waives presentment to, demand of payment from and protest to the 
+Borrower or any other Loan Party of any of the Guaranteed Obligations, and 
+also waives notice of acceptance of its guarantee and notice of protest for 
+nonpayment.
+
+(b) Guarantee of Payment. Holdings further agrees that its guarantee 
+hereunder constitutes a guarantee of payment when due and not of 
+collection, and waives any right to require that any resort be had by the 
+Agent or any other Secured Party to any security held for the payment of 
+the Guaranteed Obligations or to any balance of any deposit account or 
+credit on the books of the Agent or any other Secured Party in favor of the 
+Borrower or any other person.
+
+(c) No Limitations. Except for termination or release of Holdings 
+obligations hereunder as expressly provided for in Section 6.15 and subject 
+to the limitations set forth in clause (h) of this Section 2.01, the 
+obligations of Holdings hereunder shall not be subject to any reduction, 
+limitation, impairment or termination for any reason, including any claim 
+of waiver, release, surrender, alteration or compromise, and shall not be 
+subject to any defense or set-off, counterclaim, recoupment or termination 
+whatsoever by reason of the invalidity, illegality or unenforceability of 
+the Guaranteed Obligations or otherwise (other than defense of payment or 
+performance). Without limiting the generality of the foregoing, the 
+obligations of Holdings hereunder, to the fullest extent permitted by 
+applicable law, shall not be discharged or impaired or otherwise affected 
+by: (i) the failure of the Agent or any other Secured Party to assert any 
+claim or demand or to exercise or enforce any right or remedy under the 
+provisions of any Loan Document or otherwise; (ii) any rescission, waiver, 
+amendment or modification of, or
+ 
+5
+
+------------------------------------------------------------------------
+any release from any of the terms or provisions of, any Loan Document or 
+any other agreement; (iii) the failure to perfect any security interest in, 
+or the exchange, substitution, release or any impairment of, any security 
+held by the Agent or any other Secured Party for the Guaranteed 
+Obligations; (iv) any default, failure or delay, willful or otherwise, in 
+the performance of the Guaranteed Obligations; (v) any other act or 
+omission that may or might in any manner or to any extent vary the risk of 
+any Guarantor or otherwise operate as a discharge of any Guarantor as a 
+matter of law or equity (other than the payment in full in cash in 
+immediately available funds of all the Guaranteed Obligations); (vi) any 
+illegality, lack of validity or enforceability of any Guaranteed 
+Obligation; (vii) any change in the corporate existence, structure or 
+ownership of the Borrower, or any insolvency, bankruptcy, reorganization or 
+other similar proceeding affecting the Borrower or its assets or any 
+resulting release or discharge of any Guaranteed Obligation (other than the 
+payment in full in cash in immediately available funds of all the 
+Guaranteed Obligations); (viii) the existence of any claim, set-off or 
+other rights that Holdings may have at any time against the Borrower, the 
+Agent, or any other corporation or person, whether in connection herewith 
+or any unrelated transactions; provided, that nothing herein will prevent 
+the assertion of any such claim by separate suit or compulsory 
+counterclaim; and (ix) any other circumstance (including, without 
+limitation, any statute of limitations) or any existence of or reliance on 
+any representation by the Agent that might otherwise constitute a defense 
+to, or a legal or equitable discharge of, the Borrower or any other Loan 
+Party or any other guarantor or surety (other than defense of payment or 
+performance).
+
+Holdings expressly authorizes the Agent, on behalf of the Secured Parties, 
+to take and hold security for the payment and performance of the Guaranteed 
+Obligations, to exchange, waive or release any or all such security (with 
+or without consideration), to enforce or apply such security and direct the 
+order and manner of any sale thereof in their sole discretion or to release 
+or substitute any one or more other guarantors or obligors upon or in 
+respect of the Guaranteed Obligations, all without affecting the 
+obligations of Holdings hereunder.
+
+To the fullest extent permitted by applicable law, Holdings waives any 
+defense based on or arising out of any defense of any other Guarantor or 
+the unenforceability of the Guaranteed Obligations or any part thereof from 
+any cause, or the cessation from any cause of the liability of any other 
+Guarantor, other than the payment in full in cash in immediately available 
+funds of all the Guaranteed Obligations. The Agent may, at its election, 
+foreclose on any security held by it by one or more judicial or nonjudicial 
+sales, accept an assignment of any such security in lieu of foreclosure, 
+compromise or adjust any part of the Guaranteed Obligations, make any other 
+accommodation with the Borrower or any other Loan Party or exercise any 
+other right or remedy available to it against the Borrower or any other 
+Loan Party, without affecting or impairing in any way the liability of 
+Holdings hereunder, except to the extent the Guaranteed Obligations have 
+been paid in full in cash in immediately available funds. To the fullest 
+extent permitted by applicable law, Holdings waives any defense arising out 
+of any such election even though such election operates, pursuant to 
+applicable law, to impair or to extinguish any right of reimbursement or 
+subrogation or other right or remedy of Holdings against any other 
+Guarantor, as the case may be, or any security.
+ 
+6
+
+------------------------------------------------------------------------
+(d) Reinstatement. Notwithstanding the provisions of Section 6.15, Holdings 
+agrees that its guarantee hereunder shall continue to be effective or be 
+reinstated, as the case may be, if at any time payment, or any part 
+thereof, of any Guaranteed Obligation is rescinded or must otherwise be 
+restored or returned by the Agent or any other Secured Party upon the 
+insolvency, bankruptcy, dissolution, liquidation or reorganization of the 
+Borrower or any other Loan Party, or upon or as a result of the appointment 
+of a receiver, intervenor or conservator of, or trustee or similar officer 
+for, the Borrower or any other Loan Party or any substantial part of its 
+property, or otherwise, all as though such payment had not been made.
+
+(e) Agreement To Pay. In furtherance of the foregoing and not in limitation 
+of any other right that the Agent or any other Secured Party has at law or 
+in equity against Holdings by virtue hereof, upon the failure of the 
+Borrower or any other Loan Party to pay any Guaranteed Obligation when and 
+as the same shall become due, whether at maturity, by acceleration, after 
+notice of prepayment or otherwise, Holdings hereby promises to and will 
+forthwith pay, or cause to be paid, to the Agent for distribution to the 
+applicable Secured Party in cash in immediately available funds the amount 
+of such unpaid Guaranteed Obligation.
+
+(f) Information. Holdings assumes all responsibility for being and keeping 
+itself informed of the Borrowers and each other Loan Partys financial 
+condition and assets, and of all other circumstances bearing upon the risk 
+of nonpayment of the Guaranteed Obligations and the nature, scope and 
+extent of the risks that Holdings assumes and incurs hereunder, and agrees 
+that neither the Agent nor any other Secured Party will have any duty to 
+advise Holdings of information known to it or any of them regarding such 
+circumstances or risks.
+
+(g) Maximum Liability. Holdings, and by its acceptance of this Agreement, 
+the Agent and each Secured Party, hereby confirm that it is the intention 
+of all such persons that this Agreement and the Guaranteed Obligations not 
+constitute a fraudulent transfer or conveyance for purposes of the U.S. 
+Bankruptcy Code or any other federal, state or foreign bankruptcy, 
+insolvency, receivership or similar law, the Uniform Fraudulent Conveyance 
+Act, the Uniform Fraudulent Transfer Act or any similar foreign, federal or 
+state law to the extent applicable to this Agreement and the Guaranteed 
+Obligations. To effectuate the foregoing intention, the Agent, the Secured 
+Parties and Holdings hereby irrevocably agree that the Guaranteed 
+Obligations at any time shall be limited to the maximum amount as will 
+result in the Guaranteed Obligations not constituting a fraudulent transfer 
+or conveyance.
+
+(h) Limited Recourse. Notwithstanding anything herein or in the Credit 
+Agreement, any other Loan Document or any Other First Lien Agreement to the 
+contrary, the Guaranteed Obligations are limited recourse obligations 
+payable solely from the Pledged Collateral pledged by Holdings hereunder 
+and, following realization of the Pledged Collateral pledged by Holdings 
+(whether through sale, foreclosure or otherwise) and the application 
+thereof in accordance with this Agreement, such Guaranteed Obligations 
+shall be extinguished and shall not revive.
+
+
+ARTICLE III
+
+Pledge of Equity Interests
+
+SECTION 3.01. Pledge. As security for the payment or performance, as the 
+case may be, in full of the Guaranteed Obligations, Holdings hereby assigns 
+and pledges to the Agent, its successors and permitted assigns, for the 
+benefit of the Secured Parties, and hereby grants to the Agent, its 
+successors and permitted assigns, for the benefit of the Secured Parties, a 
+security interest in all of Holdings right, title and interest in, to and 
+under:
+ 
+7
+
+------------------------------------------------------------------------
+(a) the Equity Interests of the Borrower directly owned by Holdings (which 
+such Equity Interests as of the Closing Date shall be listed on Schedule I
+) and any certificates representing all such Equity Interests 
+(collectively, the Pledged Borrower Stock);
+
+(b) subject to Section 3.08, all payments of principal or interest, 
+dividends, cash, instruments and other property from time to time received, 
+receivable or otherwise distributed in respect of, in exchange for or upon 
+the conversion of, and all other proceeds received in respect of, the 
+Pledged Borrower Stock;
+
+(c) subject to Section 3.08, all rights and privileges of Holdings with 
+respect to the Pledged Borrower Stock and other property referred to in 
+clause (b) above; and
+
+(d) all proceeds of any of the foregoing (the items referred to in clauses 
+(a) through this clause (d) being collectively referred to as the Pledged 
+Collateral); provided that the Pledged Collateral shall not include any 
+Excluded Property.
+
+TO HAVE AND TO HOLD the Pledged Collateral, together with all right, title, 
+interest, powers, privileges and preferences pertaining or incidental 
+thereto, unto the Agent, its successors and permitted assigns, for the 
+benefit of the Secured Parties, forever; subject, however, to the terms, 
+covenants and conditions hereinafter set forth.
+
+Notwithstanding anything else to the contrary, in the event that Rule 3-16 
+of Regulation S-X under the Securities Act (as such Rule 3-16 may be 
+amended, modified or interpreted by the SEC, Rule 3-16) would require (or 
+is replaced with another rule or regulation, or any other law, rule or 
+regulation is adopted, which would require) the filing with the SEC (or any 
+other Governmental Authority) of separate financial statements of the 
+Borrower due to the fact that the Pledged Borrower Stock secures any Series 
+of the Other First Lien Obligations affected thereby, then the Pledged 
+Borrower Stock (the Regulation S-X Excluded Collateral) will 
+automatically be deemed not to be part of the Pledged Collateral securing 
+such Series of Other First Lien Obligations affected thereby, but only to 
+the extent necessary to not be subject to such requirement and only for so 
+long as required to not be subject to such requirement. In such event, this 
+Agreement may be amended or modified, without the consent of any Secured 
+Party, to the extent necessary to release the Lien on the Regulation S-X 
+Excluded Collateral in favor of the Agent with respect only to the relevant 
+Series of Other First Lien Obligations. In the event that Rule 3-16 is 
+amended, modified or interpreted by the SEC to permit (or is replaced with 
+another rule or regulation, or any other law, rule or regulation is 
+adopted, which would permit) any Regulation S-X Excluded Collateral to 
+secure the Other First Lien Obligations in excess of the amount then 
+pledged without the filing with the SEC (or any other Governmental 
+Authority) of separate financial statements of the Borrower, then the 
+Pledged Borrower Stock will automatically be deemed to be a part of the 
+Pledged Collateral for the relevant Series of Other First Lien Obligations. 
+For the avoidance of doubt and notwithstanding anything to the contrary in 
+this Agreement, nothing in this paragraph shall limit the pledge of such 
+Pledged Borrower Stock and other securities from securing the Secured 
+Obligations (other than the relevant Series of Other First Lien 
+Obligations) at all relevant times
+ 
+8
+
+------------------------------------------------------------------------
+or from securing any Other First Lien Obligations that are not in respect 
+of securities subject to regulation by the SEC. To the extent any proceeds 
+of any collection or sale of Pledged Borrower Stock deemed by this 
+paragraph to no longer constitute part of the Pledged Collateral for the 
+relevant Series of Other First Lien Obligations are to be applied by the 
+Agent in accordance with Section 5.02 hereof, such proceeds shall, 
+notwithstanding the terms of Section 5.02 and the First Lien Intercreditor 
+Agreement, not be applied to the payment of such Series of Other First Lien 
+Obligations.
+
+SECTION 3.02. Delivery of Pledged Collateral.
+
+(a) Subject to the provisions of Section 6.16, Holdings agrees promptly 
+(and in any event within 45 days after the acquisition or such longer time 
+as the Applicable First Lien Representative shall permit in its reasonable 
+discretion) to deliver or cause to be delivered to the Agent, for the 
+benefit of the Secured Parties, any and all Pledged Securities.
+
+(b) Subject to the provisions of Section 6.16, upon delivery to the Agent 
+within the time period set forth in clause (a) above, (i) any Pledged 
+Securities required to be delivered pursuant to the foregoing paragraph (a) 
+of this Section 3.02 shall be accompanied by stock powers, duly executed in 
+blank or other instruments of transfer reasonably satisfactory to the Agent 
+and by such other instruments and documents as the Agent may reasonably 
+request and (ii) all other property comprising part of the Pledged 
+Collateral delivered pursuant to the terms of this Agreement shall be 
+accompanied to the extent necessary to perfect the security interest in or 
+allow realization on the Pledged Collateral by proper instruments of 
+assignment duly executed by Holdings and such other instruments or 
+documents as the Agent may reasonably request. Each delivery of Pledged 
+Securities shall be accompanied by a schedule describing the securities, 
+which schedule shall be attached hereto as Schedule I (or a supplement to 
+Schedule I, as applicable) and made a part hereof; provided, that failure 
+to attach any such schedule hereto shall not affect the validity of such 
+pledge of such Pledged Collateral. Each schedule so delivered shall be 
+deemed to supplement any prior schedules so delivered.
+
+SECTION 3.03. Representations and Warranties. Holdings represents and 
+warrants to the Agent, for the benefit of the Secured Parties:
+
+(a) the Pledged Borrower Stock listed on Schedule I (as such Schedule may 
+be updated from time to time) constitutes all of the issued and outstanding 
+Equity Interests of the Borrower issued to Holdings;
+
+(b) the Pledged Borrower Stock has been duly and validly authorized and 
+issued and are fully paid;
+
+(c) Holdings is the direct record and beneficial owner of, and has good 
+title to, the Pledged Borrower Stock listed on Schedule I (as such Schedule 
+may be updated from time to time) owned by Holdings, free of any and all 
+Liens except Permitted Liens; and
+
+(d) other than as set forth in the Credit Agreement or the schedules 
+thereto or, after the termination of the Credit Agreement, in any Other 
+First Lien Agreement, and except for restrictions and limitations imposed 
+by the Loan Documents and any Other First Lien Agreement then in effect, 
+Gaming Laws or securities laws generally or otherwise not prohibited by the 
+Loan Documents and any Other First Lien
+ 
+9
+
+------------------------------------------------------------------------
+Agreement then in effect, the Pledged Borrower Stock is and will continue 
+to be freely transferable and assignable, and none of the Pledged Borrower 
+Stock is or will be subject to any option, right of first refusal, 
+shareholders agreement, charter, by-law, memorandum of association or 
+articles of association provisions or contractual restriction of any nature 
+that might prohibit, impair, delay or otherwise affect the pledge of the 
+Pledged Collateral hereunder, the Disposition thereof pursuant hereto or 
+the exercise by the Agent of rights and remedies hereunder other than under 
+applicable Requirements of Law (including Gaming Laws);
+
+(e) Holdings has the power and authority to pledge the Pledged Collateral 
+pledged by it hereunder in the manner hereby done or contemplated;
+
+(f) other than as set forth in the Credit Agreement or the schedules 
+thereto or in the other Loan Documents or as required under Gaming Laws, as 
+of the Closing Date, no consent or approval of any Governmental Authority, 
+any securities exchange or any other person was or is necessary to the 
+validity of the pledge effected hereby (other than such as have been 
+obtained and are in full force and effect);
+
+(g) by virtue of the execution and delivery by Holdings of this Agreement, 
+when the Pledged Securities are delivered to the Agent, for the benefit of 
+the Secured Parties, in accordance with this Agreement, and a Uniform 
+Commercial Code financing statement naming the Agent as the secured party 
+and covering the Pledged Collateral is filed in the appropriate filing 
+office, the Agent will obtain, for the benefit of the Secured Parties, a 
+legal, valid and perfected lien upon and security interest in such Pledged 
+Collateral, subject only to Permitted Liens, as security for the payment of 
+the Guaranteed Obligations, to the extent such perfection is governed by 
+the Uniform Commercial Code.
+
+SECTION 3.04. Covenants. Holdings covenants and agrees with the Agent and 
+the Secured Parties, that, from and after the date of this Agreement until 
+the date of its termination pursuant to Section 6.15(a):
+
+(a) Holdings agrees to pay, and to save the Agent and the Secured Parties 
+harmless from, any and all liabilities with respect to, or resulting from 
+any delay in paying, any and all stamp, excise, sales or other similar 
+taxes which may be payable or determined to be payable with respect to any 
+of the Pledged Collateral or in connection with any of the transactions 
+contemplated by this Agreement all in accordance with all of the terms, 
+covenants and agreements that Section 2.17 of the Credit Agreement requires 
+Holdings to perform or observe, subject to the qualifications set forth 
+therein.
+
+(b) Holdings agrees to furnish to the Agent prompt written notice of any 
+change in (i) its organization name, (ii) its identity or organizational 
+structure, (iii) its organizational identification number, (iv) its 
+jurisdiction of organization or (v) the location of its chief executive 
+office if it is not a registered organization; provided that Holdings 
+agrees not to effect or permit any such change unless all filings have been 
+made, or will have been made within any applicable statutory period 
+following such change, under the Uniform Commercial Code or otherwise that 
+are required in order for the Agent to continue at all times following such 
+change to have a valid, legal and perfected security interest in all the 
+Pledged Collateral in which a security interest may be perfected by such 
+filing, for the benefit of the Secured Parties.
+ 
+10
+
+------------------------------------------------------------------------
+(c) Holdings agrees it will make no assignment, pledge, hypothecation or 
+transfer of, or create or permit to exist any security interest in or other 
+Lien on, the Pledged Collateral, and will not Dispose of any other Pledged 
+Collateral, in each case other than pursuant to a transaction not 
+prohibited by any Loan Document and any Other First Lien Agreement then in 
+effect and other than Permitted Liens.
+
+(d) Subject to the rights of Holdings under the Loan Documents and each 
+Other First Lien Agreement then in effect to Dispose of Pledged Collateral, 
+Holdings shall, at its own expense, use commercially reasonable efforts to 
+defend its title to the Pledged Collateral against all persons and to 
+defend the security interest of the Agent, for the benefit of the Secured 
+Parties, in the Pledged Collateral and the priority thereof against any 
+Lien that is not a Permitted Lien.
+
+(e) Holdings agrees, at its own expense, to execute, acknowledge, deliver 
+and cause to be duly filed all such further instruments and documents and 
+take all such actions as the Agent may from time to time reasonably request 
+to better assure, preserve, protect and perfect the Agents security 
+interest and the rights and remedies created hereby, including the payment 
+of any fees and taxes required in connection with the execution and 
+delivery of this Agreement and the granting of the security interest and 
+the filing of any financing statements or other documents in connection 
+herewith or therewith.
+
+SECTION 3.05. Registration in Nominee Name; Denominations. The Agent, on 
+behalf of the Secured Parties, shall have the right (in its sole and 
+absolute discretion) to hold the Pledged Securities in the name of 
+Holdings, endorsed or assigned in blank or in favor of the Agent or, if an 
+Event of Default shall have occurred and be continuing, in its own name as 
+pledgee or the name of its nominee (as pledgee or as sub-agent). Following 
+the occurrence and during the continuance of an Event of Default, Holdings 
+will promptly give to the Agent copies of any notices or other 
+communications received by it with respect to Pledged Securities registered 
+in the name of Holdings. If an Event of Default shall have occurred and be 
+continuing, the Agent shall have the right to exchange the certificates 
+representing Pledged Securities for certificates of smaller or larger 
+denominations for any purpose consistent with this Agreement. Holdings 
+shall use its commercially reasonable efforts to cause any Subsidiary of 
+the Borrower that is not a party to this Agreement to comply with a request 
+by the Agent, pursuant to this Section 3.05, to exchange certificates 
+representing Pledged Securities of such Subsidiary for certificates of 
+smaller or larger denominations.
+
+SECTION 3.06. Financing Statements. Holdings hereby irrevocably authorizes 
+the Agent at any time and from time to time to file in any relevant 
+jurisdiction any initial financing statements with respect to the Pledged 
+Collateral or any part thereof and amendments thereto that contain the 
+information required by Article 9 of the Uniform Commercial Code of each 
+applicable jurisdiction for the filing of any financing statement or 
+amendment, including (i) whether Holdings is an organization, the type of 
+organization and any organizational identification number issued to 
+Holdings and (ii) a description of collateral that describes such property 
+in any other manner as the Agent may reasonably determine is necessary or 
+advisable to ensure the perfection of the security interest in the Pledged 
+Collateral.
+ 
+11
+
+------------------------------------------------------------------------
+SECTION 3.07. Certification of Pledged Borrower Stock. Holdings hereby 
+represents and warrants to the Agent for the benefit of the Secured Parties 
+that as of the Closing Date none of the Pledged Borrower Stock is a 
+security (within the meaning of Section 8-103 of the New York UCC or the 
+corresponding code or statute of any other applicable jurisdiction) and 
+covenants that Holdings shall at no time elect to treat any of the Pledged 
+Borrower Stock as a security or issue any certificate representing such 
+interest unless Holdings provides the Agent notification thereof and 
+delivers any such certificate to the Agent pursuant to Section 3.02(a).
+
+SECTION 3.08. Voting Rights; Dividends and Interest, Etc.
+
+(a) Unless and until an Event of Default shall have occurred and be 
+continuing and the Agent shall have given written notice to Holdings of the 
+Agents intention to exercise its rights hereunder:
+
+(i) Holdings shall be entitled to exercise any and all voting and/or other 
+consensual rights and powers inuring to an owner of Pledged Collateral or 
+any part thereof for any purpose not prohibited by the terms of this 
+Agreement, the Credit Agreement and each Other First Lien Agreement then in 
+effect; provided that, except as not prohibited by the Credit Agreement, 
+any other Loan Documents and each Other First Lien Agreement then in 
+effect, such rights and powers shall not be exercised in any manner that 
+could materially and adversely affect the rights and remedies of the Agent 
+or any other Secured Party under this Agreement, the Credit Agreement, any 
+other Loan Documents or any Other First Lien Agreement or the ability of 
+the Secured Parties to exercise the same.
+
+(ii) The Agent shall promptly execute and deliver to Holdings, or cause to 
+be executed and delivered to Holdings, all such proxies, powers of attorney 
+and other instruments as Holdings may reasonably request for the purpose of 
+enabling Holdings to exercise the voting and/or consensual rights and 
+powers it is entitled to exercise pursuant to subparagraph (i) above.
+
+(iii) Holdings shall be entitled to receive and retain any and all 
+dividends, interest, principal and other distributions paid on or 
+distributed in respect of the Pledged Collateral to the extent and only to 
+the extent that such dividends, interest, principal and other distributions 
+are not prohibited by, and otherwise paid or distributed in accordance 
+with, the terms and conditions of the Credit Agreement, any other Loan 
+Documents and each Other First Lien Agreement then in effect and applicable 
+laws; provided that any noncash dividends, interest, principal or other 
+distributions that would constitute Pledged Borrower Stock, whether 
+resulting from a subdivision, combination or reclassification of the 
+outstanding Equity Interests of the Borrower, received in exchange for 
+Pledged Borrower Stock or any part thereof, or in redemption thereof or as 
+a result of any merger, consolidation, acquisition or other exchange of 
+assets to which the Borrower may be a party or otherwise, shall be and 
+become part of the Pledged Collateral, and, if received by Holdings, shall 
+be promptly (and in any event within 45 days following their receipt (or 
+such longer time as the Applicable First Lien Representative shall permit 
+in its reasonable discretion)) delivered to the Agent, for the benefit of 
+the Secured Parties, in the same form as so received (endorsed in a manner 
+reasonably satisfactory to the Agent).
+ 
+12
+
+------------------------------------------------------------------------
+(b) Upon the occurrence and during the continuance of an Event of Default 
+and upon written notice by the Agent to Holdings of the Agents intention 
+to exercise its rights hereunder, all rights of Holdings to receive 
+dividends, interest, principal or other distributions with respect to the 
+Pledged Securities that Holdings is authorized to receive pursuant to 
+paragraph (a)(iii) of this Section 3.08 shall cease, and all such rights 
+shall thereupon become vested, for the benefit of the Secured Parties, in 
+the Agent, which shall have the sole and exclusive right and authority to 
+receive and retain such dividends, interest, principal or other 
+distributions ; provided that, notwithstanding the occurrence and 
+continuation of an Event of Default, Holdings may continue to receive 
+dividends and distributions made pursuant to subclause (i), subclause (iii) 
+and subclause (v) of Section 6.06(b) of the Credit Agreement. All 
+dividends, interest, principal or other distributions received by Holdings 
+contrary to the provisions of this Section 3.08 shall not be commingled by 
+Holdings with any of its other funds or property but shall be held separate 
+and apart therefrom, shall be held in trust for the benefit of the Agent, 
+for the benefit of the Secured Parties, and shall be forthwith delivered to 
+the Agent, for the benefit of the Secured Parties, in the same form as so 
+received (endorsed in a manner reasonably satisfactory to the Agent). Any 
+and all money and other property paid over to or received by the Agent 
+pursuant to the provisions of this paragraph (b) shall be retained by the 
+Agent in an account to be established by the Agent upon receipt of such 
+money or other property and shall be applied in accordance with the 
+provisions of Section 5.02. After all Events of Default have been cured or 
+waived and the Borrower has delivered to the Agent a certificate to that 
+effect, the Agent shall promptly repay to Holdings (without interest) all 
+dividends, interest, principal or other distributions that Holdings would 
+otherwise be permitted to retain pursuant to the terms of paragraph 
+(a)(iii) of this Section 3.08 and that remain in such account.
+
+(c) Upon the occurrence and during the continuance of an Event of Default 
+and after written notice by the Agent to Holdings of the Agents intention 
+to exercise its rights hereunder, subject to applicable Gaming Laws, all 
+rights of Holdings to exercise the voting and/or consensual rights and 
+powers it is entitled to exercise pursuant to paragraph (a)(i) of this 
+Section 3.08, and the obligations of the Agent under paragraph (a)(ii) of 
+this Section 3.08, shall cease, and all such rights shall thereupon become 
+vested in the Agent, for the benefit of the Secured Parties, which shall 
+have the sole and exclusive right and authority to exercise such voting and 
+consensual rights and powers; provided that, unless otherwise directed by 
+the Applicable First Lien Representative, the Agent shall have the right 
+from time to time following and during the continuance of an Event of 
+Default to permit Holdings to exercise such rights. After all Events of 
+Default have been cured or waived and the Borrower has delivered to the 
+Agent a certificate to that effect, all rights of Holdings to exercise the 
+voting and/or other consensual rights and powers it is entitled to exercise 
+pursuant to paragraph (a)(i) of this Section 3.08 shall continue and all 
+such rights shall no longer be vested in the Agent for the benefit of the 
+Secured Parties, and the obligations of the Agent under paragraph (a)(ii) 
+of this Section 3.08 shall be reinstated,
+ 
+13
+
+------------------------------------------------------------------------
+(d) Any notice given by the Agent to Holdings suspending Holdings rights 
+under paragraph (a)(i) of this Section 3.08 may be given by telephone if 
+promptly confirmed in writing and (ii) may suspend the rights of Holdings 
+under paragraph (a)(i) or paragraph (a)(iii) of this Section 3.08 in part 
+without suspending all such rights (as specified by the Agent in its sole 
+and absolute discretion) and without waiving or otherwise affecting the 
+Agents rights to give additional notices from time to time suspending 
+other rights so long as an Event of Default has occurred and is continuing.
+
+SECTION 3.09. Powers Coupled with an Interest. All authorizations and 
+agencies herein contained with respect to the Pledged Collateral are 
+irrevocable and powers coupled with an interest.
+
+
+ARTICLE IV
+
+[Reserved]
+
+
+ARTICLE V
+
+Remedies
+
+SECTION 5.01. Remedies Upon Default . In accordance with, and to the extent 
+consistent with, the terms of any applicable Intercreditor Agreement and 
+applicable Requirements of Law (including Gaming Laws), the Agent may take 
+any action specified in this Section 5.01. If an Event of Default shall 
+occur and be continuing and the Agent shall have given notice of its intent 
+to exercise its rights hereunder to Holdings, the Agent, on behalf of the 
+Secured Parties, may exercise, in addition to all other rights and remedies 
+granted in this Agreement and in any other instrument or agreement 
+securing, evidencing or relating to the Secured Obligations, all rights and 
+remedies of a secured party under the New York UCC or applicable law. 
+Without limiting the generality of the foregoing, the Agent, without demand 
+of performance or other demand, presentment, protest, advertisement or 
+notice of any kind (except any notice required by law referred to below and 
+any notice referred to in the preceding sentence) to or upon Holdings, the 
+Borrower, or any other Person (all and each of which demands, defenses, 
+advertisements and notices are hereby waived), may in such circumstances 
+forthwith collect, receive, appropriate and realize upon the Pledged 
+Collateral, or any part thereof, and/or may forthwith sell, assign, give 
+option or options to purchase or otherwise Dispose of and deliver the 
+Pledged Collateral or any part thereof (or contract to do any of the 
+foregoing), in one or more parcels at public or private sale or sales, in 
+the over-the-counter market, at any exchange or brokers board or office of 
+the Agent or any Secured Party or elsewhere upon such terms and conditions 
+as it may deem advisable and at such prices as it may deem best, for cash 
+or on credit or for future delivery without assumption of any credit risk. 
+The Agent shall give Holdings 10 days written notice (which Holdings 
+agrees is reasonable notice within the meaning of Section 9-611 of the New 
+York UCC or its equivalent in other jurisdictions) of the Agents intention 
+to make any Disposition of Pledged Collateral. Such notice, in the case of 
+a public sale, shall state the time and place for such sale and, in the 
+case of a sale at a brokers board or on a securities exchange, shall state 
+the board or exchange at which such sale is to be made and the day on which 
+the Pledged Collateral, or portion thereof, will first be offered for sale 
+at such board or exchange. Any such public sale shall be held at such time 
+or times within ordinary business hours and at such place or places as the 
+Agent may fix and state in the notice (if any) of such sale. At any such 
+sale, the Pledged Collateral, or the portion thereof, to be sold may be 
+sold in one lot as an entirety or in separate parcels, as the Agent may
+ 
+14
+
+------------------------------------------------------------------------
+(in its sole and absolute discretion) determine. The Agent shall not be 
+obligated to make any sale of any Pledged Collateral if it shall determine 
+not to do so, regardless of the fact that notice of sale of such Pledged 
+Collateral shall have been given. The Agent or any Secured Party shall have 
+the right upon any such public sale or sales, and, to the extent permitted 
+by law, upon any such private sale or sales, to purchase the whole or any 
+part of the Pledged Collateral so sold, free of any right or equity of 
+redemption in Holdings, which right or equity is hereby waived or released.
+
+SECTION 5.02. Application of Proceeds. The Agent shall, subject to any 
+applicable Intercreditor Agreement, promptly apply the proceeds, moneys or 
+balances of any collection or sale of Pledged Collateral realized through 
+the exercise by the Agent of its remedies hereunder, as well as any Pledged 
+Collateral consisting of cash at any time when remedies are being exercised 
+hereunder, as follows:
+
+FIRST, to the payment of all out-of-pocket costs and expenses incurred by 
+the Agent in connection with such collection or sale or otherwise in 
+connection with this Agreement, any other Loan Document, any Other First 
+Lien Agreement or any of the Guaranteed Obligations, including all court 
+costs and the fees and expenses of its agents and legal counsel, the 
+repayment of all advances made by the Agent hereunder or under any other 
+Loan Document or any Other First Lien Agreement on behalf of Holdings, any 
+other costs or expenses incurred in connection with the exercise of any 
+right or remedy hereunder or under any other Loan Document or any Other 
+First Lien Agreement, and other fees, indemnities and other amounts owing 
+or reimbursable to the Agent under any Loan Document or any Other First 
+Lien Agreement in its capacity as such;
+
+SECOND, to the payment in full of the Guaranteed Obligations secured by 
+such Pledged Collateral (the amounts so applied to be distributed among the 
+Series of Secured Obligations pro rata based on the respective amounts of 
+such Secured Obligations owed to the applicable Secured Parties in respect 
+of each Series on the date of any such distribution (or in accordance with 
+such other method of distribution as may be set forth in any applicable 
+Intercreditor Agreement), with (x) the portion thereof distributed to the 
+Credit Agreement Secured Parties to be further distributed in accordance 
+with the order of priority set forth in Section 7.02 of the Credit 
+Agreement and (y) the portion thereof distributed to the Secured Parties of 
+any other Series to be further distributed in accordance with the 
+applicable provisions of the Other First Lien Agreements governing such 
+Series); and
+
+THIRD, to Holdings, its successors or assigns, or as a court of competent 
+jurisdiction may otherwise direct;
+
+provided, that in no event shall the proceeds of any collection or sale of 
+any Specified Excluded Collateral be applied to the relevant Series of 
+Secured Obligations under any Other First Lien Agreement.
+ 
+15
+
+------------------------------------------------------------------------
+The Agent shall have absolute discretion as to the time of application of 
+any such proceeds, moneys or balances in accordance with this Agreement. 
+Upon the request of the Agent prior to any distribution under this Section 
+5.02, each Authorized Representative shall provide to the Agent 
+certificates, in form and substance reasonably satisfactory to the Agent, 
+setting forth the respective amounts referred to in this Section 5.02 that 
+each applicable Secured Party or its Authorized Representative believes it 
+is entitled to receive, and the Agent shall be fully entitled to rely on 
+such certificates. Upon any sale of Pledged Collateral by the Agent 
+(including pursuant to a power of sale granted by statute or under a 
+judicial proceeding), the receipt of the purchase money by the Agent or of 
+the officer making the sale shall be a sufficient discharge to the 
+purchaser or purchasers of the Pledged Collateral so sold and such 
+purchaser or purchasers shall not be obligated to see to the application of 
+any part of the purchase money paid over to the Agent or such officer or be 
+answerable in any way for the misapplication thereof.
+
+SECTION 5.03. Securities Act, Etc. In view of the position of Holdings in 
+relation to the Pledged Collateral, or because of other current or future 
+circumstances, a question may arise under the Securities Act, or any 
+similar federal statute hereafter enacted analogous in purpose or effect 
+(such Act and any such similar statute as from time to time in effect being 
+called the Federal Securities Laws) with respect to any Disposition of 
+the Pledged Collateral permitted hereunder. Holdings understands that 
+compliance with the Federal Securities Laws might very strictly limit the 
+course of conduct of the Agent if the Agent were to attempt to Dispose of 
+all or any part of the Pledged Collateral, and might also limit the extent 
+to which or the manner in which any subsequent transferee of any Pledged 
+Collateral could Dispose of the same. Similarly, there may be other legal 
+restrictions or limitations affecting the Agent in any attempt to Dispose 
+of all or part of the Pledged Collateral under applicable Blue Sky or other 
+state securities laws or similar laws analogous in purpose or effect. 
+Holdings acknowledges and agrees that in light of such restrictions and 
+limitations, the Agent, subject to any applicable Intercreditor Agreement, 
+in its sole and absolute discretion, (a) may proceed to make such a sale 
+whether or not a registration statement for the purpose of registering such 
+Pledged Collateral or part thereof shall have been filed under the Federal 
+Securities Laws or, to the extent applicable, Blue Sky or other state 
+securities laws and (b) may approach and negotiate with a single potential 
+purchaser to effect such sale. Holdings acknowledges and agrees that any 
+such sale might result in prices and other terms less favorable to the 
+seller than if such sale were a public sale without such restrictions. In 
+the event of any such sale, the Agent shall incur no responsibility or 
+liability for selling all or any part of the Pledged Collateral at a price 
+that the Agent, subject to any applicable Intercreditor Agreement, in its 
+sole and absolute discretion, may in good faith deem reasonable under the 
+circumstances, notwithstanding the possibility that a substantially higher 
+price might have been realized if the sale were deferred until after 
+registration as aforesaid or if more than a single purchaser were 
+approached. The provisions of this Section 5.03 will apply notwithstanding 
+the existence of a public or private market upon which the quotations or 
+sales prices may exceed substantially the price at which the Agent sells.
+ 
+16
+
+------------------------------------------------------------------------
+ARTICLE VI
+
+Miscellaneous
+
+SECTION 6.01. Notices. All communications and notices hereunder shall 
+(except as otherwise expressly permitted herein) be in writing and given as 
+provided in Section 9.01 of the Credit Agreement (whether or not then in 
+effect), and all notices to any holder of obligations under any Other First 
+Lien Agreements shall be given at its address set forth in the Other First 
+Lien Secured Party Consent or in the First Lien Intercreditor Agreement 
+(upon and during the effectiveness thereof), in each case of the foregoing, 
+as such address may be changed by written notice to the Agent and Holdings.
+
+SECTION 6.02. Security Interest Absolute. To the extent not prohibited by 
+applicable law and subject to Section 2.01(h), all rights of the Agent 
+hereunder, the security interest in the Pledged Collateral and all 
+obligations of Holdings hereunder shall be absolute and unconditional 
+irrespective of (a) any lack of validity or enforceability of any Loan 
+Document, any other agreement with respect to any of the Secured 
+Obligations or any other agreement or instrument relating to any of the 
+foregoing, (b) any change in the time, manner or place of payment of, or in 
+any other term of, all or any of the Secured Obligations, or any other 
+amendment or waiver of or any consent to any departure from any Loan 
+Document or any other agreement or instrument, (c) any exchange, release or 
+non-perfection of any Lien on other collateral, or any release or amendment 
+or waiver of or consent under or departure from any guarantee, securing or 
+guaranteeing all or any of the Secured Obligations or (d) any other 
+circumstance that might otherwise constitute a defense available to, or a 
+discharge of, Holdings in respect of the Secured Obligations or this 
+Agreement (other than a defense of payment or performance).
+
+SECTION 6.03. Limitation by Law. All rights, remedies and powers provided 
+in this Agreement may be exercised only to the extent that the exercise 
+thereof does not violate any applicable Requirement of Law (including any 
+Gaming Law), and all the provisions of this Agreement are intended to be 
+subject to all applicable Requirements of Law (including any Gaming Law) 
+that may be controlling and to be limited to the extent necessary so that 
+they shall not render this Agreement invalid, unenforceable, in whole or in 
+part, or not entitled to be recorded, registered or filed under the 
+provisions of any applicable Requirement of Law (including any Gaming Law).
+
+SECTION 6.04. Binding Effect; Several Agreement. This Agreement shall 
+become effective as to any party to this Agreement when a counterpart 
+hereof executed on behalf of such party shall have been delivered to the 
+Agent and a counterpart hereof shall have been executed on behalf of the 
+Agent, and thereafter shall be binding upon such party and the Agent and 
+their respective permitted successors and assigns, and shall inure to the 
+benefit of such party, the Agent and the other Secured Parties and their 
+respective permitted successors and assigns, except that no party shall 
+have the right to assign or transfer its rights or obligations hereunder or 
+any interest herein or in the Pledged Collateral (and any such assignment 
+or transfer shall be void) except as not prohibited by this Agreement or 
+the Credit Agreement or, after the termination of the Credit Agreement, any 
+Other First Lien Agreement. This Agreement shall be construed as a separate 
+agreement with respect to each party and may be amended, modified, 
+supplemented, waived or released in accordance with Section 6.09 or 6.15, 
+as applicable.
+
+SECTION 6.05. Successors and Assigns. Whenever in this Agreement any of the 
+parties hereto is referred to, such reference shall be deemed to include 
+the permitted successors and assigns of such party; and all covenants, 
+promises and agreements by or on behalf of Holdings or the Agent that are 
+contained in this Agreement shall bind and inure to the benefit of their 
+respective permitted successors and assigns.
+ 
+17
+
+------------------------------------------------------------------------
+SECTION 6.06. Agents Fees and Expenses.
+
+(a) The parties hereto agree that the Agent shall be entitled to 
+reimbursement of its expenses incurred hereunder by Holdings, and the Agent 
+and other Indemnitees shall be indemnified by Holdings, in each case of 
+this clause (a), mutatis mutandis, as provided in Section 9.05 of the 
+Credit Agreement and the equivalent provision of any Other First Lien 
+Agreement.
+
+(b) Any such amounts payable as provided hereunder shall be additional 
+Secured Obligations secured hereby and by the other Security Documents. The 
+provisions of this Section 6.06 shall remain operative and in full force 
+and effect regardless of the termination of this Agreement, any other Loan 
+Document or any Other First Lien Agreement, the consummation of the 
+transactions contemplated hereby, the repayment of any of the Secured 
+Obligations, the invalidity or unenforceability of any term or provision of 
+this Agreement, any other Loan Document or any Other First Lien Agreement, 
+or any investigation made by or on behalf of the Agent or any other Secured 
+Party. All amounts due under this Section 6.06 shall be payable within 
+fifteen days (or such longer period as the Agent may agree) of written 
+demand therefor, accompanied by reasonable documentation with respect to 
+any reimbursement, indemnification or other amount requested.
+
+(c) The agreements in this Section 6.06 shall survive the resignation of 
+the Agent and the termination of this Agreement.
+
+SECTION 6.07. Agent Appointed Attorney-in-Fact. Holdings hereby appoints 
+the Agent the attorney-in-fact of Holdings for the purpose of carrying out 
+the provisions of this Agreement and, upon the occurrence and during the 
+continuance of an Event of Default, taking any action and executing any 
+instrument that the Agent may deem necessary or advisable to accomplish the 
+purposes hereof, which appointment is irrevocable and coupled with an 
+interest. Without limiting the generality of the foregoing, subject to any 
+applicable Requirements of Law (including Gaming Laws) and any applicable 
+Intercreditor Agreement, the Agent shall have the right, upon the 
+occurrence and during the continuance of an Event of Default, with full 
+power of substitution either in the Agents name or in the name of 
+Holdings, (a) to receive, endorse, assign or deliver any and all notes, 
+acceptances, checks, drafts, money orders or other evidences of payment 
+relating to the Pledged Collateral or any part thereof; (b) to demand, 
+collect, receive payment of, give receipt for and give discharges and 
+releases of all or any of the Pledged Collateral; (c) to ask for, demand, 
+sue for, collect, receive and give acquittance for any and all moneys due 
+or to become due under and by virtue of any Pledged Collateral; (d) to sign 
+the name of Holdings on any invoice or bill of lading relating to any of 
+the Pledged Collateral; (e) to commence and prosecute any and all suits, 
+actions or proceedings at law or in equity in any court of competent 
+jurisdiction to collect or otherwise realize on all or any of the Pledged 
+Collateral or to enforce any rights in respect of any Pledged Collateral; 
+(f) to settle, compromise, compound, adjust or defend any actions, suits or 
+proceedings relating to all or any of the Pledged Collateral; and (g) to 
+use, sell, assign, transfer, pledge, make any agreement with respect to or 
+otherwise deal with all or any of the Pledged Collateral, and to do all 
+other acts and things necessary to
+ 
+18
+
+------------------------------------------------------------------------
+carry out the purposes of this Agreement, as fully and completely as though 
+the Agent were the absolute owner of the Pledged Collateral for all 
+purposes; provided that nothing herein contained shall be construed as 
+requiring or obligating the Agent to make any commitment or to make any 
+inquiry as to the nature or sufficiency of any payment received by the 
+Agent, or to present or file any claim or notice, or to take any action 
+with respect to the Pledged Collateral or any part thereof or the moneys 
+due or to become due in respect thereof or any property covered thereby. 
+The Agent and the other Secured Parties shall be accountable only for 
+amounts actually received as a result of the exercise of the powers granted 
+to them herein, and neither they nor their officers, directors, employees 
+or agents shall be responsible to Holdings for any act or failure to act 
+hereunder, except for their own gross negligence or willful misconduct.
+
+SECTION 6.08. GOVERNING LAW. THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS 
+OF THE PARTIES UNDER THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH 
+AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.
+
+SECTION 6.09. Waivers; Amendment; Extension of Time.
+
+(a) No failure or delay by the Agent, any Issuing Bank, any Lender or any 
+other Secured Party in exercising any right, power or remedy hereunder or 
+under any other Loan Document or any Other First Lien Agreement shall 
+operate as a waiver thereof, nor shall any single or partial exercise of 
+any such right, power or remedy, or any abandonment or discontinuance of 
+steps to enforce such a right, power or remedy, preclude any other or 
+further exercise thereof or the exercise of any other right, power or 
+remedy. The rights, powers and remedies of the Agent, any Issuing Bank, the 
+Lenders or any other Secured Party hereunder and under the other Loan 
+Documents and any Other First Lien Agreement are cumulative and are not 
+exclusive of any rights, powers or remedies that they would otherwise have. 
+No waiver of any provision of this Agreement or consent to any departure by 
+Holdings therefrom shall in any event be effective unless the same shall be 
+permitted by paragraph (b) of this Section 6.09, and then such waiver or 
+consent shall be effective only in the specific instance and for the 
+purpose for which given. Without limiting the generality of the foregoing, 
+the making of a Loan, the increase of any Other First Lien Obligations or 
+the issuance of a Letter of Credit shall not be construed as a waiver of 
+any Default or Event of Default, regardless of whether the Agent, any 
+Lender, any Issuing Bank or any other Secured Party may have had notice or 
+knowledge of such Default or Event of Default at the time. No notice or 
+demand on Holdings in any case shall entitle any Loan Party to any other or 
+further notice or demand in similar or other circumstances.
+
+(b) Neither this Agreement nor any provision hereof may be waived, amended 
+or modified except pursuant to an agreement or agreements in writing 
+entered into by the Agent and Holdings, subject to any consent required in 
+accordance with Section 9.08 of the Credit Agreement and any equivalent 
+provision in each applicable Other First Lien Agreement and, by each other 
+Authorized Representative to the extent required by (and in accordance 
+with) such applicable Other First Lien Agreement, or, in each case, as 
+otherwise provided in any applicable Intercreditor Agreement. The Agent may 
+conclusively rely on a certificate of an officer of the Borrower as to 
+whether any amendment contemplated by this Section 6.09(b) is permitted.
+ 
+19
+
+------------------------------------------------------------------------
+(c) Notwithstanding anything to the contrary contained herein, the Agent 
+may grant extensions of time or waivers of the requirement for the creation 
+or perfection of security interests in or the obtaining of insurance 
+(including title insurance) or surveys with respect to particular assets 
+(including extensions beyond the date hereof for the perfection of security 
+interests in the assets of Holdings on such date) where it reasonably 
+determines, in consultation with the Borrower, that perfection or obtaining 
+of such items cannot be accomplished without undue effort or expense by the 
+time or times at which it would otherwise be required by this Agreement, 
+any other Loan Documents or any Other First Lien Agreement.
+
+SECTION 6.10. WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE 
+FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A 
+TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING 
+OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT, ANY OTHER LOAN 
+DOCUMENTS OR ANY OTHER FIRST LIEN AGREEMENT. EACH PARTY HERETO (A) 
+CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS 
+REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN 
+THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) 
+ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO 
+ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND 
+CERTIFICATIONS IN THIS SECTION 6.10.
+
+SECTION 6.11. Severability. In the event any one or more of the provisions 
+contained in this Agreement should be held invalid, illegal or 
+unenforceable in any respect, the validity, legality and enforceability of 
+the remaining provisions contained herein shall not in any way be affected 
+or impaired thereby. The parties shall endeavor in good-faith negotiations 
+to replace the invalid, illegal or unenforceable provisions with valid 
+provisions the economic effect of which comes as close as possible to that 
+of the invalid, illegal or unenforceable provisions.
+
+SECTION 6.12. Counterparts. This Agreement may be executed in two or more 
+counterparts, each of which shall constitute an original but all of which 
+when taken together shall constitute but one contract, and shall become 
+effective as provided in Section 6.04. Delivery of an executed counterpart 
+to this Agreement by facsimile or other electronic transmission shall be as 
+effective as delivery of a manually signed original.
+
+SECTION 6.13. Headings. Article and Section headings and the Table of 
+Contents used herein are for convenience of reference only, are not part of 
+this Agreement and are not to affect the construction of, or to be taken 
+into consideration in interpreting, this Agreement.
+
+SECTION 6.14. Jurisdiction; Consent to Service of Process.
+
+(a) Subject to the final sentence of this clause (a), each of the parties 
+hereto hereby irrevocably and unconditionally submits, for itself and its 
+property, to the exclusive jurisdiction of any New York State court or 
+federal court of the United States of America sitting in New York County, 
+and of the United States District Court of the Southern District of New 
+York, and any appellate court from any thereof, in any action or proceeding
+ 
+20
+
+------------------------------------------------------------------------
+arising out of or relating to this Agreement, any other Loan Document, any 
+Other First Lien Agreement or the transactions relating hereto or thereto, 
+or for recognition or enforcement of any judgment, and each of the parties 
+hereto hereby irrevocably and unconditionally submits to the jurisdiction 
+of such courts and agrees that all claims in respect of any such action, 
+litigation or proceeding may be heard and determined in such New York State 
+court or, to the fullest extent permitted by applicable law, in such 
+federal court. Each of the parties hereto agrees that a final judgment in 
+any such action, litigation or proceeding shall be conclusive and may be 
+enforced in other jurisdictions by suit on the judgment or in any other 
+manner provided by law. Nothing in this Agreement, any other Loan Document 
+or any Other First Lien Agreement shall affect any right that the Agent or 
+any other Secured Party may otherwise have to bring any action or 
+proceeding relating to this Agreement, any other Loan Document or any Other 
+First Lien Agreement against Holdings or or its properties in the courts of 
+any jurisdiction.
+
+(b) Each party to this Agreement hereby irrevocably and unconditionally 
+waives, to the fullest extent it may legally and effectively do so, any 
+objection which it may now or hereafter have to the laying of venue of any 
+suit, action or proceeding arising out of or relating to this Agreement, 
+any other Loan Document or any Other First Lien Agreement in any New York 
+State or federal court of the United States of America sitting in New York 
+County, and any appellate court from any thereof. Each of the parties 
+hereto hereby irrevocably waives, to the fullest extent permitted by law, 
+the defense of an inconvenient forum to the maintenance of such action or 
+proceeding in any such court.
+
+(c) Each party to this Agreement irrevocably consents to service of process 
+in the manner provided for notices in Section 6.01. Nothing in this 
+Agreement, any other Loan Document or any Other First Lien Agreement will 
+affect the right of any party to this Agreement to serve process in any 
+other manner permitted by law.
+
+SECTION 6.15. Termination or Release.
+
+(a) This Agreement, the pledges and guarantees made herein, the Liens in 
+the Pledged Collateral created hereby and all other security interests 
+granted hereby, shall automatically terminate and/or be released (i) upon 
+the occurrence of the Termination Date or, if any Other First Lien 
+Obligations secured by the Lien granted hereby are outstanding on the 
+Termination Date, the date after the Termination Date when all such Other 
+First Lien Obligations (other than contingent or unliquidated obligations 
+or liabilities not then due and any other obligations that, by the terms of 
+any Other First Lien Agreements, are not required to be paid in full prior 
+to termination and release of the Pledged Collateral) have been paid in 
+full and the Secured Parties have no further commitment to extend credit 
+under any such Other First Lien Agreement, or (ii) otherwise in accordance 
+with Section 9.18 of the Credit Agreement and the equivalent provision of 
+any applicable Other First Lien Agreement.
+
+(b) The security interest in the Pledged Collateral shall be automatically 
+released, all without delivery of any instrument or performance of any act 
+by any party, (i) upon any sale or other transfer by Holdings of any 
+Pledged Collateral that is permitted by the Credit Agreement and each Other 
+First Lien Agreement then in effect to any person that is not Holdings or a 
+Pledgor (as defined in the Collateral Agreement), (ii) upon the 
+effectiveness of any written consent to the release of the security 
+interest granted hereby in any Pledged Collateral pursuant to Section 9.08 
+of the Credit Agreement and any equivalent provision of each applicable 
+Other First Lien Agreement (in each case, to the extent required thereby), 
+or (iii) as otherwise may be provided in any applicable Intercreditor 
+Agreement.
+ 
+21
+
+------------------------------------------------------------------------
+(c) In connection with any termination or release pursuant to this Section 
+6.15, the Agent shall execute and deliver to Holdings, at Holdings 
+expense, all documents (forms of which shall be reasonably acceptable to 
+the Agent) that Holdings shall reasonably request to evidence such 
+termination or release (including Uniform Commercial Code termination 
+statements), and will duly assign and transfer to Holdings, such of the 
+Pledged Collateral that may be in the possession of the Agent and has not 
+theretofore been sold or otherwise applied or released pursuant to this 
+Agreement. Any execution and delivery of documents pursuant to this Section 
+6.15 shall be without recourse to or warranty by the Agent. In connection 
+with any release pursuant to this Section 6.15, Holdings shall be permitted 
+to take any action in connection therewith consistent with such release 
+including, without limitation, the filing of Uniform Commercial Code 
+termination statements. Upon the receipt of any necessary or proper 
+instruments of termination, satisfaction or release prepared by the 
+Borrower pursuant to this Section 6.15, the Agent shall execute, deliver or 
+acknowledge such instruments or releases (forms of which shall be 
+reasonable acceptable to the Agent) to evidence the release of any Pledged 
+Collateral permitted to be released pursuant to this Agreement. Holdings 
+agrees to pay all reasonable and documented out-of-pocket expenses incurred 
+by the Agent (and its representatives and counsel) in connection with the 
+execution and delivery of such release documents or instruments.
+
+SECTION 6.16. Compliance with Gaming Laws. Notwithstanding anything to the 
+contrary set forth in this Agreement, any other Loan Document or any Other 
+First Lien Agreement, the Agent, on behalf of the Secured Parties, 
+acknowledges and agrees that:
+
+(a) the pledge of the Pledged Borrower Stock, pursuant to this Agreement, 
+any other Loan Document or any Other First Lien Agreement, will not be 
+effective without the prior approval of the Gaming Authorities having 
+jurisdiction in Nevada (the Nevada Gaming Authorities), and no 
+certificates evidencing any such Pledged Borrower Stock may be delivered to 
+the Agent until such approval has been obtained. Furthermore, no amendment 
+of this Agreement shall be effective until any approvals required from the 
+Nevada Gaming Authorities under the Gaming Laws applicable in the State of 
+Nevada (Nevada Gaming Laws) have been obtained;
+
+(b) in the event that Agent exercises one or more of the remedies set forth 
+in this Agreement with respect to the Pledged Borrower Stock, including, 
+without limitation, the foreclosure, transfer, sale, distribution or other 
+disposition of any interest therein (except back to Holdings), the exercise 
+of voting and consensual rights, and any other resort to or enforcement of 
+the security interest in such Pledged Borrower Stock, such action will 
+require the separate and prior approval of the Nevada Gaming Authorities or 
+the licensing or finding of suitability of the Agent or any transferee 
+thereof unless such licensing or suitability requirement is waived thereby;
+ 
+22
+
+------------------------------------------------------------------------
+(c) the Agent, and any custodial agent of Agent in the State of Nevada, 
+will be required to comply with the conditions, if any, imposed by the 
+Nevada Gaming Authorities in connection with their approval of the pledge 
+granted hereunder, including, without limitation, requirements that the 
+Agent or its custodial agent maintain the certificates evidencing the 
+Pledged Borrower Stock at a location in Nevada (notice of which the Agent 
+or its custodial agent shall provide to the Nevada Gaming Authorities) and 
+that the Agent or its custodial agent permit agents or employees of the 
+Nevada Gaming Authorities to inspect such certificates upon request;
+
+(d) neither the Agent nor any custodial agent of the Agent will be 
+permitted to surrender possession of any Pledged Borrower Stock to any 
+person other than Holdings without the prior approval of the Nevada Gaming 
+Authorities or as otherwise permitted by the Gaming Laws;
+
+(e) any approval of the Nevada Gaming Authorities of this Agreement, or any 
+amendment hereto, does not constitute approval, either express or implied, 
+of the Agent to take any actions provided for in this Agreement, for which 
+separate approval by the Nevada Gaming Authorities may be required by the 
+Gaming Laws; and
+
+(f) the Agent, the Secured Parties and their respective successors and 
+assigns are subject to being called forward by the Nevada Gaming 
+Authorities in their sole and absolute discretion, for licensing or a 
+finding of suitability in order to remain entitled to the benefits of this 
+Agreement, any other Loan Documents and any Other First Lien Agreement.
+
+SECTION 6.17. Subject to Any Applicable Intercreditor Agreement. 
+Notwithstanding anything herein to the contrary, (i) the Liens and security 
+interests granted to the Agent for the benefit of the Secured Parties 
+pursuant to this Agreement are expressly subject to any applicable 
+Intercreditor Agreement to the extent provided therein and (ii) the 
+exercise of any right or remedy by the Agent hereunder or the application 
+of proceeds (including insurance and condemnation proceeds) of any Pledged 
+Collateral are subject to any applicable Intercreditor Agreement to the 
+extent provided therein. In the event of any conflict between the terms of 
+such applicable Intercreditor Agreement and the terms of this Agreement, 
+the terms of such applicable Intercreditor Agreement shall govern.
+
+SECTION 6.18. Other First Lien Obligations. On or after the date hereof and 
+so long as such obligations are not prohibited by the Credit Agreement and 
+any Other First Lien Agreement then in effect, the Borrower may from time 
+to time designate obligations in respect of Indebtedness to be secured 
+(except with respect to any applicable Specified Excluded Collateral) on a 
+pari passu basis with then outstanding Secured Obligations as Other First 
+Lien Obligations hereunder by delivering to the Agent and each Authorized 
+Representative (a) a certificate signed by a Responsible Officer of the 
+Borrower (i) identifying the obligations so designated and the initial 
+aggregate principal amount or face amount thereof, (ii) stating that such 
+obligations are designated as Other First Lien Obligations for purposes 
+hereof, (iii) representing that such designation of such obligations as 
+Other First Lien Obligations is not prohibited by the terms of the Credit 
+Agreement and any Other First Lien Agreement then in effect and (iv) 
+specifying the name and address of the Authorized Representative for such 
+obligations, (b) a fully executed Other First Lien Secured Party Consent 
+and (c) if not already in effect, execute and deliver the First Lien 
+Intercreditor Agreement (or a joinder thereto in the form (and to the 
+extent, if any) required thereby to the extent such First Lien 
+Intercreditor Agreement is then in effect). The
+ 
+23
+
+------------------------------------------------------------------------
+Agent and each Authorized Representative agree that upon the satisfaction 
+of all conditions set forth in the preceding sentence, (x) the Agent shall 
+act as agent under and subject to the terms of the Security Documents for 
+the benefit of all Secured Parties, including without limitation, any 
+Secured Parties that hold any such Other First Lien Obligations, and (y) 
+the Agent and each Authorized Representative agrees to the appointment, and 
+acceptance of the appointment, of the Agent as agent for the holders of 
+such Other First Lien Obligations as set forth in each Other First Lien 
+Secured Party Consent and agree, on behalf of itself and each Secured Party 
+it represents, to be bound by this Agreement and the First Lien 
+Intercreditor Agreement. The rights and obligations of each party to this 
+Agreement shall remain in full force and effect notwithstanding the 
+addition of any new Secured Obligations to this Agreement.
+
+SECTION 6.19. Person Serving as Agent. On the Closing Date, the Agent 
+hereunder is the same person that is the Credit Agreement Agent. Written 
+notice of resignation by the Credit Agreement Agent pursuant to the Credit 
+Agreement shall also constitute notice of resignation as the Agent under 
+this Agreement. Upon the acceptance of any appointment as the 
+Administrative Agent under (and as defined in) the Credit Agreement by a 
+successor, that successor shall thereupon succeed to and become vested with 
+all the rights, powers, privileges and duties of the retiring Agent 
+pursuant hereto. Immediately upon the occurrence of the Discharge (as such 
+term or equivalent term is defined in the First Lien Intercreditor 
+Agreement) of Credit Agreement Loan Obligations, if any other Series of 
+Secured Obligations is then outstanding, the Authorized Representative of 
+such Series (or, if more than one such Series is outstanding, the 
+applicable Authorized Representative determined pursuant to the terms of 
+(and as defined in) the applicable Intercreditor Agreement) shall be deemed 
+the Agent for all purposes under this Agreement. The Agent immediately 
+prior to any change in Agent pursuant to this Section 6.19 (the Prior 
+Agent) shall be deemed to have assigned all of its rights, powers and 
+duties hereunder to the successor Agent determined in accordance with this 
+Section 6.19 (the Successor Agent) and the Successor Agent shall be 
+deemed to have accepted, assumed and succeeded to such rights, powers and 
+duties. The Prior Agent shall cooperate with Holdings and such Successor 
+Agent to ensure that all actions are taken that are necessary or reasonably 
+requested by the Successor Agent to vest in such Successor Agent the rights 
+granted to the Prior Agent hereunder with respect to the Pledged 
+Collateral, including (a) the filing of amended financing statements in the 
+appropriate filing offices, (b) to the extent that the Prior Agent holds, 
+or a third party holds on its behalf, physical possession of or control 
+(as defined in the New York UCC or the Uniform Commercial Code of any other 
+applicable jurisdiction) over Pledged Collateral pursuant to this Agreement 
+or any other Security Document, the delivery to the Successor Agent of the 
+Pledged Collateral in its possession or control together with any necessary 
+endorsements to the extent required by this Agreement, and (c) the 
+execution and delivery of any further documents, financing statements or 
+agreements and the taking of all such further action that may be required 
+under any applicable law, or that the Successor Agent may reasonably 
+request, all without recourse to, or representation or warranty by, the 
+Agent, and at the sole cost and expense of Holdings. The Agent hereunder 
+shall at all times be the same person that is the Collateral Agent under 
+the First Lien Intercreditor Agreement. Written notice of resignation by 
+the Collateral Agent pursuant to the First Lien Intercreditor Agreement 
+shall also constitute notice of resignation as the Agent under this 
+Agreement. Upon the acceptance of any appointment as the Collateral Agent 
+under the First Lien Intercreditor Agreement by a successor Collateral 
+Agent, that successor Collateral Agent shall thereupon succeed to and 
+become vested with all the rights, powers, privileges and duties of the 
+retiring Agent pursuant hereto.
+ 
+24
+
+------------------------------------------------------------------------
+SECTION 6.20. General Authority of the Agent.
+
+(a) By acceptance of the benefits of this Agreement and any other Security 
+Documents, each Secured Party (whether or not a signatory hereto) shall be 
+deemed irrevocably (i) to consent to the appointment of the Agent as its 
+agent hereunder and under such other Security Documents, (ii) to confirm 
+that the Agent shall have the authority to act as the exclusive agent of 
+such Secured Party for the enforcement of any provision of this Agreement 
+and such other Security Documents against Holdings, the exercise of 
+remedies hereunder or thereunder and the giving or withholding of any 
+consent or approval hereunder thereunder relating to any Pledged Collateral 
+or Holdings obligations with respect thereto, (iii) to agree that it shall 
+not take any action to enforce any provisions of this Agreement or any 
+other Security Document against Holdings, to exercise any remedy hereunder 
+or thereunder or to give any consents or approvals hereunder or thereunder 
+except as expressly provided in this Agreement or any other Security 
+Document and (iv) to agree to be bound by the terms of this Agreement, any 
+other Security Documents and any Intercreditor Agreement then in effect.
+
+(b) Holdings acknowledges that the rights and responsibilities of the Agent 
+under this Agreement with respect to any action taken by the Agent or the 
+exercise or non-exercise by the Agent of any option, voting right, request, 
+judgment or other right or remedy provided for herein or resulting or 
+arising out of this Agreement shall, as between the Agent and the Secured 
+Parties, be governed by the Credit Agreement, any Other First Lien 
+Agreement and such other agreements with respect thereto as may exist from 
+time to time among them, but, as between the Agent and Holdings, the Agent 
+shall be conclusively presumed to be acting as agent for the applicable 
+Secured Parties with full and valid authority so to act or refrain from 
+acting, and Holdings shall not be under any obligation, or entitlement, to 
+make any inquiry respecting such authority.
+
+SECTION 6.21. Application of Gaming Laws. Notwithstanding anything herein 
+to the contrary, this Agreement and any Other First Lien Agreements are 
+subject to the applicable Gaming Laws. Without limiting the foregoing, the 
+Secured Parties acknowledge that (i) they are subject to the jurisdiction 
+of the Gaming Authorities, in their discretion, for licensing, 
+qualification or findings of suitability or to file or provide other 
+information, and (ii) all rights, remedies and powers in or under this 
+Agreement and the Other First Lien Agreements, including with respect to 
+the Pledged Collateral (including the pledge and delivery of Pledged 
+Collateral) and the transportation, ownership and operation of gaming 
+machines and/or facilities may be subject to the jurisdiction of the Gaming 
+Authorities, and may be exercised only to the extent that the exercise 
+thereof does not violate any applicable provisions of the Gaming Laws and 
+only to the extent that required approvals (including prior approvals), if 
+any, are obtained from the relevant Gaming Authorities.
+
+[Signature Pages Follow]
+ 
+25
+
+------------------------------------------------------------------------
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as 
+of the day and year first above written.
+ 
+AP GAMING HOLDINGS, LLC,
+as Holdings
+
+ By:
+
+  	/s/ Robert Miodunski
+  	Name: Robert Miodunski
+  	Title: Authorized Signatory
+ 
+[Holdings Guarantee and Pledge Agreement]
+
+------------------------------------------------------------------------
+
+ CITICORP NORTH AMERICA, INC.,
+
+as Agent
+By: 	  	/s/ Matthew Burke
+  	Name: Matthew Burke
+  	Title: Vice President
+ 
+[Holdings Guarantee and Pledge Agreement]
+
+------------------------------------------------------------------------
+Schedule I
+to Holdings Guarantee and Pledge Agreement
+
+DESCRIPTION OF PLEDGED BORROWER STOCK
+ 
+
+Pledgor
+
+   	Issuer 	   	Certificate
+No. 	  	   	Percentage of
+Issued Equity
+Interests 	 
+
+ AP Gaming Holdings, LLC
+
+   	AP Gaming I, LLC 	   	  	N/A 	   	   	  	100 	% 
+
+------------------------------------------------------------------------
+Exhibit I
+to Holdings Guarantee and Pledge Agreement
+
+[Form of]
+
+OTHER FIRST LIEN SECURED PARTY CONSENT
+
+[Name of Other First Lien Secured
+Party] [Address of Other First
+Lien Secured Party]
+
+[Date]
+ 
+ 
+ 
+ 
+ 
+
+The undersigned is the Authorized Representative for Persons wishing to 
+become Secured Parties (the New Secured Parties) under the Holdings 
+Guarantee and Pledge Agreement, dated as of December 20, 2013 (as 
+heretofore amended and/or supplemented, the Guarantee and Pledge Agreement
+ (terms used without definition herein have the meanings assigned to such 
+term in the Guarantee and Pledge Agreement)), between AP GAMING HOLDINGS, 
+LLC and CITICORP NORTH AMERICA, INC., as collateral agent (the Agent).
+
+In consideration of the foregoing, the undersigned hereby:
+
+(i) represents that the Authorized Representative has been duly authorized 
+by the New Secured Parties to become a party to the Guarantee and Pledge 
+Agreement and the First Lien Intercreditor Agreement on behalf of the New 
+Secured Parties under that [DESCRIBE OPERATIVE AGREEMENT] (the New Secured 
+Obligation) and to act as the Authorized Representative for the New 
+Secured Parties;
+
+(ii) acknowledges that the Authorized Representative has received a copy of 
+the Guarantee and Pledge Agreement and the First Lien Intercreditor 
+Agreement;
+
+(iii) appoints and authorizes the Agent to take such action as agent on its 
+behalf and on behalf of all other Secured Parties and to exercise such 
+powers under the Guarantee and Pledge Agreement and First Lien 
+Intercreditor Agreement as are delegated to the Agent by the terms thereof, 
+together with all such powers as are reasonably incidental thereto;
+
+(iv) accepts and acknowledges the terms of the First Lien Intercreditor 
+Agreement applicable to it and the New Secured Parties and agrees to serve 
+as Authorized Representative for the New Secured Parties with respect to 
+the New Secured Obligations and agrees on its own behalf and on behalf of 
+the New Secured
+
+------------------------------------------------------------------------
+Parties to be bound by the terms thereof applicable to holders of Other 
+First Lien Obligations, with all the rights and obligations of a Secured 
+Party thereunder and bound by all the provisions thereof (including, 
+without limitation, Section 2.02(b) thereof) as fully as if it had been a 
+Secured Party on the effective date of the Guarantee and Pledge Agreement 
+and the First Lien Intercreditor Agreement and agrees that its address for 
+receiving notices pursuant to the Guarantee and Pledge Agreement and the 
+First Lien Intercreditor Agreement shall be as follows:
+
+[Address]
+
+(v) confirms the authority of the Agent to enter into such agreements on 
+its behalf and on behalf of the New Secured Parties and agrees on its own 
+behalf and on behalf of the New Secured Parties to be bound by the terms 
+thereof applicable to it and the New Secured Parties as fully as if it had 
+been a party to each such agreement on behalf of itself and the New Secured 
+Parties.
+
+The Agent, by acknowledging and agreeing to this Other First Lien Secured 
+Party Consent, accepts the appointment set forth in clause (iii) above.
+
+THIS OTHER FIRST LIEN SECURED PARTY CONSENT SHALL BE GOVERNED BY, AND SHALL 
+BE CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF 
+NEW YORK.

@@ -1,0 +1,1188 @@
+ EX-10.2 8 filename8.htm
+Exhibit 10.2
+ 
+REGISTRATION RIGHTS AGREEMENT
+ 
+THIS REGISTRATION RIGHTS AGREEMENT (this “Agreement”), dated as of 
+________________, 201[__], is made and entered into by and among each of 
+FinTech Acquisition Corp. II, a Delaware corporation (the “Company”), 
+FinTech Investor Holdings II, LLC, a Delaware limited liability company 
+(the “Sponsor”), and the other Initial Stockholders (as defined below) and 
+any person or entity who hereafter becomes a party to this Agreement 
+pursuant to Section 5.2 of this Agreement (each, a “Holder” and 
+collectively, the “Holders”).
+ 
+RECITALS
+ 
+WHEREAS, the Company has issued the Sponsor and the other Initial 
+Stockholders an aggregate of 5,298,333 shares (the “Founder Shares”) of the 
+Company’s common stock, $0.001 par value per share (the “Common Stock”), of 
+which an aggregate of 675,000 Founder Shares are subject to the forfeiture 
+to the extent that the underwriters of the Company’s initial public 
+offering (the “IPO”) do not exercise their overallotment option in full;
+ 
+WHEREAS, the Sponsor has entered into a unit subscription agreement with 
+the Company, dated as of the date hereof, pursuant to which the Sponsor 
+agreed to purchase an aggregate of 370,000 units of the Company (each, a “
+Placement Unit” and collectively, the “Placement Units”), each Placement 
+Unit consisting of one share of Common Stock (each, a “Placement Share” and 
+collectively, the “Placement Shares”) and one half of one warrant to 
+purchase one share of Common Stock (each, a “Placement Warrant” and 
+collectively, the “Placement Warrants”) in a private placement transaction 
+(the “Private Placement”) occurring simultaneously with the closing of the 
+IPO;
+ 
+WHEREAS, the Company and the Holders desire to enter into this Agreement, 
+pursuant to which the Company shall grant the Holders certain registration 
+rights with respect to certain securities of the Company, as set forth in 
+this Agreement.
+ 
+NOW, THEREFORE, in consideration of the representations, covenants and 
+agreements contained herein, and certain other good and valuable 
+consideration, the receipt and sufficiency of which are hereby 
+acknowledged, the parties hereto, intending to be legally bound, hereby 
+agree as follows:
+ 
+ARTICLE I
+DEFINITIONS
+ 
+1.1    Definitions. The terms defined in this Article I shall, for all 
+purposes of this Agreement, have the respective meanings set forth below:
+ 
+1.1.1           “Adverse Disclosure” shall mean any public disclosure of 
+material non-public information, which disclosure, in the good faith 
+judgment of the Board or the Chairman, Chief Executive Officer or principal 
+financial officer of the Company (i) would be required to be made in any 
+Registration Statement or Prospectus in order for the applicable 
+Registration Statement or Prospectus not to contain any untrue statement of 
+a material fact or omit to state a material fact necessary to make the 
+statements contained therein (in the case of any Prospectus and any 
+preliminary Prospectus, in the light of the circumstances under which they 
+were made) not misleading, (ii) would not be required to be made at such 
+time if the Registration Statement were not being filed, and (iii) the 
+Company has a bona fide business purpose for not making such information 
+public.
+     
+1.1.2           “Agreement” shall have the meaning given in the Preamble.
+     
+1.1.3           “Board” shall mean the Board of Directors of the Company.
+     
+1.1.4           “Business Combination” means an initial merger, capital 
+stock exchange, asset acquisition, stock purchase, reorganization or 
+similar business transaction with one or more businesses, or engagement in 
+any other similar business combination transaction involving the Company.
+     
+
+ 
+
+ 
+
+     
+1.1.5           “Commission” shall mean the Securities and Exchange 
+Commission.
+     
+1.1.6           “Common Stock” shall have the meaning given in the Recitals 
+hereto.
+     
+1.1.7           “Company” shall have the meaning given in the Preamble.
+     
+1.1.8           “Demand Registration” shall have the meaning given in 
+subsection 2.1.1.
+     
+1.1.9           “Demanding Holders” shall have the meaning given in 
+subsection 2.1.1.
+     
+1.1.10        “Exchange Act” shall mean the Securities Exchange Act of 
+1934, as it may be amended from time to time.
+     
+1.1.11        “Form S-1” shall have the meaning given in subsection 2.1.1.
+     
+1.1.12        “Form S-3” shall have the meaning given in subsection 2.3.
+     
+1.1.13        “Founder Lock-up Period” shall mean, with respect to the 
+Founder Shares, the period ending: (A) with respect to 20% of the Founder 
+Shares, upon the consummation of the Business Combination; (B) with respect 
+to 20% of the Founder Shares, when the closing price of the Common Stock 
+exceeds $12.00 for any 20 trading days within a 30 trading day period 
+following the consummation of the Business Combination; (C) with respect to 
+20% of the Founder Shares, when the closing price of the Common Stock 
+exceeds $13.50 for any 20 trading days within a 30 trading day period 
+following the consummation of the Business Combination; (D) with respect to 
+20% of the Founder Shares, when the closing price of the Common Stock 
+exceeds $15.00 for any 20 trading days within a 30 trading day period 
+following the consummation of the Business Combination; and (E) with 
+respect to 20% of the Founder Shares, when the closing price of the Common 
+Stock exceeds $17.00 for any 20 trading days within a 30 trading day period 
+following the consummation of the Business Combination; or earlier, in any 
+case, if, following the initial Business Combination, the Company engages 
+in a subsequent transaction (i) resulting in all of the Company’s 
+stockholders having the right to exchange their Common Stock for cash or 
+other securities, or (ii) involving a consolidation, merger or other 
+similar transaction in which the Company is the surviving entity that 
+results in the Board or the directors and officers of the Company ceasing 
+to comprise a majority of the board of directors (in the case of directors) 
+or management (in the case of officers) of the surviving entity.
+     
+1.1.14         “Founder Shares” shall have the meaning given in the 
+Recitals hereto.
+     
+1.1.15         “Holders” shall have the meaning given in the Preamble.
+     
+1.1.16        “Initial Stockholders” shall mean Daniel G. Cohen, Betsy Z. 
+Cohen, DGC Family FinTech Trust, Swarthmore Trust of 2016, Shami Patel, 
+Jeremy Kuiper and the Sponsor.
+     
+1.1.17         “IPO” shall have meaning set forth in the Recitals hereto.
+     
+1.1.18        “Letter Agreement” shall mean the letter agreement by and 
+among the Company, certain of the Company’s officers and directors, the 
+Sponsor and the other Initial Stockholders.
+     
+1.1.19         “Maximum Number of Securities” shall have the meaning given 
+in subsection 2.1.4.
+     
+1.1.20         “Misstatement” shall mean an untrue statement of a material 
+fact or an omission to state a material fact required to be stated in a 
+Registration Statement, preliminary Prospectus or Prospectus, or necessary 
+to make the statements in a Registration Statement, preliminary Prospectus 
+or Prospectus, in light of the circumstances under which they were made, 
+not misleading.
+     
+1.1.21         “Piggy-back Registration” shall have the meaning given in 
+Section 2.2.1.
+     
+
+  	2 	 
+
+ 
+
+     
+1.1.22         “Placement Share” or “Placement Shares” shall have the 
+meaning given in the Recitals hereto.
+     
+1.1.23        “Placement Unit Lock-up Period” shall mean, with respect to 
+the Placement Units, Placement Shares, Placement Warrants and any of the 
+shares of Common Stock issued or issuable upon the exercise of such 
+Placement Warrants, a period terminating 30 days after the consummation of 
+a Business Combination, subject to certain exceptions set forth in the 
+Letter Agreement.
+     
+1.1.24         “Placement Unit” or “Placement Units” shall have the meaning 
+given in the Recitals hereto.
+     
+1.1.25         “Placement Warrant” or “Placement Warrants” shall have the 
+meaning given in the Recitals hereto.
+     
+1.1.26         “Private Placement” shall have the meaning given in the 
+Recitals hereto.
+ 
+1.1.27         “Pro Rata” shall have the meaning given in Section 2.1.4.
+     
+1.1.28         “Prospectus” shall mean the prospectus included in any 
+Registration Statement, as supplemented by any and all prospectus 
+supplements and as amended by any and all post-effective amendments and 
+including all materials incorporated by reference in such prospectus.
+     
+1.1.29        “Prospectus Date” shall mean the date of the final Prospectus 
+filed with the Commission and relating to the IPO. 
+     
+1.1.30        “Registrable Security” shall mean (a) the Founder Shares, (b) 
+the Placement Warrants (including any shares of Common Stock issued or 
+issuable upon the exercise of any such Placement Warrants), (c) the 
+Placement Shares, (d) any outstanding shares of Common Stock or any other 
+equity security (including the Common Stock issued or issuable upon the 
+exercise of any other equity security) held by a Holder as of the date of 
+this Agreement, (e) any equity securities (including the shares of Common 
+Stock issued or issuable upon the exercise of any such equity security) of 
+the Company issuable upon conversion of any working capital loans made to 
+the Company by a Holder, and (f) any other equity security of the Company 
+issued or issuable with respect to any such shares of Common Stock by way 
+of a stock dividend or stock split or in connection with a combination of 
+stock, acquisition, recapitalization, consolidation, reorganization, stock 
+exchange, stock reconstruction and amalgamation or contractual control 
+arrangement with, purchasing all or substantially all of the assets of, or 
+engagement in any other similar transaction; provided, however, that, as to 
+any particular Registrable Security, such securities shall cease to be 
+Registrable Securities when: (i) if a Registration Statement with respect 
+to the sale of such securities shall have become effective under the 
+Securities Act, at the earlier of (a) one year following the date the 
+Registration Statement is declared effective or (b) the date that such 
+securities shall have been sold, transferred, disposed of or exchanged in 
+accordance with such Registration Statement; (ii) such securities may 
+otherwise be transferred, new certificates for such securities not bearing 
+a legend restricting further transfer shall have been delivered by the 
+Company and subsequent public distribution of such securities shall not 
+require registration under the Securities Act; (iii) such securities shall 
+have ceased to be outstanding; or (iv) such securities have been sold to, 
+or through, a broker, dealer or underwriter in a public distribution or 
+other public securities transaction.
+     
+1.1.31        “Registration” shall mean a registration effected by 
+preparing and filing a Registration Statement or similar document in 
+compliance with the requirements of the Securities Act, and the applicable 
+rules and regulations promulgated thereunder, and such Registration 
+Statement becoming effective.
+     
+1.1.32        “Registration Expenses” shall mean the out-of-pocket expenses 
+of a Registration, including, without limitation, the following:
+ 
+(A) all registration and filing fees (including fees with respect to 
+filings required to be made with the Financial Industry Regulatory 
+Authority and any securities exchange on which the Common Stock is then 
+listed);
+ 
+(B) fees and expenses of compliance with securities or blue sky laws 
+(including reasonable fees and disbursements of counsel for the 
+Underwriters in connection with blue sky qualifications of Registrable 
+Securities);
+ 
+
+  	3 	 
+
+ 
+
+ 
+(C) printing, messenger, telephone and delivery expenses;
+ 
+(D) reasonable fees and disbursements of counsel for the Company; and
+ 
+(E) reasonable fees and disbursements of all independent registered public 
+accountants of the Company incurred specifically in connection with such 
+Registration.
+ 
+1.1.33        “Registration Statement” shall mean any registration 
+statement that covers the Registrable Securities pursuant to the provisions 
+of this Agreement, including the Prospectus included in such registration 
+statement, amendments (including post-effective amendments) and supplements 
+to such registration statement, and all exhibits to and all materials 
+incorporated by reference in such registration statement.
+     
+1.1.34         “Requesting Holder” shall have the meaning given in 
+subsection 2.1.1.
+     
+1.1.35         “Securities Act” shall mean the Securities Act of 1933, as 
+amended from time to time.
+     
+1.1.36         “Sponsor” shall have the meaning given in the Recitals 
+hereto.
+     
+1.1.37        “Underwriter” shall mean a securities dealer who purchases 
+any Registrable Securities as principal in an Underwritten Offering and not 
+as part of such dealer’s market-making activities.
+     
+1.1.38         “Underwritten Registration” or “Underwritten Offering” shall 
+mean a Registration in which securities of the Company are sold to an 
+Underwriter in a firm commitment underwriting for distribution to the 
+public.
+ 
+ARTICLE II
+REGISTRATIONS
+ 
+  2.1    Demand Registration.
+ 
+2.1.1           Request for Registration. Subject to the provisions of 
+subsection 2.1.4 and Section 2.4 hereof, at any time and from time to time 
+on or after the date the Company consummates the Business Combination, the 
+Holders of a majority-in-interest of the then outstanding number of 
+Registrable Securities (the “Demanding Holders”) may make a written demand 
+for Registration under the Securities Act of all or part of their 
+Registrable Securities, which written demand shall describe the amount and 
+type of securities to be included in such Registration and the intended 
+method(s) of distribution thereof (such written demand a “Demand 
+Registration”). The Company shall, within ten (10) days of the Company’s 
+receipt of the Demand Registration, notify, in writing, all other Holders 
+of Registrable Securities of such demand, and each Holder of Registrable 
+Securities who thereafter wishes to include all or a portion of such 
+Holder’s Registrable Securities in a Registration pursuant to a Demand 
+Registration (each such Holder that includes all or a portion of such 
+Holder’s Registrable Securities in such Registration, a “Requesting Holder
+”) shall so notify the Company, in writing, within five (5) days after the 
+receipt by the Holder of the notice from the Company. Upon receipt by the 
+Company of any such written notification from a Requesting Holder(s) to the 
+Company, such Requesting Holder(s) shall be entitled to have their 
+Registrable Securities included in a Registration pursuant to a Demand 
+Registration and the Company shall, not more than forty five (45) days 
+after the Company’s receipt of the Demand Registration, file a Registration 
+Statement on Form S-1 or any similar long-form registration statement that 
+may be available at that time (“Form S-1”) with respect to all Registrable 
+Securities requested by the Demanding Holders and Requesting Holders 
+pursuant such the Demand Registration, and shall use its reasonable best 
+efforts to cause such Registration Statement to be declared effective by 
+the Commission as soon as practicable thereafter; provided, however, that 
+the Company may use a Registration Statement on Form S-3 or any successor 
+form thereto if the Company would qualify to use such form within 30 days 
+after the date on which the initial demand request is given and the Company 
+shall not be required to file such Registration Statement until it is so 
+qualified. Under no circumstances shall the Company be obligated to effect 
+more than an aggregate of three (3) Registrations pursuant to a Demand 
+Registration under this subsection 2.1.1 with respect to any or all 
+Registrable Securities.
+     
+
+  	4 	 
+
+ 
+
+     
+2.1.2           Effective Registration. Notwithstanding the provisions of 
+subsection 2.1.1 above or any other part of this Agreement, a Registration 
+pursuant to a Demand Registration shall not count as a Registration unless 
+and until (i) the Registration Statement filed with the Commission with 
+respect to a Registration pursuant to a Demand Registration has been 
+declared effective by the Commission; provided, however, that if after such 
+Registration Statement has been declared effective, an offering of 
+Registrable Securities in a Registration pursuant to a Demand Registration 
+is subsequently interfered with by any stop order or injunction of the 
+Commission, federal or state court or any other governmental agency (except 
+for a stop order or injunction resulting from information supplied by a 
+Demanding or Requesting Holding for use in the Registration Statement being 
+incorrect or incomplete) the Registration Statement with respect to such 
+Registration shall be deemed not to have been declared effective, unless 
+and until, (x) such stop order or injunction is removed, rescinded or 
+otherwise terminated, and (y) a majority-in-interest of the Demanding 
+Holders initiating such Demand Registration thereafter affirmatively elect 
+to continue with such Registration and accordingly notify the Company in 
+writing, but in no event later than five (5) days, of such election; and, 
+provided, further, that the Company shall not be obligated or required to 
+file another Registration Statement until the Registration Statement that 
+has been previously filed with respect to a Registration pursuant to a 
+Demand Registration becomes effective or is subsequently terminated.
+     
+2.1.3           Underwritten Offering. Subject to the provisions of 
+subsection 2.1.4 and Section 2.4 hereof, if a majority-in-interest of the 
+Demanding Holders so advise the Company as part of their Demand 
+Registration that the offering of the Registrable Securities pursuant to 
+such Demand Registration shall be in the form of an Underwritten Offering, 
+then the right of such Demanding Holder or Requesting Holder (if any) to 
+include its Registrable Securities in such Registration shall be 
+conditioned upon such Holder’s participation in such Underwritten Offering 
+and the inclusion of such Holder’s Registrable Securities in such 
+Underwritten Offering to the extent provided herein. All such Holders 
+proposing to distribute their Registrable Securities through an 
+Underwritten Offering under this subsection 2.1.3 shall enter into an 
+underwriting agreement in customary form with the Underwriter(s) selected 
+for such Underwritten Offering by a majority-in-interest of the Demanding 
+Holders initiating the Demand Registration.
+     
+2.1.4           Reduction of Underwritten Offering. If the managing 
+Underwriter or Underwriters in an Underwritten Registration pursuant to a 
+Demand Registration, in good faith, advises the Company, the Demanding 
+Holders and the Requesting Holders (if any) in writing that the dollar 
+amount or number of Registrable Securities that the Demanding Holders and 
+the Requesting Holders (if any) desire to sell, taken together with all 
+other shares of Common Stock or other equity securities that the Company 
+desires to sell and the shares of Common Stock, if any, as to which a 
+Registration has been requested pursuant to separate written contractual 
+piggy-back registration rights held by any other stockholders who desire to 
+sell, exceeds the maximum dollar amount or maximum number of equity 
+securities that can be sold in the Underwritten Offering without adversely 
+affecting the proposed offering price, the timing, the distribution method, 
+or the probability of success of such offering (such maximum dollar amount 
+or maximum number of such securities, as applicable, the “Maximum Number of 
+Securities”), then the Company shall include in such Underwritten Offering, 
+as follows: (i) first, the Registrable Securities of the Demanding Holders 
+and the Requesting Holders (if any) (pro rata based on the respective 
+number of Registrable Securities that each Demanding Holder and Requesting 
+Holder (if any) has requested be included in such Underwritten Registration 
+and the aggregate number of Registrable Securities that the Demanding 
+Holders and Requesting Holders have collectively requested be included in 
+such Underwritten Registration (such proportion is referred to herein as “
+Pro Rata”)) that can be sold without exceeding the Maximum Number of 
+Securities; (ii) second, to the extent that the Maximum Number of 
+Securities has not been reached under the foregoing clause (i), the shares 
+of Common Stock or other equity securities that the Company desires to sell 
+that can be sold without exceeding the Maximum Number of Securities; (iii) 
+third, to the extent that the Maximum Number of Securities has not been 
+reached under the foregoing clauses (i) and (ii), the Registrable 
+Securities of Holders (Pro Rata, based on the respective number of 
+Registrable Securities that each Holder has so requested) exercising their 
+rights to register their Registrable Securities pursuant to subsection 
+2.2.1 hereof, which can be sold without exceeding the Maximum Number of 
+Securities; and (iv) fourth, to the extent that the Maximum Number of 
+Securities has not been reached under the foregoing clauses (i), (ii) and 
+(iii), the shares of Common Stock or other equity securities of other 
+persons or entities that the Company is obligated to register in a 
+Registration pursuant to separate written contractual arrangements with 
+such persons and that can be sold without exceeding the Maximum Number of 
+Securities.
+     
+
+  	5 	 
+
+ 
+
+     
+2.1.5           Demand Registration Withdrawal. A majority-in-interest of 
+the Demanding Holders initiating a Demand Registration or a 
+majority-in-interest of the Requesting Holders (if any), pursuant to a 
+Registration under subsection 2.1.1 shall have the right in their sole 
+discretion to withdraw from a Registration pursuant to such Demand 
+Registration upon written notification to the Company and the Underwriter 
+or Underwriters (if any) of their intention to withdraw from such 
+Registration prior to the effectiveness of the Registration Statement filed 
+with the Commission with respect to the Registration of their Registrable 
+Securities pursuant to such Demand Registration. Notwithstanding anything 
+to the contrary in this Agreement, the Company shall be responsible for the 
+Registration Expenses incurred in connection a Registration pursuant to a 
+Demand Registration prior to its withdrawal under this subsection 2.1.5.
+ 
+  2.2    Piggy-back Registration.
+ 
+2.2.1           Piggy-back Rights. If, at any time on or after the date the 
+Company consummates a Business Combination, the Company proposes to file a 
+Registration Statement under the Securities Act with respect to an offering 
+of equity securities, or securities or other obligations exercisable or 
+exchangeable for, or convertible into equity securities, for its own 
+account or for the account of stockholders of the Company (or by the 
+Company and by the stockholders of the Company including, without 
+limitation, pursuant to Section 2.1 hereof), other than a Registration 
+Statement (i) filed in connection with any employee stock option or other 
+benefit plan, (ii) for an exchange offer, as part of a merger, 
+consolidation or similar transaction or for an offering of securities 
+solely to the Company’s existing stockholders, (iii) for an offering of 
+debt that is convertible into equity securities of the Company, or (iv) for 
+a dividend reinvestment plan, then the Company shall give written notice of 
+such proposed filing to all of the Holders of Registrable Securities as 
+soon as practicable but not less than ten (10) days before the anticipated 
+filing date of such Registration Statement, which notice shall (A) describe 
+the amount and type of securities to be included in such offering, the 
+intended method(s) of distribution, and the name of the proposed managing 
+Underwriter or Underwriters, if any, in such offering, and (B) offer to all 
+of the Holders of Registrable Securities the opportunity to register the 
+sale of such number of Registrable Securities as such Holders may request 
+in writing within five (5) days after receipt of such written notice (such 
+Registration a “Piggy-back Registration”). The Company shall, in good 
+faith, cause such Registrable Securities to be included in such Piggy-back 
+Registration and shall use its best efforts to cause the managing 
+Underwriter or Underwriters of a proposed Underwritten Offering to permit 
+the Registrable Securities requested by the Holders pursuant to this 
+subsection 2.2.1 to be included in a Piggy-back Registration on the same 
+terms and conditions as any similar securities of the Company included in 
+such Registration and to permit the sale or other disposition of such 
+Registrable Securities in accordance with the intended method(s) of 
+distribution thereof. All such Holders proposing to distribute their 
+Registrable Securities through an Underwritten Offering under this 
+subsection 2.2.1 shall enter into an underwriting agreement in customary 
+form with the Underwriter(s) selected for such Underwritten Offering by the 
+Company. The Company may postpone or withdraw the filing or the 
+effectiveness of a Piggyback Registration at any time in its sole 
+discretion.
+     
+2.2.2           Reduction of Piggy-back Registration. If the managing 
+Underwriter or Underwriters in an Underwritten Registration that is to be a 
+Piggy-back Registration, in good faith, advises the Company and the Holders 
+of Registrable Securities participating in the Piggy-back Registration in 
+writing that the dollar amount or number of the shares of Common Stock that 
+the Company desires to sell, taken together with (i) the shares of Common 
+Stock, if any, as to which Registration has been demanded pursuant to 
+separate written contractual arrangements with persons or entities other 
+than the Holders of Registrable Securities hereunder, (ii) the Registrable 
+Securities as to which registration has been requested pursuant Section 
+2.2.1 hereof, and (iii) the shares of Common Stock, if any, as to which 
+Registration has been requested pursuant to separate written contractual 
+piggy-back registration rights of other stockholders of the Company, 
+exceeds the Maximum Number of Securities, then:
+ 
+(a) If the Registration is undertaken for the Company’s account, the 
+Company shall include in any such Registration (A) first, the shares of 
+Common Stock or other equity securities that the Company desires to sell, 
+which can be sold without exceeding the Maximum Number of Securities; (B) 
+second, to the extent that the Maximum Number of Securities has not been 
+reached under the foregoing clause (A), the Registrable Securities of 
+Holders exercising their rights to register their Registrable Securities 
+pursuant to subsection 2.2.1 hereof, Pro Rata, which can be sold without 
+exceeding the Maximum Number of Securities; and (C) third, to the extent 
+that the Maximum Number of Securities has not been reached under the 
+foregoing clauses (A) and (B), the shares of Common Stock, if any, as to 
+which Registration has been requested pursuant to written contractual 
+piggy-back registration rights of other stockholders of the Company, which 
+can be sold without exceeding the Maximum Number of Securities; and
+ 
+
+  	6 	 
+
+ 
+
+ 
+(b) If the Registration is pursuant to a request by persons or entities 
+other than the Holders of Registrable Securities, then the Company shall 
+include in any such Registration (A) first, the shares of Common Stock or 
+other equity securities, if any, of such requesting persons or entities, 
+which can be sold without exceeding the Maximum Number of Securities; (B) 
+second, to the extent that the Maximum Number of Securities has not been 
+reached under the foregoing clause (A), the Registrable Securities of 
+Holders exercising their rights to register their Registrable Securities 
+pursuant to subsection 2.2.1, Pro Rata, which can be sold without exceeding 
+the Maximum Number of Securities (C) third, to the extent that the Maximum 
+Number of Securities has not been reached under the foregoing clauses (A) 
+and (B), the shares of Common Stock or other equity securities that the 
+Company desires to sell which can be sold without exceeding the Maximum 
+Number of Securities; and (D) fourth, to the extent that the Maximum Number 
+of Securities has not been reached under the foregoing clauses (A), (B) and 
+(C), the shares of Common Stock or other equity securities for the account 
+of other persons or entities that the Company is obligated to register 
+pursuant to separate written contractual arrangements with such persons or 
+entities, which can be sold without exceeding the Maximum Number of 
+Securities.
+ 
+2.2.3          Piggy-back Registration Withdrawal. Any Holder of 
+Registrable Securities shall have the right to withdraw from a Piggy-back 
+Registration for any or no reason whatsoever upon written notification to 
+the Company and the Underwriter or Underwriters (if any) of his, her or its 
+intention to withdraw from such Piggy-back Registration prior to the 
+effectiveness of the Registration Statement filed with the Commission with 
+respect to such Piggy-back Registration. The Company (in its sole 
+discretion or at the result of a request for withdrawal by persons pursuant 
+to separate written contractual obligations) may postpone or withdraw the 
+filing or effectiveness of a Piggy-back Registration. Notwithstanding 
+anything to the contrary in this Agreement, the Company shall be 
+responsible for the Registration Expenses incurred in connection with the 
+Piggy-back Registration prior to its withdrawal under this subsection 
+2.2.3.
+     
+2.2.4           Unlimited Piggy-back Registration Rights. For purposes of 
+clarity, any Registration effected pursuant to Section 2.2 hereof shall not 
+be counted as a Registration pursuant to a Demand Registration effected 
+under Section 2.1 hereof; provided, however, that the rights to demand a 
+Piggy-back Registration under this Section 2.2 shall terminate on the 
+second anniversary of the consummation of the Business Combination.
+ 
+2.3    Registrations on Form S-3. Provided that the Company has qualified 
+for the use of a Registration Statement on Form S-3 or any successor form 
+thereto, the Holders of Registrable Securities may, at any time, and from 
+time to time, request in writing that the Company, pursuant to Rule 415 
+under the Securities Act (or any successor rule promulgated thereafter by 
+the Commission), register the resale of any or all of their Registrable 
+Securities on Form S-3 or any similar short-form Registration Statement 
+that may be available at such time (“Form S-3”); provided, however, that 
+the Company shall not be obligated to effect such request through an 
+Underwritten Offering. Within ten (10) days of the Company’s receipt of a 
+written request from a Holder or Holders of Registrable Securities for a 
+Registration on Form S-3, the Company shall promptly give written notice of 
+the proposed Registration on Form S-3 to all other Holders of Registrable 
+Securities, and each Holder of Registrable Securities who thereafter wishes 
+to include all or a portion of such Holder’s Registrable Securities in such 
+Registration on Form S-3 shall so notify the Company, in writing, within 
+five (5) days after the receipt by the Holder of the notice from the 
+Company. As soon as practicable thereafter, but not more than thirty (30) 
+days after the Company’s initial receipt of such written request for a 
+Registration on Form S-3, the Company shall file a Registration Statement 
+on Form S-3 with respect to the Registrable Securities of such Holder(s) as 
+are specified in such written request, together with all or such portion of 
+Registrable Securities of any other Holder or Holders joining in such 
+request as are specified in the written notification given by such Holder 
+or Holders, and shall use its reasonable best efforts to cause such 
+Registration Statement to be declared effective by the Commission as soon 
+as practicable thereafter; provided, however, that the Company shall not be 
+obligated to effect any such Registration pursuant to Section 2.3 hereof if 
+(i) a Form S-3 is not available for such offering; or (ii) the Holders of 
+Registrable Securities, together with the Holders of any other equity 
+securities of the Company entitled to inclusion in such Registration, 
+propose to sell the Registrable Securities and such other equity securities 
+(if any) at any aggregate price to the public of less than $10,000,000. The 
+rights to demand Registration on Form S-3 under this Section 2.3 shall 
+terminate on the third anniversary of the Business Combination.
+ 
+
+  	7 	 
+
+ 
+
+ 
+2.4    Restrictions on Registration Rights. The Company shall not be 
+obligated to effect any Demand Registration within 180 days after the 
+effective date of a previous Demand Registration or a previous Piggy-back 
+Registration in which holders of Registrable Securities were permitted to 
+register, and actually sold, 75% of the Registrable Securities requested to 
+be included therein. The Company may postpone for up to 120 days the filing 
+or effectiveness of (A) a Registration Statement for a Demand Registration 
+if the Holders have requested an Underwritten Registration and the Company 
+and the Holders are unable to obtain the commitment of underwriters to 
+firmly underwrite the offer, or (B) a Registration Statement for a Demand 
+Registration or a Registration on Form S-3 if the Registration Statement is 
+required under applicable law, rule or regulation to contain (i) financial 
+statements that are unavailable to the Company for reasons beyond the 
+Company’s control, (ii) audited financial statements as of a date other 
+than the Company’s fiscal year end (unless the Holders requesting 
+Registration agree to pay the reasonable expenses of this audit), (iii) pro 
+forma financial statements that are required to be included in a 
+registration statement, or if the Board determines in its reasonable good 
+faith judgment that such Demand Registration would (x) materially interfere 
+with a significant acquisition, corporate organization or other similar 
+transaction involving the Company, (y) require the Company to make an 
+Adverse Disclosure or (z) render the Company unable to comply with 
+requirements under the Securities Act or Exchange Act; provided, that in 
+such event the Holders of a majority-in-interest of the Registrable 
+Securities initiating a Demand Registration shall be entitled to withdraw 
+such request and, if such request is withdrawn, such Demand Registration 
+shall not count as one of the permitted Demand Registrations hereunder and 
+the Company shall pay all Registration Expenses in connection with such 
+Registration. The Company may delay a Demand Registration hereunder only 
+twice in any period of twelve consecutive months.
+ 
+ARTICLE III
+COMPANY PROCEDURES
+ 
+3.1    General Procedures. If at any time on or after the date the Company 
+consummates a Business Combination the Company is required to effect the 
+Registration of Registrable Securities, the Company shall use its best 
+efforts to effect such Registration to permit the sale of such Registrable 
+Securities in accordance with the intended plan of distribution thereof, 
+and pursuant thereto the Company shall:
+ 
+3.1.1           prepare and file with the Commission a Registration 
+Statement with respect to such Registrable Securities and use its 
+reasonable best efforts to cause such Registration Statement to become 
+effective and remain effective until all Registrable Securities covered by 
+such Registration Statement have been sold;
+     
+3.1.2          prepare and file with the Commission such amendments and 
+post-effective amendments to the Registration Statement, and such 
+supplements to the Prospectus, as may be requested by the Holders or any 
+Underwriter of Registrable Securities or as may be required by the rules, 
+regulations or instructions applicable to the registration form used by the 
+Company or by the Securities Act or rules and regulations thereunder to 
+keep the Registration Statement effective until the earlier of (a) one year 
+following the effective date of the Registration Statement or (b) until all 
+Registrable Securities covered by such Registration Statement are sold in 
+accordance with the intended plan of distribution set forth in such 
+Registration Statement or supplement to the Prospectus and either (i) any 
+underwriter overallotment option has terminated by its terms or (ii) the 
+underwriters have advised the Company that they will not exercise such 
+option or any remaining portion thereof;
+     
+3.1.3           furnish without charge to the Underwriters, if any, and the 
+Holders of Registrable Securities included in such Registration, or such 
+Holders’ legal counsel, copies of the Prospectus included in such 
+Registration Statement (including each preliminary Prospectus), and each 
+amendment and supplement thereto (in each case including all exhibits 
+thereto and documents incorporated by reference therein), and such other 
+documents as the Underwriters and the Holders of Registrable Securities 
+included in such Registration or the legal counsel for any such Holders may 
+reasonably request in order to facilitate the disposition of the 
+Registrable Securities owned by such Holders;
+     
+3.1.4           prior to any public offering of Registrable Securities, use 
+its best efforts to (i) register or qualify the Registrable Securities 
+covered by the Registration Statement under such securities or “blue sky” 
+laws of such jurisdictions in the United States as the Holders of 
+Registrable Securities included in such Registration Statement (in light of 
+their intended plan of distribution) may reasonably request and (ii) take 
+such action necessary to cause such Registrable Securities covered by the 
+Registration Statement to be registered with or approved by such other 
+governmental authorities as may be necessary by virtue of the business and 
+operations of the Company and do any and all other acts and things that may 
+be reasonably necessary or advisable to enable the Holders of Registrable 
+Securities included in such Registration Statement to consummate the 
+disposition of such Registrable Securities in such jurisdictions; provided, 
+however, that the Company shall not be required to qualify generally to do 
+business in any jurisdiction where it would not otherwise be required to 
+qualify or take any action to which it would be subject to general service 
+of process or taxation in any such jurisdiction where it is not then 
+otherwise so subject;
+     
+
+  	8 	 
+
+ 
+
+     
+3.1.5           use commercially reasonable efforts to cause all such 
+Registrable Securities to be listed on each securities exchange or 
+automated quotation system on which similar securities issued by the 
+Company are then listed;
+     
+3.1.6           provide a transfer agent or warrant agent, as applicable, 
+and registrar for all such Registrable Securities no later than the 
+effective date of such Registration Statement;
+     
+3.1.7          advise each seller of such Registrable Securities, promptly 
+after it shall receive notice or obtain knowledge thereof, of the issuance 
+of any stop order by the Commission suspending the effectiveness of such 
+Registration Statement or the initiation or threatening of any proceeding 
+for such purpose and promptly use its commercially reasonable best efforts 
+to prevent the issuance of any stop order or to obtain its withdrawal if 
+such stop order should be issued;
+     
+3.1.8           at least five (5) days prior to the filing of any 
+Registration Statement or Prospectus or any amendment or supplement to such 
+Registration Statement or Prospectus or any document that is to be 
+incorporated by reference into such Registration Statement or Prospectus, 
+furnish a copy thereof to each seller of such Registrable Securities or its 
+counsel;
+     
+3.1.9           notify the Holders at any time when a Prospectus relating 
+to such Registration Statement is required to be delivered under the 
+Securities Act, of the happening of any event as a result of which the 
+Prospectus included in such Registration Statement, as then in effect, 
+includes a Misstatement, and then to correct such Misstatement as set forth 
+in Section 3.4 hereof;
+     
+3.1.10       in the event of an Underwritten Offering, permit the 
+participating Holders to rely on any “cold comfort” letter from the 
+Company’s independent registered public accountants provided to the 
+managing Underwriter of such offering;
+     
+3.1.11       in the event of an Underwritten Offering, permit the 
+participating Holders to rely on any opinion(s) of counsel representing the 
+Company for the purposes of such Registration issued to the managing 
+Underwriter of such offering covering legal matters with respect to the 
+Registration;
+     
+3.1.12       in the event of any Underwritten Offering, enter into and 
+perform its obligations under an underwriting agreement, in usual and 
+customary form, with the managing Underwriter of such offering;
+     
+3.1.13       make available to its security holders, as soon as reasonably 
+practicable, an earnings statement covering the period of at least twelve 
+(12) months beginning with the first day of the Company’s first full 
+calendar quarter after the effective date of the Registration Statement 
+which satisfies the provisions of Section 11(a) of the Securities Act and 
+Rule 158 thereunder, and which requirement will be deemed to be satisfied 
+if the Company timely files complete and accurate information on Forms 
+10-Q, 10-K and 8-K under the Exchange Act and otherwise complies with Rule 
+158 under the Securities Act;
+     
+3.1.14       if the Registration involves the Registration of Registrable 
+Securities involving gross proceeds in excess of $25,000,000, use its 
+reasonable efforts to make available senior executives of the Company to 
+participate in customary “road show” presentations that may be reasonably 
+requested by the Underwriter in any Underwritten Offering; and
+     
+
+  	9 	 
+
+ 
+
+     
+3.1.15        otherwise, in good faith, cooperate reasonably with, and take 
+such customary actions as may reasonably be requested by the Holders, in 
+connection with such Registration.
+ 
+3.2    Registration Expenses. The Registration Expenses of all 
+Registrations shall be borne by the Company. It is acknowledged by the 
+Holders that the Holders shall bear all incremental selling expenses 
+relating to the sale of Registrable Securities, such as Underwriters’ 
+commissions and discounts, brokerage fees, Underwriter marketing costs and 
+all reasonable fees and expenses of any legal counsel representing the 
+Holders.
+   
+3.3    Requirements for Participation in Underwritten Offerings. No person 
+may participate in any Underwritten Offering for equity securities of the 
+Company pursuant to a Registration initiated by the Company hereunder 
+unless such person (i) agrees to sell such person’s securities on the basis 
+provided in any underwriting arrangements approved by the Company and (ii) 
+completes and executes all customary questionnaires, powers of attorney, 
+indemnities, lock-up agreements, underwriting agreements and other 
+customary documents as may be reasonably required under the terms of such 
+underwriting arrangements.
+     
+3.4    Suspension of Sales; Adverse Disclosure. Upon receipt of written 
+notice from the Company that a Registration Statement or Prospectus 
+contains a Misstatement, each of the Holders shall forthwith discontinue 
+disposition of Registrable Securities until he, she or it is advised in 
+writing by the Company that the use of the Prospectus may be resumed and 
+he, she or it has received copies of a supplemented or amended Prospectus 
+correcting the Misstatement (it being understood that the Company hereby 
+covenants to prepare and file such supplement or amendment as soon as 
+reasonably practicable after the time of such notice) and, if so directed 
+by the Company, each Holder shall deliver to the Company (at the Company's 
+expense) all copies, other than permanent file copies then in such Holder's 
+possession, of the Prospectus covering such Registrable Securities at the 
+time of receipt of such notice. If the continued use of a Registration 
+Statement in respect of any Registration at any time would require the 
+Company to make an Adverse Disclosure, or would require the inclusion in 
+such Registration Statement of (i) financial statements that are 
+unavailable to the Company for reasons beyond the Company’s control, (ii) 
+audited financial statements as of a date other than the Company’s fiscal 
+year end (unless the Holders requesting Registration agree to pay the 
+reasonable expenses of this audit), or (iii) pro forma financial statements 
+that are required to be included in a registration statement, the Company 
+may, upon giving prompt written notice of such action to the Holders, delay 
+the filing or initial effectiveness of, or suspend use of, such 
+Registration Statement for no more than 180 days. In the event the Company 
+exercises its rights under the preceding sentence, the Holders agree to 
+suspend, immediately upon their receipt of the notice referred to above, 
+their use of the Prospectus relating to any Registration in connection with 
+any sale or offer to sell Registrable Securities. The Company shall 
+immediately notify the Holders of the expiration of any period during which 
+it exercised its rights under this Section 3.4.
+   
+3.5    Reporting Obligations. As long as any Holder shall own Registrable 
+Securities, the Company, at all times while it shall be reporting under the 
+Exchange Act, covenants to use reasonable best efforts to file timely (or 
+obtain extensions in respect thereof and file within the applicable grace 
+period) all reports required to be filed by the Company after the date 
+hereof pursuant to Sections 13(a) or 15(d) of the Exchange Act and to 
+promptly upon request by a Holder furnish such Holder with true and 
+complete copies of such filings. The Company further covenants that it 
+shall take such further action as any Holder may reasonably request, all to 
+the extent required from time to time to enable such Holder to sell shares 
+of Common Stock held by such Holder without registration under the 
+Securities Act within the limitation of the exemptions provided by Rule 144 
+promulgated under the Securities Act, including providing any legal 
+opinions. Upon the request of any Holder, the Company shall deliver to such 
+Holder a written certification of a duly authorized officer as to whether 
+it has complied with such requirements.
+ 
+ARTICLE IV
+INDEMNIFICATION AND CONTRIBUTION
+ 
+  4.1    Indemnification.
+ 
+4.1.1           The Company agrees to indemnify, to the extent permitted by 
+law, each Holder of Registrable Securities, its officers and directors and 
+each person who controls such Holder (within the meaning of the Securities 
+Act) against all losses, claims, damages, liabilities and expenses 
+(including reasonable attorneys’ fees) caused by any untrue or alleged 
+untrue statement of material fact contained in any Registration Statement, 
+Prospectus or preliminary Prospectus or any amendment thereof or supplement 
+thereto or any omission or alleged omission of a material fact required to 
+be stated therein or necessary to make the statements therein not 
+misleading, except insofar as the same are caused by or contained in any 
+information furnished in writing to the Company by such Holder expressly 
+for use therein. The Company shall indemnify the Underwriters, their 
+officers and directors and each person who controls such Underwriters 
+(within the meaning of the Securities Act) to the same extent as provided 
+in the foregoing with respect to the indemnification of the Holder. 
+     
+
+  	10 	 
+
+ 
+
+     
+4.1.2           In connection with any Registration Statement in which a 
+Holder of Registrable Securities is participating, such Holder shall 
+furnish to the Company in writing such information and affidavits as the 
+Company reasonably requests for use in connection with any such 
+Registration Statement or Prospectus and, to the extent permitted by law, 
+shall indemnify the Company, its directors and officers and agents and each 
+person who controls the Company (within the meaning of the Securities Act) 
+against any losses, claims, damages, liabilities and expenses (including, 
+without limitation, reasonable attorneys’ fees) resulting from any untrue 
+statement of material fact contained in the Registration Statement, 
+Prospectus or preliminary Prospectus or any amendment thereof or supplement 
+thereto or any omission of a material fact required to be stated therein or 
+necessary to make the statements therein not misleading, but only to the 
+extent that such untrue statement or omission is contained in any 
+information or affidavit so furnished in writing by such Holder expressly 
+for use therein; provided, however, that the obligation to indemnify shall 
+be several, not joint and several, among such Holders of Registrable 
+Securities, and the liability of each such Holder of Registrable Securities 
+shall be in proportion to and limited to the net proceeds received by such 
+Holder from the sale of Registrable Securities pursuant to such 
+Registration Statement. The Holders of Registrable Securities shall 
+indemnify the Underwriters, their officers, directors and each person who 
+controls such Underwriters (within the meaning of the Securities Act) to 
+the same extent as provided in the foregoing with respect to 
+indemnification of the Company.
+     
+4.1.3           Any person entitled to indemnification herein shall (i) 
+give prompt written notice to the indemnifying party of any claim with 
+respect to which it seeks indemnification (provided that the failure to 
+give prompt notice shall not impair any person’s right to indemnification 
+hereunder to the extent such failure has not materially prejudiced the 
+indemnifying party) and (ii) unless in such indemnified party’s reasonable 
+judgment a conflict of interest between such indemnified and indemnifying 
+parties may exist with respect to such claim, permit such indemnifying 
+party to assume the defense of such claim with counsel reasonably 
+satisfactory to the indemnified party. If such defense is assumed, the 
+indemnifying party shall not be subject to any liability for any settlement 
+made by the indemnified party without its consent (but such consent shall 
+not be unreasonably withheld). An indemnifying party who is not entitled 
+to, or elects not to, assume the defense of a claim shall not be obligated 
+to pay the fees and expenses of more than one counsel for all parties 
+indemnified by such indemnifying party with respect to such claim, unless 
+in the reasonable judgment of any indemnified party a conflict of interest 
+may exist between such indemnified party and any other of such indemnified 
+parties with respect to such claim. No indemnifying party shall, without 
+the consent of the indemnified party, consent to the entry of any judgment 
+or enter into any settlement which cannot be settled in all respects by the 
+payment of money (and such money is so paid by the indemnifying party 
+pursuant to the terms of such settlement) or which settlement does not 
+include as an unconditional term thereof the giving by the claimant or 
+plaintiff to such indemnified party of a release from all liability in 
+respect to such claim or litigation.
+     
+4.1.4           The indemnification provided for under this Agreement shall 
+remain in full force and effect regardless of any investigation made by or 
+on behalf of the indemnified party or any officer, director or controlling 
+person of such indemnified party and shall survive the transfer of 
+securities. The Company and each Holder of Registrable Securities 
+participating in an offering also agrees to make such provisions as are 
+reasonably requested by any indemnified party for contribution to such 
+party in the event the Company’s or such Holder’s indemnification is 
+unavailable for any reason.
+     
+4.1.5           If the indemnification provided under Section 4.1 hereof 
+from the indemnifying party is unavailable or insufficient to hold harmless 
+an indemnified party in respect of any losses, claims, damages, liabilities 
+and expenses referred to herein, then the indemnifying party, in lieu of 
+indemnifying the indemnified party, shall contribute to the amount paid or 
+payable by the indemnified party as a result of such losses, claims, 
+damages, liabilities and expenses in such proportion as is appropriate to 
+reflect the relative fault of the indemnifying party and the indemnified 
+party, as well as any other relevant equitable considerations. The relative 
+fault of the indemnifying party and indemnified party shall be determined 
+by reference to, among other things, whether any action in question, 
+including any untrue or alleged untrue statement of a material fact or 
+omission or alleged omission to state a material fact, was made by, or 
+relates to information supplied by, such indemnifying party or indemnified 
+party, and the indemnifying party’s and indemnified party’s relative 
+intent, knowledge, access to information and opportunity to correct or 
+prevent such action; provided, however, that the liability of any Holder 
+under this subsection 4.1.5 shall be limited to the amount of the net 
+proceeds received by such Holder in such offering giving rise to such 
+liability. The amount paid or payable by a party as a result of the losses 
+or other liabilities referred to above shall be deemed to include, subject 
+to the limitations set forth in subsections 4.1.1, 4.1.2 and 4.1.3 above, 
+any legal or other fees, charges or expenses reasonably incurred by such 
+party in connection with any investigation or proceeding. The parties 
+hereto agree that it would not be just and equitable if contribution 
+pursuant to this subsection 4.1.5 were determined by pro rata allocation or 
+by any other method of allocation, which does not take account of the 
+equitable considerations referred to in this subsection 4.1.5. No person 
+guilty of fraudulent misrepresentation (within the meaning of Section 11(f) 
+of the Securities Act) shall be entitled to contribution pursuant to this 
+subsection 4.1.5 from any person who was not guilty of such fraudulent 
+misrepresentation.
+ 
+
+  	11 	 
+
+ 
+
+ 
+ARTICLE V
+MISCELLANEOUS
+ 
+5.1    Notices. Any notice or communication under this Agreement must be in 
+writing and given by (i) deposit in the United States mail, addressed to 
+the party to be notified, postage prepaid and registered or certified with 
+return receipt requested, (ii) delivery in person or by courier service 
+providing evidence of delivery, or (iii) transmission by hand delivery, 
+electronic mail or facsimile. Each notice or communication that is mailed, 
+delivered, or transmitted in the manner described above shall be deemed 
+sufficiently given, served, sent, and received, in the case of mailed 
+notices, on the third business day following the date on which it is mailed 
+and, in the case of notices delivered by courier service, hand delivery, 
+electronic mail or facsimile, at such time as it is delivered to the 
+addressee (with the delivery receipt of the intended recipient or the 
+affidavit of messenger) or at such time as delivery is refused by the 
+addressee upon presentation. Any notice or communication under this 
+Agreement must be addressed to
+ 
+    the Company at:
+     
+    FinTech Acquisition Corp. II
+    2929 Arch Street, Suite 1703
+    Philadelphia, PA 19104-2870Email: jmce@stbwell.com
+ 
+    with a copy to:
+ 
+    Ledgewood
+    2001 Market Street, Suite 3400
+    Philadelphia, Pennsylvania 19103
+    Attention: Amanda Abrams
+    Email: aabrams@ledgewood.com
+    Facsimile: (215) 735-9450
+     
+and to the Holders, at such Holder’s address referenced in Schedule A.
+ 
+Any party may change its address for notice at any time and from time to 
+time by written notice to the other parties hereto, and such change of 
+address shall become effective thirty (30) days after delivery of such 
+notice as provided in this Section 5.1.
+ 
+  5.2     Assignment; No Third Party Beneficiaries.
+ 
+5.2.1           This Agreement and the rights, duties and obligations of 
+the Company hereunder may not be assigned or delegated by the Company in 
+whole or in part. Prior to the expiration of the Founder Lock-up Period or 
+Placement Unit Lock-up Period, as the case may be, no Holder may assign or 
+delegate his, her or its rights, duties or obligations under this Agreement 
+in whole or in part. Notwithstanding the above, as it applies to the 
+Registrable Securities, the Holder may transfer such securities during the 
+respective lock-up period to any Permitted Transferee (as such term is 
+defined in that certain Warrant Agreement between the Company and 
+Continental Stock Transfer & Trust Company) but only if such Permitted 
+Transferee agrees to become bound by the transfer restrictions set forth in 
+this Agreement and the Letter Agreement.
+     
+
+  	12 	 
+
+ 
+
+     
+5.2.2           Except as set forth in subsection 5.2.1 hereof, this 
+Agreement and the rights, duties and obligations of the Holders of 
+Registrable Securities hereunder may be assigned or delegated by such 
+Holder of Registrable Securities in conjunction with and to the extent of 
+any transfer of Registrable Securities by any such Holder.
+     
+5.2.3           This Agreement and the provisions hereof shall be binding 
+upon and shall inure to the benefit of each of the Holders, the permitted 
+assigns and its successors and the permitted assigns of the Holders.
+     
+5.2.4           This Agreement shall not confer any rights or benefits on 
+any persons that are not parties hereto, other than as expressly set forth 
+in this Agreement and Section 5.2 hereof.
+     
+5.2.5           No assignment by any party hereto of such party’s rights, 
+duties and obligations hereunder shall be binding upon or obligate the 
+Company unless and until the Company shall have received (i) written notice 
+of such assignment as provided in Section 5.1 hereof and (ii) the written 
+agreement of the assignee, in a form reasonably satisfactory to the 
+Company, to be bound by the terms and provisions of this Agreement (which 
+may be accomplished by an addendum or certificate of joinder to this 
+Agreement). Any transfer or assignment made other than as provided in this 
+Section 5.2 shall be null and void.
+ 
+5.3  Counterparts. This Agreement may be executed in multiple counterparts 
+(including facsimile or PDF counterparts), each of which shall be deemed an 
+original, and all of which together shall constitute the same instrument, 
+but only one of which need be produced.
+   
+5.4  Governing Law; Venue. THE PARTIES EXPRESSLY AGREE THAT THIS AGREEMENT 
+SHALL BE GOVERNED BY AND CONSTRUED UNDER THE LAWS OF THE STATE OF NEW YORK, 
+WITHOUT REGARD TO THE CONFLICT OF LAW PROVISIONS OF SUCH JURISDICTION. Any 
+legal suit, action or proceeding arising out of or based upon this 
+Agreement or the transactions contemplated hereby may be instituted in the 
+federal courts of the United States or the courts of the State of New York 
+in each case located in the city of New York, and each party irrevocably 
+submits to the exclusive jurisdiction of such courts in any such suit, 
+action or proceeding.
+     
+5.5    Amendments and Modifications. Upon the written consent of the 
+Company and the Holders of at least a majority in interest of the then 
+outstanding Registrable Securities, compliance with any of the provisions, 
+covenants and conditions set forth in this Agreement may be waived, or any 
+of such provisions, covenants or conditions may be amended or modified; 
+provided, however, that notwithstanding the foregoing, any amendment hereto 
+or waiver hereof that adversely affects one Holder, solely in its capacity 
+as a holder of the shares of capital stock of the Company, in a manner that 
+is materially different from the other Holders (in such capacity) shall 
+require the consent of the Holder so affected. No course of dealing between 
+any Holder or the Company and any other party hereto or any failure or 
+delay on the part of a Holder or the Company in exercising any rights or 
+remedies under this Agreement shall operate as a waiver of any rights or 
+remedies of any Holder or the Company. No single or partial exercise of any 
+rights or remedies under this Agreement by a party shall operate as a 
+waiver or preclude the exercise of any other rights or remedies hereunder 
+or thereunder by such party.
+   
+5.6    Other Registration Rights. The Company represents and warrants that 
+no person, other than a Holder of Registrable Securities, has any right to 
+require the Company to register any securities of the Company for sale or 
+to include such securities of the Company in any Registration filed by the 
+Company for the sale of securities for its own account or for the account 
+of any other person.
+     
+5.7    Termination. This Agreement shall terminate upon the earlier of (i) 
+the fifth anniversary of the date of this Agreement or (ii) the date as of 
+which (A) all of the Registrable Securities have either been sold pursuant 
+to a Registration Statement or cease to be Registrable Securities (but in 
+no event prior to the applicable period referred to in Section 4(3) of the 
+Securities Act and Rule 174 thereunder) or (B) the Holders of all 
+Registrable Securities are permitted to sell the Registrable Securities 
+under Rule 144 (or any similar provision) under the Securities Act without 
+limitation on the amount of securities sold or the manner of sale. The 
+provisions of Section 3.5 and Article IV shall survive any termination.
+     
+[SIGNATURE PAGES FOLLOW]
+ 
+
+  	13 	 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the undersigned have caused this Agreement to be 
+executed as of the date first written above.
+ 
+  	COMPANY:   
+  	 
+  	
+FINTECH ACQUISITION CORP. II
+a Delaware corporation
+  	 
+  	By: 	 
+  	  	
+Name: James J. McEntee, III
+Title: President and Chief Financial Officer
+  	  	 
+  	HOLDERS:
+  	 
+  	
+FINTECH INVESTOR HOLDINGS II, LLC
+a Delaware limited liability company
+  	 
+  	By: 	 
+  	  	Name: Daniel G. Cohen
+  	  	Title: Manager
+ 
+  	DGC FAMILY FINTECH TRUST
+  	  	 
+  	By: 	 
+  	  	Name: Daniel G. Cohen
+  	  	Title:  Trustee
+  	  	 
+  	  	 
+  	  	Betsy Z. Cohen
+  	  	 
+  	  	 
+  	  	Daniel G. Cohen 
+  	  	 
+  	  	 
+  	  	Shami Patel
+  	  	 
+  	  	 
+  	  	
+Jeremy Kuiper
+  	  	 
+  	  	Swarthmore Trust of 2016
+  	  	 
+  	By: 	 
+  	  	Name:
+  	  	Title: Trustee
+ 
+[Registration Rights Agreement]
+ 
+
+ 
+
+ 
+
+ 
+Schedule A
+ 
+Holder
+  	Address
+  	  	
+DGC Family FinTech Trust
+  	 
+  	  	 
+FinTech Investor Holdings, LLC 
+  	 
+  	  	 
+Betsy Z. Cohen 
+  	 
+  	  	 
+Daniel G. Cohen 	  	 
+  	  	 
+Jeremy Kuiper 
+  	 
+  	  	 
+Swarthmore Trust of 2016 
+  	 
+  	  	 
+Shami Patel 
+  	 
+ 
+ 
+ 
+ 
+ 
+ 

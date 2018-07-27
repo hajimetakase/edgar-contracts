@@ -1,0 +1,2393 @@
+ EX-10.1 4 m0839exhibit101.htm 2007-1 SUBI SERVICING SUPPLEMENT
+
+EXECUTION COPY
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINANCIAL SERVICES VEHICLE TRUST,
+as Vehicle Trust,
+
+
+and
+
+
+BMW MANUFACTURING L.P.,
+as UTI Beneficiary,
+
+
+and
+
+
+BMW FINANCIAL SERVICES NA, LLC,
+as Servicer and Sponsor
+
+
+2007-1
+SERVICING SUPPLEMENT
+Dated as of November 2, 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+TABLE OF CONTENTS
+
+              Page
+
+
+              ARTICLE I -
+              DEFINITIONS
+              1
+
+              1.1.
+              Definitions
+              1
+
+              1.2.
+              Interpretative Provisions
+              9
+
+              ARTICLE II -
+              SERVICING OF THE 2007-1 LEASES AND 2007-1 VEHICLES
+              9
+
+              2.1.
+              Identification of 2007-1 Vehicles and 2007-1 Leases;
+              Servicing;
+              Securitization Value.
+              9
+
+              2.2.
+              Extensions; Monthly Payments; Term.
+              10
+
+              2.3.
+              Representations, Reallocation and Repurchase of 2007-1 Leases
+              and
+              2007-1 Vehicles.
+              10
+
+              2.4.
+              Collections and Payment Date Advance Reimbursement.
+              12
+
+              2.5.
+              Net Deposits
+              13
+
+              2.6.
+              Servicing Compensation.
+              13
+
+              2.7.
+              Advances.
+              14
+
+              2.8.
+              Third Party Claims
+              14
+
+              2.9.
+              Contingent and Excess Liability Insurance Policies
+              14
+
+              2.10.
+              Reporting by the Servicer; Delivery of Certain Documentation.
+              15
+
+              2.11.
+              Annual Officers Certificate
+              15
+
+              2.12.
+              Assessment of Compliance and Annual Accountants Attestation
+              15
+
+              2.13.
+              Custody of Lease Documents and Certificates of Title
+              16
+
+              2.14.
+              Servicer Defaults; Termination of Servicer.
+              17
+
+              2.15.
+              Servicer Representations and Warranties
+              19
+
+              2.16.
+              Appointment of Subservicer or Subcontractor.
+              21
+
+              2.17.
+              Information to be Provided by the Servicer.
+              22
+
+              2.18.
+              Remedies.
+              23
+
+              2.19.
+              Purchase of the 2007-1 SUBI Certificate; Redemption of the
+              Notes;
+              Repayment of the Trust Certificates.
+              23
+
+              2.20.
+              Servicer Not to Resign.
+              24
+
+              ARTICLE III -
+              MISCELLANEOUS
+              24
+
+              3.1.
+              Termination of Supplement
+              24
+
+              3.2.
+              Governing Law
+              24
+
+              3.3.
+              Amendment
+              24
+
+              3.4.
+              Relationship of this Servicing Supplement to Other Trust
+              Documents
+              25
+
+              3.5.
+              Binding Effect
+              25
+
+              3.6.
+              Table of Contents and Headings
+              26
+
+              3.7.
+              Counterparts
+              26
+
+              3.8.
+              Further Assurances
+              26
+
+              3.9.
+              No Waiver; Cumulative Remedies
+              26
+
+              3.10.
+              No Petition
+              26
+
+              3.11.
+              Limitation of Liability of Vehicle Trustee
+              26
+
+              3.12.
+              Intent of Parties; Reasonableness
+              26
+
+              3.13.
+              Series Disclaimer and Acknowledgment
+              27
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+2007-1 SERVICING SUPPLEMENT
+
+
+This 2007-1 Servicing Supplement, dated as of November 2, 2007, is among 
+Financial Services Vehicle Trust, a Delaware statutory trust (the Trust), 
+BMW Manufacturing L.P., an Indiana limited partnership, as grantor and 
+initial beneficiary of the Trust (in such capacities, the Grantor and the 
+UTI Beneficiary, respectively) and BMW Financial Services NA, LLC, a 
+Delaware limited liability company (BMW FS), as servicer (in such 
+capacity, the Servicer) and as sponsor (in such capacity, the Sponsor).
+
+
+RECITALS
+
+
+WHEREAS, the Grantor and UTI Beneficiary and The Bank of New York 
+(Delaware) (as successor in interest to Chase Manhattan Bank Delaware), as 
+trustee (the Vehicle Trustee) of the Trust, have entered into that 
+certain amended and restated trust agreement, dated as of August 30, 1995, 
+as amended and restated as of September 27, 1996, as further amended as of 
+May 25, 2000 and December 1, 2006 (the Vehicle Trust Agreement), pursuant 
+to which the purposes of the Trust are, among other things, to take 
+assignments and conveyances of, and hold in trust and deal in various Trust 
+Assets (as such term is defined in the Vehicle Trust Agreement);
+
+
+WHEREAS, the parties hereto have entered into that certain servicing 
+agreement, dated as of August 30, 1995 (the Basic Servicing Agreement 
+and, as supplemented hereby, the Servicing Agreement), which provides for 
+certain servicing obligations with respect to the Trust Assets; and
+
+
+WHEREAS, the parties acknowledge that, in connection with the execution of 
+the 2007-1 Vehicle Trust supplement to the Vehicle Trust Agreement, dated 
+as of November 2, 2007 (the 2007-1 SUBI Supplement, and together with the 
+Vehicle Trust Agreement, the SUBI Trust Agreement), pursuant to which one 
+special unit of beneficial interest in the Trust (the 2007-1 SUBI) will 
+be created, it is necessary and desirable to enter into a supplemental 
+agreement to the Basic Servicing Agreement providing for specific servicing 
+obligations in connection with the Trust Assets allocable to the 2007-1 
+SUBI.
+
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained, 
+and of other good and valuable consideration, the receipt and adequacy of 
+which are hereby acknowledged, the parties hereto agree as follows:
+
+
+ARTICLE I - DEFINITIONS
+
+
+1.1.
+Definitions.  Capitalized terms used herein that are not otherwise defined 
+shall have the meanings ascribed thereto in the Basic Servicing Agreement 
+or in the SUBI Trust Agreement, as the case may be.  Whenever used in this 
+Servicing Supplement, unless the context otherwise requires, the following 
+words and phrases shall have the following meanings:
+
+
+2007-1 Leases has the meaning set forth in Section 2.1(a).
+
+
+2007-1 SUBI has the meaning set forth in the 2007-1 SUBI Supplement.
+
+
+2007-1 SUBI Supplement has the meaning set forth in the Recitals.
+
+
+2007-1 Vehicles has the meaning set forth in Section 2.1(a).
+
+
+2007-1 SUBI Certificate has the meaning set forth in the 2007-1 SUBI 
+Supplement.
+
+
+Actuarial Payoff means the excess of the sum of the Monthly Payments 
+remaining until the end of the related 2007-1 Lease and the Contract 
+Residual Value over the remaining unearned rent charges, calculated using 
+the actuarial method.
+
+
+Advance means a Sales Proceeds Advance or a Monthly Payment Advance, as 
+the context may require.
+
+
+ALG means Automotive Lease Guide.
+
+
+ALG Residual Value means the residual of the Vehicle set forth as the ALG 
+Residual Value in the lease schedule attached as Exhibit A to the 2007-1 
+SUBI Supplement.
+
+
+Available Funds has the meaning set forth in the Indenture.
+
+
+Basic Servicing Agreement has the meaning set forth in the Recitals.
+
+
+BMW Capital means BMW US Capital LLC, a Delaware limited liability 
+company.
+
+
+Cap Counterparty means JPMorgan Chase Bank, National Association, as the 
+cap counterparty under the Interest Rate Cap Agreement, or any successor or 
+replacement cap counterparty from time to time.
+
+
+Collection Period means the month immediately preceding the month in 
+which the related Payment Date occurs (or, in the case of the initial 
+Collection Period, the period commencing on September 1, 2007 and ending on 
+October 31, 2007).
+
+
+Contingent and Excess Liability Insurance Policies means those certain 
+vehicle liability, excess liability and other Insurance Policies issued to 
+the Servicer for the benefit of the Servicer, the Trust, the UTI 
+Beneficiary, the Depositor or the Issuer from time to time, to the extent 
+such Insurance Policies relate to the 2007-1 Vehicles, providing coverage 
+for each accident and permitting multiple claims in any policy period 
+subject to customary deductibles.
+
+
+Cutoff Date means close of business on August 31, 2007.
+
+
+Daily Advance Reimbursements means amounts collected and netted on an 
+ongoing basis from SUBI Collections by the Servicer to repay Monthly 
+Payment Advance amounts where a Monthly Payment Advance amount has been 
+recovered in a subsequent payment made by the related Lessee in respect of 
+the Monthly Payment due with respect to the related 2007-1 Vehicle.
+
+
+Defaulted Lease means a 2007-1 Lease terminated by (a) the Servicer 
+following a default by or bankruptcy of the related Lessee or (b) the 
+Servicer because the related Vehicle has been lost, stolen or damaged 
+beyond economic repair.
+
+
+Defaulted Vehicle means a 2007-1 Vehicle related to a Defaulted Lease.
+
+
+Deposit Date means the Business Day immediately preceding the related 
+Payment Date.
+
+
+Depositor means BMW Auto Leasing LLC.
+
+
+Discount Rate means 9.05%.
+
+
+Disposition Expenses means expenses and other amounts reasonably incurred 
+by the Servicer in connection with the sale or other disposition of a 
+Matured Vehicle or a Defaulted Vehicle, including but not limited to sales 
+commissions, and expenses incurred in connection with making claims under 
+any Contingent and Excess Liability Insurance or other applicable insurance 
+policies.  Disposition Expenses will be reimbursable to the Servicer from 
+amounts otherwise included in Sales Proceeds, Insurance Proceeds, and 
+Termination Proceeds.
+
+
+Early Termination Cost means the amount paid by a Lessee pursuant to the 
+2007-1 Lease upon the termination of an Early Termination Lease and the 
+return of the related 2007-1 Vehicle.
+
+
+Early Termination Lease means a 2007-1 Lease terminated by the related 
+Lessee prior to its Maturity Date.
+
+
+End of Lease Term Liability means, with respect to a Matured Vehicle 
+returned to the Servicer by the Lessee, the amount paid by such Lessee 
+including any disposition fee, unpaid Monthly Payments due, Excess Mileage 
+Payments and Excess Wear and Use Payments and any fees and taxes.
+
+
+Excess Mileage Payments means  excess mileage charges payable by the 
+Lessee under a 2007-1 Lease.
+
+
+Excess Wear and Use Payments means amounts payable by the Lessee under a 
+2007-1 Lease to repair damage to the related 2007-1 Vehicle outstanding 
+upon return thereof to the Servicer.
+
+
+Holder means the holder from time to time of a 2007-1 SUBI Certificate.
+
+
+Indenture means that certain indenture, dated as of November 2, 2007, 
+between the Issuer and the Indenture Trustee.
+
+
+Initial Note Balance means the initial principal amount of the Notes.
+
+
+Insurance Proceeds means any recoveries or proceeds collected by the 
+Servicer net of related Disposition Expenses under any insurance policy, 
+including any self-insurance, and also including any vehicle liability 
+insurance policy required to be obtained and maintained by the Lessee 
+pursuant to the related 2007-1 Lease, any blanket or supplemental vehicle 
+casualty insurance policy maintained by the Servicer and any other 
+insurance policy relating to the 2007-1 Lease or the related Lessee, in 
+each case in connection with damage to a related 2007-1 Vehicle or its 
+loss, destruction or theft, except to the extent required to be paid to a 
+Lessee.
+
+
+Interest Rate Cap Agreement means the ISDA Master Agreement, the Schedule 
+and the Credit Support Annex thereto, each dated as of the Closing Date, 
+between the Cap Counterparty and the Issuer, and the Confirmations thereto, 
+each dated as of the Closing Date, and entered into pursuant to such ISDA 
+Master Agreement, as the same may be amended or supplemented from time to 
+time in accordance with the terms thereof.
+
+
+Issuer means the BMW Vehicle Lease Trust 2007-1.
+
+
+Lease Rate means for each 2007-1 Lease, the rent charge portion of each 
+Monthly Payment, calculated on a constant yield basis at an imputed 
+interest rate.  
+
+
+Lease Term means the duration of a 2007-1 Lease, as extended pursuant to 
+Section 2.2.
+
+
+Lessee means the lessee of a 2007-1 Vehicle.
+
+
+Like-Kind Exchange Program means the transactions contemplated by a 
+certain Master Exchange Agreement, dated as of December 28, 1998, as 
+amended as of January 2, 2007, between BMW Financial Services NA, Inc. 
+(predecessor in interest to BMW FS) and Financial Services Remarketing, 
+Inc., or any similar program or arrangement.
+
+
+Liquidated Lease shall mean a 2007-1 Lease for which any of the following 
+has occurred during a Collection Period (or, with respect to clause (d) 
+below, on the Deposit Date immediately following such Collection Period):
+
+
+      (a) the related Leased Vehicle was sold or otherwise disposed of by
+      the Servicer following (i) such 2007-1 Lease becoming a Defaulted
+      Lease or (ii) the scheduled or early termination (including any early
+      termination by the related Lessee) of such 2007-1 Lease;
+
+
+      (b) such 2007-1 Lease became a Defaulted Lease or such 2007-1 Lease
+      terminated or expired more than 90 days prior to the end of such
+      Collection Period and the related Leased Vehicle was not sold;
+
+
+      (c) the Servicers records, in accordance with its customary
+      servicing practices, disclose that all Insurance Proceeds expected to
+      be received have been received by the Servicer following a casualty
+      or other loss with respect to the related 2007-1 Vehicle; or
+
+
+      (d) the Servicer shall have made a Sales Proceeds Advance with
+      respect to such 2007-1 Lease.
+
+
+Matured Lease means a 2007-1 Lease that has reached its Maturity Date.
+
+
+Matured Vehicle means a 2007-1 Vehicle for which the related 2007-1 Lease 
+has reached its Maturity Date.
+
+
+Maturity Date means with respect to any 2007-1 Lease, the scheduled 
+termination date specified in such 2007-1 Lease, as such date may be 
+extended from time to time in accordance with Section 2.2.
+
+
+Minimum Required Rating means, with respect to BMW Capital, a short-term 
+unsecured debt rating of the commercial paper of BMW Capital (which 
+commercial paper is guaranteed by Bayerische Motoren Werke 
+Aktiengesellschaft) equal to or greater than "Prime-1" by Moody's and "A-1" 
+by Standard & Poor's.
+
+
+Monthly Payment means the fixed lease payment payable monthly by the 
+Lessee in respect of a 2007-1 Lease and does not include other amounts 
+payable by the Lessee, such as late charges, returned check fees, taxes and 
+similar items (all of which will be payable to the Servicer.)
+
+
+Monthly Payment Advance means the amount advanced by the Servicer to the 
+Issuer on a Deposit Date equal to the unpaid Monthly Payment due from the 
+related Lessee.
+
+
+Monthly Remittance Condition means
+
+
+(i)
+(A) BMW Capital has the Minimum Required Rating and (B) no Servicer Default 
+has occurred; or
+
+
+(ii)
+if (A) the Servicer obtains a Servicer Letter of Credit under which demands 
+for payment may be made to secure timely remittance of monthly SUBI 
+Collections to the 2007-1 SUBI Collection Account and (B) the Indenture 
+Trustee is provided with confirmation from each Rating Agency to the effect 
+that the use of an alternative remittance schedule will not result in a 
+Rating Event.  
+
+
+Payahead Amount means payments remitted by the related Lessees in excess 
+of the Monthly Payment and any fees with respect to a 2007-1 Lease.
+
+
+Payment Date means the 15th day of each month, or, if not a Business Day, 
+the next succeeding Business Day commencing with the first Payment Date on 
+November 15, 2007.
+
+
+Payment Date Advance Reimbursement has the meaning set forth in Section 
+2.4(b)(i).
+
+
+Purchase Option Price means the amount payable by a Lessee upon the 
+exercise of its option to purchase a related Vehicle which amount equals 
+(a) with respect to a Matured Vehicle, the Contract Residual Value plus any 
+fees, taxes and other charges imposed in connection with such purchase and 
+(b) with respect to a related 2007-1 Vehicle for which the related 2007-1 
+Lease has been terminated early by the Lessee, the sum of (i) any unpaid 
+Monthly Payments due, (ii) any fees, taxes and other charges imposed in 
+connection with the related Lease, (iii) an early termination fee and (iv) 
+the Actuarial Payoff.
+
+
+Rating Event has the meaning set forth in the Indenture.
+
+
+Reallocation Payment means, with respect to events causing the Servicer 
+to have an obligation to repurchase a 2007-1 Lease and the related 2007-1 
+Vehicle pursuant to Section 2.2 or 2.3, the Securitization Value of such 
+2007-1 Lease as of the day on which the related cure period ended.
+
+
+Recovery Proceeds means any Insurance Proceeds, any security deposit 
+applied to an amount owed by a Lessee, any Total Loss Payoff, Early 
+Termination Cost and End of Lease Term Liability received from a Lessee and 
+any other net recoveries received by the Servicer with respect to the 
+2007-1 Lease that have been charged-off, minus amounts included in such 
+items that represent third-party charges paid or payable (such as fees, 
+taxes and repair costs).
+
+
+Regulation AB means Subpart 229.1100  Asset Backed Securities 
+(Regulation AB), 17 C.F.R. §§229.1100-229.1123, as such may be amended from 
+time to time, and subject to such clarification and interpretation as have 
+been provided by the Commission in the adopting release (Asset-Backed 
+Securities, Securities Act Release No. 33-8518, 70 Fed. Reg. 1,506, 1,531 
+(Jan. 7, 2005)) or by the staff of the Commission, or as may be provided by 
+the Commission or its staff from time to time.
+
+
+Required Percentage means the holders of not less than 66 2/3% of the 
+Outstanding Amount of the Notes.
+
+
+Residual Value Loss means, in respect of a Collection Period, the amount, 
+if any, by which the aggregate of Sales Proceeds and Termination Proceeds 
+during such Collection Period are less than the aggregate ALG Residual 
+Values of the related 2007-1 Leases.
+
+
+Residual Value Loss Vehicle means, a 2007-1 Vehicle that has been sold 
+and in respect of which (i) the Servicer has made a Sales Proceeds Advance 
+and (ii) the Sales Proceeds Advance exceeds the Sales Proceeds or 
+Termination Proceeds, as the case may be.
+
+
+Sales Proceeds means, with respect to any 2007-1 Vehicle, all proceeds 
+received from the sale at auction of such 2007-1 Vehicle, net of related 
+Disposition Expenses.
+
+
+Sales Proceeds Advance means the amount advanced by the Servicer to the 
+Issuer on a Deposit Date equal to the Securitization Value of a 2007-1 
+Lease relating to a 2007-1 Vehicle that, during the related Collection 
+Period, became a Matured Vehicle and was not sold by the Servicer.
+
+
+Securitization Rate means, with respect to a 2007-1 Lease, an annualized 
+rate that is the greater of (a) the annual percentage rate for that 2007-1 
+Lease and (b) the Discount Rate.
+
+
+Securitization Value means, with respect to any 2007-1 Lease, (a) as of 
+any date other than the Maturity Date of such 2007-1 Lease, the sum of (i) 
+the present value (discounted at the Securitization Rate) of the aggregate 
+Monthly Payments remaining on such 2007-1 Lease (including Monthly Payments 
+due and not yet paid for which the Servicer has never made a Monthly 
+Payment Advance) and (ii) the present value (discounted at the 
+Securitization Rate) of the ALG Residual Value of the related 2007-1 
+Vehicle and (b) as of the Maturity Date of the related 2007-1 Lease, the 
+ALG Residual Value of the related 2007-1 Vehicle; provided, however, that 
+the Securitization Value of a Liquidated Lease is equal to zero.
+
+
+Servicer Letter of Credit means a letter of credit, surety bond or 
+insurance policy issued by a depository institution, insurance company or 
+financial institution having a short-term credit rating at least equal to 
+the Required Deposit Rating and providing that the Indenture Trustee or 
+Trust Agent, as the case may be, may draw thereupon in the event the 
+Servicer fails to deposit SUBI Collections into the 2007-1 SUBI Collection 
+Account on a monthly basis.
+
+
+Servicing Agreement has the meaning set forth in the Recitals.
+
+
+Servicing Criteria means the servicing criteria set forth in Item 
+1122(d) of Regulation AB, as such may be amended from time to time.
+
+
+Servicing Fee means, with respect to the 2007-1 SUBI Assets, the fee 
+payable on each Payment Date equal to, for each related Collection Period, 
+one-twelfth of the product of (i) 1.00% and (ii) the aggregate 
+Securitization Value of all 2007-1 Leases as of the first day of such 
+Collection Period, calculated and paid based on a 360-day year consisting 
+of twelve 30-day months (provided, that for the Collection Period relating 
+to the November 15, 2007 Payment Date, the Servicing Fee will be equal to 
+two-twelfths of the product of (i) 1.00% and (ii) the aggregate 
+Securitization Value of the 2007-1 Leases as of the Cutoff Date).
+
+
+Servicing Supplement means this 2007-1 servicing supplement to the Basic 
+Servicing Agreement.
+
+
+SUBI Collections means, with respect to any Collection Period, the net 
+amount collected or received by the Servicer in respect of the 2007-1 SUBI 
+Assets during such Collection Period of: (i) Monthly Payments (net of any 
+Daily Advance Reimbursements); (ii) Sales Proceeds; (iii) Reallocation 
+Payments made by the Servicer; (iv) Termination Proceeds; (v) Recovery 
+Proceeds; and (vi) the price paid by the Servicer in connection with the 
+Servicers purchase of certain Leases pursuant to Section 2.3(f) hereof and 
+certain Matured Vehicles (to the extent not duplicative of any of clauses 
+(i) through (v) above).
+
+
+Subcontractor means any vendor, subcontractor or other Person that is not 
+responsible for the overall servicing (as servicing is commonly 
+understood by participants in the asset-backed securities market) of the 
+2007-1 Leases and 2007-1 Vehicles but performs one or more discrete 
+functions identified in Item 1122(d) of Regulation AB with respect to the 
+2007-1 Leases and 2007-1 Vehicles under the direction or authority of the 
+Servicer or a Subservicer.
+
+
+Subservicer means any Person that services the 2007-1 Leases and 2007-1 
+Vehicles on behalf of the Servicer or any Subservicer and is responsible 
+for the performance (whether directly or through Subservicers or 
+Subcontractors) of a substantial portion of the material servicing 
+functions required to be performed by the Servicer under this Agreement 
+that are identified in Item 1122(d) of Regulation AB.
+
+
+Termination Proceeds means any Purchase Option Price received upon the 
+purchase of a 2007-1 Vehicle by the related Lessee or the price received 
+from the sale of a 2007-1 Vehicle to a dealer minus amounts included in 
+either such price that represent reimbursement for third-party charges paid 
+or payable (such as fees and taxes).
+
+
+Total Loss Payoff means, with respect to a Vehicle that has been lost, 
+stolen or damaged beyond economic repair, an amount paid by the Lessee 
+generally equal to the deductible under the related insurance policy, 
+unpaid Monthly Payments due, and any official fees and taxes and any other 
+charges owed under the 2007-1 Lease.
+
+
+Trust Agreement means that certain trust agreement, as amended and 
+restated as of November 2, 2007, between the Depositor and the Owner 
+Trustee.
+
+
+Trust Certificate has the meaning set forth in the Trust Agreement.
+
+
+Trust State means a state in which the Vehicle Trust has all licenses, if 
+any, necessary to own and lease vehicles.
+
+
+Vehicle Representation Date means, with respect to any 2007-1 Vehicle, 
+the Cutoff Date.
+
+
+Vehicle Trust Agreement has the meaning set forth in the Recitals.
+
+
+Vehicle Trustee has the meaning set forth in the Recitals.
+
+
+1.2.
+Interpretative Provisions.  For all purposes of this Servicing Supplement, 
+except as otherwise expressly provided or unless the context otherwise 
+requires, (i) terms used in this Servicing Supplement include, as 
+appropriate, all genders and the plural as well as the singular, (ii) 
+references to words such as herein, hereof and the like shall refer to 
+this Servicing Supplement as a whole and not to any particular part, 
+Article or Section within this Servicing Supplement, (iii) references to a 
+Section such as Section 1.01 or an Article such as Article One shall 
+refer to the applicable Section or Article of this Servicing Supplement, 
+(iv) the term include and all variations thereof shall mean include 
+without limitation and (v) the term proceeds shall have the meaning 
+ascribed to such term in the UCC.
+
+
+ARTICLE II - SERVICING OF THE 2007-1 LEASES AND 2007-1 VEHICLES
+
+
+2.1.
+Identification of 2007-1 Vehicles and 2007-1 Leases; Servicing; 
+Securitization Value.
+
+
+(a)
+The Servicer hereby identifies, allocates and segregates as 2007-1 SUBI 
+Assets the Vehicles more particularly described on Exhibit A hereto and the 
+Leases relating to such Vehicles (respectively, the 2007-1 Leases and the 
+2007-1 Vehicles); provided, however, that the 2007-1 Leases and 2007-1 
+Vehicles as of any date of determination shall not include any Lease or 
+Vehicle, respectively, that has been reallocated from the 2007-1 SUBI to 
+the UTI or to an Other SUBI pursuant to this Servicing Supplement on or 
+prior to such date.  Exhibit A shall set forth as to each 2007-1 Lease or 
+2007-1 Vehicle, as the case may be, the (i) vehicle identification number, 
+(ii) date of origination, (iii) the Securitization Value as of the Cutoff 
+Date, (iv) ALG Residual Value, (v) the Monthly Payment and (vi) number of 
+months remaining from the Cutoff Date to the month in which the Maturity 
+Date occurs.
+
+
+(b)
+Notwithstanding the last sentence of the third paragraph of Section 2.1(a) 
+of the Basic Servicing Agreement and the parenthetical provision in the 
+first paragraph of Section 2.6 of the Basic Servicing Agreement, the 
+Servicer will service the 2007-1 SUBI Assets in accordance with the 
+customary and usual procedures of the Servicer in respect of automobile 
+leases serviced by it for its own account.
+
+
+(c)
+The Servicer shall calculate a Securitization Value for each 2007-1 Lease.  
+
+
+
+2.2.
+Extensions; Monthly Payments; Term.
+
+
+(a)
+Consistent with its customary servicing practices, the Servicer may, in its 
+discretion, modify or extend the term of a 2007-1 Lease or re-lease a 
+2007-1 Lease; provided, that if (i) the Servicer makes an extension that 
+exceeds six months or (ii) the related 2007-1 Lease as extended would 
+mature later than three months prior to the Class A-3 Final Scheduled 
+Payment Date or the 2007-1 Vehicle is re-leased, the Servicer shall, on the 
+Deposit Date related to the Collection Period in which the Servicer 
+discovers or is notified that such event described in clauses (i) or (ii) 
+has occurred, (x) deposit or cause to be deposited into the 2007-1 SUBI 
+Collection Account an amount equal to the Securitization Value (with 
+respect to extensions) or the Contract Residual Value (with respect to 
+re-leases) of the related 2007-1 Lease as of the last day of the related 
+Collection Period and (y) direct the Vehicle Trustee to either reallocate 
+such 2007-1 Lease and the related 2007-1 Vehicle from the 2007-1 SUBI to 
+the UTI or cause such 2007-1 Lease and 2007-1 Vehicle to be conveyed to the 
+Servicer as described in Section 2.3.
+
+
+2.3.
+Representations, Reallocation and Repurchase of 2007-1 Leases and 2007-1 
+Vehicles.
+
+
+(a)
+The Servicer hereby makes to the other parties hereto and the parties to 
+the SUBI Trust Agreement the representations and warranties contained in 
+Section 2.15 hereof as to each 2007-1 Lease and 2007-1 Vehicle as of the 
+Vehicle Representation Date.  The Servicer also hereby represents and 
+warrants that aside from the selection criteria included in such 
+representations and warranties it used no adverse selection procedures in 
+selecting any of the 2007-1 Leases for inclusion in the 2007-1 SUBI and 
+that aside from such criteria it is not aware of any bias in the selection 
+of the 2007-1 Leases which would cause delinquencies or losses on the 
+2007-1 Leases to be worse than any other Leases held by the Vehicle Trust; 
+provided, however, that the Servicer can make no assurance as to the actual 
+delinquencies or losses on the 2007-1 Leases.
+
+
+Upon discovery by the Vehicle Trustee, the Servicer or the Indenture 
+Trustee that any such representation or warranty was incorrect as of the 
+date hereof and materially and adversely affects the interests of the Trust 
+in the related 2007-1 Lease or 2007-1 Vehicle, the party discovering such 
+incorrectness (if other than the Servicer) shall give prompt written notice 
+to the Servicer.  Within 60 days after the Servicers discovery of such 
+incorrectness or receipt of the foregoing notice, the Servicer shall cure 
+in all material respects the circumstance or condition as to which the 
+representation or warranty was incorrect as of the date hereof.  If the 
+Servicer is unable or unwilling to do so within such period, it shall 
+promptly (i) deposit or cause to be deposited into the SUBI Collection 
+Account an amount equal to the Reallocation Payment and (ii) direct the 
+Vehicle Trustee to cause such 2007-1 Vehicle and the related 2007-1 Lease 
+to be conveyed to the Servicer as described in Section 2.3(h) below.  Such 
+deposit of the Reallocation Payment shall satisfy the Servicers 
+obligations pursuant to this Section, shall be deemed to constitute payment 
+in full of the Reallocation Payment with respect thereto and shall cure any 
+incorrectness of the related representation or warranty for purposes of 
+this Agreement.  The Vehicle Trustee shall have no duty to conduct any 
+affirmative investigation as to the occurrence of any condition requiring 
+the repurchase of any 2007-1 Vehicle or 2007-1 Lease pursuant to this 
+Section 2.3(a) or the eligibility of any 2007-1 Vehicle or related 2007-1 
+Lease for purposes of the Agreement.
+
+
+(b)
+[Reserved].
+
+
+(c)
+The Servicer shall be required to repurchase a 2007-1 Vehicle and the 
+related 2007-1 Lease and remit to the related 2007-1 SUBI Collection 
+Account a Reallocation Payment for such 2007-1 Vehicle and 2007-1 Lease if 
+the related Lessee moves to a state that is not a Trust State and such 
+state does not become a Trust State within 90 days after the Servicer has 
+become aware of such move.  The Reallocation Payment must be made by the 
+Servicer on the next Deposit Date following the end of such 90-day period.
+
+
+(d)
+The Servicer shall be required to pay to the Trust any Monthly Payments 
+(less any unearned rent charges calculated under the scheduled actuarial 
+method) that have been forgiven in connection with a 2007-1 Lease pursuant 
+to any new lease incentive program.
+
+
+(e)
+The sole remedy of the Trust, the Related Beneficiary and the Related 
+Holder with respect to events causing the Servicer to repurchase certain 
+2007-1 Vehicles as provided herein, shall be to require the Servicer to 
+make the payment of the Reallocation Payment, as set forth herein.  The 
+obligation of the Servicer under this Section shall survive any termination 
+of the Servicer hereunder.
+
+
+(f)
+The Servicer may purchase a Matured Vehicle at any time.  In connection 
+with the purchase by the Servicer of a Matured Vehicle pursuant to this 
+Section, with respect to the related 2007-1 Lease, in the event that (i) no 
+Sales Proceeds Advance has been made, the purchase price of such Matured 
+Vehicle will equal the Contract Residual Value of such 2007-1 Lease as of 
+the date of expiration and (ii) a Sales Proceeds Advance has been made, no 
+additional amounts need be remitted by the Servicer except the excess of 
+the Contract Residual Value over the ALG Residual Value; provided, however, 
+that the Servicer shall relinquish all rights to reimbursement of any such 
+Sales Proceeds Advance.
+
+
+(g)
+Immediately prior to the sale or disposition of a Matured Vehicle or a 
+Defaulted Vehicle, the Servicer may reallocate such Matured Vehicle or 
+Defaulted Vehicle from the 2007-1 SUBI to the UTI for purposes of 
+implementing the Servicers like kind exchange program. In connection with 
+such reallocation, the Servicer will cause to be deposited into the 2007-1 
+SUBI Collection Account the Reallocation Payments no later than two 
+Business Days after such reallocation, or, if the Monthly Remittance 
+Condition is met, the Servicer shall be permitted to retain the 
+Reallocation Payments received during a Collection Period until such 
+amounts are required to be disbursed on the next Payment Date. Upon receipt 
+of the Reallocation Payments, the 2007-1 SUBI shall have no claim against 
+or interest in such Matured or Defaulted Vehicle
+
+
+(h)
+Upon the purchase by the Servicer of a 2007-1 Vehicle and the related 
+2007-1 Lease pursuant to this Section, the Trust or the Vehicle Trustee on 
+behalf of the Trust, as applicable, shall be deemed to transfer, assign, 
+set over and otherwise convey to the Servicer, without recourse, 
+representation or warranty, all right, title and interest of the Trust in, 
+to and under such 2007-1 Vehicle and the related 2007-1 Lease, all monies 
+due or to become due with respect thereto after the date of such repurchase 
+and all proceeds thereof.  The Vehicle Trustee shall, at the written 
+direction and expense of the Servicer, execute such documents and 
+instruments of transfer or assignment and take such other actions as shall 
+reasonably be requested by the Servicer to effect the conveyance of each 
+such 2007-1 Vehicle and the related 2007-1 Lease pursuant to this Section, 
+including the execution for filing by the Servicer with the related 
+Registrar of Titles of an application for transfer of ownership of each 
+such Vehicle to the Servicer.
+
+
+2.4.
+Collections and Payment Date Advance Reimbursement.
+
+
+(a)
+The Servicer shall, with respect to SUBI Collections and amounts in respect 
+of the 2007-1 SUBI Certificate, remit to the 2007-1 SUBI Collection Account 
+(i) all Monthly Payments, (ii) all deposits required by Section 2.2 of the 
+Basic Servicing Agreement, (iii) all Reallocation Payments pursuant to 
+Section 2.3 above, (iv) all Cap Payments or Cap Termination Payments; (v) 
+all Advances and (vi) any Sales Proceeds or Termination Proceeds from the 
+disposition of a Matured Vehicle at auction or through sale to a dealer for 
+which the Servicer was reimbursed during the related Collection Period 
+pursuant to Section 2.4(b)(i) from SUBI Collections, in each case, on the 
+Business Day prior to the Payment Date for so long as the Monthly 
+Remittance Condition is satisfied.  So long as the Monthly Remittance 
+Condition is satisfied, the Servicer will remit all such amounts described 
+in the preceding sentence within two Business Days of receipt to an account 
+established and maintained by BMW Capital. If the Monthly Remittance 
+Condition is not satisfied, SUBI Collections will be deposited into the 
+2007-1 SUBI Collection Account within two Business Days of receipt. 
+Notwithstanding anything herein to the contrary, so long as BMW FS is the 
+Servicer, BMW FS may withhold from the deposit into the 2007-1 SUBI 
+Collection Account any amounts indicated on the related Servicer's 
+Certificate as being due and payable to the Servicer.
+
+
+Pending deposit into the 2007-1 SUBI Collection Account, SUBI Collections 
+may be employed by the Servicer at its own risk and for its own benefit and 
+shall not be segregated from its own funds; provided, that the Servicer 
+shall be permitted to apply Sales Proceeds for the acquisitions of leases 
+and vehicles through the Like-Kind Exchange Program, in which case it shall 
+remit a like amount from its own funds for allocation in the manner 
+otherwise applicable to such Sales Proceeds.  Notwithstanding anything to 
+the contrary set forth herein or in the Vehicle Trust Agreement, amounts in 
+the escrow account established pursuant to the Like-Kind Exchange Program 
+shall not be subject to any lien so long as there is no Default under the 
+Indenture.
+
+
+(b)
+Pursuant to the Payment Date Certificate, the Servicer shall allocate 
+Available Funds on deposit in the 2007-1 SUBI Collection Account with 
+respect to the related Collection Period and instruct the Trust Agent to 
+make, no later than 11:00 a.m., New York City time on each Payment Date, 
+the following deposits and distributions in the following amounts and order 
+of priority:
+
+
+            (i)
+            to the Servicer the sum of any outstanding Advances which have
+            been outstanding as of the end of the related Collection Period
+            for at least 90 days, and with respect to Vehicles that have
+            become Residual Loss Vehicles during the related Collection
+            Period, the aggregate Sales Proceeds Advances over the
+            aggregate Sales Proceeds and Termination Proceeds
+            (collectively, the Payment Date Advance Reimbursement);
+
+
+            (ii)
+            to or on behalf of the Servicer, the Servicing Fee in respect
+            of the related Collection Period, together with any unpaid
+            Servicing Fees in respect of one or more prior Collection
+            Periods;
+
+
+            (iii)
+            to the Note Distribution Account, the Reserve Fund and
+            Certificate Distribution Account, such distributions in the
+            amounts and order of priority as set forth in Sections 8.04(a),
+            5.04 and 10.01 of the Indenture; and
+
+
+            (iv)
+            to the Reserve Fund, all net investment earnings on the 2007-1
+            SUBI Collection Account.
+
+
+(c)
+No trust account will be established to segregate any Payahead Amounts 
+received by Lessees.
+
+
+2.5.
+Net Deposits.  Notwithstanding anything to the contrary contained in this 
+Servicing Supplement, for so long as BMW FS is the Servicer, the Servicer 
+shall be permitted to deposit into the 2007-1 SUBI Collection Account only 
+the net amount distributable to the Issuer, as holder of the 2007-1 SUBI 
+Certificate, on the related Deposit Date.  The Servicer shall, however, 
+account to the Issuer, the Vehicle Trustee, the Trust Agent, the Indenture 
+Trustee (or any successor to the duties of the Indenture Trustee), the 
+Owner Trustee and the Noteholders as if all of the deposits and 
+distributions described herein were made individually.  
+
+
+2.6.
+Servicing Compensation.
+
+
+(a)
+As compensation for the performance of its obligations under this Servicing 
+Supplement, the Servicer shall be entitled to receive the Servicing Fee 
+with respect to the 2007-1 SUBI Assets.  This Section 2.6(a) replaces 
+Section 2.5(a) of the Basic Servicing Agreement with respect to the 2007-1 
+SUBI Assets.
+
+
+(b)
+The Servicer shall also be entitled to additional servicing compensation 
+with respect to the 2007-1 SUBI Assets in the form of, among other things, 
+expense reimbursement and any other administrative fees or similar charges 
+under the 2007-1 Leases, including but not limited to any late payment fees 
+now or later in effect, extension fees and early termination fees.
+
+
+2.7.
+Advances.
+
+
+(a)
+On each Deposit Date, the Servicer will, subject to 2.7(c) make, by deposit 
+into the SUBI Collection Account, a Monthly Payment Advance in respect of 
+the unpaid Monthly Payment of a 2007-1 Lease.
+
+
+(b)
+On each Deposit Date, the Servicer may, in its sole discretion, subject to 
+Section 2.7(c), make, by deposit into the 2007-1 SUBI Collection Account, 
+Sales Proceeds Advances.  After the Servicer has made a Sales Proceeds 
+Advance with respect to a Matured Vehicle, the Issuer shall have no claim 
+against or interest in such Matured Vehicle or any Sales Proceeds or 
+Termination Proceeds, as the case may be, resulting from the sale or other 
+disposition thereof.  If the Servicer shall sell or otherwise dispose of a 
+Matured Vehicle after having made a Sales Proceeds Advance, the Issuer may 
+retain all of such Sales Proceeds Advance, and the Servicer shall retain 
+the related Sales Proceeds or Termination Proceeds, as the case may be, up 
+to the Securitization Value of the related Lease, and will deposit any 
+Sales Proceeds or Termination Proceeds, as the case may be, in excess of 
+the Securitization Value into the SUBI Collection Account.  If the Servicer 
+has not sold a Matured Vehicle within 90 days after it has made a Sales 
+Proceeds Advance, it shall be reimbursed for such Sales Proceeds Advance as 
+part of the Payment Date Advance Reimbursement in accordance with Section 
+2.4(b)(i).  Within 30 days of receiving such reimbursement, if the related 
+2007-1 Vehicle has not been sold, the Servicer shall cause such 2007-1 
+Vehicle to be sold at auction and shall remit the proceeds associated with 
+such auction sale to the 2007-1 SUBI Collection Account.
+
+
+(c)
+Notwithstanding anything to the contrary in the Servicing Agreement, the 
+Servicer shall be required to make Advances only to the extent that it 
+determines that such Advance will be recoverable from future payments on or 
+in respect of the related 2007-1 Lease or 2007-1 Vehicle.
+
+
+2.8.
+Third Party Claims.  The Servicer shall immediately notify the Depositor 
+(in the event that BMW FS is not acting as Servicer), the Issuer and the 
+Indenture Trustee (or any successor to the duties of the Indenture Trustee) 
+upon learning of a claim or Lien of whatever kind of a third party that 
+would materially and adversely affect the interests of the Depositor, the 
+Issuer or the Trust with respect to the 2007-1 SUBI Assets.  
+
+
+2.9.
+Contingent and Excess Liability Insurance Policies.  So long as any 
+Securities are outstanding, the Servicer shall maintain and pay when due 
+all premiums with respect to the Contingent and Excess Liability Insurance 
+Policies unless each Rating Agency has confirmed in writing that 
+termination would not result in a Rating Event.  The Servicer shall 
+maintain such Contingent and Excess Liability Insurance Policies that 
+provide insurance coverage of at least $10 million per accident and permit 
+multiple claims in any policy period.  
+
+
+2.10.
+Reporting by the Servicer; Delivery of Certain Documentation.  
+
+
+(a)
+On or prior to the Closing Date, and periodically thereafter as required in 
+order to update the contents thereof upon any changes in the matters 
+certified therein, the Servicer shall furnish to the Vehicle Trustee, the 
+Trust Agent and the Related Beneficiary an Officers Certificate listing 
+the officers of the Servicer involved in, or responsible for, the servicing 
+of the 2007-1 Leases.
+
+
+(b)
+On or before each Determination Date, the Servicer shall, in addition to 
+the information required in Section 3.1 of the Basic Servicing Agreement, 
+include in the Officers Certificate provided for in such Section the 
+amount of any reimbursement being requested pursuant to such Section for 
+the related Collection Period from the 2007-1 SUBI Collection Account.
+
+
+2.11.
+Annual Officers Certificate.  The Servicer shall deliver to the Owner 
+Trustee, the Indenture Trustee and each Rating Agency, within 90 days after 
+the end of the Servicer's fiscal year (commencing with the fiscal year 
+2007), an Officer's Certificate signed by a Responsible Officer of the 
+Servicer, stating that (i) a review of the activities of the Servicer 
+during the preceding 12-month period (or such shorter period in the case of 
+the first such Officer's Certificate) and of the performance of its 
+obligations under this Agreement has been made under such officer's 
+supervision and (ii) to such officer's knowledge, based on such review, the 
+Servicer has fulfilled all its obligations under this Agreement throughout 
+such period or, if there has been a default in the fulfillment of any such 
+obligation, specifying each such default known to such officer and the 
+nature and status thereof.
+
+
+2.12.
+Assessment of Compliance and Annual Accountants Attestation.  (a)  Within 
+90 days after the end of the Servicer's fiscal year (commencing with the 
+fiscal year 2007), the Servicer shall:
+
+
+            (i)
+            deliver to the Issuer and the Administrator a report regarding
+            the Servicers assessment of compliance with the Servicing
+            Criteria during the immediately preceding calendar year, as
+            required under Rules 13a-18 and 15d-18 of the Exchange Act and
+            Item 1122 of Regulation AB.  Such report shall be addressed to
+            the Issuer and signed by an authorized officer of the Servicer,
+            and shall address each of the Servicing Criteria specified on a
+            certification substantially in the form of Exhibit C hereto
+            delivered to the Issuer and the Administrator concurrently with
+            the execution of this Agreement;
+
+
+            (ii)
+            deliver to the Issuer and the Administrator a report of a
+            registered public accounting firm reasonably acceptable to the
+            Issuer and the Administrator that attests to, and reports on,
+            the assessment of compliance made by the Servicer and delivered
+            pursuant to the preceding paragraph.  Such attestation shall be
+            in accordance with Rules 1-02(a)(3) and 2-02(g) of Regulation
+            S-X under the Securities Act and the Exchange Act;
+
+
+            (iii)
+            cause each Subservicer and each Subcontractor determined by the
+            Servicer to be participating in the servicing function within
+            the meaning of Item 1122 of Regulation AB, to deliver to the
+            Issuer and the Administrator an assessment of compliance and
+            accountants attestation as and when provided in paragraphs (i)
+            and (ii) of this Section; and
+
+
+            (iv)
+            if requested by the Administrator, acting on behalf of the
+            Issuer, deliver to the Issuer and the Administrator and any
+            other Person that will be responsible for signing the
+            certification (a Sarbanes Certification) required by Rules
+            13a-14(d) and 15d-14(d) under the Exchange Act (pursuant to
+            Section 302 of the Sarbanes-Oxley Act of 2002) on behalf of an
+            asset-backed issuer with respect to a securitization
+            transaction a certification in the form attached hereto as
+            Exhibit B.
+
+
+The Servicer acknowledges that the parties identified in clause (a)(iv) 
+above may rely on the certification provided by the Servicer pursuant to 
+such clause in signing a Sarbanes Certification and filing such with the 
+Commission.  The Administrator, acting on behalf of the Issuer, will not 
+request delivery of a certification under clause (a)(iv) above unless the 
+Depositor is required under the Exchange Act to file an annual report on 
+Form 10-K with respect to an Issuer whose asset pool includes the 2007-1 
+SUBI Certificate.
+
+
+(b)
+Each assessment of compliance provided by a Subservicer pursuant to Section 
+2.16 shall address each of the Servicing Criteria specified on a 
+certification to be delivered to the Servicer, Issuer and the Administrator 
+on or prior to the date of such appointment.  An assessment of compliance 
+provided by a Subcontractor pursuant to Section 2.12(a)(iii) need not 
+address any elements of the Servicing Criteria other than those specified 
+by the Servicer and the Issuer on the date of such appointment.
+
+
+2.13.
+Custody of Lease Documents and Certificates of Title.  To reduce 
+administrative costs and ensure uniform quality in the servicing of the 
+2007-1 Leases and BMW FS own portfolio of leases, the Trust hereby 
+appoints the Servicer as its agent, bailee and custodian of the 2007-1 
+Leases, the certificates of title relating to the 2007-1 Vehicles, the 
+insurance policies and insurance records and other documents related to the 
+2007-1 Leases and the related Lessees and 2007-1 Vehicles.  Such documents 
+will not be physically segregated from other leases, certificates of title, 
+insurance policies and insurance records or other documents related to 
+other leases and vehicles owned or serviced by the Servicer, including 
+leases and Vehicles which are not part of the SUBI Assets.  The accounting 
+records and computer systems of BMW FS will reflect the allocation of the 
+2007-1 Leases and 2007-1 Vehicles to the SUBI, and the interest of the 
+holders of the SUBI Certificate therein.  The Servicer may appoint one or 
+more agents to act as subcustodians of certain items relating to the 2007-1 
+Leases, the certificates of title relating to the 2007-1 Vehicles, the 
+insurance policies and insurance records and other documents related to the 
+2007-1 Leases and the related Lessees and 2007-1 Vehicles so long as the 
+Servicer remains primarily responsible for their safekeeping.
+
+
+2.14.
+Servicer Defaults; Termination of Servicer.
+
+
+(a)
+Notwithstanding Section 4.1(a) of the Basic Servicing Agreement, the 
+occurrence and continuation of any of the following shall constitute a 
+Servicer Default under the Servicing Agreement:
+
+
+            (i)
+            the Servicer shall fail to cause the delivery to the Indenture
+            Trustee for distribution to the Noteholders, to the Owner
+            Trustee for distribution to the Trust Certificateholders or to
+            the Vehicle Trustee for distribution to holders of interests in
+            the UTI, the SUBI or any Other SUBI, any required payment,
+            which failure continues for 5 Business Days after discovery of
+            such failure by an officer of the Servicer or receipt by the
+            Servicer of notice thereof from the Indenture Trustee, the
+            Owner Trustee or Noteholders evidencing not less than a
+            majority of the aggregate unpaid principal balance of the
+            Notes, voting together as a single class; or
+
+
+            (ii)
+            the Servicer fails to duly observe or perform in any material
+            respect any of its covenants or agreements in the Servicing
+            Agreement not otherwise covered in this Section 2.14(a), which
+            failure materially and adversely affects the rights of a Holder
+            of the 2007-1 SUBI Certificate, the Noteholders or Trust
+            Certificateholders, as applicable, and which continues
+            unremedied for 90 days after receipt by the Servicer of written
+            notice thereof from the Indenture Trustee or the Noteholders
+            evidencing not less than a majority of the aggregate unpaid
+            principal balance of the Notes, or such default becomes known
+            to the Servicer;
+
+
+            (iii)
+            any representation, warranty, or statement of the Servicer made
+            in the Servicing Agreement, any other Basic Document to which
+            the Servicer is a party or by which it is bound or any
+            certificate, report or other writing delivered pursuant to the
+            Servicing Agreement that proves to be incorrect in any material
+            respect when made, which failure materially and adversely
+            affects the rights of a Holder of the 2007-1 SUBI Certificate,
+            the Noteholders or the Trust Certificateholders, continues
+            unremedied for 90 days after receipt by the Servicer of written
+            notice thereof from the Indenture Trustee or the Noteholders
+            evidencing not less than a majority of the aggregate unpaid
+            principal balance of the Notes, or such default becomes known
+            to the Servicer;
+
+
+            (iv)
+            the entry of a decree or order for relief by a court or
+            regulatory authority having jurisdiction over the Servicer in
+            an involuntary case under the federal bankruptcy laws, as now
+            or hereafter in effect, or another present or future federal or
+            state bankruptcy, insolvency or similar law, appointing a
+            receiver, liquidator, assignee, trustee, custodian sequestrator
+            or other similar official of the Servicer or of any substantial
+            part of its property, the ordering the winding up or
+            liquidation of the affairs of the Servicer and the continuance
+            of any such decree or order unstayed and in effect for a period
+            of 90 consecutive days; or
+
+
+            (v)
+            the commencement by the Servicer of a voluntary case under the
+            federal bankruptcy laws, as now or hereafter in effect, or any
+            other present or future or state bankruptcy, insolvency or
+            similar law, or the consent by the Servicer to the appointment
+            of or taking possession by a receiver, liquidator, assignee,
+            trustee, custodian, sequestrator or other similar official of
+            the Servicer or of any substantial part of its property or the
+            making by the Servicer of an assignment for the benefit of
+            creditors or the failure by the Servicer generally to pay its
+            debts as such debts become due or the taking of corporate
+            action by the Servicer in furtherance of any of the foregoing.
+
+
+provided, however, that any Servicer Default with respect to the 2007-1 
+SUBI shall not constitute a Servicing Default with respect to any Other 
+SUBI and any Servicing Default (as such term is defined in the Basic 
+Servicing Agreement) with respect to any Other SUBI shall constitute a 
+Servicer Default (as such term is defined in the Basic Servicing Agreement) 
+only with respect to such SUBI and not with respect to the 2007-1 SUBI.
+
+
+Notwithstanding the foregoing, delay in or failure of performance referred 
+to under clause (iii) for a period of 120 days, under clause (i) for a 
+period of 45 days or clause (iv) for a period of 60 days, will not 
+constitute an Servicer Default if that failure or delay was caused by force 
+majeure or other similar occurrence.  Upon the occurrence of any such 
+event, the Servicer will not be relieved from using all commercially 
+reasonable efforts to perform its obligations in a timely manner in 
+accordance with the terms of the Servicing Agreement, and the Servicer will 
+provide to the Indenture Trustee, the Vehicle Trustee, the Depositor and 
+the Securityholders prompt notice of such failure or delay by it, together 
+with a description of its efforts to so perform its obligations.
+
+
+(b)
+Upon the occurrence and continuation of any Servicer Default under the 
+Servicing Agreement, the Servicer shall provide to the Indenture Trustee, 
+the Owner Trustee, and any Noteholders prompt notice of such failure or 
+delay by it, together with a description of its efforts to so perform its 
+obligations.
+
+
+(c)
+In addition to the provisions of Section 4.1(b) of the Basic Servicing 
+Agreement, if a Servicer Default shall have occurred and be continuing with 
+respect to the 2007-1 SUBI, the Vehicle Trustee may, to the extent such 
+Servicer Default relates to the SUBI Assets, upon the direction of the 
+holder and pledgee of the SUBI Certificates, terminate all of the rights 
+and obligations of the Servicer under the Servicing Agreement with respect 
+to the SUBI Assets.  For purposes of the immediately preceding sentence, 
+the holder of the SUBI Certificate will be the Indenture Trustee acting at 
+the direction of Noteholders holding not less than the Required Percentage, 
+so long as any Notes are outstanding.  In each case, upon written direction 
+from the holder of the SUBI Certificate, the Vehicle Trustee will effect 
+that termination by delivering notice thereof to the Servicer, with a copy 
+to each Rating Agency or any other securities based on any Other SUBIs 
+affected by that Servicer Default.
+
+
+(d)
+Upon the termination of the Servicer with respect to the SUBI Assets, the 
+Servicer subject to that termination or removal will continue to perform 
+its functions as Servicer, until the earlier of the date specified in the 
+termination notice or, if no such date is specified therein, the date of 
+the Servicers receipt of such notice.
+
+
+(e)
+In the event of a termination of the Servicer as a result of a Servicer 
+Default with respect to the SUBI Assets only, the Vehicle Trustee, acting 
+at the direction of the holder of the SUBI Certificate  which holder for 
+this purpose will be the Indenture Trustee, acting at the direction of 
+Noteholders holding not less than Required Percentage will appoint a 
+successor Servicer.  The Vehicle Trustee will have the right to approve 
+that successor Servicer, and that approval may not be unreasonably 
+withheld.  
+
+
+(f)
+In the event the Servicer is removed with respect to servicing the 2007-1 
+SUBI Assets, the Servicer shall be entitled to reimbursement for any 
+outstanding Advances made pursuant to this Supplement, to the extent of the 
+funds available therefore.
+
+
+2.15.
+Servicer Representations and Warranties.  Effective as of the date hereof, 
+the Servicer hereby represents and warrants that each 2007-1 Lease and the 
+related 2007-1 Vehicle:
+
+
+(a)
+was a new BMW vehicle at the time of origination of the Lease;
+
+
+(b)
+has a model year of 2005 or later;
+
+
+(c)
+provides for level payments that fully amortize the adjusted capitalized 
+cost of the 2007-1 Lease at the related Lease Rate to the related Contract 
+Residual Value over the lease term and, in the event of a lessee initiated 
+early termination, provides for payment of the Early Termination Cost;
+
+
+(d)
+was originated on or after December 30, 2005;
+
+
+(e)
+has a Maturity Date on or after the February 2008 Payment Date and no later 
+than the August 2012 Payment Date;
+
+
+(f)
+is not more than 29 days past due as of the Cutoff Date;
+
+
+(g)
+was originated by BMW FS in the United States for a Lessee with a U.S. 
+address in the ordinary course of BMW FS business and in compliance with 
+BMW FS customary credit policies and practices;
+
+
+(h)
+is a U.S. dollar-denominated obligation;
+
+
+(i)
+provides for constant Monthly Payments to be made by the Lessee over the 
+Lease Term;
+
+
+(j)
+is a Lease as to which no selection procedure aside from those specified 
+herein was used that was believed to be adverse to the holders of interests 
+in the Vehicle Trust, the SUBI or any Other SUBI;
+
+
+(k)
+was created in compliance in all material respects with all applicable 
+federal and state laws, including consumer credit, truth in lending, equal 
+credit opportunity and applicable disclosure laws;
+
+
+(l)
+as of the date assigned to the Vehicle Trust, (a) is a legal, valid and 
+binding payment obligation of the Lessee, enforceable against the Lessee in 
+accordance with its terms, as amended, (b) has not been satisfied, 
+subordinated, rescinded, canceled or terminated, (c) no right of 
+rescission, setoff, counterclaim or defense has been asserted or threatened 
+in writing and (d) no written default notice has been transmitted to BMW 
+FS;
+
+
+(m)
+an electronic executed copy of the documentation associated therewith is 
+located at one of BMW FS offices;
+
+
+(n)
+requires the Lessee to obtain physical damage and liability insurance that 
+names the lessor as loss payee covering the related 2007-1 Vehicle as 
+required under the 2007-1 Lease;
+
+
+(o)
+has been validly assigned to the Vehicle Trust by the related Center and is 
+owned by the Vehicle Trust, free of all liens, encumbrances or rights of 
+others other than liens relating to administration of title and tax issues;
+
+
+(p)
+all material consents, licenses, approvals or authorizations of, or 
+registrations or declarations with, any governmental authority required to 
+be obtained, effected or given by the Vehicle Trust and the Vehicle Trustee 
+in connection with (i) the origination of such Lease and (ii) the 
+execution, delivery and performance by the Vehicle Trust of the Lease have 
+been duly obtained, effected or given and are in full force and effect as 
+of the date of the origination of such Lease;
+
+
+(q)
+the related Center, BMW FS and the Vehicle Trust have each satisfied all 
+obligations required to be fulfilled on its part with respect thereto;
+
+
+(r)
+the related Lessee has a billing address in a Trust State and is not BMW 
+FS, the Depositor or any of their respective affiliates;
+
+
+(s)
+the related certificate of title is registered in the name of the Vehicle 
+Trust or the Vehicle Trustee (or a properly completed application for such 
+certificate of title has been submitted to the appropriate titling 
+authority);
+
+
+(t)
+is a closed-end lease that required all Monthly Payments to be made within 
+60 months of the date of origination of such lease;
+
+
+(u)
+is fully assignable and does not require the consent of the Lessee as a 
+condition to any transfer, sale or assignment of the rights of the 
+originator;
+
+
+(v)
+has not been deferred or otherwise modified except in accordance with BMW 
+FS normal credit and collection policies and practices;
+
+
+(w)
+is not an Other SUBI Asset;
+
+
+(x)
+to the knowledge of BMW FS, the related Lessee is not currently the subject 
+of a bankruptcy proceeding; and
+
+
+(y)
+the related 2007-1 Lease constitutes chattel paper for purposes of the 
+UCC.
+
+
+2.16.
+Appointment of Subservicer or Subcontractor.  
+
+
+(a)
+The Servicer may at any time appoint a subservicer to perform all or any 
+portion of its obligations as Servicer hereunder; provided however, that 
+the Servicer shall remain obligated and be liable to the Owner Trustee, the 
+Indenture Trustee and the Securityholders for the servicing and 
+administering of the 2007-1 Leases and 2007-1 Vehicles in accordance with 
+the provisions hereof without diminution of such obligation and liability 
+by virtue of the appointment of such subservicer and to the same extent and 
+under the same terms and conditions as if the Servicer alone were servicing 
+and administering the 2007-1 Leases and 2007-1 Vehicles. The fees and 
+expenses of any subservicer shall be as agreed between the Servicer and 
+such subservicer from time to time, and none of the Owner Trustee, the 
+Indenture Trustee, the Issuer or the Securityholders shall have any 
+responsibility therefor.
+
+
+(b)
+The Servicer shall cause any Subservicer used by the Servicer (or by any 
+Subservicer) for the benefit of the Issuer to comply with the reporting and 
+compliance provisions of this Agreement to the same extent as if such 
+Subservicer were the Servicer, and to provide the information required with 
+respect to such Subservicer as is required to file all required reports 
+with the Commission.  The Servicer shall be responsible for obtaining from 
+each Subservicer and delivering to the Issuer and the Administrator any 
+servicer compliance statement required to be delivered by such Subservicer 
+under Section 2.11, any assessment of compliance and attestation required 
+to be delivered by such Subservicer under Section 2.12 and any 
+certification required to be delivered to the Person that will be 
+responsible for signing the Sarbanes Certification under Section 
+2.12(a)(iv) as and when required to be delivered.
+
+
+(c)
+The Servicer shall promptly upon request provide to the Issuer or the 
+Administrator, acting on behalf of the Issuer, a written description (in 
+form and substance satisfactory to the Issuer and the Administrator) of the 
+role and function of each Subcontractor utilized by the Servicer or any 
+Subservicer, specifying (i) the identity of each such Subcontractor, (ii) 
+which, if any, of such Subcontractors are participating in the servicing 
+function within the meaning of Item 1122 of Regulation AB, and (iii) 
+which, if any, elements of the Servicing Criteria will be addressed in 
+assessments of compliance provided by each Subcontractor identified 
+pursuant to clause (ii) of this paragraph.
+
+
+As a condition to the utilization of any Subcontractor determined to be 
+participating in the servicing function within the meaning of Item 1122 
+of Regulation AB, the Servicer shall cause any such Subcontractor used by 
+the Servicer (or by any Subservicer) for the benefit of the Issuer and the 
+Depositor to comply with the reporting and compliance provisions of this 
+Agreement to the same extent as if such Subcontractor were the Servicer.  
+The Servicer shall be responsible for obtaining from each Subcontractor and 
+delivering to the Issuer and the Administrator any assessment of compliance 
+and attestation required to be delivered by such Subcontractor, in each 
+case as and when required to be delivered.
+
+
+2.17.
+Information to be Provided by the Servicer.  
+
+
+(a)
+At the request of the Administrator, acting on behalf of the Issuer, for 
+the purpose of satisfying its reporting obligation under the Exchange Act 
+with respect to any class of asset-backed securities, the Servicer shall 
+(or shall cause each Subservicer to) (i) notify the Issuer and the 
+Administrator in writing of any material litigation or governmental 
+proceedings pending against the Servicer or any Subservicer and (ii) 
+provide to the Issuer and the Administrator a description of such 
+proceedings.
+
+
+(b)
+As a condition to the succession to the Servicer or any Subservicer as 
+servicer or subservicer under this Agreement by any Person (i) into which 
+the Servicer or such Subservicer may be merged or consolidated, or (ii) 
+which may be appointed as a successor to the Servicer or any Subservicer, 
+the Servicer shall provide to the Issuer, the Administrator and the 
+Depositor, at least 10 Business Days prior to the effective date of such 
+succession or appointment, (x) written notice to the Issuer and the 
+Administrator of such succession or appointment and (y) in writing and in 
+form and substance reasonably satisfactory to the Issuer and the 
+Administrator, all information reasonably requested by the Issuer or the 
+Administrator, acting on behalf of the Issuer, in order to comply with its 
+reporting obligation under Item 6.02 of Form 8-K with respect to any class 
+of asset-backed securities.
+
+
+(c)
+In addition to such information as the Servicer, as servicer, is obligated 
+to provide pursuant to other provisions of this Agreement, if so requested 
+by the Issuer or the Administrator, acting on behalf of the Issuer, the 
+Servicer shall provide such information regarding the performance or 
+servicing of the 2007-1 Leases and 2007-1 Vehicles as is reasonably 
+required to facilitate preparation of distribution reports in accordance 
+with Item 1121 of Regulation AB.  Such information shall be provided 
+concurrently with the monthly reports otherwise required to be delivered by 
+the Servicer under this Agreement, commencing with the first such report 
+due not less than ten Business Days following such request.
+
+
+2.18.
+Remedies.  
+
+
+(a)
+The Servicer shall be liable to the Issuer, the Administrator and the 
+Depositor for any monetary damages incurred as a result of the failure by 
+the Servicer, any Subservicer or any Subcontractor to deliver any 
+information, report, certification, attestation, accountants letter or 
+other material when and as required under Article IV, including any failure 
+by the Servicer to identify any Subcontractor participating in the 
+servicing function within the meaning of Item 1122 of Regulation AB, and 
+shall reimburse the applicable party for all costs reasonably incurred by 
+each such party in order to obtain the information, report, certification, 
+accountants letter or other material not delivered as required by the 
+Servicer, any Subservicer, or any Subcontractor.  
+
+
+(b)
+The Seller shall promptly reimburse the Issuer and the Administrator for 
+all reasonable expenses incurred by the Issuer or Administrator as such are 
+incurred, in connection with the termination of the Servicer as servicer 
+and the transfer of servicing of the 2007-1 Leases and 2007-1 Vehicles to a 
+successor servicer.  The provisions of this paragraph shall not limit 
+whatever rights the Issuer or Administrator may have under other provisions 
+of this Agreement or otherwise, whether in equity or at law, such as an 
+action for damages, specific performance or injunctive relief.  
+
+
+2.19.
+Purchase of the 2007-1 SUBI Certificate; Redemption of the Notes; Repayment 
+of the Trust Certificates.
+
+
+(a)
+The Servicer shall be permitted at its option (the Optional Purchase) to 
+purchase the 2007-1 SUBI Certificate from the Issuer on any Payment Date 
+if, either before or after giving effect to any payment of principal 
+required to be made on such Payment Date, the Note Balance is less than or 
+equal to 10% of the Initial Note Balance.  The purchase price for the 
+2007-1 SUBI Certificate shall equal the Note Balance, together with accrued 
+interest thereon up to but not including such related Payment Date (the 
+Optional Purchase Price), which amount shall be deposited by the Servicer 
+into the SUBI Collection Account on the Deposit Date related to such 
+Payment Date.  If the Servicer exercises the Optional Purchase, the Notes 
+shall be redeemed and the Trust Certificates shall be repaid, in each case 
+in whole but not in part on the related Payment Date.
+
+
+(b)
+Notice of any redemption of the Notes pursuant to this Section 2.19 shall 
+be given by the Servicer or Administrator to the Owner Trustee and the 
+Indenture Trustee as soon as practicable.  The Administrator or the Owner 
+Trustee shall furnish each Rating Agency notice of such redemption.
+
+
+(c)
+Following the satisfaction and discharge of the Indenture and the payment 
+in full of the principal of and interest on the Notes, the Trust 
+Certificateholders will succeed to the rights of the Noteholders hereunder 
+and the Owner Trustee will succeed to the rights of, and assume the 
+obligations to make payments to Trust Certificateholders of, the Indenture 
+Trustee pursuant to this Agreement.
+
+
+2.20.
+Servicer Not to Resign.  
+
+
+Subject to Sections 2.10 and 4.1(b) of the Basic Servicing Agreement, the 
+Servicer shall not resign from the obligations and duties imposed on it by 
+this Supplement as Servicer except upon a determination that the 
+performance of its duties under this Supplement shall no longer be 
+permissible under applicable law.  Notice of any determination that the 
+performance by the Servicer of its duties hereunder is no longer permitted 
+under applicable law shall be communicated to the Owner Trustee, the 
+Indenture Trustee and the Vehicle Trustee at the earliest practicable time 
+(and, if such communication is not in writing, shall be confirmed in 
+writing at the earliest practicable time) and any such determination shall 
+be evidenced by an Opinion of Counsel to such effect delivered by the 
+Servicer to the Owner Trustee, the Indenture Trustee and the Owner Trustee 
+concurrently with or promptly after such notice. No resignation of the 
+Servicer shall become effective until a successor Servicer acceptable to 
+the Indenture Trustee has assumed the responsibilities and obligations of 
+the resigning Servicer. If no Servicer has been appointed within 30 days of 
+resignation or removal, or the date upon which any regulatory authority 
+requires such resignation, the Indenture Trustee may petition any court of 
+competent jurisdiction for such appointment.
+
+
+ARTICLE III - MISCELLANEOUS
+
+
+3.1.
+Termination of Supplement.  This Servicing Supplement shall terminate upon 
+the termination of the 2007-1 SUBI or the discharge of the Servicer 
+pursuant to Section 2.14.   Any such termination hereunder shall effect a 
+termination only with respect to the 2007-1 SUBI Assets and not as to Trust 
+Assets allocated to any other Sub-Trust, and shall not effect a termination 
+of the Basic Servicing Agreement or any other Servicing Supplement.
+
+
+3.2.
+Governing Law.  This Servicing Supplement shall be governed by and 
+construed in accordance with the internal laws of the State of New York 
+without regard to any otherwise applicable principles of conflicts of laws 
+(other than Section 5-1401 of the New York General Obligations Law).
+
+
+3.3.
+Amendment.  (a)  Notwithstanding the foregoing, this Servicing Supplement 
+(and, accordingly, the Basic Servicing Agreement, insofar as it relates to 
+the 2007-1 SUBI) may be amended from time to time by the parties hereto:
+
+
+            (i)
+            without the consent of the Noteholders; provided, that any such
+            action will not, in the good faith judgment of the parties
+            hereto, materially and adversely affect the interest of any
+            Noteholder; and
+
+
+            (ii)
+            from time to time (including to change the remittance schedule
+            for depositing SUBI Collections and other amounts into the
+            2007-1 SUBI Collection Account) upon receipt of the consent of
+            the Noteholders holding at least a majority of the aggregate
+            principal balance of the Notes and, to the extent affected
+            thereby, the consent of Trust Certificateholders holding at
+            least a majority of the aggregate principal balance of the
+            Certificates, for the purpose of adding any provision to, or
+            changing in any manner the rights of the Notes or Certificates,
+            provided however, that to the extent that any such amendment
+            materially affects the UTI or any Other SUBI, the 2007-1 SUBI
+            Certificate or the 2007-1 SUBI Assets, such amendment shall
+            require the consent of at least a majority of the Holders
+            affected thereby; in addition, to the extent that (A) such
+            amendment shall increase or reduce in any manner the amount of,
+            or accelerate or delay the timing of, collections or payments
+            in respect of the 2007-1 SUBI or the 2007-1 SUBI Certificate or
+            distributions required to be made on any Securities or (B)
+            reduce the percentage of the aggregate principal amount of
+            Securities required to consent to any such amendment, any such
+            amendment shall require the consent of all the Holders or
+            holders of 100% of all outstanding Securities, as the case may
+            be.
+
+
+(b)
+In connection with any amendment to this Supplement, an Opinion of Counsel 
+is required to be delivered to the Vehicle Trustee to the effect that after 
+such amendment, for federal income tax purposes, the Trust will not be 
+treated as an association (or a publicly traded partnership) taxable as a 
+corporation.
+
+
+(c)
+Any amendment to this Supplement shall amend the Basic Servicing Agreement 
+only insofar as such amendment relates to the 2007-1 SUBI.
+
+
+(d)
+Any amendment to this Supplement shall be deemed not to materially and 
+adversely affect the interests of any holder of Notes, if the Rating Agency 
+Condition is satisfied.
+
+
+3.4.
+Relationship of this Servicing Supplement to Other Trust Documents.  Unless 
+the context otherwise requires, this Servicing Supplement and the other 
+Trust Documents shall be interpreted so as to give full effect to all 
+provisions hereof and thereof.  In the event of any actual conflict between 
+the provisions of this Servicing Supplement and (i) the Vehicle Trust 
+Agreement, with respect to the servicing of any Trust Assets, the 
+provisions of this Servicing Supplement shall prevail and (ii) the Basic 
+Servicing Agreement, the provisions of this Servicing Supplement shall 
+control.
+
+
+3.5.
+Binding Effect.  The provisions of this Servicing Supplement shall be 
+binding upon and inure to the benefit of the parties hereto and their 
+permitted successors and assigns, and all such provisions shall inure to 
+the benefit of the Vehicle Trustee on behalf of the Trust.
+
+
+3.6.
+Table of Contents and Headings.  The Table of Contents and Article and 
+Section headings herein are for convenience of reference only and shall not 
+define or limit any of the terms or provisions hereof.
+
+
+3.7.
+Counterparts.  This Servicing Supplement may be executed in any number of 
+counterparts, each of which so executed and delivered shall be deemed to be 
+an original, but all of which counterparts shall together constitute but 
+one and the same instrument.
+
+
+3.8.
+Further Assurances.  Each party will do such acts, and execute and deliver 
+to any other party such additional documents or instruments, as may be 
+reasonably requested in order to effect the purposes of this Servicing 
+Supplement and to better assure and confirm unto the requesting party its 
+rights, powers and remedies hereunder.
+
+
+3.9.
+No Waiver; Cumulative Remedies.  No failure to exercise and no delay in 
+exercising, on the part of any party hereto, any right, remedy, power or 
+privilege hereunder shall operate as a waiver thereof; nor shall any single 
+or partial exercise of any right, remedy, power or privilege hereunder 
+preclude any other or further exercise thereof or the exercise of any other 
+right, remedy, power or privilege.  The rights, remedies, powers and 
+privileges herein provided are cumulative and not exhaustive of any rights, 
+remedies, powers and privileges provided at law, in equity or otherwise.
+
+
+3.10.
+No Petition.  The Servicer, by entering into this Supplement, hereby 
+covenants and agrees that prior to the date that is one year and one day 
+after the date upon which all obligations and payments under the related 
+transaction documents have been paid in full, they will not institute 
+against, or join in any institution against the UTI Beneficiary, the 
+Vehicle Trustee, the Vehicle Trust, the Depositor, the Issuer, any other 
+Affiliate or any beneficiary, any bankruptcy, reorganization, arrangement, 
+insolvency or liquidation proceeding or other proceeding under any United 
+States federal or state bankruptcy or similar law in connection with any 
+obligations relating to any of the Basic Documents.
+
+
+3.11.
+Limitation of Liability of Vehicle Trustee.  Notwithstanding anything 
+contained herein to the contrary, this instrument has been countersigned by 
+The Bank of New York (Delaware) not in its individual capacity but solely 
+in its capacity as Vehicle Trustee of the Vehicle Trust and in no event 
+shall The Bank of New York (Delaware) in its individual capacity have any 
+liability for the representations, warranties, covenants, agreements or 
+other obligations of the Vehicle Trust hereunder, as to all of which 
+recourse shall be had solely to the assets of the Vehicle Trust.  For all 
+purposes of this Agreement, in the performance of any duties or obligations 
+of the Vehicle Trust hereunder, the Vehicle Trustee shall be subject to, 
+and entitled to the benefits of, the terms and provisions of Part VI of the 
+SUBI Trust Agreement.
+
+
+3.12.
+Intent of Parties; Reasonableness.  The Servicer, Sponsor and Issuer 
+acknowledge and agree that the purpose of Sections 2.12 and 2.16 of this 
+Supplement is to facilitate compliance by the Issuer and the Depositor with 
+the provisions of Regulation AB and related rules and regulations of the 
+Commission.  
+
+
+None of the Sponsor, the Administrator nor the Issuer shall exercise its 
+right to request delivery of information or other performance under these 
+provisions other than in good faith, or for purposes other than compliance 
+with the Securities Act, the Exchange Act and the rules and regulations of 
+the Commission thereunder (or the provision in a private offering of 
+disclosure comparable to that required under the Securities Act).  The 
+Servicer acknowledges that interpretations of the requirements of 
+Regulation AB may change over time, whether due to interpretive guidance 
+provided by the Commission or its staff, consensus among participants in 
+the asset-backed securities markets, advice of counsel, or otherwise, and 
+agrees to comply with requests made by the Issuer or the Administrator in 
+good faith for delivery of information under these provisions on the basis 
+of evolving interpretations of Regulation AB.  In connection with this 
+transaction, the Servicer shall cooperate fully with the Administrator and 
+the Issuer to deliver to the Administrator or Issuer, as applicable 
+(including any of its assignees or designees), any and all statements, 
+reports, certifications, records and any other information necessary in the 
+good faith determination of the Issuer or the Administrator to permit the 
+Issuer or Administrator (acting on behalf of the Issuer) to comply with the 
+provisions of Regulation AB, together with such disclosures relating to the 
+Servicer, any Subservicer and the 2007-1 Leases and 2007-1 Vehicles, or the 
+servicing of the 2007-1 Leases and 2007-1 Vehicles, reasonably believed by 
+the Issuer or the Administrator to be necessary in order to effect such 
+compliance.
+
+
+The Issuer and the Administrator (including any of its assignees or 
+designees) shall cooperate with the Servicer by providing timely notice of 
+requests for information under these provisions and by reasonably limiting 
+such requests to information required, in the reasonable judgment or the 
+Issuer or the Administrator, as applicable, to comply with Regulation AB.
+
+
+3.13.
+Series Disclaimer and Acknowledgment.  The parties hereto acknowledge and 
+agree that the Trust is organized in series pursuant to Section 3804(a) and 
+3806(b)(2) of the Business Trust Statute.  As such, the debts, liabilities, 
+obligations and expenses incurred, contracted for or otherwise existing 
+with respect to each series of the Trust shall be enforceable against the 
+assets of such series of the Trust only, and not against the assets of the 
+Trust generally or the assets of any other series of the Trust or against 
+the Trustee of the Trust.  There may be several series of the Trust created 
+pursuant to the Trust Agreement of the Trust
+
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Servicing 
+Supplement to be duly executed by their respective officers duly authorized 
+as of the day and year first above written.
+
+
+                                    FINANCIAL SERVICES VEHICLE TRUST, with
+                                    respect to the 2007-1 SUBI
+
+
+                                    By:
+                                    The Bank of New York (Delaware), not in
+                                    its individual capacity but solely as
+                                    Vehicle Trustee
+
+
+
+
+
+                                    By:              /s/ Kristine K. Gullo
+                                    Name:   Kristine K. Gullo
+                                    Title:     Vice President
+
+
+                                    BMW MANUFACTURING L.P.,
+                                    as UTI Beneficiary
+
+                                    By:
+                                    BMW FACILITY PARTNERS, LLC,
+                                    as General Partner
+
+                                    By:              /s/ Kerstin Zerbst
+                                    Name:   Kerstin Zerbst
+                                    Title:     President
+
+                                    By:              /s/ Joachim Herr
+                                    Name:   Joachim Herr
+                                    Title:     Treasurer
+
+                                    BMW FINANCIAL SERVICES NA, LLC,
+                                    as Servicer
+
+
+                                    By:              /s/ Kerstin Zerbst
+                                    Name:   Kerstin Zerbst
+                                    Title:     Vice President-Finance & CFO
+
+                                    By:              /s/ Joachim Herr
+                                    Name:   Joachim Herr
+                                    Title:     Treasurer
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+EXHIBIT A
+
+
+
+
+SCHEDULE OF 2007-1 VEHICLES
+
+
+
+[Omitted.  Copies on file with the Servicer, the Indenture Trustee and the 
+Owner Trustee.]
+
+
+
+
+------------------------------------------------------------------------
+
+
+EXHIBIT B
+
+FORM OF ANNUAL CERTIFICATION
+
+
+
+            Re:
+            The Servicing Agreement dated as of November 2, 2007 (the
+            Agreement), among FINANCIAL SERVICES VEHICLE TRUST (the
+            Vehicle Trust), BMW MANUFACTURING L.P. (the UTI
+            Beneficiary) and BMW FINANCIAL SERVICES NA, LLC, as the
+            sponsor (in such capacity, the Sponsor), as servicer (in such
+            capacity, the Servicer).
+
+I, ________________________________, the _______________________ of [NAME 
+OF COMPANY] (the Company), certify to the Issuer and the Depositor, and 
+their officers, with the knowledge and intent that they will rely upon this 
+certification, that:
+
+
+      (1)
+      I have reviewed the servicer compliance statement of the Company
+      provided in accordance with Item 1123 of Regulation AB (the
+      Compliance Statement), the report on assessment of the Companys
+      compliance with the servicing criteria set forth in Item 1122(d) of
+      Regulation AB (the Servicing Criteria), provided in accordance with
+      Rules 13a-18 and 15d-18 under Securities Exchange Act of 1934, as
+      amended (the Exchange Act) and Item 1122 of Regulation AB (the
+      Servicing Assessment), the registered public accounting firms
+      attestation report provided in accordance with Rules 13a-18 and
+      15d-18 under the Exchange Act and Section 1122(b) of Regulation AB
+      (the Attestation Report), and all servicing reports, officers
+      certificates and other information relating to the servicing of the
+      2007-1 Leases and 2007-1 Vehicles by the Company during 2007 that
+      were delivered by the Company to the Issuer and the Depositor
+      pursuant to the Agreement (collectively, the Company Servicing
+      Information);
+
+
+      (2)
+      Based on my knowledge, the Company Servicing Information, taken as a
+      whole, does not contain any untrue statement of a material fact or
+      omit to state a material fact necessary to make the statements made,
+      in the light of the circumstances under which such statements were
+      made, not misleading with respect to the period of time covered by
+      the Company Servicing Information;
+
+
+      (3)
+      Based on my knowledge, all of the Company Servicing Information
+      required to be provided by the Company under the Agreement has been
+      provided to the Issuer and the Depositor;
+
+
+      (4)
+      I am responsible for reviewing the activities performed by the
+      Company as servicer under the Agreement, and based on my knowledge
+      and the compliance review conducted in preparing the Compliance
+      Statement and except as disclosed in the Compliance Statement, the
+      Servicing Assessment or the Attestation Report, the Company has
+      fulfilled its obligations under the Agreement in all material
+      respects; and
+
+
+      (5)
+      The Compliance Statement required to be delivered by the Company
+      pursuant to the Agreement, and the Servicing Assessment and
+      Attestation Report required to be provided by the Company and by any
+      Subservicer or Subcontractor pursuant to the Agreement, have been
+      provided to the Issuer, the Administrator, the Depositor, the
+      Indenture Trustee and the Owner Trustee.  Any material instances of
+      noncompliance described in such reports have been disclosed to the
+      Issuer, the Administrator and the Depositor.  Any material instance
+      of noncompliance with the Servicing Criteria has been disclosed in
+      such reports.
+
+
+
+
+
+                                    Date:
+                                    _________________________
+
+
+
+                                    By:  ________________________
+                                    Name:  
+                                    Title:
+
+
+
+
+------------------------------------------------------------------------
+
+
+EXHIBIT C
+
+SERVICING CRITERIA TO BE ADDRESSED IN ASSESSMENT OF COMPLIANCE
+
+The assessment of compliance to be delivered by the Servicer, shall 
+address, at a minimum, the criteria identified as below as Applicable 
+Servicing Criteria:
+
+Reference
+Criteria
+
+ 
+
+ 
+
+General Servicing Considerations
+
+ 
+
+1122(d)(1)(i)
+Policies and procedures are instituted to monitor any performance or other 
+triggers and events of default in accordance with the transaction 
+agreements.
+
+ 
+
+1122(d)(1)(ii)
+If any material servicing activities are outsourced to third parties, 
+policies and procedures are instituted to monitor the third partys 
+performance and compliance with such servicing activities.
+
+ 
+
+1122(d)(1)(iii)
+Any requirements in the transaction agreements to maintain a back-up 
+servicer for the receivables are maintained.
+N/A
+1122(d)(1)(iv)
+A fidelity bond and errors and omissions policy is in effect on the party 
+participating in the servicing function throughout the reporting period in 
+the amount of coverage required by and otherwise in accordance with the 
+terms of the transaction agreements.
+
+ 
+
+ 
+
+Cash Collection and Administration
+
+ 
+
+1122(d)(2)(i)
+Payments on receivables are deposited into the appropriate custodial bank 
+accounts and related bank clearing accounts no more than two business days 
+following receipt, or such other number of days specified in the 
+transaction agreements.
+
+ 
+
+1122(d)(2)(ii)
+Disbursements made via wire transfer on behalf of an obligor or to an 
+investor are made only by authorized personnel..
+
+ 
+
+1122(d)(2)(iii)
+Advances of funds or guarantees regarding collections, cash flows or 
+distributions, and any interest or other fees charged for such advances, 
+are made, reviewed and approved as specified in the transaction agreements.
+
+ 
+
+1122(d)(2)(iv)
+The related accounts for the transaction, such as cash reserve accounts or 
+accounts established as a form of overcollateralization, are separately 
+maintained (e.g., with respect to commingling of cash) as set forth in the 
+transaction agreements.
+
+ 
+
+1122(d)(2)(v)
+Each custodial account is maintained at a federally insured depository 
+institution as set forth in the transaction agreements. For purposes of 
+this criterion, federally insured depository institution with respect to 
+a foreign financial institution means a foreign financial institution that 
+meets the requirements of Rule 13k-1(b)(1) of the Securities Exchange Act.
+
+ 
+
+1122(d)(2)(vi)
+Unissued checks are safeguarded so as to prevent unauthorized access.
+
+ 
+
+1122(d)(2)(vii)
+ Reconciliations are prepared on a monthly basis for all asset-backed 
+securities related bank accounts, including custodial accounts and related 
+bank clearing accounts. These reconciliations are (A) mathematically 
+accurate; (B) prepared within 30 calendar days after the bank statement 
+cutoff date, or such other number of days specified in the transaction 
+agreements; (C) reviewed and approved by someone other than the person who 
+prepared the reconciliation; and (D) contain explanations for reconciling 
+items. These reconciling items are resolved within 90 calendar days of 
+their original identification, or such other number of days specified in 
+the transaction agreements.
+
+ 
+
+ 
+
+Investor Remittances and Reporting
+
+ 
+
+1122(d)(3)(i)
+Reports to investors, including those to be filed with the Commission, are 
+maintained in accordance with the transaction agreements and applicable 
+Commission requirements. Specifically, such reports (A) are prepared in 
+accordance with timeframes and other terms set forth in the transaction 
+agreements; (B) provide information calculated in accordance with the terms 
+specified in the transaction agreements; (C) are filed with the Commission 
+as required by its rules and regulations; and (D) agree with investors or 
+the trustees records as to the total unpaid principal balance and number 
+of receivables serviced by the Servicer.
+
+ 
+
+1122(d)(3)(ii)
+Amounts due to investors are allocated and remitted in accordance with 
+timeframes, distribution priority and other terms set forth in the 
+transaction agreements.
+
+ 
+
+1122(d)(3)(iii)
+Disbursements made to an investor are posted within two business days to 
+the Servicers investor records, or such other number of days specified in 
+the transaction agreements.
+
+ 
+
+1122(d)(3)(iv)
+Amounts remitted to investors per the investor reports agree with cancelled 
+checks, or other form of payment, or custodial bank statements.
+
+ 
+
+ 
+
+Pool Asset Administration
+
+ 
+
+1122(d)(4)(i)
+Collateral or security on receivables is maintained as required by the 
+transaction agreements or related receivables documents.
+
+ 
+
+1122(d)(4)(ii)
+Receivables and related documents are safeguarded as required by the 
+transaction agreements
+
+ 
+
+1122(d)(4)(iii)
+Any additions, removals or substitutions to the asset pool are made, 
+reviewed and approved in accordance with any conditions or requirements in 
+the transaction agreements.
+
+ 
+
+1122(d)(4)(iv)
+Payments on receivables, including any payoffs, made in accordance with the 
+related receivables documents are posted to the Servicers obligor records 
+maintained no more than two business days after receipt, or such other 
+number of days specified in the transaction agreements, and allocated to 
+principal, interest or other items (e.g., escrow) in accordance with the 
+related receivables documents.
+
+ 
+
+1122(d)(4)(v)
+The Servicers records regarding the receivables agree with the Servicers 
+records with respect to an obligors unpaid principal balance.
+
+ 
+
+1122(d)(4)(vi)
+Changes with respect to the terms or status of an obligor's receivables 
+(e.g., loan modifications or re-agings) are made, reviewed and approved by 
+authorized personnel in accordance with usual customary procedures.
+
+ 
+
+1122(d)(4)(vii)
+Loss mitigation or recovery actions (e.g., forbearance plans, modifications 
+and deeds in lieu of foreclosure, foreclosures and repossessions, as 
+applicable) are initiated, conducted and concluded in accordance with usual 
+customary procedures.
+
+ 
+
+1122(d)(4)(viii)
+Records documenting collection efforts are maintained during the period a 
+receivable is delinquent in accordance with the transaction agreements. 
+Such records are maintained on at least a monthly basis, or such other 
+period specified in the transaction agreements, and describe the entitys 
+activities in monitoring delinquent receivables including, for example, 
+phone calls, letters and payment rescheduling plans in cases where 
+delinquency is deemed temporary (e.g., illness or unemployment).
+
+ 
+
+1122(d)(4)(ix)
+Adjustments to interest rates or rates of return for receivables with 
+variable rates are computed based on the related receivables documents.
+
+ 
+
+1122(d)(4)(x)
+Regarding any funds held in trust for an obligor (such as escrow accounts): 
+(A) such funds are analyzed, in accordance with the obligors receivables 
+documents, on at least an annual basis, or such other period specified in 
+the transaction agreements; (B) interest on such funds is paid, or 
+credited, to obligors in accordance with applicable receivables documents 
+and state laws; and (C) such funds are returned to the obligor within 30 
+calendar days of full repayment of the related receivables, or such other 
+number of days specified in the transaction agreements.
+
+ 
+
+1122(d)(4)(xi)
+Payments made on behalf of an obligor (such as tax or insurance payments) 
+are made on or before the related penalty or expiration dates, as indicated 
+on the appropriate bills or notices for such payments, provided that such 
+support has been received by the servicer at least 30 calendar days prior 
+to these dates, or such other number of days specified in the transaction 
+agreements.
+
+ 
+
+1122(d)(4)(xii)
+Any late payment penalties in connection with any payment to be made on 
+behalf of an obligor are paid from the servicers funds and not charged to 
+the obligor, unless the late payment was due to the obligors error or 
+omission.
+
+ 
+
+1122(d)(4)(xiii)
+Disbursements made on behalf of an obligor are posted within two business 
+days to the obligors records maintained by the servicer, or such other 
+number of days specified in the transaction agreements.
+
+ 
+
+1122(d)(4)(xiv)
+ Delinquencies, charge-offs and uncollectible accounts are recognized and 
+recorded in accordance with the transaction agreements.
+
+ 
+
+1122(d)(4)(xv)
+Any external enhancement or other support, identified in Item 1114(a)(1) 
+through (3) or Item 1115 of Regulation AB, is maintained as set forth in 
+the transaction agreements.
+
+ 
+
+
+
+                                      
+                                    By:  _______________________________
+                                    Name:
+                                    Title:
+
+
+

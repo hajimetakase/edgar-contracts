@@ -1,0 +1,774 @@
+ EX-10.5 11 d812282dex105.htm EX-10.5
+Exhibit 10.5
+
+2006 STOCK OPTION PLAN
+FOR
+BUSINESS FIRST BANCSHARES, INC.
+(Amended and Restated as of December 22, 2006)
+
+Section 1 Purpose. The purpose of this 2006 STOCK OPTION PLAN FOR BUSINESS 
+FIRST BANCSHARES, INC. is to advance the interests of Business First 
+Bancshares, Inc., a Louisiana corporation (the Company), by providing an 
+additional incentive to attract and retain qualified and competent 
+employees, upon whose efforts and judgment the success of the Company is 
+largely dependent, through the encouragement of stock ownership in the 
+Company.
+
+Section 2 Definitions. As used herein, the following terms shall have the 
+meanings indicated:
+
+(a) Act means the Securities Exchange Act of 1934, as amended, or any 
+successor provisions.
+
+(b) Administrator shall mean, the persons described in Section 12 which 
+are authorized to administer the Plan at the time of reference.
+
+(c) Affiliate means (i) any entity that, directly or indirectly, is 
+controlled by the Company, (ii) an entity in which the Company has a 
+significant equity interest, (iii) an affiliate of the Company, as defined 
+in Rule 12b-2 promulgated under the Act, (iv) any subsidiary of the 
+Company, and (v) any entity in which the Company has at least twenty 
+percent (20%) of the combined voting power of the entitys outstanding 
+voting securities, in each case as designated by the Board of Directors as 
+being a participant employer in the Plan.
+
+(d) Available Shares shall mean, at each time of reference, the total 
+number of Shares described in Section 3 with respect to which the 
+Administrator may grant an Option, all of which Available Shares shall be 
+held in the Companys treasury or shall be made available from authorized 
+and unissued Shares.
+
+(e) Bank shall mean Business First Bank, Baton Rouge, Louisiana, a 
+Louisiana state bank, which upon consummation of the Holding Company 
+Reorganization, will be a wholly-owned subsidiary of the Company, and its 
+respective successors and/or assigns.
+
+(f) Board shall mean the Board of Directors of the Company.
+
+(g) Cause shall mean:
+
+(i) The determination by the Board in the exercise of its reasonable 
+judgment, after consultation with its legal counsel, that Optionee has 
+committed an act or acts constituting (A) a felony or other crime, whether 
+a felony or a misdemeanor, involving moral turpitude, dishonesty or theft, 
+(B) dishonesty or disloyalty that is harmful to the Company or any 
+Affiliate, or (C) fraud;
+ 
+1
+
+------------------------------------------------------------------------
+(ii) The determination by the Board in the exercise of its reasonable 
+judgment, that Optionee (A) has engaged in actions or omissions that would 
+constitute unsafe or unsound banking practices, or (B) has failed to follow 
+the lawful directives of the Board after written notice to Optionee by the 
+Company or any Affiliate specifying in reasonable detail such failure;
+
+(iii) The determination by the Board in the exercise of its reasonable 
+judgment, after consultation with its legal counsel, that Optionee has 
+committed a breach or violation of this Agreement, and Optionee has failed 
+to cure such breach or violation within ten (10) days after written notice 
+to Optionee by the Company or an Affiliate specifying in reasonable detail 
+the alleged breach or violation;
+
+(iv) The determination by the Board, after consultation with its legal 
+counsel, that Optionee has engaged in gross misconduct in the course and 
+scope of his employment with the Company or any Affiliate, including 
+indecency, immorality, gross insubordination, dishonesty, unlawful 
+harassment or discrimination, use of illegal drugs, or fighting; or
+
+(v) In the event Optionee is prohibited from engaging in the business of 
+banking by any governmental regulatory agency having jurisdiction over the 
+Company or any Affiliate.
+
+(h) Change in Control shall mean and shall be deemed to have occurred for 
+purposes of this Agreement on the first to occur of the following:
+
+(i) the acquisition by any individual, entity or group, within the 
+meaning of section 13(d)(3) or section 14(d)(2) of the Act (other than (a) 
+the Company, (b) the Bank or (c) any savings, pension or other benefit plan 
+for the benefit of the employees of the Company or any Affiliate or 
+subsidiaries thereof) (a Person), of beneficial ownership (within the 
+meaning of Rule 13d-3 promulgated under the Act) of voting securities of 
+the Company or the Bank where such acquisition causes any such Person to 
+own fifty percent (50%) or more of the combined voting power of the 
+Companys or the Banks then outstanding capital stock entitled to vote 
+generally in the election of directors;
+
+(ii) within any twelve-month period (commencing in 2009), the persons who 
+were directors of the Company or the Bank immediately before the beginning 
+of the twelve-month period (the Incumbent Directors) shall cease to 
+constitute at least a majority of the Board of Directors of such entity; 
+provided that any individual becoming a director subsequent to the 
+beginning of such twelve-month whose election, or nomination for election 
+by the Companys or the Banks shareholders, as the case may be, was 
+approved by at least two-thirds of the directors then comprising the 
+Incumbent Directors shall be considered as though such individual were an 
+Incumbent Director unless such individuals initial assumption of office 
+occurs as a result of either an actual or threatened election contest (as 
+such terms are used in Rule 14a-11 of Regulation 14A promulgated under the 
+Act);
+ 
+2
+
+------------------------------------------------------------------------
+(iii) a reorganization, merger, consolidation, share exchange or other 
+corporate transaction involving the Company or the Bank (other than the 
+Companys acquisition of the shares of the Bank in the Holding Company 
+Reorganization) with respect to which the shareholders of the Company or 
+the Bank immediately prior to such transaction do not, immediately after 
+the transaction, own more than fifty percent (50%) of the combined voting 
+power of the reorganized, merged or consolidated entitys then outstanding 
+voting securities;
+
+(iv) the sale, transfer or assignment of all or substantially all of the 
+assets of the Company or the Bank to any third party;
+
+(v) a dissolution or liquidation of the Company (other than for the sole 
+purpose of terminating the Banks status as a subsidiary of the Company and 
+eliminating the Company) or the Bank; or
+
+(vi) any other transactions or series of related transactions occurring 
+which have substantially the same effect as the transactions specified in 
+clauses (i)  (v), as determined by the Board.
+
+(i) Code shall mean the Internal Revenue Code of 1986, as it now exists 
+or may be amended from time to time.
+
+(j) Company shall mean Business First Bancshares, Inc., a Louisiana 
+corporation.
+
+(k) Controlling Participant means any person who, immediately before an 
+Option is granted to that particular person, directly or indirectly (within 
+the meaning of section 424 of the Code and the regulations promulgated 
+thereunder) possesses more than ten percent (10%) of the total combined 
+voting power of all classes of stock of the Company or any Affiliate. The 
+determination of whether a person is a Controlling Participant shall be 
+made in accordance with sections 422 and 424 of the Code, or any successor 
+provisions, and the regulations promulgated thereunder.
+
+(l) Date of Exercise shall mean the later of (i) the date on which the 
+Company has received written notice of the exercise, in whole or in part, 
+of the Option, and (ii) the date on which full payment of (A) the aggregate 
+Exercise Price of the Option Shares being acquired, and (B) applicable tax 
+withholding, has been made.
+
+(m) Date of Grant shall mean the date on which the Administrator takes 
+formal action to grant an Option, provided that it is followed, as soon as 
+reasonably possible, by written notice to the Eligible Person receiving the 
+Option.
+
+(n) Director shall mean a member of the Board.
+
+(o) Eligible Person(s) shall mean those persons who are Employees of the 
+Company or the Bank. Notwithstanding the preceding, and solely with respect 
+to Nonstatutory Options, the term Eligible Person shall include 
+non-Employee Directors.
+ 
+3
+
+------------------------------------------------------------------------
+(p) Employee(s) shall mean those persons who are employees of the 
+Company, the Bank or any Affiliate.
+
+(q) Exercise Price shall mean the price at which a Share may be purchased 
+by an Optionee pursuant to the exercise of an Option, as specified in the 
+respective Option Agreement.
+
+(r) Fair Market Value, when capitalized, shall mean:
+
+(i) If Shares are listed on a national securities exchange or there exists 
+other readily available market price data for the Shares at the date of 
+determining the Fair Market Value, the closing price on the most recently 
+preceding trading date.
+
+(ii) If Shares are not listed on a national securities exchange or there 
+otherwise is no other readily available market price data for the Shares at 
+the date of determining the Fair Market Value, the value determined by the 
+reasonable application of a reasonable valuation method, as set forth in 
+the regulations to Code section 409A.
+
+(s) Holding Company Reorganization means the transaction pursuant to 
+which the Company acquires the outstanding stock of the Bank and becomes a 
+registered bank holding company under the Bank Holding Company Act of 1954, 
+as amended.
+
+(t) Incentive Option shall mean an Option that is intended to qualify 
+under and satisfy the requirements of section 422 of the Code.
+
+(u) Nonstatutory Option shall mean an Option that is not intended to 
+satisfy the requirements of section 422 of the Code.
+
+(v) Option (when capitalized) shall, unless otherwise specifically noted, 
+mean any stock option granted under this Plan.
+
+(w) Option Agreement shall mean an agreement between an Optionee and the 
+Company containing the terms and conditions of the Option.
+
+(x) Option Shares shall mean Shares subject to the Option of reference at 
+the time of reference.
+
+(y) Optionee shall mean a person to whom an Option is granted or any 
+successor to the rights of such Option under this Plan.
+
+(z) Owner shall mean the person (including, without limitation, the 
+Optionee) who owns the Purchased Shares at the time of reference.
+
+(aa) Plan shall mean this 2006 Stock Option Plan for Business First 
+Bancshares, Inc.
+
+(bb) Purchased Shares shall mean Option Shares which have been acquired 
+through the exercise of an Option.
+ 
+4
+
+------------------------------------------------------------------------
+(cc) Repurchase Right shall mean the right of the Company to repurchase 
+Purchased Shares as described in Section 13.
+
+(dd) Separation or Separates shall mean the date on which Optionee 
+ceases to have an employment relationship with the Company or the Bank or 
+any Affiliate for any reason, including death or disability; provided, 
+however, a Separation will not be considered to have occurred while an 
+Employee is on sick leave, military leave, or any other leave of absence 
+approved by the Company or the Bank or an Affiliate, as applicable, if the 
+period of such leave does not exceed ninety (90) days, or, if longer, so 
+long as the Employees right to reemployment with the Company or the Bank 
+or an Affiliate is guaranteed either by statute or by contract.
+
+(ee) Share or Shares shall mean a share or shares of the common stock 
+of the Company; and, following a Change in Control, without limitation, 
+shall include and refer to the number and class of securities that would 
+have been issuable to an Optionee in consummation of such Change in Control 
+had such Optionees Option been exercised immediately prior to such Change 
+in Control.
+
+(ff) Shareholders Agreement shall mean that certain Shareholders 
+Agreement between the Company and its shareholders relating to preservation 
+of the S corporation federal income tax status of the Company, as may be 
+amended or replaced from time to time.
+
+(gg) Spread shall mean the excess of: (i) the Fair Market Value on the 
+Date of Exercise of the Purchased Shares, over (ii) the Exercise Price of 
+the Option Shares.
+
+(hh) Vested, Vesting, Unvested and similar references, shall mean the 
+number of Option Shares which have Vested, become nonforfeitable, and are 
+exercisable under the terms of the Plan or the Option Agreement, or both, 
+at the time of reference.
+
+Section 3 Available Shares.
+
+(a) As of the Effective Date, 450,000 Shares shall automatically, and 
+without further action, become Available Shares to be granted as Options 
+under this Plan, all of which may be granted as Incentive Options under 
+this Plan. Any Shares issued by the Bank in connection with the assumption 
+or substitution of outstanding grants from any acquired corporation shall 
+not reduce the Shares available for Options under the Plan.
+
+(b) To the extent any Option shall terminate, expire or be canceled, 
+(including, without limitation, a cancellation described in Section 3(d) 
+below), the Available Shares subject to such Option shall remain Available 
+Shares.
+
+(c) Shares or Option Shares delivered to the Company to pay the Exercise 
+Price of any Option or to satisfy the Optionees income tax withholding 
+obligation shall become available for future issuance under the Plan.
+
+(d) Without limitation, the Administrator shall have the authority to 
+effect, at any time and from time to time, with the consent of the affected 
+Optionee, the cancellation of
+ 
+5
+
+------------------------------------------------------------------------
+any or all outstanding Options of such Optionee and to grant, in 
+substitution, to such Optionee new Options covering the same or different 
+number of Shares; provided, however, that substituted Incentive Options 
+shall comply with the requirements of Section 4 and Section 5 of this Plan, 
+and the requirements of section 422 of the Code.
+
+Section 4 Conditions for Grant of Options.
+
+(a) Each Option shall be evidenced by an Option Agreement that may contain 
+any term deemed necessary or desirable by the Administrator, provided such 
+terms are not inconsistent with this Plan or any applicable law. If a 
+Optionee receives both Incentive Options and Nonstatutory Options, a 
+separate Option Agreement shall be issued for each type of Option granted. 
+However, notwithstanding such designations, to the extent that (i) the 
+aggregate Fair Market Value (determined as of the time of grant) of the 
+Shares with respect to which Options designated as Incentive Options are 
+exercisable for the first time by any Employee during any calendar year 
+(under all plans of the Company and any Affiliate) exceeds $100,000, or 
+(ii) an Incentive Option does not meet any other requirement to be an 
+incentive stock option within the meaning of section 422 of the Code, 
+such Options, or portions thereof, shall be treated as Nonstatutory 
+Options. For purposes of this section, Options shall be taken into account 
+in the order in which they were granted. Each Option Agreement relating to 
+an Incentive Option granted under this Plan shall contain such limitations 
+and restrictions upon the exercise of the Incentive Option to which it 
+relates as shall be necessary for the Incentive Option to which such Option 
+Agreement relates to constitute an incentive stock option, as defined in 
+section 422 of the Code. If this Plan or any Option Agreement does not 
+contain any provision required to be included herein under section 422 of 
+the Code, that provision shall be deemed to be incorporated herein with the 
+same force and effect as if that provision had been set out at length 
+herein; provided, further, that, to the extent any Option that is intended 
+to qualify as an Incentive Option cannot so qualify, that Option (to that 
+extent) shall be deemed a Nonstatutory Option for all purposes of this Plan 
+and any Option Agreement.
+
+(b) Optionees shall be those persons selected by the Administrator from 
+Eligible Persons; provided, however, that only Employees may receive 
+Incentive Options under the Plan. In granting Options, the Administrator 
+shall take into consideration the contribution the person has made or may 
+make to the success of the Company, the Bank, or any Affiliate and such 
+other factors as the Administrator shall determine. The Administrator shall 
+also have the authority to consult with and receive recommendations from 
+officers and other personnel of the Company, the Bank or any Affiliate with 
+regard to these matters. The Administrator may from time to time in 
+granting Options under the Plan prescribe such other terms and conditions 
+concerning such Options as it deems appropriate, including, without 
+limitation, relating an Option to achievement of specific goals established 
+by the Administrator or the continued employment of Optionee for a 
+specified period of time, provided that such terms and conditions are not 
+more favorable to an Optionee than those expressly permitted herein.
+
+(c) The Administrator in its sole discretion shall determine in each case 
+whether periods of military or governmental service shall constitute a 
+continuation of employment for the purposes of this Plan or any Option.
+ 
+6
+
+------------------------------------------------------------------------
+(d) Neither the Plan nor any Option granted under the Plan shall confer 
+upon any person any right to continued employment by the Company, the Bank 
+or any Affiliate; and provided, further, that nothing herein shall be 
+deemed to limit the ability of the Company or the Bank to enter into any 
+other compensation arrangement(s) with any Eligible Person.
+
+Section 5 Exercise Price. The Exercise Price per Share under an Option 
+shall be determined by the Administrator in its sole discretion; provided, 
+however, that the Exercise Price shall be not less than one hundred percent 
+(100%) of the Fair Market Value on the date that such Option is granted 
+and, in the case of an Incentive Option granted to a Controlling 
+Participant, the Exercise Price shall be not less than one hundred ten 
+percent (110%) of the Fair Market Value on the date that such Option is 
+granted.
+
+Section 6 Payment of Exercise Price and Withholding. The Exercise Price of 
+any Option Shares, and the amount that the Administrator determines to be 
+necessary for the Company, the Bank or any Affiliate, as applicable, to 
+withhold in accordance with applicable federal or state income tax 
+withholding requirements with respect to any Option Shares, shall be paid 
+solely in cash, by certified or cashiers check or by money order, or by 
+wire transfer of immediately available funds; provided, however, that the 
+Administrator, in its sole discretion, may accept a personal check in full 
+or partial payment of the Exercise Price and withholding; and provided, 
+further, that to the extent, if any, expressly permitted by the terms of 
+the Option Agreement, and not to any greater extent, on or after February 
+1, 2009, the Exercise Price, or the withholding, or both, may be paid by 
+the surrender of Shares, including Vested but unexercised Option Shares 
+and/or Purchased Shares. If either (or both) the Exercise Price or the 
+withholding is paid with Shares, including Vested but unexercised Option 
+Shares and/or Purchased Shares, the amount of such payment will be equal to 
+the Fair Market Value on the Date of Exercise of the Shares, Option Shares 
+and/or Purchased Shares surrendered as determined as of the most recent 
+calendar quarter; provided, further, that Optionee must indicate his or her 
+intention to surrender a certain number, or dollar value, of Shares, Option 
+Shares or Purchased Shares in payment of the Exercise Price, or 
+withholding, or both, in his or her required written notice of exercise.
+
+Section 7 Exercise of Options.
+
+(a) Any Option shall become exercisable in such amounts and at such 
+intervals as the Administrator shall provide in any Option Agreement, 
+except as otherwise provided in this Section 7; provided in each case that 
+the Option has not expired on the Date of Exercise.
+
+(b) The expiration date of an Option shall be determined by the 
+Administrator at the Date of Grant, provided, that for an Option to qualify 
+as an Incentive Option, the Option shall expire not more than ten (10) 
+years from the Date of Grant, and in the case of a Controlling Participant, 
+not more than five (5) years from the Date of Grant.
+
+(c) Without limitation, the Administrator may in its sole discretion 
+accelerate the date on which any Option Shares shall become Vested, 
+including the right, subject to the Administrators right under Section 
+8(b) of this Plan, to accelerate all Unvested Options, as set forth in any 
+Option Agreement, upon a Change in Control; provided, that any acceleration 
+upon a Change in Control that occurs prior to February 1, 2009 may be 
+subject to review and approval of the Federal Deposit Insurance 
+Corporation.
+ 
+7
+
+------------------------------------------------------------------------
+Section 8 Termination of Option.
+
+(a) Unless otherwise provided in the Option Agreement, the unexercised 
+portion of such Option shall automatically and without notice terminate and 
+become null and void upon the earliest to occur of the following:
+
+(i) with respect to Incentive Options only, three (3) months after the date 
+on which the Optionee Separates, other than Separation for Cause; or
+
+(ii) the date on which the Optionee Separates, if the Administrator, in its 
+sole discretion, determines that such Separation is, or was, for Cause.
+
+Without limitation, the Administrator, in its sole discretion, may extend 
+the date on which, absent such extension, an Option would terminate.
+
+(b) Except to the extent expressly provided to the contrary in the Option 
+Agreement, the Administrator, in its sole discretion may, by giving written 
+notice (a Cancellation Notice) cancel, effective upon the date of the 
+consummation of any Change in Control, all or any portion of such Option 
+that remains unexercised on such date. Such Cancellation Notice shall be 
+given a reasonable period of time (but not less than 15 days) prior to the 
+proposed date of such cancellation, and may be given either before or after 
+shareholder approval (if any is required) of the Change in Control, and may 
+be conditioned upon the actual occurrence of the Change in Control.
+
+Section 9 Adjustment of Shares Subject to Option.
+
+(a) If at any time while the Plan is in effect or unexercised Options are 
+outstanding, there shall be any increase or decrease in the number of 
+issued and outstanding Shares through the declaration of a stock dividend 
+or through any recapitalization resulting in a stock split-up, combination 
+or exchange of Shares, then in such event:
+
+(i) appropriate adjustment shall be made in the maximum number of Shares 
+then subject to being optioned under the Plan, so that the same proportion 
+of the Companys issued and outstanding Shares shall continue to be subject 
+to being so optioned; and
+
+(ii) appropriate adjustment shall be made in the number of Option Shares 
+and the Exercise Price thereof, so that the same proportion of the 
+Companys issued and outstanding Shares shall remain subject to purchase at 
+the same aggregate Exercise Price.
+
+(b) The Administrator shall change the terms of Options outstanding under 
+this Plan, with respect to the Exercise Price or the number of Option 
+Shares, or both, when such adjustments become appropriate by reason of any 
+corporate transaction and, unless terminated, following a Change in 
+Control: (i) the Option Shares assumed shall be appropriately adjusted,
+ 
+8
+
+------------------------------------------------------------------------
+immediately after such Change in Control, to continue to be Option Shares 
+as defined herein, and (ii) there shall be an appropriate adjustment in the 
+Exercise Price so that the Option Shares shall remain subject to purchase 
+at the same aggregate Exercise Price; provided, however, that no 
+adjustments shall be made to Incentive Options unless: (i) the excess of 
+the aggregate Fair Market Value of the Option Shares immediately after such 
+adjustment over the aggregate Exercise Price of the Incentive Option is not 
+more than the excess of the Fair Market Value of all Options Shares 
+immediately before the adjustment over the aggregate Exercise Price of the 
+Incentive Options; and (ii) the new or adjusted Incentive Options do not 
+give the Optionee additional benefits that the Optionee did not have prior 
+to adjustment.
+
+(c) Subject to the terms and conditions of, and within the limitations of, 
+the Plan, the Board of Directors may modify, extend, or renew outstanding 
+Options granted under the Plan or accept the surrender of Options 
+outstanding under the Plan (to the extent not previously exercised) and 
+authorize the granting of substitute Options (to the extent not previously 
+exercised). Except as otherwise provided herein or any Option Agreement or 
+as may be necessary, with respect to Incentive Options, to satisfy the 
+requirements of section 422 of the Code, no modification of an Option 
+granted under the Plan shall, without the consent of Optionee, alter or 
+impair any rights or obligations under any Option previously granted under 
+the Plan to such Optionee under the Plan.
+
+(d) Except as otherwise expressly provided herein, the issuance by the 
+Company of shares of its capital stock of any class, or securities 
+convertible into shares of capital stock of any class, either in connection 
+with a direct sale or upon the exercise of rights or warrants to subscribe 
+therefor, or upon conversion of shares or obligations of the Company 
+convertible into such shares or other securities, shall not affect, and no 
+adjustment by reason thereof shall be made with respect to, the number of 
+Available Shares or the number of or Exercise Price of Option Shares.
+
+(e) Without limiting the generality of the foregoing, the existence of 
+outstanding Options granted under the Plan shall not affect in any manner 
+the right or power of the Company to make, authorize or consummate: (i) any 
+or all adjustments, recapitalizations, reorganizations or other changes in 
+the Companys capital structure or its business; (ii) any merger or 
+consolidation of the Company; (iii) any issue by the Company of debt 
+securities, or preferred or preference stock that would rank above Option 
+Shares subject to outstanding Options; (iv) the dissolution or liquidation 
+of the Company; (v) any sale, transfer or assignment of all or any part of 
+the assets or business of the Company; or (vi) any other corporate act or 
+proceeding, whether of a similar character or otherwise.
+
+Section 10 Transferability of Options and Option Shares. Each Option 
+Agreement shall provide that such Option shall not be transferable by the 
+Optionee other than by will or the laws of descent and distribution, and 
+that so long as the Optionee lives, only such Optionee or his guardian or 
+legal representative shall have the right to exercise such Option.
+
+Section 11 Issuance of Shares. No person shall be, or have any of the 
+rights or privileges of, a shareholder of the Company with respect to any 
+of the Purchased Shares unless and until certificates representing such 
+Purchased Shares shall have been issued and delivered to such person. In 
+the event that an Optionee exercises both an Incentive Option, or portion 
+of
+ 
+9
+
+------------------------------------------------------------------------
+one, and a Nonstatutory Stock Option, or a portion of one, separate 
+certificates shall be issued, one for the Purchased Shares subject to the 
+Incentive Option and one for the Purchased Shares subject to the 
+Nonstatutory Stock Option. As a condition of any transfer of the 
+certificate of Purchased Shares, the Administrator may obtain such 
+agreements or undertaking, if any, as it may deem necessary or advisable to 
+assure compliance with any provision of the Plan, the Option Agreement or 
+any law or regulation including, but not limited to, the following:
+
+(a) A representation, warranty or agreement by an Optionee to the Company 
+at the time any Option is exercised that he or it is acquiring the 
+Purchased Shares to be issued to him or it for investment and not with a 
+view to, or for sale in connection with, the distribution of any such 
+Purchased Shares; and
+
+(b) A representation, warranty or agreement to be bound by any legends that 
+are, in the opinion of the Administrator, necessary or appropriate to 
+comply with the provisions of the Shareholders Agreement or any securities 
+laws deemed by the Administrator to be applicable to the issuance of the 
+Purchased Shares and are endorsed upon the Purchased Share certificates.
+
+Section 12 Administration of the Plan.
+
+(a) The Plan shall be administered by the Administrator, which shall be the 
+Board except to the extent (if any) that the Board has delegated some or 
+all of its authority to a one or more officers or Directors, or both, in 
+which event, other than the power to appoint the Administrator, and as 
+otherwise limited by the Board, in writing, in the document delegating such 
+its authority, such selected persons shall function as the Administrator 
+for all purposes hereof.
+
+(b) The Administrator, from time to time, may adopt rules and regulations 
+for carrying out the purposes of the Plan. The determinations and the 
+interpretation and construction of any provision of the Plan by the 
+Administrator shall be final and conclusive.
+
+(c) Any and all decision or determinations of the Administrator shall be 
+made either (i) by a majority vote of the members of the Administrator at a 
+meeting or (ii) without a meeting by the written approval of a majority of 
+the members of the Administrator.
+
+(d) Subject to the express provisions of this Plan, the Administrator shall 
+have the authority, in its sole and absolute discretion (i) to adopt, 
+amend, and rescind administrative and interpretive rules and regulations 
+relating to the Plan or any Options; and (ii) to make all other 
+determinations and perform all other acts necessary or advisable for 
+administering the Plan, including the delegation of such ministerial acts 
+and responsibilities as the Administrator deems appropriate. The 
+Administrator may correct any defect or supply any omission or reconcile 
+any inconsistency in the Plan or any Option Agreement in the manner and to 
+the extent it shall deem expedient to carry it into effect, and it shall be 
+the sole and final judge of such expediency. The Administrator shall have 
+full discretion to make all determinations on the matters referred to in 
+this Section 12(d), and such determinations shall be final, binding and 
+conclusive.
+
+Section 13 Repurchase of Purchased Shares Upon Separation for Cause. 
+Notwithstanding anything to the contrary in the Plan or the Option 
+Agreement, if an Optionees
+ 
+10
+
+------------------------------------------------------------------------
+Separation is for Cause, then the Option shall immediately terminate 
+(without action by the Company or Optionee) and, additionally, the Company 
+shall have the right, but not the obligation, to repurchase all or any 
+portion of the Purchased Shares held by the Owner as of such date (the 
+Repurchase Right). The Company may (but is not obligated to) exercise its 
+right by delivering written notice to such Owner within one hundred eighty 
+(180) days following the later of (i) the date of Optionees Separation, 
+and (ii) the date the Administrator determines that a violation occurred 
+(Notice Period). The notice shall indicate the number of Purchased Shares 
+to be repurchased and the date on which the repurchase is to be effected, 
+and the Optionee shall comply with such notice and requirements. The 
+certificate(s) representing the Purchased Shares to be repurchased shall be 
+delivered to the Company by the Optionee prior to the close of business on 
+the date specified for the repurchase, along with a duly executed stock 
+power(s) transferring the Purchased Shares to the Company. Concurrently 
+with the receipt of such stock certificate(s) and duly executed stock 
+power(s), the Company shall pay to the Owner, by check, cash or cash 
+equivalents (including the cancellation of any purchase-money 
+indebtedness), an amount equal to the current Fair Market Value of the 
+Purchased Shares that are to be repurchased from the Owner; provided, 
+however, if the Owner fails to deliver such certificate(s) and stock 
+power(s) to the Company in a timely manner and the Company makes the check, 
+cash or cash equivalents available to the Owner on the date specified in 
+the notice for repurchase of the Purchased Shares, then the Purchased 
+Shares shall be deemed to have been repurchased by the Company as of such 
+date (notwithstanding the Owners failure to deliver the stock 
+certificate(s) evidencing such Purchased Shares and stock power(s) 
+transferring the Purchased Shares to the Company). The Companys option to 
+repurchase shall terminate at the at 12:00 p.m. on the last day of the 
+Notice Period with respect to any Purchased Shares for which it has not 
+exercised its option to repurchase. The provisions of this Section 13 
+shall supersede any provisions of the Shareholders Agreement to the extent 
+of any conflict between the Plan and the Shareholders Agreement relating 
+to the repurchase of Purchased Shares by the Company.
+
+Section 14 Government Regulations. This Plan, the Options and the 
+obligations of the Company to sell and deliver Purchased Shares upon 
+exercise of an Option, shall be subject to all applicable laws, rules and 
+regulations, and to such approvals by any governmental agencies as may be 
+required; including, without limitation, compliance with 12 U.S.C. § 
+1828(k) and regulations promulgated thereunder.
+
+Section 15 Miscellaneous.
+
+(a) The proceeds received by the Company from the exercise of Options shall 
+be used for general corporate purposes.
+
+(b) The granting of an Option shall be in addition to any other 
+compensation paid to Optionee or other stock option plans of the Company or 
+other benefits with respect to Optionees position or agency with the 
+Company, the Bank or any Affiliate.
+
+(c) The members of the Board and the Administrator (if not the Board) shall 
+not be liable for any act, omission, or determination taken or made in good 
+faith with respect to the Plan or any Option, and members of the Board and 
+the Administrator shall, in addition to all other rights of indemnification 
+and reimbursement, be entitled to indemnification and
+ 
+11
+
+------------------------------------------------------------------------
+reimbursement by the Company in respect of any claim, loss, damage, or 
+expense (including attorneys fees, the costs of settling any suit, 
+provided such settlement is approved by independent legal counsel selected 
+by the Company, and amounts paid in satisfaction of a judgment, except a 
+judgment based on a finding of bad faith) arising from such claim, loss, 
+damage, or expense to the full extent permitted by law and under any 
+directors and officers liability or similar insurance coverage that may 
+from time to time be in effect.
+
+(d) Any issuance or transfer of Purchased Shares to an Optionee, or to his 
+legal representative, heir, legatee, or distributee, in accordance with the 
+provisions of the Plan or the applicable Option Agreement, shall, to the 
+extent thereof, be in full satisfaction of all claims of such persons under 
+the Plan. The Administrator may require any Optionee, legal representative, 
+heir, legatee or distributee as a condition precedent to such payment or 
+issuance or transfer of Purchased Shares, to execute a release and receipt 
+for such payment or issuance or transfer of Purchased Shares in such form 
+as it shall determine.
+
+(e) None of the Board, the Administrator, or the Company guarantees 
+Purchased Shares from loss or depreciation.
+
+(f) All expenses incident to the administration, termination, or protection 
+of the Plan or any Option Agreement, including, but not limited to, legal 
+and accounting fees, shall be paid by the Company; provided, however, the 
+Company may recover any and all damages, fees, expenses and costs arising 
+out of any actions taken by the Company to enforce its rights under the 
+Plan or any Option Agreement.
+
+(g) Records of the Company shall be conclusive for all purposes under the 
+Plan or any Option, unless determined by the Administrator to be incorrect.
+
+(h) The Company shall, upon request or as may be specifically required 
+under the Plan or any Option Agreement, furnish or cause to be furnished 
+all of the information or documentation that is necessary or required by 
+the Administrator to perform its duties and functions under the Plan or any 
+Option Agreement.
+
+(i) The Company assumes no liability to any Optionee or his legal 
+representatives, heirs, legatees or distributees for any act of, or failure 
+to act on the part of, the Administrator.
+
+(j) Any action required of the Company relating to the Plan or any Option 
+shall be by resolution of its Administrator or by a person authorized to 
+act by written delegation of the Administrator.
+
+(k) If any provision of the Plan, or any Option Agreement, is held to be 
+illegal or invalid for any reason, the illegality or invalidity shall not 
+affect the remaining provisions of the Plan or any Option, but such 
+provision shall be fully severable, and the Plan or Option Agreement, as 
+applicable, shall be construed and enforced as if the illegal or invalid 
+provision had never been included in the Plan or Option Agreement, as 
+applicable.
+
+(l) Whenever any notice is required or permitted under the Plan, such 
+notice must be in writing and personally delivered or sent by mail or 
+delivery by a nationally
+ 
+12
+
+------------------------------------------------------------------------
+recognized courier service. Any notice required or permitted to be 
+delivered under the Plan shall be deemed to be delivered on the date on 
+which it is personally delivered, or, if mailed, whether actually received 
+or not, on the third business day after it is deposited in the United 
+States mail, certified or registered, postage prepaid, addressed to the 
+person who is to receive it at the address that such person has previously 
+specified in accordance with this Section 15(l), or, if by courier, 
+seventy-two (72) hours after it is sent, addressed as described in this 
+Section 15(l). The Company or Optionee may change, at any time and from 
+time to time, by written notice to the other, the address that it or he had 
+previously specified for receiving notices. Until changed in accordance 
+with the Plan, the Company and Optionee shall be deemed to have specified 
+as its and his address for receiving notices, as to the Company, its 
+principal executive offices in Baton Rouge, Louisiana, and, as to the 
+Optionee, the most current address of Optionee set forth in the Companys 
+employment records.
+
+(m) Any person entitled to notice under the Plan may waive such notice.
+
+(n) The Plan shall be binding upon Optionee, his legal representatives, 
+heirs, legatees and distributees upon the Company, its successors, and 
+assigns, and upon the Board and its successors.
+
+(o) All questions arising with respect to the provisions of the Plan shall 
+be determined by application of the laws of the State of Louisiana to the 
+maximum extent permitted under applicable law. The Company and the Optionee 
+agree that venue for any lawsuit concerning the Plan or any Option 
+Agreement will be the in the state or federal courts located in East Baton 
+Rouge Parish, Louisiana.
+
+(p) Without limitation, the amount received by an Optionee as a result of 
+the exercise of the Option shall not constitute compensation with respect 
+to which any other employee benefits of the Company are determined, 
+including, again without limitation, benefits under any bonus, pension, 
+profit-sharing, 401(k), life insurance, severance, or salary continuation 
+plan.
+
+Section 16 Amendment and Discontinuation of the Plan. The Board may from 
+time to time amend the Plan, and the Administrator may amend any Option 
+Agreement; provided, however, that subject to changes in law or other legal 
+requirements that would permit otherwise, or except to the extent provided 
+in Section 8 or Section 9, no such amendment may substantially impair any 
+Option previously granted to any Optionee without the consent of such 
+Optionee, provided further, that, as applied to Incentive Options and 
+absent shareholder approval, no amendment to the Plan shall change the 
+class of Employees that constitute Eligible Persons, nor shall any 
+amendment alter the amount of Available Shares with respect to Incentive 
+Options. The Board may discontinue and terminate the Plan at any time; 
+provided, however, that such discontinuance and termination of the Plan 
+shall not, subject to the limitations set forth in Section 8 of the Plan or 
+any limitations set forth in an Option Agreement, affect the status of 
+outstanding Options issued under the Plan.
+
+Section 17 Effective Date and Termination Date. The effective date of this 
+2006 Stock Option Plan for Business First Bancshares, Inc. is December 22, 
+2006.
+ 
+13
+
+------------------------------------------------------------------------
+*******
+
+Executed this 22nd day of December 2006.
+ 
+BUSINESS FIRST BANCSHARES, INC.
+ 
+/s/ Charles E. Roemer, III
+Charles E. Roemer, III, President
+ 
+14

@@ -1,0 +1,807 @@
+ EX-10.47 2 etrials_10qsb-ex1047.htm EXHIBIT 10.47
+------------------------------------------------------------------------
+ 
+Exhibit 10.47
+ 
+ 
+
+Approved by Board of Directors on August 9, 2005
+Approved by Shareholders on February 9, 2006
+Name Change Amendment approved by Board of Directors on February 22, 2006
+Section 3.1 First Amendment approved by Board of Directors on April 6, 2006
+Section 3.1 First Amendment approved by Shareholders on June 13, 2006.
+Section 3.1 Second Amendment approved by Board of Directors on May 18, 2007
+Section 3.1 Second Amendment approval by Shareholders is pending
+Code Section 409A Amendments approved by the Board of Directors on 
+September 7, 2007.
+
+
+etrials Worldwide, Inc.
+(formerly CEA Acquisition Corporation)
+
+2005 Performance Equity Plan
+ 
+1.    Purpose; Definitions.
+ 
+1.1  Purpose. The purpose of the etrials Worldwide, Inc. 2005 Performance 
+Equity Plan is to enable the Company to offer to its employees, officers, 
+directors and consultants whose past, present and/or potential 
+contributions to the Company and its Subsidiaries have been, are or will be 
+important to the success of the Company, an opportunity to acquire a 
+proprietary interest in the Company. The various types of long-term 
+incentive awards that may be provided under the Plan will enable the 
+Company to respond to changes in compensation practices, tax laws, 
+accounting regulations and the size and diversity of its businesses.
+ 
+1.2  Definitions. For purposes of the Plan, the following terms will have 
+the meanings set forth below:
+ 
+(a)  “Agreement” means the agreement between the Company and the Holder, 
+including any amendment thereto or such other document as may be determined 
+by the Committee, setting forth the terms and conditions of an award under 
+the Plan.
+ 
+(b)  “Board” means the Board of Directors of the Company.
+ 
+(c)  “Code” means the Internal Revenue Code of 1986, as amended from time 
+to time.
+ 
+(d)  “Committee” means the Compensation Committee of the Board or any other 
+committee of the Board that the Board may designate to administer the Plan 
+or any portion thereof. If no Committee is so designated, then all 
+references in this Plan to “Committee” will mean the Board.
+ 
+(e)  “Common Stock” means the Common Stock of the Company, $0.0001 par 
+value per share.
+ 
+(f)  “Company” means etrials Worldwide, Inc. (formerly CEA Acquisition 
+Corporation), a corporation organized under the laws of the State of 
+Delaware.
+ 
+------------------------------------------------------------------------
+ 
+(g)  “Disability” means physical or mental impairment as determined under 
+procedures established by the Committee for purposes of the Plan.
+ 
+(h)  “Effective Date” means the date set forth in Section 12.1, below.
+ 
+(i)  “Fair Market Value”, unless otherwise required by any applicable 
+provision of the Code or any regulations issued thereunder, means, as of 
+any given date: (i) if the Common Stock is listed on a national securities 
+exchange or quoted on the Nasdaq National Market or Nasdaq SmallCap Market, 
+the last sale price of the Common Stock in the principal trading market for 
+the Common Stock on such date, as reported by the exchange or Nasdaq, as 
+the case may be; (ii) if the Common Stock is not listed on a national 
+securities exchange or quoted on the Nasdaq National Market or Nasdaq 
+SmallCap Market, but is traded in the over-the-counter market, the closing 
+bid price for the Common Stock on such date, as reported by the OTC 
+Bulletin Board or the National Quotation Bureau, Incorporated or similar 
+publisher of such quotations; and (iii) if the fair market value of the 
+Common Stock cannot be determined pursuant to clause (i) or (ii) above, 
+such price as the Committee determines in good faith.
+ 
+(j)  “Holder” means a person who has received an award under the Plan.
+ 
+(k)  “Incentive Stock Option” means any Stock Option intended to be and 
+designated as an “incentive stock option” within the meaning of Section 422 
+of the Code.
+ 
+(l)  “Nonqualified Stock Option” means any Stock Option that is not an 
+Incentive Stock Option.
+ 
+(m)  “Normal Retirement” means retirement from active employment with the 
+Company or any Subsidiary on or after such age which may be designated by 
+the Committee as “retirement age” for any particular Holder. If no age is 
+designated, it will be 65.
+ 
+(n)  “Other Stock-Based Award” means an award under Section 9, below, that 
+is valued in whole or in part by reference to, or is otherwise based upon, 
+Common Stock.
+ 
+(o)  “Parent” means any present or future “parent corporation” of the 
+Company, as such term is defined in Section 424(e) of the Code.
+ 
+(p)  “Plan” means the etrials Worldwide, Inc. 2005 Performance Equity Plan, 
+as hereinafter amended from time to time.
+ 
+(q)  “Repurchase Value” means the Fair Market Value in the event the award 
+to be settled under Section 2.2(h) or repurchased under Section 10.2 is 
+comprised of shares of Common Stock and means the difference between Fair 
+Market Value and the Exercise Price (if lower than Fair Market Value) in 
+the event the award is a Stock Option or Stock Appreciation Right; in each 
+case, multiplied by the number of shares subject to the award.
+ 
+(r)  “Restricted Stock” means Common Stock received under an award made 
+pursuant to Section 7, below, that is subject to restrictions under said 
+Section 7.
+ 
+2
+------------------------------------------------------------------------
+ 
+(s)  “SAR Value” means the excess of the Fair Market Value (on the exercise 
+date) over the exercise price that the participant would have otherwise had 
+to pay to exercise the related Stock Option, multiplied by the number of 
+shares for which the Stock Appreciation Right is exercised.
+ 
+(t)  “Stock Appreciation Right” means the right to receive from the 
+Company, on surrender of all or part of the related Stock Option, without a 
+cash payment to the Company, a number of shares of Common Stock equal to 
+the SAR Value divided by the Fair Market Value (on the exercise date).
+ 
+(u)  “Stock Option” or “Option” means any option to purchase shares of 
+Common Stock which is granted pursuant to the Plan.
+ 
+(v)  “Stock Reload Option” means any option granted under Section 5.3 of 
+the Plan.
+ 
+(w)  “Subsidiary” means any present or future “subsidiary corporation” of 
+the Company, as such term is defined in Section 424(f) of the Code.
+ 
+(x)  “Vest” means to become exercisable or to otherwise obtain ownership 
+rights in an award.
+ 
+2.    Administration.
+ 
+2.1  Committee Membership. The Plan will be administered by the Board or a 
+Committee. Committee members will serve for such term as the Board may in 
+each case determine, and are subject to removal at any time by the Board. 
+The Committee members, to the extent possible and deemed to be appropriate 
+by the Board, will be “non-employee directors” as defined in Rule 16b-3 
+promulgated under the Securities Exchange Act of 1934, as amended 
+(“Exchange Act”), and “outside directors” within the meaning of Section 
+162(m) of the Code.
+ 
+2.2  Powers of Committee. The Committee has full authority to award, 
+pursuant to the terms of the Plan: (i) Stock Options, (ii) Stock 
+Appreciation Rights, (iii) Restricted Stock, (iv) Stock Reload Options 
+and/or (v) Other Stock-Based Awards. For purposes of illustration and not 
+of limitation, the Committee has the authority (subject to the express 
+provisions of this Plan):
+ 
+(a)  to select the officers, employees, directors and consultants of the 
+Company or any Subsidiary to whom Stock Options, Stock Appreciation Rights, 
+Restricted Stock, Deferred Stock, Reload Stock Options and/or Other 
+Stock-Based Awards may from time to time be awarded hereunder.
+ 
+(b)  to determine the terms and conditions, not inconsistent with the terms 
+of the Plan, of any award granted hereunder (including, but not limited to, 
+number of shares, share exercise price or types of consideration paid upon 
+exercise of such options, such as other securities of the Company or other 
+property, any restrictions or limitations, and any vesting, exchange, 
+surrender, cancellation, acceleration, termination, exercise or forfeiture 
+provisions, as the Committee may determine);
+ 
+3
+------------------------------------------------------------------------
+ 
+(c)  to determine any specified performance goals or such other factors or 
+criteria which need to be attained for the vesting of an award granted 
+hereunder;
+ 
+(d)  to determine the terms and conditions under which awards granted 
+hereunder are to operate on a tandem basis and/or in conjunction with or 
+apart from other equity awarded under this Plan and cash and non-cash 
+awards made by the Company or any Subsidiary outside of this Plan;
+ 
+(e)  to substitute (i) new Stock Options for previously granted Stock 
+Options, which previously granted Stock Options have higher option exercise 
+prices and/or contain other less favorable terms, and (ii) new awards of 
+any other type for previously granted awards of the same type, which 
+previously granted awards are upon less favorable terms; and
+ 
+(f)  to make payments and distributions with respect to awards (i.e., to 
+“settle” awards) through cash payments in an amount equal to the Repurchase 
+Value.
+ 
+Notwithstanding anything contained herein to the contrary, the Committee 
+shall not grant to any one Holder in any one calendar year awards for more 
+than 500,000 shares in the aggregate.
+ 
+2.3  Interpretation of Plan.
+ 
+(a)  Committee Authority. Subject to Section 11, below, the Committee has 
+the authority to adopt, alter and repeal such administrative rules, 
+guidelines and practices governing the Plan as it from time to time deems 
+advisable to interpret the terms and provisions of the Plan and any award 
+issued under the Plan (and to determine the form and substance of all 
+Agreements relating thereto), and to otherwise supervise the administration 
+of the Plan. Subject to Section 11, below, all decisions made by the 
+Committee pursuant to the provisions of the Plan will be made in the 
+Committee’s sole discretion and will be final and binding upon all persons, 
+including the Company, its Subsidiaries and Holders.
+ 
+(b)  Incentive Stock Options. Anything in the Plan to the contrary 
+notwithstanding, no term or provision of the Plan relating to Incentive 
+Stock Options (including but not limited to Stock Reload Options or Stock 
+Appreciation rights granted in conjunction with an Incentive Stock Option) 
+or any Agreement providing for Incentive Stock Options will be interpreted, 
+amended or altered, nor will any discretion or authority granted under the 
+Plan be so exercised, so as to disqualify the Plan under Section 422 of the 
+Code or, without the consent of the Holder(s) affected, to disqualify any 
+Incentive Stock Option under such Section 422.
+    
+3.    Stock Subject to Plan.
+ 
+3.1  Number of Shares. The total number of shares of Common Stock reserved 
+and available for issuance under the Plan is 3,500,000 shares. Shares of 
+Common Stock under the Plan may consist, in whole or in part, of authorized 
+and unissued shares or treasury shares. If any shares of Common Stock that 
+have been granted pursuant to a Stock Option cease to be subject to a Stock 
+Option, or if any shares of Common Stock that are subject to any Stock 
+Appreciation Right, Restricted Stock award, Reload Stock Option or Other 
+Stock-Based Award granted hereunder are forfeited or any such award 
+otherwise terminates without a payment being made to the Holder in the form 
+of Common Stock, such shares will again be available for distribution in 
+connection with future grants and awards under the Plan. If a Holder pays 
+the exercise price of a Stock Option by surrendering any previously owned 
+shares and/or arranges to have the appropriate number of shares otherwise 
+issuable upon exercise withheld to cover the withholding tax liability 
+associated with the Stock Option exercise, then the number of shares 
+available under the Plan will be increased by the lesser of (i) the number 
+of such surrendered shares and shares used to pay taxes; and (ii) the 
+number of shares purchased under such Stock Option.
+ 
+4
+------------------------------------------------------------------------
+ 
+3.2  Adjustment Upon Changes in Capitalization, Etc. In the event of any 
+merger, reorganization, consolidation, common stock dividend payable on 
+shares of Common Stock, Common Stock split or reverse split, combination or 
+exchange of shares of Common Stock, or other extraordinary or unusual event 
+which results in a change in the shares of Common Stock of the Company as a 
+whole, the Committee will determine, in its sole discretion, whether such 
+change equitably requires an adjustment in the terms of any award 
+(including number of shares subject to the award and the exercise price) or 
+the aggregate number of shares reserved for issuance under the Plan. Any 
+such adjustments will be made by the Committee, whose determination will be 
+final, binding and conclusive.
+ 
+4.    Eligibility.
+ 
+Awards may be made or granted to employees, officers, directors and 
+consultants who are deemed to have rendered or to be able to render 
+significant services to the Company or its Subsidiaries and who are deemed 
+to have contributed or to have the potential to contribute to the success 
+of the Company. No Incentive Stock Option will be granted to any person who 
+is not an employee of the Company or a Subsidiary at the time of grant. 
+Notwithstanding the foregoing, an award may be made or granted to a person 
+in connection with his hiring or retention, or at any time on or after the 
+date he reaches an agreement (oral or written) with the Company with 
+respect to such hiring or retention, even though it may be prior to the 
+date the person first performs services for the Company or its 
+Subsidiaries; provided, however, that no portion of any such award will 
+vest prior to the date the person first performs such services.
+ 
+5.    Stock Options.
+ 
+5.1  Grant and Exercise. Stock Options granted under the Plan may be of two 
+types: (i) Incentive Stock Options and (ii) Nonqualified Stock Options. Any 
+Stock Option granted under the Plan will contain such terms, not 
+inconsistent with this Plan, or with respect to Incentive Stock Options, 
+not inconsistent with the Plan and the Code, as the Committee may from time 
+to time approve. The Committee has the authority to grant Incentive Stock 
+Options or Non-Qualified Stock Options, or both types of Stock Options 
+which may be granted alone or in addition to other awards granted under the 
+Plan. To the extent that any Stock Option intended to qualify as an 
+Incentive Stock Option does not so qualify, it will constitute a separate 
+Nonqualified Stock Option.
+ 
+5
+------------------------------------------------------------------------
+ 
+5.2  Terms and Conditions. Stock Options granted under the Plan are subject 
+to the following terms and conditions:
+ 
+(a)  Option Term. The term of each Stock Option will be fixed by the 
+Committee; provided, however, that an Incentive Stock Option may be granted 
+only within the ten-year period commencing from the Effective Date and may 
+only be exercised within ten years of the date of grant (or five years in 
+the case of an Incentive Stock Option granted to an optionee who, at the 
+time of grant, owns Common Stock possessing more than 10% of the total 
+combined voting power of all classes of voting stock of the Company (“10% 
+Shareholder”).
+ 
+(b)  Exercise Price. The exercise price per share of Common Stock 
+purchasable under a Stock Option will be determined by the Committee at the 
+time of grant and may not be less than 100% of the Fair Market Value on the 
+date of grant (or, if greater, the par value of a share of Common Stock); 
+provided, however, that (i) the exercise price of an Incentive Stock Option 
+granted to a 10% Shareholder will not be less than 110% of the Fair Market 
+Value on the date of grant; and (ii) if the Stock Option is granted in 
+connection with the recipient’s hiring, retention, reaching an agreement 
+(oral or written) with the Company with respect to such hiring or 
+retention, promotion or similar event, the option exercise price may be not 
+less than the Fair Market Value on the date on which the recipient is hired 
+or retained, reached such agreement with respect to such hiring or 
+retention, or is promoted (or similar event), if the grant of the Stock 
+Option occurs not more than 120 days after the date of such hiring, 
+retention, agreement, promotion or other event.
+ 
+(c)  Exercisability. Stock Options are exercisable at such time or times 
+and subject to such terms and conditions as are determined by the Committee 
+and as set forth in Section 10, below. If the Committee provides, in its 
+discretion, that any Stock Option is exercisable only in installments, 
+i.e., that it vests over time, the Committee may waive such installment 
+exercise provisions at any time at or after the time of grant in whole or 
+in part, based upon such factors as the Committee determines.
+ 
+(d)  Method of Exercise. Subject to whatever installment, exercise and 
+waiting period provisions are applicable in a particular case, Stock 
+Options may be exercised in whole or in part at any time during the term of 
+the Option by giving written notice of exercise to the Company specifying 
+the number of shares of Common Stock to be purchased. Such notice will be 
+accompanied by payment in full of the purchase price, which will be in cash 
+or, if provided in the Agreement, either in shares of Common Stock 
+(including Restricted Stock and other contingent awards under this Plan) or 
+partly in cash and partly in such Common Stock, or such other means which 
+the Committee determines are consistent with the Plan’s purpose and 
+applicable law. Cash payments will be made by wire transfer, certified or 
+bank check or personal check, in each case payable to the order of the 
+Company; provided, however, that the Company will not be required to 
+deliver certificates for shares of Common Stock with respect to which an 
+Option is exercised until the Company has confirmed the receipt of good and 
+available funds in payment of the purchase price thereof (except that, in 
+the case of an exercise arrangement approved by the Committee and described 
+in the last sentence of this paragraph, payment may be made as soon as 
+practicable after the exercise). Payments in the form of Common Stock will 
+be valued at the Fair Market Value on the date prior to the date of 
+exercise. Such payments will be made by delivery of stock certificates in 
+negotiable form that are effective to transfer good and valid title thereto 
+to the Company, free of any liens or encumbrances. A Holder will have none 
+of the rights of a shareholder with respect to the shares subject to the 
+Option until such shares are transferred to the Holder upon the exercise of 
+the Option. The Committee may permit a Holder to elect to pay the Exercise 
+Price upon the exercise of a Stock Option by irrevocably authorizing a 
+third party to sell shares of Common Stock (or a sufficient portion of the 
+shares) acquired upon exercise of the Stock Option and remit to the Company 
+a sufficient portion of the sale proceeds to pay the entire Exercise Price 
+and any tax withholding resulting from such exercise.
+ 
+6
+------------------------------------------------------------------------
+ 
+(e)  Transferability. Except as may be set forth in the next sentence of 
+this Section or in the Agreement, no Stock Option is transferable by the 
+Holder other than by will or by the laws of descent and distribution, and 
+all Stock Options are exercisable, during the Holder’s lifetime, only by 
+the Holder (or, to the extent of legal incapacity or incompetency, the 
+Holder’s guardian or legal representative). Notwithstanding the foregoing, 
+a Holder, with the approval of the Committee, may transfer a Nonqualified 
+Stock Option (i) (A) by gift, for no consideration, or (B) pursuant to a 
+domestic relations order, in either case, to or for the benefit of the 
+Holder’s “Immediate Family” (as defined below), or (ii) to an entity in 
+which the Holder and/or members of Holder’s Immediate Family own more than 
+50% of the voting interest, in exchange for an interest in that entity, 
+subject to such limits as the Committee may establish, and the transferee 
+will remain subject to all the terms and conditions applicable to the Stock 
+Option prior to such transfer; provided, however, that a Nonqualified Stock 
+Option issued with an exercise price that is below Fair Market Value on the 
+date of grant may not be transferred other than pursuant to a domestic 
+relations order (as defined in Section 414(p)(1)(B) of the Code). The term 
+“Immediate Family” means any child, stepchild, grandchild, parent, 
+stepparent, grandparent, spouse, former spouse, sibling, niece, nephew, 
+mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law 
+or sister-in-law, including adoptive relationships, any person sharing the 
+Holder’s household (other than a tenant or employee), a trust in which 
+these persons have more than 50% beneficial interest, and a foundation in 
+which these persons (or the Holder) control the management of the assets.
+ 
+(f)  Termination by Reason of Death. If a Holder’s employment by the 
+Company or a Subsidiary terminates by reason of death, any Stock Option 
+held by such Holder, unless otherwise determined by the Committee and set 
+forth in the Agreement, will thereupon automatically terminate, except that 
+the portion of such Stock Option that has vested on the date of death may 
+thereafter be exercised by the legal representative of the estate or by the 
+legatee of the Holder under the will of the Holder, for a period of one 
+year (or such other greater or lesser period as the Committee may specify 
+in the Agreement) from the date of such death or until the expiration of 
+the stated term of such Stock Option, whichever period is shorter.
+ 
+(g)  Termination by Reason of Disability. If a Holder’s employment by the 
+Company or any Subsidiary terminates by reason of Disability, any Stock 
+Option held by such Holder, unless otherwise determined by the Committee 
+and set forth in the Agreement, will thereupon automatically terminate, 
+except that the portion of such Stock Option that has vested on the date of 
+termination may thereafter be exercised by the Holder for a period of one 
+year (or such other greater or lesser period as the Committee may specify 
+in the Agreement) from the date of such termination of employment or until 
+the expiration of the stated term of such Stock Option, whichever period is 
+shorter.
+ 
+7
+------------------------------------------------------------------------
+ 
+(h)  Termination by Reason of Normal Retirement. Subject to the provisions 
+of Section 13.3, if such Holder’s employment or retention by, or 
+association with, the Company or any Subsidiary terminates due to Normal 
+Retirement, then the portion of such Stock Option that has vested on the 
+date of termination of employment may be exercised for the lesser of three 
+years after termination of employment (or such other greater or lesser 
+period as the Committee may specify in the Agreement) or the balance of 
+such Stock Option’s term.
+ 
+(i)  Other Termination. Subject to the provisions of Section 13.3, if such 
+Holder’s employment or retention by, or association with, the Company or 
+any Subsidiary terminates for any reason other than death, Disability or 
+Normal Retirement, unless otherwise determined by the Committee and set 
+forth in the Agreement, the Stock Option will thereupon automatically 
+terminate, except that if the Holder’s employment is terminated by the 
+Company or a Subsidiary without cause, then the portion of such Stock 
+Option that has vested on the date of termination of employment may be 
+exercised for the lesser of three months after termination of employment 
+(or such other greater or lesser period as the Committee may specify in the 
+Agreement) or the balance of such Stock Option’s term.
+ 
+(j)  Additional Incentive Stock Option Limitation. In the case of an 
+Incentive Stock Option, the aggregate Fair Market Value (on the date of 
+grant of the Option) with respect to which Incentive Stock Options become 
+exercisable for the first time by a Holder during any calendar year (under 
+all such plans of the Company and its Parent and Subsidiaries) may not 
+exceed $100,000.
+ 
+(k)  Buyout and Settlement Provisions. The Committee may at any time, in 
+its sole discretion, offer to repurchase a Stock Option previously granted, 
+based upon such terms and conditions as the Committee establishes and 
+communicates to the Holder at the time that such offer is made.
+ 
+5.3  Stock Reload Option. If a Holder tenders shares of Common Stock to pay 
+the exercise price of a Stock Option (“Underlying Option”) and/or arranges 
+to have a portion of the shares otherwise issuable upon exercise withheld 
+to pay the applicable withholding taxes, then the Holder may receive, at 
+the discretion of the Committee, a new Stock Reload Option to purchase that 
+number of shares of Common Stock equal to the number of shares tendered to 
+pay the exercise price and the withholding taxes (but only if such tendered 
+shares were held by the Holder for at least six months). Stock Reload 
+Options may be any type of option permitted under the Code and will be 
+granted subject to such terms, conditions, restrictions and limitations as 
+may be determined by the Committee from time to time. Such Stock Reload 
+Option will have an exercise price equal to the Fair Market Value as of the 
+date of grant of the Stock Reload Option. Unless the Committee determines 
+otherwise, a Stock Reload Option may be exercised commencing one year after 
+it is granted and will expire on the date of expiration of the Underlying 
+Option to which the Reload Option is related.
+ 
+6.    Stock Appreciation Rights.
+ 
+6.1  Grant and Exercise. The Committee may grant Stock Appreciation Rights 
+to participants who have been or are being granted Stock Options under the 
+Plan as a means of allowing such participants to exercise their Stock 
+Options without the need to pay the exercise price in cash. In the case of 
+a Nonqualified Stock Option, a Stock Appreciation Right may be granted 
+either at or after the time of the grant of such Nonqualified Stock Option. 
+In the case of an Incentive Stock Option, a Stock Appreciation Right may be 
+granted only at the time of the grant of such Incentive Stock Option.
+ 
+8
+------------------------------------------------------------------------
+ 
+6.2  Terms and Conditions. Stock Appreciation Rights are subject to the 
+following terms and conditions:
+ 
+(a)  Exercisability. Stock Appreciation Rights are exercisable as 
+determined by the Committee and set forth in the Agreement, subject to the 
+limitations, if any, imposed by the Code with respect to related Incentive 
+Stock Options.
+ 
+(b)  Termination. A Stock Appreciation Right will terminate and will no 
+longer be exercisable upon the termination or exercise of the related Stock 
+Option.
+ 
+(c)  Method of Exercise. Stock Appreciation Rights are exercisable upon 
+such terms and conditions as may be determined by the Committee and set 
+forth in the Agreement and by surrendering the applicable portion of the 
+related Stock Option. Upon such exercise and surrender, the Holder will be 
+entitled to receive a number of shares of Common Stock equal to the SAR 
+Value divided by the Fair Market Value on the date the Stock Appreciation 
+Right is exercised.
+ 
+(d)  Shares Affected Upon Plan. The granting of a Stock Appreciation Right 
+will not affect the number of shares of Common Stock available for awards 
+under the Plan. The number of shares available for awards under the Plan 
+will, however, be reduced by the number of shares of Common Stock 
+acquirable upon exercise of the Stock Option to which such Stock 
+Appreciation Right relates.
+ 
+7.    Restricted Stock.
+ 
+7.1  Grant. Shares of Restricted Stock may be awarded either alone or in 
+addition to other awards granted under the Plan. The Committee determines 
+the eligible persons to whom, and the time or times at which, grants of 
+Restricted Stock will be awarded, the number of shares to be awarded, the 
+price (if any) to be paid by the Holder, the time or times within which 
+such awards are subject to forfeiture (“Restriction Period”), the vesting 
+schedule and rights to acceleration thereof and all other terms and 
+conditions of the awards.
+ 
+7.2  Terms and Conditions. Each Restricted Stock award is subject to the 
+following terms and conditions:
+ 
+(a)  Certificates. Restricted Stock, when issued, will be represented by a 
+stock certificate or certificates registered in the name of the Holder to 
+whom such Restricted Stock has been awarded. During the Restriction Period, 
+certificates representing the Restricted Stock and any securities 
+constituting Retained Distributions (as defined below) will bear a legend 
+to the effect that ownership of the Restricted Stock (and such Retained 
+Distributions) and the enjoyment of all rights appurtenant thereto are 
+subject to the restrictions, terms and conditions provided in the Plan and 
+the Agreement. Such certificates will be deposited by the Holder with the 
+Company, together with stock powers or other instruments of assignment, 
+each endorsed in blank, which will permit transfer to the Company of all or 
+any portion of the Restricted Stock and any securities constituting 
+Retained Distributions that are forfeited or that do not become vested in 
+accordance with the Plan and the Agreement.
+ 
+9
+------------------------------------------------------------------------
+ 
+(b)  Rights of Holder. Restricted Stock will constitute issued and 
+outstanding shares of Common Stock for all corporate purposes. The Holder 
+will have the right to vote such Restricted Stock, to receive and retain 
+all regular cash dividends and other cash equivalent distributions as the 
+Board may in its sole discretion designate, pay or distribute on such 
+Restricted Stock and to exercise all other rights, powers and privileges of 
+a holder of Common Stock with respect to such Restricted Stock, with the 
+exceptions that (i) the Holder will not be entitled to delivery of the 
+stock certificate or certificates representing such Restricted Stock until 
+the Restriction Period has expired and unless all other vesting 
+requirements with respect thereto has been fulfilled; (ii) the Company will 
+retain custody of the stock certificate or certificates representing the 
+Restricted Stock during the Restriction Period; (iii) other than regular 
+cash dividends and other cash equivalent distributions as the Board may in 
+its sole discretion designate, pay or distribute, the Company will retain 
+custody of all distributions (“Retained Distributions”) made or declared 
+with respect to the Restricted Stock (and such Retained Distributions are 
+subject to the same restrictions, terms and conditions as are applicable to 
+the Restricted Stock) until such time, if ever, as the Restricted Stock 
+with respect to which such Retained Distributions has been made, paid or 
+declared has vested and with respect to which the Restriction Period has 
+expired; (iv) a breach of any of the restrictions, terms or conditions 
+contained in this Plan or the Agreement or otherwise established by the 
+Committee with respect to any Restricted Stock or Retained Distributions 
+will cause a forfeiture of such Restricted Stock and any Retained 
+Distributions with respect thereto.
+ 
+(c)  Vesting; Forfeiture. Upon the expiration of the Restriction Period 
+with respect to each award of Restricted Stock and the satisfaction of any 
+other applicable restrictions, terms and conditions (i) all or part of such 
+Restricted Stock will become vested in accordance with the terms of the 
+Agreement, subject to Section 10, below, and (ii) any Retained 
+Distributions with respect to such Restricted Stock will become vested to 
+the extent that the Restricted Stock related thereto has vested, subject to 
+Section 10, below. Any such Restricted Stock and Retained Distributions 
+that do not vest will be forfeited to the Company and the Holder will not 
+thereafter have any rights with respect to such Restricted Stock and 
+Retained Distributions that has been so forfeited.
+ 
+8.    [Intentionally omitted]
+ 
+9.    Other Stock-Based Awards.
+ 
+Other Stock-Based Awards may be awarded, subject to limitations under 
+applicable law, that are denominated or payable in, valued in whole or in 
+part by reference to, or otherwise based on or related to, shares of Common 
+Stock, as deemed by the Committee to be consistent with the purposes of the 
+Plan, including, without limitation, purchase rights, shares of Common 
+Stock awarded which are not subject to any restrictions or conditions, 
+convertible or exchangeable debentures, or other rights convertible into 
+shares of Common Stock and awards valued by reference to the value of 
+securities of or the performance of specified Subsidiaries. Other 
+Stock-Based Awards may be awarded either alone or in addition to or in 
+tandem with any other awards under this Plan or any other plan of the 
+Company. Each other Stock-Based Award is subject to such terms and 
+conditions as may be determined by the Committee.
+ 
+10
+------------------------------------------------------------------------
+ 
+10.   Accelerated Vesting and Exercisability.
+ 
+10.1  Non-Approved Transactions. If any “person” (as such term is used in 
+Sections 13(d) and 14(d) of the Exchange Act of 1934, as amended (“Exchange 
+Act”)), is or becomes the “beneficial owner” (as referred in Rule 13d-3 
+under the Exchange Act), directly or indirectly, of securities of the 
+Company representing 25% or more of the combined voting power of the 
+Company’s then outstanding securities in one or more transactions, and the 
+Board does not authorize or otherwise approve such acquisition, then the 
+vesting periods of any and all Stock Options and other awards granted and 
+outstanding under the Plan will be accelerated and all such Stock Options 
+and awards will immediately and entirely vest, and the respective holders 
+thereof will have the immediate right to purchase and/or receive any and 
+all Common Stock subject to such Stock Options and awards on the terms set 
+forth in this Plan and the respective agreements respecting such Stock 
+Options and awards.
+ 
+10.2  Approved Transactions. The Committee may, in the event of an 
+acquisition of substantially all of the Company’s assets or at least 50% of 
+the combined voting power of the Company’s then outstanding securities in 
+one or more transactions (including by way of merger or reorganization) 
+which has been approved by the Company’s Board of Directors, (i) accelerate 
+the vesting of any and all Stock Options and other awards granted and 
+outstanding under the Plan, and (ii) require a Holder of any award granted 
+under this Plan to relinquish such award to the Company upon the tender by 
+the Company to Holder of cash in an amount equal to the Repurchase Value of 
+such award.
+ 
+11.   Amendment and Termination.
+ 
+The Board may at any time, and from time to time, amend alter, suspend or 
+discontinue any of the provisions of the Plan, but no amendment, 
+alteration, suspension or discontinuance will be made that would impair the 
+rights of a Holder under any Agreement theretofore entered into hereunder, 
+without the Holder’s consent.
+ 
+12.   Term of Plan.
+ 
+12.1  Effective Date. The Plan is effective as of the date of the closing 
+of the merger of etrials Acquisition, Inc., the Company’s wholly-owned 
+subsidiary, with and into etrials Worldwide, Inc. (“etrials”), pursuant to 
+the terms of the Merger Agreement and Plan of Merger among the Company, 
+etrials and the other parties thereto dated as of August 22, 2005, as 
+amended. In the event that the Plan is not approved by the Company’s 
+stockholders within one (1) year of such date, then the Plan shall remain 
+in effect, but any Incentive Stock Options previously granted under the 
+Plan shall remain outstanding as Nonqualified Stock Options pursuant to the 
+provisions of Section 5.1.
+ 
+12.2  Termination Date. Unless terminated by the Board, this Plan will 
+continue to remain effective until such time as no further awards may be 
+granted and all awards granted under the Plan are no longer outstanding. 
+Notwithstanding the foregoing, grants of Incentive Stock Options may be 
+made only during the ten year period following the Effective Date.
+ 
+11
+------------------------------------------------------------------------
+ 
+13.   General Provisions.
+ 
+13.1  Written Agreements. Each award granted under the Plan will be 
+confirmed by, and is subject to the terms of, the Agreement executed by the 
+Company and the Holder, or such other document as may be determined by the 
+Committee, including any amendments thereto. The Committee may terminate 
+any award made under the Plan if the Agreement relating thereto is not 
+executed and returned to the Company within ten days after the Agreement 
+has been delivered to the Holder for his or her execution.
+ 
+13.2  Unfunded Status of Plan. The Plan is intended to constitute an 
+“unfunded” plan for incentive and deferred compensation. With respect to 
+any payments not yet made to a Holder by the Company, nothing contained 
+herein will give any such Holder any rights that are greater than those of 
+a general creditor of the Company.
+ 
+13.3  Employees.
+ 
+(a)  Engaging in Competition With the Company; Solicitation of Customers 
+and Employees; Disclosure of Confidential Information. If a Holder’s 
+employment with the Company or a Subsidiary is terminated for any reason 
+whatsoever, and within one year after the date thereof such Holder either 
+(i) accepts employment with any competitor of, or otherwise engages in 
+competition with, the Company or any of its Subsidiaries, (ii) solicits any 
+customers or employees of the Company or any of its Subsidiaries to do 
+business with or render services to the Holder or any business with which 
+the Holder becomes affiliated or to which the Holder renders services or 
+(iii) uses or discloses to anyone outside the Company any confidential 
+information or material of the Company or any of its Subsidiaries in 
+violation of the Company’s policies or any agreement between the Holder and 
+the Company or any of its Subsidiaries, the Committee, in its sole 
+discretion, may require such Holder to return to the Company the economic 
+value of any award (profit) that was realized or obtained by such Holder at 
+any time during the period beginning on the date that is six months prior 
+to the date such Holder’s employment with the Company is terminated.
+ 
+(b)  Termination for Cause. The Committee may, if a Holder’s employment 
+with the Company or a Subsidiary is terminated for cause, annul any award 
+granted under this Plan to such employee and, in such event, the Committee, 
+in its sole discretion, may require such Holder to return to the Company 
+the economic value of any award (profit) that was realized or obtained by 
+such Holder at any time during the period beginning on that date that is 
+six months prior to the date such Holder’s employment with the Company is 
+terminated.
+ 
+(c)  No Right of Employment. Nothing contained in the Plan or in any award 
+hereunder will be deemed to confer upon any Holder who is an employee of 
+the Company or any Subsidiary any right to continued employment with the 
+Company or any Subsidiary, nor will it interfere in any way with the right 
+of the Company or any Subsidiary to terminate the employment of any Holder 
+who is an employee at any time.
+ 
+12
+------------------------------------------------------------------------
+ 
+13.4  Investment Representations; Company Policy. The Committee may require 
+each person acquiring shares of Common Stock pursuant to a Stock Option or 
+other award under the Plan to represent to and agree with the Company in 
+writing that the Holder is acquiring the shares for investment without a 
+view to distribution thereof. Each person acquiring shares of Common Stock 
+pursuant to a Stock Option or other award under the Plan will be required 
+to abide by all policies of the Company in effect at the time of such 
+acquisition and thereafter with respect to the ownership and trading of the 
+Company’s securities.
+ 
+13.5  Additional Incentive Arrangements. Nothing contained in the Plan will 
+prevent the Board from adopting such other or additional incentive 
+arrangements as it may deem desirable, including, but not limited to, the 
+granting of Stock Options and the awarding of Common Stock and cash 
+otherwise than under the Plan; and such arrangements may be either 
+generally applicable or applicable only in specific cases.
+ 
+13.6  Withholding Taxes. Not later than the date as of which an amount must 
+first be included in the gross income of the Holder for Federal income tax 
+purposes with respect to any Stock Option or other award under the Plan, 
+the Holder will pay to the Company, or make arrangements satisfactory to 
+the Committee regarding the payment of, any Federal, state and local taxes 
+of any kind required by law to be withheld or paid with respect to such 
+amount. If permitted by the Committee, tax withholding or payment 
+obligations may be settled with Common Stock, including Common Stock that 
+is part of the award that gives rise to the withholding requirement. The 
+obligations of the Company under the Plan will be conditioned upon such 
+payment or arrangements and the Company or the Holder’s employer (if not 
+the Company) will, to the extent permitted by law, have the right to deduct 
+any such taxes from any payment of any kind otherwise due to the Holder 
+from the Company or any Subsidiary.
+ 
+13.7  Governing Law. The Plan and all awards made and actions taken 
+thereunder will be governed by and construed in accordance with the laws of 
+the State of Delaware (without regard to choice of law provisions).
+ 
+13.8  Other Benefit Plans. Any award granted under the Plan will not be 
+deemed compensation for purposes of computing benefits under any retirement 
+plan of the Company or any Subsidiary and will not affect any benefits 
+under any other benefit plan now or subsequently in effect under which the 
+availability or amount of benefits is related to the level of compensation 
+(unless required by specific reference in any such other plan to awards 
+under this Plan).
+ 
+13.9  Non-Transferability. Except as otherwise expressly provided in the 
+Plan or the Agreement, no right or benefit under the Plan may be alienated, 
+sold, assigned, hypothecated, pledged, exchanged, transferred, encumbranced 
+or charged, and any attempt to alienate, sell, assign, hypothecate, pledge, 
+exchange, transfer, encumber or charge the same will be void.
+ 
+13.10  Applicable Laws. The obligations of the Company with respect to all 
+Stock Options and awards under the Plan are subject to (i) all applicable 
+laws, rules and regulations and such approvals by any governmental agencies 
+as may be required, including, without limitation, the Securities Act of 
+1933, as amended, and (ii) the rules and regulations of any securities 
+exchange on which the Common Stock may be listed.
+ 
+13
+------------------------------------------------------------------------
+ 
+13.11  Conflicts. If any of the terms or provisions of the Plan or an 
+Agreement conflict with the requirements of Section 422 of the Code, then 
+such terms or provisions will be deemed inoperative to the extent they so 
+conflict with such requirements. Additionally, if this Plan or any 
+Agreement does not contain any provision required to be included herein 
+under Section 422 of the Code, such provision will be deemed to be 
+incorporated herein and therein with the same force and effect as if such 
+provision had been set out at length herein and therein. If any of the 
+terms or provisions of any Agreement conflict with any terms or provisions 
+of the Plan, then such terms or provisions will be deemed inoperative to 
+the extent they so conflict with the requirements of the Plan. 
+Additionally, if any Agreement does not contain any provision required to 
+be included therein under the Plan, such provision will be deemed to be 
+incorporated therein with the same force and effect as if such provision 
+had been set out at length therein.
+ 
+13.12  Certain Awards Deferring or Accelerating the Receipt of Compensation
+. To the extent applicable, all awards granted under the Plan are intended 
+to comply with Section 409A of the Code, which was added by the American 
+Jobs Creation Act of 2004 and relates to deferred compensation under 
+nonqualified deferred compensation plans. The Committee, in administering 
+the Plan, intends to restrict provisions of any Awards which may constitute 
+deferred receipt of compensation subject to Section 409A requirements, to 
+those consistent with this section. The Board may amend the Plan to comply 
+with Section 409A of the Internal Revenue Code in the future.
+ 
+13.13  Non-Registered Stock. The shares of Common Stock to be distributed 
+under this Plan have not been, as of the Effective Date, registered under 
+the Securities Act of 1933, as amended, or any applicable state or foreign 
+securities laws and the Company has no obligation to any Holder to register 
+the Common Stock or to assist the Holder in obtaining an exemption from the 
+various registration requirements, or to list the Common Stock on a 
+national securities exchange or any other trading or quotation system, 
+including the Nasdaq National Market and Nasdaq SmallCap Market.
+ 
+ 
+14
+------------------------------------------------------------------------

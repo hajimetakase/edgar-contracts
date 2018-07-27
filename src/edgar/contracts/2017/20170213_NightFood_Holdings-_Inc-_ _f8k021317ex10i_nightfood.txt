@@ -1,0 +1,1530 @@
+ EX-10.1 2 f8k021317ex10i_nightfood.htm EQUITY PURCHASE AGREEMENT
+Exhibit 10.1
+ 
+EQUITY PURCHASE AGREEMENT
+ 
+This equity purchase agreement is entered into as of February 8, 2017 (this 
+“Agreement”), by and between Nightfood Holdings, Inc., a Nevada corporation 
+(the “Company”), and Black Forest Capital, LLC, a Wyoming limited liability 
+company (the “Investor”).
+ 
+WHEREAS, the parties desire that, upon the terms and subject to the 
+conditions contained herein, the Company shall issue and sell to the 
+Investor, from time to time as provided herein, and the Investor shall 
+purchase up to Five Million Dollars ($5,000,000) of the Company’s Common 
+Stock (as defined below);
+ 
+NOW, THEREFORE, the parties hereto agree as follows:
+ 
+ARTICLE I
+ 
+CERTAIN DEFINITIONS
+ 
+Section 1.1 DEFINED TERMS. As used in this Agreement, the following terms 
+shall have the following meanings specified or indicated (such meanings to 
+be equally applicable to both the singular and plural forms of the terms 
+defined):
+ 
+“Agreement” shall have the meaning specified in the preamble hereof.
+ 
+“Average Daily Trading Value” shall mean the average trading volume of the 
+Company’s Common Stock in the twenty (20) Trading Days immediately 
+preceding the respective Put Date multiplied by the lowest VWAP of the 
+Company’s Common Stock in the twenty (20) Trading Days immediately 
+preceding the respective Put Date.
+ 
+“Bankruptcy Law” means Title 11, U.S. Code, or any similar federal or state 
+law for the relief of debtors.
+ 
+“Claim Notice” shall have the meaning specified in Section 9.3(a).
+ 
+“Clearing Costs” shall mean all of the Investor’s broker and Transfer Agent 
+fees, excluding commissions.
+ 
+“Clearing Date” shall be the date on which the Investor receives the Put 
+Shares as DWAC Shares in its brokerage account.
+ 
+“Closing” shall mean one of the closings of a purchase and sale of shares 
+of Common Stock pursuant to Section 2.3.
+ 
+“Closing Certificate” shall mean the closing certificate of the Company in 
+the form of Exhibit B hereto.
+ 
+“Closing Date” shall mean the date of any Closing hereunder.
+ 
+
+ 
+
+ 
+
+ 
+“Commitment Note” shall mean the 8% convertible promissory note in the 
+principal amount of $32,500.00, attached as Exhibit C hereto, issued by the 
+Company to the Investor on February 8, 2017.
+ 
+“Commitment Period” shall mean the period commencing on the Execution Date, 
+and ending on the earlier of (i) the date on which the Investor shall have 
+purchased Put Shares pursuant to this Agreement equal to the Maximum 
+Commitment Amount, (ii) the date in which the Registration Statement is no 
+longer effective, or (iii) 24 months after the initial effectiveness of the 
+Registration Statement.
+ 
+“Common Stock” shall mean the Company’s common stock, $0.001 par value per 
+share, and any shares of any other class of common stock whether now or 
+hereafter authorized, having the right to participate in the distribution 
+of dividends (as and when declared) and assets (upon liquidation of the 
+Company).
+ 
+“Common Stock Equivalents” means any securities of the Company or the 
+Subsidiaries which would entitle the holder thereof to acquire at any time 
+Common Stock, including, without limitation, any debt, preferred stock, 
+right, option, warrant or other instrument that is at any time convertible 
+into or exercisable or exchangeable for, or otherwise entitles the holder 
+thereof to receive, Common Stock.
+ 
+“Company” shall have the meaning specified in the preamble to this 
+Agreement.
+ 
+“Custodian” means any receiver, trustee, assignee, liquidator or similar 
+official under any Bankruptcy Law.
+ 
+“Damages” shall mean any loss, claim, damage, liability, cost and expense 
+(including, without limitation, reasonable attorneys’ fees and 
+disbursements and costs and expenses of expert witnesses and 
+investigation).
+ 
+“Dispute Period” shall have the meaning specified in Section 9.3(a).
+ 
+“DTC” shall mean The Depository Trust Company, or any successor performing 
+substantially the same function for the Company.
+ 
+“DTC/FAST Program” shall mean the DTC’s Fast Automated Securities Transfer 
+Program.
+ 
+“DWAC” shall mean Deposit Withdrawal at Custodian as defined by the DTC.
+ 
+“DWAC Eligible” shall mean that (a) the Common Stock is eligible at DTC for 
+full services pursuant to DTC’s Operational Arrangements, including, 
+without limitation, transfer through DTC’s DWAC system, (b) the Company has 
+been approved (without revocation) by the DTC’s underwriting department, 
+(c) the Transfer Agent is approved as an agent in the DTC/FAST Program, (d) 
+the Underlying Shares or Put Shares, as applicable, are otherwise eligible 
+for delivery via DWAC, and (e) the Transfer Agent does not have a policy 
+prohibiting or limiting delivery of the Underlying Shares or Put Shares, as 
+applicable, via DWAC.
+ 
+
+  	2 	 
+
+ 
+
+ 
+“DWAC Shares” means shares of Common Stock that are (i) issued in 
+electronic form, (ii) freely tradable and transferable and without 
+restriction on resale and (iii) timely credited by the Company to the 
+Investor’s or its designee’s specified DWAC account with DTC under the 
+DTC/FAST Program, or any similar program hereafter adopted by DTC 
+performing substantially the same function.
+ 
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended, 
+and the rules and regulations promulgated thereunder.
+ 
+“Exchange Cap” shall have the meaning set forth in Section 7.1(c).
+ 
+“Execution Date” shall mean the date of this Agreement.
+ 
+“FINRA” shall mean the Financial Industry Regulatory Authority, Inc.
+ 
+“Investment Amount” shall mean the Put Shares referenced in the Put Notice 
+multiplied by the Purchase Price minus the Clearing Costs.
+ 
+“Indemnified Party” shall have the meaning specified in Section 9.2.
+ 
+“Indemnifying Party” shall have the meaning specified in Section 9.2.
+ 
+“Indemnity Notice” shall have the meaning specified in Section 9.3(e).
+ 
+“Investor” shall have the meaning specified in the preamble to this 
+Agreement.
+ 
+“Lien” means a lien, charge, pledge, security interest, encumbrance, right 
+of first refusal, preemptive right or other restriction.
+ 
+“Market Price” shall mean the lowest VWAP on the Principal Market for any 
+Trading Day during the twenty (20) Trading Days immediately preceding the 
+respective Put Date, as reported by Bloomberg Finance L.P or other 
+reputable source.
+ 
+“Material Adverse Effect” shall mean any effect on the business, 
+operations, properties, or financial condition of the Company and the 
+Subsidiaries that is material and adverse to the Company and the 
+Subsidiaries and/or any condition, circumstance, or situation that would 
+prohibit or otherwise materially interfere with the ability of the Company 
+to enter into and perform its obligations under any Transaction Document.
+ 
+“Maximum Commitment Amount” shall mean Five Million Dollars ($5,000,000).
+ 
+“Person” shall mean an individual, a corporation, a partnership, an 
+association, a trust or other entity or organization, including a 
+government or political subdivision or an agency or instrumentality 
+thereof.
+ 
+
+  	3 	 
+
+ 
+
+ 
+“Principal Market” shall mean any of the national exchanges (i.e. NYSE, 
+NYSE AMEX, Nasdaq), or principal quotation systems (i.e. OTCQX, OTCQB, the 
+OTC Bulletin Board), or other principal exchange or recognized quotation 
+system which is at the time the principal trading platform or market for 
+the Common Stock.
+ 
+“Purchase Price” shall mean 85% of the Market Price on such date on which 
+the Purchase Price is calculated in accordance with the terms and 
+conditions of this Agreement.
+ 
+“Put” shall mean the right of the Company to require the Investor to 
+purchase shares of Common Stock, subject to the terms and conditions of 
+this Agreement.
+ 
+“Put Date” shall mean any Trading Day during the Commitment Period that a 
+Put Notice is deemed delivered pursuant to Section 2.2(b).
+ 
+“Put Notice” shall mean a written notice, substantially in the form of 
+Exhibit A hereto, to Investor setting forth the Put Shares which the 
+Company intends to require Investor to purchase pursuant to the terms of 
+this Agreement.
+ 
+“Put Shares” shall mean all shares of Common Stock issued, or that the 
+Company shall be entitled to issue, per any applicable Put Notice in 
+accordance with the terms and conditions of this Agreement.
+ 
+“Registration Statement” shall have the meaning specified in Section 6.4. “
+Regulation D” shall mean Regulation D promulgated under the Securities Act.
+ 
+“Required Note Minimum” shall mean, as of any date, the maximum aggregate 
+number of shares of Common Stock then issued or potentially issuable in the 
+futureupon conversion in full of the Commitment Note (including Underlying 
+Shares issuable as payment of interest on the Commitment Note), ignoring 
+any conversion limits set forth therein, and assuming that the conversion 
+price is at all times on and after the date of determination 100% of the 
+then conversion price on the Trading Day immediately prior to the date of 
+determination.
+ 
+“Rule 144” shall mean Rule 144 under the Securities Act or any similar 
+provision then in force under the Securities Act.
+ 
+“SEC” shall mean the United States Securities and Exchange Commission.
+ 
+“SEC Documents” shall have the meaning specified in Section 4.5.
+ 
+“Securities” means, collectively, the Put Shares, the Commitment Note and 
+the Underlying Shares.
+ 
+“Securities Act” shall mean the Securities Act of 1933, as amended.
+ 
+
+  	4 	 
+
+ 
+
+ 
+“Short Sales” shall mean all “short sales” as defined in Rule 200 of 
+Regulation SHO under the Exchange Act.
+ 
+“Subsidiary” means any Person the Company wholly-owns or controls, or in 
+which the Company, directly or indirectly, owns a majority of the voting 
+stock or similar voting interest, in each case that would be disclosable 
+pursuant to Item 601(b)(21) of Regulation S-K promulgated under the 
+Securities Act.
+ 
+“Third Party Claim” shall have the meaning specified in Section 9.3(a).
+ 
+“Trading Day” shall mean a day on which the Principal Market shall be open 
+for
+ 
+business.
+ 
+“Transaction Documents” shall mean this Agreement and the Commitment Note 
+and all schedules and exhibits hereto and thereto.
+ 
+“Transfer Agent” shall mean ClearTrust, LLC, the current transfer agent of 
+the Company, with a mailing address of 16540 Pointe Village Dr., Suite 210, 
+Lutz, FL 33558, and any successor transfer agent of the Company.
+ 
+“Transfer Agent Instruction Letter” means the letter from the Company to 
+the Transfer Agent which instructs the Transfer Agent to issue the Put 
+Shares and the Underlying Shares pursuant to the Transaction Documents, in 
+the form of Exhibit D attached hereto.
+ 
+“Underlying Shares” means the shares of Common Stock issued and issuable 
+upon conversion of the Commitment Note and issued and issuable in lieu of 
+the cash payment of interest or principal on the Commitment Note in 
+accordance with the terms of the Commitment Note.
+ 
+“Valuation Period” shall mean the period of five (5) Trading Days 
+immediately following the Clearing Date associated with the applicable Put 
+Notice.
+ 
+“VWAP” means, for or as of any date, the dollar volume-weighted average 
+price for such security on the Principal Market during the period beginning 
+at 9:30:01 a.m., New York time, and ending at 4:00:00 p.m., New York time, 
+as reported by Bloomberg through its “HP” function (set to weighted 
+average) or, if the foregoing does not apply, the dollar volume-weighted 
+average price of such security in the over-the-counter market on the 
+electronic bulletin board for such security during the period beginning at 
+9:30:01 a.m., New York time, and ending at 4:00:00 p.m., New York time, as 
+reported by Bloomberg or other reliable reporting service, or, if no dollar 
+volume-weighted average price is reported for such security by Bloomberg or 
+other reliable reporting service for such hours, the average of the highest 
+closing bid price and the lowest closing ask price of any of the market 
+makers for such security as reported OTC Markets or other applicable 
+Principal Market. If the VWAP cannot be calculated for such security on 
+such date on any of the foregoing bases, the VWAP of such security on such 
+date shall be the fair market value as mutually determined by the Company 
+and the Investor. All such determinations shall be appropriately adjusted 
+for any stock dividend, stock split, stock combination, recapitalization or 
+other similar transaction during such period.
+ 
+
+  	5 	 
+
+ 
+
+ 
+ARTICLE II
+PURCHASE AND SALE OF COMMON STOCK
+ 
+Section 2.1 PUTS. Upon the terms and conditions set forth herein 
+(including, without limitation, the provisions of Article VII), the Company 
+shall have the right, but not the obligation, to direct the Investor, by 
+its delivery to the Investor of a Put Notice from time to time, to purchase 
+Put Shares (i) in a minimum amount not less than $25,000 and (ii) in a 
+maximum amount up to the lesser of (a) $250,000 or (b) 200% of the Average 
+Daily Trading Value; provided that such minimum amount of Put Shares may be 
+decreased and such maximum amount of Put Shares may be increased subject to 
+the Investor’s approval.
+ 
+Section 2.2 MECHANICS.
+ 
+(a)              PUT NOTICE. At any time and from time to time during the 
+Commitment Period, except during the Valuation Period with respect to any 
+Put, the Company may deliver a Put Notice to Investor, subject to 
+satisfaction of the conditions set forth in this Agreement, including but 
+not limited to Section 7.2. The Company shall deliver, or cause to be 
+delivered, the Put Shares as DWAC Shares to the Investor within two (2) 
+Trading Days following the Put Date.
+ 
+(b)              DATE OF DELIVERY OF PUT NOTICE. A Put Notice shall be 
+deemed delivered on (i) the Trading Day it is received by email by the 
+Investor if such notice is received on or prior to 9:00 a.m. New York time 
+or (ii) the immediately succeeding Trading Day if it is received by email 
+after 9:00 a.m. New York time on a Trading Day or at any time on a day 
+which is not a Trading Day. The Valuation Period will commence one (1) 
+Trading Day following the Clearing Date. The Company may not deliver 
+another Put Notice to the Investor during the Valuation Period with respect 
+to any Put.
+ 
+Section 2.3 CLOSINGS. If the value of the Put Shares delivered to the 
+Investor causes the Company to exceed the Maximum Commitment Amount, then 
+the Investor shall return to the Company the surplus amount of Put Shares 
+associated with such Put and the Purchase Price with respect to such Put 
+shall be reduced by any Clearing Costs related to the return of such Put 
+Shares. The Closing of a Put shall occur within two (2) Trading Days 
+following the respective Clearing Date, whereby the Investor shall deliver 
+the Investment Amount by wire transfer of immediately available funds to an 
+account designated by the Company. In addition, on or prior to such 
+Closing, each of the Company and the Investor shall deliver to each other 
+all documents, instruments and writings required to be delivered or 
+reasonably requested by either of them pursuant to this Agreement in order 
+to implement and effect the transactions contemplated herein. The Company 
+shall use at least 20% of each Investment Amount received to pay off any 
+outstanding promissory notes that are convertible into common stock of the 
+Company.
+ 
+
+  	6 	 
+
+ 
+
+ 
+Section 2.4 TRUE-UP. If the lowest VWAP of the Common Stock during the 
+Valuation Period (the “True-Up Price”) for the respective Put Shares is 
+less than the Market Price for the respective Put Shares, then the Company 
+shall, within two (2) Trading Days of Investor’s provision of written 
+notice in the form attached hereto as Exhibit E, issue and deliver to the 
+Investor an additional number of validly issued, fully paid, 
+non-assessable, and free trading shares of Common Stock under the 
+Registration Statement equal to (X) the quotient of the Purchase Price for 
+the respective Put Shares divided by the True-Up Price, less (Y) the 
+respective Put Shares. Any additional shares of Common Stock issuable 
+hereunder are referred to herein as “Additional Shares.” Accordingly, the 
+Additional Shares, if required to be issued pursuant to this Agreement, 
+shall be issued in accordance with the Beneficial Ownership Limitation, and 
+in successive tranches (each an “Additional Tranche”) if the issuance of 
+one tranche would cause the Investor’s beneficial ownership to exceed the 
+Beneficial Ownership Limitation (based upon the then outstanding shares of 
+the Common Stock) at that time. The Company shall issue each respective 
+Additional Tranche of the Additional Shares, if required under this 
+Agreement, within two (2) Trading Days of the request by Investor, subject 
+to the Beneficial Ownership Limitation. If the Company fails to issue the 
+Additional Shares or any Additional Tranche within the timeframe specified 
+in this Agreement, then the amount of Additional Shares in which Investor 
+is entitled shall automatically be multiplied by two. 
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES OF INVESTOR
+ 
+The Investor represents and warrants to the Company that:
+ 
+Section 3.1 INTENT. The Investor is entering into this Agreement for its 
+own account and the Investor has no present arrangement (whether or not 
+legally binding) at any time to sell the Securities to or through any 
+Person in violation of the Securities Act or any applicable state 
+securities laws; provided, however, that the Investor reserves the right to 
+dispose of the Securities at any time in accordance with federal and state 
+securities laws applicable to such disposition.
+ 
+Section 3.2 NO LEGAL ADVICE FROM THE COMPANY. The Investor acknowledges 
+that it has had the opportunity to review this Agreement and the 
+transactions contemplated by this Agreement with its own legal counsel and 
+investment and tax advisors. The Investor is relying solely on such counsel 
+and advisors and not on any statements or representations of the Company or 
+any of its representatives or agents for legal, tax or investment advice 
+with respect to this investment, the transactions contemplated by this 
+Agreement or the securities laws of any jurisdiction.
+ 
+Section 3.3 ACCREDITED INVESTOR. The Investor is an accredited investor as 
+defined in Rule 501(a)(3) of Regulation D, and the Investor has such 
+experience in business and financial matters that it is capable of 
+evaluating the merits and risks of an investment in the Securities. The 
+Investor acknowledges that an investment in the Securities is speculative 
+and involves a high degree of risk.
+ 
+
+  	7 	 
+
+ 
+
+ 
+Section 3.4 AUTHORITY. The Investor has the requisite power and authority 
+to enter into and perform its obligations under this Agreement and the 
+other Transaction Documents and to consummate the transactions contemplated 
+hereby and thereby. The execution and delivery of this Agreement and the 
+other Transaction Documents and the consummation by it of the transactions 
+contemplated hereby and thereby have been duly authorized by all necessary 
+action and no further consent or authorization of the Investor is required. 
+Each Transaction Document to which it is a party has been duly executed by 
+the Investor, and when delivered by the Investor in accordance with the 
+terms hereof, will constitute the valid and binding obligation of the 
+Investor enforceable against it in accordance with its terms, subject to 
+applicable bankruptcy, insolvency, or similar laws relating to, or 
+affecting generally the enforcement of, creditors’ rights and remedies or 
+by other equitable principles of general application.
+ 
+Section 3.5 NOT AN AFFILIATE. The Investor is not an officer, director or 
+“affiliate” (as that term is defined in Rule 405 of the Securities Act) of 
+the Company.
+ 
+Section 3.6 ORGANIZATION AND STANDING. The Investor is an entity duly 
+incorporated or formed, validly existing and in good standing under the 
+laws of the jurisdiction of its incorporation or formation with full right, 
+corporate, partnership, limited liability company or similar power and 
+authority to enter into and to consummate the transactions contemplated by 
+this Agreement and the other Transaction Documents.
+ 
+Section 3.7 ABSENCE OF CONFLICTS. The execution and delivery of this 
+Agreement and the other Transaction Documents, and the consummation of the 
+transactions contemplated hereby and thereby and compliance with the 
+requirements hereof and thereof, will not (a) violate any law, rule, 
+regulation, order, writ, judgment, injunction, decree or award binding on 
+the Investor, (b) violate any provision of any indenture, instrument or 
+agreement to which the Investor is a party or is subject, or by which the 
+Investor or any of its assets is bound, or conflict with or constitute a 
+material default thereunder, (c) result in the creation or imposition of 
+any lien pursuant to the terms of any such indenture, instrument or 
+agreement, or constitute a breach of any fiduciary duty owed by the 
+Investor to any third party, or (d) require the approval of any third-party 
+(that has not been obtained) pursuant to any material contract, instrument, 
+agreement, relationship or legal obligation to which the Investor is 
+subject or to which any of its assets, operations or management may be 
+subject.
+ 
+Section 3.8 DISCLOSURE; ACCESS TO INFORMATION. The Investor had an 
+opportunity to review copies of the SEC Documents filed on behalf of the 
+Company and has had access to all publicly available information with 
+respect to the Company.
+ 
+Section 3.9 MANNER OF SALE. At no time was the Investor presented with or 
+solicited by or through any leaflet, public promotional meeting, television 
+advertisement or any other form of general solicitation or advertising.
+ 
+
+  	8 	 
+
+ 
+
+ 
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+ 
+The Company represents and warrants to the Investor that, except as 
+disclosed in the SEC Documents or except as set forth in the disclosure 
+schedules hereto:
+ 
+Section 4.1 ORGANIZATION OF THE COMPANY. The Company and each of the 
+Subsidiaries is an entity duly incorporated or otherwise organized, validly 
+existing and in good standing under the laws of the jurisdiction of its 
+incorporation or organization, with the requisite power and authority to 
+own and use its properties and assets and to carry on its business as 
+currently conducted. Neither the Company nor any Subsidiary is in violation 
+nor default of any of the provisions of its respective certificate or 
+articles of incorporation, bylaws or other organizational or charter 
+documents. Each of the Company and the Subsidiaries is duly qualified to 
+conduct business and is in good standing as a foreign corporation or other 
+entity in each jurisdiction in which the nature of the business conducted 
+or property owned by it makes such qualification necessary, except where 
+the failure to be so qualified or in good standing, as the case may be, 
+could not have or reasonably be expected to result in a Material Adverse 
+Effect and no proceeding has been instituted in any such jurisdiction 
+revoking, limiting or curtailing or seeking to revoke, limit or curtail 
+such power and authority or qualification.
+ 
+Section 4.2 AUTHORITY. The Company has the requisite corporate power and 
+authority to enter into and perform its obligations under this Agreement 
+and the other Transaction Documents. The execution and delivery of this 
+Agreement and the other Transaction Documents by the Company and the 
+consummation by it of the transactions contemplated hereby and thereby have 
+been duly authorized by all necessary corporate action and no further 
+consent or authorization of the Company or its Board of Directors or 
+stockholders is required. Each of this Agreement and the other Transaction 
+Documents has been duly executed and delivered by the Company and 
+constitutes a valid and binding obligation of the Company enforceable 
+against the Company in accordance with its terms, except as such 
+enforceability may be limited by applicable bankruptcy, insolvency, or 
+similar laws relating to, or affecting generally the enforcement of, 
+creditors’ rights and remedies or by other equitable principles of general 
+application.
+ 
+Section 4.3 CAPITALIZATION. Except as set forth on Schedule 4.3, the 
+Company has not issued any capital stock since its most recently filed 
+periodic report under the Exchange Act, other than pursuant to the exercise 
+of employee stock options under the Company’s stock option plans, the 
+issuance of shares of Common Stock to employees pursuant to the Company’s 
+employee stock purchase plans and pursuant to the conversion and/or 
+exercise of Common Stock Equivalents outstanding as of the date of the most 
+recently filed periodic report under the Exchange Act. No Person has any 
+right of first refusal, preemptive right, right of participation, or any 
+similar right to participate in the transactions contemplated by the 
+Transaction Documents. Except as set forth on Schedule 4.3 and except as a 
+result of the purchase and sale of the Securities, there are no outstanding 
+options, warrants, scrip rights to subscribe to, calls or commitments of 
+any character whatsoever relating to, or securities, rights or obligations 
+convertible into or exercisable or exchangeable for, or giving any Person 
+any right to subscribe for or acquire any shares of Common Stock, or 
+contracts, commitments, understandings or arrangements by which the Company 
+or any Subsidiary is or may become bound to issue additional shares of 
+Common Stock or Common Stock Equivalents. The issuance and sale of the 
+Securities will not obligate the Company to issue shares of Common Stock or 
+other securities to any Person (other than the Investor) and will not 
+result in a right of any holder of Company securities to adjust the 
+exercise, conversion, exchange or reset price under any of such securities. 
+There are no stockholders agreements, voting agreements or other similar 
+agreements with respect to the Company’s capital stock to which the Company 
+is a party or, to the knowledge of the Company, between or among any of the 
+Company’s stockholders.
+ 
+
+  	9 	 
+
+ 
+
+ 
+Section 4.4 LISTING AND MAINTENANCE REQUIREMENTS. The Common Stock is 
+registered pursuant to Section 12(b) or 12(g) of the Exchange Act, and the 
+Company has taken no action designed to, or which to its knowledge is 
+likely to have the effect of, terminating the registration of the Common 
+Stock under the Exchange Act nor has the Company received any notification 
+that the SEC is contemplating terminating such registration. The Company 
+has not, in the twelve (12) months preceding the date hereof, received 
+notice from the Principal Market on which the Common Stock is or has been 
+listed or quoted to the effect that the Company is not in compliance with 
+the listing or maintenance requirements of such Principal Market. The 
+Company is, and has no reason to believe that it will not in the 
+foreseeable future continue to be, in compliance with all such listing and 
+maintenance requirements.
+ 
+Section 4.5 SEC DOCUMENTS; DISCLOSURE. Except as set forth on Schedule 
+4.5, the Company has filed all reports, schedules, forms, statements and 
+other documents required to be filed by the Company under the Securities 
+Act and the Exchange Act, including pursuant to Section 13(a) or 15(d) 
+thereof, for the one (1) year preceding the date hereof (or such shorter 
+period as the Company was required by law or regulation to file such 
+material) (the foregoing materials, including the exhibits thereto and 
+documents incorporated by reference therein, being collectively referred to 
+herein as the “SEC Documents”) on a timely basis or has received a valid 
+extension of such time of filing and has filed any such SEC Documents prior 
+to the expiration of any such extension. As of their respective dates, the 
+SEC Documents complied in all material respects with the requirements of 
+the Securities Act and the Exchange Act, as applicable, and other federal 
+laws, rules and regulations applicable to such SEC Documents, and none of 
+the SEC Documents when filed contained any untrue statement of a material 
+fact or omitted to state a material fact required to be stated therein or 
+necessary in order to make the statements therein, in light of the 
+circumstances under which they were made, not misleading. The financial 
+statements of the Company included in the SEC Documents comply as to form 
+and substance in all material respects with applicable accounting 
+requirements and the published rules and regulations of the SEC or other 
+applicable rules and regulations with respect thereto. Such financial 
+statements have been prepared in accordance with generally accepted 
+accounting principles applied on a consistent basis during the periods 
+involved (except (a) as may be otherwise indicated in such financial 
+statements or the notes thereto or (b) in the case of unaudited interim 
+statements, to the extent they may not include footnotes or may be 
+condensed or summary statements) and fairly present in all material 
+respects the financial position of the Company as of the dates thereof and 
+the results of operations and cash flows for the periods then ended 
+(subject, in the case of unaudited statements, to normal, immaterial, 
+year-end audit adjustments). Except with respect to the material terms and 
+conditions of the transactions contemplated by the Transaction Documents, 
+the Company confirms that neither it nor any other Person acting on its 
+behalf has provided the Investor or its agents or counsel with any 
+information that it believes constitutes or might constitute material, 
+non-public information. The Company understands and confirms that the 
+Investor will rely on the foregoing representation in effecting 
+transactions in securities of the Company.
+ 
+
+  	10 	 
+
+ 
+
+ 
+Section 4.6 VALID ISSUANCES. The Securities are duly authorized and, when 
+issued and paid for in accordance with the applicable Transaction 
+Documents, will be duly and validly issued, fully paid, and non-assessable, 
+free and clear of all Liens imposed by the Company other than restrictions 
+on transfer provided for in the Transaction Documents.
+ 
+Section 4.7 NO CONFLICTS. The execution, delivery and performance of this 
+Agreement and the other Transaction Documents by the Company and the 
+consummation by the Company of the transactions contemplated hereby and 
+thereby, including, without limitation, the issuance of the Put Shares and 
+the Underlying Shares, do not and will not: (a) result in a violation of 
+the Company’s or any Subsidiary’s certificate or articles of incorporation, 
+by-laws or other organizational or charter documents, (b) conflict with, or 
+constitute a material default (or an event that with notice or lapse of 
+time or both would become a material default) under, result in the creation 
+of any Lien upon any of the properties or assets of the Company or any 
+Subsidiary, or give to others any rights of termination, amendment, 
+acceleration or cancellation of, any agreement, indenture, instrument or 
+any “lock-up” or similar provision of any underwriting or similar agreement 
+to which the Company or any Subsidiary is a party, or (c) result in a 
+violation of any federal, state or local law, rule, regulation, order, 
+judgment or decree (including federal and state securities laws and 
+regulations) applicable to the Company or any Subsidiary or by which any 
+property or asset of the Company or any Subsidiary is bound or affected 
+(except for such conflicts, defaults, terminations, amendments, 
+accelerations, cancellations and violations as would not, individually or 
+in the aggregate, have a Material Adverse Effect) nor is the Company 
+otherwise in violation of, conflict with or in default under any of the 
+foregoing. The business of the Company is not being conducted in violation 
+of any law, ordinance or regulation of any governmental entity, except for 
+possible violations that either singly or in the aggregate do not and will 
+not have a Material Adverse Effect. The Company is not required under 
+federal, state or local law, rule or regulation to obtain any consent, 
+authorization or order of, or make any filing or registration with, any 
+court or governmental agency in order for it to execute, deliver or perform 
+any of its obligations under this Agreement or the other Transaction 
+Documents (other than any SEC, FINRA or state securities filings that may 
+be required to be made by the Company subsequent to any Closing or any 
+registration statement that may be filed pursuant hereto); provided that, 
+for purposes of the representation made in this sentence, the Company is 
+assuming and relying upon the accuracy of the relevant representations and 
+agreements of Investor herein.
+ 
+Section 4.8 NO MATERIAL ADVERSE CHANGE. No event has occurred that would 
+have a Material Adverse Effect on the Company that has not been disclosed 
+in subsequent SEC filings.
+ 
+Section 4.9 LITIGATION AND OTHER PROCEEDINGS. Except as disclosed in the 
+SEC Documents or as set forth on Schedule 4.9, there are no actions, suits, 
+investigations, inquiries or proceedings pending or, to the knowledge of 
+the Company, threatened against or affecting the Company, any Subsidiary or 
+any of their respective properties, nor has the Company received any 
+written or oral notice of any such action, suit, proceeding, inquiry or 
+investigation, which would have a Material Adverse Effect. No judgment, 
+order, writ, injunction or decree or award has been issued by or, to the 
+knowledge of the Company, requested of any court, arbitrator or 
+governmental agency which would have a Material Adverse Effect. There has 
+not been, and to the knowledge of the Company, there is not pending or 
+contemplated, any investigation by the SEC involving the Company, any 
+Subsidiary or any current or former director or officer of the Company or 
+any Subsidiary.
+ 
+
+  	11 	 
+
+ 
+
+ 
+Section 4.10 REGISTRATION RIGHTS. Except as set forth on Schedule 4.10, no 
+Person (other than the Investor) has any right to cause the Company to 
+effect the registration under the Securities Act of any securities of the 
+Company or any Subsidiary.
+ 
+ARTICLE V
+COVENANTS OF INVESTOR
+ 
+Section 5.1 COMPLIANCE WITH LAW; TRADING IN SECURITIES. The Investor’s 
+trading activities with respect to shares of Common Stock will be in 
+compliance with all applicable state and federal securities laws and 
+regulations and the rules and regulations of FINRA and the Principal 
+Market.
+ 
+Section 5.2 SHORT SALES AND CONFIDENTIALITY. Neither the Investor, nor any 
+affiliate of the Investor acting on its behalf or pursuant to any 
+understanding with it, will execute any Short Sales during the period from 
+the date hereof to the end of the Commitment Period. For the purposes 
+hereof, and in accordance with Regulation SHO, the sale after delivery of a 
+Put Notice of such number of shares of Common Stock reasonably expected to 
+be purchased under a Put Notice shall not be deemed a Short Sale. The 
+Investor shall, until such time as the transactions contemplated by this 
+Agreement are publicly disclosed by the Company in accordance with the 
+terms of this Agreement, maintain the confidentiality of the existence and 
+terms of this transaction and the information included in the Transaction 
+Documents.
+ 
+ARTICLE VI
+COVENANTS OF THE COMPANY
+ 
+Section 6.1 RESERVATION OF COMMON STOCK. The Company shall maintain a 
+reserve from its duly authorized shares of Common Stock equal to 300% of 
+the Required Note in accordance with the terms of this Agreement and the 
+Commitment Note. The Company shall maintain a reserve from its duly 
+authorized shares of Common Stock equal to 100% of the registered shares 
+remaining to be issued under the Registration Statement to satisfy its 
+obligation to issue the Put Shares and the Additional Shares in accordance 
+with the terms of this Agreement.
+ 
+Section 6.2 LISTING OF COMMON STOCK. The Company shall promptly secure the 
+listing of all of the Put Shares and Underlying Shares to be issued to the 
+Investor hereunder on the Principal Market (subject to official notice of 
+issuance) and shall use commercially reasonable best efforts to maintain, 
+so long as any shares of Common Stock shall be so listed, the listing of 
+all such Put Shares and Underlying Shares from time to time issuable 
+hereunder. The Company shall use its commercially reasonable efforts to 
+continue the listing and trading of the Common Stock on the Principal 
+Market (including, without limitation, maintaining sufficient net tangible 
+assets) and will comply in all respects with the Company’s reporting, 
+filing and other obligations under the bylaws or rules of FINRA and the 
+Principal Market.
+ 
+
+  	12 	 
+
+ 
+
+ 
+Section 6.3 OTHER EQUITY LINES AND CONVERTIBLE NOTES. So long as this 
+Agreement remains in effect, the Company covenants and agrees that it will 
+not, without the prior written consent of the Investor, enter into any 
+other equity line of credit agreement with any other party or issue any 
+promissory note convertible into common stock to any other party. For the 
+avoidance of doubt, nothing contained in the Transaction Documents shall 
+restrict, or require the Investor’s consent for, any agreement providing 
+for the issuance or distribution of any equity securities of the Company 
+pursuant to any agreement or arrangement that is not covered in this 
+Section 6.3.
+ 
+Section 6.4 FILING OF CURRENT REPORT AND REGISTRATION STATEMENT. The 
+Company agrees that it shall file a Current Report on Form 8-K, including 
+the Transaction Documents as exhibits thereto, with the SEC within the time 
+required by the Exchange Act, relating to the transactions contemplated by, 
+and describing the material terms and conditions of, the Transaction 
+Documents (the “Current Report”). The Company shall permit the Investor to 
+review and comment upon the final pre-filing draft version of the Current 
+Report at least two (2) Trading Days prior to its filing with the SEC, and 
+the Company shall give reasonable consideration to all such comments. The 
+Investor shall use its reasonable best efforts to comment upon the final 
+pre-filing draft version of the Current Report within one (1) Trading Day 
+from the date the Investor receives it from the Company. The Company shall 
+also file with the SEC, within thirty (30) calendar days from the date 
+hereof, a new registration statement (the “Registration Statement”) 
+covering only the resale of the Put Shares, as well as the Underlying 
+Shares (if the Underlying Shares are able to be included in such 
+Registration Statement). The Company shall use its best efforts to cause 
+the Registration Statement to become effective within ninety (90) calendar 
+days from the date hereof.
+ 
+ARTICLE VII
+CONDITIONS TO DELIVERY OF
+PUT NOTICES AND CONDITIONS TO CLOSING
+ 
+Section 7.1 CONDITIONS PRECEDENT TO THE RIGHT OF THE COMPANY TO ISSUE AND 
+SELL PUT SHARES. The right of the Company to issue and sell the Put Shares 
+to the Investor is subject to the satisfaction of each of the conditions 
+set forth below:
+ 
+(a)             ACCURACY OF INVESTOR’S REPRESENTATIONS AND WARRANTIES. The 
+representations and warranties of the Investor shall be true and correct in 
+all material respects as of the date of this Agreement and as of the date 
+of each Closing as though made at each such time.
+ 
+(b)             PERFORMANCE BY INVESTOR. Investor shall have performed, 
+satisfied and complied in all respects with all covenants, agreements and 
+conditions required by this Agreement to be performed, satisfied or 
+complied with by the Investor at or prior to such Closing.
+ 
+
+  	13 	 
+
+ 
+
+ 
+(c)       PRINCIPAL MARKET REGULATION. The Company shall not issue any Put 
+Shares, and the Investor shall not have the right to receive any Put 
+Shares, if the issuance of such Put Shares would exceed the aggregate 
+number of shares of Common Stock which the Company may issue without 
+breaching the Company’s obligations under the rules or regulations of the 
+Principal Market (the “Exchange Cap”).
+ 
+Section 7.2 CONDITIONS PRECEDENT TO THE OBLIGATION OF INVESTOR TO PURCHASE 
+PUT SHARES. The obligation of the Investor hereunder to purchase Put Shares 
+is subject to the satisfaction of each of the following conditions:
+ 
+(a)             EFFECTIVE REGISTRATION STATEMENT. The Registration 
+Statement, and any amendment or supplement thereto, shall remain effective 
+for the resale by the Investor of the Put Shares and the Underlying Shares 
+and (i) neither the Company nor the Investor shall have received notice 
+that the SEC has issued or intends to issue a stop order with respect to 
+such Registration Statement or that the SEC otherwise has suspended or 
+withdrawn the effectiveness of such Registration Statement, either 
+temporarily or permanently, or intends or has threatened to do so and (ii) 
+no other suspension of the use of, or withdrawal of the effectiveness of, 
+such Registration Statement or related prospectus shall exist.
+ 
+(b)             ACCURACY OF THE COMPANY’S REPRESENTATIONS AND WARRANTIES. 
+The representations and warranties of the Company shall be true and correct 
+in all material respects as of the date of this Agreement and as of the 
+date of each Closing (except for representations and warranties 
+specifically made as of a particular date).
+ 
+(c)             PERFORMANCE BY THE COMPANY. The Company shall have 
+performed, satisfied and complied in all material respects with all 
+covenants, agreements and conditions required by this Agreement to be 
+performed, satisfied or complied with by the Company.
+ 
+(d)             NO INJUNCTION. No statute, rule, regulation, executive 
+order, decree, ruling or injunction shall have been enacted, entered, 
+promulgated or adopted by any court or governmental authority of competent 
+jurisdiction that prohibits or directly and materially adversely affects 
+any of the transactions contemplated by the Transaction Documents, and no 
+proceeding shall have been commenced that may have the effect of 
+prohibiting or materially adversely affecting any of the transactions 
+contemplated by the Transaction Documents.
+ 
+(e)             ADVERSE CHANGES. Since the date of filing of the Company’s 
+most recent SEC Document, no event that had or is reasonably likely to have 
+a Material Adverse Effect has occurred.
+ 
+(f)              NO SUSPENSION OF TRADING IN OR DELISTING OF COMMON STOCK. 
+The trading of the Common Stock shall not have been suspended by the SEC, 
+the Principal Market or FINRA, or otherwise halted for any reason, and the 
+Common Stock shall have been approved for listing or quotation on and shall 
+not have been delisted from the Principal Market. In the event of a 
+suspension, delisting, or halting for any reason, of the trading of the 
+Common Stock, as contemplated by this Section 7.2(f), the Investor shall 
+have the right to return to the Company any remaining amount of Put Shares 
+associated with such Put, and the Purchase Price with respect to such Put 
+shall be reduced accordingly.
+ 
+
+  	14 	 
+
+ 
+
+ 
+(g)             BENEFICIAL OWNERSHIP LIMITATION. The number of Put Shares 
+then to be purchased by the Investor shall not exceed the number of such 
+shares that, when aggregated with all other shares of Common Stock then 
+owned by the Investor beneficially or deemed beneficially owned by the 
+Investor, would result in the Investor owning more than the Beneficial 
+Ownership Limitation (as defined below), as determined in accordance with 
+Section 16 of the Exchange Act and the regulations promulgated thereunder. 
+For purposes of this Section 7.2(g), in the event that the amount of Common 
+Stock outstanding, as determined in accordance with Section 16 of the 
+Exchange Act and the regulations promulgated thereunder, is greater on a 
+Closing Date than on the date upon which the Put Notice associated with 
+such Closing Date is given, the amount of Common Stock outstanding on such 
+Closing Date shall govern for purposes of determining whether the Investor, 
+when aggregating all purchases of Common Stock made pursuant to this 
+Agreement, would own more than the Beneficial Ownership Limitation 
+following such Closing Date. The “Beneficial Ownership Limitation” shall be 
+4.99% of the number of shares of the Common Stock outstanding immediately 
+after giving effect to the issuance of shares of Common Stock issuable 
+pursuant to a Put Notice.
+ 
+(h)             PRINCIPAL MARKET REGULATION. The issuance of the Put Shares 
+shall not exceed the Exchange Cap.
+ 
+(i)               NO KNOWLEDGE. The Company shall have no knowledge of any 
+event more likely than not to have the effect of causing the Registration 
+Statement to be suspended or otherwise ineffective (which event is more 
+likely than not to occur within the fifteen (15) Trading Days following the 
+Trading Day on which such Put Notice is deemed delivered).
+ 
+(j)               NO VIOLATION OF SHAREHOLDER APPROVAL REQUIREMENT. The 
+issuance of the Put Shares shall not violate the shareholder approval 
+requirements of the Principal Market.
+ 
+(k)              OFFICER’S CERTIFICATE. On the date of delivery of each Put 
+Notice, the Investor shall have received the Closing Certificate executed 
+by an executive officer of the Company and to the effect that all the 
+conditions to such Closing shall have been satisfied as of the date of each 
+such certificate.
+ 
+(l)               DWAC ELIGIBLE. The Common Stock must be DWAC Eligible and 
+not subject to a “DTC chill.”
+ 
+(m)             SEC DOCUMENTS. All reports, schedules, registrations, 
+forms, statements, information and other documents required to have been 
+filed by the Company with the SEC pursuant to the reporting requirements of 
+the Exchange Act shall have been filed with the SEC within the applicable 
+time periods prescribed for such filings under the Exchange Act.
+ 
+
+  	15 	 
+
+ 
+
+ 
+(n)             TRANSFER AGENT INSTRUCTION LETTER. The Transfer Agent 
+Instruction Letter shall have been executed and delivered by the Company to 
+the Transfer Agent and acknowledged and agreed to in writing by the 
+Transfer Agent.
+ 
+(o)             RESERVE. The Company shall have reserved sufficient shares 
+of its Common Stock for the Investor, pursuant to the terms of this 
+Agreement and all other contracts between the Company and Investor.
+ 
+(p)             TRUE-UP RESERVE. The Company shall not have the right to 
+deliver a Put Notice to Investor if the registered shares of Common Stock 
+reserved by the Company’s transfer agent for issuance of the Put Shares and 
+Additional Shares hereunder is less than 200% of the amount of Put Shares 
+identified in the respective Put Notice.
+ 
+ARTICLE VIII
+LEGENDS
+ 
+Section 8.1 NO RESTRICTIVE STOCK LEGEND. No restrictive stock legend shall 
+be placed on the share certificates representing the Put Shares.
+ 
+Section 8.2 INVESTOR’S COMPLIANCE. Nothing in this Article VIII shall 
+affect in any way the Investor’s obligations hereunder to comply with all 
+applicable securities laws upon the sale of the Common Stock.
+ 
+ARTICLE IX
+ 
+NOTICES; INDEMNIFICATION
+ 
+Section 9.1 NOTICES. All notices, demands, requests, consents, approvals, 
+and other communications required or permitted hereunder shall be in 
+writing and, unless otherwise specified herein, shall be (a) personally 
+served, (b) deposited in the mail, registered or certified, return receipt 
+requested, postage prepaid, (c) delivered by reputable air courier service 
+with charges prepaid, or (d) transmitted by hand delivery, telegram, or 
+email as a PDF, addressed as set forth below or to such other address as 
+such party shall have specified most recently by written notice given in 
+accordance herewith. Any notice or other communication required or 
+permitted to be given hereunder shall be deemed effective (i) upon hand 
+delivery or delivery by email at the address designated below (if delivered 
+on a business day during normal business hours where such notice is to be 
+received), or the first business day following such delivery (if delivered 
+other than on a business day during normal business hours where such notice 
+is to be received) or (ii) on the second business day following the date of 
+mailing by express courier service or on the fifth business day after 
+deposited in the mail, in each case, fully prepaid, addressed to such 
+address, or upon actual receipt of such mailing, whichever shall first 
+occur.
+ 
+
+  	16 	 
+
+ 
+
+ 
+The addresses for such communications shall be:
+ 
+If to the Company:
+ 
+NIGHTFOOD HOLDINGS, INC.
+ 
+520 White Plains Road, Suite 500
+Tarrytown, NY 10591
+E-mail: Nightfood@nightfood.com
+ 
+If to the Investor:
+ 
+BLACK FOREST CAPITAL, LLC
+81 Prospect St.
+Brooklyn, NY 11201
+Email: Contact@BlackForest.Capital
+ 
+Either party hereto may from time to time change its address or email for 
+notices under this Section 9.1 by giving at least ten (10) days’ prior 
+written notice of such changed address to the other party hereto.
+ 
+Section 9.2 INDEMNIFICATION. Each party (an “Indemnifying Party”) agrees to 
+indemnify and hold harmless the other party along with its officers, 
+directors, employees, and authorized agents, and each Person or entity, if 
+any, who controls such party within the meaning of Section 15 of the 
+Securities Act or Section 20 of the Exchange Act (an “Indemnified Party”) 
+from and against any Damages, joint or several, and any action in respect 
+thereof to which the Indemnified Party becomes subject to, resulting from, 
+arising out of or relating to (i) any misrepresentation, breach of warranty 
+or nonfulfillment of or failure to perform any covenant or agreement on the 
+part of the Indemnifying Party contained in this Agreement, (ii) any untrue 
+statement or alleged untrue statement of a material fact contained in the 
+Registration Statement or any post-effective amendment thereof or 
+supplement thereto, or the omission or alleged omission therefrom of a 
+material fact required to be stated therein or necessary to make the 
+statements therein not misleading, (iii) any untrue statement or alleged 
+untrue statement of a material fact contained in any preliminary prospectus 
+or contained in the final prospectus (as amended or supplemented, if the 
+Company files any amendment thereof or supplement thereto with the SEC) or 
+the omission or alleged omission to state therein any material fact 
+necessary to make the statements made therein, in the light of the 
+circumstances under which the statements therein were made, not misleading, 
+or (iv) any violation or alleged violation by the Company of the Securities 
+Act, the Exchange Act, any state securities law or any rule or regulation 
+under the Securities Act, the Exchange Act or any state securities law, as 
+such Damages are incurred, except to the extent such Damages result 
+primarily from the Indemnified Party’s failure to perform any covenant or 
+agreement contained in this Agreement or the Indemnified Party’s 
+negligence, recklessness or bad faith in performing its obligations under 
+this Agreement; provided, however, that the foregoing indemnity agreement 
+shall not apply to any Damages of an Indemnified Party to the extent, but 
+only to the extent, arising out of or based upon any untrue statement or 
+alleged untrue statement or omission or alleged omission made by an 
+Indemnifying Party in reliance upon and in conformity with written 
+information furnished to the Indemnifying Party by the Indemnified Party 
+expressly for use in the Registration Statement, any post-effective 
+amendment thereof or supplement thereto, or any preliminary prospectus or 
+final prospectus (as amended or supplemented).
+ 
+
+  	17 	 
+
+ 
+
+ 
+Section 9.3 METHOD OF ASSERTING INDEMNIFICATION CLAIMS. All claims for 
+indemnification by any Indemnified Party under Section 9.2 shall be 
+asserted and resolved as follows:
+ 
+(a)              In the event any claim or demand in respect of which an 
+Indemnified Party might seek indemnity under Section 9.2 is asserted 
+against or sought to be collected from such Indemnified Party by a Person 
+other than a party hereto or an affiliate thereof (a “Third Party Claim”), 
+the Indemnified Party shall deliver a written notification, enclosing a 
+copy of all papers served, if any, and specifying the nature of and basis 
+for such Third Party Claim and for the Indemnified Party’s claim for 
+indemnification that is being asserted under any provision of Section 9.2 
+against an Indemnifying Party, together with the amount or, if not then 
+reasonably ascertainable, the estimated amount, determined in good faith, 
+of such Third Party Claim (a “Claim Notice”) with reasonable promptness to 
+the Indemnifying Party. If the Indemnified Party fails to provide the Claim 
+Notice with reasonable promptness after the Indemnified Party receives 
+notice of such Third Party Claim, the Indemnifying Party shall not be 
+obligated to indemnify the Indemnified Party with respect to such Third 
+Party Claim to the extent that the Indemnifying Party’s ability to defend 
+has been prejudiced by such failure of the Indemnified Party. The 
+Indemnifying Party shall notify the Indemnified Party as soon as 
+practicable within the period ending thirty (30) calendar days following 
+receipt by the Indemnifying Party of either a Claim Notice or an Indemnity 
+Notice (as defined below) (the “Dispute Period”) whether the Indemnifying 
+Party disputes its liability or the amount of its liability to the 
+Indemnified Party under Section 9.2 and whether the Indemnifying Party 
+desires, at its sole cost and expense, to defend the Indemnified Party 
+against such Third Party Claim.
+ 
+(i)              If the Indemnifying Party notifies the Indemnified Party 
+within the Dispute Period that the Indemnifying Party desires to defend the 
+Indemnified Party with respect to the Third Party Claim pursuant to this 
+Section 9.3(a), then the Indemnifying Party shall have the right to defend, 
+with counsel reasonably satisfactory to the Indemnified Party, at the sole 
+cost and expense of the Indemnifying Party, such Third Party Claim by all 
+appropriate proceedings, which proceedings shall be vigorously and 
+diligently prosecuted by the Indemnifying Party to a final conclusion or 
+will be settled at the discretion of the Indemnifying Party (but only with 
+the consent of the Indemnified Party in the case of any settlement that 
+provides for any relief other than the payment of monetary damages or that 
+provides for the payment of monetary damages as to which the Indemnified 
+Party shall not be indemnified in full pursuant to Section 9.2). The 
+Indemnifying Party shall have full control of such defense and proceedings, 
+including any compromise or settlement thereof; provided, however, that the 
+Indemnified Party may, at the sole cost and expense of the Indemnified 
+Party, at any time prior to the Indemnifying Party’s delivery of the notice 
+referred to in the first sentence of this clause (i), file any motion, 
+answer or other pleadings or take any other action that the Indemnified 
+Party reasonably believes to be necessary or appropriate to protect its 
+interests; and provided, further, that if requested by the Indemnifying 
+Party, the Indemnified Party will, at the sole cost and expense of the 
+Indemnifying Party, provide reasonable cooperation to the Indemnifying 
+Party in contesting any Third Party Claim that the Indemnifying Party 
+elects to contest. The Indemnified Party may participate in, but not 
+control, any defense or settlement of any Third Party Claim controlled by 
+the Indemnifying Party pursuant to this clause (i), and except as provided 
+in the preceding sentence, the Indemnified Party shall bear its own costs 
+and expenses with respect to such participation. Notwithstanding the 
+foregoing, the Indemnified Party may takeover the control of the defense or 
+settlement of a Third Party Claim at any time if it irrevocably waives its 
+right to indemnity under Section 9.2 with respect to such Third Party 
+Claim.
+ 
+
+  	18 	 
+
+ 
+
+ 
+(ii)             If the Indemnifying Party fails to notify the Indemnified 
+Party within the Dispute Period that the Indemnifying Party desires to 
+defend the Third Party Claim pursuant to Section 9.3(a), or if the 
+Indemnifying Party gives such notice but fails to prosecute vigorously and 
+diligently or settle the Third Party Claim, or if the Indemnifying Party 
+fails to give any notice whatsoever within the Dispute Period, then the 
+Indemnified Party shall have the right to defend, at the sole cost and 
+expense of the Indemnifying Party, the Third Party Claim by all appropriate 
+proceedings, which proceedings shall be prosecuted by the Indemnified Party 
+in a reasonable manner and in good faith or will be settled at the 
+discretion of the Indemnified Party(with the consent of the Indemnifying 
+Party, which consent will not be unreasonably withheld). The Indemnified 
+Party will have full control of such defense and proceedings, including any 
+compromise or settlement thereof; provided, however, that if requested by 
+the Indemnified Party, the Indemnifying Party will, at the sole cost and 
+expense of the Indemnifying Party, provide reasonable cooperation to the 
+Indemnified Party and its counsel in contesting any Third Party Claim which 
+the Indemnified Party is contesting. Notwithstanding the foregoing 
+provisions of this clause (ii), if the Indemnifying Party has notified the 
+Indemnified Party within the Dispute Period that the Indemnifying Party 
+disputes its liability or the amount of its liability hereunder to the 
+Indemnified Party with respect to such Third Party Claim and if such 
+dispute is resolved in favor of the Indemnifying Party in the manner 
+provided in clause (iii) below, the Indemnifying Party will not be required 
+to bear the costs and expenses of the Indemnified Party’s defense pursuant 
+to this clause (ii) or of the Indemnifying Party’s participation therein at 
+the Indemnified Party’s request, and the Indemnified Party shall reimburse 
+the Indemnifying Party in full for all reasonable costs and expenses 
+incurred by the Indemnifying Party in connection with such litigation. The 
+Indemnifying Party may participate in, but not control, any defense or 
+settlement controlled by the Indemnified Party pursuant to this clause 
+(ii), and the Indemnifying Party shall bear its own costs and expenses with 
+respect to such participation.
+ 
+(iii)            If the Indemnifying Party notifies the Indemnified Party 
+that it does not dispute its liability or the amount of its liability to 
+the Indemnified Party with respect to the Third Party Claim under Section 
+9.2 or fails to notify the Indemnified Party within the Dispute Period 
+whether the Indemnifying Party disputes its liability or the amount of its 
+liability to the Indemnified Party with respect to such Third Party Claim, 
+the amount of Damages specified in the Claim Notice shall be conclusively 
+deemed a liability of the Indemnifying Party under Section 9.2 and the 
+Indemnifying Party shall pay the amount of such Damages to the Indemnified 
+Party on demand. If the Indemnifying Party has timely disputed its 
+liability or the amount of its liability with respect to such claim, the 
+Indemnifying Party and the Indemnified Party shall proceed in good faith to 
+negotiate a resolution of such dispute; provided, however, that if the 
+dispute is not resolved within thirty (30) days after the Claim Notice, the 
+Indemnifying Party shall be entitled to institute such legal action as it 
+deems appropriate.
+ 
+
+  	19 	 
+
+ 
+
+ 
+(b)             In the event any Indemnified Party should have a claim 
+under Section 9.2 against the Indemnifying Party that does not involve a 
+Third Party Claim, the Indemnified Party shall deliver a written 
+notification of a claim for indemnity under Section 9.2 specifying the 
+nature of and basis for such claim, together with the amount or, if not 
+then reasonably ascertainable, the estimated amount, determined in good 
+faith, of such claim (an "Indemnity Notice") with reasonable promptness to 
+the Indemnifying Party. The failure by any Indemnified Party to give the 
+Indemnity Notice shall not impair such party's rights hereunder except to 
+the extent that the Indemnifying Party demonstrates that it has been 
+irreparably prejudiced thereby. If the Indemnifying Party notifies the 
+Indemnified Party that it does not dispute the claim or the amount of the 
+claim described in such Indemnity Notice or fails to notify the Indemnified 
+Party within the Dispute Period whether the Indemnifying Party disputes the 
+claim or the amount of the claim described in such Indemnity Notice, the 
+amount of Damages specified in the Indemnity Notice will be conclusively 
+deemed a liability of the Indemnifying Party under Section 9.2 and the 
+Indemnifying Party shall pay the amount of such Damages to the Indemnified 
+Party on demand. If the Indemnifying Party has timely disputed its 
+liability or the amount of its liability with respect to such claim, the 
+Indemnifying Party and the Indemnified Party shall proceed in good faith to 
+negotiate a resolution of such dispute; provided, however, that if the 
+dispute is not resolved within thirty (30) days after the Claim Notice, the 
+Indemnifying Party shall be entitled to institute such legal action as it 
+deems appropriate.
+ 
+(c)            The Indemnifying Party agrees to pay the Indemnified Party, 
+promptly as such expenses are incurred and are due and payable, for any 
+reasonable legal fees or other reasonable expenses incurred by them in 
+connection with investigating or defending any such Claim.
+ 
+(d)            The indemnity provisions contained herein shall be in 
+addition to (i) any cause of action or similar rights of the Indemnified 
+Party against the Indemnifying Party or others, and (ii) any liabilities 
+the Indemnifying Party may be subject to.
+ 
+ARTICLE X
+ 
+MISCELLANEOUS
+ 
+Section 10.1 GOVERNING LAW; JURISDICTION. This Agreement shall be governed 
+by and interpreted in accordance with the laws of the State of New York 
+without regard to the principles of conflicts of law. Each of the Company 
+and the Investor hereby submits to the exclusive jurisdiction of the United 
+States federal and state courts located in the City of New York, with 
+respect to any dispute arising under the Transaction Documents or the 
+transactions contemplated thereby.
+ 
+Section 10.2 JURY TRIAL WAIVER. The Company and the Investor hereby waive a 
+trial by jury in any action, proceeding or counterclaim brought by either 
+of the parties hereto against the other in respect of any matter arising 
+out of or in connection with the Transaction Documents.
+ 
+Section 10.3 ASSIGNMENT. This Agreement shall be binding upon and inure to 
+the benefit of the Company and the Investor and their respective 
+successors. Neither this Agreement nor any rights of the Investor or the 
+Company hereunder may be assigned by either party to any other Person.
+ 
+
+  	20 	 
+
+ 
+
+ 
+Section 10.4 NO THIRD PARTY BENEFICIARIES. This Agreement is intended for 
+the benefit of the Company and the Investor and their respective 
+successors, and is not for the benefit of, nor may any provision hereof be 
+enforced by, any other Person, except as set forth in Section 9.3.
+ 
+Section 10.5 TERMINATION. The Company may terminate this Agreement at any 
+time by written notice to the Investor, except during any Valuation Period. 
+In addition, this Agreement shall automatically terminate on the earlier of 
+(i) the end of the Commitment Period; (ii) the date that the Company sells 
+and the Investor purchases the Maximum Commitment Amount; (iii) the date in 
+which the Registration Statement is no longer effective; or (iv) the date 
+that, pursuant to or within the meaning of any Bankruptcy Law, the Company 
+commences a voluntary case or any Person commences a proceeding against the 
+Company, a Custodian is appointed for the Company or for all or 
+substantially all of its property or the Company makes a general assignment 
+for the benefit of its creditors; provided, however, that the provisions of 
+Articles III, IV, V, VI, IX and the agreements and covenants of the Company 
+and the Investor set forth in Article X shall survive the termination of 
+this Agreement.
+ 
+Section 10.6 ENTIRE AGREEMENT. The Transaction Documents, together with the 
+exhibits and schedules thereto, contain the entire understanding of the 
+Company and the Investor with respect to the matters covered herein and 
+therein and supersede all prior agreements and understandings, oral or 
+written, with respect to such matters, which the parties acknowledge have 
+been merged into such documents, exhibits and schedules.
+ 
+Section 10.7 FEES AND EXPENSES. Except as expressly set forth in the 
+Transaction Documents or any other writing to the contrary, each party 
+shall pay the fees and expenses of its advisers, counsel, accountants and 
+other experts, if any, and all other expenses incurred by such party 
+incident to the negotiation, preparation, execution, delivery and 
+performance of this Agreement. The Company shall pay all Transfer Agent 
+fees (including, without limitation, any fees required for same-day 
+processing of any instruction letter delivered by the Company), stamp taxes 
+and other taxes and duties levied in connection with the delivery of any 
+Securities to the Investor. The Commitment Note shall be earned in full 
+upon the execution of the Term Sheet, and the Commitment Note is not 
+contingent upon any other event or condition, including but not limited to 
+the effectiveness of the Registration Statement or the Company’s submission 
+of a Put Notice to the Investor.
+ 
+Section 10.8 COUNTERPARTS. This Agreement may be executed in multiple 
+counterparts, each of which may be executed by less than all of the parties 
+and shall be deemed to be an original instrument which shall be enforceable 
+against the parties actually executing such counterparts and all of which 
+together shall constitute one and the same instrument. This Agreement may 
+be delivered to the other parties hereto by email of a copy of this 
+Agreement bearing the signature of the parties so delivering this 
+Agreement.
+ 
+Section 10.9 SEVERABILITY. In the event that any provision of this 
+Agreement becomes or is declared by a court of competent jurisdiction to be 
+illegal, unenforceable or void, this Agreement shall continue in full force 
+and effect without said provision; provided that such severability shall be 
+ineffective if it materially changes the economic benefit of this Agreement 
+to any party.
+ 
+
+  	21 	 
+
+ 
+
+ 
+Section 10.10 FURTHER ASSURANCES. Each party shall do and perform, or cause 
+to be done and performed, all such further acts and things, and shall 
+execute and deliver all such other agreements, certificates, instruments 
+and documents, as the other party may reasonably request in order to carry 
+out the intent and accomplish the purposes of this Agreement and the 
+consummation of the transactions contemplated hereby.
+ 
+Section 10.11 NO STRICT CONSTRUCTION. The language used in this Agreement 
+will be deemed to be the language chosen by the parties to express their 
+mutual intent, and no rules of strict construction will be applied against 
+any party.
+ 
+Section 10.12 EQUITABLE RELIEF. The Company recognizes that in the event 
+that it fails to perform, observe, or discharge any or all of its 
+obligations under this Agreement, any remedy at law may prove to be 
+inadequate relief to the Investor. The Company therefore agrees that the 
+Investor shall be entitled to temporary and permanent injunctive relief in 
+any such case without the necessity of proving actual damages.
+ 
+Section 10.13 TITLE AND SUBTITLES. The titles and subtitles used in this 
+Agreement are used for the convenience of reference and are not to be 
+considered in construing or interpreting this Agreement.
+ 
+Section 10.14 AMENDMENTS; WAIVERS. No provision of this Agreement may be 
+amended or waived by the parties from and after the date that is one (1) 
+Trading Day immediately preceding the initial filing of the Registration 
+Statement with the SEC. Subject to the immediately preceding sentence, (i) 
+no provision of this Agreement may be amended other than by a written 
+instrument signed by both parties hereto and (ii) no provision of this 
+Agreement may be waived other than in a written instrument signed by the 
+party against whom enforcement of such waiver is sought. No failure or 
+delay in the exercise of any power, right or privilege hereunder shall 
+operate as a waiver thereof, nor shall any single or partial exercise of 
+any such power, right or privilege preclude other or further exercise 
+thereof or of any other right, power or privilege.
+ 
+Section 10.15 PUBLICITY. The Company and the Investor shall consult with 
+each other in issuing any press releases or otherwise making public 
+statements with respect to the transactions contemplated hereby and no 
+party shall issue any such press release or otherwise make any such public 
+statement, other than as required by law, without the prior written consent 
+of the other parties, which consent shall not be unreasonably withheld or 
+delayed, except that no prior consent shall be required if such disclosure 
+is required by law, in which such case the disclosing party shall provide 
+the other party with prior notice of such public statement. Notwithstanding 
+the foregoing, the Company shall not publicly disclose the name of the 
+Investor without the prior written consent of the Investor, except to the 
+extent required by law. The Investor acknowledges that this Agreement and 
+all or part of the Transaction Documents may be deemed to be “material 
+contracts,” as that term is defined by Item 601(b)(10) of Regulation S-K, 
+and that the Company may therefore be required to file such documents as 
+exhibits to reports or registration statements filed under the Securities 
+Act or the Exchange Act. The Investor further agrees that the status of 
+such documents and materials as material contracts shall be determined 
+solely by the Company, in consultation with its counsel.
+ 
+[Signature Page Follows]
+ 
+
+  	22 	 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly 
+executed by their respective officers thereunto duly authorized as of the 
+day and year first above written.
+ 
+  	NIGHTFOOD HOLDINGS, INC.
+  	  	 
+  	By: 	/s/ Sean Folkson
+  	Name: 	Sean Folkson
+  	Title: 	Chief Executive Officer
+  	  	 
+  	BLACK FOREST CAPITAL, LLC
+  	  	 
+  	By: 	/s/ Max Riccio
+  	Name: 	Max Riccio
+  	Title: 	Authorized Signer
+ 
+[Signature Page to equity purchase agreement]
+ 
+
+ 
+
+ 
+DISCLOSURE SCHEDULES TO
+EQUITY PURCHASE AGREEMENT
+                 
+Schedule 4.3 – Capitalization
+ 
+None.
+ 
+Schedule 4.5 – SEC Documents
+ 
+None.
+ 
+Schedule 4.9 – Litigation
+ 
+None.
+ 
+Schedule 4.10 – Registration Rights
+ 
+None.
+ 
+
+ 
+
+ 
+EXHIBIT A
+ 
+FORM OF PUT NOTICE
+ 
+TO: BLACK FOREST CAPITAL, LLC
+DATE:                                          
+ 
+We refer to the equity purchase agreement, dated February 8, 2017 (the 
+“Agreement”), entered into by and between Nightfood Holdings, Inc. and you. 
+Capitalized terms defined in the Agreement shall, unless otherwise defined 
+herein, have the same meaning when used herein.
+ 
+We hereby:
+ 
+1) Give you notice that we require you to purchase ____________	Put Shares 
+based on an initial put amount of $____________	(the actual Purchase Price 
+to be received by the Company shall be calculated at the end of the 
+Valuation Period); and
+ 
+2) Certify that, as of the date hereof, the conditions set forth in 
+Agreement, including but not limited to Section 7.2, are satisfied.
+ 
+  	NIGHTFOOD HOLDINGS, INC.
+  	  	 
+  	By: 	 
+  	Name: 	Sean Folkson
+  	Title: 	Chief Executive Officer
+ 
+
+ 
+
+ 
+EXHIBIT B
+ 
+FORM OF OFFICER’S CERTIFICATE
+OF NIGHTFOOD HOLDINGS, INC.
+ 
+Pursuant to Section 7.2(k) of that certain equity purchase agreement, dated 
+February 8, 2017 (the “Agreement”), by and between Nightfood Holdings, Inc. 
+(the “Company”) and Black Forest Capital, LLC (the “Investor”), the 
+undersigned, in his capacity as Chief Executive Officer of the Company, and 
+not in his individual capacity, hereby certifies, as of the date hereof 
+(such date, the “Condition Satisfaction Date”), the following:
+ 
+1.       The representations and warranties of the Company are true and 
+correct in all material respects as of the Condition Satisfaction Date as 
+though made on the Condition Satisfaction Date (except for representations 
+and warranties specifically made as of a particular date) with respect to 
+all periods, and as to all events and circumstances occurring or existing 
+to and including the Condition Satisfaction Date, except for any conditions 
+which have temporarily caused any representations or warranties of the 
+Company set forth in the Agreement to be incorrect and which have been 
+corrected with no continuing impairment to the Company or the Investor; and
+ 
+2.       All of the conditions precedent to the obligation of the Investor 
+to purchase Put Shares set forth in the Agreement, including but not 
+limited to Section 7.2 of the Agreement, have been satisfied as of the 
+Condition Satisfaction Date.
+ 
+Capitalized terms used herein shall have the meanings set forth in the 
+Agreement unless otherwise defined herein.
+ 
+IN WITNESS WHEREOF, the undersigned has hereunto affixed his hand as of the 
+February 8, 2017.
+ 
+  	By: 	 
+  	Name: 	Sean Folkson
+  	Title: 	Chief Executive Officer
+ 
+
+ 
+
+ 
+EXHIBIT C
+ 
+COMMITMENT NOTE
+ 
+
+ 
+
+ 
+EXHIBIT D
+ 
+FORM OF TRANSFER AGENT INSTRUCTION LETTER
+   
+
+ 
+
+ 
+EXHIBIT E
+ 
+Date: __________________
+ 
+[COMPANY]
+ 
+[ADDRESS]
+ 
+TRUE-UP NOTICE
+ 
+The Investor hereby gives notice to Nightfood Holdings, Inc., a Nevada 
+corporation (the “Company”), pursuant to that certain Equity Purchase 
+Agreement dated February 8, 2017, by and between the Company and the 
+Investor (the “Purchase Agreement”), that the Investor elects to receive 
+fully paid and non-assessable Additional Shares pursuant to the Purchase 
+Agreement. Such Additional Shares shall be calculated as set forth below.
+ 
+A.       True-Up Price: _______
+ 
+B.       Purchase Price: _______
+ 
+C.       Put Shares: _______
+ 
+D.       Additional Shares to be Issued: _______
+      
+Please transfer the Additional Shares electronically (via DWAC) to the 
+following account:
+ 
+Broker: 	Address: 	 
+DTC#: 	  	 
+Account #: 	  	 
+Account Name: Black Forest Capital, LLC 	  	 
+ 
+To the extent the Additional Shares are not able to be delivered to the 
+Investor electronically via the DWAC system, please deliver a certificate 
+representing all such shares to the Investor via reputable overnight 
+courier after receipt of this True-Up Notice (by facsimile transmission or 
+otherwise) to:
+ 
+  	  	 
+  	  	 
+  	  	 
+ 
+Sincerely,
+ 
+Black Forest Capital, LLC
+ 
+By: 	  	 
+Name: 	  	 
+Title: 	  	 
+ 
+ 
+ 
+ 
+ 

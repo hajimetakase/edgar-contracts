@@ -1,0 +1,792 @@
+ EX-10.3 4 a07-26059_1ex10d3.htm EX-10.3
+Exhibit 10.3
+ 
+MINE RESISTANT AMBUSH PROTECTED VEHICLE PROGRAM
+AND
+MEDIUM MINE PROTECTED VEHICLE PROGRAM
+ 
+TECHNOLOGY
+AND LICENSE AGREEMENT
+ 
+    IN THIS TECHNOLOGY AND LICENSE AGREEMENT (Agreement), General
+    Dynamics Land Systems Inc. (GDLS), Force Protection, Inc. (FPI),
+    and Force Dynamics LLC (FDL) (hereafter collectively Parties and
+    individually Party), agree as follows:
+     
+ARTICLE 1    Background of Agreement
+ 
+        1.1                                 FPI and its Affiliates (as
+        defined below) have designed and developed a wheeled armored
+        vehicle currently identified as the Cougar armored vehicle.
+         
+        1.2                                 FPI and its Affiliates own or
+        Control (as defined below) Intellectual Property Rights (as defined
+        below) and Technology (as defined below) directed to the design,
+        construction, manufacture and use of the Cougar armored vehicle.
+         
+        1.3                                 FPI and GDLS have agreed to
+        team together to hid for and perform contracts that are issued
+        pursuant to the Program (as defined below).
+         
+        1.4                                 To implement their teaming
+        arrangement, FPI and GDLS, pursuant to the Force Dynamics LC Joint
+        Venture Agreement dated December 15, 2006 (JV Agreement), have
+        formed FDL as a joint venture company to serve as their contracting
+        entity for the Program.
+         
+        1.5                                 Under Section 6.13.16 of the JV
+        Agreement, the Parties have entered into this Agreement and
+        included this Agreement as Exhibit 6 to the JV Agreement.
+         
+ARTICLE 2    Definitions
+ 
+        2.1                                 Affiliate means any entity
+        that directly (or indirectly through one or more intermediaries)
+        controls, is controlled by, or is under common control with a
+        Party. For purposes of this definition only, the terms controls,
+        controlled, and control means the direct or indirect ability or
+        power to direct or cause the direction of the management and
+        policies of any entity or otherwise direct the affairs of such
+        entity, whether through ownership of equity, voting securities, or
+        beneficial interest, by contract, or otherwise. For purposes of
+        this Agreement, no Party is an Affiliate of any other Party.
+         
+        2.2                                 Background IP means (a) 1P
+        and Technology that is owned, used or Controlled by a Party prior
+        to the Effective Date and (b) IP and Technology that is made or
+        acquired after the Effective Date by or for a Party independently
+        of the Program and that is not based on derived from or a
+        modification of another Partys Background IP.
+ 
+------------------------------------------------------------------------
+
+ 
+        2.3                                 Control and cognates thereof,
+        with respect to IP and Technology, means the ability to grant
+        rights to a Party in accordance with this Agreement without
+        accounting to any Third Party,
+         
+        2.4                                 Effective Date means the date
+        of signature of the last Party to sign this Agreement.
+         
+        2.5                                 Foreground IP means IP or
+        Technology made or acquired by or for a Party after the Effective
+        Date in conjunction with the Program.
+         
+        2.6                                 FPI Background IP means
+        Background IP owned or Controlled by FPI the use or practice of
+        which is necessary for FDL and GDLS to perform under the Program.
+         
+        2.7                                 GDLS Background IP means
+        Background IP owned or Controlled by GDLS the use or practice of
+        which is necessary for FDL and FPI to perform under the Program.
+         
+        2.8                                 Intellectual Property or IP
+        means patents, copyrights, mask works, and trade secrets, but
+        specifically excludes trademarks.
+         
+        2.9                                 Joint Foreground IP means
+        Foreground IP that is jointly owned by FPI and GDLS pursuant to
+        Section 3.5.
+         
+        2.10                           Program means the Mine Resistant
+        Ambush Protected (MRAP) Vehicle Program, a United States joint
+        services program to produce and provide lifecycle support to
+        address the current threat of improvised explosive devices in the
+        Middle East as more fully described in solicitation number
+        M67854-07-R-5000 and resulting contract M67854-07-D-5031 and/or the
+        Medium Mine Protected Vehicle (MMPV) as described in Solicitation
+        No: W56HZV-07-R-0315. The Program will include any and all
+        solicitations and RFPs for MRAP and/or MMPV production and
+        lifecycle support and/or any follow on work which may be performed,
+        including any program name change, changed or future program
+        requirements, product evolutions and technology insertions related
+        to the MRAP or MMPV vehicles whether for U.S. or international
+        sales, or non-military/commercial sales. For the avoidance of
+        doubt, the Parties participation in the Program only includes
+        the use of FPIs Cougar 4x4 and 6x6 armored vehicles for the MRAP
+        Cat I and Cat II and MMPV requirements and does not include any
+        other existing or future contracts or programs for the Parties
+        other vehicles (or vehicle variants). For the further avoidance of
+        doubt, the Program does not include, for illustration and not
+        limitation, the JERRV program, the GSTAMIDS program, the 1LAV and
+        Mastiff programs, the Buffalo and Cheetah vehicles, the Stryker,
+        LAV, and RG-31 vehicles, the MRAP Cat III program and/or the JLTV
+        program.
+         
+        2.11                           Technical Data or TD means
+        assembly drawings, specification control drawings, source control
+        drawings, parts lists, wiring diagrams, parts identification
+        documentation, equipment design specifications, interface control
+ 
+2
+------------------------------------------------------------------------
+
+ 
+        documents, system diagrams, flow diagrams, test procedures, test
+        specifications, trial reports, manual, instructional materials,
+        firmware data, software specifications, source code listings,
+        control commands and other software documentation, and technical
+        publication source data.
+         
+        2.12                           Technology means:
+         
+            (a)                                  all inventions, works of
+            authorship, discoveries, ideas, innovations, know-how,
+            processes, techniques and developments;
+             
+            (b)                                 all Technical Data;
+             
+            (c)                                  all other forms of
+            technology and improvements, modifications, derivatives or
+            changes thereof, whether tangible or intangible, embodied in
+            any form, including without limitation manufacturing,
+            engineering and other drawings and manuals, flow charts,
+            schematics, lab journals, notebooks, blue prints, technical
+            reports (including research and development reports), studies,
+            special tooling, fixtures and jigs made specifically for a
+            Program, design and engineering specifications, user
+            documentation, and equipment repair, maintenance or service
+            records and manuals, whether or not protectable or protected by
+            patent, copyright, mask work right, trade secret law or
+            otherwise.
+             
+        2.13                           Third Party means any person or
+        entity other than a Party or an Affiliate of a Party.
+         
+ARTICLE 3    IP Rights
+ 
+        3.1                                 FPI and its Affiliates will
+        retain ownership or Control of its Background IP to the extent
+        owned or Controlled by FPI or its Affiliates as of the Effective
+        Date.
+         
+        3.2                                 GDLS and its Affiliates will
+        retain ownership or Control of its Background IP to the extent
+        owned or Controlled by GDLS or its Affiliates as of the Effective
+        Date. FDL, FP and GDLS understand and agree that there are license
+        fees due for each MRAP vehicle by FPI to others in the amount of
+        $2,250 per vehicle and this amount will be paid through FPI but
+        will be paid monthly by GDLS to FP for each vehicle that GDLS
+        produces under the Program. The license fee shall become due on the
+        last calendar day of each month in which a vehicle is sold, as
+        evidenced by a DD Form 250 and payable by the 20th calendar day
+        thereafter. On the 10th calendar day of each month, GDLS shall
+        provide to FPI a list of all vehicles manufactured by GDLS during
+        the preceding month. FPI shall have the right to terminate this
+        Agreement upon ten (10) days written notice in the event GDLS fails
+        to pay the required license fee due hereunder.
+         
+        3.3                                 FPI hereby grants to FDL and
+        GDLS a non-exclusive, license, without the right to sublicense,
+        under the FPI Background IP solely for use in performance of the
+        Program.
+ 
+3
+------------------------------------------------------------------------
+
+ 
+        3.4                                 GDLS hereby grants to FDL and
+        FPI a non-exclusive, royalty-free license, without the right to
+        sublicense, under the GDLS Background IP solely for use in
+        performance of the Program.
+         
+        3.5                                 All Foreground IP solely made
+        or acquired by FPI or its employees, agents or contractors will be
+        solely owned by FPI.  All Foreground IP solely made or acquired by
+        GDLS or its employees, agents or contractors will be solely owned
+        by GDLS. All Foreground IP jointly made or acquired by FPI and GDLS
+        or their respective employees, agents or contractors will be
+        jointly owned by FPI and GDLS. All Foreground IP solely or jointly
+        made or acquired by FDL or its employees, agents or contractors
+        will be jointly owned by FPI and GDLS, and FDL hereby assigns to
+        FPI and GDLS jointly all right, title and interest in and to such
+        Foreground IP and all rights therein.
+         
+        3.6                                 The Party solely owning
+        Foreground IP, in its sole discretion and at its sole expense, will
+        exercise commercially reasonable efforts to obtain and maintain
+        appropriate intellectual property protection for such Foreground IP
+        (IP Rights).
+         
+        3.7                                 The Parties shall mutually
+        agree upon whether to file patent applications protecting Joint
+        Foreground IP, and shall mutually agree upon which party shall be
+        primarily responsible for preparing, filing, and prosecuting any
+        such applications. FPI and GDLS will share equally all costs
+        incurred in obtaining and maintaining such patents, provided,
+        however, that either Party may elect by written notice to the other
+        Party not to share such costs for a particular patent or patent
+        application, in which event the other Party may abandon such patent
+        or patent application or may elect to continue to prosecute and
+        maintain such patent or patent application. The Party electing not
+        to share costs will assign its interest in any such patent or
+        patent application, provided however that the Party electing not to
+        share costs will receive a fully-paid up, royalty-free license
+        under such patents to make, have made, sell, offer for sale and
+        import products utilizing such patent or patent application.
+         
+        3.8                                 To the extent the law of a
+        country requires one joint owner to give permission to other joint
+        owners to exploit a Joint Foreground IP, including any patents
+        protecting such Joint Foreground IP, FPI and GDLS hereby grant each
+        other permission to fully exploit any Foreground IP and related
+        patents without accounting to the other.
+         
+        3.9                                 FPI hereby grants to FDL and
+        GDLS a nonexclusive, royalty-free license, without the right to
+        sublicense, under any Foreground IP and associated IP Rights solely
+        owned by FPI to the extent necessary for FDL and GDLS to perform
+        under the Program.
+         
+        3.10                           GDLS hereby grants to FPI and FDL a
+        nonexclusive, royalty-free license, without the right to
+        sublicense, under any Foreground IP and associated IP Rights solely
+        owned by GDLS to the extent necessary for FDL and FPI to perform
+        under the Program.
+ 
+4
+------------------------------------------------------------------------
+
+ 
+        3.11                           FPI hereby covenants not to enforce
+        any FPI Background Rights against activities of GDLS or FDL
+        authorized pursuant to Section 3.3.
+         
+        3.12                           GDLS hereby covenants not to enforce
+        any COLS Background Rights against activities of FPI or FDL
+        authorized pursuant to Section 3.4.
+         
+        3.13                           Nothing in this Agreement is
+        intended to grant or grants to any Party any right or license under
+        any IP or Technology owned or Controlled by a Party except to the
+        extent expressly granted herein for performance under the Program.
+         
+ARTICLE 4    Technology
+ 
+        4.1                                 Each of FPI and GDLS will use
+        commercially reasonable efforts to deliver to the other Party all
+        Technical Data that in the opinion of the Party possessing the
+        Technical Data is reasonably necessary for the Parties to perform
+        their respective obligations under the Program and the JV
+        Agreement.
+         
+        4.2                                 FPI, FDL and GDLS warrant to
+        each other that all technical data will be complete and accurate as
+        available and used in each of their facilities FPI, GDLS, and FDL
+        warrant to each other that the technical data is sufficient to
+        design or manufacture products based on such information.
+         
+        4.3                                 The transfer to a Party of any
+        physical item that embodies any Technical Data Controlled by the
+        transferring Party will not be, and will not be construed to be,
+        (a) a sale, lease, offer to sell or lease or other transfer of
+        title or ownership to the receiving Party of such Technical Data or
+        any part thereof, or (b) a license to the receiving Party (except
+        as expressly provided in this Agreement) under such Technical Data.
+         
+ARTICLE 5    Confidential Information
+ 
+        5.1                                 All confidential and/or
+        proprietary information exchanged or disclosed between the Parties
+        shall be governed by the terms of Exhibit 5 of the JV Agreement and
+        any amendments to Exhibit 5.
+         
+ARTICLE 6    Term and Termination
+ 
+        6.1                                 The term of this Agreement will
+        commence on the Effective Date and will end on the later of the
+        completion or complete termination of the Program or the Force
+        Dynamics Joint Venture, which ever comes later.
+         
+        6.2                                 Either Party may terminate this
+        Agreement on the liquidation, bankruptcy or insolvency of another
+        Party or the appointment of a receiver or trustee for the property
+        of another Party, or if another Party makes an assignment for the
+        benefit of creditors, whether any of the aforesaid events are the
+        outcome of a voluntary act or otherwise. In the event a Party files
+        for bankruptcy and the debtor or trustee rejects this Agreement,
+        the other Party may elect to retain its rights under this Agreement
+        upon appropriate written notification to the trustee. All rights
+        and
+ 
+5
+------------------------------------------------------------------------
+
+ 
+        licenses granted hereunder or pursuant to this Agreement are, for
+        all purposes of Section 365(n) of Title 11 of the United States
+        Bankruptcy Code (Title 11), licenses of rights to intellectual
+        property as defined in Title 11.
+         
+        6.3                                 If a Party fails to perform any
+        material term of this Agreement, then a Party may give written
+        notice of breach to the breaching Party. If the breach identified
+        in the notice is not cured by the breaching Party within sixty (60)
+        days after receipt of the notice of breach, this Agreement may be
+        immediately terminated by either other Party upon written notice to
+        the breaching Party.
+         
+        6.4                                 In the event performance by a
+        Party is excused pursuant to Section 11.3 for a continuous period
+        of nine (9) months, any other Party will have the option of
+        terminating this Agreement upon ninety (90) days written notice to
+        the excused Party.
+         
+        6.5                                 In the event of termination of
+        this Agreement pursuant to Section 6.3 for breach by FDL, FDL will
+        have the right to complete all contracts in the Program under which
+        FDL is obligated on the date of termination provided FDL complied
+        with the JV Agreement and this Agreement with respect to such
+        sales.
+         
+        6.6                                 Upon termination of this
+        Agreement, all licenses to Foreground IP, Background IP, and all
+        related IP Rights therein shall immediately terminate, and each
+        Party, upon termination of this Agreement will discontinue use of
+        the other Parties Background IP, solely-owned Foreground IP, and IP
+        Rights.
+         
+        6.7                                 The following provisions will
+        survive termination of this Agreement: Articles 3, 5, 7, 8, and 9.
+         
+        6.8                                 The right of either Party to
+        terminate under the provisions of this Article 6 will not be an
+        exclusive remedy, and either Party will be entitled, if the
+        circumstances warrant, alternatively or cumulatively, to damages
+        for breach of this Agreement, to an order requiring performance of
+        the obligations of this Agreement, or to any other legally
+        available remedy. Termination of this Agreement will not release
+        either Party from any obligation or liability which may have
+        accrued prior to or at the time of termination.
+         
+ARTICLE 7    Indemnification
+ 
+        7.1                                 GDLS will indemnify and hold
+        harmless FDL and FPI, its Affiliates and their respective
+        directors, officers, employees and agents (FPI Indemnitees) from
+        and against all losses, liabilities, damages and expenses,
+        including reasonable attorneys fees and costs (collectively, 
+        Liabilities), incurred as a result of any claims, demands, actions
+        or other proceedings by any Third Party to the extent resulting
+        from: (a) the material breach of any representation, warranty or
+        covenant by GDLS under this Agreement; or (b) the negligence or
+        willful misconduct of GDLS. The obligation to indemnify pursuant to
+        Section 7.1(a) will expire five (5) years after expiration or
+        termination of this Agreement.
+ 
+6
+------------------------------------------------------------------------
+
+ 
+        7.2                                 FPI will indemnify and hold
+        harmless FDL and GDLS, its Affiliates and their respective
+        directors, officers, employees and agents (GDLS Indemnitees).
+        (For purposes of this Article 7 , the term Indemnitee may refer
+        to any or all of FDI, the FPI Indemnitees and the GDLS Indemnitees,
+        as the context may indicate) from and against all Liabilities,
+        incurred as a result of any claims, demands, actions or other
+        proceedings by any Third Party to the extent resulting from: (a)
+        the material breach of any representation, warranty or covenant by
+        FPI under this Agreement; or (b) the negligence or willful
+        misconduct of FPI. The obligation to indemnify pursuant to Section
+        7.2(a) will expire five (5) years after expiration or termination
+        of this Partys Joint Venture Agreement or any resultant contract,
+        subcontracts, purchase orders or other agreements, whichever is
+        later.
+         
+        7.3                                 FDL will indemnify and hold
+        harmless the GDLS Indemnitees and the FPI Indemnitees from and
+        against all Liabilities, incurred as a result of any claims,
+        demands, actions or other proceedings by any Third Party to the
+        extent resulting from: (a) the material breach of any
+        representation, warranty or covenant by FDL under this Agreement;
+        or (b) the negligence or willful misconduct of FDL. The obligation
+        to indemnify pursuant to Section 7.3 will expire five (5) years
+        after expiration or termination of this Agreement.
+         
+        7.4                                 If a Party or Indemnitee
+        intends to claim indemnification under this Article 7.4, it will
+        promptly notify the indemnifying Party (the Indemnitor) in
+        writing of any claim, demand, action or other proceeding for which
+        the Indemnitee intends to claim such indemnification, and the
+        Indemnitor may participate in, and, to the extent the Indemnitor so
+        desires, assume the defense of such claim, demand, action or
+        proceeding with counsel mutually satisfactory to the Parties; 
+        provided, however, that an Indemnitee will have the right to retain
+        its own counsel, with the fees and expenses to be paid by the
+        Indemnitor, if representation of such Indemnitee by the counsel
+        retained by the Indemnitor would be inappropriate due to actual or
+        potential differing interests between the Indemnitee and any other
+        Party represented by such counsel in such proceeding. The
+        obligations of this Article 7.4 will not apply to amounts paid in
+        settlement of any claim, demand, action or other proceeding if such
+        settlement is effected without the consent of the Indemnitor, which
+        consent will not be unreasonably withheld or delayed. The failure
+        to deliver written notice to the Indemnitor within a reasonable
+        time after the commencement of any such action, if prejudicial to
+        its ability to defend such action, will relieve the Indemnitor of
+        any obligation to the Indemnitee under this Article 7.4. The
+        Indemnitee will reasonably cooperate with the Indemnitor and its
+        legal representatives in the investigation of any claim, demand,
+        action or other proceeding covered by this Article 7.4.
+         
+        7.5                                 Notwithstanding anything to the
+        contrary in Articles 7.1-7.4 above, FPI and GDLS shall each
+        indemnify and hold harmless the other Party from and against all
+        Liabilities incurred as a result of any claim, demand, action or
+        other proceeding brought by a Third Party alleging that the
+        indemnified Partys use of the other Partys Background IP or
+        solely-owned Foreground IF infringes the Third Partys patent,
+        trademark, copyright, trade secret, or other proprietary
+ 
+7
+------------------------------------------------------------------------
+
+ 
+        rights, provided, however, such third party indemnity obligation
+        shalt not apply if the indemnified Party has substantially or
+        materially modified the other Partys Background IP or solely-owned
+        Foreground IP. The process for seeking indemnification for such IP
+        related claims, demands, actions or other proceedings shall be as
+        set forth above in Article 7.4.
+         
+ARTICLE 8    Infringement
+ 
+        8.1                                 Each Party shall notify the
+        others immediately of any actual, suspected or anticipated
+        infringement of the IP used in performance of the Program or any
+        misappropriation of the Confidential Information of which it
+        becomes aware.
+         
+        8.2                                 The Party owning or Controlling
+        the potentially infringed IP or misappropriated Confidential
+        Information may in its absolute discretion determine whether or not
+        to take legal or other action against any Third Party for an actual
+        or threatened or suspected infringement of the IP or
+        misappropriation of the Confidential Information, and if the owning
+        or Controlling Party elects to take legal or other action, such
+        Party:
+         
+            (a)                                  shall bear all costs of
+            the action;
+             
+            (b)                                 shall have sole control
+            over the form and conduct of such action;
+             
+            (c)                                  may settle, compromise or
+            discontinue the action as it thinks fit;
+             
+            (d)                                 shall be entitled to any
+            award of costs and/or damages made in relation to such action;
+            and
+             
+            (e)                                  shall indemnify the other
+            Parties against any costs or damages for which either of them
+            may become liable as a result of the proceedings, provided that
+            neither such other Parties has authorized or contributed to the
+            acts giving rise to the liability.
+             
+        Each other Party will give the owning or Controlling Party, at the
+        owning or Controlling Partys expense, all information and
+        assistance reasonably requested by the owning or Controlling Party
+        to assist it to initiate, litigate, settle or compromise any
+        proceedings in respect of any such infringement or
+        misappropriation.
+         
+        8.3                                 Either FPI or GDLS may initiate
+        an action for enforcement of a Joint IP Right. The Party initiating
+        the action will bear all costs and control the form and conduct of
+        the action. The other owner of such Joint IP Right will cooperate
+        in enforcing any Joint IP Right, including, to the extent necessary
+        to permit an enforcement action to proceed, joining in such action
+        as a party and will not subvert the initiating Partys action by
+        granting the accused entity a license under the asserted Joint IP
+        Rights. The Party initiating the action may recover all costs from
+        any recovery and the balance will be shared equally with the other
+        Party.
+ 
+8
+------------------------------------------------------------------------
+
+ 
+ARTICLE 9    Representations and Warranties
+ 
+        9.1                                 Each Party hereby represents
+        and warrants to the other Parties that it has full authority and
+        power to enter into this Agreement and to grant the rights,
+        covenants and licenses specified herein, that it has secured any
+        and all necessary approvals, permits or consents deemed necessary
+        or advisable for the consummation of the transactions contemplated
+        hereby, that it is not a party to and will not become a party to
+        any agreement with another that is inconsistent with this
+        Agreement, and that upon execution by the Party this Agreement will
+        immediately be a valid and binding obligation of the Party,
+        enforceable in accordance with its terms.
+         
+        9.2                                 Nothing in this Agreement will
+        be construed as:
+         
+            (a)                                  a warranty or
+            representation that anything made, used, sold, or otherwise
+            disposed of pursuant to this Agreement or the JV Agreement is
+            or will be free from infringement of patents or other
+            intangible rights of third parties; or
+             
+            (b)                                 except as expressly
+            provided herein, a requirement that either Party will file any
+            patent application, secure any patent, or maintain any patent
+            in force; or
+             
+            (c)                                  an obligation on either
+            Party to bring or prosecute actions or suits against third
+            parties for infringement of any patent; or
+             
+            (d)                                 an obligation to furnish
+            any Technical Data except as specifically provided herein; or
+             
+            (e)                                  granting any right to
+            either Party to use in any way the name of, or any trademark
+            of, the other Party;
+             
+            (f)                                    granting by implication,
+            estoppel, or otherwise, any license or right under patents,
+            trade secrets, know how, copyrights, or other intangible rights
+            of either Party other than as expressly provided herein.
+             
+        9.3                                 EXCEPT AS EXPRESSLY SET FORTH
+        IN THIS AGREEMENT, EACH PARTY EXPRESSLY DISCLAIMS ANY WARRANTY,
+        EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED
+        WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR. PURPOSE, AND
+        NON-INFRINGEMENT. NOTWITHSTANDING ANYTHING IN THIS AGREEMENT TO THE
+        CONTRARY, NEITHER GDLS NOR FPI NOR FDL WILL BE RESPONSIBLE FOR
+        SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR OTHER SIMILAR
+        DAMAGES (INCLUDING LOST PROFITS) THAT ANY OTHER PARTY MAY INCUR OR
+        EXPERIENCE IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED AND
+        UNDER WHATEVER THEORY OF LIABILITY,
+ 
+9
+------------------------------------------------------------------------
+
+ 
+        EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+        DAMAGES.
+         
+ARTICLE 10    Restriction on Disclosure
+ 
+        10.1                           Each Party acknowledges that the
+        Program contemplates production of a defense article and that
+        Background IP and Foreground IP may be subject to applicable
+        Federal export and import regulations, including but not limited
+        to, the U.S. Arms Export Control Act, as amended (22 U.S.C. §§
+        2751-2799), the International Traffic in Arms Regulations, as
+        amended (22 C.F.R. Part 120 et seq.), the Export Administration
+        Act, as amended, (50 U.S.C. §§ 2401-2420), the U.S. Export
+        Administration Regulations, as amended (15 C.F.R. § 730 et seq.)
+        and the requirements of the National Industrial Security Program
+        Operating Manual (NISPOM). No Party (and its Affiliates,
+        subcontractors, vendors and suppliers) shall export, disclose,
+        furnish or otherwise provide any Background IP, Foreground IP or
+        technical information or services relating to the Program to any
+        foreign person or entity, whether within the U.S. or abroad,
+        without obtaining in advance (if required) appropriate U.S.
+        government export authorization.
+         
+ARTICLE 11    Miscellaneous
+ 
+        11.1                           This Agreement constitutes the
+        entire understanding between the Parties with respect to the
+        subject matter hereof and supersedes and replaces all prior
+        agreements, understandings, writings and discussions between the
+        Parties relating to said subject matter.
+         
+        11.2                           This Agreement may be amended only
+        by a written instrument executed by officers of the Parties. The
+        failure of either Party at any time or times to require performance
+        of any provision thereof will in no manner affect its rights at a
+        later time to enforce the same. No waiver by either Party of any
+        condition or term in any one or more instance will be construed as
+        a further or continuing waiver of such condition or term or any
+        other condition or term.
+         
+        11.3                           Any delay in or failure of
+        performance by either Party under this Agreement will not be
+        considered a breach of this Agreement if and to the extent caused
+        by occurrences beyond the reasonable control of the Party affected,
+        including but not limited to acts of God; acts, regulations, or
+        laws of any government; strike, or other considered acts of
+        workers; fires; floods; explosions; riots; wars; rebellion; and
+        sabotage; and any rime for performance hereunder will be extended
+        by the actual time of delay caused by such occurrence.
+         
+        11.4                           All requests and notices required or
+        permitted to be given to the Parties hereto will be given in
+        writing, will expressly reference the section(s) of this Agreement
+        to which they pertain, and will be delivered to the other Party,
+        effective on receipt, at the appropriate address as set forth below
+        or to such other addresses as may be designated in writing by the
+        Parties from time to time during the term of this Agreement.
+ 
+10
+------------------------------------------------------------------------
+
+ 
+            If to FPI:
+             
+            Force Protection Inc.
+            9801 Highway 78
+            Ladson, South Carolina 29456
+            Attn: John F. Wall III
+            Vice President Legal Affairs
+             
+            If to GDLS:
+             
+            General Dynamics Land Systems Inc.
+             
+            38500 Mound Road
+            Sterling Heights, Michigan 48310
+            Attn: J.L. Farina Percy
+             
+            Director Ground Combat Systems (GCS) Contracts
+             
+            If to FDL:
+             
+            Force Dynamics LLC
+            9801 Highway 78
+            Ladson, South Carolina 29456
+            Attn: Raymond W. Pollard,
+            Chairman of the Board
+            Cc: Mark C. Roualet
+            Vice Chairman of the Board
+             
+        11.5                           This Agreement will not be
+        assignable by either Party without the other Partys prior written
+        consent which consent will not be unreasonably withheld, except
+        that a Party may assign this Agreement to its Affiliate or to a
+        successor in connection with the merger, consolidation, or sale of
+        all or substantially all of its assets or that portion of its
+        business pertaining to the subject matter of this Agreement, with
+        prompt written notice to other Party.
+         
+        11.6                           This Agreement will be governed by
+        and construed and interpreted in accordance with the laws of the
+        State of Delaware, without giving effect to conflict of laws.
+         
+        11.7                           Except to the extent necessary under
+        applicable laws, the parties agree that press releases or other
+        publicity relating to the substance of the matters contained herein
+        will be made in accordance with the Paragraph 7.3.1 of the Parties
+        Joint Venture Agreement.
+         
+        11.8                           If any provision(s) of this
+        Agreement are or become invalid, or are ruled illegal by any court
+        of competent jurisdiction, or are deemed unenforceable under then
+        current applicable law from time to time in effect during the term
+        hereof, it is the intention of the parties that the remainder of
+        this Agreement will not be affected thereby. It is further the
+        intention of the Parties that in lieu of each such provision
+ 
+11
+------------------------------------------------------------------------
+
+ 
+        which is invalid, illegal, or unenforceable, there be substituted
+        or added as part of this Agreement, a provision which will be as
+        similar as possible in economic and business objectives as intended
+        by the parties to such invalid, illegal, or unenforceable
+        provision, but which will be valid, legal, and enforceable.
+         
+        11.9                           Each Party agrees that after the
+        delivery of this Agreement it will execute such further documents
+        and do such further acts and things as the other Party may
+        reasonably request in order to carry out the terms of this
+        Agreement.
+         
+        11.10                     The article numbers and article headings
+        contained herein are for reference purposes only and will not in
+        any way affect the meaning of this Agreement.
+ 
+12
+------------------------------------------------------------------------
+
+ 
+    This Agreement may be executed in any number of counterparts, each of
+    which will be an original, but all of which together will contribute
+    one instrument.
+     
+    IN WITNESS WHEREOF, the Parties have caused this Agreement, in
+    triplicate originals, to be executed by their respective and duly
+    authorized officers on the dates written below.
+     
+     
+Force Protection Inc.
+ 
+General Dynamics Land Systems Inc.
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+  /s/ D.T Walsh
+ 
+By:
+   /s/ J.L. Farina Percy
+ 
+(signature)
+ 
+ 
+(signature)
+NAME: D.T. Walsh
+ 
+NAME: J.L. Farina Percy
+TITLE: Vice President Program Management
+TITLE: Director GDLS Contracts
+ 
+ 
+ 
+Date:
+  2 April 2007
+ 
+Date:
+  3 April 2007
+ 
+ 
+ 
+ 
+ 
+ 
+Force Dynamics LLC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+  /s/ R.W. Pollard
+ 
+ 
+ 
+(signature)
+ 
+ 
+NAME: R.W. Pollard
+ 
+ 
+TITLE: Chairman of the Board
+ 
+ 
+ 
+ 
+ 
+Date:
+  2 April 2007
+ 
+ 
+ 
+13
+------------------------------------------------------------------------

@@ -1,0 +1,1155 @@
+ EX-10.1 2 exhibit10_1.htm SETTLEMENT AGREEMENT
+ 
+
+
+Exhibit 10.1
+
+
+SETTLEMENT AGREEMENT
+
+
+THIS SETTLEMENT AGREEMENT (the or this Agreement) is made effective as of 
+the 27th day of March, 2017 (the Effective Date), by and among The Clinic 
+Network, an Ontario Corporation (TCN), Canadian Cannabis Corp., a 
+Delaware corporation (CCC), Canada Cannabis Corp., an Ontario corporation 
+(CCCSub), 2264793 Ontario Inc., an Ontario Corporation (2264793), 
+Avonlea-Drewry Holdings Inc., an Ontario corporation (ADH) and Avonlea 
+Ventures Inc., an Ontario corporation (AV).  For the purposes of this 
+Agreement, each of the foregoing may be referred to individually as a 
+Party or collectively as the Parties.  
+
+
+RECITALS:
+
+
+WHEREAS, in 2015, AV extended to CCC a loan in the amount of CAD $500,000 
+in connection with CCCs proposed acquisition of Canna Farms Ltd. (the 
+Canna Farms Loan);
+
+
+WHEREAS, in connection with an advance of funds by AV to CCC, CCC issued a 
+promissory note dated October 16, 2015 (the First Note) to AV with a 
+principal amount of CAD $1,000,000, which accrues interest at 8% per annum 
+and matured on May 31, 2016;
+
+
+WHEREAS, in connection with a further advance of funds by AV to CCC, CCC 
+issued a promissory note dated October 30, 2015 (the Second Note) to AV 
+with a principal amount of CAD $500,000, which accrues interest at 10% per 
+annum and matured May 31, 2016;
+
+
+WHEREAS the obligations of CCC under the First Note and the Second Note 
+were guaranteed by 2264793 pursuant to a guarantee dated October 16, 2015 
+(the 2264793 Guarantee);
+
+
+WHEREAS, in connection with a further advance of funds by AV to 2264793, 
+2264793 issued a promissory note dated November 13, 2015 (the Third Note
+; and collectively with the First Note, the Second Note and the Canna Farms 
+Loan, the Notes) to AV with a principal amount of CAD $500,000, which 
+accrues interest at 10% per annum and is repayable upon demand;
+
+
+WHEREAS, the obligations of 2264793 under the Third Note were guaranteed by 
+CCC pursuant to a guarantee dated November 13, 2015 (the CCC Guarantee; 
+together with the 2264793 Guarantee, the Guarantees);
+
+
+WHEREAS, the 2264793 Guarantee and the Third Note were secured by a third 
+priority mortgage on 98-102 Rutherford Road S., Brampton, Ontario (the 
+Property) granted by 2264793 to AV;
+
+
+WHEREAS, 2264793 and AV entered into a contingent purchase agreement (the 
+Purchase Agreement) pursuant to which AV would purchase the Property;
+
+
+------------------------------------------------------------------------
+
+WHEREAS, 2264793 and AV entered into that certain termination agreement and 
+side letter regarding the Purchase Agreement dated November 19, 2015 (the 
+Termination Agreement) pursuant to which a termination fee (the 
+Termination Fee) was payable by 2264793 to AV in exchange for agreeing to 
+terminate the Purchase Agreement upon the terms set out therein;
+
+
+WHEREAS, 2264793 and AV entered into that certain assignment and assumption 
+of commission agreement dated November 19, 2015 pursuant to which AV agreed 
+to assume the obligations of 2264793 for certain fees and commission 
+payable by 2264793 to DTZ Canada Inc., Brokerage (o/a Cushman and 
+Wakefield, Brokerage) in connection with a sale of the Property;
+
+
+WHEREAS, upon the sale of the Property on or about January 29, 2016, an 
+aggregate amount of CAD $3,728,701.74 became payable to AV and 2264793 on 
+such date, including the Termination Fee, principal and accrued interest 
+under the Notes, and all other outstanding amounts, reimbursable fees and 
+expenses owed to AV;
+
+
+WHEREAS, following the sale of the Property, 2264793 tendered payment to AV 
+in the amount of CAD $3,474,615.30, leaving an outstanding balance owed by 
+CCC and 2264793 to AV in the aggregate amount of CAD $254,086.44 (the 
+Initial Outstanding Balance);
+
+
+WHEREAS, subsequent to the sale of the Property, AV paid on behalf of CCC 
+and 2264793 other reimbursable expenses as a further loan which, when taken 
+together with the Initial Outstanding Balance, totaled CAD $290,000 (the 
+Updated Outstanding Balance);
+
+
+WHEREAS, CCC and 2264793 subsequently informed AV that they would be unable 
+to pay in full the Updated Outstanding Balance;
+
+
+WHEREAS CCC, 2264793, CCCSub, and AV entered into a Forbearance Agreement 
+dated March 18, 2016 (the Forbearance Agreement) in respect of the 
+Updated Outstanding Balance, a copy of which is attached hereto as Exhibit 
+A;
+
+
+WHEREAS, pursuant to the Forbearance Agreement, AV agreed to forbear in 
+enforcing its rights under the Notes, the Guarantees and the Termination 
+Agreement (collectively, the Forbearance Documents) in respect of the 
+Outstanding Amount for a certain period (the Forbearance Period) 
+determined in accordance with the Forbearance Agreement;
+
+
+WHEREAS, pursuant to the Forbearance Agreement, effective for the period 
+commencing on  January 29, 2016 and ending on  the Forbearance Condition 
+Date (as such term is defined in the Forbearance Agreement) CCC agreed to 
+pay to AV interest on the Updated Outstanding Balance from time to time at 
+a rate of 10% per annum;
+
+
+WHEREAS, pursuant to the Forbearance Agreement, CCC agreed to pay to AV a 
+non-refundable forbearance fee in the amount of CAD $250,000 (the 
+Forbearance Fee; together with the Updated Outstanding Balance plus any 
+Additional Compensation (as defined in the Forbearance Agreement) and all 
+unpaid interest accrued thereon, and all other amounts that are or may 
+become due and payable under the Forbearance Agreement, the Forbearance 
+Outstanding Balance);
+
+
+------------------------------------------------------------------------
+ 
+WHEREAS, in connection with the Forbearance Agreement, CCC granted security 
+to AV over all of its present and after-acquired property pursuant to a 
+security agreement (the CCC Security Agreement) dated March 21, 2016, to 
+secure the payment and performance of all obligations owing by or otherwise 
+payable by CCC to AV, however or whenever incurred, including but not 
+limited to the Forbearance Agreement and the Forbearance Documents;
+
+
+WHEREAS, in connection with the Forbearance Agreement, CCCSub granted a 
+guarantee (the CCCSub Guarantee) to AV dated March 21, 2016, providing 
+for the guarantee by CCCSub of CCCs obligations under the Forbearance 
+Agreement and the Forbearance Documents;
+
+
+WHEREAS, in connection with the CCCSub Guarantee, CCCSub granted a security 
+agreement (the CCCSub Security Agreement) to AV dated March 21, 2016, 
+granting security over all of the present and after-acquired property of 
+CCCSub securing the payment and performance of all obligations owing by or 
+otherwise payable by CCCSub to AV, however or whenever incurred, including 
+but not limited to the Forbearance Agreement and the Forbearance 
+Transaction Documents;
+
+
+WHEREAS, in connection with the Forbearance Agreement, CCC, CCCSub, and ADH 
+entered into a consulting agreement dated March 21, 2016 (the Consulting 
+Agreement; together with the Forbearance Agreement, the CCC Security 
+Agreement, the CCCSub Guarantee, and the CCCSub Security Agreement, the 
+Transaction Documents), pursuant to which ADH agreed to provide certain 
+consulting services to CCC and CCCSub (collectively, the CCC Parties) to 
+assist them in devising a plan to satisfy their obligations under the 
+Forbearance Agreement, in consideration of certain payments and fees to be 
+paid thereunder (the Consulting Fee);
+
+
+WHEREAS, pursuant to an Assignment and Novation Agreement dated March 21, 
+2016, AV assigned to ADH its interest in the Forbearance Agreement, the CCC 
+Security Agreement, the CCCSub Guarantee, and the CCCSub Security 
+Agreement, including all rights thereunder;
+
+
+WHEREAS, CCC has failed to make payments under the Forbearance Agreement 
+and Consulting Agreement when due;
+
+
+WHEREAS, ADH has notified CCC of default under the Forbearance Agreement, 
+termination of the Forbearance Period, acceleration of the Forbearance 
+Outstanding Balance, its intent exercise all enforcement rights under the 
+Transaction Documents, including foreclosure on all assets of the CCC 
+Parties, and demanded immediate payment in full of the Forbearance 
+Outstanding Balance, including all unpaid interest accrued thereon, and the 
+accrued Consulting Fee, totaling CAD $3,635,835 (the Total Outstanding 
+Balance);
+
+
+WHEREAS, the CCC Parties are unable to remit payment to ADH of the Total 
+Outstanding Balance;
+
+
+WHEREAS, as more particularly described herein, the Parties have agreed to 
+resolve and settle all claims now existing between them related to the 
+Notes, the Transaction Documents and the Total Outstanding Balance, subject 
+to the terms and conditions of this Agreement; and
+
+
+------------------------------------------------------------------------
+ 
+WHEREAS, the Parties have agreed to terminate the Notes and the Transaction 
+Documents, subject to the terms and conditions of this Agreement.
+
+
+NOW, THEREFORE, in consideration of the covenants and obligations 
+hereinafter set forth, and other good and valuable consideration (the 
+receipt and sufficiency of which is hereby acknowledged be each party) the 
+Parties agree as follows:
+
+
+1
+      Acknowledgments: Each party acknowledges and agrees that, as of the
+      date hereof:
+
+
+(a)
+            the Forbearance Outstanding Amount (inclusive of accrued
+            interest thereon) is an amount equal to CAD $400,000;
+
+
+(b)
+            the accrued and unpaid Consulting Fee (inclusive of accrued
+            interest thereon) as of the date hereof is an amount equal CAD
+            $1,000,000; and
+
+
+(c)
+            the Total Outstanding Balance as of the date hereof (inclusive
+            of accrued interest thereon) is an amount equal CAD $
+            2,235,835.
+
+
+2
+      CCC Shares: The parties agree that:
+
+
+(a)
+            they will assist each other and otherwise co-operate with
+            counsel including, Thatcher Worth LLP and Burningham &
+            Burningham Attorneys At Law, to obtain requisite order
+            agreement of designations, including without limitation, any
+            necessary opinions, S-1 filings or an opinion for the removal
+            of the restrictive legend (the CCC Legend Removal) on the
+            capital shares of CCC that ADH, AV or Michael Steele
+            beneficially own (the CCC Shares).  The CCC Shares as at the
+            date hereof are as follows:
+
+
+      Cert #  10581,000,000 shares
+
+
+Cert #  863.250,000 shares
+
+
+Cert #  875.....250,000 shares
+
+
+Cert # 674.. 1,000,000 shares
+
+
+Cert # 864...1,000,000 shares
+
+
+Cert # 882. 250,000 shares
+
+
+(b)
+            CCC acknowledges and agrees that it shall, if requested by ADH
+            and AV, following the TCN Closing, cause its auditors, SRCO
+            Auditors, to commence and complete the annual audit for the
+            December 31, 2015 and December 31, 2016 fiscal years pursuant
+            to engagement letters presently in place. CCC further
+            acknowledges and agree that it shall, if requested by ADH and
+            AV, at the TCN Closing, deliver a direction to its US counsel,
+            Thrasher Worth LLC, to undertake, subject to the completion, to
+            the extent necessary to satisfy the current pubic information
+            requirement of Rule 144 of the Securities Act 1933, as amended
+            (the
+
+
+------------------------------------------------------------------------
+ 
+            Securities Act) of the 2015 and 2016 audits, assist in the
+            preparation of the registration statement (on Form S-1 or
+            otherwise as may be appropriate in the opinion of US Counsel,)
+            under the Securities Act to register the CCC Shares, or to
+            assist in the preparation and filing of the necessary periodic
+            disclosures to the extent necessary to satisfy the current
+            public information requirement of Rule 144 of the Securities
+            Act.
+
+
+(c)
+            For such purposes set forth in this Section 2, and for such
+            other alternative purposes as mutually agreeable to the parties
+            which shall include, without limitation, fees and expenses
+            associated with a public listing of CCCSub by way of a reverse
+            takeover or otherwise, CCCSub shall, at the TCN Closing, direct
+            that a sum of one hundred fifty thousand Canadian dollars (CAD
+            $150,000.00) from the CCCSub Amount (as defined below) be held
+            in trust by the Escrow Agent (the Restructuring Amount) which
+            such Restructuring Amount will be released at the times and in
+            the manner as determined by CCCSub and ADH by written joint
+            direction to the Escrow Agent or as otherwise permitted
+            according to the post-closing escrow agreement (the "
+            Post-Closing Escrow Agreement").
+
+
+3
+      Representations and Warranties of CCC, CCCSub, 2264793 and TCN (each
+      a CCAN Party)
+
+
+(a)
+            Each CCAN Party represents and warrants to each of AV and ADH
+            as follows:
+
+
+(i)
+                  Authorization, Validity, and Enforceability of this
+                  Agreement. Each CCAN Party has the corporate power and
+                  authority to execute and deliver this Agreement and to
+                  perform its obligations under the Deliverables to which
+                  it is a party.  Each CCAN Party has taken all necessary
+                  corporate action (including, without limitation,
+                  obtaining approval of its shareholders if necessary) to
+                  authorize its execution and delivery of this Agreement
+                  and the performance of this Agreement and the
+                  Deliverables to which it is a party. This Agreement has
+                  been duly executed and delivered by each CCAN Party and
+                  this Agreement and the Deliverables constitute the legal,
+                  valid and binding obligations of each CCAN Party party
+                  thereto, enforceable against it in accordance with their
+                  respective terms without defence, compensation, setoff or
+                  counterclaim. Each CCAN Partys execution and delivery of
+                  this Agreement and the performance by each CCAN Party of
+                  this Agreement and the Deliverables to which it is a
+                  party do not and will not conflict with, or constitute a
+                  breach of, or constitute a default under, or result in
+                  the creation or imposition of any lien upon the property
+                  of any CCAN Party by reason of the terms of (i) any
+                  contract or agreement to which any CCAN Party is a party
+                  or which is binding on it, (ii) any requirement of law
+                  applicable to any CCAN Party, or (iii) the certificate,
+                  memorandum or articles of incorporation or amalgamation,
+                  bylaws or other of any CCAN Party.
+
+
+(ii)
+                  Governmental Authorization. No approval, consent,
+                  exemption, authorization, or other action by, or notice
+                  to, or filing with, any
+
+
+------------------------------------------------------------------------
+ 
+                  governmental authority or other person is necessary or
+                  required in connection with the execution, delivery or
+                  performance by, or enforcement against any CCAN Party of
+                  this Agreement or the Deliverables.
+
+
+(b)
+            TCN represents and warrants to each of AV and ADH that (i) the
+            jurisdiction of organization and the location of the chief
+            executive office of TCN is 5025 Orbiter Drive, Building 1,
+            Suite 401, Mississauga, Ontario L4W 4Y5; and (ii) the only
+            jurisdiction in which TCN has assets or carries on business is
+            Ontario.
+
+
+Each of the foregoing representations and warranties shall be deemed to be 
+made on the date of this Agreement, and shall be deemed to be repeated by 
+each CCAN Party on the date of each Closing (as defined below).
+
+
+4
+      Escrow Agreement.
+
+
+(a)
+            The Parties agree to appoint Norton Rose Fulbright Canada LLP
+            as escrow agent (the Escrow Agent) to receive, hold and
+            administer the Additional Payment and the Deliverables (each as
+            defined below) pursuant to and in accordance with the Escrow
+            Agreement attached hereto as Exhibit B (the Escrow Agreement
+            ).
+
+
+(b)
+            Provided the executed Termination and Release Agreement and the
+            items set forth in Section 5(a) remain held in escrow pursuant
+            to the Escrow Agreement, neither  ADH nor AV (collectively, the 
+            Avonlea Parties) shall take any action to enforce, make
+            demand under or otherwise exercise any rights under the
+            Transaction Documents or the Notes until on or prior to the
+            first anniversary of the Effective Date (the Outside Date)
+            (the Forbearance Period). Notwithstanding the foregoing, but
+            without prejudice to any other right of the  Avonlea Parties in
+            this Agreement, the Avonlea Parties will not be bound to
+            forbear and the Avonlea Parties will be entitled in their
+            absolute discretion to terminate the Forbearance Period for any
+            reason whatsoever.
+
+
+5
+      TCN Closing
+
+
+(a)
+            Upon execution of this Agreement, the Parties shall deliver to
+            the Escrow Agent the following, in form and substance
+            satisfactory to ADH in its sole discretion with each such item
+            subject to the waiver or deferral by ADH, in its sole
+            discretion, with such items to be held and released by the
+            Escrow Agent in accordance with the Escrow Agreement:
+
+
+(i)
+                  an assignment duly executed by CCCSub  pursuant to which
+                  CCCSub agrees to assign, transfer and deliver to ADH or
+                  its nominee certain assets of TCN pursuant to an
+                  assignment in the form attached hereto as Exhibit C (the 
+                  TCN Assignment) together will all necessary ancillary
+                  documentation in connection therewith;  
+
+
+(ii)
+                  a termination and release agreement duly executed by the
+                  Parties in the form attached hereto as Exhibit D (the 
+                  Termination and Release
+
+
+------------------------------------------------------------------------
+ 
+                  Agreement), pursuant to which ADH and AV (i) terminate
+                  the Notes and Transaction Documents, subject to certain
+                  provisions therein which will expressly survive the
+                  termination of the Notes and the Transaction Documents,
+                  (ii) acknowledge that the Total Outstanding Balance is
+                  satisfied in full, and (iii) release all claims that
+                  either may have against any one or more of CCC, CCCSub
+                  and 2264793 in connection with those arising out of the
+                  Notes, Transaction Documents and Total Outstanding
+                  Balance, subject to the exclusion of any such claims
+                  arising out of or related to provisions which expressly
+                  survive the termination of the Notes and the Transaction
+                  Documents;
+
+
+(iii)
+                  the CCCSub Direction to pay duly executed by CCCSub;
+
+
+(iv)
+                  the ADH Direction to pay duly executed by ADH, if deemed
+                  necessary;
+
+
+(v)
+                  a restrictive covenant agreement duly executed by the
+                  Parties;
+
+
+(vi)
+                  a legal opinion of CCCSubs legal counsel, addressed to
+                  ADH, relating to the existence and capacity of CCCSub,
+                  the due authorization, execution and delivery of the
+                  Deliverables by CCCSub, to which CCCSub is a party, the
+                  existence of all requisite approvals, non-conflict with
+                  laws, enforceability and such other matters as may be
+                  reasonably requested by ADH or its legal counsel;
+
+
+(vii)
+                  a legal opinion of TCNs legal counsel, addressed to ADH,
+                  relating to the existence and capacity of TCN, the due
+                  authorization, execution and delivery of the Deliverables
+                  by TCN, to which TCN is a party, the existence of all
+                  requisite approvals, non-conflict with laws, share
+                  capital of TCN, enforceability and such other matters as
+                  may reasonably be requested by ADH or its legal counsel;
+                  and
+
+
+(viii)
+                  the Escrow Agreement duly executed by the Parties
+
+
+(ix)
+                  the Post-Closing Escrow Agreement duly executed by ADH
+                  and CCCSub;
+
+
+            collectively, the Deliverables.
+
+
+(b)
+            On or prior to the Outside Date, ADH or its nominee shall have
+            the option, in its sole discretion, to deliver to the Escrow
+            Agent a total of CAD $1,500,000 the (Additional Payment) in
+            consideration for the TCN Assignment.
+
+
+(c)
+            Upon receipt by the Escrow Agent of all items set forth in
+            Section 5(a), and the Additional Payment, ADH shall instruct
+            the Escrow Agent:
+
+
+(i)
+                  to release from escrow to ADH or its nominee the
+                  documents set forth in Section 5(a) (excluding the
+                  Termination and Release Agreement and the Escrow
+                  Agreement);
+
+
+(ii)
+           to release from escrow and disburse to ADH CAD $500,000 (the 
+           ADH Amount) of the Additional Payment (the ADH CAD Payment),
+
+
+
+------------------------------------------------------------------------
+ 
+(iii)
+                  to release from escrow and disburse to CCCSub CAD
+                  $1,000,000 of the Additional Payment (the CCCSub Amount
+                  ), subject to a direction to pay given to the Escrow
+                  Agent by CCCSub (the CCCSub Direction to Pay) pursuant
+                  to which the Escrow Agent shall disburse
+
+
+(A)
+                        to the Escrow Agent:
+
+
+1)
+                              CAD $60,000 of the CCCSub Amount, in partial
+                              satisfaction of amounts owing to it in
+                              respect of legal fees and disbursements
+                              incurred in connection with the transactions
+                              contemplated in the Recitals hereto;
+
+
+2)
+                              CAD $39,000 of the CCCSub Amount (the 
+                              Remaining Fees) in satisfaction of amounts
+                              owing to it by CCC, CCCSub and 2264793
+                              (collectively, the CCC Group) in respect of
+                              legal services provided to the CCC Group;
+
+
+3)
+                              the Settlement Costs to be deducted from the
+                              CCCSub Amount in satisfaction of amounts
+                              owing to it in respect of costs and expenses
+                              incurred pursuant to Section 10 of this
+                              Agreement;
+
+
+4)
+                              such other amount, as determined by the
+                              Escrow Agent at the time of the TCN Closing,
+                              to be deducted from the CCCSub Amount in
+                              partial satisfaction of all amounts owing to
+                              the Escrow Agent by the CCC Group, AV or ADH,
+                              as at the date of the TCN Closing, or
+                              incurred in connection therewith (
+                              Outstanding Fees);
+
+
+5)
+                              $119,381.43 of the CCCSub Amount (the 
+                              Dispute Amount) to be deposited with the
+                              Escrow Agent pursuant to the Post-Closing
+                              Escrow Agreement which such funds shall be
+                              released in the manner set forth in such
+                              Post-Closing Escrow Agreement for the purpose
+                              of settling the claims among Darryl W.
+                              Tempest and 2435869 Ontario Inc.
+                              (collectively, the Plaintiffs) and TCN,
+                              CCC, CCCSub, 1749945 Ontario Inc. c.o.b 
+                              Healthnet Enterprises, Benjamin Ward, Douglas
+                              Scott Keevil, Lee Simpson, John Esterireiro,
+                              Silvio Serrano, Peter Strang, Richard
+                              Wachsberg and Kim Wei (collectively the 
+                              Defendants) as described in the minutes of
+                              settlement duly executed by the Plaintiffs
+                              and Defendants and filed with the Ontario 
+                              Superior Court of Justice; and
+
+
+6)
+                              the Restructuring Amount to be deposited with
+                              the Escrow Agent pursuant to the Post-Closing
+                              Escrow Agreement which such funds shall be
+                              released in the manner set forth in such
+                              Post-Closing Escrow Agreement for the
+                              purposes set forth in Section 2 hereof,
+
+
+------------------------------------------------------------------------
+ 
+(B)
+                        to AV, CAD $10,000 of the CCCSub Amount in
+                        satisfaction of amounts owing to it in respect to
+                        costs and expenses incurred pursuant to the CCC
+                        Legend Removal; and
+
+
+(C)
+                        to Beadle Raven LLP CAD $20,000 of the CCCSub
+                        Amount, in partial satisfaction of amounts owing to
+                        it in respect of legal fees and disbursements
+                        incurred in connection with prior transactions
+                        involving CCCSub and TCN.
+
+
+(d)
+            Upon release by the Escrow Agent of the items set forth in
+            Section 5(c),  the TCN closing shall have occurred (the TCN
+            Closing).
+
+
+6
+      PubCo Closing
+
+
+(a)
+            Upon CCCs closing of (i) the private placement pursuant to a
+            letter agreement dated December 6, 2016 among J. Proust &
+            Associates Inc., Michael Steele, ADH, TCN, CCCSub, and CCC
+            attached hereto as Exhibit E (the PubCo Agreement); or (ii)
+            such other similar financing, listing transaction or milestone
+            satisfactory to ADH in its sole discretion (a PubCo
+            Arrangement), ADH or its nominee shall instruct the Escrow
+            Agent to release from escrow to CCC, CCCSub and 2264793, the
+            Termination and Release Agreement.
+
+
+(b)
+            Upon release by the Escrow Agent of the Termination and Release
+            Agreement, the termination and release shall have occurred (the 
+            PubCo Closing).
+
+
+7
+      Closings
+
+
+(a)
+            The TCN Closing and the PubCo Closing are distinct and separate
+            from each other. The TCN Closing, or the failure thereof to
+            occur, shall not derogate from the PubCo Closing. The PubCo
+            Closing, or the failure thereof to occur, shall not derogate
+            from the TCN Closing.
+
+
+(b)
+            If neither the TCN Closing nor the PubCo Closing has occurred
+            by the Outside Date, this Agreement shall terminate and the
+            Parties shall instruct the Escrow Agent to break escrow and
+            return to the respective Parties any items deposited by that
+            Party then held by the Escrow Agent pursuant to the Escrow
+            Agreement.  
+
+
+(c)
+            In the event that the TCN Closing has occurred and the PubCo
+            Closing has not occurred prior to the Outside Date, the Parties
+            agree that the Total Outstanding Balance shall be deemed to
+            have been reduced by the ADH CAD Payment, with the ADH CAD
+            Payment applied first to the interest under the Notes on a pro
+            rata basis, secondly to the outstanding principal under the
+            Notes on a pro rata basis,
+
+
+------------------------------------------------------------------------
+ 
+            thirdly to any other amount due and payable under or pursuant
+            to the Forbearance Agreement, and fourthly to any amount due
+            under the Consulting Agreement.
+
+
+8
+      TCN Documents TCN shall, as a condition precedent to the
+      effectiveness of this Agreement, deliver each of the following to
+      ADH, in form and substance satisfactory to ADH in its sole
+      discretion:
+
+
+(a)
+            a grid promissory note (the Grid Note) granted by TCN to ADH,
+            duly executed by TCN, bearing interest at 10% per annum, with
+            an initial outstanding loan amount equal to $50,000, being the
+            amount previously advanced by ADH to, or for the account of,
+            TCN and upon the occurrence of the TCN Closing and/or the PubCo
+            Closing (as applicable), ADH shall record in the Grid Note, the
+            Settlement Costs, such recording to evidence an advance under
+            the Grid Note;
+
+
+(b)
+            a general security agreement (the TCN GSA) granted by TCN to
+            ADH, duly executed by TCN, granting security over all present
+            and after-acquired property of TCN;
+
+
+(c)
+            an officers certificate from TCN certifying constating
+            documents and by-laws, a resolution of the Board of Directors
+            of TCN approving this Agreement and the transactions
+            contemplated hereby, the Grid Note, the TCN GSA and the TCN
+            Assignment (collectively, the TCN Documents) in connection
+            with the TCN Closing and providing a certificate of incumbency,
+            and as to other matters customarily provided for therein and as
+            required by ADH;
+
+
+(d)
+            a resolution of the sole shareholder of TCN, duly certified by
+            an officer of TCN, approving the TCN Assignment and the other
+            transactions contemplated by this Agreement;
+
+
+(e)
+            a legal opinion of TCNs legal counsel, addressed to ADH,
+            relating to the existence and capacity of TCN, the due
+            authorization, execution and delivery of the TCN Documents by
+            TCN, the existence of all requisite approvals, non-conflict
+            with laws, enforceability and such other matters as may be
+            reasonably requested by ADH or its legal counsel; and
+
+
+(f)
+            such other documents, instruments, information, certificates
+            and assurances as ADH may reasonably request.
+
+
+9
+      CCCSub Documents CCCsub shall, as a condition precedent to the
+      effectiveness of this Agreement, deliver to  ADH, in form and
+      substance satisfactory to ADH in its sole discretion:
+
+
+(a)
+            an officers certificate from CCCSub certifying constating
+            documents and by-laws; and a resolution of the Board of
+            Directors of CCCSub approving the transactions contemplated by
+            this Agreement, providing a certificate of incumbency, and as
+            to other matters customarily provided for therein and as
+            required by ADH;
+
+
+(b)
+            a resolution of the sole Shareholder of CCCSub approving the
+            transactions contemplated by this Agreement, duly certified by
+            an officer of CCCSub;
+
+
+------------------------------------------------------------------------
+ 
+(c)
+             a legal opinion of CCCSubs legal counsel, addressed to ADH,
+            relating to the existence and capacity of CCCSub, the due
+            authorization, execution and delivery of the Settlement
+            Agreement, the existence of all requisite approvals,
+            non-conflicts with laws and such other matters as may be
+            reasonably requested by ADH or its legal counsel; and
+
+
+(d)
+            such other documents, instruments, information, certificates
+            and assurances as ADH may reasonably request.
+
+
+10
+      Payment of Costs and Expenses TCN absolutely and unconditionally
+      agrees to pay to ADH, on demand by ADH at any time and as often as
+      the occasion therefore may require, whether or not all or any of the
+      transactions contemplated by this Agreement are consummated: all
+      reasonable fees and disbursements of legal counsel engaged by ADH in
+      connection with the preparation, negotiation, execution, delivery,
+      administration or enforcement of this Agreement, the TCN Documents,
+      the Transaction Documents or the CCC Legend Removal any agreements or
+      documents delivered in connection with the transactions contemplated
+      hereby and thereby and reasonable expenses which shall at any time be
+      incurred or sustained by ADH or any of its directors, officers,
+      employees or agents as a consequence or in any way in connection with
+      the preparation, negotiation, execution, delivery, administration or
+      enforcement of this Agreement, the TCN Documents, the Transaction
+      Documents or the CCC Legend Removal and any agreements prepared,
+      negotiated, executed or delivered in connection with the transactions
+      contemplated hereby (collectively, the Settlement Costs), such
+      Settlement Costs to be recorded by ADH at any time and as often as
+      the occasion may require on the Grid Note, each such recording to
+      evidence an advance under the Grid Note.
+
+
+11
+      TCN Change in Jurisdictions TCN shall promptly give notice to each of
+      ADH and AV of any proposed change in (a) the location of its chief
+      executive office from the province in which it is currently located;
+      and (b) any proposed change to any relevant jurisdictions where it
+      has assets or carries on business.
+
+
+12
+      Notices.  All written notices or other written communications
+      required or contemplated under this Agreement shall be deemed
+      properly given when provided to the Party entitled thereto by
+      personal delivery, by registered or certified mail, by overnight
+      courier of national reputation,  by facsimile (with confirmation of
+      transmission) or by electronic mail, in each case delivered or sent
+      to the party to whom notice is being given to the business address,
+      facsimile number or email address set forth below or, as to each
+      party, at such other business address, facsimile number, or email
+      address as it may hereafter designate in writing to the other party
+      pursuant to the terms of this Section:
+
+
+If to ADH or AV:
+      Avonlea-Drewry Holdings Inc.
+      Avonlea Ventures Inc.
+      Attn: Michael Steele
+      15466 The Gore Road
+      Caledon, Ontario L7C 3E5
+
+------------------------------------------------------------------------
+ 
+      Facsimile No.: (905) 880-7866
+      Email: steeleconsult@aol.com
+
+
+with a copy to:
+      Norton Rose Fulbright Canada LLP
+      3700 Devon Tower, 400 Third Avenue S.W.
+      Calgary, Alberta T2P 4H2
+                        Attn: James OSullivan
+                        Facsimile No.: (403)267-9550
+                        Email: james.osullivan@nortonrosefulbright.com
+
+
+If to CCC:
+      Canadian Cannabis Corp.
+      Attn:  Scott Keevil, CEO
+      2368 Lakeshore Road West, Suite 205
+      Oakville, Ontario L6L 1H5
+      Facsimile No.: (416) 596-0907
+Email:
+      scott.kevil@gmail.com
+
+
+with a copy to:
+      Grady Thrasher, Esq.
+      Thrasher Worth LLC
+      Five Concourse Parkway, Suite 3200
+      Atlanta, Georgia 30328
+      Facsimile No.: (404) 662-2391
+      Email: gthrasher@thrasherworth.com
+
+
+If to CCCSub:
+      Canada Cannabis Corp.
+      Attn: Scott Keevil, CEO
+      2368 Lakeshore Road West, Suite 205
+      Oakville, Ontario L6L 1H5
+      Facsimile No.: (416) 596-0907
+Email:
+      scott.kevil@gmail.com
+
+
+with a copy to:
+      William Jones  
+      Barrister & Solicitor
+      Suite 2702  401 Bay Street
+      Toronto, Ontario M5H 2Y4
+      Facsimile No.: (416) 596-0907
+      Email: whjones@williamjones.ca
+
+
+If to TCN:
+      The Clinic Network
+      Attn: Kim Wei
+      5025 Orbiter Drive - Building 1 - Suite 401
+                        Mississauga, Ontario L4W 4Y5
+      Facsimile No.: (905) 233-2421
+      Email: kim@theclinicnetwork.ca
+
+
+13
+      New or Different Facts; No Effect.  Except as provided herein, this
+      Agreement shall be, and remain, in effect despite any alleged breach
+      of this Agreement or the discovery or existence
+
+
+------------------------------------------------------------------------
+ 
+      of any new or additional fact, or any fact different from that which
+      either Party now knows or believes to be true. Notwithstanding the
+      foregoing, nothing in this Agreement shall be construed as, or
+      constitute, a release of any Party's rights to enforce the terms of
+      this Agreement.
+
+
+14
+      Entire Agreement.  This Agreement, including all exhibits and
+      attachments hereto, constitutes the entire agreement by and among the
+      Parties with respect to the subject matter hereof, supersedes all
+      oral agreements, undertakings and understandings among the Parties
+      with respect to the subject matter hereof, and may not be amended,
+      modified or terminated in any respect except by an instrument in
+      writing executed by all Parties.
+
+
+15
+      Governing Law and Venue.  This Agreement shall be deemed to have been
+      entered into and shall be interpreted and construed in accordance
+      with the laws of the Province of Ontario without regard to its
+      conflict of laws principles.  The Parties hereby attorn to the
+      exclusive jurisdiction of the courts of the Province of Ontario for
+      the resolution of any and all claims arising out of or in connection
+      with this Settlement Agreement.
+
+
+16
+      Confidentiality.  Notwithstanding anything else, the terms and
+      provisions of this Agreement shall be treated by the Parties as
+      strictly confidential, and no Party shall disclose the same to any
+      person or entity other than their respective regulators, management
+      employees, partners, principles, attorneys, accountants, appropriate
+      taxing and governmental authorities or as otherwise required by law.
+
+
+17
+      Further Documents and Actions.  Each Party shall execute such further
+      documents and will perform such further acts as may be necessary or
+      appropriate to effectuate this Agreement or its purposes.
+
+
+18
+      Assignment. This Agreement and the rights and obligations hereunder
+      will not be assignable, in whole or in part, by the Parties
+      (excluding ADH and AV) without the prior written consent of ADH. Each
+      of ADH and AV shall have the right to assign its rights and
+      obligations hereunder to any person in its sole discretion.
+
+
+19
+      Binding Nature.  This Agreement shall be binding upon and shall inure
+      to the benefit of the Parties and their respective officers,
+      directors, employees, agents, subsidiaries, parent corporations,
+      affiliates, predecessors, successors, and assigns.
+
+
+20
+      Severability.  In the event any provision of this Agreement is
+      determined to be invalid or unenforceable by a court of competent
+      jurisdiction, the remainder of this Agreement shall remain in full
+      force and effect.
+
+
+21
+      General.  Each Party to this Agreement acknowledges that it has had
+      an opportunity to review this Agreement with legal counsel regarding
+      the meaning of this Agreement, the obligations imposed by this
+      Agreement and the legal implications of this Agreement, as well as
+      the advisability of entering into this Agreement.  Each Party
+      acknowledges that it is executing this Agreement voluntarily and of
+      its own free will, without any coercion or duress, and that this
+      Agreement constitutes a legal, valid, and binging agreement,
+      enforceable in accordance to its terms.
+
+
+------------------------------------------------------------------------
+ 
+22
+      Counterparts and Signatures.  This Agreement may be executed in
+      multiple counterparts, each of which when executed and delivered
+      shall be deemed an original, but all of such counterparts together
+      shall constitute one and the same instrument. Facsimile signatures or
+      signatures submitted electronically shall constitute original
+      signatures for purposes of this Agreement.
+
+
+[signatures on following page]
+
+
+------------------------------------------------------------------------
+ 
+        IN WITNESS WHEREOF the Parties hereto have signed this Agreement, 
+or caused it to be signed by their duly authorized representatives, as of 
+the Effective Date.
+
+
+CANADIAN CANNABIS CORP.,
+a Delaware corporation
+
+
+By: _/s/ Scott Keevil_________________
+
+Printed Name: _Scott Keevil______________
+
+Title: __Director_______________________
+
+AVONLEA-DREWRY HOLDINGS INC.,
+an Ontario corporation
+
+
+By: ___/s/ Michael Steele________________
+
+Printed Name: _Michael Steele_____________
+
+Title: ________________________________
+
+
+
+
+CANADA CANNABIS CORP.,
+an Ontario corporation
+
+
+By: _/s/ Scott Keevil_________________
+
+Printed Name: _Scott Keevil______________
+
+Title: __Director_______________________
+
+AVONLEA VENTURES INC.,
+an Ontario corporation
+
+
+By: ___/s/ Michael Steele________________
+
+Printed Name: _Michael Steele_____________
+
+Title: ________________________________
+
+
+
+
+2264793 ONTARIO INC.,
+an Ontario corporation
+
+
+By: _/s/ Scott Keevil_________________
+
+Printed Name: _Scott Keevil______________
+
+Title: __Director_______________________
+
+THE CLINIC NETWORK,
+an Ontario corporation
+
+
+By: _____/s/ Kim Wei__________________
+
+Printed Name: ___Kim Wei_______________
+
+Title: __Managing Director_______________
+
+
+
+
+
+[signature page to the Settlement Agreement]
+
+
+
+
+
+------------------------------------------------------------------------
+ 
+EXHIBIT A
+
+
+FORBEARANCE AGREEMENT
+
+
+(attached)
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+EXHIBIT B
+
+
+ESCROW AGREEMENT
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+EXHIBIT C
+
+
+TCN ASSIGNMENT
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+EXHIBIT D
+
+
+TERMINATION AND RELEASE
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+EXHIBIT E
+
+
+PUBCO AGREEMENT
+
+
+(attached)
+
+
+
+
+
+
