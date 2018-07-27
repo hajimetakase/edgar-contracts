@@ -1,0 +1,1813 @@
+ EX-10.3 4 d57614a3exv10w3.htm FORM OF ASCENT MEDIA GROUP, LLC 2006 
+LONG-TERM INCENTIVE PLAN
+
+Exhibit 10.3
+
+
+Form of
+ASCENT MEDIA GROUP, LLC
+2006 LONG-TERM INCENTIVE PLAN
+(As Amended and Restated Effective August ___, 2008, Subject to Approval)
+
+     Ascent Media Group, LLC, a Delaware limited liability company (the 
+Company), adopted the Ascent Media Group, LLC 2006 Long-Term Incentive 
+Plan for certain management and key employees, to secure the loyalty and 
+continued services of and to provide a long term incentive to such 
+personnel, to promote profitability and efficiency in the operations of the 
+Company and the Employers, and to drive synergies with other DHC companies. 
+The plan was originally effective as of August 3, 2006 and is hereby 
+amended and restated effective as of August ___, 2008 (as so amended and 
+restated, the Plan).
+
+SECTION 1 DEFINITIONS:
+
+     The terms set forth below have the definitions indicated whenever used 
+in this Plan.
+
+     (a) Account: An account established under Section 3 for each Grantee 
+who is deemed to exercise vested PARs.
+
+     (b) Affiliate: With respect to any Person, any other Person 
+Controlling, Controlled by, or under common Control with such Person.
+
+     (c) AMC means Ascent Media CANS, LLC, a Delaware limited liability 
+company.
+
+     (d) AMC Capital Expenditures: For any relevant period, the aggregate 
+amount of expenses of AMC and its consolidated Subsidiaries that are 
+required to be capitalized under generally accepted accounting principles.
+
+     (e) AMC Debt: As of any Valuation Date, the total amount of loans, 
+advances, and other indebtedness, including intercompany indebtedness 
+(other than intercompany indebtedness between AMC and any consolidated 
+Subsidiary of AMC), before reduction for any unamortized discount, of AMC 
+and its consolidated Subsidiaries as of such Valuation Date, determined in 
+accordance with generally accepted accounting principles.
+
+     (f) AMC EBITDA: EBITDA of AMC and its consolidated Subsidiaries from 
+the operation of the captive audience television network business conducted 
+by AMC and its consolidated Subsidiaries.
+
+     (g) Balance Sheet: As of any relevant date, the balance sheet of the 
+Company and its consolidated Subsidiaries as of such date prepared in 
+accordance with generally accepted accounting principles.
+
+     (h) beneficial ownership: As determined pursuant to Rule 13d-3 and 
+Rule 13d-5 of the Exchange Act and any successor regulation, except that a 
+Person shall be deemed to
+
+ 
+
+------------------------------------------------------------------------
+
+
+ 
+
+have beneficial ownership of all securities that such Person has or 
+acquires the right to acquire, whether such right is exercisable 
+immediately or after the passage of time.
+
+     (i) Beneficiary: The Person or Persons designated by a Grantee 
+pursuant to a Grant Agreement to receive the amount, if any, that becomes 
+payable under this Plan upon the death of the Grantee.
+
+     (j) Cash-Basis Tax Payments: For any calendar year, the aggregate 
+cash actually expended by the Company and its consolidated Subsidiaries and 
+by AMC and its consolidated Subsidiaries during such calendar year for the 
+payment of taxes other than federal or state income taxes, regardless of 
+the calendar year to which such taxes are attributable under generally 
+acceptable accounting principles.
+
+     (k) Change in Control: With respect to the Company at any time the 
+Company is a corporation (or at any time the Company is not a corporation, 
+in which case any reference to stock below will be deemed to refer to 
+ownership interests in such non-corporate entity and any reference to 
+shareholders below will be deemed to refer to the holders of such 
+ownership interests), a change in ownership of the Company or a change in 
+the ownership of a substantial portion of the Companys assets, all as 
+defined below:
+
+          (i) A change in ownership of the Company will occur on the date 
+that any one Person, or more than one Person acting as a group (a Group), 
+acquires ownership of stock of the Company that, together with stock held 
+by such Person or Group, constitutes more than 50% of the total fair market 
+value or more than 50% of the total voting power of the stock of the 
+Company. However, if any Person or Group is considered to own more than 50% 
+of the total fair market value or more than 50% of the total voting power 
+of the stock of the Company, the acquisition of additional stock by the 
+same Person or Group is not considered to cause a change in the ownership 
+of the Company. An increase in the percentage of stock owned by any Person 
+or Group as a result of a transaction in which the Company acquires its 
+stock in exchange for property will be treated as an acquisition of stock 
+for purposes of this Section 1(k)(i). This Section 1(k)(i) applies only 
+when there is a transfer of stock of the Company (or issuance of stock of 
+the Company) and stock in the Company remains outstanding after the 
+transaction.
+
+          (ii) A change in the ownership of a substantial portion of the 
+Companys assets will occur on the date that any Person or Group acquires 
+(or has acquired during the 12-month period ending on the date of the most 
+recent acquisition by such Person or Group) assets from the Company that 
+have a total gross fair market value equal to or exceeding 40% of the total 
+gross fair market value of all of the assets of the Company immediately 
+prior to such acquisition or acquisitions. For this purpose, gross fair 
+market value means the value of the assets of the Company, or the value of 
+the assets being disposed of, determined without regard to any liabilities 
+associated with such assets.
+
+          (iii) There is no Change in Control when there is a transfer to a 
+Person that is Controlled by the shareholders of the Company immediately 
+after the transfer, determined as follows: A transfer of assets by the 
+Company is not treated as a change in the ownership of such assets if the 
+assets are transferred to (A) a Person who is a shareholder of the Company 
+immediately before the asset transfer, in exchange for or with respect to 
+stock of the Company;
+
+-2-
+
+------------------------------------------------------------------------
+
+
+ 
+
+(B) an entity, 50% or more of the total value or 50% or more of the total 
+voting power of which is owned, directly or indirectly, by the Company; (C) 
+a Person or Group that owns, directly or indirectly, 50% or more of the 
+total value or 50% or more of the total voting power of all of the 
+outstanding stock of the Company; or (D) an entity, at least 50% of the 
+total value or 50% of the total voting power of which is owned, directly or 
+indirectly, by a Person described in (C) of this paragraph. For purposes of 
+this Section 1(k)(iii) and except as provided in the preceding sentence, a 
+Persons status is determined immediately after the transfer of the assets. 
+Notwithstanding anything to the contrary in this Plan, a direct or indirect 
+spin-off or split-off of the Company from DHC, however effected (including, 
+for example, by a pro rata distribution or an exchange offer) will not be a 
+Change in Control under this Plan.
+
+          (iv) This definition is intended to comply with the definition of 
+a change in ownership of the Company or a change in the ownership of a 
+substantial portion of the Companys assets under Code Section 409A, and 
+shall be interpreted in a manner consistent with such intent.
+
+     (l) Change in Control Net Company Value: As defined in Section 
+1(uu)(iii).
+
+     (m) Code: The Internal Revenue Code of 1986, as amended. Unless 
+otherwise indicated, any reference in this Plan to a section of the Code 
+shall be deemed also to refer to any Treasury regulations promulgated 
+thereunder.
+
+     (n) Committee: The Committee will consist of two or more individuals 
+appointed by DHC to administer this Plan. Notwithstanding the above, at any 
+time the Company is a corporation and shares of the Companys stock are 
+publicly traded, the Committee will consist of two or more individuals 
+appointed by the Board of Directors of the Company. To the extent 
+compliance with Code Section 162(m) is intended with respect to any PAR, 
+the Committee will consist of outside directors as defined under Code 
+Section 162(m) and related Treasury regulations and, with respect to 
+participation by individuals who are subject to Section 16 of the Exchange 
+Act, the Committee will consist of non-employee directors as defined 
+under Rule 16b-3 under the Exchange Act, and will comply with applicable 
+stock exchange requirements.
+
+     (o) Company: Ascent Media Group, LLC, a Delaware limited liability 
+company.
+
+     (p) Company Capital Expenditures: For any relevant period, the 
+aggregate amount of expenses of the Company and its consolidated 
+Subsidiaries that are required to be capitalized under generally accepted 
+accounting principles.
+
+     (q) Company Debt: As of any Valuation Date, the total amount of 
+loans, advances, and other indebtedness, including intercompany 
+indebtedness (other than intercompany indebtedness between the Company and 
+any consolidated Subsidiary of the Company), before reduction for any 
+unamortized discount, of the Company and its consolidated Subsidiaries as 
+of such Valuation Date, determined in accordance with generally accepted 
+accounting principles.
+
+-3-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (r) Company EBITDA: EBITDA of the Company and its consolidated 
+Subsidiaries from all sources, which for any period will equal the total of 
+CS EBITDA, NS Contracted EBITDA and NS Non-Contracted EBITDA for such 
+period.
+
+     (s) CS EBITDA means EBITDA of the Company and its consolidated 
+Subsidiaries from the creative services and media management services and 
+digital services businesses (but excluding the network services business) 
+conducted by the Company and its consolidated Subsidiaries.
+
+     (t) Company Enterprise Value: As of any Valuation Date, the sum of 
+(A) the EBITDA Component, plus (B) the DCF Component.
+
+     (u) Control: The possession, direct or indirect, of the power to 
+direct or cause the direction of the management and policies of a Person, 
+whether through the ownership of voting securities or voting interests, by 
+contract or otherwise.
+
+     (v) Control Person: Each of (i) the Chairman of the Board of DHC; 
+(ii) the President of DHC; (iii) any Senior Vice President of DHC; (iv) 
+each of the directors of DHC; and (v) the respective family members, 
+estates and heirs of each of the Persons referred to in clauses (i) through 
+(iv) above and any corporation, trust or other entity for the primary 
+benefit of, or Controlled by, any of such Persons or their respective 
+family members or heirs. Family members for this purpose means the 
+parents, descendants, stepchildren, step grandchildren, nieces and nephews, 
+and the spouse of the specified Person.
+
+     (w) Cumulative Free Cash Flow: As of any Valuation Date, aggregate 
+Free Cash Flow for all calendar years beginning on or after January 1, 2006 
+and ending on or before such Valuation Date.
+
+     (x) Current Employee: Any Person who is an employee of the Company 
+or any of its Affiliates.
+
+     (y) DCF Component: As of any Valuation Date, the net present value, 
+determined by applying an annual discount rate of 10%, of NS Contracted 
+Free Cash Flow, determined utilizing the assumptions set forth in Part 2 of 
+Schedule I.
+
+     (z) DHC: Discovery Holding Company, and any successor (by merger, 
+consolidation, transfer or otherwise) to all or substantially all of its 
+assets; provided that if a Transferee Parent becomes the beneficial owner 
+of all or substantially all of the equity securities of the Company then 
+beneficially owned by DHC as to which DHC has dispositive power, the term 
+DHC shall mean such Transferee Parent and any successor (by merger, 
+consolidation, transfer or otherwise) to all or substantially all of its 
+assets.
+
+     (aa) Disabled: Grantees permanent and total disability, as defined 
+under the long term disability plan of the Employer or any Affiliate in 
+which the Grantee participates or, if the Grantee does not participate in 
+such a plan, Disabled will have the meaning set forth in Section 72(m)(7) 
+of the Code. This definition also will apply to the term Disability, as 
+the context requires.
+
+-4-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (bb) EBITDA means, for any relevant period, operating income before 
+interest, taxes, depreciation, amortization, non-cash compensation charges 
+or credits and any write-down for impairment of assets, all as determined 
+in accordance with generally accepted accounting principles.
+
+     (cc) EBITDA Component means, as of any Valuation Date, the sum of CS 
+EBITDA, NS Non-Contracted EBITDA and AMC EBITDA, in each case for the 
+calendar year ending on the Valuation Date, multiplied by 7.5. 
+Notwithstanding the foregoing, (i) if the Company and its Subsidiaries 
+cease to provide substantial managerial services to AMC, AMC EBITDA 
+included in the calculation of the EBITDA Component with respect to the 
+Valuation Date for the calendar year in which such cessation occurs (the 
+Cessation Year) and for each year thereafter shall be AMC EBITDA for the 
+12 calendar months ending on the last day of the month preceding the month 
+in which such cessation occurs (or if such date occurs on the last day of a 
+month, the twelve months ending on the cessation date), and (ii) if all or 
+substantially all of the assets or equity of AMC is sold to a third party, 
+in lieu of including any portion of AMC EBITDA, there shall be included in 
+the calculation of the EBITDA Component with respect to which the Valuation 
+Date for the year in which such sale occurs and each year thereafter an 
+amount equal to the fair market value of the Net Consideration received 
+with respect to the sale of such assets or equity such that, as of any such 
+Valuation Date, EBITDA Component shall mean the sum of (A) the sum of CS 
+EBITDA plus NS Non-Contracted EBITDA, in each case for the calendar year 
+ending on such Valuation Date, multiplied by 7.5, plus (B) the fair market 
+value of such Net Consideration.
+
+     (dd) Employee: (i) An employee or officer of any Employer, or (ii) 
+any other Person designated from time to time by the Committee as an 
+Employee for purposes of this Plan.
+
+     (ee) Employer: Each of the Company and any direct or indirect 
+Subsidiary of the Company.
+
+     (ff) Equity Unit: A phantom interest created solely for purposes 
+of the computation of PAR Value under this Plan.
+
+     (gg) Exchange Act: The Securities Exchange Act of 1934, as amended.
+
+     (hh) Exercise Date: As to any vested PAR held by a Grantee, the date 
+on which such PAR is deemed exercised by the Grantee.
+
+     (ii) fair market value: As to any asset, the cash price at which a 
+willing seller would sell and a willing buyer would buy such asset, both 
+having knowledge of all relevant facts, in an arms-length transaction 
+without time constraints and neither being under any compulsion to buy or 
+sell, as determined by the Committee by any reasonable means, including by 
+an appraisal obtained from a reasonably qualified independent appraiser.
+
+     (jj) FCF Value: As of any Valuation Date, the quotient obtained by 
+dividing (i) Cumulative Free Cash Flow as of such Valuation Date multiplied 
+by .06, by (ii) .05.
+
+     (kk) Forfeitable Benefits: As defined in Section 2(h).
+
+-5-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (ll) Free Cash Flow: For any calendar year, (i) the sum of Company 
+EBITDA plus AMC EBITDA, minus (ii) the sum of Company Capital Expenditures 
+plus AMC Capital Expenditures plus Cash-Basis Tax Payments plus the portion 
+of any debt service payments properly allocable to interest on Company Debt 
+and AMC Debt for such calendar year. Notwithstanding the foregoing, if the 
+Company and its Subsidiaries cease to provide substantial managerial 
+services to AMC, or if all or substantially all of the assets or equity of 
+AMC is sold to a third party, Free Cash Flow for the calendar year in which 
+such cessation or sale occurs shall include AMC EBITDA, and shall be 
+reduced by AMC Capital Expenditures, Cash Basis Tax Payments attributable 
+to AMC and interest on AMC Debt, solely for the period of time from January 
+1 of such calendar year through the date of cessation or sale, as 
+applicable, and thereafter shall not include AMC EBITDA or be reduced by 
+AMC Capital Expenditures, Cash Basis Tax Payments attributable to AMC or 
+interest on AMC Debt.
+
+     (mm) Grant Agreement: The Agreement to be entered into by the 
+Company and each Grantee who is granted PARs under this Plan. The basic 
+form of such Grant Agreement is attached as Exhibit A, but nothing shall 
+prohibit the Committee from using any form of Grant Agreement determined 
+acceptable to the Committee for grants to any Grantee without regard to the 
+terms of this basic form of Grant Agreement.
+
+     (nn) Grant Date: The date, as determined by the Committee, as of 
+which PARs are granted to a Grantee.
+
+     (oo) Grantee: Each Employee who is granted PARs by the Committee 
+pursuant to Section 2(c).
+
+     (pp) Grant Value: The baseline price of an Equity Unit to be used in 
+calculating the PAR Value of a vested PAR. Unless otherwise determined by 
+the Committee, and subject to any adjustment made in accordance with this 
+Plan, the Grant Value with respect to any grant of PARs will equal the 
+Value of an Equity Unit as of the Valuation Date immediately preceding the 
+Grant Date of such PARs, provided that the Grant Value of any PAR granted 
+as of a date during 2006 will be $50.50.
+
+     (qq) Group: As defined in Section 1(k)(i).
+
+     (rr) Investment Return: As to the amount of any PAR Value credited 
+to an Account upon the occurrence of a Change in Control as provided under 
+Section 5(a)(v), interest calculated at a per annum rate that initially is 
+equal to the Three-Month LIBOR Rate in effect upon the Exercise Date, 
+adjusted on the corresponding day (each such day, an Adjustment Date) of 
+every third month following the Exercise Date (each such month, an 
+Adjustment Month) to equal the Three-Month LIBOR Rate in effect on such 
+Adjustment Date, without compounding. For purposes of the preceding 
+sentence, if an Adjustment Month does not contain a day corresponding to 
+the applicable Exercise Date, the Adjustment Date for that Adjustment Month 
+will be the last day of such Adjustment Month.
+
+     (ss) Market Price: With respect to any common stock as of any 
+relevant date, the Market Price will be determined as follows: (i) if the 
+common stock is listed on any established stock exchange (as determined by 
+the Committee) or quoted on a national market
+
+-6-
+
+------------------------------------------------------------------------
+
+
+ 
+
+system that reports sales prices, including the National Market System of 
+the Nasdaq Stock Market, the Market Price of a share of the common stock 
+will be the last sale price for such stock on such day (or, if no sales 
+were reported on such day, on the last preceding trading day on which a 
+sale was reported) on such exchange or system, as reported in The Wall 
+Street Journal or such other source as the Committee deems reliable; and 
+(ii) if the common stock is quoted on the Nasdaq Stock Market (but not on 
+the National Market System thereof) or is regularly quoted by a recognized 
+securities dealer but selling prices are not reported, the Market Price of 
+a share of the common stock will be the mean between the high bid and high 
+asked prices of the common stock, as reported in such source as the 
+Committee deems reliable.
+
+     (tt) MIP: The Ascent Media Group, LLC Management Incentive Plan, as 
+amended and restated as of January 1, 2007 and as it may be further amended 
+from time to time.
+
+     (uu) Misstatement Period: As defined in Section 2(h).
+
+     (vv) Net Company Value:
+
+          (i) As of any Valuation Date, except as otherwise provided in 
+Section 6(c) or Sections 1(uu)(ii) and (iii) below, Net Company Value 
+will mean Company Enterprise Value as of such Valuation Date, reduced 
+without duplication by (i) Company Debt, (ii) the liquidation value of any 
+preferred equity interests reflected on the Balance Sheet as of such 
+Valuation Date, (iii) the PAR Liability determined based on the Plan Value 
+as of such Valuation Date, calculated using Net Company Value so determined 
+and FCF Value as of such Valuation Date, and (iv) the amount, as determined 
+by the Committee in good faith, for which the Company and/or any Subsidiary 
+of the Company would be liable under any plan or arrangement (including any 
+employment agreement) for incentive compensation awards (excluding any such 
+awards pursuant to this Plan or the MIP), assuming full vesting of each 
+such award and the occurrence of all events establishing the participants 
+entitlement to payment under such award as of the relevant Valuation Date.
+
+          (ii) Notwithstanding the foregoing, if at any time the Committee 
+concludes that there has occurred an event or circumstance that reasonably 
+could be expected to have an adverse effect on the Net Company Value that 
+is not, or will not be, reflected in the Net Company Value determined as 
+provided above, the Committee may direct that such adverse effect be taken 
+into account in determining the Net Company Value as of such Valuation 
+Date. The amount of such reduction in Net Company Value may be determined 
+by any reasonable method.
+
+          (iii) In the event of a Change in Control, the Net Company Value 
+as of the date of such Change in Control shall be determined by the 
+Committee in good faith based on the fair market value of the Net 
+Consideration received upon the Change in Control (the Change in Control 
+Net Company Value).
+
+     (ww) Net Consideration: Proceeds from any Change in Control of the 
+Company or from the sale of all or substantially all of the assets or 
+equity of AMC, as applicable, reduced by the amount of any debt repayment 
+relating to, and any costs and expenses incurred in connection with, such 
+transaction.
+
+-7-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (xx) NS Contracted EBITDA: EBITDA of the Company and its 
+consolidated Subsidiaries from the provision of broadcast playback and 
+distribution services to third parties, determined utilizing the 
+assumptions set forth in Part 1 of Schedule I.
+
+     (yy) NS Contracted Free Cash Flow: Projected NS Contracted EBITDA 
+for all periods subsequent to the relevant Valuation Date from contracts in 
+effect on such Valuation Date, reduced by projected Company Capital 
+Expenditures allocable to such NS Contracted EBITDA, determined utilizing 
+the assumptions set forth in Part 2 of Schedule I.
+
+     (zz) NS Non-Contracted EBITDA: EBITDA of the Company and its 
+consolidated Subsidiaries, other than NS Contracted EBITDA, from the 
+provision of all network services business conducted by the Company and its 
+consolidated Subsidiaries.
+
+     (aaa) Overstated Plan Value: As defined in Section 2(h).
+
+     (bbb) PAR: A right to receive, subject to the terms and conditions 
+of this Plan, a payment in an amount equal to the PAR Value calculated with 
+respect to an Equity Unit as of the relevant date of determination.
+
+     (ccc) PAR Liability means, as of any Valuation Date, the aggregate 
+PAR Value of all PARs outstanding and vested as of such Valuation Date.
+
+     (ddd) PAR Value: As of any date of determination, with respect to 
+any PAR, the positive difference, if any, obtained by deducting the Grant 
+Value of such PAR from the Value of an Equity Unit.
+
+     (eee) Payment Date: March 31, 2012.
+
+     (fff) Person: Any individual or any corporation, partnership, trust, 
+unincorporated organization, association, limited liability company or 
+other entity.
+
+     (ggg) Plan Expiration Date: The expiration date of the Plan, which 
+will be August 3, 2012, or such other date as determined by the Committee, 
+provided such other date is not more than ten years from the date the Plan 
+was originally adopted.
+
+     (hhh) Plan Value: As of any Valuation Date, the sum of Net Company 
+Value plus FCF Value.
+
+     (iii) Separation from Service: Separation from service, as defined 
+in Code Section 409A, with the Grantees Employer and all Persons with whom 
+such Employer would be considered a single employer under Code Section 
+414(b) or (c), applying the 80% threshold used in the Treasury regulations 
+promulgated under Code Section 414(b) or (c).
+
+     (jjj) Subsidiary: With respect to any Person, any present or future 
+subsidiary (as defined in Section 424(f) of the Code) of such Person that 
+is Controlled by such Person or any business entity that is Controlled by 
+such Person and in which such Person owns, directly or indirectly, 50% or 
+more of the voting, capital or profits interest. An entity shall be deemed 
+a
+
+-8-
+
+------------------------------------------------------------------------
+
+
+ 
+
+Subsidiary of a Person for purposes of this definition only for such 
+periods as the requisite ownership or Control relationship is maintained.
+
+     (kkk) Termination: With respect to any Grantee, the complete 
+cessation of Grantees employment with any and all Employers, whether by 
+reason of the death, Disability, resignation or removal of the Grantee or 
+for any other reason. This definition also will apply to the term 
+Terminated, as the context requires.
+
+     (lll) Termination for Cause: With respect to any Grantee, the 
+Termination of such Grantee on account of cause as such term is defined 
+in the Grant Agreement and, if no such definition is included in the Grant 
+Agreement, the definition of cause shall be that definition provided in 
+an effective employment agreement between the Grantee and any Employer and, 
+if no such effective employment agreement exists or no such definition is 
+included in the employment agreement, cause shall include without 
+limitation (i) the Grantees insubordination, dishonesty, incompetence, act 
+of moral turpitude, or other misconduct of any kind; (ii) the willful and 
+unreasonable refusal by the Grantee to perform the Grantees duties or 
+responsibilities for any reason other than illness or incapacity; or (iii) 
+the Grantees violation of any code of conduct, code of ethics, employment 
+policies, or provisions of an employee handbook or other published policy 
+(whether disseminated in writing to employees or via a website or other 
+publication) of the Employer or any Affiliate which is applicable to the 
+Grantee, as in effect from time to time; provided, that, if such 
+Termination occurs within 12 months after a Change in Control, cause 
+shall mean only a felony conviction for fraud, misappropriation of Employer 
+funds, or embezzlement. Notwithstanding the above, if evidence of cause 
+is acquired after any Termination that originally was not a Termination for 
+Cause, the Termination may, in the discretion of the Committee, be treated 
+as a Termination for Cause for purposes of this Plan; provided that, in 
+such event, the forfeiture of benefits pursuant to Section 4(d)(ii) will be 
+limited to amounts not yet paid to the Grantee as of the date the Committee 
+determines that a prior Termination was a Termination for Cause.
+
+     (mmm) Three-Month LIBOR Rate: As of any date of determination, the 
+rate of interest per annum specified as the three-month LIBOR rate in The 
+Wall Street Journal dated such date, provided that, if The Wall Street 
+Journal is not published for such day or no such rate is specified in The 
+Wall Street Journal on such day, the applicable rate shall be the rate 
+specified on the last preceding day for which The Wall Street Journal was 
+published and such rate was specified.
+
+     (nnn) Transferee Parent: In the event of any transaction or series 
+of related transactions involving the direct or indirect transfer (or 
+relinquishment of Control) by DHC of a Person or Persons (a Transferred 
+Person) that hold equity securities of the Company beneficially owned by 
+DHC, such Transferred Person or its successor in such transaction or any 
+ultimate parent entity (within the meaning of the Hart-Scott-Rodino 
+Antitrust Improvements Act of 1976, as amended) of such Transferred Person 
+or its successor if immediately after giving effect to such transaction or 
+the last transaction in such series, voting securities representing at 
+least a majority of the voting power of the outstanding voting securities 
+of such Transferred Person, successor or ultimate parent entity are 
+beneficially owned by any combination of DHC, Persons who prior to such 
+transaction were beneficial owners of a majority of, or a majority of the 
+voting power of, the outstanding voting securities of DHC (or of any 
+publicly traded class or
+
+-9-
+
+------------------------------------------------------------------------
+
+
+ 
+
+series of voting securities of DHC designed to track the economic 
+performance of a specified group of assets or businesses) or Persons who 
+are Control Persons.
+
+     (ooo) Unforeseeable Emergency: A severe financial hardship to the 
+Grantee resulting from (i) an illness or accident of the Grantee or the 
+spouse or dependent of the Grantee; (ii) the loss of the Grantees property 
+due to casualty; or (iii) other similar extraordinary and unforeseeable 
+circumstances arising as a result of events beyond the Grantees control, 
+all as determined under Code Section 409A.
+
+     (ppp) Valuation Date: December 31 of each of the calendar years 2006 
+through 2011.
+
+     (qqq) Valuation Report: A written report setting forth the Company 
+Enterprise Value, the Net Company Value, the Plan Value and the Value of an 
+Equity Unit as of the relevant Valuation Date.
+
+     (rrr) Value of an Equity Unit: As of any Valuation Date, Plan Value 
+multiplied by .0000001.
+
+     (sss) Vesting Date: Each of (i) the day occurring during the third 
+month following the Grant Date that corresponds to the Grant Date (or, if 
+there is no such day, the last day of such month), and (ii) the 
+corresponding day during each third month thereafter through the 
+thirty-sixth month following the Grant Date. For example, if the Grant Date 
+is August 3, 2006, the third day of each third month thereafter beginning 
+with November, 2006 and ending with August, 2009 would be a Vesting Date.
+
+SECTION 2 PHANTOM APPRECIATION RIGHTS.
+
+     (a) General: This Plan provides the terms and conditions for the grant 
+of, and payment with respect to, PARs to Grantees.
+
+     (b) Number of PARs Available for Grant: The maximum number of PARs 
+that may be granted under this Plan is 500,000 PARs, subject to adjustment 
+pursuant to Section 2(c)(viii). PARs that are exercised and paid, and PARs 
+that are forfeited or canceled or otherwise are not paid, will be available 
+for grant under the Plan.
+
+     (c) PARs Granted to Grantees:
+
+          (i) The Committee will determine the criteria for eligibility for 
+the award of PARs under this Plan. Such criteria may be amended from time 
+to time by the Committee.
+
+          (ii) The Committee will determine the PARs to be granted, if any, 
+to those Employees selected by the Committee each year, in accordance with 
+the criteria described in Section 2(c)(i). Such PARs will be granted to 
+such Employees on or as of a Grant Date. The Committee will give notice to 
+Grantees who have been awarded PARs within a reasonable time after such 
+award. The Committee may make any PARs granted under this Plan subject to 
+any
+
+-10-
+
+------------------------------------------------------------------------
+
+
+ 
+
+restrictions, limitations, terms or conditions, in addition to those set 
+forth herein, as it may determine and which are not inconsistent with the 
+specific terms of this Plan.
+
+          (iii) No Employee will have any right to receive any PARs in any 
+year, irrespective of the grant of any PARs to such Employee in any past or 
+succeeding year or the grant of any PARs to any other Employee in such year 
+or any other year.
+
+          (iv) Each grant of PARs to a Grantee will be made pursuant to a 
+Grant Agreement executed by the Grantee and the Company, which Grant 
+Agreement will specify the number of PARs granted to such Grantee, the 
+Grant Date, the Grant Value, the PAR Expiration Date, and such other 
+information as the Committee may prescribe. Only PARs granted pursuant to a 
+duly executed and approved Grant Agreement, the form of which has been 
+approved by the Committee, will be considered validly granted under this 
+Plan. The initial form of Grant Agreement approved by the Committee is 
+attached as Exhibit A.
+
+          (v) Only vested PARs will entitle a Grantee to receive payments 
+under this Plan. Vested PARs will represent only the right to receive the 
+payments provided for in Section 5 at the time and in the amounts set forth 
+in this Plan and subject to the terms and conditions of this Plan, and 
+neither the existence of this Plan nor the grant or holding of any PARs 
+will result in any Grantee, Beneficiary or other Person being considered as 
+or possessing any of the rights of a shareholder or member of the Company 
+or possessing any other rights or claims against the Company, any Employer, 
+any Affiliate of the Company or any Employer, or any successor of any such 
+Person. No Employee or other Person will have any claim or right to be 
+granted PARs under this Plan.
+
+          (vi) The grant of a PAR and the Companys payment under any PAR 
+are expressly conditioned on the requirement that all actions necessary to 
+ensure compliance with all applicable state and local securities laws have 
+been taken, as determined by the Company.
+
+          (vii) The grant of a PAR and the Companys payment under a PAR 
+are expressly conditioned upon the satisfaction of all applicable federal, 
+state and local income and other tax withholding requirements, as 
+determined by the Company.
+
+          (viii) If the Committee determines, in its sole discretion, that 
+any distribution, reorganization, split-up, spin-off, combination, exchange 
+of ownership interests, dividend, contribution, disposition or acquisition 
+(either of equity or assets), warrants or rights offering to purchase 
+interests in the Company or any Employer, other similar event (including 
+mergers, consolidations, initial public offerings, and Changes in Control), 
+or other extraordinary event affects the PARs authorized and granted under 
+this Plan such that an adjustment in such PARs is required in order to 
+preserve the level of benefits or potential benefits (without enlargement 
+or dilution of such benefits) intended to accrue to the Grantees under this 
+Plan, then the Committee, in its sole discretion, shall make such 
+adjustments in the PARs (including increases or decreases to the Grant 
+Value of PARs and increases or decreases to the number of PARs granted) 
+and/or the terms of this Plan relating to the valuation of a PAR in such 
+manner as the Committee, in its sole discretion, deems appropriate and 
+equitable. The Committee may make any such adjustment for all Grantees and 
+all PARs, or the Committee, in its discretion, may
+
+-11-
+
+------------------------------------------------------------------------
+
+
+ 
+
+make such adjustments only for such Grantees or such PARs as it deems 
+appropriate. Notwithstanding the foregoing, the Committee shall make 
+appropriate adjustments to the Grant Value of outstanding PARs to reflect 
+the effect of (A) any contribution of cash or other assets to the Company, 
+directly or indirectly, by any member of the Company to effect a material 
+acquisition of assets by the Company or any of its consolidated 
+Subsidiaries, or (B) any distribution of cash or other assets, directly or 
+indirectly, to any member of the Company, which cash or other assets were 
+generated by a material disposition of assets by the Company or any of its 
+consolidated Subsidiaries.
+
+          (ix) The Committee may designate whether any PAR being granted to 
+any Grantee is intended to constitute performance-based compensation as 
+that term is used in Code Section 162(m). Any such PAR grants designated as 
+intended to be performance-based compensation shall be conditioned on the 
+achievement of one or more performance measures, which shall be set in 
+advance by the Committee. For PAR grants intended to be performance-based 
+compensation, the grant of the PARs and the establishment of the 
+performance measures shall be made during the period required under Code 
+Section 162(m).
+
+     (d) Grantees Agreement Not to Compete: In consideration of the grant 
+of PARs, each Grantee will be deemed to have agreed that, while in the 
+employ of any of the Employers, the Grantee will not, directly or 
+indirectly, as principal or agent, or in any other capacity, own, manage, 
+operate, participate in, or be employed by or otherwise be interested in, 
+or connected in any manner with any Person that competes with the business 
+of the Company and its Subsidiaries within the United States or within the 
+United Kingdom, as such business is conducted while the Grantee is employed 
+by any Employer. Nothing contained herein shall be construed as denying the 
+Grantee the right to own securities of any such Person, so long as such 
+securities are listed on a national securities exchange or quoted on the 
+Nasdaq Stock Market, to the extent of an aggregate of 5% of the outstanding 
+shares of such securities.
+
+     (e) Grantees Agreement to Keep Information Confidential: In 
+consideration of the grant of PARs, each Grantee will be deemed to have 
+agreed that, while in the employ of any of the Employers and thereafter, 
+the Grantee will not, other than in the performance of his or her duties as 
+an employee of any Employer, directly or indirectly make use of, or divulge 
+to any Person, and the Grantee will use his or her best efforts to prevent 
+the publication or disclosure of, any confidential or proprietary 
+information concerning the business, accounts or finances of, or any of the 
+methods of doing business used by the Company or any Employer or of the 
+dealings, transactions, or affairs of the Company, any Employer, or any of 
+their customers which have or which may have come to such Grantees 
+knowledge during his or her employment with any of the Employers, except as 
+may be required by law.
+
+     (f) Grantees Agreement Regarding Non-Solicitation: In consideration 
+of the grant of PARs, each Grantee will be deemed to have agreed that, 
+while in the employ of any of the Employers and for a period of one year 
+thereafter, the Grantee will not solicit, directly or indirectly, or cause 
+or permit others to solicit, directly or indirectly, any Current Employee 
+to leave employment with the Company or any Affiliate of the Company, 
+including directly or indirectly: (i) requesting that a Current Employee 
+change employment, (ii) informing a Current Employee that an opening exists 
+elsewhere, (iii) assisting a Current Employee in finding employment 
+elsewhere, (iv) inquiring if a Current Employee knows of anyone who might 
+be
+
+-12-
+
+------------------------------------------------------------------------
+
+
+ 
+
+interested in a position elsewhere, (v) inquiring if a Current Employee 
+might have an interest in employment elsewhere, (vi) informing others of 
+the name or status of, or other information about, a Current Employee, or 
+(vii) any other similar conduct, the effect of which is that a Current 
+Employee is induced to leave the employment of the Company or any of the 
+Companys Affiliates.
+
+     (g) Remedies for Violation of Sections 2(d), 2(e) and 2(f). Each 
+Grantee, by acceptance of a grant of a PAR, will be deemed to have agreed 
+that: (i) the Company and the other Employers will be irreparably injured 
+in the event of a breach by the Grantee of any of his or her obligations 
+under Section 2(d), 2(e) or 2(f); (ii) in the event of a breach by the 
+Grantee under Section 2(d), 2(e) or 2(f), the Grantee will repay to the 
+Company any and all amounts received by the Grantee under this Plan 
+(whether such payments were received prior or subsequent to such breach) 
+together with interest from the date of such payment to the date 
+reimbursement is made at the rate per annum equal to the prime rate of 
+interest charged by the bank designated by the Committee plus 5% or, if 
+lower, the maximum rate permitted by law, and the Grantee will forfeit any 
+and all vested and unvested PARs and any Account he or she may have under 
+this Plan, and the Grantee will not be entitled to any further payment or 
+right under this Plan; (iii) because monetary damages will not be an 
+adequate remedy for any such breach, each of the Company and the other 
+Employers will also be entitled to injunctive relief, in addition to any 
+other remedy which it may have, in the event of any such breach; and (iv) 
+the existence of any unrelated claims which the Grantee may have against 
+the Company or any other Employer, whether under this Plan or otherwise, 
+will not be a defense to the enforcement by the Company or any other 
+Employer of any of their rights under Sections 2(d), 2(e) or 2(f). The 
+covenants of the Grantee contained in Sections 2(d), 2(e) and 2(f) are in 
+addition to, and not in lieu of, any obligations which the Grantee may have 
+with respect to the subject matter of such Sections, whether by contract, 
+as a matter of law or otherwise, and such covenants and their 
+enforceability will survive any Termination of the employment of the 
+Grantee and any investigation made with respect to the breach thereof by 
+the Company or any other Employer.
+
+     (h) Forfeiture for Misconduct and Repayment of Certain Amounts. This 
+Section 2(h) will apply to a Grantee who is the Chief Executive Officer or 
+the Chief Financial Officer of the Company (or a Grantee acting in a 
+capacity similar to either of those positions) and to such other Grantees 
+as the Committee may designate. If (i) a material restatement of any 
+consolidated financial statement of DHC and its consolidated subsidiaries 
+(including the Company) is required and, in the reasonable judgment of the 
+Committee, (A) such restatement is due to material noncompliance with any 
+financial reporting requirement under applicable securities laws, and (B) 
+such noncompliance is a result of misconduct by or on the part of the 
+Grantee; or (ii) in the reasonable judgment of the Committee, the Plan 
+Value as of any Valuation Date is higher than would have been the case had 
+one or more facts or circumstances been disclosed to the Committee 
+(Overstated Plan Value) and the omission of such disclosure is a result 
+of misconduct by or on the part of the Grantee, the Grantee will repay to 
+the Company Forfeitable Benefits received by the Grantee in such amount as 
+the Committee may reasonably determine, taking into account any factors 
+deemed relevant by the Committee. Forfeitable Benefits means any and all 
+cash and/or shares received by the Grantee (i) upon the deemed exercise 
+during the Misstatement Period of any PARs held by the Grantee, or (ii) 
+upon the deemed exercise of any PARs held by the Grantee if the PAR Value 
+of such PARs was determined using the Overstated Plan Value. Misstatement 
+Period means the 12-month period
+
+-13-
+
+------------------------------------------------------------------------
+
+
+ 
+
+beginning on the date of the first public issuance or the filing with the 
+Securities and Exchange Commission, whichever occurs earlier, of the 
+financial statement requiring restatement. To the extent applicable, each 
+Grant Agreement will include language substantially to the effect of the 
+forgoing with such modifications as the Committee may approve either 
+generally or as applied to any one or more Grantees, it being acknowledged 
+that a Grant Agreement may include language describing, for example, in 
+what circumstances a Grantee will be deemed to be involved in or 
+responsible for misconduct.
+
+     (i) Reasonableness of Covenants: In consideration of the grant of 
+PARs, each Grantee will be deemed to have agreed that: (i) the covenants of 
+the Grantee set forth in this Section 2 are reasonable and necessary to 
+protect the trade secrets and other business interests of the Company and 
+the other Employers; (ii) without limiting the generality of Section 7(k) 
+of this Plan, if, contrary to the purpose and intent of the Company, the 
+other Employers and the Grantee, any such covenant is finally determined by 
+arbitration or judicial proceeding to be unenforceable in any respect as 
+written, such provision will be deemed to have been automatically modified 
+to the minimum extent necessary to make it enforceable and the provision 
+will be enforced as so modified; (iii) the covenants set forth in this 
+Section 2 are intended to be a series of separate covenants applicable 
+independently in each state and to be enforceable in each state to the 
+maximum extent permitted by the laws of that state; and (iv) the 
+unenforceability or invalidity of any such covenant, and any limitation on 
+the enforceability of any such covenant, in any state shall not affect the 
+enforceability or validity of such covenant in any other state.
+
+SECTION 3 NATURE OF INTERESTS: ACCOUNTING:
+
+     (a) Nature of Interests: The Plan will be entirely unfunded, and the 
+Companys obligation to any Grantee hereunder shall constitute an unfunded 
+and unsecured promise to make payments in accordance with the terms of this 
+Plan. Nothing contained in, and no action taken pursuant to, this Plan will 
+create or be construed to create a trust or funded benefit of any kind in 
+favor of any Person, or a partnership or fiduciary relationship between or 
+among the Company, any Employer, the Committee, any Grantee, any designated 
+Beneficiary or any other Person. Title to and beneficial ownership of all 
+assets, if any, whether cash or investments, that the Company may designate 
+to pay the vested PARs granted under this Plan will at all times remain in 
+the Companys general asset account, and neither any Grantee nor any other 
+Person will have any right or property interest whatsoever in any such 
+asset of the Company until such PARs are paid to the Grantee in accordance 
+with this Plan. The Company will not be required to pre-fund its 
+obligations under this Plan in any manner, whether by purchase of insurance 
+contracts, contributions to a trust fund, deposits in an escrow account or 
+otherwise. If the Company in its discretion does purchase any such contract 
+or deposit funds in any such fund or account, no Grantee or Beneficiary 
+will have any right or interest in or to such contract, trust or account, 
+and such Grantee or Beneficiary will have only the rights of a general 
+unsecured creditor with respect to the Companys unsecured promise to pay 
+the Grantees Account in accordance with this Plan.
+
+     (b) Account: A separate Account will be established and maintained for 
+each Grantee who is granted a PAR under this Plan. The Account will be 
+credited with (i) the PAR Value of any vested PARs deemed exercised by the 
+Grantee in accordance with Section 5, plus
+
+-14-
+
+------------------------------------------------------------------------
+
+
+ 
+
+(ii) to the extent provided in Section 5(a)(v), Investment Return 
+calculated from the Exercise Date through the date of payment of the 
+Grantees Account in accordance with Section 5(b).
+
+     (c) Plan Expenses and Allocation of Costs of PARs: Vested PARs granted 
+to Grantees under this Plan, and other expenses associated with the 
+establishment, administration and termination of this Plan, as determined 
+by the Committee, will be paid by the Company in accordance with the terms 
+and conditions set forth herein and, if so determined by the Company, the 
+costs of such payments and expenses, or a portion thereof, will be charged 
+by the Company to the Employers under such method of allocation as the 
+Company deems appropriate.
+
+SECTION 4 VESTING:
+
+     (a) Vesting: Except as otherwise provided by this Section 4, a 
+Grantees interest in PARs granted under this Plan is unvested and 
+forfeitable at all times.
+
+     (b) Vesting While in the Employ of an Employer:
+
+          (i) Unless the Grant Agreement provides otherwise, a Grantee will 
+become vested in one-twelfth of the number of PARs granted to such Grantee 
+on each Vesting Date relating to such PARs, provided that the Grantee has 
+been continuously employed on a full-time basis by the Company or an 
+Employer from the Grant Date through the applicable Vesting Date. 
+Notwithstanding the preceding sentence, the Committee may shorten the 
+period for the vesting of any PARs granted to any Grantee under this Plan.
+
+          (ii) For purposes of vesting, credit for any absence by reason of 
+the Grantees short-term disability, layoff or any other reason may be 
+granted by the Committee in writing.
+
+          (iii) For purposes of vesting, (A) unless the Committee otherwise 
+determines, a change of employment from one Employer to a different 
+Employer will not be a Termination (and such Grantees employment will be 
+deemed to be continuous and uninterrupted) if such change of employment was 
+made at the request or with the express consent of the Company, and (B) a 
+change of employment that is not made at the request or with the express 
+consent of the Company will be deemed a Termination, unless the Committee 
+otherwise determines.
+
+     (c) 100% Vesting Upon Death or Disability: A Grantee who dies or 
+becomes Disabled while employed with an Employer will be 100% vested in his 
+or her PARs as of the date of such death or Disability.
+
+     (d) Termination:
+
+          (i) Unless the Grant Agreement provides otherwise, and except as 
+provided in Section 4(c) above, in the event of the Termination of a 
+Grantee prior to such Grantee becoming 100% vested in his or her PARs, 
+whether such Termination is initiated by the Grantee or the Employer, any 
+unvested PARs held by such Grantee on the date of such Termination will be 
+canceled, such Grantee will have no further right or interest under this 
+Plan with respect to such canceled PARs, and none of the Company or any of 
+the Employers will have
+
+-15-
+
+------------------------------------------------------------------------
+
+
+ 
+
+any further obligation with respect thereto. The percentage of vesting in 
+any PARs held by a Grantee on his or her Termination date will not be 
+increased by reason of any service performed by the Grantee after the date 
+of any subsequent reemployment of the Grantee by any Employer.
+
+          (ii) In the event of the Termination for Cause of a Grantee, all 
+PARs held by such Grantee, whether vested or unvested, will be canceled and 
+any Account held by the Grantee shall be forfeited, such Grantee will have 
+no further right or interest under this Plan with respect to any such 
+canceled PARs or such Account, and none of the Company or any of the 
+Employers will have any further obligation with respect thereto.
+
+     (e) 100% Vesting Upon Change in Control: Upon the occurrence of a 
+Change in Control while the Grantee is a full-time Employee of any 
+Employer, the Grantee will become 100% vested in his or her PARs as of the 
+date on which such Change in Control occurs.
+
+SECTION 5 EXERCISE AND PAYMENT OF PARS:
+
+     (a) Exercise of PARs and Credit of PAR Value to Account:
+
+          (i) The deemed exercise of a vested PAR results in the exchange 
+of the vested PAR for a credit to the Account of the Grantee equal to the 
+PAR Value of the deemed exercised PAR. Payment of the Grantees Account 
+will be made as described in Section 5(b) below.
+
+          (ii) Except as otherwise provided in the Grant Agreement, a 
+Grantee who has not been Terminated as of the Payment Date will be deemed 
+to have exercised all of his or her vested PARs on the Payment Date 
+provided such PARs were not theretofore deemed exercised pursuant to 
+Section 5(a)(v) below. The PAR Value of such deemed exercised PARs will be 
+determined utilizing the Plan Value as of the Valuation Date immediately 
+preceding the Payment Date. The PAR Value of the PARs deemed to be 
+exercised will be credited to the Grantees Account and will be paid only 
+as provided in Section 5(b).
+
+          (iii) Upon the Termination of a Grantee prior to the Payment Date 
+for any reason other than a Termination for Cause, such Grantee will be 
+deemed to have exercised all of his or her vested PARs on the date of such 
+Termination provided such PARs were not theretofore deemed exercised 
+pursuant to Section 5(a)(v) below. The PAR Value of such deemed exercised 
+PARs will be determined utilizing the Plan Value as of the Valuation Date 
+immediately preceding the date of Termination (or, if the date of 
+Termination coincides with a Valuation Date, such Valuation Date). The PAR 
+Value of the deemed exercised PARs will be credited to the Grantees 
+Account and will be paid only as provided in Section 5(b).
+
+          (iv) A Termination for Cause results in complete forfeiture of 
+all vested and unvested PARs and of the Grantees entire Account under 
+Section 4(d)(ii) so that no exercise of such PARs will be deemed to occur 
+and no payment will be made under this Plan to or on behalf of any Grantee 
+who is Terminated for Cause.
+
+          (v) Upon the occurrence of a Change in Control prior to the 
+Payment Date, a Grantee who has not been Terminated as of the date on which 
+such Change in Control occurs will be deemed to have exercised any vested 
+PARs held by him or her as of the date on
+
+-16-
+
+------------------------------------------------------------------------
+
+
+ 
+
+which such Change in Control occurs. The PAR Value of such deemed exercised 
+PARs will be determined utilizing the Change in Control Net Company Value. 
+The PAR Value of the PARs deemed to be exercised will be credited to the 
+Grantees Account, together with Investment Return calculated on such PAR 
+Value from the date of such Change in Control through the date of payment 
+of Grantees Account in accordance with Section 5(b), will be paid only as 
+provided in Section 5(b).
+
+     (b) Payment of Account:
+
+          (i) Except as otherwise provided in the Grant Agreement, the 
+entire balance of the Grantees Account will be paid to the Grantee on the 
+earlier to occur of the following:
+
+               (A) The Payment Date (or, at the sole election of the 
+Committee, on any day within 90 days following the Payment Date); and
+
+               (B) The six-month anniversary of the date of the Grantees 
+Separation from Service or, if such date is not a business day, on the 
+first business day thereafter.
+
+          (ii) If the Company reasonably anticipates that, with respect to 
+any payment scheduled to be made to a Grantee from the Plan during a 
+taxable year, the Companys deduction for such payment would be limited or 
+eliminated by the application of Code Section 162(m), such payment shall be 
+delayed until either (A) the first taxable year in which the Company 
+reasonably anticipates, or should reasonably anticipate, that the deduction 
+will not be so limited or eliminated or (B) the period beginning with the 
+Grantees Separation from Service and ending on the later of the last day 
+of the taxable year in which the Grantees Separation from Service occurs 
+or the 15th day of the third month following such Separation from Service; 
+provided that any distribution under this Section 5(b)(ii) made upon a 
+Grantees Separation from Service, including a Separation from Service that 
+results in Code Section 162(m) becoming inapplicable to a Grantee, must 
+comply with the provisions of Section 5(b)(iii) below if the Grantee is a 
+specified employee (as described in Section 5(b)(iii)).
+
+          (iii) Notwithstanding any provision of this Plan or any Grant 
+Agreement to the contrary, to the extent required under Code Section 409A, 
+any amount that otherwise would be payable to a Grantee who is a specified 
+employee, as determined by the Company in accordance with Code Section 
+409A, during the six-month period following such Grantees Separation from 
+Service shall be suspended until the lapse of such six-month period (or, if 
+earlier, the date of death of the Grantee). The amount that otherwise would 
+be payable to such Grantee during such period of suspension, unadjusted for 
+any interest on such suspended amount, shall be paid in a single payment on 
+the day following the end of such six-month period or within 30 days 
+following the death of the Grantee during such six-month period, provided 
+that the death of the Grantee during such six-month period shall not cause 
+the acceleration of any amount that otherwise would be payable on any date 
+during such six-month period following the date of the Grantees death.
+
+          (iv) The Company, and no other Person, will have sole liability 
+to Grantees in respect of the payment of their Accounts under this Section.
+
+-17-
+
+------------------------------------------------------------------------
+
+
+ 
+
+          (v) The Grantee may designate a Beneficiary for the Grantees 
+Account, and may change or revoke a Beneficiary designation at any time by 
+filing a new designation or notice of revocation with the Committee. No 
+notice to, or consent by, any Beneficiary will be required to effect any 
+change or revocation of designation. If a Grantee does not designate a 
+Beneficiary, the Grantees Beneficiary will be deemed to be the Grantees 
+estate and payments required hereunder will be made accordingly.
+
+          (vi) Notwithstanding the above, payment of a Grantees Account 
+will be accelerated upon the following events:
+
+               (A) To make payment to an alternate payee upon the receipt 
+of a qualified domestic relations order;
+
+               (B) Upon an Unforeseeable Emergency, at the request of the 
+Grantee; provided that the amount distributed for a Unforeseeable Emergency 
+does not exceed the amount necessary to satisfy such Unforeseeable 
+Emergency, plus amounts necessary to pay any taxes reasonably anticipated 
+as a result of the distribution; or
+
+               (C) In the event this Plan fails to meet the requirements of 
+Code Section 409A with respect to such Grantee, but only to the extent of 
+the amount included in the Grantees income as a result of such failure.
+
+     (c) Form of Payment: Any payment of an Account will be subject to 
+applicable withholding for federal, state and local taxes. At the 
+discretion of the Committee, payment of Accounts may be made in:
+
+          (i) Cash;
+
+          (ii) Whole shares of any class or series of common stock of the 
+Company (if the Company is a corporation) or any Affiliate of the Company 
+designated by the Committee; provided that such class or series is 
+registered under Section 12 or 15(d) of the Exchange Act and there is an 
+established market for such stock. For purposes of this Section 5(c)(ii), 
+an established market will exist with respect to any stock if sale prices 
+or bid and asked prices for such stock are reported on a national 
+securities exchange or on the Nasdaq Stock Market.
+
+               (A) For purposes of determining the number of shares of 
+common stock to be delivered under this Section, such shares will be deemed 
+to have a per share value equal to the Market Price of such common stock on 
+the third trading day preceding the date shares are to be delivered to a 
+Grantee.
+
+               (B) Any shares of common stock made available for payment 
+under this Section will not be paid until the Committee is satisfied that 
+the delivery of such shares will not violate the registration requirements 
+of any applicable securities laws and that the recipient of such shares 
+will have the right to transfer such shares without any material 
+restriction pursuant to such securities laws. No fractional shares of stock 
+will be issued or paid under this Section. To the extent any portion of an 
+Account is not paid in the form of stock under this Section, such portion 
+of such Account, if any, will be paid in cash.
+
+-18-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (d) Creation of Rabbi Trust: If a Change in Control occurs prior to 
+October 1, 2011, the Company shall, upon the occurrence of such Change in 
+Control, establish a rabbi trust or other similar vehicle pursuant to 
+then-applicable tax laws (provided that any such arrangement shall not 
+change the status of this Plan as an unfunded nonqualified deferred 
+compensation arrangement), and the Company shall deposit into such trust or 
+other vehicle an amount equal to the benefits under the Plan that are 
+vested and accrued as of the date of such Change in Control.
+
+     (e) Payment to Minors or Incapacitated Persons: If the Committee 
+determines that any Person to whom any payment is to be made under this 
+Plan is unable to care for his or her affairs because of illness or 
+accident, or is a minor, any payment due will be paid to the duly appointed 
+guardian or other legal representative of such Person. Payment will be made 
+under this Section 5(e) only after the receipt by the Committee of 
+documentation satisfactory to the Committee evidencing such legal status.
+
+     (f) Expiration of PARs: PARs granted under this Plan to any Grantee 
+will terminate, and the Company will have no further obligation to such 
+Grantee, upon the earlier to occur of (i) the exercise or deemed exercise 
+of such PARs and the payment of the Grantees Account under this Section 5; 
+or (ii) the cancellation or forfeiture of such PARs under the terms of this 
+Plan.
+
+SECTION 6 VALUATION:
+
+     (a) General: Solely for purposes of this Plan, the Company Enterprise 
+Value, Net Company Value, Plan Value and the Value of an Equity Unit shall 
+be determined in good faith by the Committee as promptly as practicable 
+after each Valuation Date.
+
+     (b) Valuation Report: The Valuation Report will be completed and 
+provided to all Grantees within a reasonable time after each Valuation 
+Date. The Company anticipates that it will complete the Valuation Report 
+within approximately 90 days after each Valuation Date.
+
+     (c) Adjustment to Value Determinations Upon Corporate Events: 
+Notwithstanding any other provision of this Plan, if at any time the 
+Company is a corporation and if the common stock of the Company becomes 
+publicly traded on or after a Valuation Date and prior to the delivery of 
+the Valuation Report for such Valuation Date, then the Net Company Value 
+for such Valuation Date shall be determined by the Committee in good faith, 
+taking into consideration the Market Price for the Company stock on the 
+date the Company stock becomes publicly traded.
+
+SECTION 7 MISCELLANEOUS:
+
+     (a) Modification and Termination of Plan:
+
+          (i) To the extent permitted under Code Section 409A, and subject 
+to satisfaction of all requirements thereof, the Company has the discretion 
+to deem all outstanding vested PARs exercised and to terminate this Plan 
+pursuant to irrevocable action taken by the Company within 30 days 
+preceding or 12 months following a Change in Control (including a
+
+-19-
+
+------------------------------------------------------------------------
+
+
+ 
+
+Change in Control of a corporation with respect to which the Company is a 
+disregarded entity for federal income tax purposes, treating such 
+corporation as the Company for purposes of determining whether a Change in 
+Control has occurred), provided that all other agreements, methods, 
+programs, and other arrangements required under Code Section 409A to be 
+terminated (Aggregated Arrangements) also are terminated and the Company 
+pays all Accounts to Grantees within 12 months following such Change in 
+Control and all amounts due under such Aggregated Arrangements to 
+participants therein within 12 months of the date on which all necessary 
+action is irrevocably taken to terminate and liquidate the Aggregated 
+Arrangements. In such case, the PAR Value of such vested PARs will be 
+determined utilizing Change in Control Net Company Value.
+
+          (ii) Other than as set forth in Section 7(a)(i) above, the 
+Company has the discretion to deem all outstanding vested PARs exercised 
+and to terminate and liquidate this Plan at any time to the extent 
+permitted under, and subject to satisfaction of all requirements of, Code 
+Section 409A. In such case, (A) the PAR Value of such vested PARs will be 
+determined utilizing Plan Value as of (1) the Valuation Date immediately 
+preceding the date of Plan termination (or if such Plan termination occurs 
+on a Valuation Date, the Valuation Date coinciding with the date of such 
+Plan termination), if such termination occurs within 12 months of a 
+corporate dissolution taxed under Code Section 331 or with the approval of 
+a bankruptcy court pursuant to USC §503(b)(1)(A), or (2) the Valuation Date 
+immediately preceding the date the Company takes all necessary action to 
+irrevocably terminate and liquidate the Plan (or if such action is taken on 
+a Valuation Date, the Valuation Date coinciding with the date of such 
+action) if such Plan termination occurs at any other time permitted under 
+Code Section 409A, and (B) payments in liquidation of the Plan shall be 
+made as soon as administratively practicable following the earliest date 
+permitted under Code Section 409A for making such payments.
+
+          (iii) The Company reserves the right to amend or terminate this 
+Plan, or to suspend the grant of PARs under this Plan, at any time and from 
+time to time in any manner it determines; provided that payment from this 
+Plan is permitted only under the express terms of this Plan and any Grant 
+Agreement.
+
+          (iv) No PARs may be granted after the Plan Expiration Date. PARs 
+that are outstanding on the Plan Expiration Date will continue to be 
+subject to the terms of this Plan through the PAR Expiration Date. Upon 
+termination of this Plan, all Accounts will be paid in compliance with the 
+terms of this Plan and all unvested PARs will be canceled. Upon the payment 
+of Accounts after any termination of this Plan, no Person will have any 
+further interest under this Plan and no Grantee or Beneficiary will be 
+entitled to any further payment under this Plan.
+
+     (b) Interest in this Plan Nonassignable: No Grantee will have any 
+right to sell, assign, dispose of, transfer, convey or otherwise alienate 
+(Transfer) any PAR granted under this Plan or the right to receive 
+payment for any vested PAR, other than by designation of a Beneficiary 
+under the applicable Grant Agreement or by will or the laws of descent and 
+distribution, and all PARs and the right to payment therefor are expressly 
+declared nonassignable and nontransferable. Any purported Transfer in 
+violation of this Section will be void and will be given no effect by the 
+Company or any other Employer.
+
+-20-
+
+------------------------------------------------------------------------
+
+
+ 
+
+     (c) Termination of Employment: Neither this Plan nor any action taken 
+under this Plan will be construed as giving any Grantee any right to be 
+retained in the employ of any Employer, and the right to dismiss any 
+Grantee at any time with or without cause is specifically reserved to each 
+Employer, subject to the provisions of any employment agreement between the 
+Grantee and the Employer.
+
+     (d) Authority to Interpret this Plan: The Committee will have the 
+authority to administer and interpret the provisions of this Plan and to 
+establish rules and procedures for the administration of the Plan, and the 
+Committees determination will be binding and conclusive on all parties. 
+All interpretations, decisions and determinations required or permitted to 
+be made or taken by the Committee will be made or taken by the Committee in 
+its discretion. All interpretations, decisions and determinations taken by 
+the Committee which are not inconsistent with the terms of this Plan will 
+be final, binding and conclusive on the Employers, Grantees, Beneficiaries 
+and all other Persons having dealings with this Plan.
+
+     (e) Compliance With Code Section 409A: This Plan is intended to comply 
+in all respects with the provisions of Code Section 409A, any regulations 
+promulgated under Code Section 409A, and any final guidance issued by the 
+Internal Revenue Service relating to Code Section 409A and shall be 
+operated and interpreted in a manner consistent therewith.
+
+     (f) Effect of this Plan: This Plan will be binding upon and inure to 
+the benefit of the Employers, their successors, the Grantees and the 
+Beneficiaries.
+
+     (g) Applicable Law: This Plan will be construed in accordance with and 
+governed by the laws of the State of Delaware, without regard to principles 
+of conflicts of laws.
+
+     (h) Counterparts: This Plan may be executed in any number of 
+counterparts, each of which will be deemed to be an original instrument, 
+but all of which taken together will constitute but one instrument.
+
+     (i) Complete Agreement: This Plan, along with any Grant Agreement 
+entered into with a Grantee, will constitute the entire understanding and 
+agreement between the Company and such Grantee with respect to the subject 
+matter hereof. The provisions of this Plan will govern in the event of any 
+inconsistency between any Grant Agreement and this Plan, unless otherwise 
+determined by the Committee.
+
+     (j) Waiver of Breach: The waiver by the Company of a breach or 
+violation of any provision of this Plan will not operate as, or be 
+construed to be, a waiver of any subsequent breach of the same or the 
+provisions hereof.
+
+     (k) Severability: If any provision of this Plan, or the application of 
+such provision to any Person or circumstance, is found by any court of 
+competent jurisdiction to be unenforceable for any reason, such provision 
+may be modified or severed from this Plan to the extent necessary to make 
+such provision enforceable against such Person or in such circumstance. 
+Neither the unenforceability of such provision nor the modification or 
+severance of such provision will affect (i) the enforceability of any other 
+provision of this Plan or (ii) the
+
+-21-
+
+------------------------------------------------------------------------
+
+
+ 
+
+enforceability of such provision against any Person or in any circumstance 
+other than those against or in which such provision is found to be 
+unenforceable.
+
+     (l) Headings: The headings of the Sections of this Plan are solely for 
+convenience and reference and will not limit or otherwise affect the 
+meaning of any of the terms or provisions of this Plan.
+
+     (m) Terms: Terms used with initial capital letters will have the 
+meanings specified, applicable to both singular and plural forms, for all 
+purposes of this Plan. All pronouns (and any variation) will be deemed to 
+refer to the masculine, feminine or neuter, as the identity of the Person 
+may require. The singular or plural includes the other, as the context 
+requires or permits. The word include (and any variation) is used in an 
+illustrative sense rather than a limiting sense. The word day means a 
+calendar day, unless otherwise indicated.
+
+     (n) Notices: All notices and other communications delivered pursuant 
+to this Plan will be in writing and will be deemed to have been duly given 
+to a party when delivered in person to such party (or, in the case of a 
+corporate party, to the General Counsel thereof), or when delivered prepaid 
+by recognized overnight courier (as reflected in the records of such 
+courier), on the date sent by facsimile (with receipt confirmed), or three 
+business days after such notice is enclosed in a properly sealed envelope, 
+certified or registered, and deposited (postage and certification or 
+registration prepaid) in a post office or collection facility regularly 
+maintained by the United States Postal Service and sent to the address set 
+forth below:
+
+          (i) If to the Company, to its primary office marked Attention: 
+General Counsel.
+
+          (ii) If to a Grantee, to the address maintained for such Grantee 
+on the books and records of the Employer of such Grantee.
+
+          (iii) Any person may change the address(es) to which notices are 
+required to be sent by giving notice of such changes in the manner provided 
+in this Section; provided that such notice will not be effective until 
+actual receipt by the addressee.
+
+     IN WITNESS WHEREOF, this Plan is approved and executed by the 
+individual authorized by the Company.
+  	  	  	  	  	  	 
+  	  	ASCENT MEDIA GROUP, LLC 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	  	  	  	  	 
+ 
+  	  	  	  	  	 
+ 
+  	Title: 	  	  	  	 
+ 
+  	  	  	  	  	 
+ 
+  	  	  	  	  	 
+ 
+  	Date: 	  	  	  	 
+ 
+  	  	  	  	  	 
+
+-22-
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+SCHEDULE I
+
+Major Assumptions for Determining
+NS Contracted EBITDA, NS Contracted Free Cash Flow and DCF Component
+
+Part 1  Assumptions for Calculation of NS Contracted EBITDA:
+
+  	1. 	  	Includes all playout and distribution contracts with terms 
+greater than 1 year and annual revenues greater than $100K
+ 
+  	2. 	  	Capex for qualifying contracts is assumed to be approved and 
+incurred in the same year
+ 
+  	3. 	  	If management believes there is a reasonable likelihood the 
+contract will be renewed, the contract is included in the renewal 
+category
+ 
+  	4. 	  	Renewals are treated as follows:
+
+  	(a) 	  	All contracts in the renewal category have two renewals
+ 
+  	(b) 	  	All renewals are for the same term as the current deal
+ 
+  	(c) 	  	A revenue escalator of 3% is used for each renewal with margins 
+staying flat, with the revenue escalator applied against the new revenue 
+rate of the renewed contract
+ 
+  	(d) 	  	For all contracts other than large Capex projects:
+
+  	(i) 	  	Capex for contract renewals is the same as for the original, 
+underlying contract (except for large Capex projects, such as A&E, 
+Discovery UK and Discovery Asia)
+ 
+  	(ii) 	  	All first renewals (other than large Capex projects such as 
+A&E, Discovery UK and Discovery Asia), are calculated using 80% of the 
+revenue, EBITDA and Capex amounts calculated pursuant to items 4(c) and 
+4(d)(i) above on a year by year basis
+ 
+  	(iii) 	  	All second renewals of contracts (other than large Capex 
+projects such as A&E, Discovery UK and Discovery Asia), are calculated 
+using 50% of the revenue, EBITDA and Capex amounts calculated pursuant to 
+items 4(c) and 4(d)(i) above on a year by year basis
+
+  	(e) 	  	For large Capex projects (such as A&E, Discovery UK and 
+Discovery Asia):
+
+  	(i) 	  	Capex for contract renewals on large Capex projects (such as 
+A&E, Discovery UK and Discovery Asia) is estimated to be an amount equal to 
+50% of the Capex under the original contract
+ 
+  	(ii) 	  	Revenue and EBITDA for contract renewals on large Capex 
+projects (such as A&E, Discovery UK and Discovery Asia) is calculated 
+assuming the same IRRs as the original deal with 50% of the Capex
+
+-23-
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+SCHEDULE I
+(contd)
+
+Major Assumptions for Determining
+
+NS Contracted EBITDA, NS Contracted Free Cash Flow and DCF Component
+
+Part 2  Assumptions for Calculation of NS Contracted Free Cash Flow:
+
+  	1. 	  	Revenue, EBITDA and Capex from above contracts is adjusted to 
+deduct for Overhead
+ 
+  	2. 	  	Overhead is defined as: Content overhead, Network 
+administration and Corporate overhead
+ 
+  	3. 	  	Content overhead is 17% of contractual revenues, or the 
+appropriate prorata share at the time of calculation.
+ 
+  	4. 	  	Network administration is contractual revenues as a percentage 
+of total network revenues multiplied by the Network admin budget
+ 
+  	5. 	  	Corporate overhead is contractual revenues as a percentage of 
+total Ascent Media Group revenues multiplied by the worldwide corporate 
+budgeted expenses
+ 
+  	6. 	  	NPV calculation extends through end of all second renewals
+ 
+  	7. 	  	Discount rate is 10%
+ 
+  	8. 	  	All overhead (content, network and corporate) are fixed as a 
+percentage of contractual revenues in base year and continued over the NPV 
+term
+
+-24-
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+EXHIBIT A
+
+PAR GRANT AGREEMENT
+
+     This PAR Grant Agreement (this Agreement) is made and entered into 
+between Ascent Media Group, LLC, a Delaware corporation (the Company), 
+and ___(Grantee) as of this ___ day of ___200_.
+
+1. Definitions. All capitalized terms not otherwise defined in this 
+Agreement will have the meanings given such terms in the Ascent Media 
+Group, LLC 2006 Long-Term Incentive Plan (As Amended and Restated Effective 
+August ___, 2008 (the Plan), a copy of which is attached hereto as 
+Exhibit I and is by this reference made a part hereof.
+
+2. Grant of PARs. The Grantee is hereby granted ___PARs under the Plan. 
+This Grant is conditioned upon the Grantees acceptance of all of the terms 
+and conditions of the Plan. The grant, vesting, exercise and all other 
+matters affecting or otherwise relevant to such PARs will be governed by 
+the Plan, and the Grantee agrees that the Grantee will be bound by all of 
+the terms and conditions of the Plan (including the non-competition, 
+confidentiality and non-solicitation provisions of Section 2 of the Plan).
+
+3. Grant Date. The Grant Date of the PARs granted under this Agreement is 
+___, 200_.
+
+4. Grant Value. The Grant Value of each PAR granted under this Agreement is 
+$___.
+
+5. Vesting. The Grantee will become vested in the PARs granted above in 
+accordance with the provisions of Section 4(b)(i) of the Plan.
+
+6. [Optional Section to be customized for application to each Grantee: 
+Application of Forfeiture Provisions for Misconduct. The Grantee is a 
+Grantee whose PARs will be subject to the Forfeiture for Misconduct 
+provisions set forth in this Section. If (i) a material restatement of any 
+consolidated financial statement of DHC and its consolidated subsidiaries 
+(including the Company) is required and, in the reasonable judgment of the 
+Committee, (A) such restatement is due to material noncompliance with any 
+financial reporting requirement under applicable securities laws, and (B) 
+such noncompliance is a result of misconduct by or on the part of the 
+Grantee; or (ii) in the reasonable judgment of the Committee, the Plan 
+Value as of any Valuation Date or Material Disposition Valuation Date is 
+higher than would have been the case had one or more facts or circumstances 
+been disclosed to the Committee (Overstated Plan Value) and the omission 
+of such disclosure is a result of misconduct by or on the part of the 
+Grantee, the Grantee will repay to the Company Forfeitable Benefits 
+received by the Grantee in such amount as the Committee may reasonably 
+determine, taking into account any factors deemed relevant by the 
+Committee. Forfeitable Benefits means any and all cash and/or shares 
+received by the Grantee (i) upon the deemed exercise during the 
+Misstatement Period of any PARs held by the Grantee, or (ii) upon the 
+deemed exercise of any PARs held by the Grantee if the PAR Value of such 
+PARs was determined using the Overstated Plan Value. Misstatement Period 
+means the
+
+-1-
+
+------------------------------------------------------------------------
+
+
+ 
+
+12-month period beginning on the date of the first public issuance or the 
+filing with the Securities and Exchange Commission, whichever occurs 
+earlier, of the financial statement requiring restatement. Additional 
+modifications: ___.]
+
+7. Beneficiary Designation. In the event of the death of the Grantee, the 
+Grantee designates the Person or Persons named on Exhibit II as his or her 
+Beneficiary. The Grantee may change his or her Beneficiary designation only 
+by giving written notice of such change to the Company in accordance with 
+the terms of the Plan.
+
+8. Grantee Representations. The Grantee represents as follows:
+
+     a. The Grantee has such knowledge and experience in financial and 
+business matters that the Grantee is capable of evaluating the merits of 
+entering into this Agreement.
+
+     b. The Grantee has been provided a copy of the Plan, has had the 
+opportunity to review the Plan and ask the Company and the Company 
+questions regarding the Plan, understands that the grant of PARs under this 
+Agreement is subject to the terms of the Plan, and understands the terms of 
+the Plan, including the provisions relating to the grant, vesting, 
+exercise, expiration, cancellation and forfeiture of PARs.
+
+     c. By virtue of the Grantees position with the Company or based on 
+information furnished by the Company or the Grantee is familiar with the 
+business, earnings, condition, properties and business prospects of the 
+Company and the Employers.
+
+     d. The Grantee understands and acknowledges that (i) the obligations 
+of the Company under this Agreement are not funded in any way, and that the 
+Grantee will have rights only of a general creditor based solely on the 
+Companys unfunded and unsecured promise to make payments under and in 
+accordance with the Plan; (ii) because this Plan does not involve an equity 
+investment in the Company or the Employers, the Grantee has a right to 
+benefit from further appreciation in the Company without risking any 
+capital and without the risk of a beneficial owner that the value of the 
+Company may decline substantially; and (iii) the grant of PARs under this 
+Agreement is not an assurance of continued employment by the Company or any 
+Employer.
+
+     e. The Grantee understands that the Company is entering into this 
+Agreement in reliance on the agreements, representations and 
+acknowledgments of the Grantee set forth in this Agreement.
+
+     f. The representations of the Grantee set forth in this Section will 
+survive the expiration of this Agreement.
+
+9. Arbitration. If any controversy, claim or dispute arises out of or in 
+any way relates to the Plan or this Agreement, the alleged breach thereof 
+or the Grantees employment with the Company or any Employer or termination 
+therefrom, including without limitation, any and all claims for employment 
+discrimination or harassment, civil tort and any other employment laws, 
+excepting only claims which may not, by statute, be arbitrated, each of the 
+Company (and its directors, officers, employees or agents) and Grantee 
+agree to submit any such dispute
+
+-2-
+
+------------------------------------------------------------------------
+
+
+ 
+
+exclusively to binding arbitration. Each of the Company and Grantee 
+acknowledge that they are relinquishing their right to a jury trial in 
+civil court. The parties agree that arbitration is the exclusive remedy for 
+all disputes arising out of or related to the Grantees employment with the 
+Company or any other Employer. The arbitration shall be administered by 
+JAMS in accordance with the Employment Arbitration Rules & Procedures of 
+JAMS then in effect and subject to JAMS Policy on Employment Arbitration 
+Minimum Standards. Arbitration shall be commenced and heard in Los Angeles 
+County, California or in the city in which the Grantee was last employed by 
+the Company or any other Employer, if such city is not in Los Angeles 
+County. Only one arbitrator shall preside over the proceedings. The 
+arbitrator shall apply the substantive law (and the law of remedies, if 
+applicable) of Delaware or federal law, or both, as applicable to the 
+claim(s) asserted. In any arbitration, the burden of proof shall be 
+allocated as provided by applicable law. The arbitrator shall have the 
+authority to award any and all legal and equitable relief authorized by the 
+law applicable to the claim(s) being asserted in the arbitration, as if the 
+claim(s) were brought in a court of law. Either party may bring an action 
+in court to compel arbitration under this Agreement and to enforce an 
+arbitration award. Discovery, such as depositions or document requests, 
+shall be available to the Company and the Grantee as though the dispute 
+were pending in California state court. The arbitrator shall have the 
+ability to rule on pre-hearing motions, as though the matter were in a 
+California state court, including the ability to rule on a motion for 
+summary judgment. The fees of the arbitrator and any other fees for the 
+administration of the arbitration that normally would not be incurred if 
+the action were brought in a court of law (e.g., filing fees in excess of 
+$150, room rental fees, etc.) shall be paid by the Company. The arbitrator 
+must provide a written decision which is subject to limited judicial review 
+consistent with applicable law. If any part of this arbitration provision 
+is deemed to be unenforceable by an arbitrator or a court of law, that part 
+may be severed or reformed so as to make the balance of this arbitration 
+provision enforceable.
+
+10. Miscellaneous.
+
+     a. This Agreement will be construed in accordance with and governed by 
+the laws of the State of Delaware, without regard to principles of 
+conflicts of laws.
+
+     b. This Agreement may be executed in any number of counterparts, each 
+of which will be deemed to be an original instrument, but all of which 
+taken together will constitute but one instrument.
+
+     c. This Agreement, along with the Plan, will constitute the entire 
+understanding and agreement between the Company and the Grantee with 
+respect to the subject matter hereof. The provisions of the Plan will 
+govern in the event of any inconsistency between this Agreement and the 
+Plan, unless otherwise determined by the Committee.
+
+     d. If any provision of this Agreement, or the application of such 
+provision to any Person or circumstance, is found by a court of competent 
+jurisdiction to be unenforceable for any reason, such provision may be 
+modified or severed from this Agreement to the extent necessary to make 
+such provision enforceable against such Person or in such circumstance. 
+Neither the unenforceability of such provision nor the modification or 
+severance of such provision will affect (i) the enforceability of any other 
+provision of this Agreement or (ii) the enforceability of such
+
+-3-
+
+------------------------------------------------------------------------
+
+
+ 
+
+provision against any Person or in any circumstance other than those 
+against or in which such provision is found to be unenforceable.
+
+     The Company and the Grantee have executed this Agreement as of the 
+date first above written.
+  	  	  	  	  	  	 
+  	  	ASCENT MEDIA GROUP, LLC 	  	 
+ 
+  	  	  	  	  	 
+ 
+  	By: 	  	  	  	 
+ 
+  	  	  	  	  	 
+ 
+  	Title: 	  	  	  	 
+ 
+  	  	  	  	  	 
+ 
+  	  	  	  	  	 
+  	  	GRANTEE 	  	 
+ 
+  	  	  	  	  	 
+  	  	  	  	 
+
+-4-
+
+------------------------------------------------------------------------
+
+
+ 
+
+
+Exhibit II
+
+BENEFICIARY DESIGNATION
+FOR
+THE ASCENT MEDIA GROUP, LLC 2006 LONG TERM INCENTIVE PLAN
+(As Amended and Restated Effective as of August ___, 2008)
+
+INSTRUCTIONS: Complete the following table with information about your 
+principal Beneficiary and your contingent (secondary) beneficiaries for 
+your interest under the Ascent Media Group, LLC 2006 Long Term Incentive 
+Plan (As Amended and Restated Effective as of August ___, 2008) (the 
+Plan). This Beneficiary designation will apply to your entire vested 
+interest in the Plan as of your date of death.
+
+Primary Beneficiary:
+
+   Name:
+  	
+ 
+   Address:
+  	
+ 
+   Telephone Number:
+  	
+ 
+   Social Security Number:
+  	
+ 
+   Relationship to Grantee:
+  	
+ 
+
+Secondary Beneficiary: (Applicable if Primary Beneficiary predeceases the 
+Grantee)
+
+   Name:
+  	
+ 
+   Address:
+  	
+ 
+   Telephone Number:
+  	
+ 
+   Social Security Number:
+  	
+ 
+   Relationship to Grantee:
+  	
+ 
+
+This designation may be changed or revoked by you at any time. A 
+Beneficiary designation, change, or revocation is effective upon receipt by 
+the Committee. Payment will be made to a Beneficiary only if such 
+Beneficiary survives the Grantee.
+  	  	  	  	 
+ 
+  	  	  	 
+ 
+  	  	  	 
+Date
+  	  	  	Grantees Signature
+
+
+ THE ELECTIONS MADE UNDER THIS FORM ARE NOT EFFECTIVE UNTIL
+RECEIVED BY THE COMMITTEE 
+
+ 
